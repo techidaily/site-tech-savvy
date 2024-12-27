@@ -1,7 +1,7 @@
 ---
 title: "Intelligent Storage: Enhancing ChatGPT Engagement with Directories"
-date: 2024-12-17T22:32:24.592Z
-updated: 2024-12-22T04:23:38.035Z
+date: 2024-12-26T16:10:43.340Z
+updated: 2024-12-27T20:23:38.475Z
 tags:
   - chatgpt
   - open-ai
@@ -30,11 +30,19 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use ChatGPT Folders to Organize Your ChatGPT Conversations
 
  Let's face it; the ChatGPT conversation history isn't the chatbot's strongest feature. Having the list of prior conversations is handy, but without a way to manage it properly, it's not up to scratch.
 
  The [ChatGPT Folders](https://chrome.google.com/webstore/detail/chatgpt-folders-organize/hkabkcpdocmhidhbgfcpbadafacnekkl) Chrome extension addresses this problem directly, adding support for folders, subfolders, pinning, bulk conversation deletion, and the option to [share your ChatGPT conversations](https://www.makeuseof.com/apps-extensions-export-share-chatgpt-history/). Now, I imagine OpenAI will add all of these features to ChatGPT in the future ([ChatGPT link sharing is already enabled](https://www.makeuseof.com/share-chatgpt-chats-links/)). But the future isn't now, and ChatGPT Folders is delivering the goods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Download and Install ChatGPT Folders
 
@@ -49,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 ![adding chatgpt conversations to folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adding-chatgpt-conversations-to-folder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. From the top bar, select **New Folder**. Give it a name.
@@ -59,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 4. Select your folder. It will open using the same tree structure, where you'll find your grouped conversations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. **Optional**: Inside your new folder, select the **New Folder** button once more to create a subfolder. Use the same steps as before to transfer ChatGPT conversations to the subfolder.
@@ -67,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 ![chatgpt folders with nested conversations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-folders-with-nested-conversations.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. How to Delete a Folder and Reset Your Conversations
@@ -80,15 +88,7 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 
 ![chatgpt folders reset conversations and folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-folders-reset-conversations-and-folders.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Select the three-line button at the top of the ChatGPT history, then **Reset folders and conversations**. Doing so will remove all of the ChatGPT Folders you've created and return your ChatGPT conversations to their original state. Note that this isn't the same as [deleting your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are ChatGPT Folders the ChatGPT Future?
 
@@ -125,24 +125,20 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-open-source-fb-songs-downloader/"><u>[Updated] 2024 Approved Open Source FB Songs Downloader</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unlock-the-magic-crafting-impactful-photos-for-insta-cover-highlights-for-2024/"><u>[Updated] Unlock the Magic Crafting Impactful Photos for Insta Cover Highlights for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-lg-virtual-reality-breakthrough-an-in-depth-analysis/"><u>2024 Approved LG Virtual Reality Breakthrough An In-Depth Analysis</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-comedy-craft-journey-from-portable-computers-to-secure-internet-connections/"><u>AI's Comedy Craft: Journey From Portable Computers to Secure Internet Connections</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embracing-ai-codings-new-horizon/"><u>Embracing AI: Coding's New Horizon</u></a></li>
-<li><a href="https://solve-info.techidaily.com/fixing-broken-system-drivers-on-windows-pcs-with-yl-computings-easy-methods/"><u>Fixing Broken System Drivers on Windows PCs with YL Computing's Easy Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/four-easy-steps-to-experience-free-gpt-4-capabilities/"><u>Four Easy Steps to Experience Free GPT-4 Capabilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-zero-to-hero-understanding-five-key-drivers-of-chatgpt/"><u>From Zero to Hero: Understanding Five Key Drivers of ChatGPT</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-capturing-stills-in-time-a-guide-to-slow-motion-on-ig/"><u>In 2024, Capturing Stills in Time A Guide to Slow Motion on IG</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-efficient-video-management-how-to-include-content-in-youtube-playlists/"><u>In 2024, Efficient Video Management How to Include Content in YouTube Playlists</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-the-future-unfurled-an-insight-into-benq-sw320s-4k-display/"><u>In 2024, The Future Unfurled An Insight Into BenQ SW320's 4K Display</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-look-gpt4alls-intricate-process/"><u>Inside Look: GPT4All's Intricate Process</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-wondering-how-to-edit-a-video-to-slow-motion-on-iphone-and-android-devices-find-out-how-to-use-wondershare-filmora-to-create-and-edit-slo-/"><u>New 2024 Approved Wondering How to Edit a Video to Slow Motion on iPhone and Android Devices? Find Out How to Use Wondershare Filmora to Create and Edit Slo Mo Videos in a Few Clicks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/programmatic-power-of-python-for-gpt-3/"><u>Programmatic Power of Python for GPT-3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-fix-list-for-6-prevalent-chatgpt-issues/"><u>The Ultimate Fix List for 6 Prevalent ChatGPT Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-replies-with-ai-merging-gpt-3-and-whatsapp-help/"><u>Transforming Replies with AI: Merging GPT-3 and WhatsApp Help</u></a></li>
-<li><a href="https://win-web.techidaily.com/understanding-the-purpose-of-formatting-your-sd-card-what-you-need-to-know/"><u>Understanding the Purpose of Formatting Your SD Card: What You Need to Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upholding-confidentiality-amidst-custom-gpt-innovations/"><u>Upholding Confidentiality Amidst Custom GPT Innovations</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-mastering-the-art-of-trailer-sound-design/"><u>[New] Mastering the Art of Trailer Sound Design</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-top-mac-studio-with-state-of-the-art-screen-and-voice-logging/"><u>[Updated] In 2024, Top Mac Studio with State-of-the-Art Screen and Voice Logging</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlock-free-youtube-gallery-downloads-now-for-2024/"><u>[Updated] Unlock Free YouTube Gallery Downloads Now for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-creativity-the-best-ai-text-synthesizers/"><u>Boost Creativity: The Best AI Text Synthesizers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-frontier-gpt-vs-bings-ai-communicators/"><u>Exploring the Frontier: GPT Vs. Bing's AI Communicators</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-honor-90-by-fonelab-android-recover-video/"><u>How to recover old videos from your Honor 90</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-uninstall-audiobook-files-on-your-iphone-three-simple-strategies/"><u>How To Uninstall Audiobook Files on Your iPhone: Three Simple Strategies</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-13-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 13 How to Bypass?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/language-league-up-which-translator-takes-the-prize/"><u>Language League-Up: Which Translator Takes the Prize?</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/navigating-the-aftermath-how-googles-legal-setback-shapes-your-online-discovery-journey/"><u>Navigating the Aftermath: How Google's Legal Setback Shapes Your Online Discovery Journey</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/parameters-to-ponder-choosing-chatgpt-for-counseling-purposes/"><u>Parameters to Ponder: Choosing ChatGPT for Counseling Purposes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/see-all-around-the-ultimate-guide-to-11-bridging-cams-for-2024/"><u>See All Around The Ultimate Guide to #11 Bridging Cams for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stepping-into-the-arena-of-interactive-design/"><u>Stepping Into the Arena of Interactive Design</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-5-primary-reasons-enterprises-limit-chatgpt-access/"><u>The 5 Primary Reasons Enterprises Limit ChatGPT Access</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-sparked-italys-instantaneous-chatgpt-prohibition/"><u>What Sparked Italy's Instantaneous ChatGPT Prohibition?</u></a></li>
 </ul></div>
 

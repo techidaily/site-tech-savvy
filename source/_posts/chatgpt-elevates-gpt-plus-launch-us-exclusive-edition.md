@@ -1,0 +1,110 @@
+---
+title: "ChatGPT Elevates: GPT-Plus Launch US-Exclusive Edition"
+date: 2024-12-24T17:13:58.418Z
+updated: 2024-12-27T16:11:08.068Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes ChatGPT Elevates: GPT-Plus Launch US-Exclusive Edition"
+excerpt: "This Article Describes ChatGPT Elevates: GPT-Plus Launch US-Exclusive Edition"
+thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554cd872de0aa746e8545edfc3c.jpg
+---
+
+## ChatGPT Elevates: GPT-Plus Launch US-Exclusive Edition
+
+ OpenAI is rolling out a premium tier for its ChatGPT service, as has been speculated since its boom in popularity.
+
+ **MUO VIDEO OF THE DAY**
+
+ **SCROLL TO CONTINUE WITH CONTENT**
+
+ The new ChatGPT Plus pilot plan went live on February 1st, 2023, and is only available to US residents at the time of writing.
+
+ However, the new premium ChatGPT tier doesn't spell the end of the free version of ChatGPT, which OpenAI will keep up and running alongside the paid version.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## OpenAI Launches Its Pilot Subscription Plan for ChatGPT
+
+ A paid-for,[premium version of ChatGPT was inevitable](https://www.makeuseof.com/why-paid-chatgpt-professional-is-inevitable/) . In January 2023, OpenAI revealed it was working on ChatGPT Professional, a premium version of its AI tool aimed at businesses and other organizations.
+
+ Now, OpenAI has revealed [ChatGPT Plus](https://openai.com/blog/chatgpt-plus/) , its new subscription plan that will cost $20/month.
+
+ Subscribing to ChatGPT comes with a few key benefits, according to OpenAI, including:
+
+* Faster ChatGPT access, even during peak periods
+* Faster ChatGPT response times
+* Priority access to new ChatGPT features and improvements
+
+ At the time of writing, ChatGPT Plus is only available for US residents, and if you want to use it, you'll have to use the [ChatGPT Plus Waitlist](https://docs.google.com/forms/d/e/1FAIpQLScee6ST3o-kZDjlw1ROfUNyjuRBwGdcoewxjCULNejbP5hdzQ/viewform) to register your interest.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## OpenAI Confirms Its Free ChatGPT Tier Will Remain
+
+ ChatGPT has been a roaring success for OpenAI, and there are [heaps of things you can do with its AI-powered tool](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) .
+
+ Currently, ChatGPT is free—and the good news is that OpenAI is keeping it that way. Indeed, the new subscription tier will enable OpenAI to keep the free ChatGPT option available.
+
+> We love our free users and will continue to offer free access to ChatGPT. By offering this subscription pricing, we will be able to help support free access availability to as many people as possible.
+
+ Whether the introduction of the ChatGPT Plus subscription tier results in a downgraded service for free users remains to be seen, but in theory, offering high-demand users the option to move to a premium tier with better service will free up the free service for more occasional users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## OpenAI Will Launch Additional Premium ChatGPT Options in the Future
+
+ A subscription ChatGPT tier was always on the cards, and it seems OpenAI is also considering additional plans in the future.
+
+> We are actively exploring options for lower-cost plans, business plans, and data packs for more availability
+
+ Given the popularity of ChatGPT and the numerous ways the tool is being used and integrated into other services, it's no wonder OpenAI is exploring every monetization avenue possible.
+
+ For now, US residents can sign up for the ChatGPT Plus waitlist for a chance to use the premium tier, while the rest of the world will have to wait patiently.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-the-enigma-of-stardew-valley-unearthed-on-ginger-island/"><u>[New] The Enigma of Stardew Valley, Unearthed on Ginger Island</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-closer-insight-in-roblox-games/"><u>[New] The Ultimate Guide to Closer Insight in Roblox Games</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-hands-on-tactics-for-recording-and-storing-google-voice-talks-for-2024/"><u>[Updated] Hands-On Tactics for Recording and Storing Google Voice Talks for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-elite-8-virtual-handhelds-overview/"><u>[Updated] In 2024, The Elite 8 Virtual Handhelds Overview</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-maximizing-iphones-capabilities-for-stunning-landscape-pics/"><u>[Updated] Maximizing iPhone's Capabilities for Stunning Landscape Pics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-reveals-how-deleted-images-return-with-ios-175-update-and-next-steps-explained-zdnet/"><u>Apple Reveals How Deleted Images Return with iOS 17.5 Update & Next Steps Explained | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-the-gap-between-web-and-ai-with-agentgpt/"><u>Bridging the Gap Between Web & AI – With AgentGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-ai-slang-keywords-everyone-should-know/"><u>Demystifying AI Slang: Keywords Everyone Should Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-enhancing-group-conferences-with-chatgpt/"><u>Leveraging AI: Enhancing Group Conferences with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/privacy-in-digital-dialogues-top-3-bot-safety-risks/"><u>Privacy in Digital Dialogues: Top 3 Bot Safety Risks</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/professionele-formatierte-particienten-creatie-in-windows-11-8-7-de-veilige-weg/"><u>Professionele Formatierte Particiënten Creatie in Windows 11, 8, 7 - De Veilige Weg</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-prevent-unrecoverable-roblox-problems/"><u>Strategies to Prevent Unrecoverable Roblox Problems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tutorial-how-to-post-and-broadcast-videos-on-microsoft-teams-with-windows-11/"><u>Tutorial: How to Post and Broadcast Videos on Microsoft Teams with Windows 11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-to-retrieving-accidentally-erased-iphone-photographs-software-wise/"><u>Ultimate Guide to Retrieving Accidentally Erased iPhone Photographs Software-Wise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncover-the-truth-can-i-tell-if-my-airtag-is-monitoring-me/"><u>Uncover the Truth: Can I Tell If My AirTag Is Monitoring Me?</u></a></li>
+</ul></div>
+

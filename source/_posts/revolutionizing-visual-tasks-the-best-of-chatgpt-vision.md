@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Visual Tasks: The Best of ChatGPT Vision"
-date: 2024-12-21T02:24:58.114Z
-updated: 2024-12-22T00:55:43.259Z
+date: 2024-12-21T17:58:51.836Z
+updated: 2024-12-27T17:57:08.210Z
 tags:
   - chatgpt
   - open-ai
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is ChatGPT Vision?
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
  On the other hand, if you're just looking for a textual description of an image when you just can't formulate your thoughts into words, asking for a detailed description is a great way to use the new Vision feature in ChatGPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Recognizing Fictional Characters
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
  There's a catch, though—it will deny any requests you may have of extracting information about a real person. It still works in recognizing characters from live-action movies and TV series, but ChatGPT Vision draws a bold line beyond that when it's associated with the identity of a real human being.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Converting Wireframes to Code
@@ -71,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
  Easily one of the best uses of modern-day AI tools is the fact that everyone has been using them to fill in knowledge gaps and learn new things. If you're a developer, designer, or just someone learning their ropes around web development, ChatGPT is a great resource to use on your journey.
 
  With the Vision feature, you can ease the learning curve even further by simply uploading a picture of a wireframe or UI design and seeking ChatGPT for help with the actual code. Outside generating front-end code using wireframes, there are plenty of other ways you can [use ChatGPT for programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Translating Handwritten Text
 
@@ -85,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 ## 5\. Explaining Infographics
 
 ![ChatGPT Vision explaining an infograph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-vision-uses-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Particularly useful for students and teachers, you can get detailed explanations out of infographics such as pie or bar charts in a matter of seconds.
 
@@ -100,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 
 ![ChatGPT Vision providing constructive criticism of a photograph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-vision-uses-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  At a time when almost anybody can [create art using AI](https://www.makeuseof.com/ai-text-to-art-generators/), constructive criticism is what every true photographer and artist strives for, and although ChatGPT lacks the human touch, it may yield some very useful feedback.
 
  You can gain valuable insight in regard to composition, framing, colors, and overall style if you structure your prompt the right way. You can even go creative and upload a photo of a half-finished painting and ask ChatGPT for ideas.
@@ -113,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
  In case you're tired of figuring out what to cook for your next meal, try uploading a picture of the available ingredients on your shelf to get a few recommendations from ChatGPT.
 
  This can also work the other way around, where you upload a photo of a tasty dish you're eating at a restaurant and get a detailed recipe for it within a few seconds. Swiftly snapping a picture of a menu and asking ChatGPT Vision for information about the dishes can be useful if you have certain dietary restrictions too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Peek Into New Possibilities With ChatGPT Vision
 
@@ -141,20 +141,18 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-urban-uprising-video-game-list-like-gta-v/"><u>[New] In 2024, Urban Uprising Video Game List Like GTA V</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-best-4k-laptops-ultimate-gaming-edition/"><u>[Updated] Best 4K Laptops - Ultimate Gaming Edition</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-creative-collage-companions-the-top-8-smartphone-apps-for-2024/"><u>[Updated] Creative Collage Companions The Top 8 Smartphone Apps for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-tips-and-tricks-for-professional-minecraft-videos-for-2024/"><u>[Updated] Tips and Tricks for Professional Minecraft Videos for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-enhance-your-streaming-learn-the-ultimate-guide-to-watching-hevc-h265-videos-on-android-devices/"><u>1. 'Enhance Your Streaming: Learn the Ultimate Guide to Watching HEVC H.265 Videos on Android Devices'</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ace-your-queries-transformative-power-of-perplexity-ai/"><u>Ace Your Queries: Transformative Power of Perplexity AI</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-oneplus-ace-2-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General OnePlus Ace 2 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/beyond-hd-the-exceptional-experience-with-hp-envy-27-for-2024/"><u>Beyond HD - The Exceptional Experience with HP Envy 27 for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bringing-voice-to-mobile-androids-chatgpt-revolution/"><u>Bringing Voice to Mobile: Android's ChatGPT Revolution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/emoji-free-tweet-space-linuss-revelations-shared-trojans-analyzed-and-chatgpt-critique/"><u>Emoji-Free Tweet Space, Linus's Revelations Shared, Trojans Analyzed, & ChatGPT Critique.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/foremost-20-github-sourced-chatgpt-conversation-ideas/"><u>Foremost 20 Github-Sourced ChatGPT Conversation Ideas</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-pick-extensive-digital-vaults/"><u>In 2024, Prime Pick Extensive Digital Vaults</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-dialogue-via-android-widget/"><u>Leveraging ChatGPT Dialogue via Android Widget</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/securing-chatgpt-does-it-need-improvement/"><u>Securing ChatGPT: Does It Need Improvement?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-file-management-auto-empty-feature-for-windows-users/"><u>Streamlining File Management: Auto-Empty Feature for Windows Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-sending-streaming-content-linking-fb-vids-and-whatsapp-messages/"><u>[Updated] Sending Streaming Content Linking FB Vids & WhatsApp Messages</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-first-steps-in-digital-content-top-10-easy-to-make-youtube-projects/"><u>2024 Approved First Steps in Digital Content Top 10 Easy-to-Make YouTube Projects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-taming-unwanted-shake-in-drones-visual-outputs/"><u>2024 Approved Taming Unwanted Shake in Drones' Visual Outputs</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-windows-11-to-monitor-kids-internet-use/"><u>Configuring Windows 11 to Monitor Kids' Internet Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/defend-your-digital-assets-how-to-shield-your-site-from-ai-powered-scrapers/"><u>Defend Your Digital Assets: How to Shield Your Site From AI-Powered Scrapers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-components-of-a-digital-twin-strategy-for-business-success-integrating-ai-insights-zdnet/"><u>Essential Components of a Digital Twin Strategy for Business Success: Integrating AI Insights | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-digital-twin-components-integrating-ai-for-enhanced-business-strategies-zdnet/"><u>Essential Digital Twin Components: Integrating AI for Enhanced Business Strategies | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-metas-latest-breakthrough-an-advanced-ai-capable-of-recognizing-objects-within-photos-significance-unveiled-techinsight/"><u>Exploring Meta’s Latest Breakthrough: An Advanced AI Capable of Recognizing Objects Within Photos - Significance Unveiled | TechInsight</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-issues-with-intel-optane-storage-easy-driver-download-and-update-tips-for-windows-users/"><u>Fixing Issues with Intel Optane Storage: Easy Driver Download & Update Tips for Windows Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-telecommuting-with-virtual-reality-and-digital-twin-technology-in-engineering-roles-insights-from-zdnet/"><u>Revolutionizing Telecommuting with Virtual Reality & Digital Twin Technology in Engineering Roles - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secrets-unveiled-mastering-your-apple-vision-pro-purchase-with-expert-facial-scanning-techniques/"><u>Secrets Unveiled: Mastering Your Apple Vision Pro Purchase with Expert Facial Scanning Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/windows-recovery-hacked-how-to-make-your-system-immediately-launch-into-safety-first-mode/"><u>Windows Recovery Hacked: How to Make Your System Immediately Launch Into Safety First Mode</u></a></li>
 </ul></div>
 

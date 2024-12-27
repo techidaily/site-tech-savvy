@@ -1,7 +1,7 @@
 ---
 title: Sonneteer's Struggle - Versed Valiantry Against Woolly Kinfolk
-date: 2024-12-20T17:11:22.887Z
-updated: 2024-12-21T18:50:11.820Z
+date: 2024-12-24T22:02:39.925Z
+updated: 2024-12-27T18:14:10.593Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,13 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What You Need to Know About AI Chatbots
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
 
@@ -69,12 +69,16 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
 
@@ -89,16 +93,12 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
@@ -120,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
@@ -139,6 +135,10 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
  A derivative but original joke would be, "How are Large Language Models like atoms? They both make things up!"
 
  You read it here first, folks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
 
@@ -165,24 +165,17 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-how-to-curate-a-facebook-playlist-via-phonetablet/"><u>[Updated] How to Curate a Facebook Playlist via Phone/Tablet</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-optimizing-nintendo-switch-controller-for-steam-games/"><u>2024 Approved Optimizing Nintendo Switch Controller for Steam Games</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862839542-affordable-34-curved-asus-tuf-display-now-just-249-on-amazon-gamers-deal/"><u>Affordable 34 Curved ASUS TUF Display Now Just $249 on Amazon – Gamer's Deal</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/average-joes-assistant-which-chatbot-wins/"><u>Average Joe's Assistant: Which Chatbot Wins?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/digital-chimes-discover-the-top-tone-websites/"><u>Digital Chimes Discover the Top Tone Websites</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-effortless-methods-for-swiftly-transferring-files-from-your-macbook-more-accessible-than-ever/"><u>Discover the Effortless Methods for Swiftly Transferring Files From Your MacBook - More Accessible Than Ever!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-analysis-iphone-14-meets-requirements-with-solid-performance-a-review/"><u>Expert Analysis: IPhone 14 Meets Requirements with Solid Performance - A Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-to-know-apples-airpods-pro-and-max-releases-in-depth-models-and-specifications-overview-insights-from-zdnet/"><u>Get to Know Apple's AirPods Pro and Max Releases: In-Depth Models & Specifications Overview | Insights From ZDNET</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-7-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 7 Plus To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-preserving-the-past-in-motion-photo-to-video-transition/"><u>In 2024, Preserving the Past in Motion Photo to Video Transition</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to trade pokemon go from far away On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-enhanced-qi2-wireless-charge-support-for-apples-latest-iphones-via-the-new-ios-172-upgrade-zdnet-insights/"><u>Introducing Enhanced Qi2 Wireless Charge Support for Apple's Latest iPhones via the New iOS 17.2 Upgrade - ZDNet Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pinnacle-ai-software-enhancing-virtual-exploration/"><u>Pinnacle AI Software Enhancing Virtual Exploration</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/seeking-a-true-witchs-tongue-are-vocal-changer-apps-legit-find-substitutes-for-2024/"><u>Seeking a True Witch's Tongue Are Vocal Changer Apps Legit? Find Substitutes for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-into-the-future-with-chatgpt-api-implementation/"><u>Step Into the Future with ChatGPT API Implementation</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210183932-9781945894152-tantra/"><u>Tantra | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-chatgpt-guidebook-for-freelance-writers-seeking-success/"><u>The ChatGPT Guidebook for Freelance Writers Seeking Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-essence-of-ai-dominance-and-dependability/"><u>The Essence of AI: Dominance & Dependability</u></a></li>
-<li><a href="https://article-posts.techidaily.com/top-5-cloud-voice-editors-for-chrome-os-transforming-your-tone-and-pitch-for-2024/"><u>Top 5 Cloud Voice Editors for Chrome OS Transforming Your Tone and Pitch for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unveiling-the-secrets-of-automatic-transcription-in-google-docs/"><u>[New] In 2024, Unveiling the Secrets of Automatic Transcription in Google Docs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-types-of-facebook-video-aspect-ratios-and-how-to-adjust-it/"><u>[Updated] 2024 Approved Types of Facebook Video Aspect Ratios & How to Adjust It</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-installing-social-media-adding-snapchat-to-your-mac/"><u>[Updated] Installing Social Media Adding Snapchat to Your Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/amazon-prime-video-the-ultimate-list-of-family-friendly-films-july-2024-edition/"><u>Amazon Prime Video: The Ultimate List of Family-Friendly Films (July 2024 Edition)</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminate-valorant-screen-rippling-a-step-by-step-guide/"><u>Eliminate Valorant Screen Rippling: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-insight-the-most-efficient-snipping-software-for-windows/"><u>Essential Insight The Most Efficient Snipping Software for WINDOWS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oneplus-11r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/investing-in-education-shunning-quick-chatgpt-fixes/"><u>Investing in Education: Shunning Quick ChatGPT Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/source-evaluation-chatbot-vs-human-authors/"><u>Source Evaluation: Chatbot Vs. Human Authors</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-non-responsive-keyboard-keys-in-windows-os/"><u>Step-by-Step Solutions for Non-Responsive Keyboard Keys in Windows OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-mechanism-of-chatbots-in-mimicking-talk/"><u>The Mechanism of Chatbots in Mimicking Talk</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-reasons-ai-cannot-become-a-one-stop-solution-for-every-writing-need/"><u>Top 5 Reasons AI Cannot Become a One-Stop Solution for Every Writing Need</u></a></li>
 </ul></div>
 

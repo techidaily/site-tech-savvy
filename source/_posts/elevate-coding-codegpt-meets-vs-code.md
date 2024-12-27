@@ -1,7 +1,7 @@
 ---
 title: "Elevate Coding: CodeGPT Meets VS Code"
-date: 2024-12-19T07:00:05.060Z
-updated: 2024-12-21T21:58:16.293Z
+date: 2024-12-21T20:14:19.437Z
+updated: 2024-12-27T16:32:39.032Z
 tags:
   - chatgpt
   - open-ai
@@ -34,33 +34,37 @@ thumbnail: https://thmb.techidaily.com/4f70e3d531e042394d8511ca88c9ecd662d4633e7
 
 ![CodeGPT extension in VSCode EXTENSIONS: MARKETPLACE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click on the **Install** button to add it to VS Code. Having installed CodeGPT, you now need to connect it to a large language model. This model is what gives it its generative capabilities.
 
  To establish the connection between CodeGPT and the large language model, you need an API Key. In this guide, you'll be [using the OpenAI API](https://www.makeuseof.com/openai-api-guide-what-can-you-do/). To get one proceed to the [OpenAI API](https://platform.openai.com/) platform and log in. If you do not have an account, sign up for one. After logging in, select the **API** option on the page that appears.
 
 ![OpenAI API service selection page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-api-homepage.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will take you to the API homepage. In the top right corner, click on your profile and select the **View API keys** option.
 
 ![OpenAI API homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-api-key-view.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, you will be directed to the **API keys** page. Click on the **Create new secret key** option. Then, name and generate your secret key.
 
 ![OpenAI API key naming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-api-generation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This is the API key that you will use to connect the OpenAI [large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) to CodeGPT. Copy it to your clipboard.
 
  Proceed to VS Code and navigate to **Settings > Extensions > CodeGPT**​​​​​​.
 
 ![CodeGPT configuration page in VSCode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-codegpt-configuration.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From this page, you can configure how CodeGPT interacts with the large language model. You can choose your **AI Provider**, **Max Tokens** for each request, and the **Model** to use. Also, when you scroll further down you can also set the **Temperature** value.
 
@@ -70,14 +74,10 @@ thumbnail: https://thmb.techidaily.com/4f70e3d531e042394d8511ca88c9ecd662d4633e7
 
 ![CodeGPT API command on VSCode command palette](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-command-pallete.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click on it and paste your API key on the prompt that appears. Save it by pressing **Enter**. Finally, reload VS Code to start using CodeGPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Generating Code With CodeGPT
@@ -93,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/4f70e3d531e042394d8511ca88c9ecd662d4633e7
  To generate code by chatting with CodeGPT, click on the CodeGPT chat icon on the left sidebar. This will open a chat window.
 
 ![CodeGPT chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-chat.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then input your request and click **Send**. In this case, the request is for a simple calculator. CodeGPT will process your request and generate your code in the chat window.
 
@@ -139,19 +143,11 @@ else:
 
  CodeGPT will generate new code that implements the requested refactoring.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Explaining Your Code With CodeGPT
 
  To explain your code, select the code that you want CodeGPT to explain. Then right-click on the highlighted code and select the **Explain CodeGPT** option.
 
 ![CodeGPT code explanation on the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-codegpt-explanation.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  CodeGPT will explain what the code does on the chat window.
 
@@ -181,6 +177,10 @@ def divide(x, y):
 
  These are clear and correct inline comments.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Understanding How Generative AI Works
 
  CodeGPT utilizes the power of generative AI for all its features. It may not always provide the correct information. Hence, you need to counter-check whether its results are correct. Understanding how generative AI works will help you become familiar with its strengths and weaknesses.
@@ -204,22 +204,22 @@ def divide(x, y):
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-dancefloor-dynamics-free-pristine-dj-template-videos/"><u>[New] 2024 Approved Dancefloor Dynamics Free, Pristine DJ Template Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-sony-bdp-s6700-review-updated/"><u>2024 Approved Sony BDP-S6700 Review - Updated</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-new-normal-for-vr-industry-insights/"><u>2024 Approved The New Normal for VR Industry Insights</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-the-halls-boosting-youtube-traffic-for-2024/"><u>Ace in the Halls Boosting YouTube Traffic for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/aprenda-a-encolher-arquivos-massivos-3-estrategias-de-compressao-simples-e-eficientes/"><u>Aprenda a Encolher Arquivos MASSIVOS: 3 Estratégias De Compressão Simples E Eficientes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bavarder-setup-made-simple-for-linux-enthusiasts/"><u>Bavarder Setup Made Simple for Linux Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/contributing-to-chromes-future-the-essential-role-of-user-feedback-and-how-it-shapes-development-exclusive-tips/"><u>Contributing to Chrome's Future: The Essential Role of User Feedback and How It Shapes Development (Exclusive Tips)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/curating-child-friendly-gpt-conversations-with-care-in-5-ways/"><u>Curating Child-Friendly GPT Conversations with Care in 5 Ways</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/getting-past-blocks-solutions-for-4-common-problems/"><u>Getting Past Blocks: Solutions for 4 Common Problems</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-best-video-language-changers-to-make-your-videos-accessible/"><u>In 2024, Best Video Language Changers to Make Your Videos Accessible</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reassessing-paperclips-through-ais-lens-of-innovation/"><u>Reassessing Paperclips Through AI's Lens of Innovation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smart-kitchen-wisdom-mastering-meals-with-chatai/"><u>Smart Kitchen Wisdom: Mastering Meals with ChatAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-beginners-path-to-chatgpt-on-android/"><u>The Beginner's Path to ChatGPT on Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-synergy-of-chatgpt-and-ioss-siri-functionality/"><u>The Synergy of ChatGPT and iOS's Siri Functionality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unseen-linguist-how-gpt-deciphers-human-communication/"><u>Unseen Linguist: How GPT Deciphers Human Communication</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210440314-9780008520427-virgo-2023-your-personal-horoscope/"><u>Virgo 2023: Your Personal Horoscope | Free Book</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-audio-endings-how-to-decrease-volume-gradually-in-pp/"><u>[New] In 2024, Audio Endings How to Decrease Volume Gradually in PP</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-softening-audio-fl-basics/"><u>[Updated] In 2024, Softening Audio FL Basics</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-fastest-way-to-scan-windows-files/"><u>[Updated] The Fastest Way to Scan Windows Files</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-pros-guide-to-uploading-twitter-videos-to-snapchat-for-2024/"><u>[Updated] The Pro's Guide to Uploading Twitter Videos to Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-analyzing-per-view-gain-for-content-making-on-video-platforms/"><u>2024 Approved Analyzing Per-View Gain for Content Making on Video Platforms</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-motorola-moto-e13-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Motorola Moto E13 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-concentration-effective-strategies-for-enhanced-productivity-when-telecommuting-insights-from-zdnet/"><u>Boosting Concentration: Effective Strategies for Enhanced Productivity When Telecommuting - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-unknown-emerging-job-positions-in-the-ai-era-deciphering-their-elusive-titles-on-zdnet/"><u>Exploring the Unknown: Emerging Job Positions in the AI Era - Deciphering Their Elusive Titles on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-write-a-winning-cybersecurity-resume-dos-and-donts-revealed-by-zdnet-experts/"><u>How to Write a Winning Cybersecurity Resume: Dos and Don'ts Revealed by ZDNet Experts</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/identifying-your-pcs-perfect-ram-capacity-with-tips-from-yl-software-experts/"><u>Identifying Your PC's Perfect RAM Capacity with Tips From YL Software Experts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-zte-blade-a73-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock ZTE Blade A73 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-social-connections-an-introverts-guide-to-successful-networking-with-tips-from-zdnet/"><u>Mastering Social Connections: An Introvert's Guide to Successful Networking with Tips From ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/narrowing-down-the-video-platform-wars-youtube-shorts-against-tiktok/"><u>Narrowing Down the Video Platform Wars YouTube Shorts Against TikTok</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/riding-the-wave-of-change-how-ai-will-phase-out-certain-careers-yet-spark-opportunities-in-novel-domains-zdnet/"><u>Riding the Wave of Change: How AI Will Phase Out Certain Careers Yet Spark Opportunities in Novel Domains | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shifting-paradigms-how-coding-is-transforming-yet-again-insights-from-tech-experts/"><u>Shifting Paradigms: How Coding Is Transforming Yet Again - Insights From Tech Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-programming-bootcamp-picks-your-guide-according-to-zdnet/"><u>Top 10 Programming Bootcamp Picks : Your Guide According to ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-pay-transparency-understanding-its-impact-on-your-career-zdnet-insights/"><u>Upcoming Pay Transparency: Understanding Its Impact on Your Career | ZDNet Insights</u></a></li>
 </ul></div>
 

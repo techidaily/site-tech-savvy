@@ -1,7 +1,7 @@
 ---
 title: "The Art of ChatGPT Navigations: A Guide to Effective File Use"
-date: 2024-12-20T22:06:08.039Z
-updated: 2024-12-22T06:01:50.339Z
+date: 2024-12-26T20:31:00.974Z
+updated: 2024-12-27T18:51:33.009Z
 tags:
   - chatgpt
   - open-ai
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use ChatGPT Folders to Organize Your ChatGPT Conversations
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
 
  The [ChatGPT Folders](https://chrome.google.com/webstore/detail/chatgpt-folders-organize/hkabkcpdocmhidhbgfcpbadafacnekkl) Chrome extension addresses this problem directly, adding support for folders, subfolders, pinning, bulk conversation deletion, and the option to [share your ChatGPT conversations](https://www.makeuseof.com/apps-extensions-export-share-chatgpt-history/). Now, I imagine OpenAI will add all of these features to ChatGPT in the future ([ChatGPT link sharing is already enabled](https://www.makeuseof.com/share-chatgpt-chats-links/)). But the future isn't now, and ChatGPT Folders is delivering the goods.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Download and Install ChatGPT Folders
 
  First up, head to [ChatGPT Folders](https://chrome.google.com/webstore/detail/chatgpt-folders-organize/hkabkcpdocmhidhbgfcpbadafacnekkl) while using the Chrome browser, then select **Add to Chrome**.
@@ -51,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
  Launch ChatGPT to check ChatGPT Folders installed correctly. You should now find a new toolbar atop your ChatGPT conversation history with options to create a New Conversation and, most importantly, a New Folder. You'll also note that a tree structure now exists alongside your ChatGPT conversations, which you can use to select specific chats you want to move into a folder, delete, and so on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Create a New Folder, Add Your Conversations
@@ -65,12 +61,21 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
 3. You can either drag and drop the selected folders into your new folder or right-click and select **Move to > New Folder**.  
 ![moving chatgpt conversations to new folder chatgpt folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/moving-chatgpt-conversations-to-new-folder-chatgpt-folders.jpg)
 4. Select your folder. It will open using the same tree structure, where you'll find your grouped conversations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. **Optional**: Inside your new folder, select the **New Folder** button once more to create a subfolder. Use the same steps as before to transfer ChatGPT conversations to the subfolder.
 
 ![chatgpt folders with nested conversations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-folders-with-nested-conversations.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. How to Delete a Folder and Reset Your Conversations
@@ -82,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
  However, if you decide you've had enough of your ChatGPT Folders structure and want to start again, you can use the **Reset folders and conversations** button instead.
 
 ![chatgpt folders reset conversations and folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-folders-reset-conversations-and-folders.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Select the three-line button at the top of the ChatGPT history, then **Reset folders and conversations**. Doing so will remove all of the ChatGPT Folders you've created and return your ChatGPT conversations to their original state. Note that this isn't the same as [deleting your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/).
 
@@ -124,24 +125,19 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-lenovo-laptop-a-complete-guide-to-recording-screens/"><u>[New] In 2024, Lenovo Laptop A Complete Guide to Recording Screens</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ace-the-art-of-game-recordings-in-windows-11/"><u>[Updated] 2024 Approved Ace the Art of Game Recordings in Windows 11</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-maximizing-your-youtube-presence-via-featured-channel-strategy/"><u>[Updated] Maximizing Your Youtube Presence via Featured Channel Strategy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-success-top-strategies-for-converting-bup-files-to-mp4-smoothly/"><u>1. Success! Top Strategies for Converting BUP Files to MP4 Smoothly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-ultimate-tutorial-adjusting-audio-levels-with-ease-using-vlcs-equalizer/"><u>1. Ultimate Tutorial: Adjusting Audio Levels with Ease Using VLC's Equalizer</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-economical-growth-methodology-subscribe-now/"><u>2024 Approved Economical Growth Methodology - Subscribe Now</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-mastering-the-art-of-acquiring-facebooks-prestigious-blue-badge/"><u>2024 Approved Mastering the Art of Acquiring Facebook's Prestigious Blue Badge</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030304182-mp4/"><u>動画ファイルMP4におけるプロパティ設定と修正手順解説</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028362684-ts/"><u>高度なテクニックで「TSファイル」から明瞭に分離された音声解析: 第一・第二方法解説</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030387971-fc2/"><u>FC2ビデオダウンロード失敗原因とその時点での対策手順を学ぶ</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-diagnose-and-repair-a-critical-stop-error-bsod-on-your-computer/"><u>How to Diagnose & Repair a Critical Stop Error (BSOD) on Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-multi-location-drops-in-google-mapping-platform/"><u>Mastering Multi-Location Drops in Google Mapping Platform</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726027605305-mkv/"><u>MKVファイルを携帯電話画面に表示する方法とトラブルシューティング</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tackled-large-screen-distortion-in-windows-10/"><u>Tackled Large Screen Distortion in Windows 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-vivo-x90s-by-drfone-android/"><u>Three Ways to Sim Unlock Vivo X90S</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-xs-max-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone XS Max Without Passcode Easily</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030542351-webm/"><u>WebMビデオファイルをスムーズに再生する方法 - 問題解決ガイド</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028495556-youtube/"><u>YouTube画面の拡張 - ビデオ画像サイズを効果的に増やすテクニック</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726027237111-youtube/"><u>YouTubeビデオの向き変更に必要な簡単ガイド - どのようにすれば実現できますか？</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-maximize-impact-instagrams-ideal-video-resolution/"><u>[Updated] 2024 Approved Maximize Impact Instagram's Ideal Video Resolution</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pro-filmmakers-guide-to-speedy-shot-techniques/"><u>2024 Approved Pro Filmmaker's Guide to Speedy Shot Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-xr-glasses-beat-apples-vision-pro-shortcomings-and-ease-fomo-explore-more-for-less/"><u>Affordable XR Glasses Beat Apple's Vision Pro Shortcomings & Ease FOMO – Explore More for Less!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/androids-screen-capture-4-easy-techniques-for-2024/"><u>Android's Screen Capture 4 Easy Techniques for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chick-fil-as-sunday-sales-strategy-how-the-popular-restaurant-boosts-weekend-revenue-zdnet/"><u>Chick-Fil-A's Sunday Sales Strategy: How the Popular Restaurant Boosts Weekend Revenue - ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/clear-answers-to-dealing-with-steam-local-connection-failed-problems/"><u>Clear Answers to Dealing With 'Steam Local Connection Failed' Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-intersection-of-gaming-and-meditation-in-headspaces-latest-app-meta-quest-3-exclusive-for-iphone-and-ipad-users/"><u>Discover the Intersection of Gaming & Meditation in Headspace's Latest App, Meta Quest 3 - Exclusive for iPhone and iPad Users!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/efficiently-configuring-zoom-for-flawless-calls-for-2024/"><u>Efficiently Configuring Zoom for Flawless Calls for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-13-mini-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 13 mini Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-thinkpad-driver-updates-at-your-fingertips-safe-fast-and-100-secure/"><u>Lenovo ThinkPad Driver Updates at Your Fingertips – Safe, Fast & 100% Secure</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-a-boundless-digital-realm-the-experience-of-fully-immersing-in-vr-for-professional-tasks-zdnet-tech-analysis/"><u>Navigating a Boundless Digital Realm: The Experience of Fully Immersing in VR for Professional Tasks | ZDNet Tech Analysis</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/wallet-friendly-spherical-camera-systems-for-hobbyists/"><u>Wallet-Friendly Spherical Camera Systems for Hobbyists</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-reveals-key-players-set-to-define-the-next-virtual-realm-the-metaverse-evolution/"><u>ZDNet Reveals Key Players Set to Define the Next Virtual Realm: The Metaverse Evolution</u></a></li>
 </ul></div>
 

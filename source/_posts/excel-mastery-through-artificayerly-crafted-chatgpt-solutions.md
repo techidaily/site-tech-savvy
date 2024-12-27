@@ -1,7 +1,7 @@
 ---
 title: Excel Mastery Through Artificayerly-Crafted ChatGPT Solutions
-date: 2024-09-12T07:37:49.943Z
-updated: 2024-09-13T07:37:49.943Z
+date: 2024-12-24T16:12:25.095Z
+updated: 2024-12-27T19:18:35.931Z
 tags:
   - chatgpt
   - open-ai
@@ -24,10 +24,7 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
  With the help of this AI language model, you can seek assistance with Excel-related problems, create formulas, and receive real-time responses to help you make the most out of Excel. In this article, we will explore some effective ways to use ChatGPT in Excel and discover how it can enhance your data analysis experience.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Use ChatGPT to Create and Implement Formulas
@@ -41,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
  Here is an example: We had a spreadsheet that contains data on the sales of different products in different cities, and we wanted to calculate the total sales for each product. We entered all the necessary details in ChatGPT, and asked it to calculate the sales of product A.
 
 ![Asking ChatGPT a question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-question.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here is how it responded:
 
@@ -57,19 +58,6 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 * Always double-check the results to ensure accuracy. While ChatGPT can create formulas for you, it also has certain limitations. It is best to test the formula on a small data sample to make sure it is producing accurate results.
 
  By keeping these points in mind, you can use the chatbot more effectively and with greater confidence to overcome any fears you may have about working with spreadsheets.
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Use ChatGPT to Create Macros
 
@@ -90,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 
 ![Excel macro example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/excel-macro-example-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have the required macro, let’s implement and run it:
 
 1. Press the **Alt** \+ **F11** keys on your keyboard to open the Visual Basic Editor.
@@ -101,39 +93,21 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 6. Click **Save** to save the macro file.  
 ![Save the macro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/save-macro.jpg)
 7. Now, return to your worksheet and head over to the **Developer** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click on **Macros** and choose **FilterData** from the list.
 9. Finally, hit **Run**.  
 ![Run the macro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-macro.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This macro will now filter your data to show only the sales for the targeted region.
 
 ![Macro result in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/macro-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use ChatGPT to Automate Sending Emails
@@ -146,23 +120,9 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 
 ![Use ChatGPT to automate sending emails](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/vba-to-automate-emails.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once we have the macro, we will save the module and run it by following the steps described above. As simple as that! Apart from these three methods we have listed of using ChatGPT in Excel, you can also use the chatbot to analyze and visualize data in Excel with the help of tools like Charts, and Data Analysis Toolpak. You can ask ChatGPT to explain how to use these tools effectively.
 
  Additionally, you can use ChatGPT to troubleshoot issues in Excel by providing it with the details of the error you are encountering. While there are a number of [things ChatGPT can't do in Excel](https://www.makeuseof.com/things-to-do-excel-chatgpt-cant/) yet, it's a great tool that can help you become a spreadsheet pro.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT to the Rescue
 
@@ -185,5 +145,21 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-direct-path-to-delight-your-ifunny-meme-guidebook-for-2024/"><u>[Updated] Direct Path to Delight Your iFunny Meme Guidebook for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/web-orf-movavi/"><u>専用Webコンバーターでのオンライン移行 - ORFファイル無料変換: Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparative-analysis-snapchats-ai-vs-microsofts-bing-chat-on-skype-top-8-distinctions/"><u>Comparative Analysis: Snapchat's AI Vs. Microsoft's Bing Chat on Skype - Top 8 Distinctions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crear-presentaciones-impresionantes-con-slideshow-en-mac-guia-simple-de-movavi/"><u>Crear Presentaciones Impresionantes Con SlideShow en Mac: Guía Simple De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descargar-y-convertir-archivos-m4b-a-mp3-sin-coste-guia-completa-de-conversion-en-movavi/"><u>Descargar Y Convertir Archivos M4B a MP3 Sin Coste: Guía Completa De Conversión en Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-the-initialization-failed-problem-in-smartaudio/"><u>How to Correct the 'Initialization Failed' Problem in SmartAudio</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unlock-your-pc-without-a-screensaver/"><u>How to Unlock Your PC Without a Screensaver</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-8-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 8 to PC | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/learn-how-to-make-an-effective-screen-capture-with-your-iphone-11-top-4-techniques-revealed-by-movavi/"><u>Learn How to Make an Effective Screen Capture with Your iPhone 11: Top 4 Techniques Revealed by Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-fix-wins-unhandled-exception-blue-screen-problem/"><u>Methods to Fix Win's Unhandled Exception Blue Screen Problem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/por-que-choose-movavi-uma-exploracao-na-vantagem-da-inovacao-em-software-multimedia/"><u>Por Que Choose Movavi? Uma Exploração Na Vantagem Da Inovação Em Software Multimedia</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-setup-of-win11-on-airplane-mode/"><u>Seamless Setup of Win11 on Airplane Mode</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-s-top-video-editing-apps-for-iphone-a-comprehensive-guide/"><u>Updated 2024 Approved S Top Video Editing Apps for iPhone A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wav-mp3-0-online-movavi/"><u>WAV 파일을 MP3로 전환하는 비용 0원의 Online 도구 - Movavi</u></a></li>
+</ul></div>
 

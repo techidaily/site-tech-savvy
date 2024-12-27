@@ -1,7 +1,7 @@
 ---
 title: Exceeding Theoretical Token Maximums with GPT Conversations
-date: 2024-12-14T17:39:02.382Z
-updated: 2024-12-21T17:00:17.319Z
+date: 2024-12-24T16:31:20.832Z
+updated: 2024-12-27T17:08:52.599Z
 tags:
   - chatgpt
   - open-ai
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's a ChatGPT Token?
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
  A helpful rule of thumb is that one token generally corresponds to \~4 text characters for common English text. This translates to roughly ¾ of a word (100 tokens \~= 75 words).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Free vs. Paid Tokens
@@ -77,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
  To give you a flavor of what's what within the ChatGPT application, OpenAI offers you a free limited token subscription. If you want to experiment with the ChatGPT API, use the free $5 credit, which is valid for three months. Once the limit is exhausted (or the trial period is up), you can pay-as-you-go, which increases the maximum quota to $120\.
 
 ![OpenAI dashboard with credit usage graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/token-dashboard-openai.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ChatGPT Plus: Is the Paid Subscription Worth It?
 
@@ -93,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
 ![Set of black opened envelope and cash dollars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-karolina-grabowska-4386370.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are a few different application models available, which you can choose based on your requirements:
@@ -113,7 +117,7 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
  Ada is the fastest, while DaVinci is the most powerful model from this list of models. The prompt is the question, while the completion deals with the answers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Maximum Token Limits
@@ -137,10 +141,6 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
  If your output is truncated, you must increase the specified maximum limit from your dashboard. Remember, the sum of your prompt and maximum tokens should always be less than equal to the model's maximum token limit.
 
  For example, within the ChatGPT model, the **prompt\_tokens + max\_tokens <= 4096** tokens**.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Learn to Control Your ChatGPT Prompts for Best Results
 
@@ -169,17 +169,24 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-earn-big-on-youtube-strategies-for-successful-creators/"><u>[New] 2024 Approved Earn Big on YouTube Strategies for Successful Creators</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-novice-writers-guide-to-boosting-brand-visibility-through-content-creation/"><u>[New] The Novice' Writers' Guide to Boosting Brand Visibility Through Content Creation</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-accelerated-learning-for-effective-nvidia-screener-use/"><u>2024 Approved Accelerated Learning for Effective NVIDIA Screener Use</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-revamp-your-chat-audio-experience-with-a-personalized-whatsapp-ringtone/"><u>2024 Approved Revamp Your Chat Audio Experience with a Personalized WhatsApp Ringtone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-smart-choices-8-best-convertors-from-sub-to-srt-format/"><u>2024 Approved Smart Choices 8 Best Convertors From Sub to SRT Format</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/alleviating-isolation-with-ai-conversations/"><u>Alleviating Isolation with AI Conversations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-auto-gpt-how-it-measures-against-chatgpt/"><u>Decoding Auto-GPT - How It Measures Against ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-coaching-engaging-ai-in-psychological-support/"><u>Digital Coaching: Engaging AI in Psychological Support</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/insights-on-why-companies-are-wary-of-conversational-ai-tools/"><u>Insights on Why Companies Are Wary of Conversational AI Tools</u></a></li>
-<li><a href="https://win-news.techidaily.com/mastering-game-capture-techniques-using-action-software-a-comprehensive-guide/"><u>Mastering Game Capture Techniques Using Action Software: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pondering-the-plodding-progress-chatgpt-4-versus-35/"><u>Pondering the Plodding Progress: ChatGPT-4 Versus 3.5</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-identifying-deceptive-accounts-a-guide-for-marketers-for-2024/"><u>[New] Identifying Deceptive Accounts A Guide for Marketers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-roadmap-to-captivating-music-visuals-lyric-video-maker-guidebook/"><u>[New] The Roadmap to Captivating Music Visuals Lyric Video Maker Guidebook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-fastest-on-ice-olympic-highlights-in-short-track-events/"><u>[Updated] 2024 Approved Fastest on Ice Olympic Highlights in Short Track Events</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/astonishing-insights-from-an-apple-specialist-why-theyve-fallen-in-love-with-the-vision-pro-experience-on-zdnet/"><u>Astonishing Insights From an Apple Specialist: Why They've Fallen in Love with the Vision Pro - Experience on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-firms-pioneering-the-future-of-the-metaverse-insights-from-zdnet/"><u>Discover Firms Pioneering the Future of the Metaverse - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-companion-device-needed-for-your-new-apple-vision-pro-top-picks-by-zdnet/"><u>Essential Companion Device Needed for Your New Apple Vision Pro - Top Picks by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-covert-alliance-how-qualcomms-strategic-partnership-with-google-and-samsung-is-shaping-the-next-gen-mixed-reality-eyewear-revolution-innovatio13/"><u>Exploring the Covert Alliance: How Qualcomm's Strategic Partnership with Google and Samsung Is Shaping the Next-Gen Mixed Reality Eyewear Revolution | Innovation Spotlight by ZDNET</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/gaomon-pd1560-review/"><u>Gaomon PD1560 Review</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/htc-introduces-the-all-encompassing-vive-xr-elite-the-ultimate-premium-virtual-reality-experience/"><u>HTC Introduces the All-Encompassing Vive XR Elite: The Ultimate Premium Virtual Reality Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-s17-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo S17 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-innovative-concepts-for-youtube-success-and-inspiration/"><u>In 2024, Innovative Concepts for YouTube Success and Inspiration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insight-into-future-tech-unveiling-ct-scanner-images-of-apple-vision-pro-and-meta-quest-headsets/"><u>Insight Into Future Tech: Unveiling CT Scanner Images of Apple Vision Pro & Meta Quest Headsets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-apples-expanded-dev-program-boosting-support-for-ios-17-visionos-and-additional-platforms-zdnet-coverage/"><u>Introducing Apple’s Expanded Dev Program: Boosting Support for iOS 17, VisionOS, and Additional Platforms - ZDNET Coverage</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-for-windows-update-challenge-cracking-error-0x8024402c/"><u>Mastering the Fix for Windows Update Challenge: Cracking Error 0X8024402c</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-future-of-tech-roles-with-vr-and-digital-twin-technology-streamlined-remote-work-solutions-by-zdnet/"><u>Navigating the Future of Tech Roles with VR & Digital Twin Technology | Streamlined Remote Work Solutions by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-level-immersion-awaits-as-oculus-rifts-get-game-changing-3-boosts-for-gamers-and-entertainment-fans/"><u>Next-Level Immersion Awaits as Oculus Rifts Get Game-Changing 3 Boosts for Gamers & Entertainment Fans!</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/preserving-literary-heritage-digitizing-tolstoys-works-with-abbyy-technology/"><u>Preserving Literary Heritage: Digitizing Tolstoy's Works with ABBYY Technology</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ultimate-technique-for-harmonizing-volume-in-davinci-resolve-for-2024/"><u>The Ultimate Technique for Harmonizing Volume in DaVinci Resolve for 2024</u></a></li>
 </ul></div>
 

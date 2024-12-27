@@ -1,7 +1,7 @@
 ---
 title: "Regulating Robots: Four Ways Government Intervenes in AI"
-date: 2024-09-12T07:38:25.117Z
-updated: 2024-09-13T07:38:25.117Z
+date: 2024-12-20T17:18:39.379Z
+updated: 2024-12-27T17:39:58.394Z
 tags:
   - chatgpt
   - open-ai
@@ -24,28 +24,12 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
  If left unchecked, AI technologies can negatively disrupt our way of life and threaten our existence. But how can governments navigate the labyrinth of challenges that comes with this rapidly evolving field?
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Data Privacy and Protection Regulations
 
 ![a lock in a blue digital field](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/privacy-lock-mac.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  One of the primary concerns with AI technologies is data privacy and security. Artificial intelligence systems are data-hungry machines. They need data to operate, more data to be efficient, and even more data to improve. While this isn't a problem, the way this data is sourced, the nature of it, and how it is processed and stored is one of the biggest talking points surrounding AI regulations.
 
@@ -65,16 +49,7 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 ![binary code background showing a woman face to face with a robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-10-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  AI companies frequently boast about their commitment to ethical guidelines in developing AI systems. At least on paper, they are all proponents of responsible AI development. In the media, Google execs have emphasized how the company takes AI safety and ethics seriously. Similarly, "Safe and ethical AI" is a mantra for OpenAI's CEO, Sam Altman. These are quite applaudable.
@@ -93,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 
 ![engineer monitoring ssh logins on linux](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/engineer_monitoring_ssh_logins.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Owing to its potential impact on human civilization, discussion around AI safety typically draws parallel to the risk of a health crisis or a nuclear disaster. Avoiding potential nuclear incidents necessitates a dedicated agency like the US's NRC (Nuclear Regulatory Commission). Avoiding the risk of dangerous health crises necessitates the establishment of the FDA (Food and Drug Administration)
 
  Similarly, to ensure that things don't go wrong in the AI space, a dedicated agency akin to the FDA and the NRC is necessary as AI continues to make aggressive inroads into all areas of our life. Unfortunately, the issue of in-country AI regulation is a tricky one. The work of any dedicated regulatory agency is likely to be agonizingly hard without cross-border cooperation. Just like the US's NRC (Nuclear Regulatory Commission) needs to work hand in hand with the International Atomic Energy Agency (IAEA) to be at its best, any dedicated in-country AI regulatory agency would also need an international analog.
@@ -105,10 +84,7 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 * Collaboration and cross-country cooperation on AI safety and ethics
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Addressing Copyright and Intellectual Property Concerns
@@ -116,10 +92,7 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 ![An illustration of copyright thief](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/copyright-protected-illustration.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Existing copyright laws and legal frameworks crumble in the face of Artificial Intelligence. The way AI tools, especially generative AI tools, are designed makes them seem like a publicly endorsed copyright infringement machine that you can't do anything about.
@@ -136,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 * Reinforce existing copyright frameworks and perhaps introduce AI-specific copyright laws.
 * To ensure innovation in the AI space while safeguarding the rights of original creators, AI regulations should redefine the concepts of fair use and transformative work in the context of AI-generated content. Clearer definitions and guidelines are needed to ensure that AI space can continue to improve while respecting copyright boundaries. It is essential to strike a balance between innovation and preserving the rights of content creators.
 * Clear pathways for collaboration with right holders. If AI systems are going to use people's intellectual property anyway, there should be clear pathways or frameworks for AI developers and rights-owners to collaborate, especially in terms of financial compensations, if the derivative work of such intellectual properties is commercialized.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AI Regulation Is a Desperately Needed Fix
 
@@ -165,5 +131,21 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-adding-captions-to-videos-using-microsoft-photos-windows-11-for-2024/"><u>[New] Adding Captions to Videos Using Microsoft Photos (Windows 11) for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-powerdirector-mastery-a-comprehensive-guide/"><u>[Updated] Ultimate PowerDirector Mastery A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-gratis-online-dpx-zu-jpg-konvertieren-mit-movavi-bildbearbeitungs-tool/"><u>1. Gratis Online: DPX Zu JPG Konvertieren Mit Movavi - Bildbearbeitungs-Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crea-slideshow-con-di-movavi-scarica-ora-e-inizia/"><u>Crea Slideshow Con Di Movavi - Scarica Ora E Inizia!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descubra-as-maiores-ferramentas-de-estrategia-video-o-guia-definitivo-para-especialistas-em-conteudo-softwares/"><u>Descubra as Maiores Ferramentas De Estratégia Vídeo: O Guia Definitivo Para Especialistas Em Conteúdo Softwares</u></a></li>
+<li><a href="https://blog-min.techidaily.com/edit-like-a-pro-with-no-cost-master-free-online-video-reversal-tools/"><u>Edit Like a Pro with No Cost - Master Free Online Video Reversal Tools!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-online-tool-convert-your-images-from-jpg-to-png-with-ease/"><u>Free Online Tool: Convert Your Images From JPG to PNG with Ease!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guia-facil-para-agregar-subtitulos-al-formato-mkv-editacion-y-creacion-de-texto/"><u>Guía Fácil Para Agregar Subtítulos Al Formato MKV: Editación Y Creación De Texto</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-add-good-bokeh-effects-in-instagram-stories-for-2024/"><u>How to Add Good Bokeh Effects in Instagram Stories for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/jpegpnggif/"><u>JPEGまたはPNGをGIF形式に変更する簡単なステップバイステップ</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavimp3-online-asfmp3/"><u>Movaviの無料アクセス型MP3フォーマット変換 - Online ASFからMP3へ</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-kostenloses-umwandeln-von-wav-in-webm-durch-movavi-perfekt-fur-schnelles-streamen-und-hochwertige-videos/"><u>Online Kostenloses Umwandeln Von WAV in WebM Durch Movavi - Perfekt Für Schnelles Streamen Und Hochwertige Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/propella-7s-40-user-reviews-combining-economy-with-unmatched-nimbleness-for-urban-riding/"><u>Propella 7S 4.0 User Reviews: Combining Economy with Unmatched Nimbleness for Urban Riding</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-tips-for-quality-animation-in-movie-maker-for-2024/"><u>Quick Tips for Quality Animation in Movie Maker for 2024</u></a></li>
+</ul></div>
 

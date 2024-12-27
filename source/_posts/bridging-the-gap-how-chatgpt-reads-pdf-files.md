@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Gap: How ChatGPT Reads PDF Files"
-date: 2024-12-17T18:42:13.148Z
-updated: 2024-12-22T01:57:51.672Z
+date: 2024-12-22T20:42:11.797Z
+updated: 2024-12-27T21:31:45.816Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Supply ChatGPT With a URL
 
  ChatGPT can reference URLs that you supply it with. This means that if the PDF file is online, getting ChatGPT to reference it is super easy. A URL is a [web address that comprises five key components](https://www.makeuseof.com/what-are-key-url-elements/). We don’t need to go into detail here, all you need to know is the web address of the PDF you want to reference.
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 
 ![Screenshot of response to PDF query on the US constitution](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-response-to-pdf-query-on-the-us-constitution.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT will then nicely summarize the main points on the requested pages. One point of note here, there are [limitations to ChatGPT prompts and responses](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/), especially when it comes to more complex requests. So, for larger documents, it is good policy to break the task down into smaller parts.
 
 ## 2\. Copy Text From the PDF
@@ -46,15 +54,19 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 
 ![Screenshot of copying text from PDF opened in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-copying-text-from-pdf-opened-in-ms-edge-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The text can then be pasted into a ChatGPT prompt, and the desired results attained. In this case, we asked it to bullet point the main points in the text.
 
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
 
- As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
 
 ## 3\. Convert the PDF Into a Text Document
 
@@ -69,29 +81,17 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 ![Screenshot of Word opening PDF file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-opening-pdf-file.jpg)
 3. When you open the file you will be asked to convert the document, press **OK** to proceed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
 4. Word will now convert and open the file, you can use the **Save As** command to save it as a Word or text document as preferred.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Install and Use an Extension
 
 ![chatgpt with file uploader extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-extension.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, at this time, ChatGPT does not include a way to automatically upload PDF files or any files for that matter. Sure, you can copy the text from a PDF or convert it into a text document, but is there a simpler way to go about it? Luckily, there is. One of the easiest ways to get ChatGPT to read PDFs is to just install and use an extension.
@@ -125,18 +125,22 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-info.techidaily.com/torment-tides-of-numenera-reviewed-a-deep-dive-into-an-rpg-rich-with-worldbuilding-wonders/"><u>'Torment: Tides of Numenera' Reviewed: A Deep Dive Into an RPG Rich with Worldbuilding Wonders</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ot-tunes-essential-background-scores-for-viral-yt-shorts/"><u>[New] Hot Tunes Essential Background Scores For Viral YT Shorts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-aural-ascendancy-mastering-sound-integration-on-reels/"><u>2024 Approved Aural Ascendancy Mastering Sound Integration on Reels</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoiding-artificial-assumptions-in-written-works/"><u>Avoiding Artificial Assumptions in Written Works</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/excel-functions-that-elude-ai-conversation/"><u>Excel Functions That Elude AI Conversation</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/global-launch-alert-lenovos-innovative-mini-pc-the-yoga-portal-ai-enhanced-by-powerful-intel-desktop-chips/"><u>Global Launch Alert: Lenovo's Innovative Mini PC - The Yoga Portal AI Enhanced by Powerful Intel Desktop Chips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/highly-adaptable-the-ultimate-laptop-that-wins-hearts-and-impresses-with-superior-tech-spotted/"><u>Highly Adaptable: The Ultimate Laptop That Wins Hearts & Impresses With Superior Tech - Spotted</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-openais-chatbot-safe-unveiling-risks/"><u>Is OpenAI’s Chatbot Safe? Unveiling Risks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-fiction-with-interactive-ai-prototypes/"><u>Pioneering Fiction with Interactive AI Prototypes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reviving-discarded-dialogues-with-chatgpt/"><u>Reviving Discarded Dialogues with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-your-dialogues-strategic-use-of-gpt-directories/"><u>Revolutionizing Your Dialogues: Strategic Use of GPT Directories</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-guide-transforming-avi-videos-into-webm-format/"><u>Step-by-Step Guide: Transforming AVI Videos Into WebM Format</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-guide-to-recording-reaction-videos-on-your-phone/"><u>Updated The Ultimate Guide to Recording Reaction Videos on Your Phone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-discover-the-perfect-moment-timing-your-insta-posts/"><u>[New] 2024 Approved Discover the Perfect Moment Timing Your Insta Posts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-quietude-kingdoms-ultimate-zen-pc-games/"><u>[Updated] Quietude Kingdoms Ultimate Zen PC Games</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-record-screen-on-xiaomi-11t-mi-11mi-11-lite/"><u>[Updated] Record Screen on Xiaomi 11T/ Mi 11/Mi 11 Lite</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-architects-at-work-exploring-the-skilled-professionals-shaping-tomorrows-technology-with-zdnet/"><u>AI Architects at Work: Exploring the Skilled Professionals Shaping Tomorrow's Technology with ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-revolution-parents-edition/"><u>AI Revolution: Parents Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-deception-in-online-dating/"><u>AI-Driven Deception in Online Dating</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/creative-compactness-how-to-reduce-and-enhance-iphone-photos/"><u>Creative Compactness How to Reduce and Enhance iPhone Photos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ethical-engagement-chatgpt-for-emotional-support/"><u>Ethical Engagement: ChatGPT for Emotional Support</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-s23plus-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel S23+ To Phone | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-you-when-your-lava-agni-2-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Lava Agni 2 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-dynamic-range-expert-hdr-creation-in-adobe/"><u>In 2024, Harnessing Dynamic Range Expert HDR Creation in Adobe</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-remote-work-proven-strategies-for-maintaining-sharp-focus-at-home-insights-from-zdnet-experts/"><u>Mastering the Art of Remote Work: Proven Strategies for Maintaining Sharp Focus at Home, Insights From ZDNET Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-chatgpt-hiccups-in-live-transmission/"><u>Overcoming ChatGPT Hiccups in Live Transmission</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reclaim-your-privacy-the-ultimate-guide-to-exiting-gpt/"><u>Reclaim Your Privacy: The Ultimate Guide to Exiting GPT</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-googles-latest-nest-hub-generation-2-a-camera-omission/"><u>Review of Google's Latest Nest Hub Generation 2 - A Camera Omission?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/subtle-methods-to-maintain-your-private-chatgpt-logs/"><u>Subtle Methods to Maintain Your Private ChatGPT Logs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-core-upgrades-of-windows-11-for-2024/"><u>The Core Upgrades of Windows 11 for 2024</u></a></li>
 </ul></div>
 

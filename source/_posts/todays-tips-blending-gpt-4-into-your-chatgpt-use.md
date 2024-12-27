@@ -1,7 +1,7 @@
 ---
 title: "Today's Tips: Blending GPT-4 Into Your ChatGPT Use"
-date: 2024-12-18T23:20:28.808Z
-updated: 2024-12-21T17:45:18.235Z
+date: 2024-12-24T17:44:03.847Z
+updated: 2024-12-27T17:50:53.193Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is GPT-4?
 
  GPT-4, short for [Generating Pre-trained Transformer 4](https://www.makeuseof.com/openai-launches-gpt-4-artificial-intelligence-model/), is the fourth iteration of the GPT family of large language models developed by OpenAI. It is the successor of the GPT-3 model, which powers the viral AI chatbot ChatGPT. GPT-4, like its predecessor, GPT-3, is designed to generate human-like text, complete tasks such as summarization and language translation, and even generate creative writing such as poetry, lyrics for music, and fiction.
@@ -40,12 +36,16 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 
  Before its public launch, the prospect of GPT-4 generated huge excitement in the AI community due to its touted capabilities and potential applications in various fields. Now, GPT-4 is here, but how can you access it?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Access GPT-4 on ChatGPT
 
 ![chatgpt openai logos smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-openai-logos-smartphone-feature.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: T. Schneider/[Shutterstock](https://www.shutterstock.com/image-photo/stuttgart-germany-12292022-mobile-phone-website-2245793859)
@@ -57,7 +57,7 @@ Image Credit: T. Schneider/[Shutterstock](https://www.shutterstock.com/image-pho
  For the free tier users, to get started with GPT-4, you'll need a ChatGPT Plus subscription. So, how do you upgrade to ChatGPT Plus?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Upgrade to ChatGPT Plus
@@ -68,26 +68,27 @@ Image Credit: T. Schneider/[Shutterstock](https://www.shutterstock.com/image-pho
 2. On the bottom of the left sidebar of the chat interface, locate and click on **Upgrade to Plus**.  
 ![Upgrade to ChatGPT+](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/upgrade-to-chatgpt.jpg)
 3. You'll get a pop-up comparing the free plan and the ChatGPT Plus plan. Tap on the green **Upgrade Plan** button.  
-![ChatGPT plus comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-comparison.jpg)
-4. Up next, you'll be redirected to a page to provide your credit card details and other billing information. Provide all the required information and make payment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![ChatGPT plus comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-comparison.jpg)
+4. Up next, you'll be redirected to a page to provide your credit card details and other billing information. Provide all the required information and make payment.
 
 5. Once your payment has been confirmed, you should now have access to the OpenAI GPT-4 model alongside the older GPT-3.5 default and GPT-3.5 legacy models.
 6. Choose the GPT-4 model from the drop-down on your ChatGPT chat interface, select the mode you want, and start using GPT-4 with ChatGPT.  
 ![screenshot of ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-code-interpreter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One way to be sure you're using the GPT-4 model instead of the older models is to check the color of the OpenAI logo that precedes ChatGPT's responses. GPT-3.5 model responses are preceded with a green-white logo, while GPT-4 responses are preceded with a black-white logo.
 
 ## What Is the Difference Between GPT-3.5 and GPT-4?
 
  GPT-4 stands out from previous versions in two major ways: it demonstrates considerably enhanced capabilities, yet it imposes an unpopular, restrictive message quota.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Performance Improvement
 
@@ -136,20 +137,18 @@ Image Credit: T. Schneider/[Shutterstock](https://www.shutterstock.com/image-pho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-the-comprehensible-guide-to-mac-based-ootd-videography/"><u>[New] 2024 Approved The Comprehensible Guide to Mac-Based OOTD Videography</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-inside-the-videography-realm-xstudio-study/"><u>[Updated] 2024 Approved Inside the Videography Realm XStudio Study</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-gonetflixgo-master-screenrecording-on-mac-with-ease-and-excellence/"><u>[Updated] In 2024, GoNetflixGo Master ScreenRecording on Mac, With Ease & Excellence</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-ps4-game-capture-via-obs-studio/"><u>[Updated] In 2024, Mastering PS4 Game Capture via OBS Studio</u></a></li>
-<li><a href="https://article-helps.techidaily.com/beyond-entertainment-vrs-utility/"><u>Beyond Entertainment VR's Utility</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-guide-enjoy-your-favorite-tunes-on-kindle-fire-with-mp3-player-apps/"><u>Easy Guide: Enjoy Your Favorite Tunes on Kindle Fire with MP3 Player Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/editing-wav-audio-a-comprehensive-guide-for-pcs-macs-and-smartphones-free-tutorial/"><u>Editing WAV Audio: A Comprehensive Guide for PCs, Macs & Smartphones - Free Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-conversion-from-wma-to-wav-a-step-by-step-guide/"><u>Effortless Conversion From WMA to WAV: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-conversion-guide-how-to-change-mp4-videos-to-mpeg-video-editing-hacks-switch-from-mp4-to-mpeg-4-without-a-fuss/"><u>Effortless Conversion Guide: How to Change MP4 Videos to MPEG- # Video Editing Hacks: Switch From MP4 to MPEG-4 Without a Fuss!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-fixes-for-resolving-iso-video-playback-and-conversion-glitches-on-your-ipad/"><u>Effortless Fixes for Resolving ISO Video Playback & Conversion Glitches on Your iPad</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-transformation-of-flv-files-to-html5-a-step-by-step-process/"><u>Effortless Transformation of FLV Files to HTML5 - A Step-by-Step Process</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/grading-inshot-does-it-reign-supreme/"><u>Grading InShot Does It Reign Supreme?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-asus-rog-phone-7-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Asus ROG Phone 7? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/izing-classroom-impact-best-youtube-practices-for-educators-for-2024/"><u>Maximizing Classroom Impact Best YouTube Practices for Educators for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/t-youtube-visitors-tips-to-evade-automated-audiences-for-2024/"><u>Outwit YouTube Visitors Tips to Evade Automated Audiences for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-first-choice-top-15-videography-power-tools-for-2024/"><u>[New] First Choice Top 15 Videography Power Tools for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagrams-backstage-pass-top-covert-strategies-revealed/"><u>[New] In 2024, Instagram’s Backstage Pass Top Covert Strategies Revealed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-pro-tips-for-productive-dialogues-on-google-meet/"><u>[New] Pro Tips for Productive Dialogues on Google Meet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1-effiziente-video-komprimierung-tipps-fur-kleine-dateien-optimieren/"><u>1. Effiziente Video Komprimierung: Tipps Für Kleine Dateien Optimieren</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-step-by-step-perfecting-fbs-360-streams/"><u>2024 Approved Step-by-Step Perfecting FB's 360 Streams</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-reno-8t-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Reno 8T 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easily-customize-your-gmail-experience-with-different-keyboard-layouts-step-by-step-tutorial/"><u>Easily Customize Your Gmail Experience with Different Keyboard Layouts - Step by Step Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-cybersecurity-teams-effective-ways-to-enhance-their-support-and-resilience/"><u>Empowering Cybersecurity Teams - Effective Ways to Enhance Their Support and Resilience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-your-browsing-privacy-discover-how-mullvad-offers-robust-security-without-using-tor-insights-from-zdnet/"><u>Enhance Your Browsing Privacy: Discover How Mullvad Offers Robust Security Without Using Tor - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-your-written-workflow-with-libreoffice-vs-google-docs-key-advantages-for-the-serious-writer/"><u>Enhancing Your Written Workflow with LibreOffice Vs. Google Docs: Key Advantages for the Serious Writer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-tactics-to-win-over-co-workers-and-gain-support-for-your-proposals-at-work-expert-advice-by-zdnet/"><u>Essential Tactics to Win Over Co-Workers and Gain Support for Your Proposals at Work - Expert Advice by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-unmatched-speed-with-our-free-open-source-chromium-browser-top-performance-tested-on-zdnet/"><u>Experience Unmatched Speed with Our Free, Open Source Chromium Browser - Top Performance Tested on ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-dialing-up-the-past-find-out-why-starlink-could-be-your-future/"><u>Is Dialing Up the Past? Find Out Why Starlink Could Be Your Future</u></a></li>
 </ul></div>
 

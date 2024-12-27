@@ -1,7 +1,7 @@
 ---
 title: "The Enigma of AI: Deciphering Black Box Logic"
-date: 2024-09-12T07:36:59.984Z
-updated: 2024-09-13T07:36:59.984Z
+date: 2024-12-21T18:58:30.395Z
+updated: 2024-12-27T21:04:38.257Z
 tags:
   - chatgpt
   - open-ai
@@ -26,16 +26,7 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
  AI black boxes are a concept that refers to autonomous decision-making in AI systems. Let's take a detailed look at AI Black boxes, how they work, and the concerns that surround them.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are AI Black Boxes?
@@ -47,10 +38,7 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
  We will set the concerns aside for the moment as we look at how AI black boxes work.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How AI Black Boxes Work
@@ -68,16 +56,7 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
  Once the training phase is completed, the black boxes can be deployed to make independent decisions based on the learned algorithms and patterns. However, the lack of transparency about how decisions are reached is one of the primary concerns surrounding AI black boxes.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Challenges and Risks of AI Black Boxes
@@ -93,10 +72,7 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
  These are known challenges, and efforts are underway to develop more accountable and transparent AI systems that can "show their workings."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does the Future Hold for AI Black Boxes?
@@ -114,10 +90,7 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
  This is still a raw technology, one which is straining ethical and legal boundaries. Addressing the concerns around AI black boxes is critical to its future and development.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI Black Boxes: An Ethical Dilemma
@@ -145,5 +118,26 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-funimate-video-downloader-review/"><u>[New] In 2024, Funimate Video Downloader Review</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-innovative-hd-technology-showcased-by-best-screen-recorders-for-2024/"><u>[New] Innovative HD Technology Showcased by Best Screen Recorders for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-holistic-motion-comprehensiveness-review/"><u>[Updated] 2024 Approved Holistic Motion Comprehensiveness Review</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-mastering-video-cover-updates-on-facebook/"><u>[Updated] In 2024, Mastering Video Cover Updates on Facebook</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-inside-the-pros-playbook-top-5-gaming-techniques/"><u>[Updated] Inside the Pro's Playbook Top 5 Gaming Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unravel-time-on-your-screen-fresh-perspectives-to-watch-youtube-backwards/"><u>[Updated] Unravel Time on Your Screen Fresh Perspectives to Watch YouTube Backwards</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209866190-9780988499010-abuse-energy/"><u>Abuse & Energy | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bing-and-microsoft-a-new-age-for-ai-search/"><u>Bing and Microsoft: A New Age for AI Search</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-the-turing-test-and-its-possibility-of-outdoing/"><u>Breaking Down the Turing Test & Its Possibility of Outdoing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/choosing-your-perfect-streamer-how-chromecast-stacks-up-to-roku/"><u>Choosing Your Perfect Streamer: How Chromecast Stacks Up to Roku</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decode-the-power-of-openai-practical-uses-explored/"><u>Decode the Power of OpenAI: Practical Uses Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-how-ios-changes-your-gpt-game/"><u>Discovering How iOS Changes Your GPT Game</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enterprise-device-management-enhanced-with-the-new-apple-vision-pro-insights-and-updates/"><u>Enterprise Device Management Enhanced with the New Apple Vision Pro: Insights and Updates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-powered-crypto-insight-5-essential-tips/"><u>GPT-Powered Crypto Insight: 5 Essential Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prolific-iphone-photography-cutting-edge-app-selection-guide-for-2024/"><u>Prolific iPhone Photography Cutting-Edge App Selection Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-audio-boost-for-lg-televisions-apple-enthusiasts-cant-miss-out-discover-the-upgrades/"><u>The Ultimate Audio Boost for LG Televisions: Apple Enthusiasts Can't Miss Out | Discover the Upgrades</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-mystery-of-mullvad-vpn/"><u>Unraveling the Mystery of Mullvad VPN</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-the-eus-ai-act-and-how-would-it-affect-chatgpt/"><u>What Is the EU's AI Act and How Would It Affect ChatGPT?</u></a></li>
+</ul></div>
 

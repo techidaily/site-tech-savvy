@@ -1,7 +1,7 @@
 ---
 title: Optimize Paper Reading with ChatGPT's 4 Highly Effective Techniques
-date: 2024-12-16T20:59:12.320Z
-updated: 2024-12-21T23:21:08.588Z
+date: 2024-12-26T16:02:38.247Z
+updated: 2024-12-27T20:41:34.111Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Supply ChatGPT With a URL
 
  ChatGPT can reference URLs that you supply it with. This means that if the PDF file is online, getting ChatGPT to reference it is super easy. A URL is a [web address that comprises five key components](https://www.makeuseof.com/what-are-key-url-elements/). We don’t need to go into detail here, all you need to know is the web address of the PDF you want to reference.
@@ -39,13 +43,13 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
 ![Screenshot of response to PDF query on the US constitution](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-response-to-pdf-query-on-the-us-constitution.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT will then nicely summarize the main points on the requested pages. One point of note here, there are [limitations to ChatGPT prompts and responses](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/), especially when it comes to more complex requests. So, for larger documents, it is good policy to break the task down into smaller parts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Copy Text From the PDF
@@ -54,19 +58,11 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
 
 ![Screenshot of copying text from PDF opened in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-copying-text-from-pdf-opened-in-ms-edge-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The text can then be pasted into a ChatGPT prompt, and the desired results attained. In this case, we asked it to bullet point the main points in the text.
 
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
 
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Convert the PDF Into a Text Document
 
@@ -83,15 +79,19 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
 4. Word will now convert and open the file, you can use the **Save As** command to save it as a Word or text document as preferred.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Install and Use an Extension
 
 ![chatgpt with file uploader extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-extension.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Unfortunately, at this time, ChatGPT does not include a way to automatically upload PDF files or any files for that matter. Sure, you can copy the text from a PDF or convert it into a text document, but is there a simpler way to go about it? Luckily, there is. One of the easiest ways to get ChatGPT to read PDFs is to just install and use an extension.
 
@@ -124,24 +124,20 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-discovering-prime-sources-and-techniques-for-cutting-tamil-ringtones/"><u>[New] In 2024, Discovering Prime Sources & Techniques for Cutting Tamil Ringtones</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-navigate-networking-needs-8-free-fb-downloader-apps-for-2024/"><u>[New] Navigate Networking Needs - 8 Free FB Downloader Apps for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-photography-tips-accurately-annotating-dates-on-pictures/"><u>[New] Photography Tips Accurately Annotating Dates on Pictures</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-ultimate-gopro-comparison-max-360-vs-hero-11-performance-for-2024/"><u>[New] Ultimate GoPro Comparison Max 360 vs Hero 11 Performance for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-achieving-peak-performance-in-video-submissions-on-youtube-for-2024/"><u>[Updated] Achieving Peak Performance in Video Submissions on YouTube for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-from-capture-to-edit-elevating-your-immersive-video-experience-using-premiere-pro-for-2024/"><u>[Updated] From Capture to Edit Elevating Your Immersive Video Experience Using Premiere Pro for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-unique-podcast-logos-visibility-tips/"><u>2024 Approved Crafting Unique Podcast Logos Visibility Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-constraints-the-ineligible-question-list/"><u>AI Constraints: The Ineligible Question List</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deconstructing-nlp-giants-deep-dive-into-gpt-vs-bert/"><u>Deconstructing NLP Giants: Deep Dive Into GPT Vs. BERT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-ai-techniques-for-bing-android-app-users/"><u>Essential AI Techniques for Bing Android App Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-and-earn-entering-the-world-of-error-hunting-at-openai/"><u>Explore and Earn: Entering the World of Error Hunting at OpenAI</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-it-poco-c65-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Poco C65 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-chatgpts-co-pilot-what-this-extension-means-for-users/"><u>Inside ChatGPT's Co-Pilot: What This Extension Means for Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/premier-6-titans-the-mega-model-arena/"><u>Premier 6 Titans: The Mega-Model Arena</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-tasks-top-7-dynamic-ai-methods/"><u>Revolutionizing Tasks: Top 7 Dynamic AI Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-workplace-evolved-embracing-ai-for-personal-success/"><u>The Workplace Evolved: Embracing AI for Personal Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/to-use-or-not-to-use-local-llm-heres-why/"><u>To Use or Not to Use Local LLM? Here's Why</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/vdx-quickcapture-evaluation-complete-reviews/"><u>VDX QuickCapture Evaluation Complete Reviews</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/victorious-ventures-in-the-top-12-tycoons-your-ultimate-gaming-goal-for-2024/"><u>Victorious Ventures in the Top 12 Tycoons - Your Ultimate Gaming Goal for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-elite-index-of-public-domain-picture-sources/"><u>2024 Approved Elite Index of Public Domain Picture Sources</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ces-2n4-showcase-the-ultimate-selection-of-must-see-innovations-by-the-editors-at-zdnet/"><u>CES 2N4 Showcase: The Ultimate Selection of Must-See Innovations by the Editors at ZDNET</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-share-your-life-on-leading-media-sites-facebook-twitter-instagram-and-youtube-unleashed/"><u>Connect and Share Your Life on Leading Media Sites - Facebook, Twitter, Instagram and Youtube Unleashed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-picks-top-10-live-broadcast-apps-for-basketball-and-soccer-fans/"><u>Expert Picks Top 10 Live-Broadcast Apps for Basketball and Soccer Fans</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-f23-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo F23 5Gwith/without a PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-plus-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 Plus to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-slow-motion-capture-with-android-a-beginners-guide-for-2024/"><u>Mastering Slow-Motion Capture with Android A Beginner's Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mira-the-ar-solution-for-businesses-now-backed-by-apple-recent-tech-acquisition-insights/"><u>Mira: The AR Solution for Businesses, Now Backed by Apple | Recent Tech Acquisition Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-the-game-day-experience-chick-fil-as-secret-to-boosting-sunday-sales-zdnet-insider/"><u>Revolutionizing the Game Day Experience: Chick-Fil-A's Secret to Boosting Sunday Sales | ZDNET Insider</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/samsung-revamps-virtual-reality-goals-with-vision-pro-led-tech-eyeing-late-2024-release-industry-insight/"><u>Samsung Revamps Virtual Reality Goals with Vision Pro Led Tech, Eyeing Late 2024 Release - Industry Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/saving-the-future-of-visual-tech-three-key-strategies-for-apples-success-with-to-rescue-the-vision-pro/"><u>Saving the Future of Visual Tech: Three Key Strategies for Apple's Success with To Rescue the Vision Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-perfection-horizontal-line-fixation/"><u>Screen Perfection - Horizontal Line Fixation</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-phoenix-launches-robust-tool-to-repair-corrupt-pdf-files-news-of-stellar/"><u>Stellar Phoenix Launches Robust Tool to Repair Corrupt PDF Files - News of Stellar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-brilliance-of-apples-vision-pro-discover-its-secret-advantages-a-closer-look-by-gadgetpundit/"><u>The Hidden Brilliance of Apple's Vision Pro: Discover Its Secret Advantages - A Closer Look by GadgetPundit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-apple-vision-pro-in-depth-guide-on-costs-capabilities-and-live-demos-techzen/"><u>Unveiling the Apple Vision Pro: In-Depth Guide on Costs, Capabilities & Live Demos | TechZen</u></a></li>
 </ul></div>
 

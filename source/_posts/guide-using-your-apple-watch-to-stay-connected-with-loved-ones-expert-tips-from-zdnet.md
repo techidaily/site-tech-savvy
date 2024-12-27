@@ -1,7 +1,7 @@
 ---
 title: "Guide: Using Your Apple Watch to Stay Connected with Loved Ones - Expert Tips From ZDNet"
-date: 2024-12-15T17:34:39.606Z
-updated: 2024-12-21T19:09:59.769Z
+date: 2024-12-20T20:25:10.120Z
+updated: 2024-12-27T18:20:13.168Z
 tags:
   - apple
 categories:
@@ -26,13 +26,13 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -45,7 +45,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -53,10 +53,6 @@ Screenshot by Lance Whitney/ZDNET
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -75,7 +71,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -100,6 +96,10 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Add a destination and send the text
 
 Next, tap the link for "Add a Destination." Start typing the address of the destination. Select the full name when it appears on the screen. Swipe down the Check In screen and select or confirm your mode of transportation -- driving, transit, or walking. Swipe down further. Tap the link for "Add Extra Time" if you need to add more time. When done, tap the yellow checkmark at the top and then tap Send to send the text. Your recipient will then receive the notification when you reach your destination and stop the Check In.
@@ -108,15 +108,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,19 +154,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/levate-your-video-presence-with-stellar-intros-in-imovie-for-2024/"><u>[New] Elevate Your Video Presence with Stellar Intros in iMovie for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-enhancing-communication-top-4-techniques-for-fb-call-records/"><u>2024 Approved Enhancing Communication Top 4 Techniques for FB Call Records</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-top-rated-avi-format-converter-apps-for-seamless-video-transformation/"><u>5 Top-Rated AVI Format Converter Apps for Seamless Video Transformation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehensive-navigation-understanding-the-site-structure-and-sitemap/"><u>Comprehensive Navigation: Understanding the Site Structure and Sitemap</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficient-techniques-for-converting-mov-files-into-avi-format/"><u>Efficient Techniques for Converting MOV Files Into AVI Format</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficiently-change-your-wav-recordings-into-mp3-format-via-the-easy-method-of-vlc-software/"><u>Efficiently Change Your WAV Recordings Into MP3 Format via the Easy Method of VLC Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/error-404-pagina-desaparecida-foxextraordinario/"><u>Error 404: Página Desaparecida - FoxExtraordinario</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-12-pro-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme 12 Pro 5Gwith/without a PC</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-the-ultimate-hdr-experience-with-asuss-4k-monitor/"><u>In 2024, The Ultimate HDR Experience with Asus's 4K Monitor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/installing-sporthd-plugin-for-enhanced-viewing-tips-for-kodi-users-version-2019/"><u>Installing SportHD Plugin for Enhanced Viewing - Tips for Kodi Users Version 20/19</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-computer-equipment-mastery-by-tom/"><u>Navigating Computer Equipment Mastery by Tom</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-music-infused-video-editing-top-picks-for-android-and-iphone-for-2024/"><u>New Music-Infused Video Editing Top Picks for Android and iPhone for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-connectivity-problems-a-users-manual-for-new-world-error-fixes/"><u>Overcoming Connectivity Problems: A User's Manual for New World Error Fixes</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/transformar-imagenes-orf-en-png-de-forma-facil-y-sin-gastos-con-onlineorftopng/"><u>Transformar Imágenes ORF en PNG De Forma Fácil Y Sin Gastos Con OnlineORFtoPNG</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-a-complete-guide-to-use-instagram-video-chat/"><u>[New] In 2024, A Complete Guide to Use Instagram Video Chat</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-premium-camcorders-head-on-video-sharing/"><u>[Updated] 2024 Approved Premium Camcorders Head-On Video Sharing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-behind-the-scenes-a-tech-savvy-approach-to-messenger-downloads-for-2024/"><u>[Updated] Behind the Scenes A Tech-Savvy Approach to Messenger Downloads for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2023s-ultimate-electric-grill-selection-find-your-perfect-match/"><u>2023'S Ultimate Electric Grill Selection: Find Your Perfect Match!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/deutschsprachige-aufkommenden-trennungsformeln/"><u>Deutschsprachige Aufkommenden Trennungsformeln</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-2024s-finest-portable-projection-solutions-for-on-the-go-viewing-cnet-reviews/"><u>Exploring 2024'S Finest Portable Projection Solutions for On-the-Go Viewing | CNET Reviews</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-tecno-camon-20-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Tecno Camon 20</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-smarter-storage-simpler-style-top-40-mobile-video-reducers-on-android/"><u>In 2024, Smarter Storage, Simpler Style Top 40 Mobile Video Reducers on Android</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/quickly-uncover-lately-watched-facebook-videos-for-2024/"><u>Quickly Uncover Lately Watched Facebook Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-error-code-31-a-comprehensive-guide/"><u>Resolving Windows Error Code 31: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/turbocharge-your-yard-care-with-futuristic-racecar-inspired-robot-mowers-for-picture-perfect-lawns/"><u>Turbocharge Your Yard Care with Futuristic Racecar-Inspired Robot Mowers for Picture-Perfect Lawns</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-top-tips-and-tricks-for-hosting-an-unforgettable-labor-day-celebration-insights-from-zdnet/"><u>Ultimate Guide: Top Tips and Tricks for Hosting an Unforgettable Labor Day Celebration - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unwrap-a-greener-future-strategies-to-gift-carbon-dioxide-removal-allowances-this-holiday-season-expert-advice-on-zdnet/"><u>Unwrap a Greener Future: Strategies to Gift Carbon Dioxide Removal Allowances This Holiday Season | Expert Advice on ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-your-night-with-new-ultra-bright-govee-permanent-outdoor-lighting-install-nowzdnet/"><u>Upgrade Your Night with New, Ultra-Bright Govee Permanent Outdoor Lighting - Install Now![ZDNET]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-ultimate-selection-the-leading-headlamps-to-own-in-2ecky2022-gear-patrol-)(title)best-camping-headlamps-of-2023-reviews-and-buyers-guide-by-outdoor-e248/"><u>ZDNet's Ultimate Selection: The Leading Headlamps to Own in 2Ecky2022 | Gear Patrol /><Title>Best Camping Headlamps of 2023 - Reviews & Buyer's Guide by Outdoor Enthusiast</Title></Head><body></u></a></li>
 </ul></div>
 

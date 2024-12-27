@@ -1,7 +1,7 @@
 ---
 title: "Redefining Efficiency: Sidelining Unproductive GPT Apps"
-date: 2024-12-15T00:06:36.359Z
-updated: 2024-12-21T19:37:56.277Z
+date: 2024-12-22T18:37:15.301Z
+updated: 2024-12-27T16:42:17.348Z
 tags:
   - chatgpt
   - open-ai
@@ -47,12 +47,16 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
 ![Aaron Web Browser on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aaron-web-browser-on-the-chatgpt-plugin-store.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  “Built for scraping data from multiple website URLs.” This is the first sentence in the description for the plugin. One would think that the description accurately captures the plugin's capabilities, but upon closer inspection, it’s not entirely true. We tried to scrape data from 20 different URLs and only one went through.
 
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to [scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/)? Maybe ChatGPT plugins are not the right tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. AppyPie App Builder
 
@@ -69,16 +73,12 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
  Sure, it seems a bit unreasonable to expect a working text-to-app plugin that can spit out apps on demand. But in an era where chatbots can write code and where text-to-image and text-to-video are a thing, text-to-app is not that ridiculous of an expectation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI Agents
 
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you go by the definition of an AI agent, it’s easy to get excited about what the “AI Agents” plugin promises to do. The plugin self-describes as a plugin to help you “unleash the power of multiple AIs.” The idea is to take a complex goal, break it into subtasks, and then leverage the power of multiple AI agents specializing in each subtask to achieve the big goal you set for it.
 
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
  It seems it was just applying a few prompt tricks and returning a not-so-enhanced copy of what ChatGPT would provide. There's really no sense of AI agents at work. It doesn't offer anything particularly different from what ChatGPT would do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. A Movie Please (FilmFindr)
@@ -100,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
 
  For quality movie suggestions, you're better off prompting the base ChatGPT model directly [to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/). By going that route, you'll get far superior results compared to relying on the "A Movie Please" plugin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. ABC Website Maker
 
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
@@ -107,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT's Plugin Store: Quantity Over Quality?
 
@@ -139,14 +139,18 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-how-to-record-switch-gameplay/"><u>[New] 2024 Approved How To Record Switch Gameplay</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-unveiling-superior-viewing-with-a-closer-examination-of-p2715q-for-2024/"><u>[New] Unveiling Superior Viewing with a Closer Examination of P2715Q for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726223583137-2024/"><u>2024 年最佳字幕下載站列表【中英文字幕】 - 必看一項!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6s-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6s without Losing Any Content? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/lytte-til-skjermfotografier-i-windows-10-4-viktige-metoder-for-a-ta-opp-bilde-med-horsel/"><u>Lytte Til Skjermfotografier I Windows 10: 4 Viktige Metoder for Å Ta Opp Bilde Med Hørsel</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/making-3d-visuals-mainstream-how-acer-is-revolutionizing-monitor-and-laptop-tech-for-wider-audiences-technewszdnet/"><u>Making 3D Visuals Mainstream: How Acer Is Revolutionizing Monitor and Laptop Tech for Wider Audiences | TechNewsZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mpe-a-avi-online-converter-de-graca-pela-movavi-facil-egratuito/"><u>MPE a AVI Online Converter De Graça Pela Movavi - Fácil Egratuito</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/software-profesional-de-edicion-fotografica-para-eliminar-objetos-soluciones-inteligentes-con-movavi/"><u>Software Profesional De Edición Fotográfica Para Eliminar Objetos: Soluciones Inteligentes Con Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-efficiency-discover-18-key-shortcuts-for-apples-ios-automation-tool/"><u>Unlock Efficiency: Discover 18 Key Shortcuts for Apple's iOS Automation Tool</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/a-smooth-narrative-flow-mastering-inshots-seamless-segments-for-2024/"><u>A Smooth Narrative Flow Mastering Inshot's Seamless Segments for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/basic-gpt-vs-advanced-web-integrated-gpt-options/"><u>Basic GPT Vs. Advanced Web-Integrated GPT Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bert-and-gpt-deciphered-pioneers-in-natural-language-processing/"><u>BERT & GPT Deciphered: Pioneers in Natural Language Processing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/developers-perception-ais-role/"><u>Developers' Perception: AI's Role</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/guide-to-premium-google-pixel-tones/"><u>Guide to Premium Google Pixel Tones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-enable-or-disable-the-on-screen-keyboard-in-windows-10/"><u>How to Enable or Disable the On-Screen Keyboard in Windows 10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-discover-8-leading-photo-grid-designers-online/"><u>In 2024, Discover 8 Leading Photo Grid Designers Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sky-perspectives-in-stunning-hd-a-mi-drone-reality/"><u>In 2024, Sky Perspectives in Stunning HD A Mi Drone Reality</u></a></li>
+<li><a href="https://facebook.techidaily.com/insight-into-metas-intentions-postponing-end-to-end-encryption-until-23/"><u>Insight Into Meta’s Intentions: Postponing End-to-End Encryption Until '23</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/izing-youtube-experience-through-a-subscription/"><u>Maximizing YouTube Experience Through a Subscription</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-boundaries-of-nlp-and-ml-research/"><u>Navigating the Boundaries of NLP & ML Research</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-resolving-in-game-sounds-in-new-world/"><u>Step-by-Step Tutorial: Resolving In-Game Sounds in New World</u></a></li>
 </ul></div>
 

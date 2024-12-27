@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Artificial Intelligence: Black Boxes Explained"
-date: 2024-09-12T07:38:23.866Z
-updated: 2024-09-13T07:38:23.866Z
+date: 2024-12-21T16:59:32.203Z
+updated: 2024-12-27T20:58:57.502Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
  AI black boxes are a concept that refers to autonomous decision-making in AI systems. Let's take a detailed look at AI Black boxes, how they work, and the concerns that surround them.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are AI Black Boxes?
@@ -41,10 +38,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
  We will set the concerns aside for the moment as we look at how AI black boxes work.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How AI Black Boxes Work
@@ -62,10 +56,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
  Once the training phase is completed, the black boxes can be deployed to make independent decisions based on the learned algorithms and patterns. However, the lack of transparency about how decisions are reached is one of the primary concerns surrounding AI black boxes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Challenges and Risks of AI Black Boxes
@@ -81,10 +72,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
  These are known challenges, and efforts are underway to develop more accountable and transparent AI systems that can "show their workings."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does the Future Hold for AI Black Boxes?
@@ -102,10 +90,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
  This is still a raw technology, one which is straining ethical and legal boundaries. Addressing the concerns around AI black boxes is critical to its future and development.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI Black Boxes: An Ethical Dilemma
@@ -133,5 +118,20 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-android-developers-choice-premier-tools-for-extracting-fb-videos/"><u>[Updated] Android Developer's Choice Premier Tools for Extracting FB Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-unlocking-mov-recording-potential-win-11s-top-six-methods-for-2024/"><u>[Updated] Unlocking .MOV Recording Potential Win 11'S Top Six Methods for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-srt-mastery-free-and-best-websites-in-top-8-lists/"><u>2024 Approved SRT Mastery Free & Best Websites in Top 8 Lists</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/webpmovavi/"><u>高画質で効率的なWEBP画像変換、Movaviのフリーオンラインツール - すぐに始める方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/aifmovavi/"><u>無料で簡単に動くAIF画像ファイルを変換:Movaviのシークレット</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movaviarwtiff/"><u>移除線上即用Movavi轉換器免費變更ARW成TIFF文件</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertissez-gratuitement-vos-fichiers-raf-en-images-jpeg-en-ligne-rapidement-seul-avec-movavi/"><u>Convertissez Gratuitement Vos Fichiers RAF en Images JPEG en Ligne Rapidement - Seul Avec Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-images-leaked-discover-google-tv-streamer-a-revolutionary-step-up-from-the-classic-chromecast-digital-gadgets-buzz/"><u>Exclusive Images Leaked: Discover Google TV Streamer - A Revolutionary Step Up From the Classic Chromecast | Digital Gadgets Buzz</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-track-functionality-how-to-setup-custom-shortcuts-for-power-button-on-win11/"><u>Fast-Track Functionality: How to Setup Custom Shortcuts for Power Button on Win11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/focus-on-voice-not-background-with-skype/"><u>Focus on Voice, Not Background with Skype</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-para-el-ipad-su-solucion-simple-y-practica-para-transferir-cine-en-segundo-plano/"><u>Movavi Para El iPad: Su Solución Simple Y Práctica Para Transferir Cine en Segundo Plano</u></a></li>
+</ul></div>
 

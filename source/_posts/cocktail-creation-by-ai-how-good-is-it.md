@@ -1,7 +1,7 @@
 ---
 title: "Cocktail Creation by AI: How Good Is It?"
-date: 2024-12-18T07:23:29.544Z
-updated: 2024-12-22T02:16:39.405Z
+date: 2024-12-25T16:01:23.989Z
+updated: 2024-12-27T21:32:21.004Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
  I started out with a simple request before moving on to more difficult requests. And the results were interesting, to say the least. I have paraphrased the prompts used as there was often a back-and-forth needed to get ChatGPT to deliver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Prompt 1: "What Can I Add to an Aperol Spritz Instead of Soda?"
 
  The simple answer ChatGPT and I arrived at was lemonade. But before reaching that conclusion, ChatGPT offered up a multitude of different options to add to an Aperol Spritz. Many of which I wouldn't have ever thought of. And crucially, I doubt your local bartender would have either. These included more prosecco, another type of sparkling wine, tonic water, ginger ale, and grapefruit juice.
@@ -47,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 ![aperol-spritz-with-lemonade-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/aperol-spritz-with-lemonade-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Prompt 2: "Please Create the Best Version of an Old-Fashioned."
@@ -57,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 ![ultimate-old-fashioned-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/ultimate-old-fashioned-cocktail.jpg)
 
  I did follow up by asking for some tweaks I could make, resulting in some ideas for variations on the Old-Fashioned for another time. This included using maple syrup instead of simple syrup (as Canadians do), using flavored whiskies rather than straight bourbon or rye, and adding smoked ingredients such as oak chips.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Prompt 3: "Please Tweak a Classic Cocktail to Make It Even Better."
 
@@ -68,14 +76,10 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
 ![pina-colada-with-a-twist-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/pina-colada-with-a-twist-cocktail.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  I also tried adding cinnamon, which also worked well. However, the cinnamon upped the sweetness and overpowered some of the other flavors.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Prompt 4: "Please Create a New, Wholly Original Cocktail."
@@ -93,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 ![island-serenade-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/island-serenade-chatgpt-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Prompt 5: "What Cocktail Should I Make Right Now?"
@@ -103,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
  I had never heard of this cocktail, but a quick Google Search reveals that it's a well-known recipe. In fact, the recipes vary wildly, but the one that ChatGPT offered up made for a tasty cocktail that definitely aligned with the brief I had provided.
 
 ![orange-blossom-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/orange-blossom-chatgpt-cocktail.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## So, Is ChatGPT Good at Making Cocktails?
 
@@ -149,19 +149,19 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-recovery.techidaily.com/fixed-reinstall-realtek-hd-audio-manager-on-windows-1011/"><u>[Fixed] Reinstall Realtek HD Audio Manager on Windows 10/11</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-streamline-your-watch-time-enable-youtube-autoplay-on-fb/"><u>[New] In 2024, Streamline Your Watch Time Enable YouTube Autoplay on FB</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/flvasfmovavi/"><u>在線免費FLV與ASF間改編工具，用Movavi進行影片格式轉換</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversione-libera-online-da-file-wma-a-formato-ogg-con-movavi/"><u>Conversione Libera Online: Da File WMA a Formato Ogg Con Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-destiny-2-voice-chat-malfunction/"><u>Expert Tips for Resolving Destiny 2 Voice Chat Malfunction</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Realme Narzo N55? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-download-and-use-imovie-for-your-pc-step-by-step-instructions/"><u>How to Download and Use iMovie for Your PC - Step-by-Step Instructions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/hubs-of-immersive-visual-storytelling-for-2024/"><u>Hubs of Immersive Visual Storytelling for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-wax-video-editing-software-tips-tricks-and-tutorials/"><u>New Wax Video Editing Software Tips, Tricks, and Tutorials</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-when-alexa-cant-find-the-echo-network/"><u>Step-by-Step Solutions When Alexa Can't Find the Echo Network</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-choosing-your-perfect-9-online-anniversary-celebration-videos/"><u>The Ultimate Guide to Choosing Your Perfect 9 Online Anniversary Celebration Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforma-tus-fotos-en-formato-cr2-directamente-al-popular-jpg-con-facilidad-guia-completa/"><u>Transforma Tus Fotos en Formato CR2 Directamente Al Popular JPG Con Facilidad - Guía Completa</u></a></li>
-<li><a href="https://article-tips.techidaily.com/vegas-pro-2021-unpacked-game-changer-or-just-another-tool-in-2024/"><u>Vegas Pro 2021 Unpacked Game Changer or Just Another Tool, In 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/versterk-je-webinarrief-met-gratuite-f4vflv-konektie-overwin-met-movavi-konverteerder/"><u>Versterk Je Webinarrief Met Gratuite F4V/FLV Konektie - Overwin Met Movavi Konverteerder</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-unveiling-the-top-methods-of-video-and-screenshots/"><u>[New] In 2024, Unveiling the Top Methods of Video & Screenshots</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-social-savvy-fetching-and-storing-twitters-animated-gifs/"><u>[New] Social Savvy Fetching and Storing Twitter's Animated GIFs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-complete-facetune-overhaul-analysis-a-2024-insight/"><u>[Updated] Complete Facetune Overhaul Analysis A 2024 Insight</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-economical-android-communication-tools-best-of-10-for-2024/"><u>[Updated] Economical Android Communication Tools, Best of 10 for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-mastering-the-use-of-telegram-in-a-step-by-step-approach/"><u>[Updated] In 2024, Mastering the Use of Telegram in a Step-by-Step Approach</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bot-communication-how-they-pretend-to-speak/"><u>Bot Communication: How They Pretend to Speak</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exposing-ai-susceptibility-to-prompt-injection-techniques/"><u>Exposing AI Susceptibility to Prompt Injection Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/free-lut-heaven-the-10-finest-and-accessible-resources-for-2024/"><u>Free LUT Heaven The 10 Finest and Accessible Resources for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-outlook-how-does-predictive-ai-work/"><u>Inside Outlook: How Does Predictive AI Work?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-ai-search-access-bing-on-your-devices/"><u>Introducing AI Search: Access Bing on Your Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/myai-meets-chatgpt-which-social-platform-to-choose/"><u>MyAI Meets ChatGPT: Which Social Platform to Choose?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/secure-top-tier-picture-restoration-tools-for-quality-image-recovery/"><u>Secure Top-Tier Picture Restoration Tools for Quality Image Recovery</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/simple-tips-for-capturing-google-voice-conversations-for-2024/"><u>Simple Tips for Capturing Google Voice Conversations for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/truth-or-chatter-debunking-9-popular-ai-chatbot-claims/"><u>Truth or Chatter? Debunking 9 Popular AI Chatbot Claims</u></a></li>
 </ul></div>
 

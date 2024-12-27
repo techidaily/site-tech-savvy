@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Challenge: GPT Against HuggingFace"
-date: 2024-12-20T22:08:20.332Z
-updated: 2024-12-21T20:50:37.996Z
+date: 2024-12-20T18:03:39.753Z
+updated: 2024-12-27T16:21:30.594Z
 tags:
   - chatgpt
   - open-ai
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 ![Screenshot of HuggingChat confirming an account is required](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-confirming-an-account-is-required.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, we used it with an account and without any problems. If this changes, or you'd prefer to set up an account, it is free, and you can sign up on [HuggingFace](https://huggingface.co/join).
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 ![Screenshot of ChatGPT answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-answering-baseball-question.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Summarizing Articles
@@ -93,28 +93,24 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 
 ![Screenshot of HuggingChat summarzing MUO article-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarzing-muo-article-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To test this ability further, we asked a similar question without entering the URL and using an article that was only published (it was "[What Are IPFS Phishing Attacks](https://www.makeuseof.com/what-are-ipfs-phishing-attacks-and-how-to-avoid-them)," for reference). Again, both tools managed this admirably, as the images demonstrate.
 
  This was ChatGPT's effort:
 
 ![Screenshot of ChatGPT referencing an article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-referencing-an-article-without-a-url.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  HuggingChat's summary looked like this:
 
 ![Screenshot of HuggingChat summarizing article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarizing-article-without-a-url.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There isn't much difference between the two tools here, so let's see how they compare when we test them for creativity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## HuggingChat vs. ChatGPT: How Do They Compare Creatively?
@@ -131,11 +127,11 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 
 ![Screenshot HuggingChat love song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-huggingchat-love-song.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Shakespeare himself would be impressed with both of these!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Security and Privacy
 
@@ -148,6 +144,10 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 * **Cybersecurity vulnerabilities**: ChatGPT is a complex system that may contain cybersecurity vulnerabilities that can be exploited by attackers.
 
  One thing to note is that HuggingChat seems to work fine with an account. This is useful if you want to minimize the privacy risks associated with the platforms.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Is Best: HuggingChat or ChatGPT?
 
@@ -188,20 +188,18 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-complete-guide-to-registering-with-youtube/"><u>[New] 2024 Approved A Complete Guide to Registering with YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-secure-and-enhance-slack-communications-with-top-10-free-audio-apps/"><u>[New] In 2024, Secure & Enhance Slack Communications with Top 10 Free Audio Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-inside-the-secrets-of-quantum-hdr-photography/"><u>[New] Inside the Secrets of Quantum HDR Photography</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-breaking-the-ice-with-instagrams-interactive-audience-queries/"><u>[Updated] 2024 Approved Breaking the Ice with Instagram's Interactive Audience Queries</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-15-must-have-openers-for-maximum-youtube-engagement/"><u>[Updated] In 2024, 15 Must-Have Openers for Maximum YouTube Engagement</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-elevate-your-hp-experience-with-these-4-screen-record-methods/"><u>[Updated] In 2024, Elevate Your HP Experience with These 4 Screen Record Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/advanced-tech-aiding-scholarly-note-collection/"><u>Advanced Tech Aiding Scholarly Note Collection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-blueprint-for-youtube-video-narratives/"><u>ChatGPT's Blueprint for YouTube Video Narratives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/defend-website-reject-openai-bots/"><u>Defend Website: Reject OpenAI Bots</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/durable-and-efficient-the-enhanced-cooler-master-power-supply-unit-featuring-the-advanced-12vhpwr-technology/"><u>Durable and Efficient: The Enhanced Cooler Master Power Supply Unit Featuring the Advanced 12VHPWR Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficiently-implementing-gpt-3-with-python/"><u>Efficiently Implementing GPT-3 with Python</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt4all-demystified-operation-insights/"><u>GPT4All Demystified: Operation Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interactive-multilingualism-chatgpt-at-the-forefront/"><u>Interactive Multilingualism: ChatGPT at the Forefront</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Hub: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformative-health-aids-choosing-the-best-8-gpts/"><u>Transformative Health Aids: Choosing the Best 8 GPTs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-10-cool-features-that-make-you-love-filmora-video-editor/"><u>[New] 10 Cool Features That Make You Love Filmora Video Editor</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-shortform-video-tweets-as-webm-sounds-for-2024/"><u>[Updated] Shortform Video Tweets as WebM Sounds for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-pixels-11-proven-methods-for-better-colors/"><u>2024 Approved Perfecting Pixels 11 Proven Methods for Better Colors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-security-with-vbox-turn-onoff-secure-boot-and-tpm/"><u>Boost Security with VBox: Turn On/Off Secure Boot & TPM</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-gpt-dialogues-dont-miss-these-pitfalls/"><u>Enhancing GPT Dialogues: Don’t Miss These Pitfalls</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-nvidia-1080-ti-cards-up-to-date-free-download-and-installation-steps/"><u>Get Your NVIDIA 1080 Ti Cards Up to Date: Free Download & Installation Steps</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-xs-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone XS</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/leveraging-data-key-performance-indicators-for-igtv-videos/"><u>Leveraging Data Key Performance Indicators for IGTV Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-v29-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after V29 has been deleted.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/skirting-the-edge-of-chatgpts-word-length-limit/"><u>Skirting the Edge of ChatGPT’s Word Length Limit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essential-role-of-vector-databases-in-ai-evolution/"><u>The Essential Role of Vector Databases in AI Evolution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-6-titans-dominating-massive-data-realms/"><u>Ultimate 6 Titans Dominating Massive Data Realms</u></a></li>
 </ul></div>
 

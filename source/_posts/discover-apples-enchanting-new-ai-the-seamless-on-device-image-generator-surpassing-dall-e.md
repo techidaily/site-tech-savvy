@@ -1,7 +1,7 @@
 ---
 title: "Discover Apple's Enchanting New AI: The Seamless, On-Device Image Generator Surpassing DALL-E"
-date: 2024-12-15T06:12:33.414Z
-updated: 2024-12-21T20:15:25.636Z
+date: 2024-12-20T19:21:42.967Z
+updated: 2024-12-27T21:01:01.400Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ What do I believe Apple needs to reveal -- or, at least, set in motion -- this m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Develop a clear on-device strategy for generative AI and invest in AI-driven developer tools
 
 Apple needs a robust strategy for integrating [gen AI](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/) across its devices. Embedding a small language model into MacOS, iOS, iPadOS, and VisionOS will enable real-time processing, improved responsiveness, and increased privacy by keeping more data on-device. Apple should also provide robust APIs to seamlessly utilize on-device, edge, and cloud processing for natural language understanding and computer vision tasks. 
@@ -49,7 +53,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Leverage ethical AI and privacy as a competitive advantage
@@ -65,7 +69,7 @@ Providing private or family-specific AI instances would further enhance privacy 
 By focusing on these principles, Apple can lead by example and set new benchmarks in developing and deploying ethical AI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Integrate seamlessly with third-party services and partner with multiple AI providers
@@ -83,7 +87,7 @@ Apple should also incorporate [Retrieval-Augmented Generation](https://www.zdnet
 Partnering with multiple AI providers, including specialists in natural language processing, computer vision, and machine learning, will bring cutting-edge innovations and accelerate the development of advanced features across Apple's ecosystem. This multi-partner approach reduces the risk of over-reliance on a single provider, increases resilience, and allows Apple to tailor AI solutions to different markets and user segments.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Deploy AI-accelerated appliances on the edge with dedicated cloud capacity
@@ -104,10 +108,6 @@ AI can enhance contextual awareness by integrating with sensors and data sources
 
 Proactive health and wellness features could remind users to take medication via the Health app, suggest wellness tips based on activity levels tracked by Apple Watch, and offer mental health support through mindfulness reminders. Personalized routines on Apple devices, like HomePod adjusting lighting based on daily habits, will enhance user experiences.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Ensure AI shines across all products and services
 
 Given Apple's extensive range of consumer products, generative AI capabilities must excel across every product in the ecosystem. I think I can speak for every Apple product user that enhancing Siri to make its responses more relevant and intelligent is crucial, but generative AI must also improve experiences in Apple Music, Apple News, Health, Fitness+, and TV.
@@ -125,7 +125,7 @@ Leveraging AI to enhance HomeKit's capabilities is essential, especially since H
 Integrating AI across all devices ensures a seamless user experience. Preferences and data from one device would then inform recommendations on another, creating a unified ecosystem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple wins the generative AI race
@@ -170,16 +170,18 @@ For consumers, the AI race is about trust, user experience, and integrating adva
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-transform-your-snapshots-into-shares-heres-how/"><u>[New] In 2024, Transform Your Snapshots Into Shares – Here's How</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-initiating-an-entrepreneurial-journey-with-just-a-click-on-mobile-devices/"><u>2024 Approved Initiating an Entrepreneurial Journey with Just a Click on Mobile Devices</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-honor-v-purse-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Honor V Purse?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/convert-and-secure-your-earthcam-visuals-as-mp4-wmv-mov-avi-files-for-personal-use/"><u>Convert & Secure Your EarthCam Visuals as MP4, WMV, MOV, AVI Files for Personal Use.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/emotional-resilience-with-the-newest-5-chatbot-tools/"><u>Emotional Resilience with the Newest 5 Chatbot Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/first-row-fun-beyond-the-game-top-alternatives/"><u>First Row Fun Beyond the Game Top Alternatives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-inspiration-to-ink-chatgpts-role-in-tale-crafting/"><u>From Inspiration to Ink: ChatGPT's Role in Tale Crafting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-does-gpt4all-achieve-its-results/"><u>How Does GPT4All Achieve Its Results?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-mirage-of-manuscripts-identifying-machine-made-texts/"><u>The Mirage of Manuscripts: Identifying Machine Made Texts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-from-likes-to-leads-a-comprehensive-guide-to-influencer-driven-marketing/"><u>[New] 2024 Approved From Likes to Leads A Comprehensive Guide to Influencer-Driven Marketing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-embark-on-a-digital-communication-adventure-with-google-meet-for-2024/"><u>[New] Embark on a Digital Communication Adventure with Google Meet for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-high-performance-in-fb-video-streaming/"><u>[Updated] 2024 Approved High Performance in FB Video Streaming</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-ultimate-checklist-for-efficiently-uploading-tracks-on-youtube/"><u>[Updated] 2024 Approved The Ultimate Checklist for Efficiently Uploading Tracks on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/brainstorm-boost-ai-and-visual-thought-mapping/"><u>Brainstorm Boost: AI and Visual Thought Mapping</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-ai-vulnerability-decoding-the-process-of-prompt-injections/"><u>Breaking Down AI Vulnerability: Decoding the Process of Prompt Injections</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-repairing-your-pcs-affected-app-download-cache-fixed/"><u>Comprehensive Guide: Repairing Your PC's Affected App Download Cache (FIXED)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-chatgpts-co-pilot-extension-what-it-can-achieve/"><u>Discovering ChatGPT's Co-Pilot Extension: What It Can Achieve</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-guide-to-video-making-on-mac-top-tools-and-tips/"><u>New In 2024, The Ultimate Guide to Video Making on Mac Top Tools and Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-living-embrace-these-9-chatgpt-tools/"><u>Seamless Living: Embrace These 9 ChatGPT Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-best-mobile-editors-for-professional-gopro-videos/"><u>The Best Mobile Editors for Professional GoPro Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-xiaomi-mi-mix-fold-anticipated-costs-launch-timeline-and-specs-insider-gossip/"><u>Unveiling the Xiaomi Mi Mix Fold: Anticipated Costs, Launch Timeline & Specs – Insider Gossip</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-best-vsdc-video-editor-substitutes-for-macos-for-2024/"><u>Updated Best VSDC Video Editor Substitutes for macOS for 2024</u></a></li>
 </ul></div>
 

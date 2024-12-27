@@ -1,7 +1,7 @@
 ---
 title: Bridging Human and Machine Writing with ChatGPT, Word Edition
-date: 2024-12-19T08:32:13.237Z
-updated: 2024-12-21T20:48:07.727Z
+date: 2024-12-24T17:51:16.716Z
+updated: 2024-12-27T21:02:08.395Z
 tags:
   - chatgpt
   - open-ai
@@ -45,15 +45,20 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 3. Click on **Get Add-ins** to go to the Microsoft Office Add-ins store.  
 ![Microsoft Word add-ins store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/microsoft-word-add-ins-store.jpg)
 4. Search for **ChatGPT**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Find ChatGPT for Excel Word and click **Add** to install it.
 6. Click **Continue** to accept the license and agreements.  
 ![ChatGPT add-in installation prompt in Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-add-in-installation-prompt-in-word.jpg)
 
- Once the add-in finishes installing, you'll get a prompt on the bottom right telling you you can access the add-in from the Home tab.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Once the add-in finishes installing, you'll get a prompt on the bottom right telling you you can access the add-in from the Home tab.
 
 ## How to Generate Documents in Word With ChatGPT
 
@@ -70,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 ![ChatGPT add-in in Word welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-add-in-in-word-welcome-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The best thing about this ChatGPT add-in is that it doesn't just save you a trip to your browser. It also works based on the context of your document, or selections of your document. With the add-in open, highlight a piece of your document, and you'll see that the prompt box in the add-in says it's using selection as context. You can also use the entire document as context by pressing **Ctrl** \+ **A** on your keyboard to select everything.
@@ -89,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 
  The add-in displays a preview of how many tokens your prompt will cost under the prompt box. ChatGPT uses the entire conversation as context, so remember to reset the conversation to avoid exceeding your [ChatGPT token limit](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Unleash the Power of ChatGPT in Microsoft Word
 
  The integration of ChatGPT into Microsoft Word opens up a world of possibilities for automating document creation. By following the simple steps outlined in this article, you can harness the power of language models to enhance your productivity and efficiency in Word.
@@ -106,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
  Automation has become essential to increasing productivity and efficiency. Microsoft Word, the ubiquitous word processing software, has been a staple for document creation for decades. But what if you could enhance your document creation process with the power of artificial intelligence?
 
  Well, you can! Thanks to a handy add-in, you can seamlessly integrate the power of ChatGPT into Microsoft Word, making your document creation process more efficient and effective.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Install the ChatGPT Add-In in Word
 
@@ -138,6 +135,10 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 
 ![Entering API key for ChatGPT add-in in Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/entering-api-key-for-chatgpt-add-in-in-word.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the hamburger menu and select **API key**. Paste your API key and click **Save API Key**. Once you get the green light, you're all set to use ChatGPT right inside Word!
 
 ![ChatGPT add-in in Word welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-add-in-in-word-welcome-screen.jpg)
@@ -145,14 +146,83 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
  The best thing about this ChatGPT add-in is that it doesn't just save you a trip to your browser. It also works based on the context of your document, or selections of your document. With the add-in open, highlight a piece of your document, and you'll see that the prompt box in the add-in says it's using selection as context. You can also use the entire document as context by pressing **Ctrl** \+ **A** on your keyboard to select everything.
 
 ![Using the ChatGPT Add-in in Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/using-the-chatgpt-add-in-in-word.jpg)
+
+ Now input a prompt and click **Send** to see the magic of AI at work. You can use ChatGPT to translate, summarize, and improve the text in your Word document. You can also ask it questions and get answers based on your selected context.
+
+![Text generation with the ChatGPT Add-in in Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/text-generation-with-the-chatgpt-add-in-in-word.jpg)
+
+ In addition, you can select a piece of the text and ask ChatGPT to write the rest for you. For better output, you can [train ChatGPT to write like you](https://www.makeuseof.com/how-to-train-chatgpt-to-write-like-you/) before asking it to generate text.
+
+ Once you get the answer to your prompt, the add-in provides you with the options to **Embed** the reply under the selection, or to **Replace** the selection with the ChatGPT reply.
+
+![Token cost preview in ChatGPT add-in for Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/token-preview-in-chatgpt-add-in-for-word.jpg)
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+ The add-in displays a preview of how many tokens your prompt will cost under the prompt box. ChatGPT uses the entire conversation as context, so remember to reset the conversation to avoid exceeding your [ChatGPT token limit](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Unleash the Power of ChatGPT in Microsoft Word
+
+ The integration of ChatGPT into Microsoft Word opens up a world of possibilities for automating document creation. By following the simple steps outlined in this article, you can harness the power of language models to enhance your productivity and efficiency in Word.
+
+ Whether you're a student, a professional, or anyone needing text-related assistance, this add-in can be a game-changer. So, why not give it a try and experience the benefits of AI-assisted document creation for yourself?
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Automation has become essential to increasing productivity and efficiency. Microsoft Word, the ubiquitous word processing software, has been a staple for document creation for decades. But what if you could enhance your document creation process with the power of artificial intelligence?
+
+ Well, you can! Thanks to a handy add-in, you can seamlessly integrate the power of ChatGPT into Microsoft Word, making your document creation process more efficient and effective.
+
+## How to Install the ChatGPT Add-In in Word
+
+ Since [Microsoft Copilot is the official AI assistance for Microsoft Office](https://www.makeuseof.com/what-is-microsoft-365-copilot/), there has been little reason to integrate ChatGPT into Office apps like Word. Nevertheless, the [ChatGPT for Excel Word](https://pages.store.office.com/addinsinstallpage.aspx?assetid=WA200005502) add-in allows you to use your OpenAI API to harness the capabilities of ChatGPT right within your Word application.
+
+ Here's how you can install this add-in to use ChatGPT inside Word:
+
+1. Open Microsoft Word.
+2. Navigate to the **Insert** tab from the ribbon.
+3. Click on **Get Add-ins** to go to the Microsoft Office Add-ins store.  
+![Microsoft Word add-ins store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/microsoft-word-add-ins-store.jpg)
+4. Search for **ChatGPT**.
+5. Find ChatGPT for Excel Word and click **Add** to install it.
+6. Click **Continue** to accept the license and agreements.  
+![ChatGPT add-in installation prompt in Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-add-in-installation-prompt-in-word.jpg)
+
+ Once the add-in finishes installing, you'll get a prompt on the bottom right telling you you can access the add-in from the Home tab.
+
+## How to Generate Documents in Word With ChatGPT
+
+ After successfully installing the ChatGPT add-in, you need to provide it with your OpenAI API key for it to work. If you don't already have one, you can create an OpenAI API key from the OpenAI website.
+
+![ChatGPT add-in in Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-add-in-in-word.jpg)
+
+ With your API key in tow, go to the **Home** tab and select ChatGPT for Excel Word in the right corner. This will open a side window on the right.
+
+![Entering API key for ChatGPT add-in in Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/entering-api-key-for-chatgpt-add-in-in-word.jpg)
+
+ Click the hamburger menu and select **API key**. Paste your API key and click **Save API Key**. Once you get the green light, you're all set to use ChatGPT right inside Word!
+
+![ChatGPT add-in in Word welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-add-in-in-word-welcome-screen.jpg)
+
+ The best thing about this ChatGPT add-in is that it doesn't just save you a trip to your browser. It also works based on the context of your document, or selections of your document. With the add-in open, highlight a piece of your document, and you'll see that the prompt box in the add-in says it's using selection as context. You can also use the entire document as context by pressing **Ctrl** \+ **A** on your keyboard to select everything.
+
+![Using the ChatGPT Add-in in Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/using-the-chatgpt-add-in-in-word.jpg)
+
  Now input a prompt and click **Send** to see the magic of AI at work. You can use ChatGPT to translate, summarize, and improve the text in your Word document. You can also ask it questions and get answers based on your selected context.
 
 ![Text generation with the ChatGPT Add-in in Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/text-generation-with-the-chatgpt-add-in-in-word.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In addition, you can select a piece of the text and ask ChatGPT to write the rest for you. For better output, you can [train ChatGPT to write like you](https://www.makeuseof.com/how-to-train-chatgpt-to-write-like-you/) before asking it to generate text.
 
@@ -187,93 +257,16 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 3. Click on **Get Add-ins** to go to the Microsoft Office Add-ins store.  
 ![Microsoft Word add-ins store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/microsoft-word-add-ins-store.jpg)
 4. Search for **ChatGPT**.
-5. Find ChatGPT for Excel Word and click **Add** to install it.
-6. Click **Continue** to accept the license and agreements.  
-![ChatGPT add-in installation prompt in Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-add-in-installation-prompt-in-word.jpg)
-
- Once the add-in finishes installing, you'll get a prompt on the bottom right telling you you can access the add-in from the Home tab.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## How to Generate Documents in Word With ChatGPT
-
- After successfully installing the ChatGPT add-in, you need to provide it with your OpenAI API key for it to work. If you don't already have one, you can create an OpenAI API key from the OpenAI website.
-
-![ChatGPT add-in in Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-add-in-in-word.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
- With your API key in tow, go to the **Home** tab and select ChatGPT for Excel Word in the right corner. This will open a side window on the right.
-
-![Entering API key for ChatGPT add-in in Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/entering-api-key-for-chatgpt-add-in-in-word.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
- Click the hamburger menu and select **API key**. Paste your API key and click **Save API Key**. Once you get the green light, you're all set to use ChatGPT right inside Word!
-
-![ChatGPT add-in in Word welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-add-in-in-word-welcome-screen.jpg)
-
- The best thing about this ChatGPT add-in is that it doesn't just save you a trip to your browser. It also works based on the context of your document, or selections of your document. With the add-in open, highlight a piece of your document, and you'll see that the prompt box in the add-in says it's using selection as context. You can also use the entire document as context by pressing **Ctrl** \+ **A** on your keyboard to select everything.
-
-![Using the ChatGPT Add-in in Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/using-the-chatgpt-add-in-in-word.jpg)
-
- Now input a prompt and click **Send** to see the magic of AI at work. You can use ChatGPT to translate, summarize, and improve the text in your Word document. You can also ask it questions and get answers based on your selected context.
-
-![Text generation with the ChatGPT Add-in in Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/text-generation-with-the-chatgpt-add-in-in-word.jpg)
-
- In addition, you can select a piece of the text and ask ChatGPT to write the rest for you. For better output, you can [train ChatGPT to write like you](https://www.makeuseof.com/how-to-train-chatgpt-to-write-like-you/) before asking it to generate text.
-
- Once you get the answer to your prompt, the add-in provides you with the options to **Embed** the reply under the selection, or to **Replace** the selection with the ChatGPT reply.
-
-![Token cost preview in ChatGPT add-in for Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/token-preview-in-chatgpt-add-in-for-word.jpg)
-
- The add-in displays a preview of how many tokens your prompt will cost under the prompt box. ChatGPT uses the entire conversation as context, so remember to reset the conversation to avoid exceeding your [ChatGPT token limit](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Unleash the Power of ChatGPT in Microsoft Word
-
- The integration of ChatGPT into Microsoft Word opens up a world of possibilities for automating document creation. By following the simple steps outlined in this article, you can harness the power of language models to enhance your productivity and efficiency in Word.
-
- Whether you're a student, a professional, or anyone needing text-related assistance, this add-in can be a game-changer. So, why not give it a try and experience the benefits of AI-assisted document creation for yourself?
-
-**MUO VIDEO OF THE DAY**
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- Automation has become essential to increasing productivity and efficiency. Microsoft Word, the ubiquitous word processing software, has been a staple for document creation for decades. But what if you could enhance your document creation process with the power of artificial intelligence?
-
- Well, you can! Thanks to a handy add-in, you can seamlessly integrate the power of ChatGPT into Microsoft Word, making your document creation process more efficient and effective.
-
-## How to Install the ChatGPT Add-In in Word
-
- Since [Microsoft Copilot is the official AI assistance for Microsoft Office](https://www.makeuseof.com/what-is-microsoft-365-copilot/), there has been little reason to integrate ChatGPT into Office apps like Word. Nevertheless, the [ChatGPT for Excel Word](https://pages.store.office.com/addinsinstallpage.aspx?assetid=WA200005502) add-in allows you to use your OpenAI API to harness the capabilities of ChatGPT right within your Word application.
-
- Here's how you can install this add-in to use ChatGPT inside Word:
-
-1. Open Microsoft Word.
-2. Navigate to the **Insert** tab from the ribbon.
-3. Click on **Get Add-ins** to go to the Microsoft Office Add-ins store.  
-![Microsoft Word add-ins store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/microsoft-word-add-ins-store.jpg)
-4. Search for **ChatGPT**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Find ChatGPT for Excel Word and click **Add** to install it.
 6. Click **Continue** to accept the license and agreements.  
 ![ChatGPT add-in installation prompt in Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-add-in-installation-prompt-in-word.jpg)
 
  Once the add-in finishes installing, you'll get a prompt on the bottom right telling you you can access the add-in from the Home tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Generate Documents in Word With ChatGPT
 
@@ -289,6 +282,10 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 
 ![ChatGPT add-in in Word welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-add-in-in-word-welcome-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The best thing about this ChatGPT add-in is that it doesn't just save you a trip to your browser. It also works based on the context of your document, or selections of your document. With the add-in open, highlight a piece of your document, and you'll see that the prompt box in the add-in says it's using selection as context. You can also use the entire document as context by pressing **Ctrl** \+ **A** on your keyboard to select everything.
 
 ![Using the ChatGPT Add-in in Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/using-the-chatgpt-add-in-in-word.jpg)
@@ -296,6 +293,10 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
  Now input a prompt and click **Send** to see the magic of AI at work. You can use ChatGPT to translate, summarize, and improve the text in your Word document. You can also ask it questions and get answers based on your selected context.
 
 ![Text generation with the ChatGPT Add-in in Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/text-generation-with-the-chatgpt-add-in-in-word.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In addition, you can select a piece of the text and ask ChatGPT to write the rest for you. For better output, you can [train ChatGPT to write like you](https://www.makeuseof.com/how-to-train-chatgpt-to-write-like-you/) before asking it to generate text.
 
@@ -326,21 +327,18 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-how-to-convert-youtube-tracks-to-mp3-safely-the-3-best-ways/"><u>[New] 2024 Approved How To Convert YouTube Tracks to MP3 Safely - The 3 Best Ways</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-speedy-tempo-change-software-showcase-mobile-pc/"><u>[New] Speedy Tempo Change Software Showcase (Mobile, PC)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-elevate-video-popularity-12-key-strategies-unveiled/"><u>[Updated] Elevate Video Popularity 12 Key Strategies Unveiled</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-exploring-new-horizons-video-resources-for-dynamic-learning-spaces/"><u>[Updated] In 2024, Exploring New Horizons Video Resources for Dynamic Learning Spaces</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/confronting-ios-disturbances-why-apple-must-address-these-common-iphone-issues-cnet-review/"><u>Confronting iOS Disturbances: Why Apple Must Address These Common iPhone Issues | CNET Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-vs-bert-analyzing-linguistic-innovators-traits/"><u>GPT Vs. BERT: Analyzing Linguistic Innovators' Traits</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-from-video-to-song-instagrams-mp3-conversion-process/"><u>In 2024, From Video to Song Instagram's Mp3 Conversion Process</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Infinix Smart 8 HD? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-case-review-by-zdnet-why-its-remarkable-battery-life-outshines-the-handy-physical-keyboard/"><u>IPhone Case Review by ZDNet: Why Its Remarkable Battery Life Outshines the Handy Physical Keyboard</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-response-size-restricted-by-characterswords/"><u>Is ChatGPT Response Size Restricted by Characters/Words?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/love-algorithms-how-gpt-transforms-relationships/"><u>Love Algorithms: How GPT Transforms Relationships</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-nokia-c210-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Nokia C210 Screen | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-overcoming-the-crimson-display-malfunction/"><u>Step-by-Step Guide: Overcoming The Crimson Display Malfunction</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlining-service-joins-registration-without-numbers/"><u>Streamlining Service Joins: Registration Without Numbers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/toshiba-driver-downloads-and-updates-for-windows-fast-track-to-smooth-operations/"><u>Toshiba Driver Downloads & Updates for Windows - Fast Track to Smooth Operations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/whyclosedchatter-seeking-new-conversation-timeline/"><u>WhyClosedChatter: Seeking New Conversation Timeline</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ioss-finest-virtual-ps2-games/"><u>[Updated] IOS's Finest Virtual PS2 Games</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-role-in-redefining-human-experience/"><u>AI's Role in Redefining Human Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-bot-face-off-deciding-ai-conversation-leader/"><u>Generative Bot Face-Off - Deciding AI Conversation Leader</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/green-frameworks-30plus-downloads-that-transform-your-videography-skills/"><u>Green Frameworks 30+ Downloads That Transform Your Videography Skills</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-xiaomi-redmi-note-13-pro-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi Redmi Note 13 Pro 5G?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-aurora-hdr-assessment-excellence-or-overkill/"><u>In 2024, Aurora HDR Assessment Excellence or Overkill?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-apple-iphone-13-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from Apple iPhone 13</u></a></li>
+<li><a href="https://techidaily.com/is-your-itel-a05s-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Itel A05s working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-edge-40-pro-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Motorola Edge 40 Pro can’t play AVCHD .mts video</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalized-nutrition-strategies-using-chatgpt/"><u>Personalized Nutrition Strategies Using ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-showdown-for-writers-notion-ai-vs-openai/"><u>The Ultimate Showdown for Writers: Notion AI Vs. OpenAI</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723262419149-unleash-tech-potential-learn-and-compare-equipment-on-toms-hardware/"><u>Unleash Tech Potential - Learn and Compare Equipment on Tom's Hardware</u></a></li>
 </ul></div>
 

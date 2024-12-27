@@ -1,7 +1,7 @@
 ---
 title: "From Kitchen Clips to Artificial Intelligence: Unveiling the Connection"
-date: 2024-09-12T07:36:26.131Z
-updated: 2024-09-13T07:36:26.131Z
+date: 2024-12-24T19:29:20.142Z
+updated: 2024-12-27T16:49:14.716Z
 tags:
   - chatgpt
   - open-ai
@@ -24,10 +24,7 @@ thumbnail: https://thmb.techidaily.com/c2c5f7637a1a98a896ffa1ab11bfad790f7bce8ce
  One such experiment is the paperclip maximizer problem, a thought experiment that shows that a highly intelligent AI, even if designed completely without malice, could ultimately destroy humanity.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Paperclip Maximizer Problem Explained
@@ -37,10 +34,7 @@ thumbnail: https://thmb.techidaily.com/c2c5f7637a1a98a896ffa1ab11bfad790f7bce8ce
 ![Grayscale photo of a futuristic robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/artificial-general-intelligence.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The first experiment appeared in Swedish philosopher Nick Bostrom's 2003 paper, [Ethical Issues in Advanced Artificial Intelligence](https://www.researchgate.net/publication/229001428%5FEthical%5FIssues%5Fin%5FAdvanced%5FArtificial%5FIntelligence), which included the paperclip maximizer to show the existential risks an advanced enough AI could use.
@@ -56,10 +50,7 @@ thumbnail: https://thmb.techidaily.com/c2c5f7637a1a98a896ffa1ab11bfad790f7bce8ce
  The AI isn't hostile to humans; it's just indifferent. An AI that only cares about maximizing the number of paperclips would therefore wipe out humanity and essentially convert them into paperclips to reach its goal.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Does the Paperclip Maximizer Problem Apply to AI?
@@ -74,10 +65,7 @@ thumbnail: https://thmb.techidaily.com/c2c5f7637a1a98a896ffa1ab11bfad790f7bce8ce
 ![A robot holding a laptop computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/what-is-openai-gym-and-what-can-you-do-with-it-featured-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The bigger issue highlighted by the paperclip maximizer is instrumental convergence. It can also be highlighted using the Riemann hypothesis, in which case an AI designed to solve the hypothesis might very well decide to take over all of Earth's mass and convert it into computronium (the most efficient computer processors possible) to build supercomputers to solve the problem and reach its goal.
@@ -85,10 +73,7 @@ thumbnail: https://thmb.techidaily.com/c2c5f7637a1a98a896ffa1ab11bfad790f7bce8ce
  Bostrom himself has emphasized that he doesn't believe that the paperclip maximizer problem will ever be a real issue, but his intention was to illustrate the dangers of creating superintelligent machines without knowing how to control or program them not to be existentially risky to human beings. [Modern AI systems like ChatGPT have problems too](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), but they're far from the superintelligent AI systems being talked about in the paperclip maximize problem, so there's no reason to panic just yet.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Advanced AI Systems Need Superior Control
@@ -114,5 +99,20 @@ thumbnail: https://thmb.techidaily.com/c2c5f7637a1a98a896ffa1ab11bfad790f7bce8ce
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/nleash-the-power-of-first-impressions-with-top-30-youtube-intra-craftsmen-for-2024/"><u>[New] Unleash the Power of First Impressions with Top 30 YouTube Intra Craftsmen for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unlock-easy-paths-for-exceptional-yt-thumbnails/"><u>[Updated] 2024 Approved Unlock Easy Paths for Exceptional YT Thumbnails</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-vision-pros-insightful-query-revealing-spousal-affection-depths-in-a-tech-world/"><u>Apple Vision Pro's Insightful Query - Revealing Spousal Affection Depths in a Tech World</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/entering-the-metaverse-discovering-6-rich-examples/"><u>Entering the Metaverse Discovering 6 Rich Examples</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-get-started-with-telnet-command-line-tool-on-your-windows-machine/"><u>How to Get Started with Telnet Command Line Tool on Your Windows Machine</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-z-fold-5-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy Z Fold 5 FRP Bypass</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-breakthroughs-apple-eyes-ai-integration-in-domestic-robots-spotlighting-two-promising-gadgets-zdnet-coverage/"><u>Innovative Breakthroughs: Apple Eyes AI Integration in Domestic Robots, Spotlighting Two Promising Gadgets - ZDNET Coverage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-security-of-user-authentication-on-w11/"><u>Mastering the Security of User Authentication on W11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-wearable-tech-new-rumors-suggest-cameras-on-airpods-by-2026-detailed-report-zdnet/"><u>The Future of Wearable Tech? New Rumors Suggest Cameras on AirPods by 2026 - Detailed Report | ZDNET</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/ultimate-list-of-top-rated-free-4k-media-players-for-pc-and-mac-users/"><u>Ultimate List of Top-Rated Free 4K Media Players for PC and Mac Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-ultimate-apple-watch-display-shields-of-2eplust6-in-depth-comparison-and-rankings/"><u>Unveiling the Ultimate Apple Watch Display Shields of 2E+t6 | In-Depth Comparison & Rankings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-your-mobile-life-with-these-amazing-iphone-eby-16-innovations-as-discovered/"><u>Upgrade Your Mobile Life with These Amazing iPhone Eby 16 Innovations, as Discovered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vintage-gaming-geeks-insights/"><u>Vintage Gaming Geeks' Insights</u></a></li>
+</ul></div>
 

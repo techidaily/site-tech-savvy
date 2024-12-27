@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Errors: Essential GPT Chat Tips"
-date: 2024-12-15T17:42:39.428Z
-updated: 2024-12-21T16:03:15.620Z
+date: 2024-12-20T16:07:59.672Z
+updated: 2024-12-27T16:15:11.536Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Mixing Topics In a Single Chat Session
 
  While it may not seem concerning to prompt on diverse topics within the same chat session, it's worth paying attention to. ChatGPT is highly sensitive to context. Each prompt you introduce during a chat session can greatly shape the responses you receive from subsequent prompts.
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
  In the example below, after having a long discussion about the US military, we asked ChatGPT to tell us about some global conflicts, and it only picked those with some form of US participation.
 
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Too Many Instructions In a Single Prompt
 
@@ -61,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
 
  The second set of prompts will produce much more detailed information and relevant responses.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Being Overly Specific With Your Instructions
 
  Although it might appear beneficial to provide highly detailed prompts, this strategy isn't always optimal. Detailed instructions indeed offer ChatGPT a clear direction for generating responses. However, excessive detail can unintentionally confine ChatGPT's responses to an overly narrow context, potentially leading to less accurate responses and hallucinations.
@@ -76,11 +80,7 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Not Providing Context When Necessary
@@ -107,25 +107,25 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
 
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
 
@@ -160,22 +160,20 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-top-tips-to-nail-every-green-screen-scene/"><u>[New] 2024 Approved Top Tips to Nail Every Green Screen Scene</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-colors-unveiled-the-comprehensive-tutorial-for-2024/"><u>[New] Colors Unveiled The Comprehensive Tutorial for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-lenovo-quick-guide-effortless-screenshots-for-2024/"><u>[New] Lenovo Quick Guide Effortless Screenshots for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-is-the-smoothing-effect-in-photoshop-a-game-changer-or-not/"><u>[Updated] Is the Smoothing Effect in Photoshop a Game Changer or Not?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-realme-narzo-n55-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme Narzo N55 FRP Bypass Instantly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/car-enhancement-strategies-with-chatbot-expertise/"><u>Car Enhancement Strategies with Chatbot Expertise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/co-pilot-and-you-enhancing-your-experience-with-chatgpts-new-features/"><u>Co-Pilot & You: Enhancing Your Experience with ChatGPT’s New Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-meets-gearshifts-mercedes-voice-in-cars-revolution/"><u>GPT Meets Gearshifts: Mercedes' VOICE in Cars Revolution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/handling-scams-at-phony-chatgpt-platforms/"><u>Handling Scams at Phony ChatGPT Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/insight-into-ais-impact-on-prompt-design-and-employment-sustainability/"><u>Insight Into AI's Impact on Prompt Design & Employment Sustainability</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt-for-stellar-job-cover-letters/"><u>Leveraging GPT for Stellar Job Cover Letters</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/lost-messages-found-solutions-how-to-recover-any-phones-deleted-texts/"><u>Lost Messages, Found Solutions: How to Recover Any Phone's Deleted Texts</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/navigate-funimates-complexities-with-ease/"><u>Navigate Funimate's Complexities with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigate-the-world-of-books-with-these-5-artificous-intelligence-tools/"><u>Navigate the World of Books with These 5 Artificous Intelligence Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-final-cut-pro-hacks-5-insider-tips-to-streamline-your-video-editing-for-2024/"><u>New Final Cut Pro Hacks 5 Insider Tips to Streamline Your Video Editing for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210817094-9781250288141-the-broke-witch/"><u>The Broke Witch | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-the-workings-of-predictive-ai-technologies/"><u>Unraveling the Workings of Predictive AI Technologies</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-from-observer-to-participant-tips-for-guesting-on-tiktoks/"><u>[Updated] In 2024, From Observer to Participant Tips for Guesting on TikToks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-effortlessly-create-engaging-youtube-thumbnails/"><u>2024 Approved Effortlessly Create Engaging YouTube Thumbnails</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-breakthrough-at-stanford-paves-the-way-for-seamless-vr-experiences-bidding-farewell-to-heavy-headsets-zdnet/"><u>AI Breakthrough at Stanford Paves the Way for Seamless VR Experiences, Bidding Farewell to Heavy Headsets | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expect-swift-arrival-how-fast-youll-get-your-new-apple-vision-pro-revealed/"><u>Expect Swift Arrival: How Fast You'll Get Your New Apple Vision Pro Revealed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/expert-advice-resolving-manor-lords-crash-issues-on-personal-computers/"><u>Expert Advice: Resolving 'Manor Lords' Crash Issues on Personal Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/finnish-innovators-challenge-apple-with-revolutionary-vr-headset-ideal-for-enterprises-zdnet/"><u>Finnish Innovators Challenge Apple with Revolutionary VR Headset, Ideal for Enterprises | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-y78t-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Y78t</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/riprogramma-il-tuo-iphone-in-un-caffe-con-questi-semplici-passaggi-di-ripristino/"><u>Riprogramma Il Tuo iPhone in Un Caffè Con Questi Semplici Passaggi Di Ripristino</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-silent-learners-guide-to-bypassing-edgenuity-videos-effortlessly/"><u>The Silent Learner's Guide to Bypassing Edgenuity Videos Effortlessly</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-classpnpsys-problems-in-windows-117-with-step-by-step-solutions/"><u>Troubleshooting Classpnp.sys Problems in Windows 11/7 with Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-unique.techidaily.com/ultimate-diy-manual-for-upgrading-hddssd-on-your-ibm-or-lenovo-thinkpad-notebook/"><u>Ultimate DIY Manual for Upgrading HDD/SSD on Your IBM or Lenovo ThinkPad Notebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-full-potential-of-5g-overcoming-initial-challenges/"><u>Unlocking the Full Potential of 5G - Overcoming Initial Challenges</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-potential-of-tech-breakthroughs-how-2-surveys-made-2023-a-record-breaking-year-for-progress-exclusive-insights-from-zdnet/"><u>Unlocking The Potential Of Tech Breakthroughs: How 2 Surveys Made 2023 a Record-Breaking Year for Progress - Exclusive Insights From ZDNET</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-free-gif-animation-studios-for-looping-fun/"><u>Updated In 2024, Free GIF Animation Studios for Looping Fun</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-do-users-prefer-quest-3-over-other-metavr-headsets-exploring-top-user-favorite-factors/"><u>Why Do Users Prefer Quest 3 Over Other Metavr Headsets? Exploring Top User-Favorite Factors</u></a></li>
 </ul></div>
 

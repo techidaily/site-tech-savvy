@@ -1,7 +1,7 @@
 ---
 title: How Do Vector Databases Transform Machine Learning?
-date: 2024-09-12T07:37:11.562Z
-updated: 2024-09-13T07:37:11.562Z
+date: 2024-12-23T20:20:03.164Z
+updated: 2024-12-27T17:21:15.617Z
 tags:
   - chatgpt
   - open-ai
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/0de78e74e4231d077c0bbd1093422fc13ce8314c6
 
  Vector databases are services that can easily be integrated with a pre-trained model, many of which will need an [API key to access the service](https://www.makeuseof.com/chatgpt-api-complete-guide/).
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Are Vector Embeddings
 
  In simple terms, vector embeddings, or simply embeddings, are numerical representations of a subject or a word. For example, a two-dimensional embedding might look like "2, -3", where 2 represents two units in the positive direction along the x-axis, while -3 represents a negative three units along the y-axis. While a three-dimensional embedding would look like "2, -3, 5", where five places the data point 5 units in the positive direction of the z-axis.
@@ -47,28 +40,22 @@ thumbnail: https://thmb.techidaily.com/0de78e74e4231d077c0bbd1093422fc13ce8314c6
 ![Two and three dimensional vectors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/dimensional-vector.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Having more dimensions provides more context to what a piece of data is supposed to be. The number of dimensions used in vector database often range from 100 to 300 dimensions for NLP and several hundred for computer vision.
 
  Generation of vector embeddings requires the use of vector embedding models and tools such as BERT, CNNs, and RNNs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Are Vector Embeddings Important?
 
  Having the ability to plot the location of data in mathematical space allows computers to understand the relationship between data points and how strongly correlated they are to each other. By knowing the degree of correlation between each data point, an AI model will have the capability to understand queries in a contextual manner like a human would.
 
  Without understanding semantics or context, an AI may provide logically correct but contextually wrong answers. For example, the AI may misinterpret the phrase "He had a heavy heart as he walked away" as a guy with a heart condition instead of a guy feeling sad or burdened.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Vector Databases Help Boost AI
 
@@ -81,16 +68,13 @@ thumbnail: https://thmb.techidaily.com/0de78e74e4231d077c0bbd1093422fc13ce8314c6
 * **Image and Video Analysis:** With video and image embedding models, AI models can be fine-tuned to work with images to find items that look similar to the query. This is currently being implemented in many online shopping apps and websites.
 * **Anomaly Detection:** By recording actions as embeddings, an [AI model can make the world more secure](https://www.makeuseof.com/ai-cybersecurity-making-world-more-secure/) by detecting anomalies and certain outliers based on the norm. AI Anomaly detection is now a popular tool for fraud detection, system monitoring, and network intrusion.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How a Vector Database Works
 
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
 
@@ -99,10 +83,7 @@ thumbnail: https://thmb.techidaily.com/0de78e74e4231d077c0bbd1093422fc13ce8314c6
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Popular Vector Databases
@@ -115,10 +96,7 @@ thumbnail: https://thmb.techidaily.com/0de78e74e4231d077c0bbd1093422fc13ce8314c6
 * **Weaviate:** Offers schema discovery, real-time updates, semantic search, and contextualizing data. With these features, Weaviate is often used to create personalized experience systems for applications.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Future of Vector Databases
@@ -146,5 +124,26 @@ thumbnail: https://thmb.techidaily.com/0de78e74e4231d077c0bbd1093422fc13ce8314c6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-navigating-the-best-pixel-soundtracks-online/"><u>[New] 2024 Approved Navigating the Best Pixel Soundtracks Online</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-agile-approaches-storing-ppt-speeches-for-2024/"><u>[New] Agile Approaches Storing PPT Speeches for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-from-unknown-to-recognized-boosting-facebook-profile-visibility/"><u>[New] From Unknown to Recognized Boosting Facebook Profile Visibility</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-photo-magic-the-role-of-luts-in-editing/"><u>[New] Unlocking Photo Magic The Role of LUTs in Editing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-simple-solutions-to-capture-gotomeetings-effectively/"><u>[Updated] Simple Solutions to Capture GoToMeetings Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-revolutionary-update-how-the-latest-final-cut-pro-for-ipad-enhancements-transform-my-filmmaking-workflow-insights-from-zdnet/"><u>1. Revolutionary Update: How the Latest Final Cut Pro for iPad Enhancements Transform My Filmmaking Workflow - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-techniques-for-bio-linking-on-tiktok-for-2024/"><u>Advanced Techniques for Bio Linking on TikTok for 2024</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/download-a-tool-like-balenaetcher-etcher-or-unetbootin/"><u>Download a Tool Like balenaEtcher, Etcher, or UNetbootin.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-the-latest-iphone-12-feature-advanced-qi2-fast-charging-technology-without-relying-on-magsafe/"><u>Introducing the Latest iPhone 12 Feature: Advanced Qi2 Fast-Charging Technology Without Relying on MagSafe</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/leading-ultrawide-screens-reviewed-premiere-models-for-the-modern-user-2024-edition/"><u>Leading UltraWide Screens Reviewed: Premiere Models for the Modern User, 2024 Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-every-word-count-the-art-of-persuasive-proposals-and-ai/"><u>Making Every Word Count: The Art of Persuasive Proposals & AI</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/prime-day-goldmine-unbeatable-best-buy-offers-for-the-upcoming-october-prime-day-2024-highlights/"><u>Prime Day Goldmine: Unbeatable Best Buy Offers for the Upcoming October Prime Day 2024 Highlights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/social-wellness-and-ai-preventing-isolation-with-chatgpt/"><u>Social Wellness and AI: Preventing Isolation With ChatGPT</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/step-by-step-guide-preserving-your-files-before-formatting-with-windows-windows-11-10-8-and-7/"><u>Step-by-Step Guide: Preserving Your Files Before Formatting with Windows (Windows 11, 10, 8 & 7)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/todays-tips-blending-gpt-4-into-your-chatgpt-use/"><u>Today's Tips: Blending GPT-4 Into Your ChatGPT Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-macintosh-models-expert-reviews/"><u>Top-Rated Macintosh Models - Expert Reviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-dall-es-creative-images-from-webp-to-pngjpg/"><u>Transforming DALL-E's Creative Images From WebP to PNG/JPG</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-imagery-through-words-explore-the-potential-of-apples-ai-in-photo-editing-using-text-prompts-as-covered/"><u>Transforming Imagery Through Words: Explore the Potential of Apple's AI in Photo Editing Using Text Prompts, as Covered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-greatest-apple-watch-guard-screen-protectors-featured-by-tech-experts/"><u>Ultimate Guide to the Greatest Apple Watch Guard Screen Protectors – Featured by Tech Experts</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Leveraging GPT-3 in OpenAI Experience
-date: 2024-12-15T19:29:32.441Z
-updated: 2024-12-21T17:18:42.318Z
+date: 2024-12-25T16:31:18.402Z
+updated: 2024-12-27T18:21:24.252Z
 tags:
   - chatgpt
   - open-ai
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 
 ![Screenshot of Complete mode interface in OpenAI Playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-complete-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also experiment with the **Edit** mode, which you can use to submit a text and check for grammatical errors.
 
  To get the most out of GPT-3, you will need to think of a good prompt. Good prompts are specific and give context to help GPT-3 generate an appropriate answer. As a demonstration, we asked GPT-3 to "list a few names for a small dog."
@@ -62,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 ![Screenshot of OpenAI Playground prompt completion.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/openai-playground-prompt-dog-names.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The response listed different names for small dog **breeds** like Poodle, Chihuahua, and Yorkshire Terrier. However, we were hoping to get some suggestions for pet names. So let's try again, this time using the keywords "pet names" and "small fluffy dog."
@@ -72,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 ![Screenshot of OpenAI Playground prompt completion listing dog pet names.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/openai-playground-prompt-dog-pet-names.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Experiment With Different Ideas and Prompts
@@ -81,29 +85,25 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 
 ![Screenshot showing GPT-3 translating a phrase into five languages.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/gpt3-translate-language.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  These days, AI is finding its way into all sorts of apps. You can check out [all the things you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/), which, as mentioned, is an AI chatbot built by the same company and developed using the GPT-3 language model.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Keep Track of Your OpenAI Playground Credits
 
 ![Screenshot of usage stats in OpenAI Playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-usage-stats.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Before getting carried away with using OpenAI Playground, quickly look at your usage stats to see how many credits you have to spend. In the top right corner of the page, click on **Personal** \> **Manage account**, then click **Usage** from the navigation bar on the left.
 
  Tokens are used to calculate the fees, and they are based on how many words, or groups of characters, you use in a prompt; this also includes the text result you get from GPT-3\. You can see how many tokens you use each time in the bottom right of the text box area.
 
  Tokens are then translated to dollars, of which you have $5 to spend in the first three months (previously $18). It's a strange pricing model to wrap your head around at first, but what matters is that it's more than enough to play with. When we tested it out over a couple of days, we only used $0.11 from our total.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Switch to a Different GPT Model
 
@@ -118,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 * **Ada:** The fastest model in the family with the lowest costs; use this model if you don't require precise answers. It's especially recommended for creative applications rather than generating detailed and exact information.
 
  Remember that you'll still incur costs for each model you choose, but the cost per token will vary.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Improve Your Results
 
@@ -151,6 +147,10 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 
  This is one reason why it's still worth playing around in GPT-3\. There are many people who are curious about generative AI and want to try it out for fun. So, while you wait for the latest model to become available, GPT-3 is your playground.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## OpenAI Playground: Open to Everyone
 
  You don't need special knowledge of machine learning systems to play around with GPT-3\. It's simple to use and easy to fine-tune; all you have to do is start with a prompt.
@@ -174,22 +174,24 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/kyrocket-your-channel-growth-with-these-top-5-video-marketing-methods/"><u>[New] Skyrocket Your Channel Growth with These Top 5 Video Marketing Methods</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-speedy-switching-spree-from-srt-to-txt-files-done-quickly/"><u>[New] Speedy Switching Spree From SRT to TXT Files Done Quickly</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-hiccups-try-these-iphone-fixes-first/"><u>ChatGPT Hiccups? Try These iPhone Fixes First</u></a></li>
-<li><a href="https://fox-http.techidaily.com/droning-for-the-young-and-novice-top-picks/"><u>Droning for the Young and Novice Top Picks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-5s-transformation-4-future-features-we-anticipate/"><u>GPT-5's Transformation: 4 Future Features We Anticipate</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x9b-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Honor X9b PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/infinite-skills-video-lessons-free-downloads-with-subtitles/"><u>Infinite Skills Video Lessons: Free Downloads with Subtitles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-timekeeping-redefined-by-chatgpt-for-smartwatchers/"><u>Intelligent Timekeeping Redefined by ChatGPT for Smartwatchers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/local-llm-advantages-and-drawbacks-a-quick-guide/"><u>Local LLM: Advantages & Drawbacks – A Quick Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-search-game-the-pinnacle-of-ai-in-bing-android/"><u>Revolutionize Your Search Game: The Pinnacle of AI in Bing, Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/silicon-witnesses-the-comic-side-of-computing-history-and-cybersecurity/"><u>Silicon Witnesses: The Comic Side of Computing History & Cybersecurity</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-comprehensive-guide-to-editing-tiktok-account-numbers-for-2024/"><u>The Comprehensive Guide to Editing TikTok Account Numbers for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-smart-workers-playbook-6-steps-for-an-ai-savvy-career-path/"><u>The Smart Worker's Playbook: 6 Steps for an AI-Savvy Career Path</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trusting-or-doubting-chatgpts-stance/"><u>Trusting or Doubting: ChatGPT's Stance</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/unlocking-the-value-in-twitters-archives/"><u>Unlocking the Value in Twitters Archives</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-expertise-in-speech-transcription-with-googles-tools/"><u>[New] In 2024, Expertise in Speech Transcription with Google's Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-constructing-characters-settings-and-stories/"><u>[Updated] Constructing Characters, Settings & Stories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-golden-nuggets-revealing-the-hottest-reddit-topics-10/"><u>[Updated] Golden Nuggets Revealing the Hottest Reddit Topics (10)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/8-best-photo-grid-online-makers-to-polish-your-pictures-for-2024/"><u>8 Best Photo Grid Online Makers to Polish Your Pictures for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/challenging-the-norm-bank-cio-advocates-bold-thinkers-to-push-ais-limits-not-just-simple-prompt-makers/"><u>Challenging the Norm: Bank CIO Advocates Bold Thinkers to Push AI's Limits, Not Just Simple Prompt Makers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-leading-programming-bootcamp-providers-for-2e22-a-comprehensive-guide-by-zdnet/"><u>Discover the Leading Programming Bootcamp Providers for 2E22: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/future-proof-your-pc-take-advantage-of-windows-11-h2-update-plan/"><u>Future-Proof Your PC: Take Advantage of Windows 11 H2 Update Plan</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-quiet-quitting-is-reshaping-workplace-norms-managers-get-prepared-articles-by-zdnet/"><u>How 'Quiet Quitting' Is Reshaping Workplace Norms: Managers, Get Prepared | Articles by ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xls-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign .xls by digital signature</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-6-video-translators-to-translate-video/"><u>In 2024, Best 6 Video Translators to Translate Video</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-salary-talks-with-the-5w-strategy-insights-from-zdnet/"><u>Mastering Salary Talks with the 5W Strategy: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-transition-securing-a-spot-in-technology-with-your-mba-insights-from-zdnet/"><u>Mastering the Transition: Securing a Spot in Technology with Your MBA - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-hazy-results-of-modern-ai-systems-insights-from-zdnet/"><u>Navigating the Hazy Results of Modern AI Systems - Insights From ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209872269-9781950373024-playful-mindfulness/"><u>Playful Mindfulness | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pro-motherboard-drivers-easy-downloads-for-gamers/"><u>PRO Motherboard Drivers - Easy Downloads for Gamers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stealth-job-search-strategies-landing-a-new-role-without-blowing-your-current-cover/"><u>Stealth Job Search Strategies: Landing a New Role Without Blowing Your Current Cover</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-balance-of-telecommuting-vs-office-presence-visible-benefits-with-potential-pitfalls-ahead/"><u>The Balance of Telecommuting Vs. Office Presence: Visible Benefits with Potential Pitfalls Ahead</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-ultimate-2024-vista-into-vivacuts-video-editing-world/"><u>The Ultimate 2024 Vista Into VivaCut's Video Editing World</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-free-artificial-intelligence-course-options-is-investing-in-an-ai-certificate-beneficial/"><u>Top-Ranking Free Artificial Intelligence Course Options: Is Investing in an AI Certificate Beneficial?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Data Workflow: ChatGPT's 6 Essential Uses"
-date: 2024-12-17T02:44:04.260Z
-updated: 2024-12-21T16:25:52.407Z
+date: 2024-12-25T21:52:45.829Z
+updated: 2024-12-27T16:27:25.935Z
 tags:
   - chatgpt
   - open-ai
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 
 ![The response from ChatGPT on a prompt that ask it how to segment customer data.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image3-v1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Suppose you want to write a script to automate a business process. You can ask ChatGPT for ideas on how to get started. All you have to do is ask it for a prompt via the chat and wait for its response. You can ask further questions or alternative viewpoints from the response.
 
 > **Case Study:** I have a business problem. I want to [create a dashboard in Excel](https://www.makeuseof.com/create-interactive-excel-dashboard/) to segment and track the behavior of my customer. I currently run a coffee shop, and a few make orders via my e-commerce website.
@@ -45,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 > What kind of information should I collect from my customers? What key performance indicators should I measure? Which tool and type of visualization should I use? Also, what kind of cohort analysis, and what will you recommend I incorporate for my user segmentation?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Fixing Bugs and Troubleshooting
@@ -66,19 +62,11 @@ CALCULATE(
 
 ![A prompt response from ChatGPT about a debugging task](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image1-v1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. To Interpret Data and Explain Complex Code
 
 ![A prompt from ChatGPT that displays the explaination of a code block](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image6-v1.jpg)
 
  ChatGPT proves helpful when attempting to understand a long or complex piece of code. To comprehend the code in these situations, copy and paste the code you're attempting to understand and request a response by saying, "Explain this code."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. To Write, Edit and Generate Codes, Formula, and Syntax
 
@@ -112,10 +100,14 @@ else:
 
 ![A prompt that show how to add a static date and time in Tableau.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image5-v1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By writing a prompt, you can learn about new features and skills, or how to use a specific function in your favorite analytical tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Document Your Codes
@@ -266,6 +258,14 @@ ORDER BY e.employee_id;`
 
 ![A prompt reply from ChatGPT that show a fully commented SQL code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image2-v1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Data Analysts Can Use ChatGPT in Their Work
 
  Powerful AI solutions like ChatGPT boost everyone's productivity, even data analysts. Using ChatGPT's natural language processing capabilities and asking the right prompt, data analysts can quickly and accurately get ideas and insight into their tasks.
@@ -291,17 +291,18 @@ ORDER BY e.employee_id;`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-top-windows-10-tips-for-maximum-productivity/"><u>[New] 2024 Approved Top Windows 10 Tips For Maximum Productivity</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-premium-extensions-catalog-ae-edition-for-2024/"><u>[New] Premium Extensions Catalog AE Edition for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-step-up-your-game-advanced-video-trimming-techniques-in-windows-11/"><u>[New] Step Up Your Game Advanced Video Trimming Techniques in Windows 11</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-top-social-network-sites-for-youtube-growth/"><u>[Updated] Top Social Network Sites for YouTube Growth</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-videobrill-studio-affordable-video-editors-guide/"><u>[Updated] Videobrill Studio Affordable Video Editors Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/meta/"><u>音楽および動画META情報取得・確認・編集方法とソフトウェアレビュー</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-multifunctional-desktop-tools-a-guide-to-efficient-media-file-management/"><u>Mastering the Art of Multifunctional Desktop Tools: A Guide to Efficient Media File Management</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/meet-the-future-of-portable-music-introducing-the-6th-gen-ipod-nano-from-apple/"><u>Meet the Future of Portable Music - Introducing the 6Th Gen iPod Nano From Apple</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/nrg/"><u>Nrgファイル変換ガイド：ファイルをデコンプリメントし、新しい形式に</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/premiere-elements-not-for-you-try-these-10-exceptional-alternatives-instead/"><u>Premiere Elements Not for You? Try These 10 Exceptional Alternatives Instead</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsung-unveils-revolutionary-2d-to-3d-conversion-in-their-latest-monitor-technology/"><u>Samsung Unveils Revolutionary 2D to 3D Conversion in Their Latest Monitor Technology</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/sturdy-studiofx-light-kit-bright-and-bulky/"><u>Sturdy StudioFX Light Kit - Bright & Bulky</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-cutting-edge-techniques-for-srt-mastery-on-apple-computers/"><u>[New] 2024 Approved Cutting-Edge Techniques for SRT Mastery on Apple Computers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-examining-mobile-enhancements-with-androids-lightroom-app/"><u>[New] Examining Mobile Enhancements with Android's Lightroom App</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-screen-capture-showdown-is-obs-better-than-fraps-in-2024/"><u>[Updated] Screen Capture Showdown Is OBS Better Than Fraps, In 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unveiling-the-secrets-to-a-flawless-fb-live-session/"><u>2024 Approved Unveiling the Secrets to a Flawless FB Live Session</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/appleairpodspro/"><u>Apple製品の専用録音機能：AirPods/Proにおける高品質オーディオキャプチャ「マイク機能が可能なアップグレード」</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-cutting-edge-pc-techniques-for-stellar-youtube-video-production/"><u>In 2024, Cutting-Edge PC Techniques for Stellar YouTube Video Production</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-nokia-c12-plus-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Nokia C12 Plus to Another | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-best-electric-bbqs-insider-tips-from-zdnet/"><u>Ultimate Guide to Choosing the Best Electric BBQs - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-perfect-lawn-mower-recommendations-by-gizmodo/"><u>Ultimate Guide to Choosing the Perfect Lawn Mower – Recommendations by Gizmodo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-why-the-waterproof-blink-mini/"><u>Ultimate Guide: Why The Waterproof Blink Mini</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-list-of-expertly-vetted-smart-home-innovations-for-2-cups-and-let-them-steep-for-about-5-minutes-or-until-your-desired-strength-is-reached/"><u>Ultimate List of Expertly Vetted Smart Home Innovations for 2 Cups, and Let Them Steep for About 5 Minutes or Until Your Desired Strength Is Reached.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-prime-day-offer-snag-the-blink-video-doorbell-at-just-30-your-perfect-smart-home-addition-today/"><u>Unbeatable Prime Day Offer: Snag the BLINK Video Doorbell at Just $30 - Your Perfect Smart Home Addition Today!</u></a></li>
 </ul></div>
 

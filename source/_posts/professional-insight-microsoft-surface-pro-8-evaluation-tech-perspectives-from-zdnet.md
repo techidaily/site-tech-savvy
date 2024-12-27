@@ -1,7 +1,7 @@
 ---
 title: "Professional Insight: Microsoft Surface Pro 8 Evaluation - Tech Perspectives From ZDNet"
-date: 2024-12-19T00:36:23.806Z
-updated: 2024-12-21T18:08:16.463Z
+date: 2024-12-26T18:31:35.213Z
+updated: 2024-12-27T18:32:25.750Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A new-look Surface… kind of
@@ -53,7 +53,7 @@ Jason Cipriani/ZDNet
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -77,10 +77,6 @@ When you open the kickstand, you'll find a small door in the bottom left corner 
 You don't have to use a physical SIM card thanks to the Pro 8's support for an eSIM, but since I often switch between the Pro X and iPad Pro, I already had a dedicated SIM card with a data-only plan tied to it. 
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -106,6 +102,10 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### More Microsoft
 
 * [The best Windows laptop models: Comparing Dell, Samsung, Lenovo, and more](https://www.zdnet.com/article/best-windows-laptop/)
@@ -130,7 +130,7 @@ The ability to connect a tablet to an external display and have it actually work
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -168,7 +168,7 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -210,20 +210,20 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-best-waterproof-cameras-for-kids-filmmaking-and-splash-fun/"><u>[New] Best Waterproof Cameras For Kids' Filmmaking and Splash Fun</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mkv3/"><u>完全無損失でMKVを切り分ける3方法：高画質維持のコツ</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crucial-6-platforms-enhancing-commercial-relations/"><u>Crucial 6 Platforms Enhancing Commercial Relations</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/improving-workflow-with-swift-android-studio-performance-tweaks/"><u>Improving Workflow with Swift Android Studio Performance Tweaks</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-update-for-logitech-mk710-usb-camera-drivers-how-to-get-them/"><u>Latest Update for Logitech MK710 USB Camera Drivers - How to Get Them</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-video-editing-essentials-how-to-freeze-frames-like-a-pro-for-2024/"><u>New Video Editing Essentials How to Freeze Frames Like a Pro for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-solutions-to-overcome-vlcs-cfhd-codec-error-and-ensure-smooth-playback/"><u>Simple Solutions to Overcome VLC's CFHD Codec Error and Ensure Smooth Playback</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-tips-and-tricks-how-to-stream-content-via-usb-onto-your-philips-smart-tv/"><u>Simple Tips & Tricks: How To Stream Content via USB Onto Your Philips Smart TV</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplify-sound-editing-with-these-4-strategies-to-normalize-wav-audio-files/"><u>Simplify Sound Editing with These 4 Strategies to Normalize WAV Audio Files</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solving-premiere-pro-buffering-issues-discover-over-10-effective-fixes/"><u>Solving Premiere Pro Buffering Issues: Discover Over 10 Effective Fixes</u></a></li>
-<li><a href="https://games-able.techidaily.com/tecno-unveils-thinner-t1-vivid-s1-at-ifa-2023/"><u>Tecno Unveils Thinner T1, Vivid S1 at IFA 2023</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-htc-u23-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to HTC U23 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-10-no-cost-sites-for-hd-movie-streams-of-blockbuster-films/"><u>Top 10 No-Cost Sites for HD Movie Streams of Blockbuster Films</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-windows-11-audio-levels-that-wont-adjust/"><u>Troubleshooting Guide: Fixing Windows 11 Audio Levels That Won't Adjust</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertly-elevating-images-premier-frame-apps-in-2e-24/"><u>[Updated] Expertly Elevating Images Premier Frame Apps in 2E '24</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-minecraft-shapes-magic-creating-perfect-circles-spheres-for-2024/"><u>[Updated] Minecraft Shapes Magic Creating Perfect Circles, Spheres for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2023s-ultimate-electric-lawnmower-showdown-discover-the-best-brands-and-models-expert-reviews/"><u>2023'S Ultimate Electric Lawnmower Showdown: Discover the Best Brands & Models - Expert Reviews</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-tutorial-enhancing-meeting-experience-in-zoom-win10/"><u>2024 Approved In-Depth Tutorial Enhancing Meeting Experience in Zoom (Win10)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-budget-friendly-lawn-mowers-reviewed-expert-insights-from-zdnet/"><u>Best Budget-Friendly Lawn Mowers Reviewed - Expert Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-focus-with-nature-5-ideal-green-companions-for-a-home-office-setup-zdnet/"><u>Boosting Focus with Nature: 5 Ideal Green Companions for a Home Office Setup | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/celebrate-memorial-day-deals-get-your-segway-max-g2-electric-scooter-for-400-less-limited-time-offer-from-zdnet/"><u>Celebrate Memorial Day Deals: Get Your Segway Max G2 Electric Scooter for $400 Less - Limited Time Offer From ZDNET!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/cloaked-content-exploration-reading-instagram-stories-without-sharing-your-identity/"><u>Cloaked Content Exploration Reading Instagram Stories without Sharing Your Identity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-the-cold-with-confidence-the-definitive-shoppers-handbook-to-picking-a-top-notch-snow-blower-zdnet-insights/"><u>Conquer the Cold with Confidence: The Definitive Shopper's Handbook to Picking a Top-Notch Snow Blower | ZDNET Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exceptional-deal-the-near-perfect-arlo-pro-just-at-180-offers-optimal-home-surveillance/"><u>Exceptional Deal: The Near-Perfect Arlo Pro 지스로, Just at $180 Offers Optimal Home Surveillance</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-apple-iphone-13-pro-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or Apple iPhone 13 Pro Stuck On Activation Lock?</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/latest-dj-controller-innovation-the-pioneer-ddj-duo-range-now-supporting-dex3-technology/"><u>Latest DJ Controller Innovation - The Pioneer DDJ Duo Range Now Supporting DEX3 Technology!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-preserving-high-quality-while-converting-mkv-files-to-mp4-format/"><u>Step-by-Step Guide: Preserving High Quality While Converting MKV Files to MP4 Format</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-a-malfunctioning-iphone-touchscreen-effective-solutions/"><u>Troubleshooting a Malfunctioning iPhone Touchscreen: Effective Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-steps-resolving-issues-with-chatgpt-not-saving-conversations/"><u>Troubleshooting Steps: Resolving Issues with ChatGPT Not Saving Conversations</u></a></li>
 </ul></div>
 

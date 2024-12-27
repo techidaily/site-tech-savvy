@@ -1,7 +1,7 @@
 ---
 title: "Sifting the Real From Ruse: Deciphering Machines' False Findings"
-date: 2024-12-16T01:29:16.480Z
-updated: 2024-12-21T19:06:45.569Z
+date: 2024-12-20T20:58:10.835Z
+updated: 2024-12-27T20:43:17.058Z
 tags:
   - chatgpt
   - open-ai
@@ -28,11 +28,19 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is AI Hallucination?
 
  Artificial intelligence hallucination occurs when an AI model generates outputs different from what is expected. Note that some AI models are trained to intentionally generate outputs unrelated to any real-world input (data).
 
  For example, [top AI text-to-art generators](https://www.makeuseof.com/ai-text-to-art-generators/), such as DALL-E 2, can creatively generate novel images we can tag as "hallucinations" since they are not based on real-world data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### AI Hallucination in Large Language Processing Models
 
@@ -47,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 ![A ChatGPT prompt further querying where elon musk's factory is at in brazil](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-18-181530.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI Hallucination in Computer Vision
@@ -63,11 +71,7 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 ![A 4x4 montage of poodle and pork floss bun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-17-234559.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Does AI Hallucination Occur?
@@ -96,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 
  It could be that the language model is unequipped to handle rather complex prompts such as these or that it cannot interpret the prompt accurately, ignoring the prompt on giving a similar word with a specific alphabet.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Do You Spot AI Hallucination?
 
  It is evident now that AI applications have the potential to hallucinate—generate responses otherwise from the expected output (fact or truth) without any malicious intent. And spotting and recognizing AI hallucinations is up to the users of such applications.
@@ -114,23 +114,19 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 
  Using human judgment or common sense can help detect hallucinations, as humans can easily identify when a text does not make sense or follow reality.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Computer Vision
 
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As a branch of artificial intelligence, machine learning, and computer science, computer vision empowers computers to recognize and process images like human eyes. Using [convolutional neural networks](https://www.makeuseof.com/convolutional-neural-network-explained/), they rely on the incredible amount of visual data used in their training.
 
  A deviation from the patterns of the visual data used in training will result in hallucinations. For example, if a computer was not trained with images of a tennis ball, it could identify it as a green orange. Or if a computer recognizes a horse beside a human statue as a horse beside a real human, then an AI hallucination has occurred.
 
  So to spot a computer vision hallucination, compare the output generated to what a \[normal\] human is expected to see.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Self-Driving Cars
 
@@ -141,6 +137,10 @@ Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedm
  Thanks to AI, self-driving cars are gradually infiltrating the auto market. Pioneers like Tesla Autopilot and Ford's BlueCruise have been championing the scene of self-driving cars. You can check out [how and what the Tesla Autopilot sees](https://www.makeuseof.com/how-and-what-the-tesla-autopilot-sees/) to get a bit of an understanding of how AI powers self-driving cars.
 
  If you own one of such cars, you would want to know if your AI car is hallucinating. One sign will be if your vehicle seems to be deviating from its normal behavior patterns while driving. For example, if the vehicle brakes or swerves suddenly without any obvious reason, your AI vehicle might be hallucinating.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AI Systems Can Hallucinate Too
 
@@ -167,24 +167,24 @@ Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-leveraging-picture-in-progressive-mode-on-chrome-across-platforms-for-2024/"><u>[New] Leveraging Picture in Progressive Mode on Chrome Across Platforms for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-photoshop-alternatives-on-android/"><u>[New] Photoshop Alternatives on Android</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-craft-your-channel-studio-or-beta-innovation-comparison/"><u>[Updated] Craft Your Channel Studio or Beta Innovation Comparison</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-video-sizes-on-instagram-the-ultimate-2023-guide/"><u>[Updated] Navigating Video Sizes on Instagram - The Ultimate 2023 Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-ultimate-5-display-choices-for-ps5/"><u>[Updated] Ultimate 5 Display Choices For PS5</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-file-saving-on-windows-11-a-compendium-of-six-techniques/"><u>2024 Approved Mastering File Saving on Windows 11 A Compendium of Six Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/altitude-adeptness-the-shift-from-standard-to-pro-pilots/"><u>Altitude Adeptness: The Shift From Standard to Pro Pilots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/analyzing-the-art-of-machine-made-dialogues-le-chat-vs-gpt-3/"><u>Analyzing the Art of Machine-Made Dialogues: Le Chat vs GPT-3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/auto-gpt-for-the-modern-workplace/"><u>Auto-GPT for the Modern Workplace</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/avoiding-interruptions-steps-to-prevent-football-manager-2022-from-crashing-on-pc-systems/"><u>Avoiding Interruptions: Steps to Prevent Football Manager 2022 From Crashing on PC Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/business-innovation-with-chatgpt-8-essential-applications-for-enterprises/"><u>Business Innovation with ChatGPT: 8 Essential Applications for Enterprises</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-academic-perks-essential-uses-for-student-success/"><u>ChatGPT's Academic Perks: Essential Uses for Student Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficient-task-automation-with-auto-gtp/"><u>Efficient Task Automation with Auto-GTP</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Realme Narzo N53? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/lexicon-league-up-battle-of-the-best-translator/"><u>Lexicon League-Up: Battle of the Best Translator</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-ai-essential-strategies-for-modern-workspaces/"><u>Mastering AI: Essential Strategies for Modern Workspaces</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/real-time-broadcast-at-your-fingertips-12-channels-for-2024/"><u>Real-Time Broadcast at Your Fingertips - 12 Channels for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revitalize-your-esc-keys-a-practical-guide-to-immediate-fixes/"><u>Revitalize Your Esc Keys: A Practical Guide to Immediate Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/statecraft-in-silicon-four-modalities-for-ai-oversight/"><u>Statecraft in Silicon: Four Modalities for AI Oversight</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-vloggers-retreat-excellence-unleashed/"><u>[New] 2024 Approved The Vloggers' Retreat Excellence Unleashed</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-elevate-your-podcast-with-professional-scriptwriting-strategies/"><u>[New] Elevate Your Podcast with Professional Scriptwriting Strategies</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-free-online-rhythm-analysis-boost-your-dj-skills-efficiently/"><u>[Updated] 2024 Approved Free Online Rhythm Analysis Boost Your DJ Skills Efficiently</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-getting-the-most-out-of-google-meet-for-free/"><u>[Updated] 2024 Approved Getting the Most Out of Google Meet (For Free)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/corrective-message-no-gpt-windows-isnt-dangerous-virus/"><u>Corrective Message: No, GPT-Windows Isn't Dangerous Virus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-online-meetings-through-ai-assistance/"><u>Enhancing Online Meetings Through AI Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ai-understanding-the-mechanics-behind-prompt-injection-attacks/"><u>Exploring AI: Understanding the Mechanics Behind Prompt Injection Attacks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/installing-and-mastering-microsoft-copilot-for-macos-developers/"><u>Installing and Mastering Microsoft Copilot for macOS Developers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-exclusive-save-1000-on-a-top-ranked-qled-tv-insider-review/"><u>Labor Day Exclusive: Save $1,000 on a Top-Ranked QLED TV - Insider Review</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/missing-dxgidll-in-win11-heres-an-action-plan/"><u>Missing Dxgi.dll in Win11? Here's an Action Plan</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimal-plug-ins-for-unmatched-gpt-and-vs-code-performance/"><u>Optimal Plug-Ins for Unmatched GPT & VS Code Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smooth-transition-to-chatgpt-android-integration/"><u>Smooth Transition to ChatGPT Android Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-content-creation-four-slip-ups-to-skip-in-chatgpt/"><u>Strategic Content Creation: Four Slip-Ups to Skip in ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-10-best-chatgpt-crypto-prompts/"><u>The 10 Best ChatGPT Crypto Prompts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitters-emoji-free-linuss-unmasking-insights-trojans-explored-and-chatgpt-flaws-highlighted/"><u>Twitters Emoji-Free, Linus's Unmasking Insights, Trojans Explored, & ChatGPT Flaws Highlighted</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-resource-asus-vg248qe-driver-updates-for-windows-hassle-free/"><u>Ultimate Resource: Asus VG248QE Driver Updates for Windows - Hassle-Free!</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-infinix-note-30-pro-by-fonelab-android-recover-music/"><u>Undelete lost music from Infinix Note 30 Pro</u></a></li>
 </ul></div>
 

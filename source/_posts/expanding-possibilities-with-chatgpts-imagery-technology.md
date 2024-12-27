@@ -1,7 +1,7 @@
 ---
 title: Expanding Possibilities with ChatGPT’s Imagery Technology
-date: 2024-12-16T16:43:12.767Z
-updated: 2024-12-22T06:18:38.582Z
+date: 2024-12-25T18:01:18.731Z
+updated: 2024-12-27T20:45:41.568Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is ChatGPT Vision?
 
  ChatGPT Vision allows users to attach images or screenshots with their usual text-based prompts and have the AI work wonders. Tasks that were previously too difficult, or outright impossible to attain with just text input can now be accomplished with the help of the added image processing capabilities.
@@ -47,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
  On the other hand, if you're just looking for a textual description of an image when you just can't formulate your thoughts into words, asking for a detailed description is a great way to use the new Vision feature in ChatGPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Recognizing Fictional Characters
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
  Can't seem to recognize that one character from a meme you have stored on your phone? Turns out, ChatGPT is quite remarkable at recognizing characters from popular media such as TV shows, movies, or anime.
 
  There's a catch, though—it will deny any requests you may have of extracting information about a real person. It still works in recognizing characters from live-action movies and TV series, but ChatGPT Vision draws a bold line beyond that when it's associated with the identity of a real human being.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Converting Wireframes to Code
 
@@ -73,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
  Although [Google Translate's many features](https://www.makeuseof.com/tag/google-translate-mobile-features/) are highly reliable, you can still mess around with translating handwritten text from old letters, notebooks, or other documents using ChatGPT Vision.
 
  Beyond basic translation, you can prompt it to categorize the information in a way that pleases you, summarize the text in a few words, or rewrite it in a completely different language.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Explaining Infographics
 
@@ -89,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
  Simple queries about which screw goes where and which step comes next can be answered with the right images and prompts in place.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Gaining Artwork Feedback
@@ -101,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
  You can gain valuable insight in regard to composition, framing, colors, and overall style if you structure your prompt the right way. You can even go creative and upload a photo of a half-finished painting and ask ChatGPT for ideas.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Getting Help With Recipes
@@ -109,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
  In case you're tired of figuring out what to cook for your next meal, try uploading a picture of the available ingredients on your shelf to get a few recommendations from ChatGPT.
 
  This can also work the other way around, where you upload a photo of a tasty dish you're eating at a restaurant and get a detailed recipe for it within a few seconds. Swiftly snapping a picture of a menu and asking ChatGPT Vision for information about the dishes can be useful if you have certain dietary restrictions too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Peek Into New Possibilities With ChatGPT Vision
 
@@ -141,14 +141,22 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-ultimate-compendium-of-top-rated-instagram-analytics-applications/"><u>[New] 2024 Approved The Ultimate Compendium of Top-Rated Instagram Analytics Applications</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-bite-size-broadcasting-battle-which-platform-dominates-in-shorter-videos/"><u>[New] In 2024, Bite-Size Broadcasting Battle Which Platform Dominates in Shorter Videos?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-transformation-and-governance-openais-executive-viewpoint/"><u>AI Transformation and Governance - OpenAI's Executive Viewpoint</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-adb-downloader-at-your-fingertips/"><u>Easy ADB Downloader at Your Fingertips!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-online-speed-on-your-mac-by-resetting-dns-settings/"><u>Enhance Online Speed on Your Mac by Resetting DNS Settings</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-for-common-problem-non-responsive-keyboard-buttons/"><u>Fixes for Common Problem: Non-Responsive Keyboard Buttons</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/linkedin-success-the-top-10-ways-ai-assistance-can-elevate-job-hunting/"><u>LinkedIn Success: The Top 10 Ways AI Assistance Can Elevate Job Hunting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-machine-intelligence-with-openai/"><u>Mastering Machine Intelligence with OpenAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-careers-in-the-world-of-prompt-engineering/"><u>Navigating Careers in the World of Prompt Engineering</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-sjcam-s6-legend-action-camera-complete-review-for-2024/"><u>[New] SJCam S6 Legend Action Camera Complete Review for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-disabling-recommended-podcast-episodes-in-spotify-app/"><u>[Updated] 2024 Approved Disabling Recommended Podcast Episodes in Spotify App</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-essentials-of-audio-feature-insertion-for-ppts/"><u>[Updated] The Essentials of Audio Feature Insertion for PPTs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adjusting-excessive-load-alert-win-gpt-error/"><u>Adjusting Excessive Load Alert: Win GPT Error</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/custom-chatai-builds-using-gpt-foundations/"><u>Custom ChatAI: Builds Using GPT Foundations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/dramatic-fades-in-a-flash-for-2024/"><u>Dramatic Fades in a Flash for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-ai-conversations-with-3-key-approaches-to-chatgpt-wolframlink/"><u>Elevating AI Conversations with 3 Key Approaches to ChatGPT-WolframLink</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-ai-medical-accuracy-how-to-verify-information/"><u>Enhancing AI Medical Accuracy: How to Verify Information</u></a></li>
+<li><a href="https://extra-information.techidaily.com/establishing-value-driven-partnerships-with-brand-sponsors-in-youtubesphere/"><u>Establishing Value-Driven Partnerships with Brand Sponsors in Youtubesphere</u></a></li>
+<li><a href="https://article-posts.techidaily.com/expertise-in-app-performance-review-for-2024/"><u>Expertise in App Performance Review for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-xr-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone XR Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-with-excel-and-get-over-your-spreadsheet-fears/"><u>How to Use ChatGPT With Excel and Get Over Your Spreadsheet Fears</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-3-a-guide-for-openais-playground/"><u>Mastering GPT-3: A Guide for OpenAI's Playground</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-with-apple-devices/"><u>Navigating ChatGPT with Apple Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-european-unions-legal-framework-for-artificial-intelligence-effects-on-ai-platforms-like-chatgpt/"><u>Navigating the European Union's Legal Framework for Artificial Intelligence: Effects on AI Platforms Like ChatGPT</u></a></li>
+<li><a href="https://article-posts.techidaily.com/revolutionizing-creativity-premier-tablet-apps-for-ipados/"><u>Revolutionizing Creativity Premier Tablet Apps for iPadOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/turn-your-social-tweets-into-mp3-audio-files/"><u>Turn Your Social Tweets Into MP3 Audio Files</u></a></li>
 </ul></div>
 

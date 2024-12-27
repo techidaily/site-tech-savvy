@@ -1,7 +1,7 @@
 ---
 title: "Mastering Artificial Minds: GPT-4 Emergence"
-date: 2024-12-17T20:56:22.258Z
-updated: 2024-12-21T17:26:46.527Z
+date: 2024-12-25T17:33:57.971Z
+updated: 2024-12-27T18:14:30.154Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ OpenAI has released GPT-4, an update to the artificial intelligence model that p
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OpenAI Reveals Upgraded GPT-4 Model
@@ -41,7 +41,7 @@ OpenAI has released GPT-4, an update to the artificial intelligence model that p
  OpenAI hasn't mentioned video processing yet, but one must imagine that video processing and analysis are on the horizon—or closer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OpenAI Showcases GPT-4 With Impressive Examples
@@ -53,7 +53,7 @@ OpenAI has released GPT-4, an update to the artificial intelligence model that p
  The live stream focused primarily on how developers can put GPT-4 to use but was also an impressive display of GPT-4's capabilities, which will only continue to improve, especially versus [what you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-4 Is Available Now
@@ -63,7 +63,7 @@ OpenAI has released GPT-4, an update to the artificial intelligence model that p
 ![openai gpt4 model chatgpt upgrade](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-gpt4-model-chatgpt-upgrade.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, OpenAI stressed that although GPT-4 is a significant upgrade, it still has "similar limitations as earlier GPT models." GPT-4 will still lie, make falsehoods, reasoning errors, and "hallucinate facts." But, those moments should be significantly reduced, making GPT-4's outputs significantly more trustworthy and accurate than GPT-3.5\.
@@ -87,22 +87,20 @@ OpenAI has released GPT-4, an update to the artificial intelligence model that p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-how-to-livestream-on-facebook-from-android-and-ios-for-2024/"><u>[New] How to Livestream on Facebook From Android and iOS for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-master-meeting-magic-key-ways-to-tweak-with-zoom-converter/"><u>[Updated] In 2024, Master Meeting Magic Key Ways to Tweak with Zoom Converter</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-art-and-science-of-hand-movement-tracking-for-2024/"><u>[Updated] The Art and Science of Hand Movement Tracking for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bandicam/"><u>Bandicam: 真正用戶產品評估和教學解決方案</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evet-farkli-turkce-best-free-upgrade-software-2024te-microsoft-windows-7-icin/"><u>Evet, Farkli! Türkçe | Best Free Upgrade Software 2024'Te Microsoft Windows 7 Için</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/exploring-the-causes-behind-the-boxer-uprising-in-qing-dynasty-china-a-historical-analysis-yl-computing/"><u>Exploring the Causes Behind the Boxer Uprising in Qing Dynasty China: A Historical Analysis - YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-converter-convert-m4v-to-gif-with-moveavi-download-now/"><u>Free Online Converter: Convert M4V to GIF with MoveAVI - Download Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-mov-to-m4a-converter-moveavi/"><u>Free Online MOV to M4A Converter - Moveavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-tool-transforming-3gp-videos-into-gifs-effortless-conversion-with-movavi/"><u>Free Online Tool: Transforming 3GP Videos Into GIFs - Effortless Conversion with Movavi</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-still-to-moving-adding-animated-effects-to-your-text-ig-stories-for-2024/"><u>From Still to Moving Adding Animated Effects to Your Text IG Stories for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guide-complet-au-telechargement-dobs-studio-pour-les-utilisateurs-de-windows-mac-et-linux/"><u>Guide Complet Au Téléchargement D’OBS Studio Pour Les Utilisateurs De Windows, Mac Et Linux</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-vivo-y55s-5g-2023-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Vivo Y55s 5G (2023) to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-xiaomi-redmi-a2-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Xiaomi Redmi A2 Phone Network-Ready</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-razer-blade-stealth-13s-cutting-edge-performance-boost-in-lightweight-laptop-segment/"><u>In-Depth Analysis of Razer Blade Stealth 13'S Cutting-Edge Performance Boost in Lightweight Laptop Segment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726227869254-swf-mp4-movavi/"><u>SWF 파일을 MP4로 변환하는 최고의 방법 - Movavi 공부자에게</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-12-gratuit-superieur-screenshootere-pour-lesmac-2024-liste-detaillee-par-movavi/"><u>Top 12 Gratuit Superieur Screenshootere Pour Lesmac - 2024 Liste Détaillée Par Movavi</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/7zie7j6sioylnoyepsatio2zlouptcdquldroz3tlaag7iam7zse7yq47jma7j2065oc/"><u>현재 시장 - 화면 기록할 소프트와이드</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-vehicular-vitality-ranking-10-top-turbo-mods-for-os-x-and-windows/"><u>[Updated] 2024 Approved Vehicular Vitality Ranking 10 Top Turbo Mods for OS X and Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-8-tips-to-prevent-htc-vive-motion-sickness/"><u>[Updated] 8 Tips to Prevent HTC Vive Motion Sickness</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-discover-the-art-of-podcasting-essential-scriptwriting-strategies-plus-examples/"><u>[Updated] Discover the Art of Podcasting Essential Scriptwriting Strategies + Examples</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-cure-missing-fb-stories-on-devices/"><u>2024 Approved Cure Missing FB Stories on Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clarity-in-chaos-explaining-generative-ai/"><u>Clarity in Chaos: Explaining Generative AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-collective-vs-constrained-artificinas/"><u>Comparing Collective Vs. Constrained Artificinas</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-infinix-gt-10-pro-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Infinix GT 10 Pro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-groks-purpose-through-musks-explanation-and-pricing-details/"><u>Discovering Grok's Purpose Through Musk's Explanation & Pricing Details</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/human-touch-and-the-imperative-for-authentic-content/"><u>Human Touch and the Imperative for Authentic Content</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-realme-narzo-60-pro-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-googles-visionary-approach-to-language-models-palm-2/"><u>Inside Google's Visionary Approach to Language Models: PaLM 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-dialogue-in-multiple-languages-using-chatgpt/"><u>Optimizing Dialogue in Multiple Languages Using ChatGPT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sea-of-thieves-microphone-problems-solved-get-your-mic-working-again/"><u>Sea of Thieves Microphone Problems Solved: Get Your Mic Working Again!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shield-your-website-block-unauthorized-ai-crawlers/"><u>Shield Your Website: Block Unauthorized AI Crawlers</u></a></li>
 </ul></div>
 

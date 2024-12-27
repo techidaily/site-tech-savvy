@@ -1,7 +1,7 @@
 ---
 title: Snap Up Apple's Cutting-Edge MacBook Air for Only $649 - Best Value Alert by ZDNet Today!
-date: 2024-12-15T05:09:55.896Z
-updated: 2024-12-22T00:24:30.376Z
+date: 2024-12-21T21:16:02.477Z
+updated: 2024-12-27T21:37:02.882Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,18 +81,22 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-elevating-your-youtube-presence-with-strategic-post-publish-video-updates/"><u>[New] In 2024, Elevating Your YouTube Presence with Strategic Post-Publish Video Updates</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-transform-engagement-crafted-queries-for-personalized-ig-stories/"><u>[Updated] In 2024, Transform Engagement Crafted Queries for Personalized IG Stories</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/androidiso-iso/"><u>Android上でISO画像ファイルのプレーヤー設定 - ISOファイル導入手順</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avi/"><u>AVI マナーで圧縮するたび - 初心者から始める方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beginners-guide-mastering-the-basics-of-avi-video-conversion-with-a-free-tool/"><u>Beginner's Guide: Mastering the Basics of AVI Video Conversion with a Free Tool</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-video-converters-of-2023-comprehensive-review-of-h265-compatibility-across-platforms/"><u>Best Video Converters of 2023: Comprehensive Review of H.265 Compatibility Across Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparing-ffmpeg-and-handbrake-features-performance-and-best-use-cases/"><u>Comparing FFmpeg & HandBrake: Features, Performance & Best Use-Cases</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/convert-any-youtube-video-into-high-quality-audio-for-free-top-picks-for-easy-use/"><u>Convert Any YouTube Video Into High-Quality Audio for Free: Top Picks for Easy Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diy-animation-mastery-crafting-gifs-without-using-photoshop/"><u>DIY Animation Mastery - Crafting GIFs without Using Photoshop</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oppo-reno-9a-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Oppo Reno 9A? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-unleash-creativity-adding-professional-radial-effect-to-photos/"><u>In 2024, Unleash Creativity Adding Professional Radial Effect to Photos</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovative-steps-forward-a-guide-to-steam-deck-enhancements/"><u>Innovative Steps Forward: A Guide to Steam Deck Enhancements</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-auto-translate-youtube-videos-into-different-languages/"><u>Updated How To Auto Translate YouTube Videos Into Different Languages</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-a-comparative-analysis-of-macs-best-snipping-tools/"><u>[New] 2024 Approved A Comparative Analysis of Mac's Best Snipping Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-icecream-screen-recorder-indepth-review/"><u>[New] In 2024, Icecream Screen Recorder Indepth Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ultimate-screencast-handbook-adept-techniques-and-tools/"><u>[New] In 2024, Ultimate Screencast Handbook Adept Techniques & Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-your-step-by-step-plan-to-start-a-food-critique-blog-or-channel/"><u>[New] Your Step-by-Step Plan to Start a Food Critique Blog or Channel</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-youtube-live-broadcasting-demystified/"><u>[Updated] 2024 Approved YouTube Live Broadcasting Demystified</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciphering-whos-in-your-fb-blacklist/"><u>Deciphering Who’s in Your FB Blacklist</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-forefront-top-extreme-climate-gadgets-and-software-for-2e-year-2024-reviewed-by-zdnet/"><u>Exploring the Forefront: Top Extreme Climate Gadgets and Software for 2E Year 2024 Reviewed by ZDNET</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mobile-mastery-premium-iphoneandroid-tripod-matches/"><u>In 2024, Mobile Mastery Premium iPhone/Android Tripod Matches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lonicera-x-bella-gold-flame-honeysuckle-or-golden-japanese-honeysuckle-a-hybrid-between-l-japonica-and-another-species-this-vine-is-characterized-by-its-bri136/"><u>Lonicera X Bella (Gold Flame Honeysuckle or Golden Japanese Honeysuckle): A Hybrid Between L. Japonica and Another Species, This Vine Is Characterized by Its Bright Yellow Flowers that Have a Slight Fragrance.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shop-the-deal-of-the-season-blink-4-camera-floodlight-bundle-at-only-80-available-this-labor-day/"><u>Shop the Deal of the Season: Blink 4-Camera Floodlight Bundle at Only $80 - Available This Labor Day!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/streamlined-guide-to-update-nvidias-gtx-1660-video-card-software-without-hassle/"><u>Streamlined Guide to Update Nvidia's GTX 1660 Video Card Software Without Hassle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-walkie-talkie-models-a-comprehensive-review-by-zdnet/"><u>Top 5 Walkie-Talkie Models : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranked-video-doorbell-reviews-featuring-the-latest-models-reviewed-by-zdnet/"><u>Top-Ranked Video Doorbell Reviews - Featuring the Latest Models Reviewed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-best-outdoor-projectors-professional-tests-and-insights-cnet/"><u>Ultimate Guide to the Best Outdoor Projectors - Professional Tests & Insights | CNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-best-portable-jump-starters-features-reviews-and-buying-tips-toms-hardware/"><u>Ultimate Guide to the Best Portable Jump Starters : Features, Reviews & Buying Tips | Tom's Hardware</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-finest-2022-travel-backpacks-zdnets-selections/"><u>Ultimate Guide to the Finest 2022 Travel Backpacks (ZDNET's Selections)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unexpected-delight-my-experience-with-the-ring-spotlight-cam-pro/"><u>Unexpected Delight: My Experience with the Ring Spotlight Cam Pro</u></a></li>
 </ul></div>
 

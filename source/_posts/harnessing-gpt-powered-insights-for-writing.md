@@ -1,7 +1,7 @@
 ---
 title: Harnessing GPT-Powered Insights for Writing
-date: 2024-12-16T06:03:48.812Z
-updated: 2024-12-22T01:21:39.375Z
+date: 2024-12-23T18:28:03.159Z
+updated: 2024-12-27T19:38:32.010Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/1c29d979a20696d19bd8c5c3e9d947157133fd882
 
  Also, ChatGPT will avoid controversial topics—even in an outline. Therefore, you might find yourself with an outline missing vital pieces of historical sections if you rely on it. This bias is one of the [major problems with OpenAI’s ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Prompt ChatGPT to Draw a Parallel Outline
 
  Before you begin this section, if this is your first time using ChatGPT, you should read our guide on [how to use ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/). It will help you with creating an account and defining its capabilities. Once that’s out of the way, you can move on to the next step.
@@ -47,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/1c29d979a20696d19bd8c5c3e9d947157133fd882
 `Create a detailed outline for an essay on <insert your essay topic here>.`
 
 ![ChatGPT's outline on the essay on the history of German Shepherds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-s-outline-on-the-essay-on-the-history-of-german-shepherds.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT’s result is far more detailed than our outline. Here, you should adopt the parts of ChatGPT’s outline you would like to integrate into your own. Combine the best of the two and flesh out an outline that will guide you best as you write.
 
@@ -59,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/1c29d979a20696d19bd8c5c3e9d947157133fd882
 `Write a 500-word piece on the Phylax Society and the impact it had on the German Shepherd breed using an academic style.`
 
  Do not just copy and paste the information it generates; the next step is a vital second part of this methodology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Confirm the Information With a Reputable Source
 
@@ -82,14 +86,10 @@ thumbnail: https://thmb.techidaily.com/1c29d979a20696d19bd8c5c3e9d947157133fd882
 
 ![ChatGPT explaining German Shepher's hip and elbow dysplasia](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-explaining-german-shepher-s-hip-and-elbow-dysplasia.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here we used ChatGPT to break down hip and elbow dysplasia conditions in a way that is easier to understand. And it used analogies like jigsaw puzzles to paint a clearer image of what it might look like.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Write the Essay Yourself
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/1c29d979a20696d19bd8c5c3e9d947157133fd882
  Lastly, ChatGPT doesn’t match the nuanced knowledge of a human professional in heavily specialized fields or journals that need up-to-date information. Reading a book or article by an expert, internalizing it, and writing it in your own words will give you far better results than relying on ChatGPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Polish the Style and Citation With ChatGPT
@@ -115,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/1c29d979a20696d19bd8c5c3e9d947157133fd882
  If you’re having trouble with citation styles and how to integrate them into your essay, you can present your essay to ChatGPT, give it your sources, and ask it to weld them together for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Is a Tool, Not a Solution
@@ -143,22 +143,18 @@ thumbnail: https://thmb.techidaily.com/1c29d979a20696d19bd8c5c3e9d947157133fd882
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-expert-tips-for-seamless-integration-of-pip-in-microsoft-edge/"><u>[New] In 2024, Expert Tips for Seamless Integration of PIP in Microsoft Edge</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-10-steps-to-perfect-youtube-reactions-a-trio-guide/"><u>[Updated] 10 Steps to Perfect YouTube Reactions – A Trio Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-artists-journey-becoming-a-hue-heavyweight/"><u>[Updated] The Artist's Journey Becoming a Hue Heavyweight</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-what-are-the-different-versions-of-windows-movie-maker-for-2024/"><u>[Updated] What Are the Different Versions of Windows Movie Maker for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bmpgif-movavi/"><u>「無料でBMPからGIFへ簡単変換！オンラインツールであなたの画像を動的化する - Movaviが教えてくれます」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/after-all-shed-say-if-it-worked-for-generations-why-change-it/"><u>After All, She'd Say, if It Worked for Generations, Why Change It?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/extrackera-avbildar-medan-du-spelar-in-i-din-video-enkeltvis-pa-7-satt-foreslagna-av-movavi/"><u>Extrackera Avbildar Medan Du Spelar In I Din Video: Enkeltvis På 7 Sätt - Föreslagna Av Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/herramienta-de-grabacion-de-pantallas-sin-costo-para-laptops-y-desktops-softonix-gratis/"><u>Herramienta De Grabación De Pantallas Sin Costo Para Laptops Y Desktops - Softonix Gratis</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Google Pixel 8? | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-from-scene-to-video-canons-pathway-to-timelapse-excellence/"><u>In 2024, From Scene to Video Canon's Pathway to Timelapse Excellence</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-pushing-up-conversions-with-high-roi-animated-advertisements-on-fb/"><u>In 2024, Pushing Up Conversions with High-ROI Animated Advertisements on FB</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reinventer-votre-contenu-au-format-mp4-gratuitement-guide-simple-avec-movavi/"><u>Réinventer Votre Contenu Au Format MP4 Gratuitement: Guide Simple Avec Movavi!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforma-tu-audio-opus-en-wav-sin-costo-alguno-rapido-y-facil-usando-movavi/"><u>Transforma Tu Audio OPUS en WAV Sin Costo Alguno, Rápido Y Fácil Usando Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformez-vos-videos-mpeg-en-3gp-pour-mobile-conversion-gratuite-en-ligne-movavi-solutions/"><u>Transformez Vos Vidéos MPEG en 3Gp Pour Mobile : Conversion Gratuite en Ligne - Movavi Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-shrink-your-mov-videos-with-ease-windows-and-mac-tips-and-free-web-tools/"><u>Ultimate Guide: Shrink Your MOV Videos with Ease - Windows & Mac Tips and Free Web Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-200-savings-on-apples-new-m3-macbook-pro-exclusive-amazon-spring-sale-offer-tech-insights/"><u>Unlock $200 Savings on Apple’s New M3 MacBook Pro - Exclusive Amazon Spring Sale Offer | Tech Insights</u></a></li>
-<li><a href="https://video-capture.techidaily.com/wavmp4202er4-8/"><u>WAVへの自由ソフト変換:MP4ファイル「202er4」から最適選択肢! ベスト8ツールを紹介します</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-perfecting-sound-design-for-canva-video-templates-for-2024/"><u>[New] Perfecting Sound Design for Canva Video Templates for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-boosting-channel-profitability-famebit-powered-sponsorship-tactics/"><u>2024 Approved Boosting Channel Profitability FameBit-Powered Sponsorship Tactics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-edge-wireless-cameras-the-hottest-18-on-the-market/"><u>2024 Approved Leading-Edge Wireless Cameras The Hottest 18 On The Market</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-blast-from-the-past-meets-future-savings-with-new-years-promo-on-mondly-pro/"><u>A Blast From the Past Meets Future Savings with New Year's Promo on Mondly Pro!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/authenticity-verifier-openais-detector-for-chatgpt-replicas/"><u>Authenticity Verifier: OpenAI's Detector for ChatGPT Replicas</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hunt-the-best-benq-monitor-savings-dont-miss-prime-day-deals/"><u>Hunt the Best BenQ Monitor Savings – Don't Miss Prime Day Deals!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-honor-90-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Honor 90 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-google-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Google</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-also-a-fan-of-the-slow-mo-guys-well-who-isnt-learn-how-you-can-create-compelling-slow-mo-videos-like-the-slow-mo-guys-here/"><u>New In 2024, Are You Also a Fan of the Slow Mo Guys? Well! Who Isnt? Learn How You Can Create Compelling Slow-Mo Videos Like the Slow Mo Guys Here</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-automated-code-writing-without-chatgpt-tools/"><u>Unlocking Automated Code Writing Without ChatGPT Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unwrapping-ais-essence-for-all/"><u>Unwrapping AI's Essence for All</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-ai-transfer-learning-and-how-does-it-work/"><u>What Is AI Transfer Learning and How Does It Work?</u></a></li>
 </ul></div>
 

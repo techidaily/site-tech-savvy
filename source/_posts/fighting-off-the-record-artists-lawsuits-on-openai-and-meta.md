@@ -1,7 +1,7 @@
 ---
 title: "Fighting Off-the-Record: Artists' Lawsuits on OpenAI & Meta"
-date: 2024-12-18T17:46:01.066Z
-updated: 2024-12-22T05:54:52.990Z
+date: 2024-12-26T21:26:16.274Z
+updated: 2024-12-27T17:43:15.157Z
 tags:
   - chatgpt
   - open-ai
@@ -28,16 +28,12 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Sarah Silverman and Other Artists Are Suing Open AI and Meta
 
 ![Person having a chat on ChatGPT](https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5163c7ab05139a28f15cb6cd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In [a class action lawsuit](https://llmlitigation.com/pdf/03416/silverman-openai-complaint.pdf) \[PDF\] filed in California, comedian Sarah Silverman and other writers (Christopher Golden and Richard Kadrey) seek to recover damages against OpenAI and Meta over copyright infringement. The lawsuit alleges OpenAI and Meta scraped copyrighted books from pirate websites to train their AI models. This is the equivalent of an AI model downloading its training datasets from Piratebay without compensating the authors.
@@ -45,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
  Coincidentally, a [separate class action lawsuit](https://storage.courtlistener.com/recap/gov.uscourts.cand.414822/gov.uscourts.cand.414822.1.0%5F1.pdf) \[PDF\] against OpenAI alleges the company used unauthorized private information to train ChatGPT. Google is also facing a similar lawsuit over allegedly using stolen data to train Google Bard. This is why you should [make it a habit to protect your personal information](https://www.makeuseof.com/online-safety-habits-data-privacy/), though publishing work and private personal data are not the same.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are the Chances Sarah Silverman Could Win the Lawsuit?
@@ -61,7 +57,7 @@ Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-h
  If it's proven that OpenAI and Meta used illegal torrent websites to acquire copyrighted materials to train its AI models, Silverman may have a shot of winning the lawsuit. However, AI models are uncharted territory with no precedent for courts to rely on to make a ruling based on AI copyright infringement. In fact, that's one of the reasons why [the EU proposed an AI Act.](https://www.makeuseof.com/what-is-the-eu-ai-act-how-would-it-affect-chatgpt/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Future of AI Models and Copyright Law?
@@ -69,12 +65,16 @@ Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-h
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We're still in the early days of AI to know how it will adapt to copyright law. It's even more complex trying to figure out [who owns the copyright to AI creation](https://www.makeuseof.com/who-owns-copyright-to-ai-creations/). But for human creators, regulations exist to protect them against someone else accessing their copyrighted material without compensation, consent, or credit. If the rules exist for humans, will they apply to AI models?
 
  The EU parliament drafted the closest glimpse into the future of how AI models will comply with copyright law. If the EU AI Act is assented into law, AI models like ChatGPT and Bard will be required to publish all their dataset sources and copyrighted data used for training. This will help clear up any confusion if the AI models accessed copyrighted books, movies, music, and photos for training through illegal piracy websites.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The AI Class Action Lawsuit Ruling Will Set a Legal Precedent
 
@@ -101,22 +101,19 @@ Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/est-5-youtube-video-editor-alternatives-for-2024/"><u>[New] Best 5 YouTube Video Editor Alternatives for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-snapshot-spectaculars-an-experts-review-of-recorders/"><u>[Updated] In 2024, Snapshot Spectaculars An Expert's Review of Recorders</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movaviwav/"><u>「Movaviで簡単な無料オンラインWAVファイル変換方法」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp3wmv-movavi/"><u>免費移動MP3到WMV: 利用Movavi 優化的無縫轉換方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/asfwav-movavi/"><u>無償のオンラインASF・WAV再形成 - Movaviサービス使い方ガイド</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-pros-and-cons-a-thorough-review-of-the-nook-glowlight-4-edition/"><u>Exploring the Pros and Cons: A Thorough Review of the Nook Glowlight 4 Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratuit-konverteren-van-3gp-naar-mp4-professioneel-online-toolkit-movavi/"><u>Gratuit Konverteren Van 3GP Naar MP4: Professioneel Online-Toolkit Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guia-completo-para-eps-arquivos-entendendo-as-imagens-do-formato-eps-e-as-dicas-de-abrir-com-exito/"><u>Guia Completo Para .eps Arquivos: Entendendo as Imagens Do Formato Eps E as Dicas De Abrir Com Êxito</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guide-2024-selectionner-les-meilleurs-gpu-pour-votre-projet-de-montage-video-top-6-recommandations/"><u>Guide 2024 : Sélectionner Les Meilleurs GPU Pour Votre Projet De Montage Vidéo - Top 6 Recommandations</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-prospects-and-limitations-within-samsungs-2023-image-editor/"><u>In 2024, Unveiling Prospects and Limitations Within Samsung's 2023 Image Editor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavin-mp3flac/"><u>Movavi提�n付き - スピードと正確性でオンラインMP3からFLACへの無料音楽変換</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-ultimate-guide-to-online-and-offline-video-to-audio-conversion-tools/"><u>New In 2024, Ultimate Guide to Online and Offline Video-to-Audio Conversion Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726221798396-rafpng-movavi/"><u>RAF格式到PNG自由下載 - 使用Movavi工具進行無限制的在線轉換</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/steps-to-restore-deleted-data-following-an-iphones-factory-reset/"><u>Steps to Restore Deleted Data Following an iPhone's Factory Reset</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforma-tus-dvd-a-formato-mkv-gratis-con-el-mejor-convertidor-de-video-movavi/"><u>Transforma Tus DVD a Formato MKV Gratis Con El Mejor Convertidor De Video: Movavi</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/troubleshooting-unrecognized-ram-expert-advice-from-yl-computings-tech-experts/"><u>Troubleshooting Unrecognized RAM: Expert Advice From YL Computing's Tech Experts</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-quick-intro-to-instagram-video-chat/"><u>[New] 2024 Approved Quick Intro to Instagram Video Chat</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-list-of-immersive-game-worlds-for-2024/"><u>[New] The Ultimate List of Immersive Game Worlds for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-fast-track-to-1000-subscribers-in-youtube-landscape/"><u>[Updated] Fast-Track To 1,000 Subscribers in Youtube Landscape</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-date-coach-chatgpt-for-romance/"><u>AI Date Coach: ChatGPT for Romance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/arctic-accolades-top-athletes-and-events/"><u>Arctic Accolades Top Athletes & Events</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-asus-rog-phone-7-ultimate-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Asus ROG Phone 7 Ultimate Fingerprint Lock</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722964787698-easy-driver-downloads-for-acer-predator-xb271hu-get-them-now/"><u>Easy Driver Downloads for Acer Predator XB271HU - Get Them Now</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-the-art-of-updating-windows-in-built-mouse-drivers/"><u>Mastering the Art of Updating Windows' In-Built Mouse Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategy-for-successful-entry-fixing-common-chatgpt-errors/"><u>Strategy for Successful Entry: Fixing Common ChatGPT Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ai-workforce-transformation-blueprint/"><u>The AI Workforce Transformation Blueprint</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-convincing-proposals-using-chatgpt-smartly/"><u>The Art of Convincing Proposals: Using ChatGPT Smartly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uniting-customer-care-chatgpt-meets-whatsapp/"><u>Uniting Customer Care: ChatGPT Meets WhatsApp</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-flip-side-of-chatgpt-plus/"><u>Unveiling the Flip Side of ChatGPT Plus</u></a></li>
 </ul></div>
 

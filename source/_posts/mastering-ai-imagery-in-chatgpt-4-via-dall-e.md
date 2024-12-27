@@ -1,7 +1,7 @@
 ---
 title: Mastering AI Imagery in ChatGPT-4 via DALL-E
-date: 2024-12-17T07:25:42.421Z
-updated: 2024-12-22T08:33:39.508Z
+date: 2024-12-22T21:08:58.621Z
+updated: 2024-12-27T19:21:32.117Z
 tags:
   - chatgpt
   - open-ai
@@ -20,11 +20,19 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Sign Up for ChatGPT Plus to Access DALL-E](https://printrendy.pxf.io/xyboy5)
 * [How to Use DALL-E in a ChatGPT Chat](https://zonlipartnershipprogram.pxf.io/b0rbxy)
 * [How to Use DALL-E in the ChatGPT App](https://electronicx.pxf.io/xkwqkk)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -39,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
  You no longer have to leave ChatGPT to generate AI images. OpenAI has integrated its flagship AI image generation tool, DALL-E, into ChatGPT’s chats. Thanks to this, you only have to prompt ChatGPT to generate an image, similar to how you would prompt it to generate text.
 
  While prompting may be easy enough, we’ll show you how to know what GPTs in ChatGPT support DALL-E’s image generation. We’ll also tell you how to prompt ChatGPT to generate images when and how you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Sign Up for ChatGPT Plus to Access DALL-E
 
@@ -56,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
  Unlike DALL-E 2, DALL-E 3 doesn’t have a standalone website for you to access, you can only access it officially through a ChatGPT subscription. And it’s better to pay for a versatile ChatGPT with superior image generation than to buy credits on DALL-E 2\. We’d recommend you save DALL-E 2 for when you need an AI image at no cost or if you ever need to [use DALL-E 2’s outpainting tool](https://www.makeuseof.com/dall-e-2-outpainting-how-to-use/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use DALL-E in a ChatGPT Chat
 
  Now that you have a ChatGPT subscription, you can now access GPT-4\. Follow these instructions to get started:
@@ -71,19 +79,15 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 ![ChatGPT generating image of a tifer and rabbit having tea](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-06-12-am.png)
 4. Feel free to use follow-up prompts to improve the image to get it exactly how you want.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT generating an image in a different style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-08-39-am.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can download the image by clicking it and hitting the download button in the window's top-right corner.
 
  If you don’t want to use ChatGPT 4, you can use a dedicated DALL-E chat. Click **Explore** or **Explore GPTs** on the left-side menu. Look for **DALL-E** in the **By ChatGPT** section and click it. You can now follow the same instructions outlined above, or you can follow [this link](https://chat.openai.com/g/g-2fkFE8rbu-dall-e) to open a DALL-E chat.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use DALL-E in the ChatGPT App
 
@@ -93,14 +97,10 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
 ![Choosing what GPT mode to use in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0105.PNG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT generating an image in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0106.PNG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT reworking an image in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0107.PNG)
@@ -138,16 +138,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-7-creative-thumbnails-free-tools-for-youtube/"><u>[Updated] 7 Creative Thumbnails Free Tools for YouTube</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-the-world-of-facebook-analytics/"><u>2024 Approved Navigating the World of Facebook Analytics</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-top-strategies-for-high-def-facebook-video/"><u>2024 Approved Top Strategies for High-Def Facebook Video</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-transformed-discover-crucial-chatgpt-features-today/"><u>AI Transformed: Discover Crucial ChatGPT Features Today</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-archivists-guide-reviving-yesteryears-vhs-artistry-in-todays-editing-space/"><u>In 2024, The Archivist's Guide Reviving Yesteryear’s VHS Artistry in Today's Editing Space</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ordinary-challenges-which-bot-overcomes-the-rest/"><u>Ordinary Challenges: Which Bot Overcomes the Rest?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/rapid-reader-advanced-windows-photoshop-for-2024/"><u>Rapid Reader - Advanced Windows Photoshop for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/recognizing-signs-of-an-underperforming-optical-drive-in-your-computer-system-insights-by-yl-computing/"><u>Recognizing Signs of an Underperforming Optical Drive in Your Computer System - Insights by YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/true-insights-free-pc-game-guide/"><u>True Insights: Free PC Game Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-your-portal-to-chatgpt-with-ease/"><u>Unlocking Your Portal to ChatGPT with Ease</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-influencers-secrets-top-10-video-editing-apps-for-ig-success/"><u>2024 Approved Influencers' Secrets Top 10 Video Editing Apps for IG Success</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-honor-magic-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-sony-xperia-5-v-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Sony Xperia 5 V?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-scam-alert-to-twitsignature-metas-progressive-stride/"><u>From Scam Alert to TwitSignature: Meta's Progressive Stride</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-conversations-a-guide-to-effective-sorting/"><u>Navigating ChatGPT Conversations: A Guide to Effective Sorting</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-smooth-operator-a-plugin-free-guide-to-skin-retouching-in-fcpx/"><u>New In 2024, Smooth Operator A Plugin-Free Guide to Skin Retouching in FCPX</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nonewchatgpt-anticipated-reopening-timeframe/"><u>NoNewChatGPT: Anticipated Reopening Timeframe</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pathfinder-wrath-of-the-righteous-pc-issues-fixed-game-now-smoothly-running/"><u>Pathfinder: Wrath of the Righteous PC Issues Fixed – Game Now Smoothly Running</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prioritized-improvements-to-craft-an-ideal-gpt-plugin-marketplace/"><u>Prioritized Improvements to Craft an Ideal GPT Plugin Marketplace</u></a></li>
+<li><a href="https://win-net.techidaily.com/reinstating-lost-sound-drivers-made-easy-with-yl-software-solutions/"><u>Reinstating Lost Sound Drivers Made Easy with YL Software Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-lenovo-mouse-pad-in-windows-systems-win-1187-with-these-simple-repair-tips/"><u>Revive Your Lenovo Mouse Pad in Windows Systems (Win 11/8/7) with These Simple Repair Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/teaching-tools-validating-gpt-performance-metrics/"><u>Teaching Tools: Validating GPT Performance Metrics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-rise-of-bard-googles-new-ai-ambition-against-chatgpt/"><u>The Rise of 'Bard': Google's New AI Ambition Against ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-did-italy-declare-an-immediate-ban-on-ai-language-models/"><u>Why Did Italy Declare an Immediate Ban on AI Language Models?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138581723-9781452540634-you-are-beautiful/"><u>You Are Beautiful | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Rethinking AI Laws: The Call From OpenAI's Top Boss"
-date: 2024-09-12T07:38:04.016Z
-updated: 2024-09-13T07:38:04.016Z
+date: 2024-12-25T21:02:58.285Z
+updated: 2024-12-27T19:36:51.604Z
 tags:
   - chatgpt
   - open-ai
@@ -22,10 +22,7 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 **SCROLL TO CONTINUE WITH CONTENT**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Is Sam Altman Calling for More AI Regulation?
@@ -33,10 +30,7 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 ![sam altman sitting on stage talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sam-altman-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838377432/in/)
@@ -56,10 +50,7 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  So, it's evident that industry professionals and lawmakers are concerned about AI and its future impact. But what effect will further regulation have on the AI industry? Will it be a good or bad thing?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Will More Regulation Benefit the AI Industry?
@@ -75,22 +66,12 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  Some also feel that it's far too soon to be talking about AI regulation, though the presence of AI in so many industries today would seem to contradict that view.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is AI Regulation Good News for OpenAI?
 
 ![openai logo on smartphone place on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-ai-phone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Sam Altman's call for more AI regulation has raised questions about whether such constraints will actually benefit OpenAI.
 
@@ -101,16 +82,7 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  It isn't surprising that Altman has something of a bias here, as ChatGPT is the brainchild of the company he runs. But further regulation could lead to larger, pre-established AI companies having an advantage over smaller organizations, especially if licenses, permits, and long testing periods are made a legal requirement (as this could incur more costs and require more personnel).
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI Regulation Is a Point of Contention
@@ -132,5 +104,24 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-initial-glimpse-at-vectors-classifying-and-choosing-right-tech/"><u>[Updated] Initial Glimpse at Vectors Classifying and Choosing Right Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m4a-mpeg-movavi/"><u>「オンラインで気軽にM4A MPEGファイルを無料変換 - Movavi」</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-cutting-edge-tiktok-techniques-for-new-video-borders/"><u>2024 Approved Cutting-Edge TikTok Techniques for New Video Borders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726223918592-aac3gp-movavi/"><u>網路直接無限制AAC到3GP格式傳送 - 使用Movavi 轉錄工具</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-guide-for-aspiring-graders-essential-tips-from-these-top-7/"><u>A Guide for Aspiring Graders Essential Tips From These Top 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-tool-for-video-editing-a-comprehensive-guide-to-movavi-vs-windows-movie-maker/"><u>Choosing the Right Tool for Video Editing: A Comprehensive Guide to Movavi Vs. Windows Movie Maker</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-gratuite-de-fichiers-orf-en-images-png-sur-internet-mouvavi/"><u>Conversion Gratuite De Fichiers ORF en Images PNG Sur Internet - Mouvavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convert-tiff-images-to-jpg-for-free-using-movavis-web-tool/"><u>Convert TIFF Images to JPG for Free Using Movavi's Web Tool</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/cutting-edge-techniques-for-youtube-video-edits-via-wm-maker-for-2024/"><u>Cutting-Edge Techniques for YouTube Video Edits via WM Maker for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-mp3-normalisering-en-lautstarke-einstellen-mit-movavi/"><u>Efficiënt MP3 Normalisering en Lautstärke Einstellen Mit Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-conversion-from-quicktime-qt-to-movie-formats-mov-using-online-tools/"><u>Free Conversion From QuickTime (QT) to Movie Formats (.MOV) Using Online Tools</u></a></li>
+<li><a href="https://win-dash.techidaily.com/geforce-rtx-3080-ti-drivers-download-the-new-release-for-win-11win-8win-7-today/"><u>GeForce RTX 3080 Ti Drivers: Download the New Release for Win 11/Win 8/Win 7 Today</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-intercept-text-messages-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Intercept Text Messages on Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-v30-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo V30 Phone?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-collage-concepts-lighting-up-your-life/"><u>Innovative Collage Concepts Lighting Up Your Life</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-perfect-fit-for-tiktok-success-comprehensive-guide-on-choosing-ideal-video-width-and-height/"><u>The Perfect Fit for TikTok Success: Comprehensive Guide on Choosing Ideal Video Width and Height</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unbiased-comparison-sony-vegas-vs-adobe-premiere-pro-for-video-creators-for-2024/"><u>Updated Unbiased Comparison Sony Vegas vs Adobe Premiere Pro for Video Creators for 2024</u></a></li>
+</ul></div>
 

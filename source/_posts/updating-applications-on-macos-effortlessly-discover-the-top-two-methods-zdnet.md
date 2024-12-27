@@ -1,7 +1,7 @@
 ---
 title: "Updating Applications on macOS Effortlessly: Discover the Top Two Methods | ZDNet"
-date: 2024-12-17T04:35:56.032Z
-updated: 2024-12-22T08:48:31.453Z
+date: 2024-12-25T20:02:23.777Z
+updated: 2024-12-27T20:52:47.655Z
 tags:
   - apple
 categories:
@@ -30,12 +30,16 @@ Let me show you both approaches.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update MacOS apps from the App Store
 
 **What you'll need:** The only things you'll need are an Apple device (a MacBook or iMac) and a valid user account on the machine. That's it. Let's get to the updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open the App Store
@@ -66,16 +70,12 @@ Screenshot by Jack Wallen/ZDNET
 
 Once the update is completed, close the App Store and you're done.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to update MacOS apps from the command line
 
 This is a bit more complicated, for two reasons: first, you have to find out what apps are available for updating, and, second -- as with Linux -- the app names are case-sensitive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open the Terminal app
@@ -83,7 +83,7 @@ This is a bit more complicated, for two reasons: first, you have to find out wha
 To run commands, you must first open the terminal app, which can be done from the Launchpad. Click the Launchpad icon in your Dock and then type _terminal_. Click the launcher to open the Terminal app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check for available updates
@@ -99,7 +99,7 @@ You will be prompted for your sudo password (which is your MacOS user password).
 The -l option stands for _list_. This will print out any available app updates and, if required, it will inform you if a restart is needed to complete any recent OS updates. If you see such a warning, make sure to do the reboot to complete the process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update the apps
@@ -144,22 +144,24 @@ This is about as simple a method as you'll find to help keep your MacOS machines
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-mastering-srt-integration-in-mp4s-a-complete-blueprint/"><u>[Updated] In 2024, Mastering SRT Integration in MP4s A Complete Blueprint</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oppo-a78-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Oppo A78 PC | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-for-cupid-boosting-your-date-success/"><u>AI for Cupid: Boosting Your Date Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/banking-security-under-threat-chatgpts-potential-risks-explored/"><u>Banking Security Under Threat? ChatGPT’s Potential Risks Explored</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-reno-11f-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723006701405-death-stranding-stops-working-on-pc-heres-how-you-can-resolve-that-problem/"><u>Death Stranding Stops Working on PC? Here's How You Can Resolve That Problem!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-cost-free-comparable-ai-innovations-like-sora/"><u>Discover Cost-Free, Comparable AI Innovations Like Sora</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-claude-2-its-role-and-capabilities/"><u>Dissecting Claude 2: Its Role & Capabilities</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-redmi-note-12r-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Redmi Note 12R Pattern Lock Screen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-access-immediately-download-the-latest-macos-15-sequoia-beta-for-free-and-install-it-on-your-mac-complete-guide/"><u>Get Access Immediately: Download the Latest macOS 15 Sequoia Beta for Free & Install It on Your Mac - Complete Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-vivo-y78-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Vivo Y78 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-achieving-teleportation-magic-illusions/"><u>In 2024, Achieving Teleportation Magic Illusions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/logitech-driving-force-gt-driver-download-for-windows-71011/"><u>Logitech Driving Force GT Driver Download for Windows 7/10/11</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/pixeljudge-quality-analyzer/"><u>PixelJudge Quality Analyzer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shaping-ai-responsibly-leadership-from-openai-c-suite/"><u>Shaping AI Responsibly: Leadership From OpenAI C-Suite</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-simplified-art-of-ai/"><u>The Simplified Art of AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformative-chef-techniques-with-7-ai-gourmet-assistance/"><u>Transformative Chef Techniques with 7 AI Gourmet Assistance</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-cutting-edge-cameras-top-15-picks-innovation/"><u>[New] Cutting-Edge Cameras Top 15 Picks Innovation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-discovering-the-basics-of-digital-pixel-landscapes-for-2024/"><u>[New] Discovering the Basics of Digital Pixel Landscapes for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-change-your-voice-on-instagram/"><u>[Updated] 2024 Approved How to Change Your Voice on Instagram?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-building-brands-earning-dollars-a-comprehensive-guide-to-insta-sponsorships/"><u>[Updated] Building Brands, Earning Dollars A Comprehensive Guide to Insta-Sponsorships</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-securely-distributing-exclusive-youtube-videos-through-gmail/"><u>[Updated] Securely Distributing Exclusive YouTube Videos Through Gmail</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-boosting-video-content-with-effective-srt-file-management/"><u>2024 Approved Boosting Video Content with Effective SRT File Management</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-fix-confirmed-shorts-are-showing-up/"><u>2024 Approved Fix Confirmed Shorts Are Showing Up</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-transform-healthcare/"><u>Can ChatGPT Transform Healthcare?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbots-rising-the-transformation-of-digital-storytelling/"><u>Chatbots Rising: The Transformation of Digital Storytelling</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723809009078-comprehensive-insights-into-enterprise-level-search-systems-discover-your-best-option-today/"><u>Comprehensive Insights Into Enterprise-Level Search Systems - Discover Your Best Option Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-nutritionally-sound-menus-with-chatgpt/"><u>Creating Nutritionally Sound Menus with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/disabling-recording-privacy-focused-tips-for-chatgpt-users/"><u>Disabling Recording: Privacy-Focused Tips for ChatGPT Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/distinguishing-diverse-ai-usage-scenarios/"><u>Distinguishing Diverse AI Usage Scenarios</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-itel-a70-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-infinix-smart-7-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Infinix Smart 7 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-tasks-with-7-chatgpt-tips-for-optimal-output/"><u>Streamline Tasks with 7 ChatGPT Tips for Optimal Output</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-conversation-five-ways-to-steer-chatgpt/"><u>The Art of Conversation: Five Ways to Steer ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-web-designs-using-ai-chatgpt-guide/"><u>Unlocking Potential Web Designs Using AI: ChatGPT Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-top-5-non-commercial-art-influencers/"><u>Unveiling Top 5 Non-Commercial Art Influencers</u></a></li>
 </ul></div>
 

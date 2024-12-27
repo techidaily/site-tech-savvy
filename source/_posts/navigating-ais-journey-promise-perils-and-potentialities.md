@@ -1,7 +1,7 @@
 ---
 title: "Navigating AI's Journey: Promise, Perils, & Potentialities"
-date: 2024-12-16T22:05:37.105Z
-updated: 2024-12-21T16:55:52.654Z
+date: 2024-12-23T17:40:31.586Z
+updated: 2024-12-27T21:25:47.685Z
 tags:
   - chatgpt
   - open-ai
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Artificial Intelligence?
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
  The AI we use today, ANI (aka weak AI), is mainly about pattern recognition and making programmed inferences. In the same way we humans use our senses to navigate the world around us and act accordingly, AI uses the data we give it to do all sorts of things.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Examples of AI
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
  We made AI for the same reason we make any technology: to reduce suffering and increase pleasure. Today, AI helps us translate languages, [avoid traffic jams](https://www.makeuseof.com/tag/how-google-predicts-traffic/), prevent fraud, manage inventory, [automate household chores](https://www.makeuseof.com/tech-ease-overwhelming-feeling-everyday-tasks-chores/), create diet plans, trade stocks, create content, [make artwork](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/), study analytics, and more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are the Risks and Dangers of Using AI?
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
  Furthermore, AI tools are now used to impersonate celebrities, politicians, and public figures via [deepfake technology](https://www.makeuseof.com/tag/what-are-deepfakes-explained/) and voice cloning. This is extremely dangerous for obvious reasons. Unfortunately, as the tech improves, it'll become more difficult to tell what's real and what's fake.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI Should Be a Tool, Not a Weapon
@@ -105,18 +105,14 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-dissecting-the-newest-features-of-facebook/"><u>[Updated] 2024 Approved Dissecting the Newest Features of Facebook</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-from-storyboard-to-screenplay-a-youtube-video-writers-journey/"><u>[Updated] 2024 Approved From Storyboard to Screenplay A YouTube Video Writer's Journey</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-disruptive-youtube-videos-fix-and-solutions-for-mobile/"><u>[Updated] Disruptive YouTube Videos Fix and Solutions for Mobile</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-unlocking-the-million-sub-code-insights-for-digital-growth/"><u>[Updated] In 2024, Unlocking the Million-Sub Code Insights for Digital Growth</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-movmp4movavi/"><u>1. 網路上免費MOV到MP4轉檔：用Movavi進行的高效方式</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-conserve-space-not-time-youtube-video-length-adjustment/"><u>In 2024, Conserve Space, Not Time YouTube Video Length Adjustment</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-poco-m6-pro-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Poco M6 Pro 5G Device</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-nokia-150-2023-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Nokia 150 (2023)</u></a></li>
-<li><a href="https://article-posts.techidaily.com/spotlight-on-youtubes-creme-de-la-creme-of-narratives-for-2024/"><u>Spotlight on YouTube’s Crème De La Crème of Narratives for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/switch-your-audio-from-ogg-to-mp4-at-no-cost-utilize-our-user-friendly-service/"><u>Switch Your Audio From OGG to MP4 at No Cost - Utilize Our User-Friendly Service</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/qt-flv-online-movavi/"><u>구부리기 무료 QT FLV - Online 자동화 - Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rmvbmkv-movavi/"><u>お得! どんなパソコンでも使える、無料のオンラインRMVB/MKVファイル変換 – Movavi特選サービス</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726223806994-webm-mp4/"><u>オンラインで変換！高画質のみにフォーカス - WEBM MP4コンバーター無料版</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-behind-the-scenes-top-picks-of-monitors-and-tvs-for-xbox-series-x-gamers/"><u>[Updated] 2024 Approved Behind-the-Scenes Top Picks of Monitors & TVs for Xbox Series X Gamers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-simplified-communication-the-chrome-enhanced-gpt-tool/"><u>Experience Simplified Communication - The Chrome-Enhanced GPT Tool</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-8-plus-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 8 Plus iCloud Bypass</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-step-up-to-stardom-10-pro-tips-for-pixlr-excellence/"><u>In 2024, Step up to Stardom 10 Pro Tips for Pixlr Excellence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-eus-ai-act-and-chatbots-like-chatgpt/"><u>Navigating the EU's AI Act & Chatbots Like ChatGPT</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/reviews-of-the-twelve-south-compass-pro-expertly-crafted-for-unmatched-steadyness/"><u>Reviews of the Twelve South Compass Pro: Expertly Crafted for Unmatched Steadyness</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-for-effective-chatgpt-extensions-use/"><u>Strategies for Effective ChatGPT Extensions Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tracing-the-lifeline-chatgpts-present-state/"><u>Tracing the Lifeline: ChatGPT’s Present State</u></a></li>
 </ul></div>
 

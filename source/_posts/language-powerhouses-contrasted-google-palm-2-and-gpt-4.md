@@ -1,7 +1,7 @@
 ---
 title: "Language Powerhouses Contrasted: Google PaLM 2 & GPT-4"
-date: 2024-12-16T06:55:07.548Z
-updated: 2024-12-21T21:53:15.080Z
+date: 2024-12-26T17:08:58.290Z
+updated: 2024-12-27T18:57:14.627Z
 tags:
   - chatgpt
   - open-ai
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/0b724e890933179083e665890982beb41082b155e
  Another obvious performance advantage that PaLM 2 carries over GPT-4 is its availability in different sizes. This means that different versions of the model, Gecko, for instance, can run on mobile devices, even without an internet connection, and provide onboard AI capabilities—something we're yet to see from GPT-4\. This kind of on-device processing gives PaLM 2 an edge over GPT-4 when it comes to accessibility and deployment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Differences in GPT-4 and PaLM 2 Training Data
@@ -64,15 +64,15 @@ thumbnail: https://thmb.techidaily.com/0b724e890933179083e665890982beb41082b155e
 
 ![the ChatGPT logo over a photograph of an essay written on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-chatgpt-logo-over-a-photograph-of-an-essay-written-on-a-laptop.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When GPT-4 is asked a question, it can produce a wide variety of responses, not all of which might be relevant to your query. To align it with the user's intent, OpenAI fine-tuned the model's behavior using reinforcement learning with human feedback.
 
  While we may not know the exact training data either of these models were trained on, we know that the training intent was very different. We'll have to wait and see how this difference in training intent differentiates between the two models in a real-world deployment.
 
  That said, the sheer volume of training data used for GPT-4 means that it has an advantage when it comes to understanding the nuances of language and should theoretically generate higher-quality outputs. However, this also means that OpenAI needs to put stronger restrictions in place to keep the model from going haywire, something that Google can avoid, considering it left potentially toxic sources out of the training data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## PaLM 2 and GPT-4 Chatbots and Services
 
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/0b724e890933179083e665890982beb41082b155e
 ![Setting an emoji wallpaper on Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/emoji-wallpapers-android.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Google I/O 2023 was filled with announcements about how PaLM 2 and generative AI integration will improve the Google Workspace experience with AI features coming to Google Docs, Sheets, Slides, Gmail, and just about every service the search giant offers. In addition, Google has confirmed that PaLM 2 has already been integrated into over 25 Google products, including Android and YouTube.
@@ -94,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/0b724e890933179083e665890982beb41082b155e
 
 ![A screenshot of Microsoft's Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That's not to say that developers won't be switching to or at least trying out PaLM 2, but Google still has to play catch-up with OpenAI on that front. The fact that PaLM 2 is open-source, instead of being locked behind a paid API, means it has the potential to be more widely adopted than GPT-4\.
 
  All things considered, at the moment, the PaLM 2-powered Bard appears to be the better choice when it comes to research as it is better at answering questions with relevant information and accessing the latest information on the internet about any given subject. [According to Bard's latest update](https://bard.google.com/updates), delivered on September 19, 2023, Bard is now using its "most capable model yet" with support for another 40 languages, in-depth coding assistance, the ability to present different perspectives on a given topic, and general quality and accuracy improvements.
@@ -105,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/0b724e890933179083e665890982beb41082b155e
  You also get the option of double-checking Bard's responses with Google searches. However, on the performance front, the model still takes longer to generate responses as compared to the GPT-4 powered ChatGPT or Bing Chat.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can PaLM 2 Take on GPT-4?
@@ -113,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/0b724e890933179083e665890982beb41082b155e
  PaLM 2 is still very new, so the answer to whether or not it can take on GPT-4 remains to be answered. However, with everything that Google is promising and the aggressive manner it has decided to use to propagate it, it does look like PaLM 2 can give GPT-4 a run for its money. With Google's ongoing development of a multimodal AI model called Gemini also in the works, it's about time for OpenAI to get on its toes.
 
  However, GPT-4 is still quite a capable model and, as mentioned before, beats PaLM 2 in quite a few comparisons. That said, PaLM 2's multiple smaller models give it an irrefutable edge. Gecko itself is so lightweight that it can work on mobile devices, even when offline. This means that PaLM 2 can support an entirely different class of products and devices that might struggle to use GPT-4\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The AI Race Is Heating Up
 
@@ -137,18 +137,24 @@ thumbnail: https://thmb.techidaily.com/0b724e890933179083e665890982beb41082b155e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-platform-precision-examining-obs-against-twitch-hub-for-2024/"><u>[New] Platform Precision Examining OBS Against Twitch Hub for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-amplify-your-youtubes-interaction-with-emojis/"><u>[Updated] Amplify Your Youtubes' Interaction with Emojis</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/1726027753056-5/"><u>初学者にぬける！今期のベストゲーム配信用エディッター5本〜無料でリニューアル受注中</u></a></li>
-<li><a href="https://blog-min.techidaily.com/conversion-gratuite-de-fichiers-mpeg-en-mjpeg-guide-complet-avec-movavi/"><u>Conversion Gratuite De Fichiers MPEG en MJPEG : Guide Complet Avec Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-nba-action-at-home-the-best-15-ways-to-watch-games-online-for-2024/"><u>Free NBA Action at Home The Best 15 Ways to Watch Games Online for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-infuse-sound-into-your-whatsapp-status-update/"><u>In 2024, Infuse Sound Into Your WhatsApp Status Update</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/roku-streambar-review-roku-streaming-and-upgraded-sound-in-one/"><u>Roku Streambar Review: Roku Streaming and Upgraded Sound in One</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamlessly-merging-multiple-mp4-videos-a-simple-guide/"><u>Seamlessly Merging Multiple MP4 Videos: A Simple Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-your-own-copy-expert-tips-for-saving-loom-videos-using-3-proven-strategies/"><u>Secure Your Own Copy: Expert Tips for Saving Loom Videos Using 3 Proven Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-guide-to-converting-your-dvds-into-avi-files-with-no-hassle/"><u>Simple Guide to Converting Your DVDs Into AVI Files with No Hassle</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-guide-change-wmv-videos-into-mp4-mov-and-mp3-formats-with-one-click/"><u>Simple Guide: Change WMV Videos Into MP4, Mov & MP3 Formats with One-Click</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-lava-blaze-curve-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Lava Blaze Curve 5G Device</u></a></li>
-<li><a href="https://fox-place.techidaily.com/yl-digital-innovations-premium-ford-escort-screen-savers-and-themes/"><u>YL Digital Innovations: Premium Ford Escort Screen Savers and Themes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-capture-and-relive-your-favorite-moments-anywhere-anytime-the-best-in-free-video-downloaders-for-youtubes/"><u>[New] Capture and Relive Your Favorite Moments Anywhere, Anytime The Best in Free Video Downloaders for YouTubes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-beauty-brows-to-perfect-portraits-crafting-your-cosmetic-chanel/"><u>[New] From Beauty Brows to Perfect Portraits Crafting Your Cosmetic Chanel</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/our-first-impression-matters-8-must-try-youtube-tools-for-thumbnails/"><u>[New] Your First Impression Matters 8 Must-Try YouTube Tools for Thumbnails</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unveiling-the-simplest-tone-adjustments-in-pubg-for-2024/"><u>[Updated] Unveiling the Simplest Tone Adjustments in PUBG for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-workspace-with-these-5-exceptional-indoor-plants-a-guide-from-zdnet/"><u>Boost Your Workspace with These 5 Exceptional Indoor Plants: A Guide From ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808220765-computer-speed-upgrade-success-story-bid-farewell-to-freezes-and-stalls/"><u>Computer Speed Upgrade Success Story: Bid Farewell to Freezes and Stalls</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-most-exceptional-2022-inflatable-kayaks-as-featured-by-zdnet-a-comprehensive-guide/"><u>Discover the Most Exceptional 2022 Inflatable Kayaks as Featured by ZDNet: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-selection-elite-camping-seating-solutions-of-2022-reviewed-by-zdnet-adventuretech/"><u>Discover the Ultimate Selection: Elite Camping Seating Solutions of 2022 Reviewed by ZDNET | AdventureTech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-wireless-security-solution-the-waterproof-blink-mini-2-outperforms-wyze-camera/"><u>Discover the Ultimate Wireless Security Solution: The Waterproof Blink Mini 2 Outperforms Wyze Camera</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-unbeatable-deals-up-to-38-off-eufy-cam-2c-professional-surveillance-setup-exclusive-offer-from-zdnet/"><u>Discover Unbeatable Deals: Up to 38% Off Eufy Cam 2C Professional Surveillance Setup - Exclusive Offer From ZDNET</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exceptional-value-in-a-gamers-rig-an-in-depth-review-of-the-dell-g5-5090-with-plenty-of-options-to-suit-any-player/"><u>Exceptional Value in a Gamer's Rig: An In-Depth Review of the Dell G5 5090 with Plenty of Options to Suit Any Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-deal-alert-get-your-click-and-grow-garden-at-a-steep-discount-this-prime-day-2022-update-now-sold-out-zdnet/"><u>Exclusive Deal Alert: Get Your Click & Grow Garden at a Steep Discount This Prime Day 2022 (Update: Now Sold Out) | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-selection-of-power-generation-bargains-for-february-202nk-find-out-inside-zdnet/"><u>Exclusive Selection of Power Generation Bargains for February 202Nk - Find Out Inside ZDnet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-unmatched-power-discover-why-the-ecoflow-river-n3-is-a-top-choice-for-beginner-compact-energy-solutions-insights-from-zdnet-review/"><u>Experience Unmatched Power: Discover Why the EcoFlow River N3 Is a Top Choice for Beginner Compact Energy Solutions - Insights From ZDNet Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experiencing-the-unexpected-how-the-ring-spotlight-cam-pro-blew-us-away-insights-from-zdnet/"><u>Experiencing The Unexpected: How The Ring Spotlight Cam Pro Blew Us Away - Insights From ZDNET</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/eye-catching-images-windows-10s-screenshot-feature-for-2024/"><u>Eye-Catching Images Windows 10'S Screenshot Feature for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-samsung-galaxy-f15-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Samsung Galaxy F15 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-platform-pair-comparison-twitch-and-youtube/"><u>The Ultimate Platform Pair Comparison Twitch and YouTube</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-By-Step: Installing Auto-GPT"
-date: 2024-12-19T04:40:54.006Z
-updated: 2024-12-21T16:53:27.237Z
+date: 2024-12-22T21:59:55.326Z
+updated: 2024-12-27T21:58:37.900Z
 tags:
   - chatgpt
   - open-ai
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/b6ba28a8cbc4962b19ff9bb8173aa467ae4382bcf
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 1: Download Python and AutoGPT
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/b6ba28a8cbc4962b19ff9bb8173aa467ae4382bcf
  Once downloaded, double-click on the file to install Python. Make sure to tick the box for **Add python.exe to PATH**. This will enable your PC to use Python anywhere in your PC. After that, go ahead and click **Install Now**.
 
 ![A tab showing a tab to install Python](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-install-python.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After Installing Python, you can download Auto-GPT from GitHub.
 
@@ -66,15 +62,21 @@ thumbnail: https://thmb.techidaily.com/b6ba28a8cbc4962b19ff9bb8173aa467ae4382bcf
 2. To create a key, click **Create new secret key**, input a name, then click **Create secret key**. You can then copy the API key by using **CTRL + C** or clicking the copy icon on the right.  
 ![Create API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-create-test-key.jpg)
 3. Now you have your API key, go to your Auto-GPT folder and open the **.env** file using Notepad.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Open env with Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-open-env.jpg)
 4. Once opened, scroll down to the **LLM PROVIDER** section. There you will see OPENAI\_API\_KEY. Replace the placeholder with the API key you've just copied, then save the file.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Set API as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/wrwe.jpg)
 
  This file is where all your service credentials are placed, so if you want to use a [backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/), you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 3: Install Auto-GPT Dependencies
 
@@ -88,10 +90,6 @@ pip install -r requirements.txt
 4. After installation, try opening Auto-GPT using:  
 python -m autogpt  
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Congratulations! You have successfully Installed Auto-GPT.
 
@@ -128,7 +126,7 @@ python -m autogpt
 ![AutoGPT downloading file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-recipe-generator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This makes this [AI potentially dangerous](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/); that's why Auto-GPT always asks you for authorization before executing plans. Always read and understand your AI assistant's thoughts, reasoning, and plan before authorizing its actions.
@@ -143,15 +141,15 @@ python -m autogpt
 
 ![Shutting down Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To view the output, go to your Auto-GPT folder and **open auto-gpt-workspace**.
 
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
 
  Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Auto-GPT Limitations
 
@@ -164,6 +162,10 @@ python -m autogpt
  Other problems that contribute to Auto-GPT getting stuck are the model struggling to handle or navigate website advertising and cookies, login pages, and all kinds of pop-ups (the stuff humans hate, too!).
 
  Using GPT-4 will noticeably reduce hallucinations and improve overall performance. However, its context size is still limited to 8,000 tokens. After reaching the 8k-token mark, GPT-4 will start losing context starting from the beginning of the task, affecting results. Furthermore, using GPT-4 is several times pricier than GPT-3.5 ([each GPT token has a cost](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/)). You'll want to set limits through your API account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Future of Auto-GPT
 
@@ -192,22 +194,21 @@ python -m autogpt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-crafting-a-connected-collection-across-applications/"><u>[New] Crafting a Connected Collection Across Applications</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-fundamental-definitions-in-virtual-narrative-art/"><u>[New] Fundamental Definitions in Virtual Narrative Art</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-success-on-youtube-standard-studio-or-beta/"><u>[New] In 2024, Crafting Success on YouTube Standard Studio or Beta</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-learning-the-ropes-of-lunapics-user-interface-for-2024/"><u>[New] Learning the Ropes of LunaPic's User Interface for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/academic-integrity-beyond-auto-generated-texts/"><u>Academic Integrity Beyond Auto-Generated Texts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-showdown-snapchat-vs-chatgpt/"><u>Artificial Intelligence Showdown: Snapchat vs ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-a-better-day-4-innovative-ways-chatgpt-aids-planning/"><u>Crafting a Better Day: 4 Innovative Ways ChatGPT Aids Planning</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enriching-your-storys-personas-with-the-best-gpt-prompts/"><u>Enriching Your Story's Personas with the Best GPT Prompts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-words-to-books-chatgpt-as-your-creative-ally/"><u>From Words to Books: ChatGPT as Your Creative Ally</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-the-ultimate-list-empowering-film-suggestions/"><u>In 2024, The Ultimate List Empowering Film Suggestions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-emoji-tweets-on-twitter-linuss-insight-revealed-trojans-explained-and-chatgpt-concerns-addressed/"><u>No Emoji Tweets on Twitter, Linus's Insight Revealed, Trojans Explained, & ChatGPT Concerns Addressed.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/palm-2-vs-gpt-4-unveiling-key-differences/"><u>PaLM 2 Vs. GPT-4: Unveiling Key Differences</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prime-8-gpt-prompts-for-minimizing-tech-related-distractions/"><u>Prime 8 GPT Prompts for Minimizing Tech-Related Distractions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/storytelling-excellence-unlocked-leveraging-chatgpt-for-creative-writing-success/"><u>Storytelling Excellence Unlocked: Leveraging ChatGPT for Creative Writing Success</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-excess-window-tasks-in-windows/"><u>Tackling Excess Window Tasks in Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-complete-guide-to-producing-professional-gopro-video-content/"><u>The Complete Guide to Producing Professional GoPro Video Content</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-way-to-reduce-audio-noise-with-the-right-tools-offlineonline-for-2024/"><u>The Way To Reduce Audio Noise With The Right Tools (Offline/Online) for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-vanishing-on-tiktok-heres-how-to-comeback/"><u>[Updated] Vanishing on TikTok? Here’s How to Comeback</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-formulating-attractive-instagram-post-headlines/"><u>2024 Approved Formulating Attractive Instagram Post Headlines</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/apex-productions-audit-studio-25-breakdown-2023-for-2024/"><u>Apex Productions Audit Studio 25 Breakdown, 2023 for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparative-study-of-wi-fi-signal-expanders-spotlight-on-tp-link-re505x/"><u>Comparative Study of Wi-Fi Signal Expanders: Spotlight on TP-Link RE505X</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-complex-workings-of-gpt4all/"><u>Decoding the Complex Workings of GPT4All</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dont-install-macchatgpt-uncovered-risks/"><u>Don't Install MacChatGPT: Uncovered Risks!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harness-your-creative-genius-utilizing-free-dall-e-3-via-microsoft-bing/"><u>Harness Your Creative Genius: Utilizing Free DALL-E 3 via Microsoft Bing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-navigate-and-resolve-4-gpt-3-suspensions/"><u>How to Navigate and Resolve 4 GPT-3 Suspensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-save-your-chatgpt-chats-for-later/"><u>How to Save Your ChatGPT Chats for Later</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-upgrading-made-easy-your-guide-to-smooth-tech-transitions/"><u>In 2024, Upgrading Made Easy Your Guide to Smooth Tech Transitions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-video-editing-simplified-the-best-hacks-for-new-creators/"><u>In 2024, Video Editing Simplified The Best Hacks for New Creators</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/swift-and-simple-method-for-screenshots-on-ios-devices-for-2024/"><u>Swift and Simple Method for Screenshots on IOS Devices for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/uberwindung-von-festplattenprufungsproblemen-losungen-fur-den-datentragerprufung-konnte-nicht-durchgefuhrt-werden-fehler/"><u>Überwindung Von Festplattenprüfungsproblemen: Lösungen Für Den 'Datenträgerprüfung Konnte Nicht Durchgeführt Werden'-Fehler</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocked-potential-speak-to-chatgpt-directly/"><u>Unlocked Potential: Speak To ChatGPT Directly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-ais-potential-for-home-artisans-gpt-4/"><u>Unveiling AI's Potential for Home Artisans: GPT-4</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-1110-reinstate-acquisition-hardware/"><u>Windows 11/10: Reinstate Acquisition Hardware</u></a></li>
 </ul></div>
 

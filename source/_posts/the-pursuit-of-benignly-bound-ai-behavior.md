@@ -1,7 +1,7 @@
 ---
 title: The Pursuit of Benignly Bound AI Behavior
-date: 2024-12-17T20:48:02.422Z
-updated: 2024-12-21T18:50:12.541Z
+date: 2024-12-22T19:03:47.217Z
+updated: 2024-12-27T19:53:55.196Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI Control Problem Explained
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
  If an AI system were to surpass human intelligence without the proper safeguards, the result could be catastrophic. Such systems could assume control of physical resources as many tasks are achieved better or more efficiently. Since AI systems are designed to achieve maximum efficiency, losing control could lead to severe consequences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Does the AI Control Problem Apply?
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
 ![Image of a laptop with AI on the screen and ChatGPT in different fonts in the background](https://thmb.techidaily.com/176a1a151aeb9ebfdcfd4bd623625c32ca353b5d86117d513193a67649a60b72.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A great example of this is the [Tesla Full-Self Driving (FSD) suite](https://www.makeuseof.com/what-is-tesla-fsd-how-does-it-work/). While the car can drive itself, it requires a human to have their hands on the steering wheel, ready to take control of the car should the system malfunction. However, as these AI systems get more reliable, even the most alert human's attention will begin to vary, and dependency on the autonomous system will increase.
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
  So what happens when cars start driving at speeds humans can't keep up with? We'll end up surrendering control to the car's autonomous systems, meaning an AI system will be in control of your life, at least until you reach your destination.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can the AI Control Problem Be Solved?
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
  The DCAF approach always puts a human operator at the helm of an automated system, ensuring that their input controls the most important parts of the system's decision-making process. If a system is engaging enough for a human operator to pay attention constantly, the control problem can be solved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can We Ever Truly Control AI?
@@ -107,24 +107,14 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-bringing-vision-to-life-the-art-of-post-color-enhancement-for-2024/"><u>[New] Bringing Vision to Life The Art of Post-Color Enhancement for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-how-to-effortlessly-blur-images-captured-by-iphones-4-methods-for-2024/"><u>[Updated] How to Effortlessly Blur Images Captured by iPhones (4 Methods) for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-reno-10-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo Reno 10 5G</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-communicators-contrasted-insights-on-gpt-and-bing/"><u>AI Communicators Contrasted: Insights on GPT & Bing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bespoke-chatbot-through-gpt-development-journey/"><u>Bespoke Chatbot Through GPT Development Journey</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-transforming-industry-interactions/"><u>ChatGPT: Transforming Industry Interactions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claude-3-an-in-depth-look-at-its-uses/"><u>Claude 3: An In-Depth Look at Its Uses</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/elevating-roi-in-facebooks-animated-advertising-arena/"><u>Elevating ROI in Facebook's Animated Advertising Arena</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harness-the-power-of-free-with-gpt-4-and-copilot/"><u>Harness the Power of Free with GPT-4 & Copilot</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-iphone-11-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on iPhone 11 or iPad?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/in-depth-look-at-ai-search-techniques-and-business-utilization/"><u>In-Depth Look at AI Search Techniques and Business Utilization</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-presentation-design-with-chatgpt-assistance/"><u>Master Presentation Design with ChatGPT Assistance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/personal-projects-transformed-by-gpt-4s-arrival/"><u>Personal Projects Transformed by GPT-4's Arrival</u></a></li>
-<li><a href="https://fox-links.techidaily.com/revolutionary-rider-helmet-cams-top-picks-for-23/"><u>Revolutionary Rider Helmet Cams - Top Picks for '23</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/social-snapshot-saver-tool/"><u>Social Snapshot Saver Tool</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-organizing-fb-giveaways-for-2024/"><u>The Ultimate Guide to Organizing FB Giveaways for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-to-producing-hysterical-youtube-video-reactions-3-key-techniques-for-2024/"><u>The Ultimate Guide to Producing Hysterical YouTube Video Reactions (3 Key Techniques) for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/time-to-transform-gpt-enhanced-wearable-tech-unveiled-in-6-areas/"><u>Time to Transform: GPT-Enhanced Wearable Tech Unveiled in 6 Areas</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/top-8-best-screen-capture-tools-for-linux/"><u>Top 8 Best Screen Capture Tools for Linux</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-12-step-youtube-seo-guide-for-beginners-who-want-more-views/"><u>[New] 2024 Approved The 12-Step YouTube SEO Guide for Beginners Who Want More Views</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-user-reviews-youtube-app-performance-on-phones/"><u>[Updated] User Reviews YouTube App Performance on Phones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/gear-for-capturing-journeys-on-camera/"><u>Gear for Capturing Journeys on Camera</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-leveraging-technology-for-optimal-fb-stream-recording/"><u>In 2024, Leveraging Technology for Optimal FB Stream Recording</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interest-based-bargaining-ibb-focuses-on-finding-mutually-beneficial-solutions-rather-than-taking-adversarial-positions/"><u>Interest-Based Bargaining (IBB) Focuses on Finding Mutually Beneficial Solutions Rather than Taking Adversarial Positions.</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-aspers-methodology-for-sleep-success-for-2024/"><u>Navigating Asper's Methodology for Sleep Success for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/save-big-on-amazons-latest-innovation-the-echo-spot-alarm-clock-with-a-whopping-40-discount-during-prime-day-shop-now/"><u>Save Big on Amazon's Latest Innovation: The Echo Spot Alarm Clock with a Whopping 40% Discount During Prime Day – Shop Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-gaming-headsets-comprehensive-reviews-and-testing-insights-techadvisor/"><u>Top-Rated Gaming Headsets : Comprehensive Reviews & Testing Insights | TechAdvisor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-list-of-2024s-highest-performing-gaming-speakers-in-depth-analysis-and-reviews-zdnet/"><u>Ultimate List of 2024'S Highest Performing Gaming Speakers - In Depth Analysis & Reviews | ZDNet</u></a></li>
 </ul></div>
 

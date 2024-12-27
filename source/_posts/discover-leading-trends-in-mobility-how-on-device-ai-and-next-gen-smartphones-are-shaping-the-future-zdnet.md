@@ -1,7 +1,7 @@
 ---
 title: "Discover Leading Trends in Mobility: How On-Device AI and Next-Gen Smartphones Are Shaping the Future | ZDNET"
-date: 2024-12-20T00:36:44.193Z
-updated: 2024-12-21T19:23:37.353Z
+date: 2024-12-23T21:28:13.047Z
+updated: 2024-12-27T19:48:08.233Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What this means for the iPhone and Vision Pro
@@ -93,24 +93,21 @@ Apple tends to shy away from using buzzwords like 'AI' to describe its product f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-quick-start-guide-making-your-gifs-count-as-emoji-stickers-in-telegram-for-2024/"><u>[New] Quick-Start Guide Making Your GIFS Count as Emoji Stickers in Telegram for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-secrets-to-more-likes-on-your-tiktok-unpacks/"><u>[New] Secrets to More Likes on Your TikTok Unpacks</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snaps-boomerangs-mastering-and-tips/"><u>[Updated] 2024 Approved Snap's Boomerangs Mastering & Tips</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-how-much-does-pewdiepie-make-for-2024/"><u>[Updated] How Much Does PewDiePie Make for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-speedy-video-processing-for-youtube-tricks-to-render-and-upload-fast/"><u>[Updated] In 2024, Speedy Video Processing for YouTube Tricks to Render & Upload Fast</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavi-webmmp4/"><u>網路直讀無限自由 - MOVAVI WEBM到MP4解決方案</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726227082629-mp3aac-movavi/"><u>在線上無成本轉換MP3為AAC格式 - 利用Movavi音樂編輯工具</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/bengali-breakthroughs-in-brief-sessions/"><u>Bengali Breakthroughs in Brief Sessions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transform-mp3-files-into-aac-audio-format/"><u>Free Online Converter - Transform MP3 Files Into AAC Audio Format</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-connectivity-problems-with-your-microsoft-ergonomic-keyboard/"><u>Overcoming Connectivity Problems with Your Microsoft Ergonomic Keyboard</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/riconversione-mov-in-ogg-gratuita-guida-passo-passo-su-movavi/"><u>Riconversione MOV in Ogg Gratuita: Guida Passo-Passo Su Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-overlapping-icons-on-windows-11-taskbar/"><u>Tackling Overlapping Icons on Windows 11 Taskbar</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-15-gif-maker-tools-compatible-with-windows-and-mac-os-ranked-by-experts/"><u>Top 15 GIF Maker Tools Compatible with Windows and Mac OS - Ranked by Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-7-herramientas-de-extraccion-y-conversion-para-dvd-en-mac-guia-completa-2024/"><u>Top 7 Herramientas De Extracción Y Conversión Para DVD en Mac: Guía Completa 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformez-votre-fichier-mp3-en-format-flash-swf-gratuitement-sur-internet-movavi/"><u>Transformez Votre Fichier MP3 en Format Flash SWF Gratuitement Sur Internet - Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trasforma-i-tuoi-file-wav-in-mp4-rapidamente-e-gratuitamente-online-guida-semplice/"><u>Trasforma I Tuoi File WAV in MP4 Rapidamente E Gratuitamente Online – Guida Semplice</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-capturing-screenshots-on-windows-10-using-different-methods/"><u>Ultimate Guide: Capturing Screenshots on Windows 10 Using Different Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/unplugged-entertainment-the-best-offline-games-on-apple-devices/"><u>Unplugged Entertainment: The Best Offline Games on Apple Devices</u></a></li>
-<li><a href="https://article-helps.techidaily.com/whip-up-funny-images-in-adobe-design-for-2024/"><u>Whip Up Funny Images in Adobe Design for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-convenient-mobile-watch-enabledisable-picture-in-picture-in-youtube-for-2024/"><u>[New] Convenient Mobile Watch Enable/Disable Picture-In-Picture in YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-the-art-of-channel-creation-on-youtube/"><u>[New] Mastering the Art of Channel Creation on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-your-tabletop-adventures-using-ai-inspiration/"><u>Boosting Your Tabletop Adventures Using AI Inspiration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-techniques-for-free-c-span-video-downloads/"><u>Cutting Edge Techniques for Free C-Span Video Downloads</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-robloxs-frame-rate-upscaler-risks/"><u>Decoding Roblox's Frame Rate Upscaler Risks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-hidden-dangers-of-ai-conversations/"><u>Exploring the Hidden Dangers of AI Conversations</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-11-pro-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme 11 Pro Phone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-asus-proart-pa32ucxr-mini-led-unparalleled-color-fidelity-for-professionals/"><u>In-Depth Analysis of Asus ProArt PA32UCXR Mini LED - Unparalleled Color Fidelity for Professionals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-productivity-a-guide-to-gpt-3-at-your-service/"><u>Maximizing Productivity: A Guide to GPT-3 at Your Service</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211343221-9782889702572-messages-lumineux-des-soeurs-bronte/"><u>Messages lumineux des soeurs Brontë | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reality-check-no-trustworthy-windows-chatgpt-version/"><u>Reality Check: No Trustworthy Windows ChatGPT Version</u></a></li>
+<li><a href="https://program-issues.techidaily.com/simple-solutions-for-quickly-resolving-directx-issues-in-fifa-19/"><u>Simple Solutions for Quickly Resolving DirectX Issues in FIFA 19</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-to-codegpt-in-your-vs-code-environment/"><u>Step-by-Step Guide to CodeGPT in Your VS Code Environment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-excel-features-unattainable-by-chatgpt/"><u>Top Excel Features Unattainable by ChatGPT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/trasforma-i-tuoi-video-mkv-in-m4v-senza-costi-utilizzando-movavi-online/"><u>Trasforma I Tuoi Video MKV in M4V Senza Costi Utilizzando Movavi Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-full-search-potential-go-for-perplexity-ai/"><u>Unleash Full Search Potential - Go for Perplexity AI</u></a></li>
 </ul></div>
 

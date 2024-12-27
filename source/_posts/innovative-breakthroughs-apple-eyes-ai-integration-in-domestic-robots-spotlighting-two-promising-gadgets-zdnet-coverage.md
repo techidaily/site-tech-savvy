@@ -1,7 +1,7 @@
 ---
 title: "Innovative Breakthroughs: Apple Eyes AI Integration in Domestic Robots, Spotlighting Two Promising Gadgets - ZDNET Coverage"
-date: 2024-12-15T00:23:49.897Z
-updated: 2024-12-21T19:10:03.039Z
+date: 2024-12-24T21:26:34.811Z
+updated: 2024-12-27T20:58:51.769Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -65,7 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -75,10 +75,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -112,6 +108,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -121,10 +121,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -154,6 +150,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,16 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-high-definition-heroes-10-in-4ktvs/"><u>[New] High Definition Heroes – #10 in 4KTVs</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-seamless-path-integrating-your-social-photos-into-device-storage/"><u>[Updated] In 2024, The Seamless Path Integrating Your Social Photos Into Device Storage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/como-convertir-facilmente-tus-videos-wma-al-comodo-formato-flv-usando-movavi-gratis-y-en-linea/"><u>Cómo Convertir Fácilmente Tus Videos WMA Al Cómodo Formato FLV Usando Movavi - Gratis Y en Línea</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Fixing Foneazy MockGo Not Working On Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/flvwebm-movavi/"><u>FlvからWebmへの無料デジタルフォーマット変換 - Movaviで行う方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/geen-keukenkostje-koppen-waardig-3g2-fietsen-in-gratis-mov-videodateien-met-movavi/"><u>Geen Keukenkostje Koppen: Waardig 3G2 Fietsen in Gratis MOV Videodateien Met Movavi</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-craft-your-cinematic-iphone-footage-creating-and-editing-slow-movement-sequences/"><u>In 2024, Craft Your Cinematic iPhone Footage Creating & Editing Slow Movement Sequences</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-your-tablets-potential-with-cost-effective-customization-tips-from-changethispixel-exclusive-insights-for-savvy-users/"><u>Maximize Your Tablet's Potential with Cost-Effective Customization Tips From ChangeThisPixel - Exclusive Insights for Savvy Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seguranca-no-software-de-multimidia-a-solucao-eficiente-do-movavi/"><u>Segurança No Software De Multimídia - A Solução Eficiente Do Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-15-free-raw-image-editing-tools-the-ultimate-guide-by-movavi/"><u>Top 15 Free RAW Image Editing Tools: The Ultimate Guide by Movavi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updating-your-sas-drivers-efficiently-on-microsofts-windows-platform/"><u>Updating Your SAS Drivers Efficiently on Microsoft's Windows Platform</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-elevate-with-ig-stories-constructing-an-impactful-marketing-strategy/"><u>[New] Elevate with IG Stories Constructing an Impactful Marketing Strategy</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-steps-to-ensure-peaceful-gmeet-sessions-silence-techniques/"><u>[Updated] 2024 Approved Steps to Ensure Peaceful GMeet Sessions Silence Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comparing-googles-flat-cube-and-samsungs-headset/"><u>[Updated] Comparing Google's Flat Cube and Samsung's Headset</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-economic-estimation-funds-required-for-song-visualization/"><u>[Updated] In 2024, Economic Estimation Funds Required For Song Visualization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-barriers-how-ai-is-revolutionizing-the-games-industry/"><u>Breaking Barriers: How AI Is Revolutionizing the Games Industry</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbots-method-for-replicating-natural-speech/"><u>Chatbot's Method for Replicating Natural Speech</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-to-restoring-your-bricked-android-device-expert-data-recovery-tips/"><u>Complete Guide to Restoring Your Bricked Android Device: Expert Data Recovery Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-gpt-4-functionality-across-7-applications/"><u>Dissecting GPT-4 Functionality Across 7 Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-do-ai-chatbots-work-and-why-theyre-trending/"><u>How Do AI Chatbots Work and Why They're Trending</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-solutions-3d-models-in-animation-space/"><u>In 2024, Superior Solutions 3D Models in Animation Space</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-oppo-reno-11-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Oppo Reno 11 5G Phone Network-Ready</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/living-lightly-top-9-strategies-from-chatgpt-wisdom/"><u>Living Lightly: Top 9 Strategies From ChatGPT Wisdom</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/step-into-the-world-of-chroma-keying-youtubes-guide-to-green-screens/"><u>Step Into the World of Chroma Keying – YouTube's Guide to Green Screens</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-nokia-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Nokia? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-best-ways-to-refine-your-chatgpt-interactions/"><u>Unveiling the Best Ways to Refine Your ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-your-chatgpt-with-todays-gpt-4-features/"><u>Upgrade Your ChatGPT with Today's GPT-4 Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-a-vpn-for-secure-gpt-dialogues/"><u>Utilizing a VPN for Secure GPT Dialogues?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bridging AI Dialogues: 3 Approaches to Utilize ChatGPT & WolframAlpha"
-date: 2024-12-16T00:38:14.639Z
-updated: 2024-12-22T01:00:11.820Z
+date: 2024-12-24T21:56:13.716Z
+updated: 2024-12-27T20:37:28.199Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
 ![Wolfram plugin creates a Bar chart with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wolfram-plugin-creates-a-bar-chart-with-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Beyond mathematical graphs, Wolfram can generate infographics of different kinds. We were able to create everything from spectrograms and complex 3D plots to scatter graphs and convex hulls. For dealing with complex engineering problems that might need graphical representation, the Wolfram plugin is unrivalled.
@@ -92,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
  Whenever you're dealing with problems in any of these fields, and you need your content to be as factual as possible, consider using the Wolfram plugin.
 
  Sometimes, ChatGPT might choose not to use Wolfram for STEM questions, but for improved accuracy, you can force it to do so by explicitly requesting the chatbot to use the plugin. If you're not sure how to set up ChatGPT plugins, here's an explainer on [how to set up and start using ChatGPT plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Data Analysis
 
@@ -116,7 +120,7 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Fact-Checking Information
@@ -128,10 +132,6 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
  Simply paste the text of the content you want to fact-check or provide a link to it and ask ChatGPT to invoke the Wolfram plugin to fact-check it. In the example below, we asked ChatGPT to use the plugin to fact-check some information about the solar system we copied online.
 
 ![fact-checking scientific claims with Wolfram plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/fact-checking-scientific-claims-with-wolfram-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After running the claims against its database, Wolfram made the following conclusions:
 
@@ -145,6 +145,10 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
 
  To fact-check a remote resource, you'd need to activate the Link Reader plugin to pair with Wolfram. Alternatively, to fact-check a PDF, you'll need to pair Wolfram with a PDF reader plugin. You'll find both the Link Reader and Chat With PDF plugins on the ChatGPT plugin store.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Solve Complex STEM Problems
 
  ChatGPT is considerably good at handling STEM-related problems. This is quite apparent in its mathematical abilities. However, [ChatGPT still falls short in a lot of ways](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), especially in handling complex, unconventional mathematics problems.
@@ -156,6 +160,10 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
  In the example below, we asked ChatGPT to invoke the Wolfram plugin to solve: **Given f(x) = 3x, g(x) = x^2-3, and h\[x\] = x^3, what is the area between f(x) and g(x)**​​​​​​.
 
 ![The Wolfram ChatGPT plugin does math](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wolfram-does-maths.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wolfram was able to solve the problem with precision while also generating a corresponding graph. It is important to note that ChatGPT without plugins has a hard time solving this same problem and can not generate graphs.
 
@@ -181,10 +189,6 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
 
  Wolfram's ability to generate graphs of different kinds means you can analyze and summarize data in dozens and represent them in dozens of possible infographics formats without the limits of ChatGPT itself.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Embrace the Wolfram Plugin for ChatGPT
 
  ChatGPT, despite its phenomenal abilities, is not perfect. While the AI chatbot continues to iterate and improve, you can make the best of ChatGPT by taking advantage of the extra abilities that plugins bring to the table.
@@ -215,6 +219,10 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
 
 ![results of scientific fact-checking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/results-of-scientific-fact-checking.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As seen in the results above, the Wolfram plugin can run checks by using its own knowledge base. It is particularly useful when using ChatGPT to generate content in areas like mathematics, geography, history, chemistry, and physics.
 
  Apart from copy-pasting text into ChatGPT, you can simply provide the plugin with links to web pages containing the text you wish to fact-check. So, instead of simply pasting the text to fact-check or asking it to fact-check a ChatGPT response, you can ask something like this:
@@ -234,6 +242,10 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
  In the example below, we asked ChatGPT to invoke the Wolfram plugin to solve: **Given f(x) = 3x, g(x) = x^2-3, and h\[x\] = x^3, what is the area between f(x) and g(x)**​​​​​​.
 
 ![The Wolfram ChatGPT plugin does math](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wolfram-does-maths.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wolfram was able to solve the problem with precision while also generating a corresponding graph. It is important to note that ChatGPT without plugins has a hard time solving this same problem and can not generate graphs.
 
@@ -281,17 +293,9 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
 
 ![fact-checking scientific claims with Wolfram plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/fact-checking-scientific-claims-with-wolfram-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After running the claims against its database, Wolfram made the following conclusions:
 
 ![results of scientific fact-checking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/results-of-scientific-fact-checking.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As seen in the results above, the Wolfram plugin can run checks by using its own knowledge base. It is particularly useful when using ChatGPT to generate content in areas like mathematics, geography, history, chemistry, and physics.
 
@@ -313,15 +317,15 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
 
 ![The Wolfram ChatGPT plugin does math](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wolfram-does-maths.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wolfram was able to solve the problem with precision while also generating a corresponding graph. It is important to note that ChatGPT without plugins has a hard time solving this same problem and can not generate graphs.
 
  Wolfram, on the other hand, is quite impressive in generating mathematical graphics of any kind.
 
 ![Wolfram plugin creates a Bar chart with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wolfram-plugin-creates-a-bar-chart-with-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Beyond mathematical graphs, Wolfram can generate infographics of different kinds. We were able to create everything from spectrograms and complex 3D plots to scatter graphs and convex hulls. For dealing with complex engineering problems that might need graphical representation, the Wolfram plugin is unrivalled.
 
@@ -330,10 +334,6 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
  Whenever you're dealing with problems in any of these fields, and you need your content to be as factual as possible, consider using the Wolfram plugin.
 
  Sometimes, ChatGPT might choose not to use Wolfram for STEM questions, but for improved accuracy, you can force it to do so by explicitly requesting the chatbot to use the plugin. If you're not sure how to set up ChatGPT plugins, here's an explainer on [how to set up and start using ChatGPT plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Data Analysis
 
@@ -362,16 +362,22 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-aligning-objectives-brands-and-youtube-collaborative-moves/"><u>[Updated] 2024 Approved Aligning Objectives Brands and YouTube Collaborative Moves</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-from-beef-to-brilliance-jake-pauls-youtube-transformation/"><u>[Updated] 2024 Approved From Beef to Brilliance Jake Paul’s Youtube Transformation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-wit-workshop-do-computers-learn-to-chuckle/"><u>AI's Wit Workshop: Do Computers Learn to Chuckle?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/challenge-yourself-with-chatgpts-top-game-picks/"><u>Challenge Yourself With ChatGPT's Top Game Picks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keeping-vscode-running-smoothly-w11-style/"><u>Keeping VSCode Running Smoothly W11-Style</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-y27-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Vivo Y27 5G</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mind-expanding-knowledge-engage-in-conversations-with-gpt/"><u>Mind-Expanding Knowledge: Engage in Conversations with GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-bing-ai-chat-on-android-tips-and-tricks-for-optimal-usage/"><u>Navigating Bing AI Chat on Android: Tips & Tricks for Optimal Usage</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/trackcast-analysis/"><u>TrackCast Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-list-best-ai-tools-for-efficient-note-management/"><u>Ultimate List: Best AI Tools for Efficient Note Management</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-videopad-video-editor-a-detailed-review-and-comparison-with-other-editors-for-2024/"><u>Updated Videopad Video Editor A Detailed Review and Comparison with Other Editors for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fierce-femininity-top-10-ladies-whove-captured-youtube-audiences/"><u>[New] In 2024, Fierce Femininity Top 10 Ladies Who've Captured YouTube Audiences</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-ideal-accessories-for-optimal-gopro-photography-for-2024/"><u>[Updated] Ideal Accessories for Optimal GoPro Photography for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-sharpfocusx7-size-your-photography-right/"><u>[Updated] In 2024, SharpFocusX7 Size Your Photography Right</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-maximize-video-quality-top-8-youtube-to-avi-converters/"><u>[Updated] Maximize Video Quality Top 8 YouTube to AVI Converters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/adventure-showdown-analyzing-gopros-hero5b-and-session/"><u>Adventure Showdown Analyzing GoPro's Hero5B & Session</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-siri-perfecting-iphone-conversations/"><u>ChatGPT and Siri: Perfecting iPhone Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-revisions-a-fresh-approach-to-the-chatgpt-plugin-hub/"><u>Critical Revisions: A Fresh Approach to the ChatGPT Plugin Hub</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gaming-revolutionized-learn-and-create-via-chatgpts-my-bot-features/"><u>Gaming Revolutionized: Learn & Create via ChatGPT's My Bot Features</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-depth-look-at-googles-gemini-advancing-the-frontiers-of-ai-research/"><u>In-Depth Look at Google's Gemini: Advancing the Frontiers of AI Research</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/infuse-life-into-art-chatgpt-for-ai-visuals/"><u>Infuse Life Into Art: ChatGPT for AI Visuals</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-use-emojis-on-windows-10-and-windows-11/"><u>New 2024 Approved How to Use Emojis on Windows 10 and Windows 11?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-wellbeing-strategic-health-planning-with-gpt/"><u>Optimize Wellbeing: Strategic Health Planning with GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-true-potential-of-gpt-tokens-in-conversations/"><u>The True Potential of GPT Tokens in Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-does-jailbreaking-chatgpt-entail/"><u>What Does Jailbreaking ChatGPT Entail?</u></a></li>
 </ul></div>
 

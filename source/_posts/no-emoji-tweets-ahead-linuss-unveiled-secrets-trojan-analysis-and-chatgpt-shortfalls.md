@@ -1,7 +1,7 @@
 ---
 title: No Emoji Tweets Ahead, Linus's Unveiled Secrets, Trojan Analysis, & ChatGPT Shortfalls
-date: 2024-12-16T04:54:17.385Z
-updated: 2024-12-22T05:05:22.489Z
+date: 2024-12-24T18:37:53.202Z
+updated: 2024-12-27T21:16:13.103Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/441d853e672f2da2cc47c9b5003852c7b54a8c4bd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/441d853e672f2da2cc47c9b5003852c7b54a8c4bd
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/441d853e672f2da2cc47c9b5003852c7b54a8c4bd
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/441d853e672f2da2cc47c9b5003852c7b54a8c4bd
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -151,18 +151,16 @@ thumbnail: https://thmb.techidaily.com/441d853e672f2da2cc47c9b5003852c7b54a8c4bd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-idevice-screen-recording-techniques-for-youtube/"><u>[Updated] Mastering iDevice Screen Recording Techniques for YouTube</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-innovative-video-marketing-youtube-trailers-with-filmora/"><u>2024 Approved Innovative Video Marketing YouTube Trailers with Filmora</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/craft-your-perfect-trip-with-7-free-ai-aided-instant-itinerary-tools/"><u>Craft Your Perfect Trip with 7 Free AI-Aided, Instant Itinerary Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-download-vlc-player-for-free-and-safe-on-macstep-by-step/"><u>How to Download VLC Player for Free and Safe on Mac?[Step-by-Step]</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-get-the-newest-ch3eus-gadget-serial-port-drivers-updated-for-your-windows-11-system/"><u>How to Get the Newest CH3eus Gadget Serial Port Drivers Updated for Your Windows 11 System</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-how-to-transfer-photos-and-videos-from-iphone-to-iphone/"><u>In 2024, How to Transfer Photos and Videos From iPhone to iPhone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/premier-5-web-video-capture-tech/"><u>Premier 5 Web Video Capture Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reinventing-home-management-using-gpt-capabilities/"><u>Reinventing Home Management Using GPT Capabilities</u></a></li>
-<li><a href="https://facebook.techidaily.com/secure-spaces-in-the-cyberspace-jungle/"><u>Secure Spaces in the Cyberspace Jungle</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synthetic-symmetry-crafting-ai-art-with-gpt-assistance/"><u>Synthetic Symmetry: Crafting AI Art with GPT Assistance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-5-motivations-for-companies-to-ban-gpt-tools/"><u>Unveiling the 5 Motivations for Companies to Ban GPT Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/utilizing-gpt-3-insights-from-openai/"><u>Utilizing GPT-3: Insights From OpenAI</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-creation-journey-from-adobe-premiere-to-youtube/"><u>Video Creation Journey From Adobe Premiere to YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-step-by-step-adding-subsections-and-chapters-to-your-youtube-tutorials/"><u>[Updated] In 2024, Step-by-Step Adding Subsections and Chapters to Your YouTube Tutorials</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-amplify-your-storytelling-integrating-captions-in-a-triple-threat-on-ig/"><u>2024 Approved Amplify Your Storytelling - Integrating Captions in a Triple Threat on IG</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-pure-android-capturer-unspotted-and-unobstructed/"><u>2024 Approved Pure Android Capturer Unspotted & Unobstructed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-high-res-video-leading-4k-conversion-tools/"><u>2024 Approved Unlock High-Res Video Leading 4K Conversion Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-yamaha-vs-pricey-jbl-stunning-acoustic-victory-for-under-500/"><u>Affordable Yamaha Vs. Pricey JBL - Stunning Acoustic Victory for Under $500!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-sonic-surround-without-the-big-names-how-a-lesser-known-brand-outperforms-sony-and-bose-insights-from-zdnets-testing/"><u>Best Sonic Surround Without the Big Names: How a Lesser-Known Brand Outperforms Sony and Bose - Insights From ZDNet's Testing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-vizio-and-jbl-unveiling-the-best-immersive-soundbar-ive-ever-tested-for-audiophiles-zdnet-review/"><u>Beyond Vizio and JBL: Unveiling the Best Immersive Soundbar I've Ever Tested for Audiophiles | ZDNET Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compact-handheld-bluetooth-speaker-delivers-impressive-bass-quality-exclusive-review-by-zdnet/"><u>Compact Handheld Bluetooth Speaker Delivers Impressive Bass Quality: Exclusive Review by ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/future-proofing-assistants-how-apple-plans-to-enhance-siri-by-2025-insights-from-zdnet/"><u>Future-Proofing Assistants: How Apple Plans to Enhance Siri by 2025 - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/turn-your-unused-electronics-into-amazon-rewards-with-easy-trading-discover-the-steps/"><u>Turn Your Unused Electronics Into Amazon Rewards with Easy Trading - Discover the Steps!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-issues-with-microsofts-surface-duo-a-high-priced-dysfunctional-device/"><u>Unveiling Issues with Microsoft's Surface Duo - A High-Priced, Dysfunctional Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating New Features in iOS 17.5 Beta 2: How Apple Now Allows EU Residents to Web Download Apps | Innovative Insights by ZDNET"
-date: 2024-12-17T02:23:56.488Z
-updated: 2024-12-22T00:58:37.869Z
+date: 2024-12-24T17:35:50.237Z
+updated: 2024-12-27T18:46:26.267Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -48,16 +48,12 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -68,6 +64,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
@@ -75,7 +75,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,20 +122,24 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-smart-shopping-strategy-top-7-affordable-4k-mirrorless/"><u>[New] 2024 Approved Smart Shopping Strategy Top 7 Affordable 4K Mirrorless</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-free-web-meeting-applications-your-ultimate-guide-to-cloud-collaboration-for-2024/"><u>[New] Free Web Meeting Applications Your Ultimate Guide to Cloud Collaboration for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-depth-shots-the-art-of-closing-in-on-movies-for-2024/"><u>[New] In-Depth Shots The Art of Closing in on Movies for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/buy-wonderfox-flash-to-gif-transformer-a-must-have-tool-for-easy-file-conversion/"><u>Buy WonderFox Flash to Gif Transformer: A Must-Have Tool for Easy File Conversion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/complete-guide-to-adding-and-enjoying-the-boys-add-on-via-matrix-aio-on-kodi-platform/"><u>Complete Guide to Adding and Enjoying the Boys Add-On via Matrix AIO on Kodi Platform</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dvd-to-mp4-windows-10116/"><u>DVD to MP4コンバート -Windows 10/11で失わずに最良の6メソッド</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/easy-guide-downloading-your-favorite-animated-shows-from-youtube/"><u>Easy Guide: Downloading Your Favorite Animated Shows From YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effective-techniques-for-transforming-mp4-files-into-3gp-format-learn-how/"><u>Effective Techniques for Transforming MP4 Files Into 3GP Format - Learn How!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effective-troubleshooting-guide-for-restoring-audio-capture-with-streamlabs-on-windows-computers/"><u>Effective Troubleshooting Guide for Restoring Audio Capture with Streamlabs on Windows Computers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-youtube-to-m4a-transformation-discover-3-easy-and-reliable-strategies/"><u>Effortless YouTube to M4A Transformation: Discover 3 Easy and Reliable Strategies</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-cinematic-narratives-mastering-screenplays/"><u>In 2024, Cinematic Narratives Mastering Screenplays</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-5-quick-filming-diy-hacks-to-try-at-home/"><u>In 2024, Top 5 Quick Filming DIY Hacks to Try at Home</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/socialmediarecorder-toolkit-for-2024/"><u>SocialMediaRecorder Toolkit for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-12-pro-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-ensuring-your-video-shines-in-the-staff-pick-spotlight-for-2024/"><u>[New] Ensuring Your Video Shines in the Staff Pick Spotlight for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-complete-guide-to-audiovideo-settings-in-win11s-zoom-app/"><u>[New] In 2024, The Complete Guide to Audio/Video Settings in Win11's Zoom App</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-refining-your-tiktok-end-screen-elements-for-2024/"><u>[New] Refining Your TikTok End Screen Elements for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-from-twitter-to-gifs-a-cost-saving-how-to-guide-for-2024/"><u>[Updated] From Twitter to Gifs A Cost-Saving How-To Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-tactics-for-transformative-first-moments-in-your-podcasts-for-2024/"><u>[Updated] Tactics for Transformative First Moments in Your Podcasts for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-rip-and-save-the-best-youtube-download-software/"><u>2024 Approved Rip & Save The Best YouTube Download Software</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streaming-masterpieces-best-movie-directories-on-yt/"><u>2024 Approved Streaming Masterpieces Best Movie Directories on YT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-acoustic-bliss-500-yamaha-soundbar-vs-1000-jbl-a-budget-friendly-audio-revelation/"><u>Affordable Acoustic Bliss: $500 Yamaha Soundbar Vs. $1,000 JBL - A Budget-Friendly Audio Revelation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/does-the-iphone-13-offer-built-in-waterproof-features-for-accidental-dips/"><u>Does the iPhone 13 Offer Built-In Waterproof Features for Accidental Dips?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-mysterious-question-marks-in-macs-file-folders/"><u>Fixing Mysterious Question Marks in Mac's File Folders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/homepod-vs-homepod-mini-showdown-a-deep-dive-into-audio-excellence-apples-larger-pod-takes-the-crown/"><u>HomePod Vs. HomePod Mini Showdown: A Deep Dive Into Audio Excellence - Apple's Larger Pod Takes the Crown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meet-the-game-changer-in-portable-audio-a-stunningly-affordable-bluetooth-speaker-with-exceptional-sound-quality/"><u>Meet the Game-Changer in Portable Audio: A Stunningly Affordable Bluetooth Speaker with Exceptional Sound Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-voice-assistants-amazon-enhances-alexa-with-cutting-edge-anthropic-ai-technology-zdnet/"><u>Revolutionizing Voice Assistants: Amazon Enhances Alexa with Cutting-Edge Anthropic AI Technology | ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/swift-shift-from-srt-to-text-your-modern-guide-for-speed/"><u>Swift Shift From SRT to Text Your Modern Guide for Speed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-best-smart-speakers-with-wi-fi-connectivity-expert-picks-by-zdnet/"><u>The Best Smart Speakers with Wi-Fi Connectivity - Expert Picks by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-wireless-speakers-reviewed-by-tech-experts-at-zdnet/"><u>Top Rated Wireless Speakers Reviewed by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-smart-home-innovations-unveiled-at-ces-2024-explore-the-latest-gadgets-with-insights-from-zdnet/"><u>Top Smart Home Innovations Unveiled at CES 2024 - Explore the Latest Gadgets with Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-non-bose-non-sony-portable-speaker-review-uncovering-hidden-audio-gems/"><u>Top-Rated Non-Bose, Non-Sony Portable Speaker Review: Uncovering Hidden Audio Gems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmatched-audio-precision-versatile-stylish-speakers-spotlighted-by-zdnet/"><u>Unmatched Audio Precision - Versatile, Stylish Speakers Spotlighted by ZDNet</u></a></li>
 </ul></div>
 

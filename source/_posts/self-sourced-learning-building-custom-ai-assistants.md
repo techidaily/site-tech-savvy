@@ -1,7 +1,7 @@
 ---
 title: "Self-Sourced Learning: Building Custom AI Assistants"
-date: 2024-12-18T21:06:43.012Z
-updated: 2024-12-21T18:53:24.706Z
+date: 2024-12-24T17:22:27.064Z
+updated: 2024-12-27T21:45:34.409Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 
  Now that you understand the importance of providing custom data to ChatGPT, here's a step-by-step on how to do so on your local computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Install and Download Software and Pre-Made Script
 
  Please note the following instructions are for a Windows 10 or Windows 11 machine.
@@ -50,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 * **Download:**[Git](https://git-scm.com/downloads) (Free)
 * **Download:**[Microsoft Visual Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/) (Free)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Python3 and Microsoft C++ Installation Notes
 
  When installing Python3, make sure that you tick the **Add python.exe to PATH** option before clicking **Install Now**. This is important as it allows you to access Python in any directory on your computer.
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 ![Installing Microsoft C++ through Build Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-install-c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that you have installed the latest versions of Python3, Git, and Microsoft C++, you can download the Python script to easily query custom local data.
@@ -76,17 +76,21 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 
 ![Downloading Python script on GitHub](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-download-script.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once downloaded, we can now set up a local environment.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Set Up the Local Environment
 
  To set up the environment, you'll need to open a terminal in the chatgpt-retrieval-main folder you downloaded. To do that, open **chatgpt-retrieval-main** folder, right-click, and select **Open in Terminal**.
 
 ![Opening terminal on directory folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-open-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the terminal is open, copy and paste this command:
 
@@ -98,10 +102,6 @@ pip install langchain openai chromadb tiktoken unstructured
 
 ![Creating secret API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/generate-api-key.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You will be provided with a string of characters. This is your OpenAI API key. Copy it by clicking on the copy icon on the side of the API key. Keep note that this API key should be kept secret. Do not share it with others unless you really intend for them to use it with you.
 
  Once copied, return to the chatgpt-retrieval-main folder and open constants with **Notepad**. Now replace the placeholder with your API key. Remember to save the file!
@@ -110,19 +110,11 @@ pip install langchain openai chromadb tiktoken unstructured
 
  Now that you have successfully set up your virtual environment and added your OpenAI API key as an environment variable. You can now provide your custom data to ChatGPT.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 3: Adding Custom Data
 
  To add custom data, place all your custom text data in the **data** folder within chatgpt-retrieval-main. The format of the text data may be in the form of a PDF, TXT, or DOC.
 
 ![Adding custom data for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-data.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As you can see from the screenshot above, I've added a text file containing a made-up personal schedule, an article I wrote on [AMD's Instinct Accelerators](https://www.makeuseof.com/what-are-amd-instinct-ai-accelerators/), and a PDF document.
 
@@ -144,7 +136,15 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 
 ![Asking custom ChatGPT about topic outside knowledge cut off data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/m250x.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, it correctly described the AMD Instinct MI250x, which was released after ChatGPT -3's knowledge cutoff date.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Limitations of Custom ChatGPT
 
@@ -179,20 +179,22 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-designing-an-eye-catching-tiktok-finale-scene-for-2024/"><u>[New] Designing an Eye-Catching TikTok Finale Scene for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/levate-engagement-crafting-effective-youtube-shorts/"><u>[New] Elevate Engagement Crafting Effective YouTube Shorts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp4dvdisovideo/"><u>効果的な方法でファイル形式をMP4にリマスタリング:動画、DVD、ISO、Video_#シリーズ</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-y77t-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo Y77t Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficient-methods-for-converting-m2p-videos-into-mp4-a-comprehensive-guide/"><u>Efficient Methods for Converting M2P Videos Into MP4: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-methods-for-extracting-audio-from-dvds/"><u>Effortless Methods for Extracting Audio From DVDs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-your-hands-on-the-ultimate-apple-video-transcoder-purchase-wonderfox-factory-pro-for-seamless-iphone-and-ipad-conversion/"><u>Get Your Hands on the Ultimate Apple Video Transcoder: Purchase WonderFox Factory Pro for Seamless iPhone and iPad Conversion!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-recover-from-a-black-screen-on-windows-movie-maker-expert-tips-and-solutions/"><u>How To Recover From A Black Screen on Windows Movie Maker – Expert Tips & Solutions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-samsung-galaxy-a14-4g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Samsung Galaxy A14 4G?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/integrating-custom-sounds-into-your-whatsapp-experience-for-2024/"><u>Integrating Custom Sounds Into Your WhatsApp Experience for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/most-effective-dvd-to-avi-transcoding-tools-for-windows-1011-users/"><u>Most Effective DVD to AVI Transcoding Tools for Windows 10/11 Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp3-pc/"><u>MP3形式で楽曲を制作する簡単なガイド - PCやスマートフォンで</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/physical-presence-vs-virtual-validation-for-2024/"><u>Physical Presence vs Virtual Validation for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-by-step-guide-to-phantoms-slow-mo-magic-for-2024/"><u>Step by Step Guide to Phantom's Slow Mo Magic for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/sync-your-sharepoint-docs-for-free-effortless-integration-steps/"><u>Sync Your SharePoint Docs for Free: Effortless Integration Steps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-comprehensive-look-editing-and-polishing-yt-videos-via-movie-maker/"><u>[New] 2024 Approved A Comprehensive Look Editing and Polishing YT Videos via Movie Maker</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-transform-your-shots-into-art-with-top-10-grids/"><u>[New] 2024 Approved Transform Your Shots Into Art with Top 10 Grids</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-movavis-enhanced-toolset-examining-plus-edition-2024/"><u>[New] Movavi's Enhanced Toolset Examining Plus Edition 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-steady-shot-enhancer-for-traveling-filmmakers/"><u>[Updated] 2024 Approved Steady Shot Enhancer for Traveling Filmmakers</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solution-guide-to-restore-brightness-overcome-black-screens-on-dell-computers/"><u>Comprehensive Solution Guide to Restore Brightness - Overcome Black Screens on Dell Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-best-alternative-to-vizio-and-jbl-with-zdnets-in-depth-immersive-soundbar-testing/"><u>Discover the Best Alternative to Vizio & JBL with ZDNet's In-Depth Immersive Soundbar Testing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-superior-sound-a-non-bose-non-sony-portable-speaker-tested-by-zdnet/"><u>Discovering Superior Sound: A Non-Bose, Non-Sony Portable Speaker Tested by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-unmatched-sound-clarity-across-all-genres-using-cutting-edge-wireless-speakers-pcmag/"><u>Experience Unmatched Sound Clarity Across All Genres Using Cutting-Edge Wireless Speakers | PCMag</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-capturing-eats-a-chefs-handbook-to-food-photography/"><u>In 2024, Capturing Eats A Chef's Handbook to Food Photography</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-tecno-phantom-v-fold-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Tecno Phantom V Fold Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-speaker-system-surpasses-bose-outperforms-sonos-the-hidden-gem-you-need-to-know/"><u>Revolutionary Speaker System Surpasses Bose, Outperforms Sonos: The Hidden Gem You Need to Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solution-police-officers-as-providers-of-an-essential-service-are-generally-prohibited-from-striking-by-both-federal-law-nlra-and-various-state-laws-due-to-207/"><u>Solution: Police Officers, as Providers of an Essential Service, Are Generally Prohibited From Striking by Both Federal Law (NLRA) and Various State Laws Due to the Critical Nature of Their Work for Public Safety.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-mobile-bluetooth-speakers-in-2/"><u>Top-Rated Mobile Bluetooth Speakers in 2</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-access-lenovo-thinkpad-t430-driver-downloads-for-optimal-windows-compatibility/"><u>Ultimate Guide: Access Lenovo ThinkPad T430 Driver Downloads for Optimal Windows Compatibility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-tips-and-tricks-for-an-unforgettable-labor-day-bash/"><u>Ultimate Guide: Tips and Tricks for an Unforgettable Labor Day Bash</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975789552-up-to-date-drivers-for-your-surface-book-fast-and-easy-access-now/"><u>Up-to-Date Drivers for Your Surface Book - Fast & Easy Access Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-unveils-a-budget-friendly-portable-bluetooth-speaker-delivering-exceptional-audio-performance/"><u>ZDNet Unveils a Budget-Friendly Portable Bluetooth Speaker Delivering Exceptional Audio Performance</u></a></li>
 </ul></div>
 

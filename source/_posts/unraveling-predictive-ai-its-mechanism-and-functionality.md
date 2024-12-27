@@ -1,7 +1,7 @@
 ---
 title: "Unraveling Predictive AI: Its Mechanism and Functionality"
-date: 2024-12-20T21:09:44.256Z
-updated: 2024-12-22T02:35:20.111Z
+date: 2024-12-22T21:55:15.615Z
+updated: 2024-12-27T20:58:01.430Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 * [How Is Predictive AI Different From Generative AI?](https://review-au.sjv.io/wqnrq3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 **SCROLL TO CONTINUE WITH CONTENT**
 
  You've probably heard of generative AI, but how much do you know about predictive AI? They sound similar, but have some key differences, along with a heap of ways you're probably already using it!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is Predictive AI, and How Does It Work?
 
@@ -61,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
  Below are some of the best examples of predictive AI in action.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Predictive Text
@@ -72,25 +68,25 @@ Close
 
  Besides analyzing your past typing habits, predictive text can also use the context of your conversations or documents to provide better typing and spelling recommendations. You can [disable inline predictive text on your Mac](https://www.makeuseof.com/disable-inline-predictive-text-on-mac/) if you own an Apple computer, and it's also possible to [turn on predictive text suggestions on Android](https://www.makeuseof.com/how-to-turn-on-predictive-text-android/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Identifying Potential Security Threats
 
 ![facebook unusual login email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/facebook-unusual-login.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Cybersecurity is one of the most important areas in which predictive AI is prominent, and [predictive analytics can help solve cybercrime in many ways](https://www.makeuseof.com/predictive-analytics-combat-cybercrime/). One example where you may have experienced predictive AI in security is when signing into an account or trying to use your bank card in an unfamiliar location.
 
  You'll often receive an email or text message warning you of an unusual sign-in and prompting you to take action if needed. Requesting to change your password can also prompt such notifications. To ensure that you don't fall victim to security breaches, it's worth learning about [takeover fraud and how to prevent these threats](https://www.makeuseof.com/what-is-account-takeover-fraud/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. App and Content Suggestions
 
 ![Spotify's niche mixes are playlists made for you](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/spotify-niche-mixes-desktop.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your smartphones and apps are becoming much better at offering recommendations, largely because of predictive AI. For example, if you use Google Drive, you may see a "You often open around this time" message on your main documents. You'll also see "Based on past activity" or "You've opened frequently."
 
@@ -107,6 +103,10 @@ Close
  Predicting the weather has always been difficult, but meteorologists will likely be able to lean on AI for more assistance in the future. Although the tool is relatively new in this space, Google AI Research Program Manager Abdoulaye Diack suggests that GraphCast can predict the weather up to 10 days in advance better than standard forecasting methods.
 
  Predictive AI can measure more weather data in shorter periods. Being able to better predict the weather in the short term is nice on a personal level, as it means you'll know exactly what to wear outside. But if we zoom out and look at the bigger picture, predictive AI could also be a valuable tool for helping to innovate in climate change initiatives and predict major storms.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Business Decisions
 
@@ -139,17 +139,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-unlock-your-pcs-potential-exciting-new-windows-10-games-for-2024/"><u>[Updated] Unlock Your PC’s Potential Exciting New Windows 10 Games for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-best-10-tools-for-stunning-insta-grid-designs/"><u>2024 Approved Best 10 Tools for Stunning Insta Grid Designs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-proven-strategies-building-time-lapses-using-samsung-cameras/"><u>2024 Approved Proven Strategies Building Time-Lapses Using Samsung Cameras</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-silver-medalists-best-dvd-tools-for-sierra-os/"><u>2024 Approved Silver Medalists Best DVD Tools for Sierra OS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-writing-skills-with-these-5-ai-inspirational-text-generators/"><u>Boost Your Writing Skills with These 5 AI Inspirational Text Generators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bot-communication-mirroring-human-chatter/"><u>Bot Communication: Mirroring Human Chatter</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-support-strategies-ethical-use-of-gpt/"><u>Digital Support Strategies: Ethical Use of GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guarding-against-algorithmic-abuse/"><u>Guarding Against Algorithmic Abuse</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/halt-siri-versus-chatgpt-comparison-what-sets-them-apart/"><u>Halt Siri Versus ChatGPT Comparison: What Sets Them Apart</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-13-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone 13?</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-saving-the-fun-downloading-tweets-gif-content-easily/"><u>In 2024, Saving the Fun Downloading Tweets' GIF Content Easily</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-workflow-changes-with-ai-tech/"><u>Navigating Workflow Changes with AI Tech</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-professional-techniques-for-aps-hdr-creation/"><u>2024 Approved Unveiling Professional Techniques for APS HDR Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/acclaimed-20-chatgpt-conversation-patterns-from-github/"><u>Acclaimed 20 ChatGPT Conversation Patterns From GitHub</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-showdown-claude-and-gpt-for-household-assistance/"><u>AI Showdown: Claude & GPT for Household Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clarity-in-ais-copyright-conundrum/"><u>Clarity in AI's Copyright Conundrum</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eating-well-made-easier-with-chatgpts-culinary-skills/"><u>Eating Well Made Easier With ChatGPT's Culinary Skills</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-shaky-to-steady-selecting-an-ideal-camera-gimbals-for-uavs/"><u>In 2024, From Shaky to Steady Selecting an Ideal Camera Gimbals for UAVs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-5-ps1-emulators-bringing-classic-games-back/"><u>In 2024, Top 5 PS1 Emulators - Bringing Classic Games Back</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-a-battle-of-wits-bot-versus-bot/"><u>In a Battle of Wits, Bot Versus Bot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-a-copy-of-your-interactions-with-openais-chatbot/"><u>Making a Copy of Your Interactions with OpenAI's Chatbot</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/netflix-party-how-to-start-a-shared-viewing-experience/"><u>Netflix Party: How to Start a Shared Viewing Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-architect-of-understanding-a-closer-look-at-chatgpt-writes/"><u>The Architect of Understanding: A Closer Look at ChatGPT' Writes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-5-leading-tools-for-converting-macs-wmawav-audio-to-iphone-playlist-format-seamlessly/"><u>The Ultimate 5 Leading Tools for Converting Mac's WMA/WAV Audio to iPhone Playlist Format Seamlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unseen-struggles-of-chatgpt-in-professional-writing-contexts/"><u>The Unseen Struggles of ChatGPT in Professional Writing Contexts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-repairing-your-pathfinder-wrath-of-the-righteeous-gamepad-issues/"><u>Troubleshooting Guide: Repairing Your Pathfinder Wrath of the Righteeous Gamepad Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-nightshade-to-secure-your-creative-outputs-from-ai-intrusion/"><u>Utilizing Nightshade to Secure Your Creative Outputs From AI Intrusion</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Will iSpoofer update On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What Is the EU's AI Act and How Would It Affect ChatGPT?
-date: 2024-12-17T02:40:04.534Z
-updated: 2024-12-21T19:54:03.334Z
+date: 2024-12-23T20:41:56.231Z
+updated: 2024-12-27T19:27:56.348Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/eef2009cf8605abb864ce0da678ba08025e7a8630
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the EU AI Act?
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/eef2009cf8605abb864ce0da678ba08025e7a8630
  While the EU AI Act has several objectives, its main aim is to somewhat reign in AI. This will be done by assessing the risk levels of AI systems, ensuring they follow EU laws, and enforcing transparency requirements for AI systems.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Who Will Be Affected by the EU AI Act?
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/eef2009cf8605abb864ce0da678ba08025e7a8630
  Evidently, the scope is large, spanning the AI industry. Thousands of AI organizations may be affected by this act, including ChatGPT creator, OpenAI. This has led to contention between the EU and OpenAI CEO Sam Altman. In fact, Altman has threatened to pull OpenAI, and therefore ChatGPT, out of the EU because of it. So, why has he made such a striking statement?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Is Sam Altman Threatening to Pull ChatGPT From the EU?
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/eef2009cf8605abb864ce0da678ba08025e7a8630
 ![sam altman sitting on stage talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sam-altman-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838377432/in/)
@@ -92,7 +92,7 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  Interestingly, this threat came shortly after [Altman advocated for further AI regulation within the US](https://www.makeuseof.com/why-openai-ceo-calling-for-more-ai-regulation/) to mitigate the risks of AI development. We'll leave how that looks up to you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The EU's AI Act Could Alter AI Development
@@ -116,14 +116,21 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-scaling-youtube-earnings-device-independent-studio-tactics/"><u>[Updated] Scaling YouTube Earnings Device-Independent Studio Tactics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/art-of-ai-interaction-top-tutorials-for-commanders/"><u>Art of AI Interaction: Top Tutorials for Commanders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-user-data-safety-assessed/"><u>ChatGPT: User Data Safety Assessed</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/download-full-length-lessons-in-mp4-from-teachertube-easy-conversion-guide/"><u>Download Full-Length Lessons in MP4 From TeacherTube - Easy Conversion Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fact-seeker-no-windows-gpt-client-is-not-malware/"><u>Fact Seeker: No, Windows GPT Client Is Not Malware</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/pid-subscription-truly-effective-for-youtube-users-in-2024/"><u>Is Rapid Subscription Truly Effective for YouTube Users, In 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/maximize-your-iphone-film-shoots-mastering-8-key-skills/"><u>Maximize Your iPhone Film Shoots Mastering 8 Key Skills</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-gameplay-issues-8-ways-to-stop-guardians-of-the-galaxy-from-freezing-on-pc/"><u>Solving Gameplay Issues: 8 Ways to Stop Guardians of the Galaxy From Freezing on PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-free-easy-to-use-artificial-intelligence-tools/"><u>Top 6 Free, Easy-to-Use Artificial Intelligence Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-conquered-everlasting-deactivation-of-youtube-shorts/"><u>[New] 2024 Approved Conquered Everlasting Deactivation of YouTube Shorts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-gimbal-guide-for-enhanced-aerial-video-quality/"><u>[Updated] 2024 Approved Gimbal Guide for Enhanced Aerial Video Quality</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unleashing-creativity-in-stories-adding-personalized-graphics/"><u>[Updated] 2024 Approved Unleashing Creativity in Stories Adding Personalized Graphics</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-picsart-app-deep-dive-full-review-analysis-and-instructions-for-the-new-year/"><u>[Updated] PicsArt App Deep Dive Full Review, Analysis & Instructions for the New Year</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/elite-emulators-for-budget-switch-games/"><u>Elite Emulators for Budget Switch Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-hardware-hiccups-to-soft-success-how-google-pivots-from-ar-glasses-to-xr-software-development-techwire/"><u>From Hardware Hiccups to Soft Success: How Google Pivots From AR Glasses to XR Software Development | TechWire</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/go-live-with-google-meet-youtube-broadcasting-steps-for-2024/"><u>Go Live with Google Meet YouTube Broadcasting Steps for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/in-depth-tutorial-on-moving-apples-airtag-from-one-iphone-to-another/"><u>In-Depth Tutorial on Moving Apple's AirTag From One iPhone to Another</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-qualcomms-hidden-venture-collaborating-with-samsung-and-google-on-mixed-reality-smart-glasses-a-tech-enthusiasts-delight-zdnet/"><u>Inside Qualcomm's Hidden Venture: Collaborating with Samsung & Google on Mixed Reality Smart Glasses - A Tech Enthusiast's Delight | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-home-cleaning-with-dysons-new-ar-vacuuming-assistance-zdnet-insight/"><u>Master Your Home Cleaning with Dyson's New AR Vacuuming Assistance | ZDNET Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-media-experience-discover-the-power-of-400-xr-glasses-for-immersive-gaming-and-movie-viewing-with-a-200-inch-display-zdnet/"><u>Maximize Your Media Experience: Discover the Power of $400 XR Glasses for Immersive Gaming & Movie Viewing with a 200-Inch Display | ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-your-lost-ark-game-fixing-the-server-connection-error-easily/"><u>Resolve Your Lost Ark Game: Fixing the Server Connection Error Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-telecommuting-the-role-of-virtual-reality-and-digital-twin-technology-in-enhancing-remote-tech-jobs-zdnet/"><u>Revolutionizing Telecommuting: The Role of Virtual Reality & Digital Twin Technology in Enhancing Remote Tech Jobs | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-virtual-reality-stanfords-innovative-tech-abolishes-bulky-vr-gear-with-cutting-edge-ai-zdnet/"><u>Revolutionizing Virtual Reality: Stanford's Innovative Tech Abolishes Bulky VR Gear with Cutting-Edge AI | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-correct-file-history-glitches-in-windows-108/"><u>Steps to Correct File History Glitches in Windows 10/8</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-3-common-missteps-in-using-the-apple-vision-pro-and-how-to-prevent-them-for-optimal-experience/"><u>Top 3 Common Missteps in Using the Apple Vision Pro and How to Prevent Them for Optimal Experience</u></a></li>
 </ul></div>
 

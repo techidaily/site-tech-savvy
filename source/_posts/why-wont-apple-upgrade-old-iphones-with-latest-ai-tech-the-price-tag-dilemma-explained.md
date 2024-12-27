@@ -1,7 +1,7 @@
 ---
 title: Why Won't Apple Upgrade Old iPhones with Latest AI Tech? The Price Tag Dilemma Explained
-date: 2024-12-19T05:54:28.976Z
-updated: 2024-12-22T03:32:27.419Z
+date: 2024-12-23T18:14:47.600Z
+updated: 2024-12-27T18:41:42.579Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,19 +120,21 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-archive-in-minutes-with-these-tools/"><u>[New] 2024 Approved Instagram Archive in Minutes with These Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-art-of-visual-anonymity-in-videos/"><u>[New] In 2024, The Art of Visual Anonymity in Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-mastering-alias-transformation-on-google-meet-platforms-for-2024/"><u>[New] Mastering Alias Transformation on Google Meet Platforms for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-upside-of-asmr-a-closer-look-at-its-advantages/"><u>2024 Approved The Upside of ASMR A Closer Look At Its Advantages</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-nokia-105-classic-unlock-without-password-by-drfone-android/"><u>5 Solutions For Nokia 105 Classic Unlock Without Password</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-7-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Online? Here are 6 Easy Ways</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/hulu-subscription-unpacking-its-real-worth/"><u>Hulu Subscription: Unpacking Its Real Worth</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-elevating-your-workflow-with-audio-content-consumption/"><u>In 2024, Elevating Your Workflow with Audio Content Consumption</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/most-effective-multi-platform-screen-capture-apps-ideal-for-windows-and-mac-enthusiasts/"><u>Most Effective Multi-Platform Screen Capture Apps: Ideal for Windows & Mac Enthusiasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp3wavwindows/"><u>MP3やWAV形式の音声ファイルを統合するためのWindowsユーザー向けガイド</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-on-securing-quality-8k-videos-via-leading-8k-media-extractor-tools/"><u>Step-by-Step Tutorial on Securing Quality 8K Videos via Leading 8K Media Extractor Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-platforms-to-download-high-quality-copyright-free-indian-melodies-for-professional-use/"><u>Top 5 Platforms to Download High-Quality, Copyright-Free Indian Melodies for Professional Use</u></a></li>
-<li><a href="https://win-info.techidaily.com/ultimate-guide-steps-for-efficiently-gathering-and-transferring-vcenter-log-data/"><u>Ultimate Guide: Steps for Efficiently Gathering and Transferring vCenter Log Data</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iuodnoocpoocueodroocsplusodvoodgoodvoobpplusobhuobvuobjpluse3qombhuobmeociplusobnplusocgeobruodhuocrplusodiplusodgplusocrzog5yih44kk5yplusw44kk44go57wq5zcii7/"><u>ボイスレコーダーでうまく編集するためのテクニック: 切り取りと結合</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revolutionary-additions-to-windows-11/"><u>[New] Revolutionary Additions to Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-ideal-sound-devices-for-digital-influencers/"><u>[Updated] Ideal Sound Devices for Digital Influencers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-visual-narratives-effective-titling/"><u>2024 Approved Crafting Visual Narratives Effective Titling</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-help.techidaily.com/boost-your-pcs-efficiency-a-step-by-step-guide-to-freeing-up-system-memory-yl-tech-solutions/"><u>Boost Your PC's Efficiency: A Step-by-Step Guide to Freeing Up System Memory - YL Tech Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compact-yet-powerful-tribit-stormbox-micro-2-impressive-audio-quality-in-a-tiny-package/"><u>Compact Yet Powerful Tribit StormBox Micro 2 - Impressive Audio Quality in a Tiny Package</u></a></li>
+<li><a href="https://article-helps.techidaily.com/discover-10-budget-friendly-vectors-and-design-pages/"><u>Discover 10 Budget-Friendly Vectors and Design Pages</u></a></li>
+<li><a href="https://fox-info.techidaily.com/photoshop-simplified-beginner-friendly-editing-secrets/"><u>Photoshop Simplified Beginner-Friendly Editing Secrets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-essential-skills-editing-blurring-and-background-removal-for-2024/"><u>The Essential Skills Editing, Blurring, and Background Removal for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-portable-speaker-that-beats-bose-and-sony-according-to-my-tests-find-out-why/"><u>Top Portable Speaker That Beats Bose and Sony, According to My Tests - Find Out Why!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranked-gaming-headphones-and-speakers-professional-reviews-techradar/"><u>Top-Ranked Gaming Headphones & Speakers : Professional Reviews | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-alternative-to-bose-and-sonos-discover-the-ultimate-immersive-audio-experience/"><u>Top-Ranking Alternative to Bose & Sonos: Discover the Ultimate Immersive Audio Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-portable-camping-sound-systems-a-comprehensive-review-zdnet/"><u>Top-Rated Portable Camping Sound Systems - A Comprehensive Review (ZDNET)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-smart-speaker-reviews-comprehensive-analysis-by-tech-experts-zdnet/"><u>Top-Rated Smart Speaker Reviews - Comprehensive Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-quality-speakers-for-record-players-pros-list-featured-by-zdnet/"><u>Ultimate Guide to Choosing Quality Speakers for Record Players: Pros' List Featured by ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-tecno-camon-20-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Tecno Camon 20? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Experience the Ultimate Boost in Efficiency: Top XR Glasses for Work & Travel Now with 3 Key Enhancements - Insights From ZDNet"
-date: 2024-12-16T00:21:52.088Z
-updated: 2024-12-22T04:58:05.621Z
+date: 2024-12-26T16:49:51.483Z
+updated: 2024-12-27T16:52:56.130Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,24 +126,20 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-secrets-to-seamless-zoom-talks-mastering-online-communication-skills/"><u>[New] 2024 Approved The Secrets to Seamless Zoom Talks Mastering Online Communication Skills</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ontent-creators-dilemma-which-site-reigns-vimeo-youtube-in-2024/"><u>[New] Content Creators' Dilemma Which Site Reigns - Vimeo, YouTube, In 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-downloading-igtv-made-simple-iphone-and-android-users-bible/"><u>[New] In 2024, Downloading IGTV Made Simple IPhone & Android Users' Bible</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-tiktok-number-modification-easy-to-follow-steps/"><u>[New] TikTok Number Modification Easy to Follow Steps</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-10-best-blurred-background-tools/"><u>[Updated] 2024 Approved The 10 Best Blurred Background Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-framerate-and-quality-in-game-recorders-explored/"><u>[Updated] In 2024, Framerate and Quality in Game Recorders Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-professional-movavi-video-editor-suite-streamlined-bvba-tools-for-efficient-videoproductie-and-uptake/"><u>1. Professional Movavi Video Editor Suite: Streamlined BVBA Tools for Efficient Videoproductie & Uptake</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavi-mp3aac/"><u>自由下載：用Movavi MP3到AAC格式進行無障礙的音樂文件轉移</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/como-cambiar-archivos-de-pelicula-desde-mp4-a-avi-sin-coste-la-facil-solucion-en-linea-de-movavi-para-todos-los-usuarios/"><u>Cómo Cambiar Archivos De Película Desde MP4 a AVI Sin Coste: La Fácil Solución en Línea De Movavi Para Todos Los Usuarios</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversion-orf-a-jpg-solution-gratuite-et-facile-dutilisation-sur-movavi-en-ligne/"><u>Conversion Orf À Jpg : Solution Gratuite Et Facile D'utilisation Sur Movavi en Ligne</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crear-graficos-de-envio-directo-con-movavi-video-suite-empresarial-guia-completa/"><u>Crear Gráficos De Envío Directo Con Movavi Video Suite Empresarial - Guía Completa</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-jpg-to-jpeg-converter-by-movavi-edit-your-images-hassle-free/"><u>Free Online JPG to JPEG Converter by Movavi - Edit Your Images Hassle-Free</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratis-online-3g2-video-naar-mp4-metvormen-movavi/"><u>Gratis Online 3G2-Video Naar MP4 Metvormen - Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-overcome-robloxs-access-denied-error-403-on-windows/"><u>How to Overcome Roblox's Access Denied (Error 403) on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-blank-displays-in-win-os/"><u>Mastering the Art of Fixing Blank Displays in WIN OS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mov-to-wma-transformation-for-free-via-web-video-conversion-by-movavi/"><u>MOV to WMA Transformation for Free via Web - Video Conversion by Movavi</u></a></li>
-<li><a href="https://network-issues.techidaily.com/updating-intel-gpu-software-for-windows/"><u>Updating Intel GPU Software for Windows</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/de-your-editing-game-learning-youtube-cuts-in-sony-vegas-basics-for-2024/"><u>Upgrade Your Editing Game Learning YouTube Cuts in Sony Vegas Basics for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/vrije-movavi-service-efficient-converteer-m4r-filetes-naar-aiff-audio-online/"><u>Vrije Movavi Service: Efficiënt Converteer M4R Filetes Naar AIFF Audio - Online!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-streaming-quality-comparison-obs-or-fraps-for-2024/"><u>[New] Streaming Quality Comparison OBS or Fraps for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-social-strategists-guide-to-capturing-feedback-via-instagram-story-polls/"><u>[Updated] The Social Strategist's Guide to Capturing Feedback via Instagram Story Polls</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-no-cost-tools-for-transforming-avi-files-into-swf-format-web-apps-vs-desktop-software/"><u>Best No-Cost Tools for Transforming AVI Files Into SWF Format - Web Apps vs Desktop Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-list-of-premium-ways-to-access-cricket-live-for-2024/"><u>Comprehensive List of Premium Ways to Access Cricket Live for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empower-every-moment-ais-role-in-shaping-an-exceptional-lifestyle/"><u>Empower Every Moment: AI's Role in Shaping an Exceptional Lifestyle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-mind-to-mural-chatgpts-role-in-ai-imagery/"><u>From Mind to Mural: ChatGPT's Role in AI Imagery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-silence-to-speech-giving-prompts-auditory-answers/"><u>From Silence to Speech: Giving Prompts Auditory Answers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-discovering-the-hottest-templates-for-social-media-vfx/"><u>In 2024, Discovering the Hottest Templates for Social Media VFX</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-realtime-hd-uplift-for-pc-mac-and-online-devices/"><u>In 2024, RealTime HD Uplift for PC, Mac & Online Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-and-ipad-verifying-genuine-ai-services/"><u>IPhone & iPad: Verifying Genuine AI Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-artificial-intelligence-tools-every-owner-should-understand/"><u>Key Artificial Intelligence Tools Every Owner Should Understand</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-common-issues-with-winservicesexe-quickly/"><u>Solving Common Issues with Winservices.exe Quickly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-honor-magic-6-lite-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Honor Magic 6 Lite? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-developers-guide-to-chatgpt-in-vs-code/"><u>The Developer's Guide to ChatGPT in VS Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-minds-tech-savvy-futures-6-workplace-survival-tactics/"><u>Transformative Minds, Tech-Savvy Futures: 6 Workplace Survival Tactics</u></a></li>
 </ul></div>
 

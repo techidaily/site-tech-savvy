@@ -1,7 +1,7 @@
 ---
 title: Proactive Identification of ChatGPT Impostors with Mentions
-date: 2024-12-18T00:56:27.274Z
-updated: 2024-12-21T17:26:20.666Z
+date: 2024-12-21T19:21:59.598Z
+updated: 2024-12-27T20:58:05.964Z
 tags:
   - chatgpt
   - open-ai
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/be8413a30f19599698e9b5b7f7e17b9eb5081fbfd
 * [How to Use the GPT Mentions Feature](https://boody-eco-wear.pxf.io/qyo4oo)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/be8413a30f19599698e9b5b7f7e17b9eb5081fbfd
 **SCROLL TO CONTINUE WITH CONTENT**
 
  OpenAI's premium version of ChatGPT, known as ChatGPT Plus, offers users a range of extra features in exchange for the monthly subscription fee. ChatGPT Plus's newest feature, GPT call-outs or mentions, may prove very useful to you if you use various GPTs within the ChatGPT interface. So, how does this feature work, and how can it benefit you?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is ChatGPT's GPT Mentions Feature?
 
@@ -63,30 +67,26 @@ thumbnail: https://thmb.techidaily.com/be8413a30f19599698e9b5b7f7e17b9eb5081fbfd
 
 ![screenshot of GPT mentions feature window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mention-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It's super easy to use GPT Mentions, so let's delve into an example of when it would be helpful.
 
  Let's say you wanted to gather some key data and then create an infographic to introduce what you've found. To find the data, you start a chat with the Consensus GPT. Once Consensus gives you the relevant information, you mention Canva in your chat, and click on the Canva GPT option.
 
 ![screenshot of chatgpt beta mentions feature being used in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mentions-chat.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, you're chatting with Canva until you click "X" on the **Talking to Canva** tab that will appear above the chat text box.
 
 ![screenshot of active canva chat using beta gpt mentions feature on desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-canva-talking.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.
 
 ![screenshot of chatgpt custom gpt callout feature working with canva prompt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-talking-canva.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Of course, if you're not happy with Canva's initial response, you can make more specific requests to highlight what you're looking for. Maybe you want a specific font, or want a certain phrase used in the text of the graphic. Just ask, and the custom GPT should be able to comply.
@@ -104,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/be8413a30f19599698e9b5b7f7e17b9eb5081fbfd
 ![screenshot of alltrails gpt being used in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-alltrails-result.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, we have hotels, flights, and trails for our trip all in one chat!
@@ -128,22 +128,20 @@ thumbnail: https://thmb.techidaily.com/be8413a30f19599698e9b5b7f7e17b9eb5081fbfd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-demystifying-advanced-editing-techniques-for-professionals/"><u>[New] 2024 Approved Demystifying Advanced Editing Techniques for Professionals</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-unveiling-30-new-dimensions-in-metaverse-memes/"><u>[New] In 2024, Unveiling 30 New Dimensions in Metaverse Memes</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-optimizing-your-fb-video-ads-20-best-tips-for-success/"><u>[New] Optimizing Your FB Video Ads 20 Best Tips for Success</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-no-cost-treasures-aplus-ae-template-collections/"><u>[Updated] No-Cost Treasures A+ AE Template Collections</u></a></li>
-<li><a href="https://win-premium.techidaily.com/outlook-send-as-attachment/"><u>怎麼在 Outlook 的 [Send As Attachment] 選項下將電子郵件保留成備份？</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/adapting-technology-governments-quadripartite-framework-on-ai/"><u>Adapting Technology: Government's Quadripartite Framework on AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-visual-acumen-transforming-data-into-insights/"><u>ChatGPT’s Visual Acumen: Transforming Data Into Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/download-and-deploy-llama-2-your-instructional-guide/"><u>Download & Deploy Llama 2: Your Instructional Guide</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/exploring-the-catalysts-for-chinas-historic-shift-to-communism-a-comprehensive-breakdown-with-insights-from-yl-systems/"><u>Exploring the Catalysts for China's Historic Shift to Communism: A Comprehensive Breakdown with Insights From YL Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/genuine-vs-faux-chatbots-detect-and-protect-your-data/"><u>Genuine Vs. Faux ChatBots: Detect and Protect Your Data!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-touch-typing-with-windows-10s-screen-keyboard-feature-enabling-and-disabling-steps/"><u>Mastering Touch Typing with Windows 10'S Screen Keyboard Feature: Enabling & Disabling Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mitigating-overload-warning-on-chatgpt-windows/"><u>Mitigating Overload Warning on ChatGPT (Windows)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/relying-on-ai-discover-8-content-creators-worries/"><u>Relying on AI? Discover 8 Content Creator's Worries</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-market-dynamics-with-geminis-1m-context/"><u>Revolutionizing Market Dynamics with Gemini's $1M Context</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-headphone-connectivity-issues-on-your-windows-eb-os-device/"><u>Solving Headphone Connectivity Issues on Your Windows Eb OS Device</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-say-goodbye-to-hiss-effective-background-noise-removal-in-final-cut-pro-x/"><u>Updated 2024 Approved Say Goodbye to Hiss Effective Background Noise Removal in Final Cut Pro X</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/your-data-your-rules-identifying-3-key-bot-safety-concerns/"><u>Your Data, Your Rules: Identifying 3 Key Bot Safety Concerns</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-conquer-copious-drafts-with-clever-edits-on-tiktok/"><u>[Updated] 2024 Approved Conquer Copious Drafts with Clever Edits on TikTok</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-from-airplay-to-download-apple-podcasts-simplified/"><u>[Updated] From Airplay to Download Apple Podcasts Simplified</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-guide-to-drone-visuals/"><u>2024 Approved Comprehensive Guide to Drone Visuals</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-kickstart-your-film-journey-essential-camera-shot-knowledge/"><u>2024 Approved Kickstart Your Film Journey Essential Camera Shot Knowledge</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-methods-for-addressing-and-correcting-network-connection-failures-rpc-on-windows-devices/"><u>Effective Methods for Addressing and Correcting Network Connection Failures (RPC) on Windows Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/electorate-engagement-enigma-top-simulator-series-for-2024/"><u>Electorate Engagement Enigma Top Simulator Series for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ethical-guidelines-for-recording-work-discussions-securing-permissions-and-understanding-risks/"><u>Ethical Guidelines for Recording Work Discussions: Securing Permissions & Understanding Risks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gleeful-loginsign-up-step-guide-for-2024/"><u>Gleeful Login/Sign Up Step Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-depth-the-biggest-breakthroughs-in-augmented-reality-ar-and-virtual-reality-vr-at-ces-202e-key-takeaways-from-the-event-techzoo/"><u>In-Depth: The Biggest Breakthroughs in Augmented Reality (AR) & Virtual Reality (VR) at CES 202E - Key Takeaways From the Event | TechZoo</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-social-interaction-on-the-go-connect-and-catch-up-using-apple-watch-features/"><u>Mastering Social Interaction on the Go: Connect and Catch Up Using Apple Watch Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pre-order-your-apple-vision-pro-starting-jan-19-available-in-store-on-feb-2nd-details-inside-tech-news/"><u>Pre-Order Your Apple Vision Pro Starting Jan 19: Available In-Store on Feb 2Nd - Details Inside | Tech News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protect-your-virtual-reality-assets-from-metas-purge-a-comprehensive-guide-for-oculus-users/"><u>Protect Your Virtual Reality Assets From Meta's Purge - A Comprehensive Guide for Oculus Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-top-2-technological-milestones-of-2023-a-landmark-year-surpassing-the-last-ten-years-zdnet/"><u>The Top 2 Technological Milestones of 2023: A Landmark Year Surpassing the Last Ten Years | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-ar-experience-immersed-releases-new-visor-xr-headset-to-tackle-critical-flaws-identified-in-vision-pro-analysis-on-zdnet/"><u>Transforming AR Experience: Immersed Releases New Visor XR Headset to Tackle Critical Flaws Identified in Vision Pro | Analysis on ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unity-rolls-out-beta-testing-with-apple-vision-pro-the-future-of-arvr-games-is-here-zdnet-insights/"><u>Unity Rolls Out Beta Testing with Apple Vision Pro: The Future of AR/VR Games Is Here | ZDNET Insights</u></a></li>
 </ul></div>
 

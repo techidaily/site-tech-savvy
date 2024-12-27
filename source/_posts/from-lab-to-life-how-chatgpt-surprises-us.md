@@ -1,7 +1,7 @@
 ---
 title: "From Lab to Life: How ChatGPT Surprises Us"
-date: 2024-12-16T21:02:26.680Z
-updated: 2024-12-21T16:04:07.397Z
+date: 2024-12-26T16:14:20.836Z
+updated: 2024-12-27T18:44:09.350Z
 tags:
   - chatgpt
   - open-ai
@@ -29,12 +29,16 @@ thumbnail: https://thmb.techidaily.com/7699e975f70df77aaaff1f7ff850c80f5528a8664
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Scripting YouTube Videos
 
 ![person holding smartphone displaying youtube logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/speeds.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Regardless of whether you want to [start a YouTube channel](https://www.makeuseof.com/starting-youtube-channel-basics/) for fun or as a genuine career path, creating videos requires a lot of effort. Filming your content is only one part of the puzzle; editing takes a significant amount of time, and coming up with ideas in the first place is also a lengthy process.
 
@@ -46,15 +50,15 @@ thumbnail: https://thmb.techidaily.com/7699e975f70df77aaaff1f7ff850c80f5528a8664
 
 ![An idea symbol (lightbulb) linked to post it notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/lightbulb-with-post-its.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Even if you're required to come up with creative ideas each day, you're not always going to be able to think of new topics. You'll go through periods where you can't seem to think of anything—and if your job relies on you using your brain, this can get frustrating.
 
  You'll find creative inspiration in plenty of places online, such as by reading the latest news in your niche and checking out your favorite creators on social media. However, you can also use AI to generate new ideas that can lead you in the right direction.
 
  Many creators are using ChatGPT to brainstorm topic ideas. If you ask the tool to develop a list of topics, you'll probably find at least one or two that you think are worth exploring further. You can then do your own research and bring the content together in whatever form of media you'd prefer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Social Media Bios
 
@@ -76,13 +80,13 @@ thumbnail: https://thmb.techidaily.com/7699e975f70df77aaaff1f7ff850c80f5528a8664
 
  Some users have asked ChatGPT for the most common words in their target language, and you can also ask the service how to translate certain words and phrases. On top of that, you might want to think about asking ChatGPT for a list of resources that you can add to your ecosystem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Market Research
 
 ![Two Work Areas at Home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/two-work-areas-at-home.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Whether you're an employee or a business owner, knowing what your customers want is crucial. Many companies make the mistake of spending a lot of time and energy creating products first, only to discover that nobody wants what they've made. However, market research can be challenging and time-consuming in equal measure.
 
@@ -98,23 +102,19 @@ thumbnail: https://thmb.techidaily.com/7699e975f70df77aaaff1f7ff850c80f5528a8664
 
  If you need additional information, you can always turn to a search engine later.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Software Development
 
 ![photo of a woman typing on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/woman-working-on-computer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  One of the most interesting ways that ChatGPT is being used is a little outside the box. As reported by [ABC News](https://www.abc.net.au/news/science/2023-01-25/chatgpt-midjourney-generative-ai-and-future-of-work/101882580), some people and companies are using the tool to help them with software development.
 
  In the article, one student in Australia mentioned that they had used the tool to help them write code. However, they also mentioned that human input still required to ensure everything was correct.
 
  Meanwhile, a company in Belgium mentioned that it was testing with ChatGPT to create software that would make it easier to put contracts together.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## You'll Find Several Uses for ChatGPT
 
@@ -141,15 +141,19 @@ thumbnail: https://thmb.techidaily.com/7699e975f70df77aaaff1f7ff850c80f5528a8664
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-bits.techidaily.com/1-evaluating-chatgpt-vs-chatgpt-plus-does-the-upgraded-features-justify-the-cost-insights-by-zdnet/"><u>1. Evaluating ChatGPT Vs. ChatGPT Plus: Does the Upgraded Features Justify the Cost? - Insights by ZDNet</u></a></li>
-<li><a href="https://win-web3.techidaily.com/create-interactive-ebooks-in-minutes-using-flipword-simple-guide-to-adding-page-turn-animation/"><u>Create Interactive eBooks in Minutes Using FlipWord - Simple Guide to Adding Page-Turn Animation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-future-how-forefront-ai-stacks-up-against-chatgpt/"><u>Decoding the Future: How Forefront AI Stacks Up Against ChatGPT</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-sale-alert-save-200-on-the-acer-chromebook-acer516ge-exclusive-deal-at-best-buy-detailed-review-and-comparison/"><u>Huge Sale Alert: Save $200 on the Acer Chromebook (ACER516GE) - Exclusive Deal at Best Buy, Detailed Review & Comparison</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-customer-help-tools-combining-chatgpt-and-whatsapp/"><u>Integrating Customer Help Tools: Combining ChatGPT & WhatsApp</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openai-vouches-for-continued-brilliance-of-gpt/"><u>OpenAI Vouches for Continued Brilliance of GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/precise-remedies-for-chatgpt-plugin-communication-fails/"><u>Precise Remedies for ChatGPT-Plugin Communication Fails</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-solution-found-resolving-windows-11s-stubborn-bluescreen-issue-heres-how-no-more-headaches/"><u>Quick Solution Found! Resolving Windows 11'S Stubborn Bluescreen Issue - Here’s How (No More Headaches!)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-galaxy-a05s-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Galaxy A05s has been deleted.</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Tecno Pova 5? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ultimate-guide-how-to-download-podcasts-on-iphone/"><u>[Updated] In 2024, Ultimate Guide How to Download Podcasts on iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-dialogue-for-support-linking-chatgpt-and-whatsapp/"><u>Enhanced Dialogue for Support: Linking ChatGPT & WhatsApp</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-error-30005-struggles-with-new-file-creation/"><u>Fixing Windows Error 30005 - Struggles with New File Creation</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y27-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-14-pro-max-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 14 Pro Max Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-from-novice-to-master-the-ultimate-periscope-handbook/"><u>In 2024, From Novice to Master The Ultimate Periscope Handbook</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insight-into-auto-gpt-comparative-analysis-with-conversation-ai/"><u>Insight Into Auto-GPT: Comparative Analysis with Conversation AI</u></a></li>
+<li><a href="https://games-able.techidaily.com/mighty-gaming-cos-market-strategy-raises-questions-talk-show-episode/"><u>Mighty Gaming Co.'s Market Strategy Raises Questions! [Talk Show Episode]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mirth-and-machines-the-evolution-of-portable-tech-and-secure-surfing/"><u>Mirth and Machines: The Evolution of Portable Tech & Secure Surfing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-lava-yuva-3-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scrutinizing-the-honesty-of-ai-chatgpt/"><u>Scrutinizing the Honesty of AI ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simulating-dialogue-bot-vs-human-interaction/"><u>Simulating Dialogue: Bot vs Human Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-7-pioneering-ai-approaches/"><u>Unlocking Potential: 7 Pioneering AI Approaches</u></a></li>
 </ul></div>
 

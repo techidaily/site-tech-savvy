@@ -1,7 +1,7 @@
 ---
 title: "Unmasking Machinery's Myths: Spotting Misrepresented Data by AI Systems"
-date: 2024-12-18T08:29:01.522Z
-updated: 2024-12-21T20:53:36.033Z
+date: 2024-12-20T19:11:17.652Z
+updated: 2024-12-27T19:48:05.251Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is AI Hallucination?
 
  Artificial intelligence hallucination occurs when an AI model generates outputs different from what is expected. Note that some AI models are trained to intentionally generate outputs unrelated to any real-world input (data).
@@ -39,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e
  For example, [top AI text-to-art generators](https://www.makeuseof.com/ai-text-to-art-generators/), such as DALL-E 2, can creatively generate novel images we can tag as "hallucinations" since they are not based on real-world data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI Hallucination in Large Language Processing Models
@@ -55,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e
 ![A ChatGPT prompt further querying where elon musk's factory is at in brazil](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-18-181530.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI Hallucination in Computer Vision
@@ -65,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e
  The challenge is to select the potato chips without hitting any leaves in the montage. This image might look tricky to a computer, and it might be unable to differentiate between the BBQ potato chips and leaves.
 
 ![A 4x4 montage of BBQ potato chips and leaves](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-17-233958.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here's another montage with a mix of poodle and pork floss bun images. A computer would most likely be unable to differentiate between them, therefore mixing the images.
 
@@ -97,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e
  It could be that the language model is unequipped to handle rather complex prompts such as these or that it cannot interpret the prompt accurately, ignoring the prompt on giving a similar word with a specific alphabet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do You Spot AI Hallucination?
@@ -106,12 +106,16 @@ thumbnail: https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e
 
  Here are some ways to spot AI hallucinations while using common AI applications:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Large Language Processing Models
 
 ![Picture showing Bing Chat and ChatGPT on arrowed sigsn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-showing-bing-chat-and-chatgpt-on-arrowed-sigsn.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Although rare, if you notice a grammatical error in the content produced by a large processing model, such as ChatGPT, that should raise an eyebrow and make you suspect a hallucination. Similarly, when text-generated content doesn't sound logical, correlate with the context given, or match the input data, you should suspect a hallucination.
@@ -127,10 +131,6 @@ thumbnail: https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e
  A deviation from the patterns of the visual data used in training will result in hallucinations. For example, if a computer was not trained with images of a tennis ball, it could identify it as a green orange. Or if a computer recognizes a horse beside a human statue as a horse beside a real human, then an AI hallucination has occurred.
 
  So to spot a computer vision hallucination, compare the output generated to what a \[normal\] human is expected to see.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Self-Driving Cars
 
@@ -167,22 +167,22 @@ Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-angle-adjustments-the-instagram-guide-for-perfecting-photo-flips/"><u>[New] 2024 Approved Angle Adjustments The Instagram Guide for Perfecting Photo Flips</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-create-impactful-online-ads-on-a-limited-budget/"><u>[New] How to Create Impactful Online Ads on a Limited Budget</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-seamless-integration-of-skype-and-zoom-for-businesses/"><u>[Updated] In 2024, Seamless Integration of Skype and Zoom for Businesses</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-podcast-titling-a-step-by-step-guide/"><u>[Updated] The Art of Podcast Titling A Step-by-Step Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-tiktok-video-editing-apps-create-and-go-viral-on-the-latest-trend/"><u>Best TikTok Video Editing Apps: Create and Go Viral on the Latest Trend</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/brainchild-of-bard-googles-answer-to-the-ai-world-leaders/"><u>Brainchild of Bard: Google's Answer to the AI World Leaders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/combining-gpts-ingenuity-with-verse-formation/"><u>Combining GPT's Ingenuity with Verse Formation</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/elite-8-android-multiparty-conferencing-solutions/"><u>Elite 8 Android Multiparty Conferencing Solutions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-vivo-x100-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo X100 Pro Unlock Without Password</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-auto-gpts-value-self-verified/"><u>Is Auto-GPT's Value Self-Verified?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openai-writes-your-stories-with-custom-gpt-solutions/"><u>OpenAI' Writes Your Stories with Custom GPT Solutions</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-giants-exploring-facebook-twitter-instagram-and-youtube/"><u>Social Media Giants: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/solving-bizarre-hue-changes-in-displays-insights-from-yl-computing-experts/"><u>Solving Bizarre Hue Changes in Displays: Insights From YL Computing Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/supercharge-your-experience-check-out-our-1-9-gpt-plugins/"><u>Supercharge Your Experience – Check Out Our #1-#9 GPT Plugins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformative-chatbots-building-with-create-a-gpt-techniques/"><u>Transformative ChatBots: Building with Create a GPT Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-chatgpts-api-capabilities/"><u>Unveiling the Power of ChatGPT's API Capabilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-are-hackers-targeting-chatgpt-accounts/"><u>Why Are Hackers Targeting ChatGPT Accounts?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-who-takes-the-crown-av1-or-vp9/"><u>[Updated] 2024 Approved Who Takes The Crown? AV1 or VP9?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/babel-barrage-comparing-chatgpt-and-google-efforts/"><u>Babel Barrage: Comparing ChatGPT & Google Efforts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbot-interaction-patterns-for-realistic-discussions/"><u>Chatbot Interaction Patterns for Realistic Discussions</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-high-cpu-use-with-zoom-discover-these-6-strategies-now/"><u>Conquer High CPU Use with Zoom - Discover These 6 Strategies Now!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-download-velocity-in-ubisoft-connect-for-a-smoother-gaming-experience/"><u>Enhancing Download Velocity in Ubisoft Connect for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-ais-reliability-chatgpt-style/"><u>Evaluating AI's Reliability - ChatGPT Style</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/examining-alternative-use-of-restricted-gpt-features/"><u>Examining Alternative Use of Restricted GPT Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exercise-plans-crafted-with-safety-and-efficiency-in-mind/"><u>Exercise Plans Crafted with Safety and Efficiency in Mind</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-get-the-latest-microsoft-surface-pro-4-driver-software-for-windows-systems/"><u>How to Get the Latest Microsoft Surface Pro 4 Driver Software for Windows Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ultimate-video-experience-12-live-and-on-demand-app/"><u>In 2024, Ultimate Video Experience 12 Live & On-Demand App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-views-navigating-chatgpt-for-film-recommendations/"><u>Maximizing Views: Navigating ChatGPT for Film Recommendations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-nlp-titans-understanding-the-gpt-bert-chasm/"><u>Navigating NLP Titans: Understanding the GPT-BERT Chasm</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/peak-resolution-unbroken-immersion/"><u>Peak Resolution Unbroken Immersion</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/ultimate-collection-of-liverpool-soccer-team-hd-visuals-for-desktop-and-mobile-curated-by-yl-software-solutions/"><u>Ultimate Collection of Liverpool Soccer Team HD Visuals for Desktop & Mobile - Curated by YL Software Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-surface-book-2-drivers-easy-steps-for-a-smooth-experience/"><u>Update Your Surface Book 2 Drivers: Easy Steps for a Smooth Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/your-guide-to-freebies-top-8-mobile-music-players-available-on-iphone/"><u>Your Guide to Freebies: Top 8 Mobile Music Players Available on iPhone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unanswerable Enquiries & Boundaries for GPT-3
-date: 2024-09-12T07:36:40.242Z
-updated: 2024-09-13T07:36:40.242Z
+date: 2024-12-23T17:19:20.646Z
+updated: 2024-12-27T20:05:53.140Z
 tags:
   - chatgpt
   - open-ai
@@ -24,10 +24,7 @@ thumbnail: https://thmb.techidaily.com/264e08da433495c55cd3d8de7fab0afb684fb451a
  So, let's discuss what ChatGPT can't do.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT's Code of Ethics
@@ -48,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/264e08da433495c55cd3d8de7fab0afb684fb451a
 
  Evidently, there are some boundaries that ChatGPT is designed not to cross. But how do these boundaries affect your experience? What questions and topics does ChatGPT avoid, and what can it not do?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Provide Recent Information
 
  ChatGPT was trained on huge amounts of data, but this data only led up to September 2021\. ChatGPT has no access to information beyond this point in time, meaning it cannot answer questions on events that took place in recent years.
@@ -56,20 +57,10 @@ thumbnail: https://thmb.techidaily.com/264e08da433495c55cd3d8de7fab0afb684fb451a
 
 ![chatgpt conversation screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-2022-request.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you're looking for recent news, weather updates, and other real-time data, ChatGPT won't be of much use. [Other AI chatbots like Claude](https://www.makeuseof.com/what-is-claude-ai-why-use-it/) have been trained with more recent information, but you still won't be able to access data less than a few months old.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Give Criminal Advice
@@ -83,10 +74,7 @@ thumbnail: https://thmb.techidaily.com/264e08da433495c55cd3d8de7fab0afb684fb451a
  However, the current versions of ChatGPT only seem to be able to write simple malware programs, which can also be buggy at times. But regardless of this, [the chatbot can be exploited for malware creation](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Invade Personal Privacy or Security
@@ -99,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/264e08da433495c55cd3d8de7fab0afb684fb451a
 
  Even if you mention some personal information in a ChatGPT conversation, you can [delete any ChatGPT conversations](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) as and when you wish.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Give Predictions
 
  ChatGPT knows a lot, but it cannot predict the future. This isn't just because predicting the future is a risky game. As previously discussed, ChatGPT only has access to data before September 2021, so making any predictions using this older information would be very tough.
@@ -108,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/264e08da433495c55cd3d8de7fab0afb684fb451a
  In the same respect, ChatGPT also can't make political or scientific predictions with its training data. You can forget about getting any sports predictions out of ChatGPT, too.
 
  It's better to consult dedicated websites or professionals if you're looking for solid predictions, be it in finance, politics, or sports.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Answer Bigoted or Hateful Questions
 
@@ -137,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/264e08da433495c55cd3d8de7fab0afb684fb451a
 ![chatgpt opinion request screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-opinion-1.jpg)
 
  One day, we may see AI chatbots able to form reasonable opinions. But for now, that's a luxury reserved for human beings.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Look Up Web Results
 
@@ -176,5 +154,24 @@ thumbnail: https://thmb.techidaily.com/264e08da433495c55cd3d8de7fab0afb684fb451a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-best-free-screen-cast-options-on-windows-ranked-1-to-5/"><u>[New] Best Free Screen Cast Options on Windows, Ranked #1 to #5</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-insiders-handbook-to-crafting-shareable-meme-gifs/"><u>[New] The Insider's Handbook to Crafting Shareable Meme GIFs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-a-guide-to-profitable-animated-fb-advertising-techniques/"><u>[Updated] 2024 Approved A Guide to Profitable, Animated FB Advertising Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-definitive-explanation-of-online-storytelling/"><u>[Updated] Definitive Explanation of Online Storytelling</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-expand-your-instagram-skills-advanced-use-of-queries/"><u>[Updated] In 2024, Expand Your Instagram Skills Advanced Use of Queries</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fast-and-easy-revision-installation-guide-for-intel-dual-band-wireless-ac-3160-device-driver/"><u>Fast & Easy [REVISION] Installation Guide for Intel Dual Band Wireless-AC 3160 Device Driver</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/huggingchat-decoded-an-openai-alternative-for-conversation-ai/"><u>HuggingChat Decoded: An OpenAI Alternative for Conversation AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovate-with-unique-chatai/"><u>Innovate with Unique ChatAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-storage-enhancing-chatgpt-engagement-with-directories/"><u>Intelligent Storage: Enhancing ChatGPT Engagement with Directories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-sound-sonos-s2-app-offers-easy-audio-management-with-some-surprising-limitations-discover-more-on-zdnet/"><u>Revolutionize Your Sound: Sonos S2 App Offers Easy Audio Management with Some Surprising Limitations - Discover More on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/start-your-ai-adventure-with-these-9-community-hubs/"><u>Start Your AI Adventure with These 9 Community Hubs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-productivity-apps-for-ipad-enhance-efficiency-and-streamline-tasks-tech-insider/"><u>Top Productivity Apps for iPad: Enhance Efficiency and Streamline Tasks | Tech Insider</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-budget-laptops-for-summer-savings-july-2024-edition-techradar/"><u>Top-Rated Budget Laptops for Summer Savings - July 2024 Edition | TechRadar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-your-dell-computers-usb-port-stops-working/"><u>Troubleshooting Steps When Your Dell Computer's USB Port Stops Working</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-apple-iphone-14-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On Apple iPhone 14? 5 Tips You Must Know</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-quick-filming-techniques-your-5-best-home-hacks-list/"><u>Unlock Quick Filming Techniques – Your 5 Best Home Hacks List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-predictive-ai-its-mechanism-and-functionality/"><u>Unraveling Predictive AI: Its Mechanism and Functionality</u></a></li>
+</ul></div>
 

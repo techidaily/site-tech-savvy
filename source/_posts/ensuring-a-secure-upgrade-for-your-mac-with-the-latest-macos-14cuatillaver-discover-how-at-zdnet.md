@@ -1,7 +1,7 @@
 ---
 title: Ensuring a Secure Upgrade for Your Mac with the Latest macOS 14.cuatillaver - Discover How at ZDNet
-date: 2024-12-16T07:15:05.029Z
-updated: 2024-12-21T20:43:18.858Z
+date: 2024-12-21T18:28:26.904Z
+updated: 2024-12-27T20:18:41.895Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -56,6 +56,10 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Continuity
 
 Screenshot by Nina Raemont
@@ -67,6 +71,10 @@ The new Continuity app links your Mac to your iPhone in a fully comprehensive wa
 The app also streamlines your devices by bringing your iPhone's notifications straight to the Mac, allowing you to pull up the corresponding app onto the laptop. If you're worried about privacy while using your phone on your laptop, your phone's screen actually remains locked and turned off, even while you're using the phone remotely.   
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
 
@@ -81,7 +89,7 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -96,10 +104,6 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -109,10 +113,6 @@ Safari will see a host of improvements powered by AI functionality, including an
 **Also: [ChatGPT privacy tips: Two important ways to limit the data you share with OpenAI](https://www.zdnet.com/article/chatgpt-privacy-tips-two-important-ways-to-limit-the-data-you-share-with-openai/)** 
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
 
@@ -125,7 +125,7 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -162,20 +162,22 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-mastering-youtube-the-ultimate-guide-to-earning/"><u>[New] 2024 Approved Mastering YouTube The Ultimate Guide to Earning</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-convert-your-social-feeds-videos-into-listenable-audio/"><u>[Updated] Convert Your Social Feed's Videos Into Listenable Audio</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-capture-and-transfer-igtv-videos-on-handheld-tech/"><u>[Updated] In 2024, Capture and Transfer IGTV Videos on Handheld Tech</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/10-best-music-video-hits-on-social-media-platform/"><u>10 Best Music Video Hits on Social Media Platform</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/best-mac-screen-grabbers-compiled-here-for-2024/"><u>Best Mac Screen Grabbers Compiled Here for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-the-revolutionary-lenovo-yoga-book-9i-the-pioneering-laptop-with-dual-oled-screens-explore-more/"><u>Experience the Revolutionary Lenovo Yoga Book 9I: The Pioneering Laptop with Dual OLED Screens - Explore More</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Tecno Pova 5? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Nokia G310? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/keep-your-creativity-alive-with-insta-content-sharing/"><u>Keep Your Creativity Alive with Insta Content Sharing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-vp9-transcoder-tools-simplified-video-conversion-downloads/"><u>Leading VP9 Transcoder Tools - Simplified Video Conversion Downloads</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-music-downloads-easily-change-soundcloud-songs-to-mp4-format-for-optimal-playback/"><u>Mastering Music Downloads: Easily Change SoundCloud Songs to MP4 Format for Optimal Playback</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp3windows-media-player-2024/"><u>MP3ファイルがうまく再生されない場合、Windows Media Player 2024で何をすべきか？解決策とヒント</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/preserving-video-fidelity-during-mov-file-format-change-to-m4v/"><u>Preserving Video Fidelity During MOV File Format Change to M4V</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-and-effective-guide-converting-mov-videos-into-mkv-format/"><u>Quick & Effective Guide: Converting MOV Videos Into MKV Format</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iuocquodvoodkoodvoocpuocqeodgplusodgeobruodlplusodroocpowlleeuuplusiomommsjrmnidpq5jnllvos6rjgqzjgqtjg4ki/"><u>オーバーウォッチのプレイ動画記録:最高画質ガイド</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-banners-makers-10-online-tools-to-create-channel-art-for-2024/"><u>[Updated] YouTube Banners Makers 10 Online Tools to Create Channel Art for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-virtual-venue-verdict-navigating-between-obs-and-twitch-streaming/"><u>2024 Approved Virtual Venue Verdict Navigating Between OBS & Twitch Streaming</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/erstellen-sie-eine-sicherung-ihres-qnap-nas-auf-einer-externen-festplatte-schritt-fur-schritt-anleitung/"><u>Erstellen Sie Eine Sicherung Ihres QNAP NAS Auf Einer Externen Festplatte: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-picks-for-the-ultimate-2024-lawn-mower-selection-guide-by-zdnet/"><u>Expert Picks for the Ultimate 2024 Lawn Mower Selection Guide by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-leading-power-generation-bargains-of-february-2023-unveil-deals-by-zdnet/"><u>Explore the Leading Power Generation Bargains of February 2023: Unveil Deals by ZDNet!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/groundbreaking-release-the-premier-triple-camera-drone-takes-flight-unveiling-its-importance/"><u>Groundbreaking Release: The Premier Triple-Camera Drone Takes Flight - Unveiling Its Importance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-the-newly-released-multi-camera-drone-is-changing-the-game-a-detailed-analysis-by-zdnet/"><u>How the Newly Released Multi-Camera Drone Is Changing the Game – A Detailed Analysis by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/illuminate-with-govee-transforming-outdoor-ambiance-through-intelligent-lighting-solutions/"><u>Illuminate with Govee: Transforming Outdoor Ambiance Through Intelligent Lighting Solutions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ate-ideate-implement-step-by-step-guide-to-building-a-youtube-channel-for-2024/"><u>Initiate, Ideate, Implement Step-by-Step Guide to Building a YouTube Channel for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-blowout-unlock-20-more-savings-on-the-ultimate-plant-care-application-limited-time-offer/"><u>Labor Day Blowout: Unlock 20% More Savings on the Ultimate Plant Care Application - Limited Time Offer!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-celebration-blueprint-expert-advice-on-throwing-a-memorable-holiday-gathering/"><u>Labor Day Celebration Blueprint: Expert Advice on Throwing a Memorable Holiday Gathering</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-deal-surprising-quality-found-in-the-ring-spotlight-cam-pro-your-must-see-gadget/"><u>Labor Day Deal: Surprising Quality Found in the Ring Spotlight Cam Pro - Your Must-See Gadget!</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-a-non-functioning-logitech-keyboard/"><u>Quick Fixes for a Non-Functioning Logitech Keyboard</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/recover-your-lost-messages-on-ios-with-our-top-8-recommendations-spotlight-on-stellar/"><u>Recover Your Lost Messages on iOS with Our Top 8 Recommendations: Spotlight on Stellar</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/the-significance-of-the-may-fourth-movement-in-shaping-contemporary-historical-perspectives-insights-by-yl-computing/"><u>The Significance of the May Fourth Movement in Shaping Contemporary Historical Perspectives - Insights by YL Computing</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726030056947-windows/"><u>Windows上で効率的にビデオ切り取りテクニック</u></a></li>
 </ul></div>
 

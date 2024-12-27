@@ -1,7 +1,7 @@
 ---
 title: Elevating Blog Titles & Summaries via ChatGPT
-date: 2024-12-17T17:23:44.459Z
-updated: 2024-12-21T22:18:50.725Z
+date: 2024-12-22T21:38:05.528Z
+updated: 2024-12-27T19:20:28.263Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Provide Context for Your Work
 
@@ -56,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 ![chatgpt answers requests for social media templates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-05t164415-546.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Refine ChatGPT’s Responses to Focus on Key Information
 
  Overdependence is one of the biggest [mistakes to avoid when using ChatGPT for content creation](https://www.makeuseof.com/mistakes-to-avoid-using-chatgpt-content-creation/). ChatGPT’s responses are raw information. They serve as a starting point that you can infuse with your creativity. Refine the AI-generated content by adding your unique touch or filling in the gaps, ensuring the copy resonates with your audience.
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
  With a slight tweak, you can edit this to: “Midweek blues? Here’s a dose of motivation from our favorite designer, Saul Bass! Customize it with our design subscription! \[link to offer\] #DesignWithUs”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Don't Stop at the First Respone
@@ -86,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 ![chatgpt creates fun and witty social media captions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-05t170221-043.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT acts as your personal assistant, handling minor administrative tasks. By continuously interacting with ChatGPT, you can enjoy the benefits of more efficient and faster workflows in your social media team.
 
 ## 4\. Be Specific With Your Instructions
@@ -95,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 ![chatgpt shows revised social media captions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-05t170838-168.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The example above shows the new results after we inserted the brand guidelines in the prompt. The prompt we used was: "Revise the captions by considering the following brand guidelines \[insert brand guidelines\]."
@@ -112,13 +116,13 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 ![chatgpt gives ideas for facebook posts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-05t171215-122.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The second prompt will generate a list of additional information that ChatGPT needs to tailor the results to your specific graphic design niche and audience. Each prompt is useful, depending on your specific goal.
 
 ![chatgpt gives tips for generating better facebook post ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-05t171235-694.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Create a Social Media Prompt Bank
 
@@ -139,6 +143,10 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 * “Describe how our \[product/service\] solves \[problem\].”
 * “Write a humorous caption promoting \[product/service\].”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Prompts for Content Ideas
 
 * “Generate content ideas that align with our brand values: \[insert brand values\].”
@@ -154,19 +162,11 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
  If the prompt is lengthy (e.g., you need to insert a lengthy blog post), you can tell ChatGPT you will insert the content in parts. Let’s rewrite one of the prompts above to illustrate this tip: "Transform our blog post into a series of social media captions. I will paste the blog post in parts because it’s too long. Do you understand?"
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Prompts for Influencer Collaborations
 
 * “Draft an outreach message for potential influencers.”
 * “Outline collaboration ideas with \[influencer name\] for \[product/service\].”
 * “Create teaser content for our upcoming influencer partnership.”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Prompts for Social Media Contests and Giveaways
 
@@ -181,7 +181,7 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
  You can also use other AI tools for editing and proofreading. For example, Grammarly can check for grammar, tone, and plagiarism. Again, these tools are helpful, but the final decision lies with you. As a social media writer, you should know your brand best.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Avoid Giving ChatGPT Sensitive Data
@@ -213,22 +213,17 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ranking-premium-photo-and-video-shows-x-ios14/"><u>[Updated] 2024 Approved Ranking Premium Photo & Video Shows (X-IOS14)</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-cutting-costs-without-compromising-on-youtube-intros-quality/"><u>[Updated] In 2024, Cutting Costs without Compromising on YouTube Intros Quality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-skip-without-missing-tips-on-bypassing-edgenuity-video-lessons/"><u>2024 Approved How to Skip Without Missing Tips on Bypassing Edgenuity Video Lessons</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-web-innovations-a-step-by-step-guide/"><u>ChatGPT Web Innovations: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dismantling-the-mysteries-of-big-ai-language-tools/"><u>Dismantling the Mysteries of Big AI Language Tools</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-newest-hp-deskjet-ink-advantage-3755-all-in-one-printer-drivers-compatible-with-windows-1187/"><u>Download the Newest HP Deskjet Ink Advantage 3755 All-in-One Printer Drivers Compatible with Windows 11/8/7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-the-conceptualization-of-the-internet-as-a-ubiquitous-costless-knowledge-repository/"><u>Evaluating the Conceptualization of the Internet as a Ubiquitous, Costless Knowledge Repository</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-poco-m6-pro-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Poco M6 Pro 5G</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-smart-8-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Smart 8 Pro to New Android? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-creative-curator-essential-zero-price-text-psds/"><u>In 2024, The Creative Curator Essential, Zero-Price Text PSDS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/instant-itineraries-top-7-ai-driven-free-travel-planner-tools/"><u>Instant Itineraries: Top 7 AI-Driven, Free Travel Planner Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-your-craft-with-these-top-4-ai-story-weavers/"><u>Master Your Craft with These Top 4 AI Story Weavers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-your-guide-to-tactile-roleplay-games/"><u>Mastering ChatGPT: Your Guide to Tactile Roleplay Games</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/razer-portal-for-gamers-a-comprehensive-seo-review-on-wi-fi-connectivity/"><u>Razer Portal for Gamers - A Comprehensive SEO Review on Wi-Fi Connectivity</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-asus-rog-phone-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-advances-in-artificial-linguistic-systems-gpt-1-to-4/"><u>Unveiling the Advances in Artificial Linguistic Systems (GPT-1 to 4)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-openais-shap-e-and-what-can-it-do/"><u>What Is OpenAI's Shap-E, and What Can It Do?</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-streamlining-your-workflow-with-mac-preview-complete-guide/"><u>[New] In 2024, Streamlining Your Workflow with Mac Preview Complete Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-apex-artists-youtubes-most-followed-sages/"><u>[Updated] Apex Artists YouTube's Most-Followed Sages</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-mkv-reader-laptoptablet-edition/"><u>2024 Approved Superior MKV Reader (Laptop/Tablet Edition)</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-itel-a60s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-list-the-5-premier-sport-streaming-services-without-charge/"><u>Discover the Ultimate List: The 5 Premier Sport Streaming Services Without Charge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-clipper-functionality-in-windows-11-a-strategic-plan-for-improvement/"><u>Enhancing Clipper Functionality in Windows 11: A Strategic Plan for Improvement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-your-pathway-into-apple-expert-strategies-and-confidential-guide/"><u>Mastering Your Pathway Into Apple: Expert Strategies and Confidential Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overwhelmed-by-tasks-learn-how-to-supercharge-your-workflow-using-the-pomodoro-technique-zdnet/"><u>Overwhelmed by Tasks? Learn How to Supercharge Your Workflow Using the Pomodoro Technique | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-role-of-a-chief-ai-officer-key-responsibilities-and-steps-towards-achieving-the-position/"><u>The Role of a Chief AI Officer: Key Responsibilities & Steps Towards Achieving the Position</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-44-discounted-holiday-memory-drives-and-solid-state-drives-of-2023-revealed-by-zdnet/"><u>Top 44 Discounted Holiday Memory Drives & Solid State Drives of 2023 - Revealed by ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-pro-drone-selections-for-professionals-for-2024/"><u>Top 5 Pro Drone Selections for Professionals for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/updating-your-linkedin-credentials-made-simple-expert-tips-and-reasons-zdnet/"><u>Updating Your LinkedIn Credentials Made Simple - Expert Tips & Reasons | ZDNet</u></a></li>
 </ul></div>
 

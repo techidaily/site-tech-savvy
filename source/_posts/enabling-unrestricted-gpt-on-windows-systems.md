@@ -1,7 +1,7 @@
 ---
 title: Enabling Unrestricted GPT on Windows Systems
-date: 2024-12-21T03:20:46.523Z
-updated: 2024-12-21T18:54:15.428Z
+date: 2024-12-24T17:38:54.244Z
+updated: 2024-12-27T17:57:46.939Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Not Just Use ChatGPT?
 
  ChatGPT is admittedly awesome at what it does. It can be daunting to wrap your head around how these AI chatbots work, so take some time to check out [how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) if you're still learning about this topic.
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
  If you'd like to learn more about where your data is going when you use ChatGPT, check out [if ChatGPT is a big security risk](https://www.makeuseof.com/chatgpt-privacy-risk/). We also did a piece on [if ChatGPT has privacy issues](https://www.makeuseof.com/chatgpt-privacy-issues/).
 
  That's why many companies have forbidden using ChatGPT internally, and why it's generally considered a bad idea to share sensitive information with it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. OpenAI Sets Limits on How You Use ChatGPT
 
@@ -71,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
 
  With FreedomGPT's "app" part downloaded and installed, run its installed local instance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Download AI Models in FreedomGPT
 
  Although FreedomGPT is a complete AI chatbot solution, it initially lacks "the brains" that will allow you to interact with it: an AI model.
@@ -81,13 +77,14 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
 ![FreedomGPT Available Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-available-model.jpg)
 2. You can store downloaded AI models anywhere. Still, saving them within FreedomGPT's folder or a subfolder is best to keep things tidy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Even the most compact AI models can be multiple gigabytes in size, so it may take a while to download your chosen model. Fortunately, FreedomGPT will show you a download progress bar.  
 ![FreedomGPT Downloading Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-downloading-model-1.jpg)
 4. Once you've downloaded an AI mode, a new button will appear on the left, allowing you to **Select** which downloaded AI model you'd like to use.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![FreedomGPT AI Model Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-ai-model-selection-1.jpg)
 
 ## How to Chat With FreedomGPT
@@ -99,13 +96,13 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
 2. Press **Enter** after typing your prompt, and it will show up in FreedomGPT's conversation view. The AI model's response will appear below your prompt. If you don't like how it's going, you can cut a response short by clicking on the **Stop Responding** button, which appears while a reply is produced.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![FreedomGPT Chatting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-chatting-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Switch Models in FreedomGPT
@@ -115,6 +112,11 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
 1. At the top left of FreedomGPT's window is the current AI model's name. Click on it to access the model management panel.  
 ![FreedomGPT Active Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-active-model-1.jpg)
 2. The model management panel is identical to the screen you saw when you first ran FreedomGPT. You can switch to another model from this panel by clicking on **Select** before its name or **Download** and install more models.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![FreedomGPT Switch Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-switch-models-1.jpg)
 
 ## Talk to an AI Whenever You Like With FreedomGPT
@@ -140,24 +142,24 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-blend-photos-effortlessly-in-real-time/"><u>[New] In 2024, Blend Photos Effortlessly in Real-Time</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-voice-log-export-and-critique-for-2024/"><u>[Updated] Voice Log Export & Critique for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/douyin/"><u>「抖音(Douyin)で人気の動画ダウンロード手順」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/57im5zcr44gn5yuv55s744gl44kj5qiq5zcr44gn5yuv55s744g444gu5asj5oplusb44og44kv44ol44od44kv77ya44gd44km44ge44km44gu44k544og44od44ox6kej6kqs/"><u>縦向き動画から横向き動画への変換テクニック：それぞれのステップ解説</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehensive-tutorial-on-converting-advanced-systems-format-files-into-avi/"><u>Comprehensive Tutorial on Converting Advanced Systems Format Files Into AVI</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/creating-a-narrative-structure/"><u>Creating a Narrative Structure</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/customize-your-personal-dashboard-mastering-user-profile-adjustments/"><u>Customize Your Personal Dashboard: Mastering User Profile Adjustments</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dvd-extraction-made-easy-transforming-dvd-content-into-videots-for-editing/"><u>DVD Extraction Made Easy: Transforming DVD Content Into Video_TS for Editing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dvdmkv/"><u>DVDからMKVへの効果的な変換テクニックを学ぶ</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-steps-to-record-audio-a-guide-for-windows-similar-problem/"><u>Easy Steps to Record Audio: A Guide for Windows # Similar Problem</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-guide-converting-your-dvds-into-avi-files/"><u>Effortless Guide: Converting Your DVDs Into AVI Files</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-guide-dividing-a-single-mp3-file-into-distinct-audio-segments/"><u>Free Guide: Dividing a Single MP3 File Into Distinct Audio Segments</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-samsung-galaxy-a54-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Samsung Galaxy A54 5G Quickly? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-tecno-spark-20-proplus-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Tecno Spark 20 Pro+ Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-effective-methods-for-capturing-youtube-live-broadcasts/"><u>In 2024, Effective Methods for Capturing YouTube Live Broadcasts</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-premier-picks-highest-rated-mp4s/"><u>In 2024, Premier Picks Highest Rated MP4s</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-iphone-x-secrets-restoring-face-id-functionality/"><u>In 2024, Unlocking iPhone X Secrets Restoring Face ID Functionality</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-logitechs-latest-mac-compatible-keyboard-and-mouse-collection/"><u>Introducing Logitech's Latest Mac Compatible Keyboard & Mouse Collection</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/writers-who-defined-genres-through-exceptional-works/"><u>Writers Who Defined Genres Through Exceptional Works</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-a-compreayers-must-have-top-10-free-passport-photo-tools/"><u>[New] A Compreayer's Must-Have Top 10 Free Passport Photo Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-aurora-in-the-market-is-it-a-premium-need-in-2024/"><u>[New] Aurora in the Market Is It a Premium Need, In 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-best-of-both-worlds-screenflow-for-mac-creatives-reviewed/"><u>[Updated] In 2024, The Best of Both Worlds ScreenFlow for Mac Creatives Reviewed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-matchmaking-in-the-youtube-collaboration-arena/"><u>[Updated] The Art of Matchmaking in the YouTube Collaboration Arena</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discount-alert-56-off-your-next-self-watering-hydroponic-garden-purchase-exclusive-prime-day-offers-expired/"><u>Discount Alert! $56 Off Your Next Self-Watering Hydroponic Garden Purchase | Exclusive Prime Day Offers Expired</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-electric-scooters-for-this-year-expert-picks-from-zdnet/"><u>Discover the Ultimate Electric Scooters for This Year! Expert Picks From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ecoflow-river-n-a-top-choice-amongst-beginners-portable-power-units-according-to-my-testing-zdnet-insights/"><u>EcoFlow River N: A Top Choice Amongst Beginner's Portable Power Units, According to My Testing - ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/electrify-your-security-grab-the-deal-on-blinks-4-camera-setup-and-floodlight-mount-at-only-80-for-labor-day-sale/"><u>Electrify Your Security: Grab the Deal on Blink's 4-Camera Setup & Floodlight Mount at Only $80 for Labor Day Sale!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-analysis-the-ultimate-guide-to-the-best-portable-power-banks-of-2024-zdnet/"><u>Expert Analysis: The Ultimate Guide to the Best Portable Power Banks of 2024 | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-leading-small-footprint-dwellings-of-202n-innovative-and-contemporary-tiny-homes-reviewed/"><u>Exploring the Leading Small Footprint Dwellings of 202N: Innovative & Contemporary Tiny Homes Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-ultimate-solar-charging-devices-of-2024-our-latest-rankings/"><u>Exploring the Ultimate Solar Charging Devices of 2024: Our Latest Rankings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-top-security-cameras-how-the-waterproof-blink-mini-2-outshines-competitors-in-the-wyze-cam-series-expert-review-by-zdnet/"><u>Exploring Top Security Cameras: How the Waterproof Blink Mini 2 Outshines Competitors in the Wyze Cam Series | Expert Review by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fatherly-bbq-delights-discover-the-ultimate-outdoor-kitchen-gift-picks-with-zdnet/"><u>Fatherly BBQ Delights: Discover the Ultimate Outdoor Kitchen Gift Picks with ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-infinix-smart-7-frp-bypass-by-drfone-android/"><u>In 2024, About Infinix Smart 7 FRP Bypass</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-steam-policy-blocks-deceptive-refund-tactics/"><u>New Steam Policy Blocks Deceptive Refund Tactics</u></a></li>
+<li><a href="https://article-posts.techidaily.com/score-selection-service-enhancing-media-pieces/"><u>Score Selection Service Enhancing Media Pieces</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-essential-guide-to-early-success-on-youtube-steer-clear-of-these-top-8-pitfalls-in-2024/"><u>The Essential Guide to Early Success on YouTube Steer Clear of These Top 8 Pitfalls, In 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211343400--the-pictorial-key-to-the-tarot/"><u>The Pictorial Key to the Tarot | Free Book</u></a></li>
 </ul></div>
 

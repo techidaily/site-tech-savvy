@@ -1,7 +1,7 @@
 ---
 title: New iOS 18 Update Brings Crucial Message Alert System, No AI Required – ZDNet News
-date: 2024-12-15T21:48:26.934Z
-updated: 2024-12-21T23:35:45.614Z
+date: 2024-12-21T17:56:59.674Z
+updated: 2024-12-27T20:32:16.741Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is expected at WWDC 2024?
@@ -53,7 +53,7 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -73,7 +73,7 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -87,7 +87,7 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -128,20 +128,18 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-budget-drone-buyers-guide-top-choices-under-100/"><u>[Updated] Budget Drone Buyer's Guide Top Choices Under $100</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-experts-recommendations-for-image-watermarking/"><u>[Updated] Expert's Recommendations for Image Watermarking</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-bandicam-or-camtasia-the-ultimate-showdown/"><u>[Updated] In 2024, Bandicam or Camtasia The Ultimate Showdown</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-secrets-to-a-never-ending-snapstreak-inside-knowledge/"><u>[Updated] Secrets to a Never-Ending Snapstreak Inside Knowledge</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-sound-strategies-tailoring-your-microphone-to-align-with-your-youtube-channel/"><u>[Updated] Sound Strategies Tailoring Your Microphone to Align With Your YouTube Channel</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-become-a-better-self-the-20-best-exercising-soundtracks/"><u>2024 Approved Become a Better Self The 20 Best Exercising Soundtracks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-the-art-of-mixology-a-review/"><u>ChatGPT and the Art of Mixology: A Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-fraud-detection-guide/"><u>ChatGPT Fraud Detection Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/creating-masterpiece-canon-sequence-captures/"><u>Creating Masterpiece Canon Sequence Captures</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/guide-to-silent-screen-time-view-unseen-stories-on-devices/"><u>Guide to Silent Screen Time View Unseen Stories on Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/outdoor-peril-could-tech-talk-save-the-day/"><u>Outdoor Peril? Could Tech Talk Save the Day?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-unleashing-of-chatgpt/"><u>The Unleashing of ChatGPT</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transformez-un-fichier-flac-en-m4r-gratuitement-sur-internet-movavi/"><u>Transformez Un Fichier FLAC en M4R Gratuitement Sur Internet - Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/twitters-without-symbols-linuss-exposed-content-trojans-demystified-and-gpt-errors-spotlighted/"><u>Twitters Without Symbols, Linus’s Exposed Content, Trojans Demystified, & GPT Errors Spotlighted</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-risks-when-chatting-with-advanced-ais-like-chatgpt/"><u>Understanding Risks When Chatting with Advanced AIs Like ChatGPT</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-finding-the-perfect-countdown-timer-for-your-wedding-ceremony/"><u>[New] 2024 Approved Finding the Perfect Countdown Timer for Your Wedding Ceremony</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-enhancing-iphone-image-clarity-and-focus/"><u>[New] In 2024, Enhancing iPhone Image Clarity and Focus</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essentials-of-effective-video-narration-techniques/"><u>[Updated] The Essentials of Effective Video Narration Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-capabilities-or-ai-supported-skills-discover-what-top-employers-really-want/"><u>AI Capabilities or AI-Supported Skills? Discover What Top Employers Really Want!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/combating-developer-burnout-strategies-companies-use-to-boost-well-being-and-productivity/"><u>Combating Developer Burnout: Strategies Companies Use to Boost Well-Being & Productivity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-step-by-step-strategy-how-to-secure-employment-in-top-tech-firms-insights-from-zdnet/"><u>Comprehensive Step-by-Step Strategy: How to Secure Employment in Top Tech Firms - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-dull-to-vivid-practical-steps-to-revitalize-digital-imagery/"><u>From Dull to Vivid Practical Steps to Revitalize Digital Imagery</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-yearly-insider-list-the-most-exciting-unboxers-on-youtube/"><u>In 2024, Yearly Insider List The Most Exciting Unboxers on YouTube</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-guide-updating-amd-ryzen-amoledriver-for-2500u-processor-step-by-step-tutorial/"><u>Quick Guide: Updating AMD Ryzen Amoledriver for 2500U Processor | Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-checklist-setting-up-your-home-office-for-success-tips-from-zdnet/"><u>Ultimate Checklist: Setting Up Your Home Office for Success | Tips From ZDNet</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-best-of-both-worlds-top-free-and-paid-android-video-editing-apps-2023/"><u>Updated In 2024, Best of Both Worlds Top Free and Paid Android Video Editing Apps 2023</u></a></li>
 </ul></div>
 

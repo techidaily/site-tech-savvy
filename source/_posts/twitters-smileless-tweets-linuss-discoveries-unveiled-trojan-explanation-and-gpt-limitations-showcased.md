@@ -1,7 +1,7 @@
 ---
 title: Twitters Smileless Tweets, Linus’s Discoveries Unveiled, Trojan Explanation, & GPT Limitations Showcased.
-date: 2024-12-21T07:38:20.008Z
-updated: 2024-12-21T16:40:24.034Z
+date: 2024-12-26T21:14:26.153Z
+updated: 2024-12-27T21:09:15.166Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/e4213c5e4c86e998d9e846588016dba7deca4bf69
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/e4213c5e4c86e998d9e846588016dba7deca4bf69
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/e4213c5e4c86e998d9e846588016dba7deca4bf69
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/e4213c5e4c86e998d9e846588016dba7deca4bf69
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -151,18 +151,18 @@ thumbnail: https://thmb.techidaily.com/e4213c5e4c86e998d9e846588016dba7deca4bf69
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-art-of-acquiring-vimeo-videos-free-and-paid-tools-exploration/"><u>[New] 2024 Approved The Art of Acquiring Vimeo Videos Free & Paid Tools Exploration</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-playful-text-alteration-strategies/"><u>[Updated] Playful Text Alteration Strategies</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-top-quality-hero5-black-battery-packs-legit-and-third-party-options/"><u>2024 Approved Top-Quality Hero5 Black Battery Packs - Legit & Third-Party Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-app-for-windows-enthusiasts/"><u>ChatGPT App for Windows Enthusiasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-the-complexity-of-large-scale-ais/"><u>Deciphering the Complexity of Large-Scale AIs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-geforce-rtx-3070-drivers-for-enhanced-gaming-on-windows-11-or-10-step-by-step-guide/"><u>Download Updated GeForce RTX 3070 Drivers for Enhanced Gaming on Windows 11 or 10 - Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/driving-decisions-perfecting-persuasive-business-proposals-with-ai/"><u>Driving Decisions: Perfecting Persuasive Business Proposals with AI</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/essential-techniques-for-securing-product-placements-on-youtube/"><u>Essential Techniques for Securing Product Placements on Youtube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-pc-with-new-usb-c-driver-software-for-windows-10/"><u>How To Update Your PC With New USB-C Driver Software for Windows 10</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-click-reward-spectrum/"><u>In 2024, The Ultimate Click Reward Spectrum</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seize-opportunities-in-openais-challenge-for-error-discovery/"><u>Seize Opportunities in OpenAI’s Challenge for Error Discovery</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-f5-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from F5 5G</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/whats-behind-device-based-machine-learning-implementations/"><u>What's Behind Device-Based Machine Learning Implementations?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-discover-easy-mp4-file-capture-methods/"><u>[New] In 2024, Discover Easy MP4 File Capture Methods</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-unlocking-the-secrets-to-perfect-thumbnails-for-2024/"><u>[New] Unlocking the Secrets to Perfect Thumbnails for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/access-hundreds-of-popular-xbox-game-titles-directly-through-the-meta-quest-console-not-needed-reveals-zdnet/"><u>Access Hundreds of Popular Xbox Game Titles Directly Through the Meta Quest - Console Not Needed, Reveals ZDNet</u></a></li>
+<li><a href="https://discover-able.techidaily.com/expert-strategies-for-restoring-lost-documents-from-your-windows-ebnetwork-drives-a-comprehensive-guide/"><u>Expert Strategies for Restoring Lost Documents From Your Windows ebNetwork Drives: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/helldivers-2-the-ultimate-guide-to-designing-engaging-epic-games/"><u>Helldivers 2: The Ultimate Guide to Designing Engaging, Epic Games</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-elite-photo-safe-houses-online/"><u>In 2024, Elite Photo Safe Houses Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-insider-guide-to-making-and-perfecting-haul-vlogs/"><u>In 2024, The Insider Guide to Making and Perfecting Haul Vlogs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-ai-experience-with-chatgpts-update-allowing-complete-gpt-model-personalization/"><u>Revolutionize Your AI Experience with ChatGPT’s Update, Allowing Complete GPT Model Personalization</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/smart-choices-in-smartphones-the-case-against-purchasing-an-iphone-16-from-apple-zdnet-insights/"><u>Smart Choices in Smartphones: The Case Against Purchasing an iPhone 16 From Apple | ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unexpected-champion-how-meta-quest-3-became-zdnets-top-pick-for-best-product-in-202-cuck/"><u>The Unexpected Champion: How Meta Quest 3 Became ZDNet's Top Pick for Best Product in 202 Cuck</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-full-potential-of-meta-quest-3-with-apples-cutting-edge-3d-spatial-video-content-learn-how-here/"><u>Unlock the Full Potential of Meta Quest 3 with Apple's Cutting-Edge 3D Spatial Video Content - Learn How Here!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-full-potential-of-spatial-recording-with-the-iphone-15-pro-expert-tips-inside/"><u>Unlock the Full Potential of Spatial Recording with the iPhone 15 Pro - Expert Tips Inside!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-launch-samsung-prepares-blowout-rival-to-apple-vision-pro/"><u>Upcoming Launch: Samsung Prepares Blowout Rival to Apple Vision Pro</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating AI's Influence in Crafting Original Works
-date: 2024-09-12T07:38:34.098Z
-updated: 2024-09-13T07:38:34.098Z
+date: 2024-12-21T18:42:18.863Z
+updated: 2024-12-27T18:25:33.685Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,7 @@ thumbnail: https://thmb.techidaily.com/473fc1ff0d4e4d5e905e125fcb0f58c3c26b7a5f7
  Get to know ChatGPT’s pros and cons when it comes to creative writing. You’ll have a better understanding of what prompts to use and what responses to avoid.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Advantages of Using ChatGPT for Creative Writing
@@ -46,24 +43,29 @@ thumbnail: https://thmb.techidaily.com/473fc1ff0d4e4d5e905e125fcb0f58c3c26b7a5f7
 
  You and ChatGPT can come up with the best themes, characters, plot elements, and even endings to delight your readers.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Plan Your Book’s Plot
 
 ![Key Plot Points for Fiction on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/key-plot-points-for-fiction-on-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Create an outline before you start writing your story. ChatGPT can guide you on what this plan should contain.
 
  Ask for the key plot points for a fiction, fantasy, or mystery book. You could even specify that you want to know about the hero’s journey narrative structure. ChatGPT will tell you everything it knows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Generate Character Names
 
 ![Generating Character Names for Space Pirates on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generating-character-names-for-space-pirates-on-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are several great [online fictional name generators](https://www.makeuseof.com/best-fictional-name-generators/) open to you already, but ChatGPT can be more efficient and fun.
 
@@ -71,23 +73,9 @@ thumbnail: https://thmb.techidaily.com/473fc1ff0d4e4d5e905e125fcb0f58c3c26b7a5f7
 
  The AI will provide a list of creative options that match the requirements. Not satisfied? Just generate a fresh set of character names.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Learn About Elements for Your Story
 
 ![Asking ChatGPT for Instructions on How to Build a Fire](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/asking-chatgpt-for-instructions-on-how-to-build-a-fire.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’s best to write about things you know, but sometimes you want to enrich the plot with something beyond your expertise.
 
@@ -97,16 +85,13 @@ thumbnail: https://thmb.techidaily.com/473fc1ff0d4e4d5e905e125fcb0f58c3c26b7a5f7
 
  If verifying its claims is something you can live with, ChatGPT is a great way to quickly gather facts about most topics that interest you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Get Help Describing Difficult Scenes
 
 ![Asking ChatGPT About What Frog Skin Feels Like](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/asking-chatgpt-about-what-frog-skin-feels-like.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Another advantage of using ChatGPT to do research for your writing is that you can get ideas about how to describe certain things. For example, if you don’t know what seaweed feels like or what the different parts of a castle are, the AI can provide plenty of details.
 
@@ -115,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/473fc1ff0d4e4d5e905e125fcb0f58c3c26b7a5f7
 ### 6\. Find Comp Titles for Your Book
 
 ![Finding Comp Titles With ChatGPT's Help](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/finding-comp-titles-with-chatgpt-s-help.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Knowing what to compare your story to is invaluable when the time comes to promote it. That’s another part of creative writing ChatGPT can make easier. If you already have a book or movie in mind that resembles your plot, ask the AI for other similar works.
 
@@ -141,23 +119,9 @@ thumbnail: https://thmb.techidaily.com/473fc1ff0d4e4d5e905e125fcb0f58c3c26b7a5f7
 
  Doing your own work is the best way to avoid plagiarism from ChatGPT. Besides, human [writers outperform AI writing tools](https://www.makeuseof.com/ways-content-writers-outperform-ai/) in telling a good story—at least for now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. ChatGPT’s Information Can Mislead You
 
 ![Asking ChatGPT About Its Access to Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/asking-chatgpt-about-its-access-to-data.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Another fact about ChatGPT to be aware of is that it lacks data after 2021\. It can’t access the internet and learn more about the world either. All it has is what it’s trained with.
 
@@ -174,10 +138,7 @@ thumbnail: https://thmb.techidaily.com/473fc1ff0d4e4d5e905e125fcb0f58c3c26b7a5f7
  Even if you ask for a unique storyline, you can still expect familiar tropes. This doesn’t mean it won’t inspire you, but you won’t stand out as a writer if you use the chatbot’s story as is.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. AI-Generated Stories Are Simplistic
@@ -185,15 +146,16 @@ thumbnail: https://thmb.techidaily.com/473fc1ff0d4e4d5e905e125fcb0f58c3c26b7a5f7
 ![ChatGPT's Short Story in the Style of Tolkien](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-s-short-story-in-the-style-of-tolkien.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In addition to using tropes, ChatGPT narrates in very simple language and styles. Its stories are usually easy to read and meaningful, but there’s not much soul in the writing. It doesn’t matter if you specify an author’s style in your prompt. The result will have the same simple structure.
 
  You can still have the AI produce narratives with the elements you want and get ideas. However, you’re better off doing the actual creative writing yourself.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. ChatGPT Text Always Needs Tweaking
 
@@ -226,5 +188,22 @@ thumbnail: https://thmb.techidaily.com/473fc1ff0d4e4d5e905e125fcb0f58c3c26b7a5f7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-snap-into-hilarity-meme-creation-made-simple/"><u>[Updated] 2024 Approved Snap Into Hilarity Meme Creation Made Simple</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-key-insights-from-a-review-on-zd-soft-recorder/"><u>2024 Approved Key Insights From a Review on ZD Soft Recorder</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-top-ten-video-call-programs-for-phones-and-pc-users/"><u>2024 Approved The Top Ten Video Call Programs for Phones & PC Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024ai10/"><u>2024年度・人気無料AI絵画制作プラットフォーム上位10選【専門家推薦版】</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/neftiff-movavi/"><u>移動突破: NEF到TIFF的無限制免費轉換器 - 提供由Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-convertir-archivo-mov-a-formato-de-linea-libre-usando-herramienta-online-sin-coste-movavi-explicado-paso-a-paso/"><u>Cómo Convertir Archivo MOV a Formato De Línea Libre Usando Herramienta Online Sin Coste - MOVavi Explicado Paso a Paso</u></a></li>
+<li><a href="https://app-tips.techidaily.com/free-excellent-gps-software-for-android-devices-a-comprehensive-guide/"><u>Free Excellent GPS Software for Android Devices - A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-a79-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on A79 5G</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-a56s-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Oppo A56s 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavis-solution-convert-snd-formats-to-mp3wav-online-at-no-cost/"><u>Movavi's Solution: Convert .SND Formats to MP3/WAV Online at No Cost</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fetch-updating-hp-stream-sound-card-drivers/"><u>Quick-Fetch: Updating HP Stream Sound Card Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/riconverti-i-tuoi-file-audio-wav-in-formato-video-webm-su-internet-senza-costi-traduci-audio-a-filmato-via-webmovavi/"><u>Riconverti I Tuoi File Audio WAV in Formato Video WEBM Su Internet Senza Costi - Traduci Audio a Filmato via Webmovavi</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/rmvbmp4-movavi/"><u>RMVB到MP4转换精选：最快捷、最简单的教程 | Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/set-up-an-appveyor-virtual-private-network-on-your-apple-vision-pro-device-detailed-steps-and-benefits-techguru/"><u>Set Up an AppVeyor Virtual Private Network on Your Apple Vision Pro Device: Detailed Steps & Benefits | TechGuru</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-tu-archivo-webm-al-formato-de-audio-libre-aac-sin-costo-con-este-servicio-online-gratuito/"><u>Transforma Tu Archivo WEBM Al Formato De Audio Libre AAC Sin Costo Con Este Servicio Online Gratuito</u></a></li>
+</ul></div>
 

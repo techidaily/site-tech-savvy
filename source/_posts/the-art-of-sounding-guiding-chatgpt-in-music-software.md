@@ -1,7 +1,7 @@
 ---
 title: "The Art of Sounding: Guiding ChatGPT in Music Software"
-date: 2024-12-14T23:39:50.862Z
-updated: 2024-12-21T16:06:09.751Z
+date: 2024-12-20T19:17:14.960Z
+updated: 2024-12-27T21:56:42.534Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT in Music Production
 
  Working with ChatGPT in your music production workflow presents an interesting use case. Since it was trained on an enormous trove of text from across the internet, it understands the expressions we use to describe music, as well as the technical speak used to describe effects plugins in DAWs.
@@ -41,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
  In the title of each track is the name of the plugin type we used, such as distortion or delay, plus the keywords we used in the prompt i.e., dense, watery, psychedelic, etc.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Prompt Format
@@ -65,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
  Keep in mind that every plugin is unique and will have different types of controls with various names. So fill in the blank part of the prompt with a list of parameters that matches the plugin you are using.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Applying the Settings to Your Plugin
@@ -78,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 
 ![Table of audio settings produced by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-logicpro-plugin-settings-results.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you input ChatGPT's suggested settings, listen to the results and see what you think. Here is the result of the prompt we tried above:
 
  Generally, ChatGPT will list values with a small range, so you have some wiggle room to play with the suggestion. Of course, you aren't beholden to these suggestions by any means, so feel free to use them as a starting point and adjust as needed.
@@ -92,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 
  It may be tiring to hear, but nonetheless true.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tips and Tricks
 
  In addition to the basic prompt format that we've outlined, there are a few extra things you can experiment with. These tips and tricks will help you play with, or expand on, ChatGPT's responses.
@@ -101,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
  Want to know more about what a plugin parameter does or why ChatGPT picked those settings? Simply ask it to include an explanation. You can do this by adding the phrase **include explanations** to the end of your prompt.
 
 ![A table produced by ChatGPT including recommended audio settings plus explanations.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-logicpro-table-explanation.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Follow-Up Questions
 
@@ -118,11 +118,11 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 
 ![Screenshot of ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-logicpro-variations.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Additionally, look for a couple of arrows near the top left-hand side of ChatGPT's response. You can use them to move back and forth between the different results.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT: An Unsuspecting Music Production Tool
 
@@ -149,18 +149,19 @@ thumbnail: https://thmb.techidaily.com/8abafba9a85f8f7a9ea54801a273e110b7cee0bf0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-prepping-for-progress-a-technological-lifesaver/"><u>[New] 2024 Approved Prepping for Progress A Technological Lifesaver</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ai-driven-solutions-unveiled-your-guide-to-understanding-winxvideo-technologies-through-faqs-and-answers/"><u>AI-Driven Solutions Unveiled: Your Guide to Understanding Winxvideo Technologies Through FAQs and Answers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-action-6-analytical-applications-unveiled/"><u>ChatGPT in Action: 6 Analytical Applications Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-compelling-video-storylines-with-chatgpt-script-help/"><u>Crafting Compelling Video Storylines with ChatGPT Script Help</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/determining-your-scanning-schedule-for-windows-defender-expert-tips-from-yl-software/"><u>Determining Your Scanning Schedule for Windows Defender - Expert Tips From YL Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-manuscript-to-machine-has-chatgpt-redefined-academic-writing/"><u>From Manuscript to Machine: Has ChatGPT Redefined Academic Writing?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-redmi-note-12r-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Redmi Note 12R</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/surpassing-the-maximum-character-allowance-in-gpt/"><u>Surpassing The Maximum Character Allowance in GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-flawed-logic-of-ai-based-medical-advice/"><u>The Flawed Logic of AI-Based Medical Advice</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-swift-italian-ban-on-chatgpt-a-closer-look/"><u>The Swift Italian Ban on ChatGPT: A Closer Look</u></a></li>
-<li><a href="https://fox-http.techidaily.com/top-voice-modification-tools-essential-choices-for-vtuber-creators-for-2024/"><u>Top Voice Modification Tools Essential Choices for VTuber Creators for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-blocked-calls-on-your-samsung-galaxy-watch-a-step-by-step-guide/"><u>Troubleshooting Blocked Calls on Your Samsung Galaxy Watch: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/writing-engaging-youtube-scripts-with-chatgpt-help/"><u>Writing Engaging YouTube Scripts with ChatGPT Help</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-demystifying-the-apple-m1-prodigy-for-2024/"><u>[New] Demystifying the Apple M1 Prodigy for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-12-best-free-video-players-and-apps-for-pc-and-mobile-device/"><u>[Updated] 12 Best Free Video Players and Apps for PC and Mobile Device</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-depth-app-investigation-via-az-screen-recorder-for-2024/"><u>[Updated] In-Depth App Investigation via AZ Screen Recorder for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-frequency-of-monetization-on-youtube/"><u>[Updated] The Frequency of Monetization on YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mkamkv/"><u>移動電影畫格自由改編：MKA到MKV的線上無限制遷移</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-se-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012705832-how-to-overcome-a-frozen-startup-screen-in-fortnite-and-get-back-into-action/"><u>How to Overcome a Frozen Startup Screen in Fortnite and Get Back Into Action</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-silicon-orchards-expert-strategies-for-a-flourishing-career-at-apple-digitalguruguide/"><u>Navigating Through Silicon Orchards: Expert Strategies for a Flourishing Career at Apple | DigitalGuruGuide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overwhelmed-at-work-discover-how-the-pomodoro-approach-enhances-efficiency-featured-on-zdnet/"><u>Overwhelmed at Work? Discover How the Pomodoro Approach Enhances Efficiency | Featured on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shaping-tomorrows-tech-profiles-of-experts-building-ai-futures-zdnet/"><u>Shaping Tomorrow's Tech: Profiles of Experts Building AI Futures | ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210111281-9780978538460-soul-body-fusion/"><u>Soul Body Fusion | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-for-securing-employment-during-economic-downturns-insights-from-zdnet/"><u>Strategies for Securing Employment During Economic Downturns: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-your-career-development-discover-how-linkedin-leverages-artificam-intelligence-for-simplified-job-matching-and-professional-growth-zdnet/"><u>Streamline Your Career Development: Discover How LinkedIn Leverages Artificam Intelligence for Simplified Job Matching and Professional Growth | ZDnet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tomorrows-tech-titans-today-the-experts-building-artificial-intelligence-as-featured-by-zdnet/"><u>Tomorrow's Tech Titans Today: The Experts Building Artificial Intelligence, as Featured by ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding Turing's Assessment & Its Competitive Horizon
-date: 2024-12-15T06:46:28.990Z
-updated: 2024-12-22T04:06:07.524Z
+date: 2024-12-23T21:43:36.556Z
+updated: 2024-12-27T16:38:58.992Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
 
 ![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Originally called "The Imitation Game," the Turing Test was developed by Alan Turing. Despite its name, the Turing Test is not a true test—at least, not in the common sense of the word. It's more of a thought experiment. Nevertheless, Alan Turing was a highly influential mathematician who formalized many concepts that led to the birth of computer science.
 
  The Turing Test is a set of guidelines meant to determine whether a machine is indistinguishable from a human. It tries to answer the question, "Can machines think?" Turing believed it was possible and designed something that could be resembled as a kind of game.
@@ -49,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
 
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Drawbacks of the Turing Test
 
  Although the Turing Test aims to find if machines can think, there are some drawbacks.
@@ -59,22 +67,18 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Eugene Goostman
@@ -96,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Advancement of Computer Intelligence
@@ -112,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.
 
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Turing Test Has Not Been Definitively Passed
 
@@ -144,18 +144,21 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-elevate-vlogging-select-best-handheld-and-tripod-systems/"><u>[Updated] In 2024, Elevate Vlogging Select Best Handheld and Tripod Systems</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-slash-the-size-efficient-techniques-for-reducing-youtube-video-lengths-for-2024/"><u>[Updated] Slash the Size Efficient Techniques for Reducing YouTube Video Lengths for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44cm6zw35pmc6zat44ot44oh44kq44gu44k544oi44oq44o844of44oz44kw5pya6ygp5yyw77ya5yid5a2m6icf44ov44os44oz44oj44oq44o844ks44kk44oj44cn/"><u>「長時間ビデオのストリーミング最適化：初学者フレンドリーガイド」</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-15-crucial-strategies-for-accessing-international-sport-events/"><u>2024 Approved 15 Crucial Strategies for Accessing International Sport Events</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-video-voyage-to-victory-secrets-from-youtube-stars/"><u>2024 Approved Video Voyage to Victory Secrets From YouTube Stars</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024s-leading-mp4-encoders-reviewed-mastering-the-art-of-high-quality-mp4-video-encoding/"><u>2024'S Leading MP4 Encoders Reviewed: Mastering the Art of High-Quality MP4 Video Encoding</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6ygo5y6744gr5lplusd5a2y44gv44km44gf44ot44oh44kq44gu6kaw6ig05lin6io944gu55cg55sx44go6kej5rg65rov/"><u>過去に保存されたビデオの視聴不能の理由と解決法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/audio-consistency-mastery-the-ultimate-guide-to-achieving-uniform-volume-across-tracks/"><u>Audio Consistency Mastery: The Ultimate Guide to Achieving Uniform Volume Across Tracks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/break-writing-barriers-with-our-5-innovative-text-generators/"><u>Break Writing Barriers with Our 5 Innovative Text Generators</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/clarity-in-disarray-discover-why-your-display-loses-sharpness-with-yl-software-solutions/"><u>Clarity in Disarray: Discover Why Your Display Loses Sharpness with YL Software Solutions</u></a></li>
-<li><a href="https://win-info.techidaily.com/ethical-considerations-are-paramount-when-representing-diverse-stories-to-avoid-appropriation-and-misrepresentation/"><u>Ethical Considerations Are Paramount when Representing Diverse Stories to Avoid Appropriation and Misrepresentation.</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-oneplus-ace-2-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on OnePlus Ace 2</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/reathe-and-stretch-with-these-expert-yogis-online/"><u>[New] Breathe and Stretch with These Expert Yogis Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-essential-knowledge-for-recording-movies-anywhere/"><u>[New] In 2024, Essential Knowledge for Recording Movies Anywhere</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-revolutionizing-content-breakthroughs-in-youtube-editing/"><u>[Updated] 2024 Approved Revolutionizing Content Breakthroughs in YouTube Editing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anticipated-ar-device-holds-off-apple-reschedules-vision-pro-launch-according-to-techcrunch/"><u>Anticipated AR Device Holds Off: Apple Reschedules Vision Pro Launch According to TechCrunch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dont-let-these-common-oversights-ruin-your-experience-with-apple-vision-pro-expert-tips-for-optimal-use/"><u>Don’t Let These Common Oversights Ruin Your Experience With Apple Vision Pro - Expert Tips for Optimal Use</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/elevate-photography-crafting-exceptional-time-lapses-with-black-hero5/"><u>Elevate Photography Crafting Exceptional Time-Lapses with Black Hero5</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-infinix-note-30-vip-phone-by-drfone-android/"><u>How to Unlock a Network Locked Infinix Note 30 VIP Phone?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-honor-x9a-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Honor X9a? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-expert-tips-and-ultimate-guide/"><u>Mastering, Expert Tips, and Ultimate Guide.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/pioneering-the-use-of-film-in-educational-methodologies/"><u>Pioneering the Use of Film in Educational Methodologies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/setting-up-your-apple-vision-pro-with-a-vpn-step-by-step-guide-and-benefits-learn-from-zdnets-experts/"><u>Setting Up Your Apple Vision Pro with a VPN: Step-by-Step Guide & Benefits - Learn From ZDNet's Experts!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-uav-connoisseurs-guide-to-essential-equipment/"><u>The UAV Connoisseur's Guide to Essential Equipment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-factors-driving-customers-back-to-apple-vision-pro-insights-from-reddit-discussions-zdnet-analysis/"><u>Top 7 Factors Driving Customers Back to Apple Vision Pro: Insights From Reddit Discussions - ZDNet Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-apples-envisioned-affordable-vr-the-elusive-vision-pro-spectacles/"><u>Unveiling Apple's Envisioned Affordable VR: The Elusive Vision Pro Spectacles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/virtual-reinvention-how-vr-technology-and-digital-twins-enhance-distant-jobs-in-engineering-fields-zdnet/"><u>Virtual Reinvention: How VR Technology & Digital Twins Enhance Distant Jobs in Engineering Fields | ZDNet</u></a></li>
 </ul></div>
 

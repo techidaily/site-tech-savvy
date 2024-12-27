@@ -1,7 +1,7 @@
 ---
 title: How to Create a Healthy Meal Plan Using ChatGPT
-date: 2024-12-15T00:49:15.523Z
-updated: 2024-12-21T18:07:07.950Z
+date: 2024-12-26T19:00:49.579Z
+updated: 2024-12-27T21:43:45.302Z
 tags:
   - chatgpt
   - open-ai
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
  ChatGPT can indeed help you create a healthy meal plan. In fact, it can help you create anything you’d like, even an unhealthy meal plan. But before you use ChatGPT to help you build your meal plan, there are several factors of your meal plan you need to figure out first.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Meal Plan Preferences
 
  First, you have to decide on what your goals are. Are you meal planning to lose weight, maintain your weight, or [gain weight in a healthy way](https://www.makeuseof.com/weight-gain-apps/)? Secondly, do you have any specific food preferences, allergies, or restrictions?
@@ -60,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
  BMR is the energy your body uses while at rest. Knowing these numbers is important to your particular goals. All you have to do is type "**How do I calculate my TDEE and BMR?**" into ChatGPT, and it automatically generates the needed equations and formulas.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use ChatGPT to Create a Healthy Meal Plan
 
  Now is the time you can start playing around with ChatGPT and see how it can help you come up with some healthy meal plan ideas. Remember to include all the details of your meal plan in your prompts. ChatGPT can give you a better response if you’re more in-depth about what you're asking for.
@@ -70,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![chatgpt AI chatbot online tool meal plan example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-meal-plan-example.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here are some examples of prompts you can type into ChatGPT to help you build a healthy meal plan. A healthy meal plan is different for everyone, so always add as many or as few details as you want.
 
 * Five-day vegan meal plan for weight loss that serves two adults with three meals per day, has a 30-minute cook time, costs $10 per meal, and contains 1800 calories per day.
@@ -77,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 * One-week meal plan with three meals, one snack, and no dietary restrictions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Problems With ChatGPT Meal Plans
@@ -91,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
  This can result in spending an enormous amount of money on groceries and lots of extra unused ingredients.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Better Meal Planning Alternatives to ChatGPT
@@ -118,17 +122,13 @@ Close
 
 ![Eat this much meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-meal-plan.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Eat this much planner mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-planner.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can You Trust ChatGPT to Create a Healthy Meal Plan?
 
@@ -155,24 +155,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-video-thumbnail-personalization-on-youtube/"><u>[New] In 2024, Mastering Video Thumbnail Personalization on YouTube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-deciphering-your-social-media-shadows-privacy-on-facebook/"><u>[Updated] 2024 Approved Deciphering Your Social Media Shadows Privacy on Facebook</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-revolutionize-viewing-with-these-6-ultimate-youtube-shorts-downloader-apps/"><u>[Updated] Revolutionize Viewing with These 6 Ultimate YouTube Shorts Downloader Apps</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-essential-musicians-guide-to-copyright-compliance-on-ig/"><u>2024 Approved The Essential Musician's Guide to Copyright Compliance on IG</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-vs-human-writers-top-5-areas-where-machines-fall-short/"><u>AI vs Human Writers: Top 5 Areas Where Machines Fall Short</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/copilot-standard-meets-pro-features-and-benefits-analysis/"><u>CoPilot Standard Meets Pro: Features & Benefits Analysis</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/download-free-cadillac-escalade-backgrounds-high-quality-images-from-yl-computings-extensive-collection/"><u>Download Free Cadillac Escalade Backgrounds - High-Quality Images From YL Computing's Extensive Collection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/early-warning-signs-of-rogue-chatgpt-services/"><u>Early Warning Signs of Rogue ChatGPT Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-how-chatgpt-might-infringe-on-user-data-sovereignty/"><u>Evaluating How ChatGPT Might Infringe on User Data Sovereignty</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-xs-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone XS without Losing Any Content? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-storm-5g-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Storm 5G.</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-t2x-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo T2x 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-minds-discuss-global-ai-trends/"><u>Leading Minds Discuss Global AI Trends</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-text-tech-openais-tailored-language-model-store/"><u>Mastering Text Tech: OpenAI’s Tailored Language Model Store</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/precision-in-persona-development-with-chatgpt-assistance/"><u>Precision in Persona Development with ChatGPT Assistance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-best-tools-for-supercharging-your-browsers-ai-talking-power/"><u>The Best Tools for Supercharging Your Browsers' AI Talking Power</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-role-of-shap-explainer-in-ai-interpretability/"><u>The Role of SHAP Explainer in AI Interpretability</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-pc-to-microsofts-may-2020-release-of-windows-1-build-19041-with-optimized-conexant-drivers/"><u>Update Your PC to Microsoft's May 2020 Release of Windows 1# (Build 19041) with Optimized Conexant Drivers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-building-harmonious-forms-crafting-circles-and-spheres-for-2024/"><u>[New] Building Harmonious Forms Crafting Circles and Spheres for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/asterclass-in-eliminating-youtube-content/"><u>[New] Masterclass in Eliminating YouTube Content</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-lightning-leap-fame-mastering-instagram-with-these-15-essential-easy-tips-for-overnight-success-for-2024/"><u>[Updated] Lightning Leap Fame Mastering Instagram with These 15 Essential, Easy Tips for Overnight Success for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/comprehensive-anker-usb-30-superspeed-hub-analysis-your-ultimate-guide/"><u>Comprehensive Anker USB 3.0 SuperSpeed Hub Analysis - Your Ultimate Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-solution-approach-for-fixing-the-tear-down-app-crash-problems/"><u>Comprehensive Solution Approach for Fixing the 'Tear Down' App Crash Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-an-effective-programmers-showcase-a-step-by-step-guide/"><u>Creating an Effective Programmer's Showcase: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-inexpensive-options-for-artificial-intelligence-powered-visual-content-beyond-chatgpt/"><u>Explore Inexpensive Options for Artificial Intelligence-Powered Visual Content Beyond ChatGPT.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-remote-work-revolutionizes-office-dynamics-stay-alert-zdnet/"><u>How Remote Work Revolutionizes Office Dynamics - Stay Alert! | ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-realme-note-50-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Realme Note 50</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-strategies-and-pitfalls-in-crafting-an-unforgettable-cybersecurity-cv-insights-from-zdnet/"><u>Key Strategies & Pitfalls in Crafting an Unforgettable Cybersecurity CV - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-telephonic-job-assessments-key-techniques-for-advancing-to-face-to-face-discussions/"><u>Mastering Telephonic Job Assessments: Key Techniques for Advancing to Face-to-Face Discussions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preventing-post-graduation-burnout-effective-techniques-for-new-alumni-featured-on-zdnet/"><u>Preventing Post-Graduation Burnout: Effective Techniques for New Alumni Featured on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revitalizing-the-it-workforce-how-artificial-intelligence-alleviates-burnout-and-manages-fatigue-inducing-alerts-insights-from-zdnet/"><u>Revitalizing the IT Workforce: How Artificial Intelligence Alleviates Burnout and Manages Fatigue-Inducing Alerts | Insights From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-side-of-employee-turnover-at-leading-technology-companebs-understanding-the-bigger-picture-beyond-headcount-cuts/"><u>The Hidden Side of Employee Turnover at Leading Technology Companebs: Understanding the Bigger Picture Beyond Headcount Cuts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-coding-bootcamp-programs-expert-reviews-and-rankings/"><u>Top 10 Coding Bootcamp Programs : Expert Reviews & Rankings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/your-blueprint-to-mastering-the-snapchat-boomerang-skill-for-2024/"><u>Your Blueprint to Mastering the Snapchat Boomerang Skill for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Machine Prediction or Stardust Insights for the Future?
-date: 2024-12-16T21:02:58.946Z
-updated: 2024-12-22T00:46:25.084Z
+date: 2024-12-25T17:37:22.766Z
+updated: 2024-12-27T18:43:23.492Z
 tags:
   - chatgpt
   - open-ai
@@ -29,16 +29,12 @@ thumbnail: https://thmb.techidaily.com/cd40cefe34929949f9082fe8148c2fc6feb48b6dc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Customize Your ChatGPT Fortune-Teller…
 
 ![Hands Over Fortune Telling Crystal Ball](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hands-over-fortune-telling-crystal-ball.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Fortune-tellers have a particular mystique about them, which you'll instantly recognize from the movies.
 
@@ -49,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/cd40cefe34929949f9082fe8148c2fc6feb48b6dc
 > "Greetings, dear seeker of knowledge. I am Agnes, a wise fortune teller, here to unravel the mysteries that lie before you. Ask your question, and I shall peer into the veiled realm of destiny to provide you with the guidance you seek."
 
  Generating this persona was simplicity itself, prompting ChatGPT to "Respond the following as if you are a wise fortune teller."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Choose Your ChatGPT Fortune Telling Questions Wisely
 
@@ -61,12 +61,16 @@ thumbnail: https://thmb.techidaily.com/cd40cefe34929949f9082fe8148c2fc6feb48b6dc
  What follows is her prediction and how it played out in real life.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Well Did ChatGPT Predict the Future?
 
 ![A Woman Opening the Card on the Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-woman-opening-the-card-on-the-table.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  My prompt to Agnes was: "Today is June 1st, 2023\. Please do a reading for the next two weeks."
 
@@ -109,11 +113,7 @@ thumbnail: https://thmb.techidaily.com/cd40cefe34929949f9082fe8148c2fc6feb48b6dc
 ![chatgpt fortune transcript](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-fortune-transcript.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Predicted the Future as Well as Any Magazine Horoscope
@@ -143,20 +143,24 @@ thumbnail: https://thmb.techidaily.com/cd40cefe34929949f9082fe8148c2fc6feb48b6dc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://novels-ebooks.techidaily.com/210820625-9781476649504-how-tall-are-you/"><u> "How Tall Are You? " | Free Book</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-social-media-savvy-creating-share-worthy-ig-content/"><u>[New] 2024 Approved Social Media Savvy Creating Share-Worthy IG Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-optimal-quick-glance-windows-photo-app/"><u>[Updated] 2024 Approved Optimal Quick Glance Window's Photo App</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-humor-haven-free-tools-for-meme-artistry/"><u>[Updated] Humor Haven FREE Tools for Meme Artistry</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-sustaining-an-engaged-online-community-the-facebook-way-for-2024/"><u>[Updated] Sustaining an Engaged Online Community The Facebook Way for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-generative-mastery-notion-against-gpt-3-showdown/"><u>Decoding Generative Mastery: Notion Against GPT-3 Showdown</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-learning-leaders-most-influential-edu-tutorials-yt/"><u>In 2024, Learning Leaders Most Influential Edu Tutorials YT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introspection-and-understanding-the-gpt-way-to-emotional-mastery/"><u>Introspection & Understanding: The GPT Way to Emotional Mastery</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rediscovering-discarded-chatgpt-talks/"><u>Rediscovering Discarded ChatGPT Talks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-workflow-top-8-chrome-with-ai/"><u>Revolutionize Your Workflow: Top 8 Chrome with AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-ai-communication-explore-openais-tailored-store/"><u>Revolutionizing AI Communication: Explore OpenAI’s Tailored Store!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-ai-innovations-every-entrepreneur-must-learn-about-today/"><u>Top AI Innovations Every Entrepreneur Must Learn About Today</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-filmora-13-editor-download-free-no-subscription-needed/"><u>Updated Filmora 13 Editor Download Free No Subscription Needed</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95699176-9781478971146-walking-with-peety/"><u>Walking with Peety | Free Book</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-motorola-edge-2023-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Motorola Edge 2023 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-20-video-cameras-expert-reviews-for-2024/"><u>[New] Top 20 Video Cameras – Expert Reviews for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-weaving-music-threads-of-youtube-in-videos-for-2024/"><u>[New] Weaving Music Threads of YouTube in Videos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-configuring-picture-in-picture-for-apple-browsers/"><u>2024 Approved Configuring Picture-in-Picture for Apple Browsers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-smooth-sound-dissipation-a-pro-editors-manual/"><u>2024 Approved Smooth Sound Dissipation A Pro Editor's Manual</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beating-update-errors-on-windows-10-a-comprehensive-guide-to-overcoming-error-0xc1900208/"><u>Beating Update Errors on Windows 10: A Comprehensive Guide to Overcoming Error 0xC1900208</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/costly-pursuit-of-knowledge-earning-your-mba-through-apple-vision-pro-insights-from-zdnet/"><u>Costly Pursuit of Knowledge: Earning Your MBA Through Apple Vision Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-how-apple-integrates-cutting-edge-spatial-personas-into-the-new-ivision-pro-a-step-by-step-guide/"><u>Discover How Apple Integrates Cutting-Edge Spatial Personas Into the New iVision Pro: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/elevating-your-online-voice-detailed-steps-for-reddit-success/"><u>Elevating Your Online Voice Detailed Steps for Reddit Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eradicating-virtual-queasiness-unexpected-remedies-for-vr-induced-nausea-spotlighted-by-experts-at-zdnet/"><u>Eradicating Virtual Queasiness: Unexpected Remedies for VR-Induced Nausea, Spotlighted by Experts at ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-new-realities-how-metas-quest-vr-headset-elevates-the-mixed-reality-experience-to-unprecedented-heights-zdnet/"><u>Exploring New Realities: How Meta's Quest VR Headset Elevates the Mixed Reality Experience to Unprecedented Heights | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/finnish-innovation-shines-with-revolutionary-vr-headset-challenging-apples-vision-pro-a-game-changer-for-enterprises-technews/"><u>Finnish Innovation Shines with Revolutionary VR Headset Challenging Apple's Vision Pro: A Game-Changer for Enterprises | TechNews</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-6-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone 6 Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-14-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 14 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-your-career-with-an-mba-via-apple-vision-pro-investment-or-extravagance/"><u>Mastering Your Career with an MBA via Apple Vision Pro: Investment or Extravagance?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/oculus-controllers-failure-discover-the-fix-here/"><u>Oculus Controllers Failure? Discover the Fix Here!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-privacy-in-virtual-reality-the-importance-of-vpns-for-enhanced-xr-headset-security/"><u>Protecting Privacy in Virtual Reality: The Importance of VPNs for Enhanced XR Headset Security.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revitalizing-to-rescue-the-vision-pro-three-essential-strategies-for-apples-success/"><u>Revitalizing To Rescue the Vision Pro: Three Essential Strategies for Apple's Success</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/efinitive-guide-to-ios-and-android-maker-tools/"><u>The Definitive Guide to iOS & Android Maker Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vision-pro-led-technology-drives-samsungs-updated-roadmap-to-release-advanced-vr-headset-by-end-of-2024-zdnet-insights/"><u>Vision Pro LED Technology Drives Samsung's Updated Roadmap to Release Advanced VR Headset by End of 2024 – ZDNet Insights</u></a></li>
 </ul></div>
 

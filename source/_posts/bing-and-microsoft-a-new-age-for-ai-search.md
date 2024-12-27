@@ -1,7 +1,7 @@
 ---
 title: "Bing and Microsoft: A New Age for AI Search"
-date: 2024-12-17T18:59:49.684Z
-updated: 2024-12-22T00:49:52.038Z
+date: 2024-12-22T21:18:28.541Z
+updated: 2024-12-27T21:29:13.098Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/13fc80b5d967307ffa59212655cd04104762f09d1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s OpenAI Got to Do With the New AI-Powered Bing?
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/13fc80b5d967307ffa59212655cd04104762f09d1
 ![openai logo on code background feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/openai-logo-on-code-background-feature.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft recently invested nearly 10 billion dollars into OpenAI, and Bing’s new AI prowess is just the start of this long-term strategic partnership.
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/13fc80b5d967307ffa59212655cd04104762f09d1
  According to [Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) , Bing will be powered by the latest next-gen natural language AI model specifically trained for web searching. The AI model behind Microsoft Bing relies on improvements made on ChatGPT and GPT-3.5, making it much faster and more reliable.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's New in Bing?
@@ -55,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/13fc80b5d967307ffa59212655cd04104762f09d1
  Remember when searching was underwhelming and lousy using Bing? Thanks to the new AI web search companion, those days are far behind. Bing will now use AI at its core to deliver enhanced search results that are precisely relevant, allow you to generate content, and, best of all, integrate a brand new chat experience specialized to answering complex queries.
 
 ![AI powered chat feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chat-new.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ` Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
@@ -68,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/13fc80b5d967307ffa59212655cd04104762f09d1
 
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's New in Microsoft Edge?
 
  Over the past few years, Microsoft has significantly improved Edge with incredible features that have allowed it to compete directly against Google Chrome. With the latest capabilities of Bing + AI, Microsoft has made Edge even more potent with new AI features and an updated look.
@@ -76,15 +76,15 @@ thumbnail: https://thmb.techidaily.com/13fc80b5d967307ffa59212655cd04104762f09d1
 
 ![compose text with Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-ai-compose-new.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ` Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
  Building on the content-generation capabilities of ChatGPT,**Compose** within Microsoft Edge will let you generate content that customizes to the required tone, format, and length. You can compose emails to your coworkers, write about your new job in a post on LinkedIn, and even convert financial information into tables; the possibilities are limitless.
 
  You can use the**Chat** feature to answer complex queries, get detailed financial information on a company, figure out the best way to grill a steak, decide the best framework for your web application, and more.**Chat** relies on your prompts to comprehensively provide you with the best possible answers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Microsoft Bing Reinvents Web Searching
 
@@ -105,17 +105,18 @@ thumbnail: https://thmb.techidaily.com/13fc80b5d967307ffa59212655cd04104762f09d1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-premiere-trailers-showcase/"><u>[New] 2024 Approved Premiere Trailers Showcase</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-creating-captivating-youtube-thumbnails-for-mac-users-for-2024/"><u>[New] Creating Captivating YouTube Thumbnails for Mac Users for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-step-into-new-realms-with-vr-technology/"><u>[Updated] Step Into New Realms with VR Technology</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-top-virtual-reality-development-tools-gamers-for-2024/"><u>[Updated] Top Virtual Reality Development Tools Gamers for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-chatgpt-top-alternatives-rising/"><u>Beyond ChatGPT: Top Alternatives Rising</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claudes-challenge-can-it-outperform-chatgpt/"><u>Claude's Challenge: Can It Outperform ChatGPT?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-a-pitch-black-mobile-screen-a-comprehensive-guide-for-android-users/"><u>Fixing a Pitch-Black Mobile Screen: A Comprehensive Guide for Android Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ideal-chatgpt-framework-top-20-github-examples/"><u>Ideal ChatGPT Framework: Top 20 GitHub Examples</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo Y27s? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/new-world-continuously-crashing-how-to-fix-it/"><u>New World Continuously Crashing - How to Fix It</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protective-measures-hidden-stowing-of-gpt-dialogues/"><u>Protective Measures: Hidden Stowing of GPT Dialogues</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722973719951-quick-guide-download-the-latest-logitech-m325-mouse-driver/"><u>Quick Guide: Download the Latest Logitech M325 Mouse Driver!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-sparkling-ideas-creating-engaging-fb-ad-videos/"><u>[New] In 2024, Sparkling Ideas Creating Engaging FB Ad Videos</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-live-tune-streams-on-younow/"><u>[Updated] 2024 Approved Live Tune Streams on YouNow</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-elevating-your-content-game-5-strategic-tactics-for-instagram-success/"><u>[Updated] In 2024, Elevating Your Content Game 5 Strategic Tactics for Instagram Success</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-social-media-symphony-coordinating-video-sharing/"><u>[Updated] In 2024, Social Media Symphony Coordinating Video Sharing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mastering-aspect-ratio-rules-for-twitter-content-for-2024/"><u>[Updated] Mastering Aspect Ratio Rules for Twitter Content for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/199-ipad-deal-on-labor-day-at-amazon-insider-tips-and-tricks-from-zdnet/"><u>$199 iPad Deal on Labor Day at Amazon – Insider Tips & Tricks From ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/compact-powerhousing-in-depth-look-at-the-superzoom-canon-sx720hs/"><u>Compact PowerHousing: In-Depth Look at the Superzoom Canon SX720HS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-hurdles-in-implementing-digital-twins-a-guide-to-tackling-the-top-7-industry-obstacles-insights-for-modern-enterprises-zdnet/"><u>Overcoming Hurdles in Implementing Digital Twins: A Guide to Tackling the Top 7 Industry Obstacles | Insights for Modern Enterprises | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stanfords-revolutionary-ai-technology-redefines-virtual-reality-bypassing-outdated-headsets-zdnet/"><u>Stanford's Revolutionary AI Technology Redefines Virtual Reality, Bypassing Outdated Headsets | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surprising-black-friday-sale-how-vr-headsets-beat-apples-airpods-in-sales-zdnet/"><u>Surprising Black Friday Sale: How VR Headsets Beat Apple's AirPods in Sales | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unboxing-apple-vision-pros-unique-199-journey-companion-a-strangely-comfortable-fit-zdnet/"><u>Unboxing Apple Vision Pro's Unique $199 Journey Companion – A Strangely Comfortable Fit! [ZDNET]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-mystery-of-sporadic-issues-with-visionpro-services-proactive-measures-detailed-by-zdnet/"><u>Unraveling the Mystery of Sporadic Issues with VisionPro Services: Proactive Measures Detailed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-mystery-of-sleepless-nights-with-a-fellow-metaverse-enthusiast-insights-from-zdnet/"><u>Unveiling the Mystery of Sleepless Nights with a Fellow Metaverse Enthusiast - Insights From ZDNet</u></a></li>
 </ul></div>
 

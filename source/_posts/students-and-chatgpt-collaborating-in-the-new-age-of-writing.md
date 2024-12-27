@@ -1,7 +1,7 @@
 ---
 title: "Students and ChatGPT: Collaborating in the New Age of Writing"
-date: 2024-12-20T22:52:22.888Z
-updated: 2024-12-21T23:27:29.168Z
+date: 2024-12-24T19:19:40.924Z
+updated: 2024-12-27T18:39:49.477Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the Purpose of the Student Essay?
 
  According to the [Merriam-Webster dictionary](https://www.merriam-webster.com/dictionary/essay), an essay is "an analytic or interpretative literary composition usually dealing with its subject from a limited or personal point of view." And by going through the word's history, we find that essay derives from the old Frech word _essai_, which itself is from the Latin _exagium_, which means the act of weighing.
@@ -41,12 +37,16 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 ![student thinking about what to write on their essay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/student-thinking-about-what-to-write-on-their-essay.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Furthermore, the [Western Sydney University Library](https://www.westernsydney.edu.au/%5F%5Fdata/assets/pdf%5Ffile/0005/1082498/Essay%5FPurpose.pdf) (PDF) states that an essay's purpose is to "persuade the reader that your position is credible (i.e., believable and reasonable)." This means that a student shouldn't just argue their case in an essay, but they should do so in a logical way.
 
  So, for many professors, the student essay is an excellent tool for developing critical thinking. It's also not as taxing for the students since most essays are take-home assignments.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Libraries, Internet Search, and Analytical Thinking vs. ChatGPT
 
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 ![a library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-library.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When online search peaked, research became much easier for students. They no longer had to go through tons of books, magazines, and articles across different libraries—type in some choice keywords and separate the wheat from the chaff in the results.
@@ -71,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
  This is the basic gist of [how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/): when you ask ChatGPT anything, it doesn't send you to an article or a website. Instead, it goes through all its stored information and recognizes patterns based on what it has learned. From there, it will return an answer it predicts will satisfy your need.
 
  ChatGPT and generative AI generally do not analyze information for you. However, it will deliver results that previous writers have already processed. And, based on your question, it can also give you related results.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## AI as a Learning Tool: Harnessing ChatGPT to Improve Understanding
 
@@ -96,13 +92,13 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
  In short, AI is a powerful learning tool, but it's just a tool nonetheless. Students must still use their critical thinking to produce their final output. So, whether you're a student or a professional, you must ensure that you use ChatGPT ethically—and here are some [ways writers and editors can use AI responsibly](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AI as a Cheating Tool: Making Plagiarism Much Easier and Harder to Detect
 
 ![student cheating on an exam with their phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/student-cheating-on-an-exam-with-their-phone-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  However, as with any new technology, some students misuse it. Because ChatGPT answers questions by predicting the correct response, it will paraphrase its sources. So, it's tempting for many to copy and paste what ChatGPT regurgitated from the internet.
 
@@ -122,9 +118,17 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
  The biggest thing that generative AI like ChatGPT cannot do is write about personal experience. After all, a student's life isn't generally available online, so generative AI cannot predict that student's life.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Write Essay Questions in the Context of Current Events
 
 ![news and current affairs on a newspaper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/news-and-current-affairs-on-a-newspaper.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The free version of ChatGPT, the most popular generative AI today, is only updated up to September 2021 at the time of writing. So, it would help to ask essay questions relating to events that happened in the past three months.
 
@@ -141,10 +145,6 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
  If an essay is the best way to determine a student's understanding of a topic, then it should be limited in the classroom during on-paper exams. That way, the student must rely solely on their knowledge to explain a topic.
 
 ![two students essay writing during class](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/essay-writing-during-class.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Essays Can Still Gauge Student Knowledge and Competence
 
@@ -173,19 +173,24 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ssential-techniques-in-creating-youtube-thumbnails-that-stand-out-for-2024/"><u>[New] Essential Techniques in Creating YouTube Thumbnails That Stand Out for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-guide-to-efficiently-retrieve-youtubes-srt-files/"><u>[New] Guide to Efficiently Retrieve YouTube's SRT Files</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-xr-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone XR Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cinematic-clarity-hub-query-responses-for-2024/"><u>Cinematic Clarity Hub Query Responses for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-discourse-divergence-what-sets-gpt-and-bingbot-apart/"><u>Digital Discourse Divergence: What Sets GPT and BingBot Apart?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-power-in-canva-for-mass-outputs/"><u>Harnessing AI Power in Canva for Mass Outputs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo X Fold 2? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-samsung-galaxy-xcover-7-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Samsung Galaxy XCover 7 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-time-saving-approaches-to-turn-whatsapp-audios-into-mp3-format/"><u>In 2024, Time-Saving Approaches to Turn WhatsApp Audios Into MP3 Format</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-conversations-just-add-chatgpt-and-android/"><u>Mastering Conversations - Just Add ChatGPT & Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-deadlines-with-the-assistance-of-chatgpt/"><u>Mastering Deadlines with the Assistance of ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mindful-interaction-gpt-powered-counseling-practices/"><u>Mindful Interaction: GPT-Powered Counseling Practices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/turings-legacy-can-machines-ever-outsmart-humans/"><u>Turing's Legacy: Can Machines Ever Outsmart Humans?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-meta-quest-3-launch-insight-on-release-timeline-and-detailed-specifications/"><u>Upcoming Meta Quest 3 Launch: Insight on Release Timeline & Detailed Specifications</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-enhancing-aural-experience-fading-techniques-in-lumafusion/"><u>[New] In 2024, Enhancing Aural Experience Fading Techniques in Lumafusion</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-starting-an-online-platform-for-consumer-goods-reviews/"><u>[Updated] 2024 Approved Starting an Online Platform for Consumer Goods Reviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-thrilling-enhancements-explore-the-3-major-meta-quest-updates-poised-to-revolutionize-gaming-and-leisure-experiences/"><u>1. Thrilling Enhancements: Explore the 3 Major Meta Quest Updates Poised to Revolutionize Gaming and Leisure Experiences!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analyzing-consumer-desire-through-vision-pro-a-look-at-shipping-rates-for-the-latest-apple-xr-gear-zdnet/"><u>Analyzing Consumer Desire Through Vision Pro - A Look at Shipping Rates for the Latest Apple XR Gear | ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203946404-cant-send-your-document-to-print-top-tier-tips-for-quick-solutions/"><u>Can't Send Your Document to Print? Top-Tier Tips for Quick Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-hacks-create-a-vintage-vhs-look-for-2024/"><u>Final Cut Pro Hacks Create a Vintage VHS Look for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-the-lowdown-on-samsung-galaxy-z-flip-6-find-out-when-it-arrives-and-what-it-costs/"><u>Get the Lowdown on Samsung Galaxy Z Flip 6! Find Out When It Arrives and What It Costs</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-social-synergy-add-friends-effortlessly-on-devices/"><u>In 2024, Social Synergy Add Friends Effortlessly on Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/limited-time-offer-get-your-discounted-oculus-quest-2-now-for-only-199-zdnet/"><u>Limited Time Offer: Get Your Discounted Oculus Quest 2 Now For Only $199 | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-obstacles-in-digital-twin-implementation-a-guide-of-7-key-issues-for-business-success-zdnet/"><u>Overcoming Obstacles in Digital Twin Implementation - A Guide of 7 Key Issues for Business Success | ZDNet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/proven-strategies-for-effective-chromebook-zooming/"><u>Proven Strategies for Effective Chromebook Zooming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-remote-tech-roles-with-vr-and-digital-twins-a-deep-dive-by-zdnet/"><u>Revolutionizing Remote Tech Roles with VR and Digital Twins – A Deep Dive by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-giants-samsung-google-and-qualcomm-unite-for-groundbreaking-xr-collaboration-before-apple-enters-the-arena-exclusive-insights-zdnet/"><u>Tech Giants Samsung, Google & Qualcomm Unite for Groundbreaking XR Collaboration Before Apple Enters the Arena: Exclusive Insights | ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-2-step-plan-to-a-viral-youtube-video-for-2024/"><u>The 2-Step Plan to a Viral YouTube Video for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-top-virtual-reality-challenge-usage-strategy-according-to-an-industry-pro-zdnet/"><u>The Top Virtual Reality Challenge? Usage Strategy, According to an Industry Pro | ZDNet</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/top-5-mp3-to-wav-online-transcoders-the-ultimate-guide-to-free-audio-format-conversion/"><u>Top 5 MP3 to WAV Online Transcoders: The Ultimate Guide to Free Audio Format Conversion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-meta-quest-3-assessment-top-virtual-reality-gear-for-everyday-users-zdnet-guide/"><u>Ultimate Meta Quest 3 Assessment: Top Virtual Reality Gear for Everyday Users - ZDNet Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-is-quest-3-outshining-other-virtual-reality-headsets-unveiling-key-user-preferences-at-zdnet/"><u>Why Is Quest 3 Outshining Other Virtual Reality Headsets? Unveiling Key User Preferences at ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding GPT-3: A Walkthrough in OpenAI"
-date: 2024-12-21T03:26:21.143Z
-updated: 2024-12-22T01:03:06.939Z
+date: 2024-12-23T17:56:42.433Z
+updated: 2024-12-27T20:43:04.967Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/4eda12f29d27dc48951952fd718d2893baf3c477f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is OpenAI Playground?
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/4eda12f29d27dc48951952fd718d2893baf3c477f
 3. Once that's done, click **Playground** from the navigation menu at the top of the screen. It will bring you to the **Chat** mode page, with some adjustable settings in the sidebar.  
 ![Screenshot of OpenAI's Playground interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-interface-gpt3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Enter a Prompt
 
  To use GPT-3, you will need to enter what's called a prompt. A prompt could be a question, an instruction, or even an incomplete sentence, to which the model will generate a completion.
@@ -64,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/4eda12f29d27dc48951952fd718d2893baf3c477f
 ![Screenshot of Complete mode interface in OpenAI Playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-complete-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also experiment with the **Edit** mode, which you can use to submit a text and check for grammatical errors.
@@ -73,15 +69,15 @@ thumbnail: https://thmb.techidaily.com/4eda12f29d27dc48951952fd718d2893baf3c477f
 
 ![Screenshot of OpenAI Playground prompt completion.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/openai-playground-prompt-dog-names.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The response listed different names for small dog **breeds** like Poodle, Chihuahua, and Yorkshire Terrier. However, we were hoping to get some suggestions for pet names. So let's try again, this time using the keywords "pet names" and "small fluffy dog."
 
  This time, the results turned out closer to what we imagined with a list of names like Biscuit, Fido, and Gizmo.
 
 ![Screenshot of OpenAI Playground prompt completion listing dog pet names.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/openai-playground-prompt-dog-pet-names.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Experiment With Different Ideas and Prompts
 
@@ -89,21 +85,29 @@ thumbnail: https://thmb.techidaily.com/4eda12f29d27dc48951952fd718d2893baf3c477f
 
 ![Screenshot showing GPT-3 translating a phrase into five languages.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/gpt3-translate-language.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  These days, AI is finding its way into all sorts of apps. You can check out [all the things you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/), which, as mentioned, is an AI chatbot built by the same company and developed using the GPT-3 language model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Keep Track of Your OpenAI Playground Credits
 
 ![Screenshot of usage stats in OpenAI Playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-usage-stats.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Before getting carried away with using OpenAI Playground, quickly look at your usage stats to see how many credits you have to spend. In the top right corner of the page, click on **Personal** \> **Manage account**, then click **Usage** from the navigation bar on the left.
 
  Tokens are used to calculate the fees, and they are based on how many words, or groups of characters, you use in a prompt; this also includes the text result you get from GPT-3\. You can see how many tokens you use each time in the bottom right of the text box area.
 
  Tokens are then translated to dollars, of which you have $5 to spend in the first three months (previously $18). It's a strange pricing model to wrap your head around at first, but what matters is that it's more than enough to play with. When we tested it out over a couple of days, we only used $0.11 from our total.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Switch to a Different GPT Model
 
@@ -118,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/4eda12f29d27dc48951952fd718d2893baf3c477f
 * **Ada:** The fastest model in the family with the lowest costs; use this model if you don't require precise answers. It's especially recommended for creative applications rather than generating detailed and exact information.
 
  Remember that you'll still incur costs for each model you choose, but the cost per token will vary.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Improve Your Results
 
@@ -174,19 +174,15 @@ thumbnail: https://thmb.techidaily.com/4eda12f29d27dc48951952fd718d2893baf3c477f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/lear-youtubes-obscured-visual-field-for-2024/"><u>[New] Clear Youtube's Obscured Visual Field for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-art-of-converting-faded-photos-into-dynamic-videos/"><u>[Updated] 2024 Approved The Art of Converting Faded Photos Into Dynamic Videos</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-ace-your-shots-top-cameras-and-lenses-for-youtubers/"><u>[Updated] In 2024, Ace Your Shots Top Cameras & Lenses for YouTubers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726223477411-wmamp4-movavi/"><u>快速免費線上WMA至MP4變更: 經驗超群的Movavi音像檔轉換器</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726222398645-avi/"><u>了解AVI文件: 詳細介紹、內容以及在多媒體設備上如何運行</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cambia-archivo-m4b-por-formato-aac-sin-costo-alguno-con-convertidor-online-de-movavi/"><u>Cambia Archivo M4B Por Formato AAC Sin Costo Alguno Con Convertidor Online De Movavi</u></a></li>
-<li><a href="https://win-studio.techidaily.com/dai-una-spinta-ai-tuoi-file-come-recuperare-e-accedere-alle-tue-partizioni-ext4ext3-utilizzando-windows/"><u>Dai Una Spinta Ai Tuoi File: Come Recuperare E Accedere Alle Tue Partizioni Ext4/Ext3 Utilizzando Windows</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expertise-in-mending-broken-jpegs/"><u>Expertise in Mending Broken JPEGs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guia-completa-como-hacer-video-llamadas-con-skype-desde-telefonos-inteligentes-y-ordenadores/"><u>Guía Completa: Cómo Hacer Video Llamadas Con Skype Desde Teléfonos Inteligentes Y Ordenadores</u></a></li>
-<li><a href="https://driver-install.techidaily.com/improve-graphics-in-win11-with-hp-drivers/"><u>Improve Graphics in Win11 with HP Drivers</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-x-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone X in the Best Ways</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/master-the-art-of-powerpoint-security-learn-how-to-set-strong-passwords-for-your-slideshows-by-yl-software-experts/"><u>Master the Art of PowerPoint Security: Learn How to Set Strong Passwords for Your Slideshows by YL Software Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mkvm4v-movavi/"><u>무료 제공: 인터넷을 통해 MKV/M4V 형식 전환, Movavi를 사용한 기술</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/aif-mp4-movavi/"><u>コレクトフリーネット AIF 動画MP4変換ソフト - Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-notorious-0xc00d36b4-windows-sound-issue/"><u>Fixing the Notorious 0XC00D36B4 Windows Sound Issue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/game-development-transformed-by-ai-driven-innovations/"><u>Game Development Transformed by AI-Driven Innovations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-most-reliable-external-hdds-for-xbox-users/"><u>In 2024, Most Reliable External HDDs for Xbox Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-the-vault-how-chatbots-limit-our-speech-for-a-safer-space/"><u>Inside the Vault: How Chatbots Limit Our Speech for a Safer Space</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-xiaomi-redmi-note-13-proplus-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Xiaomi Redmi Note 13 Pro+ 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/secure-fb-links-8plus-comprehensive-no-cost-downloaders-for-23/"><u>Secure FB Links 8+ Comprehensive, No-Cost Downloaders for '23</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-artisans-path-empowering-writers-with-chatgpt/"><u>The Artisan’s Path: Empowering Writers with ChatGPT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-top-four-giants-of-the-social-sphere-facebook-twitter-instagram-youtube/"><u>The Top Four Giants of the Social Sphere: Facebook | Twitter | Instagram | YouTube</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-ultimate-comparison-of-leading-photoshop-fixing-applications/"><u>The Ultimate Comparison of Leading Photoshop Fixing Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-generative-ai/"><u>What Is Generative AI?</u></a></li>
 </ul></div>
 

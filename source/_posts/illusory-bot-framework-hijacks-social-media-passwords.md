@@ -1,7 +1,7 @@
 ---
 title: "Illusory Bot Framework: Hijacks Social Media Passwords"
-date: 2024-12-17T21:06:02.458Z
-updated: 2024-12-21T18:30:34.970Z
+date: 2024-12-26T21:03:03.665Z
+updated: 2024-12-27T21:51:57.698Z
 tags:
   - chatgpt
   - open-ai
@@ -45,7 +45,7 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably [sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Thousands of Facebook Accounts May Have Been Compromised
@@ -55,7 +55,7 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Malicious App Has Been Removed from Chrome
@@ -63,7 +63,7 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT's Name Is Consistently Used by Scammers
@@ -87,21 +87,24 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-ultimate-cut-for-quality-offline-ipad-gaming/"><u>[New] 2024 Approved The Ultimate Cut for Quality Offline iPad Gaming</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-top-tricks-to-control-music-paceplay-in-spotify/"><u>[New] In 2024, Top Tricks to Control Music Paceplay in Spotify</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-wise-approach-to-organize-youtube-content-into-chapters/"><u>2024 Approved Step-Wise Approach to Organize YouTube Content Into Chapters</u></a></li>
-<li><a href="https://fox-info.techidaily.com/capture-the-big-picture-the-best-11-bridge-cameras-guide-for-2024/"><u>Capture the Big Picture The Best 11 Bridge Cameras Guide for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-gpt-autonomy-distinctions-from-conversational-ai/"><u>Discovering GPT Autonomy - Distinctions From Conversational AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/five-student-driven-uses-for-ai-tutor-chatgpt/"><u>Five Student-Driven Uses for AI Tutor: ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gptbot-enigma-ai-potential-vs-cybersecurity-hurdles/"><u>GPTBot Enigma: AI Potential Vs. Cybersecurity Hurdles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-nightshade-to-protect-your-artwork-from-generative-ai/"><u>How to Use Nightshade to Protect Your Artwork From Generative AI</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oppo-reno-10-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Oppo Reno 10 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/speedyshot-echoloop-media-for-2024/"><u>SpeedyShot EchoLoop Media for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/talk-anytime-anywhere-android-meets-chatgpt/"><u>Talk Anytime, Anywhere - Android Meets ChatGPT</u></a></li>
-<li><a href="https://win-latest.techidaily.com/the-insiders-guide-to-understanding-and-resolving-laggy-network-performance-issues/"><u>The Insider's Guide to Understanding & Resolving Laggy Network Performance Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-free-ai-art-creation-tools/"><u>Top 5 Free AI Art Creation Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/twitters-smiley-sweep-linuss-tech-truths-trojans-explained-and-gpt-glitches/"><u>Twitters Smiley Sweep, Linus’s Tech Truths, Trojans Explained, & GPT Glitches.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-compatibility-achieved-for-qualcomms-atheros/"><u>Windows 11 Compatibility Achieved for Qualcomm's Atheros</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210063742-9781071551875-ta-diagwnismata-ths-megkan/"><u>Τα διαγωνίσματα της Μέγκαν | Free Book</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-enhancing-engagement-30-outstanding-video-concepts/"><u>[New] 2024 Approved Enhancing Engagement 30 Outstanding Video Concepts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-beginners-pathway-building-a-simple-youtube-signup-for-2024/"><u>[Updated] A Beginner’s Pathway Building a Simple YouTube Signup for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-compelling-freefire-vids-with-strategy-guide-for-2024/"><u>[Updated] Crafting Compelling FreeFire Vids with Strategy Guide for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-revolutionize-your-social-media-experience-with-premier-tools-for-2024/"><u>[Updated] Revolutionize Your Social Media Experience with Premier Tools for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-iphone-15-pro-max-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On iPhone 15 Pro Max How to Bypass?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-conventional-wisdom-discovering-next-gen-careers-shaped-by-artificial-intelligence-zdnets-deep-dive/"><u>Beyond Conventional Wisdom: Discovering Next-Gen Careers Shaped by Artificial Intelligence | ZDNet's Deep Dive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-numbers-understanding-the-complexities-of-staff-changes-in-leading-technology-firms/"><u>Beyond Numbers: Understanding the Complexities of Staff Changes in Leading Technology Firms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boost-your-income-on-reddit-with-these-13-strategies-for-2024/"><u>Boost Your Income on Reddit with These 13 Strategies for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-networking-strategies-for-introverts-unveiled-by-experts-at-zdnet/"><u>Effective Networking Strategies for Introverts Unveiled by Experts at ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embracing-innovation-how-ai-transforms-developers-into-visionary-business-leaders-insights-from-zdnet/"><u>Embracing Innovation: How AI Transforms Developers Into Visionary Business Leaders - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emerging-roles-in-software-management-with-the-advent-of-generative-ai-insights-on-zdnet/"><u>Emerging Roles in Software Management with the Advent of Generative AI | Insights on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emerging-software-supervision-in-the-age-of-generative-ai-understanding-new-leadership-positions/"><u>Emerging Software Supervision in the Age of Generative AI: Understanding New Leadership Positions</u></a></li>
+<li><a href="https://games-able.techidaily.com/face-to-face-fun-uncovering-the-coolest-mobile-dual-players-top-15/"><u>Face to Face Fun: Uncovering the Coolest Mobile Dual Players (Top 15)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-kitchen-to-code-your-roadmap-for-switching-careers-into-technology-with-zdnet-insights/"><u>From Kitchen to Code: Your Roadmap for Switching Careers Into Technology with ZDNet Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/graphics-correction-step-by-step-windows-11/"><u>Graphics Correction: Step-by-Step Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-k70-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi K70 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-ai-skills-without-stress-insights-by-zdnet/"><u>Mastering AI Skills Without Stress: Insights by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-the-challenge-of-complex-ai-systems-for-non-techies-diverse-education-strategies-revealed-by-zdnet/"><u>Overcoming the Challenge of Complex AI Systems for Non-Techies | Diverse Education Strategies Revealed by ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-tweaking-windows-metadata-dates/"><u>The Ultimate Guide to Tweaking Windows Metadata Dates</u></a></li>
 </ul></div>
 

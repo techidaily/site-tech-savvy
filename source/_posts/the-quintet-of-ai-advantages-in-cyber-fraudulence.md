@@ -1,7 +1,7 @@
 ---
 title: The Quintet of AI Advantages in Cyber Fraudulence
-date: 2024-12-14T16:27:24.142Z
-updated: 2024-12-22T00:52:41.033Z
+date: 2024-12-21T17:31:05.075Z
+updated: 2024-12-27T21:53:42.594Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Writing Malware
@@ -55,7 +55,7 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  These figures show how dangerous AI password cracking can be. With the ability to crack most regular passwords in less than 24 hours, there's no knowing what a cybercriminal could do using such a tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Conducting Social Engineering
@@ -67,7 +67,7 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  In this sense, AI could also help in making malicious communications look more professional and official by ironing out spelling and grammar mistakes. Such errors are often said to be possible signs of malicious activity, so it may help cybercriminals if they can write their social engineering content more cleanly and effectively.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Finding Software Vulnerabilities
@@ -82,7 +82,7 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
 ![Data on Laptop Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/data-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Data is as valuable as gold. Today, [sensitive data is sold on dark web marketplaces](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) on a constant basis, with some malicious actors willing to pay a very high price if the information is useful enough.
@@ -92,7 +92,7 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  Using AI, the process of highlighting valuable information could be streamlined, cutting down the time it takes for a malicious actor to determine what is worth selling, or, on the other hand, directly exploiting by their own hand. Artificial intelligence, at its core, is all about learning, so it could one day become easy to use an AI-powered tool to pick up on valuable sensitive data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI Is Promising but Also Poses Many Threats
@@ -116,20 +116,22 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-video-to-mp3-converting-hacks/"><u>[New] 2024 Approved Instagram Video-to-MP3 Converting Hacks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-epic-battle-royale-thumbnails-done-fast-for-2024/"><u>[New] Epic Battle Royale Thumbnails, Done Fast for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-manual-to-assembling-a-top-tier-4k-editing-pc/"><u>[New] The Ultimate Manual to Assembling a Top-Tier 4K Editing PC</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-10-commandments-of-eye-catching-podcast-album-imagery-for-2024/"><u>[Updated] 10 Commandments of Eye-Catching Podcast Album Imagery for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-unlock-your-creative-potential-top-7-hidden-tiktok-emojis/"><u>[Updated] In 2024, Unlock Your Creative Potential Top 7 Hidden TikTok Emojis</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unveiling-hidden-truths-about-instagram-viewers/"><u>[Updated] Unveiling Hidden Truths About Instagram Viewers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/challenge-the-chatgpt-token-count-norms/"><u>Challenge the ChatGPT Token Count Norms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/correcting-contact-details-in-protonvpn-extension/"><u>Correcting Contact Details in ProtonVPN Extension</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-nokia-c300-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Nokia C300</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/maximizing-impact-on-insta-story-with-multiple-images/"><u>Maximizing Impact on Insta Story with Multiple Images</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigate-through-idea-stagnation-with-these-5-ai-assistants/"><u>Navigate Through Idea Stagnation With These 5 AI Assistants</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-your-interviewing-techniques-with-chatgpt/"><u>Optimize Your Interviewing Techniques with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quit-juxtaposing-ai-pros-and-cons-insightful-observations/"><u>Quit Juxtaposing AI Pros & Cons: Insightful Observations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/seamless-3d-cinema-at-home-best-3d-blu-ray-systems/"><u>Seamless 3D Cinema at Home Best 3D Blu-Ray Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-allure-of-gpt-to-malicious-actors/"><u>The Allure of GPT to Malicious Actors</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-decoding-video-thread-embellishments/"><u>[New] In 2024, Decoding Video Thread Embellishments</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-record-and-share-moments-instantly-using-vlcs-webcam-recorder/"><u>[Updated] 2024 Approved Record & Share Moments Instantly Using VLC's Webcam Recorder</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-unveiling-the-art-of-quiet-video-capture-methods/"><u>[Updated] 2024 Approved Unveiling the Art of Quiet Video Capture Methods</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ahead-of-the-curve-activating-meta-quest-3s-ai-features-before-apple-vision-pro/"><u>Ahead of the Curve: Activating Meta Quest 3'S AI Features Before Apple Vision Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/all-about-the-apple-vision-pro-costs-capabilities-and-hands-on-experiences-revealed-wired/"><u>All About the Apple Vision Pro: Costs, Capabilities, and Hands-On Experiences Revealed | Wired</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-your-digital-twins-with-ai-key-elements-and-best-practices-for-modern-enterprises-expert-analysis-on-zdnet/"><u>Building Your Digital Twins with AI: Key Elements and Best Practices for Modern Enterprises | Expert Analysis on ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-sonys-latest-professional-grade-xr-headset-surpassing-the-vision-pro-with-two-must-have-features-for-apple/"><u>Discover Sony's Latest Professional-Grade XR Headset: Surpassing the Vision Pro with Two Must-Have Features for Apple</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-connect-your-airpods-to-windows-pcs-seamlessly-updated-solutions/"><u>Expert Advice: Connect Your AirPods to Windows PCs Seamlessly - Updated Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-efficiency-essential-7-strategies-in-windows-11/"><u>Maximizing Efficiency: Essential 7 Strategies in Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/qr-code-reading-woes-on-iphones-discover-6-simple-troubleshooting-tips/"><u>QR Code Reading Woes on iPhones? Discover 6 Simple Troubleshooting Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/three-key-actions-apple-needs-to-take-to-revive-and-enhance-the-future-of-to-rescue-vision-pro/"><u>Three Key Actions Apple Needs to Take to Revive and Enhance the Future of To Rescue Vision Pro</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/troubleshooting-how-to-stop-starcraft-2-from-freezing-or-crashing-on-your-pc/"><u>Troubleshooting: How to Stop Starcraft 2 From Freezing or Crashing on Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/viewing-apples-innovative-3d-spatial-videos-on-your-meta-quest-3-a-step-by-step-guide-tech-insights/"><u>Viewing Apple's Innovative 3D Spatial Videos on Your Meta Quest 3: A Step-by-Step Guide | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-exclusive-apples-vision-pro-unveils-at-launch-with-over-600-specialized-applications/"><u>ZDNet Exclusive: Apple's Vision Pro Unveils at Launch With Over 600 Specialized Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-reveals-samsungs-new-schedule-for-high-tech-vr-glasses-post-vision-pro-led-breakthrough-end-of-2024-on-the-horizon/"><u>ZDNet Reveals Samsung's New Schedule for High-Tech VR Glasses Post Vision Pro Led Breakthrough - End of 2024 on the Horizon</u></a></li>
 </ul></div>
 

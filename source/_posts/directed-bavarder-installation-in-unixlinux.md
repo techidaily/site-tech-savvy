@@ -1,7 +1,7 @@
 ---
 title: Directed Bavarder Installation in Unix/Linux
-date: 2024-12-16T00:43:13.021Z
-updated: 2024-12-21T18:37:46.316Z
+date: 2024-12-25T20:37:02.149Z
+updated: 2024-12-27T21:45:42.131Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is ChatGPT?
 
  Okay, let's back up. Maybe you aren't yet familiar with ChatGPT. It's a chatbot that you can communicate with by typing into a window in your web browser. You can raise questions or make requests, such as [ask ChatGPT what to watch next on Netflix](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) or [have the chatbot help you with your job search](https://www.makeuseof.com/practical-ways-to-use-chatgpt-job-search/).
@@ -36,16 +40,12 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 
  ChatGPT's intelligence comes from the large language model that it learns from. ChatGPT was originally based on OpenAI's GPT 3.5 model, though this is no longer the newest version. GPT stands for "generative pre-trained transformer" and refers to this particular type of large language model.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Bavarder?
 
 ![The Linux Bavarder chatbot desktop app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/linux-bavarder-chatbot-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Bavarder is an app that enables you to "chit-chat" with artificial intelligence. Bavarder is built specifically for GNOME, [the most widely-used interface on Linux PCs](https://www.makeuseof.com/ways-gnome-is-best-linux-desktop/). But Bavarder works on other desktop environments as well.
@@ -56,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 
  Some of the providers utilize the same learning models as ChatGPT, but that doesn't mean you can expect them to generate the same results as ChatGPT would. But to the average person, BAI Chat probably comes off as close enough to the same thing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Download Bavarder
 
  Bavarder is available in [a universal package format known as flatpak](https://www.makeuseof.com/flatpak-for-beginners/) that works across most versions of Linux. You can download Bavarder from Flathub.
@@ -67,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 **Download:**[Bavarder](http://flathub.org/apps/io.github.Bavarder.Bavarder)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use Bavarder on Linux
@@ -81,12 +77,16 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 ![Selecting a provider in the Bavarder Linux chatbot app.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bavarder-linux-chatbot-providers.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The app may seem to load for quite a while before providing a response. If you were to use BAI chat via [chatbot.theb.ai](http://chatbot.theb.ai/#/chat) in a browser, you would see your answer arrive a few words at a time as though the chatbot were typing.
 
  Bavarder only delivers the answer all at once, so you have to wait for the AI to finish "thinking" rather than watch it think in real time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should You Use Bavarder on Linux?
 
@@ -113,22 +113,21 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-custom-youtube-shorts-thumbnails-effortlessly-for-2024/"><u>[New] How to Add Custom YouTube Shorts Thumbnails Effortlessly for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-maximize-game-time-top-10-ps5-external-hddssd/"><u>[New] In 2024, Maximize Game Time Top 10 PS5 External HDD/SSD</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-beyond-samsung-gear-360-top-alternative-cameras-of-2023/"><u>[Updated] Beyond Samsung Gear 360 Top Alternative Cameras of 2023</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-swiftly-remove-live-videos-on-social-platforms/"><u>[Updated] In 2024, Swiftly Remove Live Videos on Social Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boosting-browsers-conversational-power-our-top-7-plugin-lists/"><u>Boosting Browsers' Conversational Power: Our Top 7 Plugin Lists</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-through-gpt-3-limits-solving-four-common-problems/"><u>Breaking Through GPT-3 Limits: Solving Four Common Problems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-through-the-noise-persuasive-proposals-and-chatgpt/"><u>Cutting Through The Noise: Persuasive Proposals & ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-personal-well-being-with-leading-8-plugins/"><u>Elevate Personal Well-Being with Leading 8 Plugins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-bards-ai-evolution-7-innovative-traits-announced/"><u>Exploring Bard's AI Evolution: 7 Innovative Traits Announced</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-a-disappearing-point-on-windows-11-a-comprehensive-guide/"><u>Fixing a Disappearing Point on Windows 11 – A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-gpt-4-but-platinum-plan-holds-6-significant-perks-still-intact/"><u>Free GPT-4, but Platinum Plan Holds 6 Significant Perks Still Intact.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-code-to-conversation-ai-written-tales/"><u>From Code to Conversation: AI' Written Tales</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-capture-unrooted-sounds-in-android-4-methods/"><u>In 2024, Capture Unrooted Sounds in Android [4 Methods]</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-s24-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy S24 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/top-5-online-youtube-mp3-converters-free-and-easy/"><u>Top 5 Online YouTube-MP3 Converters, Free and Easy</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-window-11s-best-kept-secrets-for-maximum-productivity-for-2024/"><u>Unlocking WINDOW 11'S Best-Kept Secrets for Maximum Productivity for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/vital-upgrades-to-revolutionize-the-gpt-plugin-registry/"><u>Vital Upgrades to Revolutionize the GPT Plugin Registry</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-comprehensible-walkthrough-finding-your-youtube-remarks-for-2024/"><u>[Updated] A Comprehensible Walkthrough Finding Your YouTube Remarks for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonizing-workplay-by-incorporating-podcast-listening/"><u>[Updated] Harmonizing Work/Play by Incorporating Podcast Listening</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-trends-and-techniques-for-skyrocketing-youtube-views/"><u>[Updated] In 2024, Trends and Techniques for Skyrocketing YouTube Views</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-game-magic-captured-advanced-methods-for-logging-virtual-realities/"><u>[Updated] In-Game Magic Captured Advanced Methods for Logging Virtual Realities</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>10 Best Fake GPS Location Spoofers for Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai/"><u>AIファイルのコンパクト化手順：初めてのユーザー向け指南</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-new-soundscape-explore-klipschs-flexus-200/"><u>Discovering the New Soundscape: Explore Klipsch's Flexus 200</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-persistent-chatgpt-logs-retention/"><u>Ensuring Persistent ChatGPT Logs Retention</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-gpt-plug-ins-the-ultimate-list-to-explore/"><u>Essential GPT Plug-Ins: The Ultimate List to Explore</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gauging-true-worth-of-chatgpt-pro/"><u>Gauging True Worth of ChatGPT Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/no-more-tracking-ditch-the-chatgpt-service/"><u>No More Tracking? Ditch the ChatGPT Service</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-intellectual-property-during-ai-conversations/"><u>Protecting Intellectual Property During AI Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-document-creation-in-word-via-chatgpt/"><u>Streamline Document Creation in Word via ChatGPT</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-fix-for-asymmetric-screen-lines-on-laptops/"><u>Swift Fix for Asymmetric Screen Lines on Laptops</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-discounts-on-the-latest-apple-watches-find-your-perfect-fit/"><u>Top-Rated Discounts on the Latest Apple Watches - Find Your Perfect Fit</u></a></li>
 </ul></div>
 

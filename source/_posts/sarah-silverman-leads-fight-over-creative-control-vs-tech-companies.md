@@ -1,7 +1,7 @@
 ---
 title: Sarah Silverman Leads Fight Over Creative Control Vs. Tech Companies
-date: 2024-12-16T21:50:26.257Z
-updated: 2024-12-21T21:52:47.680Z
+date: 2024-12-26T16:54:54.508Z
+updated: 2024-12-27T21:01:50.560Z
 tags:
   - chatgpt
   - open-ai
@@ -29,23 +29,19 @@ thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dde
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Sarah Silverman and Other Artists Are Suing Open AI and Meta
 
 ![Person having a chat on ChatGPT](https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5163c7ab05139a28f15cb6cd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In [a class action lawsuit](https://llmlitigation.com/pdf/03416/silverman-openai-complaint.pdf) \[PDF\] filed in California, comedian Sarah Silverman and other writers (Christopher Golden and Richard Kadrey) seek to recover damages against OpenAI and Meta over copyright infringement. The lawsuit alleges OpenAI and Meta scraped copyrighted books from pirate websites to train their AI models. This is the equivalent of an AI model downloading its training datasets from Piratebay without compensating the authors.
 
  Coincidentally, a [separate class action lawsuit](https://storage.courtlistener.com/recap/gov.uscourts.cand.414822/gov.uscourts.cand.414822.1.0%5F1.pdf) \[PDF\] against OpenAI alleges the company used unauthorized private information to train ChatGPT. Google is also facing a similar lawsuit over allegedly using stolen data to train Google Bard. This is why you should [make it a habit to protect your personal information](https://www.makeuseof.com/online-safety-habits-data-privacy/), though publishing work and private personal data are not the same.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are the Chances Sarah Silverman Could Win the Lawsuit?
@@ -53,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dde
 ![Ai cloud with robot head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ai-cloud-with-robot-head.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-head%5F32471117.htm)
@@ -64,12 +60,16 @@ Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-h
 
  If it's proven that OpenAI and Meta used illegal torrent websites to acquire copyrighted materials to train its AI models, Silverman may have a shot of winning the lawsuit. However, AI models are uncharted territory with no precedent for courts to rely on to make a ruling based on AI copyright infringement. In fact, that's one of the reasons why [the EU proposed an AI Act.](https://www.makeuseof.com/what-is-the-eu-ai-act-how-would-it-affect-chatgpt/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Future of AI Models and Copyright Law?
 
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We're still in the early days of AI to know how it will adapt to copyright law. It's even more complex trying to figure out [who owns the copyright to AI creation](https://www.makeuseof.com/who-owns-copyright-to-ai-creations/). But for human creators, regulations exist to protect them against someone else accessing their copyrighted material without compensation, consent, or credit. If the rules exist for humans, will they apply to AI models?
@@ -101,22 +101,20 @@ Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-discover-the-secret-to-friends-livestream-participation-for-2024/"><u>[New] Discover the Secret to Friend's Livestream Participation for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-enhancing-mobile-broadcasting-via-obs-strategies-for-2024/"><u>[New] Enhancing Mobile Broadcasting via OBS Strategies for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-mastering-the-art-of-frames-with-top-rated-tools-24/"><u>[New] Mastering the Art of Frames with Top-Rated Tools '24</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-best-matches-top-ten-gimbals-for-quality-shoots/"><u>[Updated] 2024 Approved Best Matches Top Ten Gimbals for Quality Shoots</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-effortless-file-exchange-5-routes-to-computers/"><u>[Updated] 2024 Approved Effortless File Exchange 5 Routes to Computers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-powerdirector-pro-complete-2024-users-manual/"><u>[Updated] PowerDirector Pro Complete 2024 User's Manual</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-from-social-media-savant-to-money-maker-on-instagram/"><u>2024 Approved From Social Media Savant to Money Maker on Instagram</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-barriers-gpts-quadruple-boost-to-fame/"><u>Breaking Barriers: GPT's Quadruple Boost to Fame</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-the-gap-with-ai-the-case-for-using-chatgpts-7-ways-in-healthcare/"><u>Bridging the Gap with AI: The Case for Using ChatGPT's 7 Ways in Healthcare</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-we-fully-reliance-on-zerogpt-doubts-remain/"><u>Can We Fully Reliance On ZeroGPT? Doubts Remain</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-mastery-an-apple-centric-approach-to-dialogue/"><u>ChatGPT Mastery: An Apple-Centric Approach to Dialogue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-compelling-content-while-relying-on-chatgpt/"><u>Crafting Compelling Content While Relying on ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/creative-horizons-broadened-by-chatbot-innovations/"><u>Creative Horizons Broadened by Chatbot Innovations</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-v-purse-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Honor V Purse</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-art-of-iphone-photos-arrangement-strategies-and-icloud-coordination-for-2024/"><u>The Art of iPhone Photos Arrangement Strategies and iCloud Coordination for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-proco-advantage-copilots-advanced-offering/"><u>The Proco Advantage - Copilot's Advanced Offering</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transferring-knowledge-in-ai-an-insight-into-transfer-learning/"><u>Transferring Knowledge in AI: An Insight Into Transfer Learning</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-essential-knowledge-for-hosting-effective-split-screen-events-on-facebook-for-2024/"><u>[New] Essential Knowledge for Hosting Effective Split Screen Events on Facebook for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-flight-pioneers-face-off-dji-vs-gopro/"><u>[Updated] Flight Pioneers Face Off DJI vs GoPro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/access-real-time-forex-data-with-ease-incorporating-current-exchange-rates-into-your-excel-worksheets/"><u>Access Real-Time Forex Data with Ease: Incorporating Current Exchange Rates Into Your Excel Worksheets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bert-and-gpt-demystified-nlp-model-showdown-explained/"><u>BERT & GPT Demystified: NLP Model Showdown Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conceptual-canvas-chatai-and-brainstraning-techniques/"><u>Conceptual Canvas: ChatAI & Brainstraning Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-hubs-for-ai-prompt-sharing/"><u>Cutting-Edge Hubs for AI Prompt Sharing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essence-of-turing-test-and-possibility-to-surpass/"><u>Essence of Turing Test and Possibility to Surpass</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-halt-government-and-kidnap-alerts-on-iphone-for-a-peaceful-screen-experience/"><u>How to Halt Government and Kidnap Alerts on iPhone for a Peaceful Screen Experience</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-xr-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone XR? Heres the Best Fixes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/review-of-ecovacs-winbot-w2-omni-unveiling-the-marvels-and-quirks-of-a-robotic-glass-cleaning-innovator/"><u>Review of Ecovacs Winbot W2 Omni: Unveiling the Marvels & Quirks of a Robotic Glass Cleaning Innovator</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-corsair-keyboards-lights-fix-and-illuminate/"><u>Reviving Your Corsair Keyboard's Lights - Fix and Illuminate</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-interruptions-ultimate-solution-to-world-of-tanks-blitz-stability-problems/"><u>Stop Interruptions: Ultimate Solution to World of Tanks Blitz Stability Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-digital-symphony-blizzard-and-microsoft-harmonize-gaming-and-ai-mastery-podcast-exploration/"><u>The Digital Symphony: Blizzard and Microsoft Harmonize Gaming & AI Mastery [Podcast Exploration]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-great-bot-war-googles-bard-vs-microsofts-bing-chat/"><u>The Great Bot War: Google’s Bard Vs. Microsoft's Bing Chat</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-forefront-ai-and-is-it-better-than-chatgpt/"><u>What Is Forefront AI and Is It Better Than ChatGPT?</u></a></li>
 </ul></div>
 

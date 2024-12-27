@@ -1,7 +1,7 @@
 ---
 title: Experience the Future of Math with iPad's Cutting-Edge Calculator App - Worth Investing in an Apple Pencil! [ZDNet Review]
-date: 2024-12-15T21:10:27.369Z
-updated: 2024-12-21T20:08:44.596Z
+date: 2024-12-21T16:32:19.869Z
+updated: 2024-12-27T17:21:39.849Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ Yet, the true test of these innovations lies not in their specifications but in 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hardware maturity no longer sells devices
@@ -59,7 +59,7 @@ This durability is a testament to Apple's commitment to sustainable design and s
 To overcome this, Apple must redefine its device value proposition and demonstrate that new hardware advancements are crucial for the next generation of digital experiences. This could involve unlocking new [AI capabilities](https://www.zdnet.com/article/apple-builds-a-slimmed-down-ai-model-using-stanford-google-innovations/), transforming everyday interactions through augmented reality, or pushing the boundaries of what's possible on mobile devices with applications previously reserved for high-end desktops. Apple can reignite consumer interest and drive new upgrades by aligning cutting-edge hardware with compelling, functional software.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The software challenge: catching up to hardware
@@ -73,7 +73,7 @@ Imagine an iPadOS where AI doesn't just improve photo editing, but transforms ev
 Moreover, with the integration of AI features anticipated in iOS 18 and iPadOS 18, Apple seems poised to redefine the user experience. These features must be more than just incremental updates, however -- they must be transformative. Apple's promise of AI capabilities must manifest in tangible ways that change how we interact with our devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Generative AI: Apple's new frontier
@@ -101,7 +101,7 @@ The potential applications of on-device AI are vast:
 These developments would not just be incremental improvements but could redefine the functionality of mobile devices. By pushing the boundaries of what on-device generative AI can achieve, Apple is poised to enhance user engagement and open up new opportunities in personalized technology and AI-driven services. This strategic integration of advanced AI could propel Apple to the forefront of the technology innovation curve, making its devices indispensable tools for the next generation of users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The road ahead: WWDC 2024 and beyond
@@ -135,7 +135,7 @@ Such a setup necessitates Apple to invest more in cloud infrastructure, which it
 At WWDC, Apple must articulate how it plans to balance these technological advancements with user-centric design. Demonstrating OpenELM's potential to power features such as real-time multilingual translation, advanced content creation, and personalized recommendations while ensuring data privacy will be critical to convincing users of the value these AI capabilities add.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A call for innovation
@@ -180,22 +180,18 @@ Apple has the opportunity to lead and redefine the next wave of personal computi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/adapting-chatgpt-for-cross-cultural-dialogues/"><u>Adapting ChatGPT for Cross-Cultural Dialogues</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oneplus-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your OnePlus Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://solve-info.techidaily.com/automated-with-cookiebot-streamlined-data-collection-and-analytics/"><u>Automated with Cookiebot: Streamlined Data Collection and Analytics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-protected-fitness-regimens-with-chatgpt/"><u>Crafting Protected Fitness Regimens with ChatGPT</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915179991-discover-popular-sites-connect-and-share-on-facebook-twitter-instagram-youtube/"><u>Discover Popular Sites: Connect and Share on Facebook, Twitter, Instagram, Youtube!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-chatgpt-with-kids-and-adults-alike/"><u>Exploring ChatGPT with Kids and Adults Alike</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/halt-comparing-virtual-assistants-dive-into-distinct-traits/"><u>Halt Comparing Virtual Assistants: Dive Into Distinct Traits</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-perfecting-webp-conversion-to-jpeg-format/"><u>In 2024, Perfecting WebP Conversion to JPEG Format</u></a></li>
-<li><a href="https://fox-http.techidaily.com/inside-vitas-advanced-video-editing-tools-full-review-and-expert-tutorial-2024/"><u>Inside Vita's Advanced Video Editing Tools Full Review & Expert Tutorial 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-advanced-analysis-in-google-docs-and-spreadsheets/"><u>Navigating Advanced Analysis in Google Docs & Spreadsheets</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-5-best-online-tone-generators-free-and-simple-for-2024/"><u>New 5 Best Online Tone Generators Free & Simple for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sarah-silverman-leading-the-charge-against-ai-dominance/"><u>Sarah Silverman Leading the Charge Against AI Dominance</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-best-free-online-introduction-systems-for-2024/"><u>Step-by-Step Best Free Online Introduction Systems for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-perils-of-fraudgpt-how-to-evade-its-snares/"><u>The Perils of FraudGPT: How to Evade Its Snares</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-tips-for-selecting-an-ideal-surge-protector-for-home-and-office-gadgets/"><u>Top Tips for Selecting an Ideal Surge Protector for Home and Office Gadgets</u></a></li>
-<li><a href="https://win-web3.techidaily.com/troubleshooting-windows-hardware-setup-challenges-with-guidance-from-yl-software-experts/"><u>Troubleshooting Windows Hardware Setup Challenges with Guidance From YL Software Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/whats-the-maximum-wordcharacter-count-in-chatgpt/"><u>What's The Maximum Word/Character Count in ChatGPT?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleashing-the-power-of-time-lapse-photography-using-gopro/"><u>[New] Unleashing the Power of Time-Lapse Photography Using GoPro</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-capture-comprehensive-screen-shot-for-2024/"><u>[Updated] Capture Comprehensive Screen Shot for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fusing-frequencies-smoothly-with-logic-pro-x-methods/"><u>[Updated] Fusing Frequencies Smoothly with Logic Pro X Methods</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-cinematic-evolution-the-best-youtube-guides-for-new-filmmakers/"><u>2024 Approved Cinematic Evolution The Best YouTube Guides for New Filmmakers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-oneplus-nord-3-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from OnePlus Nord 3 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/federal-communications-commission-greenlights-enhanced-6ghz-spectrum-use-for-virtual-reality-and-augmented-reality-devices-insights-from-zdnet/"><u>Federal Communications Commission Greenlights Enhanced 6GHz Spectrum Use for Virtual Reality & Augmented Reality Devices - Insights From ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-moto-g04-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola Moto G04? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolution-in-augmented-reality-unveiling-apples-upcoming-headset-with-groundbreaking-ocular-and-manual-recognition-as-reported-by-zdnet/"><u>Revolution in Augmented Reality: Unveiling Apple’s Upcoming Headset with Groundbreaking Ocular & Manual Recognition, as Reported by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-giant-apple-postpones-release-date-for-ar-eyeglasses-shifts-focus-to-innovative-mixed-reality-headsets/"><u>Tech Giant Apple Postpones Release Date for AR Eyeglasses; Shifts Focus to Innovative Mixed Reality Headsets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-giants-marvel-as-apple-unveils-cutting-edge-vision-pro-studios-insider-info-via-zdnet/"><u>Tech Giants Marvel as Apple Unveils Cutting-Edge 'Vision Pro' Studios - Insider Info via ZDNET!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-main-challenge-with-vr-current-usage-and-insights-from-industry-experts-techzdnet/"><u>The Main Challenge with VR: Current Usage and Insights From Industry Experts | TechZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-samsung-galaxy-a54-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Samsung Galaxy A54 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-apple-developer-tools-aimed-at-enhancing-ios-17-and-visionos-what-you-need-to-know/"><u>Upcoming Apple Developer Tools Aimed at Enhancing iOS 17 & VisionOS: What You Need to Know</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Outdated or Not: Does GPT Writeups for Students?"
-date: 2024-12-17T16:20:00.196Z
-updated: 2024-12-21T21:11:29.431Z
+date: 2024-12-20T21:00:57.581Z
+updated: 2024-12-27T17:01:00.304Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Purpose of the Student Essay?
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
 ![student thinking about what to write on their essay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/student-thinking-about-what-to-write-on-their-essay.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Furthermore, the [Western Sydney University Library](https://www.westernsydney.edu.au/%5F%5Fdata/assets/pdf%5Ffile/0005/1082498/Essay%5FPurpose.pdf) (PDF) states that an essay's purpose is to "persuade the reader that your position is credible (i.e., believable and reasonable)." This means that a student shouldn't just argue their case in an essay, but they should do so in a logical way.
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
 
 ![a library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-library.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When online search peaked, research became much easier for students. They no longer had to go through tons of books, magazines, and articles across different libraries—type in some choice keywords and separate the wheat from the chaff in the results.
 
  But even with the faster search results, they still had to use their critical thinking skills to analyze the data and write what they learned. And while it's easier to plagiarize now, as you just have to copy and paste the data from your browser to your word processor, teachers can easily catch this form of cheating.
@@ -63,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
  However, when ChatGPT launched, students discovered it was more than just a research and summarizing tool. ChatGPT uses natural language processing (NLP—[what is NLP?](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/)) to understand your search intent, and then it conversationally answers your question.
 
 ![chatgpt site open on desktop monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chat-gpt-pc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This is the basic gist of [how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/): when you ask ChatGPT anything, it doesn't send you to an article or a website. Instead, it goes through all its stored information and recognizes patterns based on what it has learned. From there, it will return an answer it predicts will satisfy your need.
 
@@ -96,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
 
 ![student cheating on an exam with their phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/student-cheating-on-an-exam-with-their-phone-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, as with any new technology, some students misuse it. Because ChatGPT answers questions by predicting the correct response, it will paraphrase its sources. So, it's tempting for many to copy and paste what ChatGPT regurgitated from the internet.
 
  And because ChatGPT's results are mostly unique, it isn't easy to spot them. And although [OpenAI launched a detection tool](https://www.makeuseof.com/openai-launches-ai-detector-counter-chatgpt/) to counter ChatGPT-generated text, it isn't as effective at detecting them. We've already read a report from [The Washington Post](https://www.washingtonpost.com/technology/2023/04/01/chatgpt-cheating-detection-turnitin/) where a ChatGPT detector returned a false positive, and [The Conversation](https://theconversation.com/we-pitted-chatgpt-against-tools-for-detecting-ai-written-text-and-the-results-are-troubling-199774) published a piece on how AI detectors are easily outsmarted.
@@ -105,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
  The problem is, with ChatGPT around, it could be challenging to assess someone's knowledge on a topic using an essay, making the whole point of essays in the first place a bit redundant. Some people could use ChatGPT to understand a topic better, while others will use it to pretend that they learned what a class was teaching, or some mix in between.
 
  Because of this, educators must find ways to make student essays more robust. For example, they can no longer assign general topics—like a book report on The Great Gatsby—because it's easy for students to ask ChatGPT or any other generative AI tool to write it for them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Student Essays Need to Evolve to Survive AI
 
@@ -121,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
 ### Write Essay Questions in the Context of Current Events
 
 ![news and current affairs on a newspaper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/news-and-current-affairs-on-a-newspaper.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The free version of ChatGPT, the most popular generative AI today, is only updated up to September 2021 at the time of writing. So, it would help to ask essay questions relating to events that happened in the past three months.
 
@@ -143,7 +139,11 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
 ![two students essay writing during class](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/essay-writing-during-class.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Essays Can Still Gauge Student Knowledge and Competence
@@ -173,16 +173,18 @@ thumbnail: https://thmb.techidaily.com/06b7f9bb308a2f230442ff554dbb6dddbc8b32cf4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-videoleap-zoom-hacks-for-detailed-video-insight/"><u>[New] Videoleap Zoom Hacks for Detailed Video Insight</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-stream-smoothly-with-obs-studio-on-your-android/"><u>[Updated] 2024 Approved Stream Smoothly with OBS Studio on Your Android</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-uncomplicated-approach-for-smooth-iphone-screening/"><u>[Updated] In 2024, Uncomplicated Approach for Smooth Iphone Screening</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-unlocking-video-potential-the-creme-de-la-creme-browser-recorders/"><u>[Updated] Unlocking Video Potential The Crème De La Crème Browser Recorders</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/an-insiders-view-on-creating-effective-slug-lines/"><u>An Insider's View on Creating Effective Slug Lines</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augmenting-creativity-with-8-ai-writing-technologies/"><u>Augmenting Creativity with 8 AI Writing Technologies</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-infinix-gt-10-pro-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Infinix GT 10 Pro.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-worlds-of-gigantic-intelligent-language-models/"><u>Inside Worlds of Gigantic, Intelligent Language Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-utilizing-anthropics-claude-tools/"><u>Step-by-Step: Utilizing Anthropic's Claude Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stepwise-construction-of-a-web-app-powered-by-chatgpt/"><u>Stepwise Construction of a Web App Powered by ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-essentials-of-using-llama-2-for-business-success/"><u>The Essentials of Using Llama 2 for Business Success</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-total-360-giroptic-vr-capture-examination/"><u>[New] Total 360 Giroptic VR Capture Examination</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-quick-start-mastering-ez-grabbers-downloading-and-usage/"><u>[Updated] In 2024, Quick Start Mastering EZ Grabber's Downloading & Usage</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-viewing-youtube-video-reactions-and-votes/"><u>[Updated] Mastering the Art of Viewing YouTube Video Reactions and Votes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/download-the-original-pc-word-processing-program-gratis/"><u>Download the Original PC Word Processing Program, Gratis!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/enhance-playstation-2-experience-top-5-android-emulators/"><u>Enhance PlayStation 2 Experience Top 5 Android Emulators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meta-quest-3-vs-apple-vision-pro-showdown-evaluating-mark-zuckerbergs-insights-techzdnet/"><u>Meta Quest 3 Vs. Apple Vision Pro Showdown: Evaluating Mark Zuckerberg's Insights | TechZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-corporate-productivity-how-the-apple-vision-pro-is-revitalizing-modern-enterprises-insights-from-industry-leaders/"><u>Revolutionizing Corporate Productivity: How the Apple Vision Pro Is Revitalizing Modern Enterprises - Insights From Industry Leaders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-oculus-quest-2-now-for-an-unbeatable-price-of-199-insider-tips-from-zdnet/"><u>Secure Your Oculus Quest 2 Now for an Unbeatable Price of $199 | Insider Tips From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surprising-black-friday-sales-how-virtual-reality-headsets-beat-apples-airpods/"><u>Surprising Black Friday Sales: How Virtual Reality Headsets Beat Apple's AirPods</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-8-best-no-cost-editing-software-for-social-media-for-2024/"><u>The 8 Best No-Cost Editing Software for Social Media for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-v30-lite-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo V30 Lite 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-superman-cinematic-journey-watch-every-movie-in-sequence/"><u>The Complete Superman Cinematic Journey - Watch Every Movie in Sequence</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-honor-magic5-ultimate-by-drfone-android/"><u>Top 10 Password Cracking Tools For Honor Magic5 Ultimate</u></a></li>
 </ul></div>
 

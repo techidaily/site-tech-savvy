@@ -1,7 +1,7 @@
 ---
 title: Inside Worlds of Gigantic, Intelligent Language Models
-date: 2024-09-12T07:35:35.203Z
-updated: 2024-09-13T07:35:35.203Z
+date: 2024-12-26T17:17:50.823Z
+updated: 2024-12-27T19:46:46.437Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 
  Of course, having a huge database of text is one thing, but LLMs need to be trained to make sense of it to produce human-like responses. How it does this is what we cover next.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do LLMs Work?
 
  How do LLMs use these repositories to create their responses? The first step is to analyze the data using a process called deep learning.
@@ -49,10 +53,7 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 ![Screenshot of question about bats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-bats.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, it isn't infallible, and as this example shows, sometimes you will need to supply additional information to get the desired response.
@@ -63,18 +64,15 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 
 ![Screenshot of question about what type of wood is a bat made from](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-what-type-of-wood-is-a-bat-made-from.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To generate these responses, LLMs use a technique called natural language generation (NLG). This involves examining the input and using the patterns learned from its data repository to generate a contextually correct and relevant response.
 
  But LLMs go deeper than this. They can also tailor replies to suit the emotional tone of the input. When combined with contextual understanding, the two facets are the main drivers that allow LLMs to create human-like responses.
 
  To summarize, LLMs use a massive text database with a combination of deep learning and NLG techniques to create human-like responses to your prompts. But there are limitations to what this can achieve.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Are the Limitations of LLMs?
 
@@ -89,52 +87,27 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 
  There is also an argument that ethical concerns can be considered a limitation of LLMs, but this subject falls outside the scope of this article.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3 Examples of Popular LLMs
 
  The continuing advance of AI is now largely underpinned by LLMs. So while they aren't exactly a new technology, they have certainly reached a point of critical momentum, and there are now many models.
 
  Here are some of the most widely used LLMs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. GPT
 
  Generative Pre-trained Transformer (GPT) is perhaps the most widely known LLM. GPT-3.5 powers the ChatGPT platform used for the examples in this article, while the newest version, GPT-4, is available [through a ChatGPT Plus subscription](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Microsoft also uses the latest version [in its Bing Chat platform](https://www.makeuseof.com/chatgpt-vs-bing-chat-best-generative-ai-chatbot/).
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. LaMDA
 
  This is the initial LLM used by Google Bard, Google's AI chatbot. The version Bard was initially rolled out with was described as a "lite" version of the LLM. The more powerful PaLM iteration of the LLM superseded this.
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. BERT
 
@@ -154,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 4. **Greater Integration**: LLMs could become personal digital assistants. Think of Siri on steroids, and you get the idea. LLMs could become virtual assistants that help you with everything from suggesting meals to dealing with your correspondence.
 
  These are just a few of the areas where LLMs are likely to become a larger part of the way we live.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## LLMs Transforming and Educating
 
@@ -185,5 +151,26 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mastering-video-capture-a-review-of-recmeisters-capabilities/"><u>[Updated] In 2024, Mastering Video Capture A Review of Recmeister's Capabilities</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-innovate-your-iphones-selfie-quality-the-10-best-free-apps/"><u>[Updated] Innovate Your iPhone's Selfie Quality The 10 Best Free Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/15-for-your-next-tech-leap/"><u>15 for Your Next Tech Leap</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-generating-funny-images-through-adobe/"><u>2024 Approved Generating Funny Images Through Adobe</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-make-your-screenshots-stand-out-the-ultimate-ios-and-android-app-list/"><u>2024 Approved Make Your Screenshots Stand Out The Ultimate iOS & Android App List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-updates-recognizing-when-your-device-is-now-vintage-or-obsolete-insights-and-consequences-exclusive/"><u>Apple Updates: Recognizing When Your Device Is Now Vintage or Obsolete – Insights and Consequences Exclusive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/confronting-the-most-irritating-iphone-flaws-why-apple-must-act-now/"><u>Confronting the Most Irritating iPhone Flaws - Why Apple Must Act Now.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-the-future-of-math-with-ipads-cutting-edge-calculator-app-worth-investing-in-an-apple-pencil-zdnet-review/"><u>Experience the Future of Math with iPad's Cutting-Edge Calculator App - Worth Investing in an Apple Pencil! [ZDNet Review]</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/high-definition-beach-scenes-premium-wallpaper-and-background-graphics-by-yl-computing/"><u>High-Definition Beach Scenes: Premium Wallpaper & Background Graphics by YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-15-analysis-a-top-pick-for-professionals-and-beyond-insights/"><u>IPhone 15 Analysis: A Top Pick for Professionals and Beyond – Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-16-design-enhancements-make-repairs-simpler-compared-to-previous-models-insights-from-apple/"><u>IPhone 16 Design Enhancements Make Repairs Simpler Compared to Previous Models - Insights From Apple</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-paper-reading-with-chatgpts-4-highly-effective-techniques/"><u>Optimize Paper Reading with ChatGPT's 4 Highly Effective Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalize-ai-with-precision/"><u>Personalize AI with Precision</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/quick-guide-to-troubleshoot-instagram-videos/"><u>Quick Guide to Troubleshoot Instagram Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-workflow-transformation-with-ai-writing-assistants/"><u>Seamless Workflow Transformation with AI Writing Assistants</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-2022-winter-games-zenith-of-snowboard-cross-for-2024/"><u>The 2022 Winter Games Zenith of Snowboard Cross for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-quintet-of-ai-advantages-in-cyber-fraudulence/"><u>The Quintet of AI Advantages in Cyber Fraudulence</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-hardware-your-go-to-hub-for-reliable-pc-advice-and-reviews/"><u>Tom's Hardware: Your Go-To Hub for Reliable PC Advice & Reviews</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whats-new-with-samsung-galaxy-s2e-foretelling-price-release-plans-and-specifications/"><u>What's New with Samsung Galaxy S2e: Foretelling Price, Release Plans & Specifications?</u></a></li>
+</ul></div>
 

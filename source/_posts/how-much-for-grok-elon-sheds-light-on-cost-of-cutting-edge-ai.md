@@ -1,7 +1,7 @@
 ---
 title: How Much for Grok? - Elon Sheds Light on Cost of Cutting-Edge AI
-date: 2024-12-17T00:22:05.504Z
-updated: 2024-12-21T17:08:42.269Z
+date: 2024-12-23T20:27:59.883Z
+updated: 2024-12-27T17:36:52.491Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
 
  Musk has talked xAI's Grok up, but does it have what it takes to compete?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is xAI's Grok?
 
  Despite Musk regularly reminding the world that AI could be bad, that it could create a world without jobs for regular folks (if you believe Musk's take on this is benign, I have a bridge to sell you), and that the entire focus of AI needs greater governance, Musk proudly proclaimed on X that "In some important aspects, it \[Grok\] is the best that current exists."
@@ -61,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
  Musk has also observed that Grok's direct internet access will give it an advantage over other generative AI tools that lack access.
 
  Currently, it's difficult to say whether Grok is better than ChatGPT, and it's clear that Grok is speeding forward based on the work already laid out by other AI research companies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Much Will Grok Cost? Who Can Use Grok?
 
@@ -114,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
 
  Currently, it's difficult to say whether Grok is better than ChatGPT, and it's clear that Grok is speeding forward based on the work already laid out by other AI research companies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Much Will Grok Cost? Who Can Use Grok?
 
  Grok is still currently in early testing. Limited beta access has been granted to a small number of X Premium Plus users, which currently costs $16 per month. Once Grok leaves its beta period, it will become available to all X Premium Plus subscribers, dangling a weighty AI-shaped carrot over X verification.
@@ -155,7 +167,7 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
  For any casual observer, Musk's chortling about being based is anything but, landing more on the toe-curling plane of discomfort, delivering a visceral sense of embarrassment. But for Musk's legion of fans, xAI's Grok is the long-awaited "answer to the monstrosity of WokeGPT," a reference to the boundaries and perceived neutering of ChatGPT's capabilities by OpenAI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Does Grok Perform? Is Grok Better Than ChatGPT?
@@ -170,10 +182,6 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
 
  Currently, it's difficult to say whether Grok is better than ChatGPT, and it's clear that Grok is speeding forward based on the work already laid out by other AI research companies.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Much Will Grok Cost? Who Can Use Grok?
 
  Grok is still currently in early testing. Limited beta access has been granted to a small number of X Premium Plus users, which currently costs $16 per month. Once Grok leaves its beta period, it will become available to all X Premium Plus subscribers, dangling a weighty AI-shaped carrot over X verification.
@@ -185,7 +193,7 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
  Musk has indicated that a separate version of Grok may launch in the future, but there is little information on that at the current time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's Next for xAI's Grok?
@@ -204,10 +212,6 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
 
  Musk has talked xAI's Grok up, but does it have what it takes to compete?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is xAI's Grok?
 
  Despite Musk regularly reminding the world that AI could be bad, that it could create a world without jobs for regular folks (if you believe Musk's take on this is benign, I have a bridge to sell you), and that the entire focus of AI needs greater governance, Musk proudly proclaimed on X that "In some important aspects, it \[Grok\] is the best that current exists."
@@ -222,6 +226,10 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
 
  For any casual observer, Musk's chortling about being based is anything but, landing more on the toe-curling plane of discomfort, delivering a visceral sense of embarrassment. But for Musk's legion of fans, xAI's Grok is the long-awaited "answer to the monstrosity of WokeGPT," a reference to the boundaries and perceived neutering of ChatGPT's capabilities by OpenAI.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Does Grok Perform? Is Grok Better Than ChatGPT?
 
  Given only a minute number of users have been given access to Grok so far, most of what we know about its performance comes from xAI. The company was keen to stress that "Grok is still a very early beta product" and that its current performance is "the best we could do with 2 months of training."
@@ -234,10 +242,6 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
 
  Currently, it's difficult to say whether Grok is better than ChatGPT, and it's clear that Grok is speeding forward based on the work already laid out by other AI research companies.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Much Will Grok Cost? Who Can Use Grok?
 
  Grok is still currently in early testing. Limited beta access has been granted to a small number of X Premium Plus users, which currently costs $16 per month. Once Grok leaves its beta period, it will become available to all X Premium Plus subscribers, dangling a weighty AI-shaped carrot over X verification.
@@ -247,10 +251,6 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
  I would expect xAI to release an earlier version of Grok for free, or at least, much cheaper, in the hope that it encourages users to upgrade to the full version. Another issue that may stand in the way of Grok uptake is its current direct link to X Premium Plus. There may be users that want to subscribe to Grok but don't want X verification or one of Musk's paid-for Blue Ticks next to their name—something else for Musk, X, and xAI to wrestle with.
 
  Musk has indicated that a separate version of Grok may launch in the future, but there is little information on that at the current time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What's Next for xAI's Grok?
 
@@ -273,24 +273,24 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-audiovisual-quality-its-significance-in-video-ranking/"><u>[Updated] 2024 Approved Audiovisual Quality Its Significance in Video Ranking</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-essentials-of-elevating-your-youtube-entrance-ranks-for-2024/"><u>[Updated] The Essentials of Elevating Your Youtube Entrance Ranks for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-language-masters-comparing-bert-and-gpt-deep-insights/"><u>AI's Language Masters: Comparing BERT & GPT Deep Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-digital-art-with-chatgpts-ai-insights/"><u>Crafting Digital Art with ChatGPT's AI Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/create-dynamic-mouse-and-keyboard-input-capture-videos-with-movavis-advanced-screen-recording-tools/"><u>Create Dynamic Mouse & Keyboard Input Capture Videos with Movavi's Advanced Screen Recording Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-the-differences-between-claude-pro-and-gptplusplus/"><u>Discovering the Differences Between Claude Pro and GPT+Plus</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-privacy-focused-search-engine-a-closer-look-at-duckduckgos-safety-features/"><u>Exploring the Privacy-Focused Search Engine: A Closer Look at DuckDuckGo's Safety Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-the-conversation-going-fixes-for-voice-chat-problems-in-black-ops-cold-war/"><u>Getting the Conversation Going: Fixes for Voice Chat Problems in Black Ops: Cold War</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harness-the-power-of-dall-e-for-webp-to-png-and-jpeg-transitions/"><u>Harness the Power of DALL-E for WebP to PNG & JPEG Transitions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/how-to-add-filters-effects-and-masks-in-google-meet-for-2024/"><u>How to Add Filters, Effects, and Masks in Google Meet for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-13-mini-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-fictional-landscapes-using-chatai/"><u>Innovating Fictional Landscapes Using ChatAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/paving-the-path-for-auto-gpt-installation/"><u>Paving the Path for Auto-GPT Installation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/penning-perils-identifying-ai-assisted-texts-in-literature/"><u>Penning Perils: Identifying AI-Assisted Texts in Literature</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-pros-and-cons-of-choosing-language-bots-as-a-self-employed-professional/"><u>The Pros & Cons of Choosing Language Bots as a Self-Employed Professional</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/troubleshooting-guide-fixing-non-loading-web-pages-in-chrome/"><u>Troubleshooting Guide: Fixing Non-Loading Web Pages in Chrome</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-iphones-latest-feature-effortless-inbuilt-phone-call-recordings-on-ios-18no-extra-software-required-cnet/"><u>Unveiling iPhone's Latest Feature: Effortless Inbuilt Phone Call Recordings on iOS 18—No Extra Software Required! | CNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-emotion-ai-and-can-it-really-understand-our-feelings/"><u>What Is Emotion AI and Can It Really Understand Our Feelings?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-premiere-mkv-player-suite-pcmobile/"><u>[New] Premiere MKV Player Suite (PC/Mobile)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-audioadventurers-venturing-without-dacast/"><u>[Updated] AudioAdventurers Venturing Without DaCast</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-gopro-max-versus-hero-11-ultimate-review-guide/"><u>[Updated] GoPro Max Versus Hero 11 Ultimate Review Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-core-concepts-in-digital-animation/"><u>[Updated] In 2024, Core Concepts in Digital Animation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2023s-ultimate-guide-to-portable-audio-devices-zdnet-reviews-and-comparisons/"><u>2023'S Ultimate Guide to Portable Audio Devices: ZDNet Reviews and Comparisons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-ultimate-picks-by-tech-pros-insights-from-zdnet/"><u>2024'S Ultimate Picks by Tech Pros | Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/amazons-latest-update-introducing-enhanced-ai-english-courses-tailored-for-the-hispanic-community-dive-into-learning-with-alexa/"><u>Amazon's Latest Update: Introducing Enhanced AI English Courses Tailored for the Hispanic Community - Dive Into Learning with Alexa!</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/artistdirect-how-to-convert-and-download-your-favorite-music-videos-in-various-formats-mp4-mov-avi/"><u>ArtistDirect: How to Convert and Download Your Favorite Music Videos in Various Formats (MP4, MOV, AVI)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/better-surround-sound-adventures-the-unexpected-joy-of-ditching-a-high-end-soundbar-for-jbl/"><u>Better Surround Sound Adventures: The Unexpected Joy of Ditching a High-End Soundbar for JBL</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compact-bluetooth-speaker-delivers-rich-immersive-audio-experience-tiny-size-with-full-bodied-sounds/"><u>Compact Bluetooth Speaker Delivers Rich, Immersive Audio Experience - Tiny Size with Full-Bodied Sounds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-top-audio-quality-the-ultimate-non-bose-non-jbl-bluetooth-speaker-that-delivers-powerful-sound/"><u>Discovering Top Audio Quality: The Ultimate Non-Bose, Non-JBL Bluetooth Speaker That Delivers Powerful Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-stop-your-computers-sound-system-from-crackling-in-windows-operating-systems-solution/"><u>How to Stop Your Computer's Sound System From Crackling in Windows Operating Systems (Solution)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-zte-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For ZTE</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-stream-it-record-it-facebook-live-tips-and-tricks/"><u>In 2024, Stream It, Record It Facebook Live Tips & Tricks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-12-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 12</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/iphone-lens-mastery-essential-photography-hacks/"><u>IPhone Lens Mastery Essential Photography Hacks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-tips-and-tricks-for-an-unforgettable-labor-day-celebration-insights-from-zdnet/"><u>Ultimate Guide: Tips and Tricks for an Unforgettable Labor Day Celebration - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-black-friday-bargains-prime-days-finest-amazon-echo-deals-gone-but-not-forgotten-wired/"><u>Unbeatable Black Friday Bargains: Prime Day's Finest Amazon Echo Deals Gone But Not Forgotten | Wired</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-reviews-immersive-soundscape-in-a-compact-wireless-speaker-minimal-distortion-and-maximum-performance/"><u>ZDNet Reviews: Immersive Soundscape in a Compact Wireless Speaker - Minimal Distortion & Maximum Performance</u></a></li>
 </ul></div>
 

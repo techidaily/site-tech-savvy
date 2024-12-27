@@ -1,7 +1,7 @@
 ---
 title: Breaking Down the Turing Test & Its Possibility of Outdoing
-date: 2024-12-18T07:39:27.584Z
-updated: 2024-12-22T06:35:24.594Z
+date: 2024-12-24T21:55:44.981Z
+updated: 2024-12-27T18:53:52.490Z
 tags:
   - chatgpt
   - open-ai
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 ![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Originally called "The Imitation Game," the Turing Test was developed by Alan Turing. Despite its name, the Turing Test is not a true test—at least, not in the common sense of the word. It's more of a thought experiment. Nevertheless, Alan Turing was a highly influential mathematician who formalized many concepts that led to the birth of computer science.
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Drawbacks of the Turing Test
 
  Although the Turing Test aims to find if machines can think, there are some drawbacks.
@@ -63,19 +67,15 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the last ten years, there have been two main claims that the Turing Test has been passed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Eugene Goostman
 
@@ -86,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Google's LaMBDA
@@ -98,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
  Lemoine gave particular focus to an instance where he asked: "What does the word 'soul' mean to you?" Google's LaMDA answered, "To me, the soul is a concept of the animating force behind consciousness and life itself."
 
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Advancement of Computer Intelligence
 
@@ -112,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.
 
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Turing Test Has Not Been Definitively Passed
 
@@ -144,18 +144,24 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-efficiently-capture-and-record-your-idevice-screen/"><u>[New] 2024 Approved Efficiently Capture and Record Your iDevice Screen</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-expert-iphone-macro-photography-tips-and-tricks/"><u>[Updated] 2024 Approved Expert iPhone Macro Photography Tips and Tricks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-down-barriers-sharing-gpt-conversations-safely/"><u>Breaking Down Barriers: Sharing GPT Conversations Safely</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-gear-to-ensure-smooth-video-recording/"><u>In 2024, Premium Gear to Ensure Smooth Video Recording</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-tailored-training-regimens/"><u>Leveraging ChatGPT for Tailored Training Regimens</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/musks-breakdown-understanding-the-function-and-financial-aspects-of-grok-ai/"><u>Musk's Breakdown: Understanding the Function and Financial Aspects of Grok AI</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/resolvido-por-que-el-reproductor-de-unidades-nvme-de-kingston-no-detecta-ssds-en-windows-10/"><u>Resolvido: Por Qué El Reproductor De Unidades NVMe De Kingston No Detecta SSDs en Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-overcoming-the-tfla0002-issue-in-academic-testing/"><u>Step-by-Step Solution: Overcoming the TFLA0002 Issue in Academic Testing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tips-to-surpass-chatgpts-character-threshold/"><u>Tips to Surpass ChatGPT's Character Threshold</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/vision-of-virtual-fortresses-top-7-cyber-forecasts/"><u>Vision of Virtual Fortresses: Top 7 Cyber Forecasts</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/what-is-an-ai-text-generator-in-2024/"><u>What Is an AI Text Generator, In 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/winserial-fix-broken-usb-to-serial-links/"><u>Winserial: Fix Broken USB to Serial Links</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-testimonial-toolkit-for-effective-promotion/"><u>[New] 2024 Approved The Testimonial Toolkit for Effective Promotion</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-obs-vs-modern-broadcasting-tools-a-comparison/"><u>[New] In 2024, OBS Vs. Modern Broadcasting Tools A Comparison</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-gamers-guide-to-high-quality-live-recording/"><u>[Updated] 2024 Approved Gamers' Guide to High-Quality Live Recording</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-increase-viewership-swiftly-5-strategy-unveiled/"><u>[Updated] 2024 Approved Increase Viewership Swiftly - $5 Strategy Unveiled</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-expert-strategies-for-live-streaming-using-obs/"><u>[Updated] Expert Strategies for Live Streaming Using OBS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-xr-solutions-overcome-apples-exclusivity-for-visionpro-users-a-tech-revelation-by-zdnet/"><u>Affordable XR Solutions Overcome Apple's Exclusivity for VisionPro Users - A Tech Revelation by ZDNet!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anticipating-apple-vision-pros-arrival-in-feb-how-it-reimagines-shopping-with-unprecedented-sophistication-zdnet-exclusive/"><u>Anticipating Apple Vision Pro's Arrival in Feb: How It Reimagines Shopping with Unprecedented Sophistication | ZDNet Exclusive</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ating-dailymotion-vs-youtube-profitability-for-2024/"><u>Evaluating Dailymotion vs YouTube Profitability for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-inner-workings-of-apples-vision-pro-discover-my-key-observations-in-teardown-analysis-crafted-for-zdnet-readers/"><u>Exploring the Inner Workings of Apple's Vision Pro: Discover My Key Observations in Teardown Analysis | Crafted for ZDNet Readers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-why-quest-3-outshines-its-rivals-in-user-preference-among-meta-vr-devices/"><u>Exploring Why Quest 3 Outshines Its Rivals in User Preference Among Meta VR Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/frustrated-with-your-apple-vision-pro-virtual-keyboard-experience-master-using-an-actual-keyboard-as-a-superior-alternative/"><u>Frustrated with Your Apple Vision Pro Virtual Keyboard Experience? Master Using an Actual Keyboard as a Superior Alternative</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-enter-the-ispoofer-discord-server-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How to enter the iSpoofer discord server On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-restore-the-meta-branding-in-your-favorite-gaming-headsets-a-guide-around-their-recent-update/"><u>How to Restore the Meta Branding in Your Favorite Gaming Headsets: A Guide Around Their Recent Update</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/learning-curved-picture-correction-for-2024/"><u>Learning Curved Picture Correction for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reviving-ivision-a-strategic-guide-for-apples-critical-actions/"><u>Reviving iVision: A Strategic Guide for Apple's Critical Actions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-xr-glasses-provide-cost-effective-relief-from-apple-vision-pro-fomo-unveiling-the-savvy-choice-by-zdnet/"><u>Revolutionary XR Glasses Provide Cost-Effective Relief From Apple Vision Pro FOMO | Unveiling the Savvy Choice by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-secret-technique-mastering-spatial-recording-on-your-upcoming-iphone-15-pro/"><u>Unveiling the Secret Technique: Mastering Spatial Recording on Your Upcoming iPhone 15 Pro</u></a></li>
 </ul></div>
 

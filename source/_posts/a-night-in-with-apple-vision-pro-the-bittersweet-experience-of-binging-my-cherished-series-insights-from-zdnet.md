@@ -1,7 +1,7 @@
 ---
 title: "A Night In with Apple Vision Pro: The Bittersweet Experience of Binging My Cherished Series | Insights From ZDNet"
-date: 2024-12-19T00:02:56.396Z
-updated: 2024-12-21T23:04:39.213Z
+date: 2024-12-25T19:26:07.854Z
+updated: 2024-12-27T17:59:36.708Z
 tags:
   - apple
 categories:
@@ -33,10 +33,6 @@ June Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How does the Vision Pro look and feel?
 
@@ -78,15 +74,15 @@ Users can control the headset with eye and hand tracking, a feature that's slowl
 
 Vision Pro runs on a new Apple operating system, VisionOS, which resembles the iPadOS interface, bringing Apple's apps and services ecosystem to the headset. VisionOS was created specifically for spatial computing. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is the Apple Vision Pro AR or VR?
 
 The Apple Vision Pro is a mixed-reality headset that combines augmented reality (AR) and virtual reality (VR). This capability means that, when wearing the headset, you can either completely immerse yourself in the virtual reality environment or use the headset to add an augmented reality layer to your environment. 
 
 **Also: [7 upgrades Apple Vision Pro needs to succeed in business](https://www.zdnet.com/article/7-upgrades-apple-vision-pro-needs-to-succeed-in-business/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What can you do with the Vision Pro headset?
 
@@ -134,10 +130,6 @@ Vision Pro scanning a user.
 
 Screenshot by Christina Darby/ZDNET 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How much does the Vision Pro cost?
 
 The Vision Pro has a hefty price tag of $3,499 for the 256GB base storage model, setting a premium category apart from [Meta](https://www.zdnet.com/article/meta-quest-3-unveiled-price-features-and-when-you-can-buy-metas-new-vr-headset/), [HTC](https://www.zdnet.com/article/meetings-in-the-metaverse-our-experience-with-htc-vive-sync/), and other manufacturers that play in the sub-$1,000 range. 
@@ -153,6 +145,10 @@ In addition to the storage modifications, eyeglass wearers also have to factor i
 There are other bells and whistles you can opt for, such as Apple Care+ for $499 for two years or $25 per month, or accessories, such as the $199 Travel Case.
 
 **Also: [Itching to try Vision Pro's Travel Mode? Here's what to expect before you go](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What comes in the Apple Vision Pro box?
 
@@ -172,10 +168,6 @@ However, Apple knows that people who wear glasses need to be able to see to use 
 
 June Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does the Apple Vision Pro have controllers?
 
 One of the standout features of the [Apple Vision Pro](https://www.zdnet.com/article/what-is-apples-vision-pro-price-features-hands-on-insights-and-everything-you-need-to-know/) is its advanced hand tracking, which allows users to forgo using controllers for a more immersive AR/VR experience. Unlike the Meta Quest 3, there is no optional controller. Instead, you rely entirely on hand tracking.
@@ -186,21 +178,25 @@ However, if you want controllers in the future, you may be in luck. Apple recent
 
 **Also: [To rescue the Vision Pro, Apple must do these 3 things](https://www.zdnet.com/article/to-rescue-the-vision-pro-apple-must-do-these-3-things/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When is the Vision Pro available?
 
 The Apple Vision Pro is available for purchase on the Apple website and in stores. Preorders for the device began on January 19, and those units began arriving on February 2\. 
 
 **Also: [These are the Vision Pro apps Apple says will transform healthcare](https://www.zdnet.com/article/these-are-the-vision-pro-apps-apple-says-will-transform-healthcare/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can you try the Vision Pro before buying it?
 
 Yes, you can try the Vision Pro before purchasing by booking a one-on-one demo experience with a specialist at an Apple Store. You can find the booking link on [Apple's website](https://www.apple.com/retail/instore-shopping-session/session-selection/?topic=visionpro). You can also purchase the Vision Pro, try it for yourself, and return it after two weeks. 
 
 **Also: [Apple Vision Pro's in-store demos are better than ever - here's why and how to book one](https://www.zdnet.com/article/apple-vision-pros-in-store-demos-are-better-than-ever-heres-why-and-how-to-book-one/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the return policy on the Apple Vision Pro?
 
@@ -225,6 +221,10 @@ There were many announcements, but some of the highlights included:
 * A guest user option that allows additional users to save their eye and hand data for 30 days
 
 If you want to see the full list, you can read the VisionOS 2 section of this article: [Every new feature Apple unveiled for iPhone, iPad, Mac, and more this fall (including AI)](https://www.zdnet.com/article/every-new-feature-apple-unveiled-for-iphone-ipad-mac-and-more-this-fall-including-ai/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Apple Vision Pro better than Meta Quest 3?
 
@@ -283,18 +283,21 @@ ZDNET experts have Apple Vision Pro headsets in their hands, so stay tuned for m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-from-novice-to-pro-your-complete-guide-to-instagrams-latest-feature-reels-for-2024/"><u>[New] From Novice to Pro – Your Complete Guide to Instagram's Latest Feature, Reels for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-content-with-professional-end-screen-templates/"><u>[New] In 2024, Elevate Your Content with Professional End Screen Templates</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-12-best-sites-for-downloading-yt-template-videos-for-2024/"><u>[Updated] 12 Best Sites for Downloading YT Template Videos for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-depth-recmaster-screen-capture-analysis/"><u>[Updated] In-Depth Recmaster Screen Capture Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augment-your-workflow-access-8-personalized-ais/"><u>Augment Your Workflow: Access 8 Personalized AIs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-basics-tomorrows-enhanced-ai-systems/"><u>Beyond Basics: Tomorrow's Enhanced AI Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deconstructing-ai-vulnerability-unraveling-the-workings-of-prompt-injections/"><u>Deconstructing AI Vulnerability - Unraveling the Workings of Prompt Injections</u></a></li>
-<li><a href="https://win-great.techidaily.com/decouvrez-les-4-techniques-certaines-pour-convertir-un-fichier-raccourci-en-fichier-complet/"><u>Découvrez Les 4 Techniques Certaines Pour Convertir Un Fichier Raccourci en Fichier Complet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/examining-gpt-4s-edge-over-gpt-35/"><u>Examining GPT-4's Edge Over GPT-3.5</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-potential-in-your-podcasts-xml-structure/"><u>In 2024, Unlocking the Potential in Your Podcast's XML Structure</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mastering-visual-stability-stop-screen-flickers/"><u>Mastering Visual Stability: Stop Screen Flickers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-communication-uncover-3-chatbot-privacy-pitfalls/"><u>Secure Communication? Uncover 3 Chatbot Privacy Pitfalls</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-art-of-poem-craft-via-chatgpt-interaction/"><u>The Art of Poem Craft via ChatGPT Interaction</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-how-to-get-paid-on-youtube-from-adsense-to-your-bank-account/"><u>[New] In 2024, How To Get Paid on YouTube - From AdSense to Your Bank Account</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-seamless-media-conversion-from-avis-to-striking-gif-images-via-filmora-software-windowsmacos/"><u>[Updated] Seamless Media Conversion From AVIs to Striking GIF Images via Filmora Software (Windows/macOS)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-creative-cuts-unlocking-tiktoks-potential/"><u>2024 Approved Creative Cuts Unlocking TikTok's Potential</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cutting-edge-storage-solutions-the-premier-server-racks-and-enclosures-revolutionizing-networks-in-202/"><u>Cutting-Edge Storage Solutions: The Premier Server Racks and Enclosures Revolutionizing Networks in 202</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-ai-how-transfer-learning-transforms-data/"><u>Dissecting AI: How Transfer Learning Transforms Data</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-every-aspect-of-existence-with-chatgpt/"><u>Elevate Every Aspect of Existence with ChatGPT</u></a></li>
+<li><a href="https://fox-http.techidaily.com/enabling-pip-for-youtube-viewing-on-your-iphone-for-2024/"><u>Enabling PIP for YouTube Viewing on Your iPhone for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-amend-contact-info-using-protonvpn-extension/"><u>How to Amend Contact Info Using ProtonVPN Extension</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-build-a-custom-chatgpt-with-your-own-data/"><u>How to Build a Custom ChatGPT With Your Own Data</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-approach-to-cover-letter-writing-via-ai/"><u>Innovative Approach to Cover Letter Writing via AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-machines-unpacked-strong-and-weak-classes/"><u>Intelligent Machines Unpacked: Strong and Weak Classes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/programming-bot-to-perfectly-pretend-to-talk-like-us/"><u>Programming Bot to Perfectly Pretend to Talk Like Us</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-hitman-n3-solutions-for-black-screen-problems-on-pc/"><u>Troubleshooting Hitman N°3: Solutions for Black Screen Problems on PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-msodll-not-found-message-efficiently/"><u>Troubleshooting the 'mso.dll Not Found' Message Efficiently</u></a></li>
 </ul></div>
 

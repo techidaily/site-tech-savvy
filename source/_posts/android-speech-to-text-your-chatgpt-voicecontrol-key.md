@@ -1,0 +1,211 @@
+---
+title: Android Speech to Text – Your ChatGPT VoiceControl Key
+date: 2024-12-22T20:24:28.893Z
+updated: 2024-12-27T21:21:55.557Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Android Speech to Text – Your ChatGPT VoiceControl Key
+excerpt: This Article Describes Android Speech to Text – Your ChatGPT VoiceControl Key
+thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b95afc8af67003c49b108b72.jpg
+---
+
+## Android Speech to Text – Your ChatGPT VoiceControl Key
+
+ If you're an Android smartphone user looking for a powerful chatbot assistant that provides advanced features and can also work hands-free, look no further than VoiceGPT.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ The app allows you to control ChatGPT via voice commands. Not only can you record your query with voice input, but you can also use it to perform a variety of tasks within the ChatGPT interface, even when you're on the go. Let's take a closer look at how you can set up and use VoiceGPT on your Android device.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## What Is VoiceGPT?
+
+ VoiceGPT is a multi-functional app that helps you access and control ChatGPT through voice commands. It can perform a wide range of functions, such as text extraction, email writing, or image generation (via DALL-E integration). We'll take a closer look at some of its functionalities in the sections below.
+
+ You can use the app hands-free by setting up hotword activation. Say something like "Hey, Chat" to pull up the app easily. There's also an option to switch from Google Assistant to VoiceGPT as the default voice assistant for your device, but do note that the feature can be rather laggy.
+
+ Though the free version of the app might look a bit clumsy with all the ads, it is easy to use and is great for anyone looking to simplify their daily tasks. There are lots of settings you can use within the app to get it working just how you want it, and it's available in multiple languages.
+
+ To get started, download the app and enable hotword activation for voice inputs. Ads support the free version of the app, however, you have the option to sign up for a monthly subscription for an ad-free experience.
+
+**Download:**[VoiceGPT](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2026716/https://play.google.com/store/apps/details?id=gpt.voice.chatgpt) (Free, subscription available)
+
+## How to Use Voice Input and Text-To-Speech Features With VoiceGPT
+
+ With VoiceGPT, you can interact with and [control ChatGPT using your voice](https://www.makeuseof.com/ways-to-control-chatgpt-with-voice/), making the experience more natural and intuitive than ever before. The app utilizes text-to-speech and talk-back features to enable you to hear responses coming from the ChatGPT interface, providing a seamless and personalized conversational experience. Here's how to set this up:
+
+1. On your device, launch the VoiceGPT app, and log in with your ChatGPT credentials.
+2. To get started with voice inputs, click on the **mic** button in the bottom menu, and grant the required permissions.
+3. Tap the **Home** icon and enable **Show InstaBubble**. This is a floating icon that helps you switch back and forth from the VoiceGPT app.
+4. This will also enable the **Hey, Chat** hotword slider. Tap it to activate.
+5. Once done, speak your query into the app—whatever you say will appear on the ChatGPT interface integrated with the app.
+6. To set the mic to be automatically reactivated, toggle on **Auto Reactivate Microphone**.
+
+![enable hey chat hotword](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-inputs1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![set up voice input in voicegpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-inputs3.jpg)
+
+![voice inputs in voicegpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-inputs2.jpg)
+
+Close
+
+ The talk-back feature is now automatically enabled and will read back the responses generated by ChatGPT. You can continue with your queries using voice inputs.
+
+ Interestingly, you can also use VoiceGPT as the default device assistant if you want to quickly access the app itself. To do this, tap **Home > Settings > Set default Assistant**. This automatically opens up the device assistance settings—just choose **VoiceGPT** from the list of options available.
+
+## How to Access a Database of Pre-Defined Prompts With VoiceGPT
+
+ One of the most exciting features offered by the app is a comprehensive database of pre-defined and custom prompts to help you make the most of the AI tool.
+
+1. To get started, tap the **three-line** icon in the bottom panel to bring up the **Prompts and Categories** page. Hit **Update Prompts** to refresh the entire list of prompts in the database.
+2. Next, tap on any one of the categories and simply fill in the details of your prompt by typing it out or using your device's built-in voice typing feature.
+3. Hit **Execute Prompt** to get relevant responses from ChatGPT.
+
+![Predefined prompts database in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun3.jpg)
+
+![Game prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun1.jpg)
+
+![Fun category prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun2.jpg)
+
+Close
+
+ These prompts range across various categories including coding, music, education, games, travel, email writing, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## How to Use Third-Party Integrations With VoiceGPT
+
+ VoiceGPT isn't only useful when it comes to voice commands. You can also take advantage of its other non-voice integrations, such as extracting text from images, executing code snippets, and generating images with DALL-E 2\. Let's take a look at these features below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Execute Code Snippets With RunGPT
+
+ The RunGPT integration with VoiceGPT enables you to interact with the chatbot to execute a variety of code snippets. To do this, tap the **three-line** icon in the bottom panel.
+
+ Go to **Prompts and Categories > Coding**, choose from a variety of options available, and then fill up the details where required, or simply hit **Execute Prompt**. The chatbot will read the responses back to you.
+
+ For instance, you can use the RunGPT integration to pull up a random password or write out a script. Once done, tap **Run** in the ChatGPT interface to generate your output.
+
+![Predefined prompts database in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun3.jpg)
+
+![Coding prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rungpt3.jpg)
+
+![RunGPT integration for code snippets in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rungpt1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Close
+
+ For those of us looking to optimize and speed up our coding process workflow or simply learn new [programming techniques with ChatGPT](https://www.makeuseof.com/chatgpt-programming-practical-uses/), this feature can be helpful.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Generate AI Images With DALL-E 2
+
+ You can get AI-based images right from within the VoiceGPT app. To get started, hit the **hamburger** icon (the three horizontal lines) in the bottom menu to bring up a confirmation window. Tap **I Understand**, and you'll be redirected to the DALL-E 2 app.
+
+ Simply describe the kind of image you want with detailed prompts. [DALL-E will then generate a few AI-based images](https://www.makeuseof.com/how-to-use-dall-e-2/) that closely match your description.
+
+![Confirmation screen for DALL-E2 in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dall-e1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Dall-e2 interface in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dall-e2.jpg)
+
+![Image prompts in Dall- E2 using VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dall-e3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Close
+
+### Extract Text From Images
+
+ VoiceGPT also has an OCR feature. To use it, simply go to the bottom menu and tap the **image** icon. Next, capture an image with your smartphone camera or choose one from the gallery (such as a receipt or similar) and the app's built-in photo editor will pop up. You can edit or resize the image to your liking.
+
+![ocr in voicegpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ocr1.jpg)
+
+![Image editor in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ocr2.jpg)
+
+![OCR results generated in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ocr3.jpg)
+
+Close
+
+ Undoubtedly, this feature can be a powerful time saver for anyone who needs to extract text from various sources, such as business cards, posters, flyers, or receipts. You can also check out [these OCR apps for your smartphone](https://www.makeuseof.com/tag/best-android-ocr-apps-extracting-text-images/).
+
+## Get More Done With ChatGPT via Voice Commands
+
+ VoiceGPT is a handy app that offers voice-controlled access to the popular ChatGPT model. You can automate certain tasks and make tasks a lot simpler by simply speaking out your requests.
+
+ Whether you need help with drafting an email or writing code, VoiceGPT has got you covered. Besides this, you can add an element of fun to your daily schedule by exploring a few entertainment-based prompts involving music, riddles, and games. VoiceGPT is a must-try app for anyone looking for a convenient way to ease their workflow and increase productivity.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ The app allows you to control ChatGPT via voice commands. Not only can you record your query with voice input, but you can also use it to perform a variety of tasks within the ChatGPT interface, even when you're on the go. Let's take a closer look at how you can set up and use VoiceGPT on your Android device.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-savvy.techidaily.com/ais-capability-gradient-from-subtle-to-supreme/"><u>AI's Capability Gradient: From Subtle to Supreme</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-finest-creations-of-2024-in-depth-iphone-model-comparisons-and-ratings/"><u>Apple's Finest Creations of 2024: In-Depth iPhone Model Comparisons and Ratings</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/break-the-ice-with-indonesian-social-phrases/"><u>Break the Ice with Indonesian Social Phrases</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-macbook-pro-and-macbook-air-find-the-right-apple-laptop-for-your-needs-with-expert-tips/"><u>Choosing Between MacBook Pro and MacBook Air? Find the Right Apple Laptop for Your Needs with Expert Tips!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/conquering-terrain-with-the-colossal-galaxy-ford-f-150-rc-a-review-of-an-automotive-marvel/"><u>Conquering Terrain with the Colossal Galaxy Ford F-150 R/C - A Review of an Automotive Marvel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fivefold-exploitation-how-ai-paves-the-way-for-cyber-threats/"><u>Fivefold Exploitation: How AI Paves the Way for Cyber Threats</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-the-mystery-of-asymmetrical-audio-on-your-airpods-with-these-4-solutions/"><u>Fix the Mystery of Asymmetrical Audio on Your AirPods with These 4 Solutions!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-top-youtube-concepts-for-inspiring-viewers-creativity/"><u>In 2024, Top YouTube Concepts for Inspiring Viewers' Creativity</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/instant-improvement-in-visuals-the-canva-technique-for-borderless-images-for-2024/"><u>Instant Improvement in Visuals The Canva Technique for Borderless Images for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximizing-ipad-output-discover-key-apps-to-enhance-productivity-and-workflow-as-recommended-by-zdnet-experts/"><u>Maximizing iPad Output? Discover Key Apps to Enhance Productivity and Workflow as Recommended by ZDNet Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synchronize-gpt-3-talks-efficiently-using-chatfolders/"><u>Synchronize GPT-3 Talks: Efficiently Using ChatFolders</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo Y200e 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-11-must-have-windows-and-macos-applications-and-tools-insights/"><u>Top 11 Must-Have Windows & macOS Applications and Tools - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-wireless-power-banks-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Wireless Power Banks : Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-technology-one-device-at-a-time-the-rise-of-personalized-ai-as-predicted/"><u>Transforming Technology, One Device at a Time: The Rise of Personalized AI as Predicted</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-your-malfunctioning-equipment-tactics-for-dealing-with-startup-errors-specifically-code-10-complications/"><u>Troubleshoot Your Malfunctioning Equipment: Tactics for Dealing with Startup Errors, Specifically Code 10 Complications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-top-tablets-for-note-taking-in-202er-in-depth-analysis-pcmag/"><u>Ultimate Guide to the Top Tablets for Note-Taking in 202Er: In Depth Analysis | PCMag</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Nokia C12 Pro? | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Tech Disruption: Identifying Vulnerable Occupations?"
-date: 2024-12-19T18:43:00.966Z
-updated: 2024-12-22T00:45:03.290Z
+date: 2024-12-26T16:04:32.264Z
+updated: 2024-12-27T21:24:17.668Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is ChatGPT?
@@ -35,10 +35,6 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
 ![artificial intelligence brain connected to human being](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-4389372_1920-1.jpg)
 
 [ChatGPT is a chatbot](http://www.makeuseof.com/how-does-chatgpt-work/) that uses the GPT-3 (Generative Pretrained Transformer 3) framework, a highly advanced artificial intelligence (AI) model used for language processing developed by OpenAI. ChatGPT has more than 175 billion parameters, making it among the largest and most powerful language models available, and the model was trained using a massive amount of data from the internet and other sources.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Do People Use ChatGPT?
 
@@ -52,12 +48,16 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
 
  These examples might make you think there’s [no limit to what ChatGPT can do](https://www.makeuseof.com/openai-lost-control-chatgpt/). However, that’s not an accurate assumption.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will ChatGPT Replace Programmers?
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Whenever a new AI tool emerges on the tech scene, many people understandably wonder whether that innovation might get so advanced that it makes their jobs obsolete. Even people such as programmers, who have highly specialized skills, might face that worry.
@@ -75,7 +75,7 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some [criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/), ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Will ChatGPT Replace Other Jobs?
@@ -89,7 +89,7 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
  Elsewhere, people are explicitly [formatting questions to make ChatGPT ignore](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) its programming. That practice could spread misinformation. The question-and-answer site Stack Overflow also initiated a temporary ban on ChatGPT. Staff members explained the influx of ChatGPT-generated responses swamped content moderators who need some level of subject matter expertise to verify the accuracy, and [spotting generative AI written text](http://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) is next to impossible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Deserves Caution
@@ -113,20 +113,18 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-pinnacle-video-artist-audio-visual-choreography/"><u>[New] 2024 Approved Pinnacle Video Artist Audio-Visual Choreography</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-building-confidence-against-youtube-critiques/"><u>[New] In 2024, Building Confidence Against YouTube Critiques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/aiffwav-movavi/"><u>「オンラインで簡単! AIFFファイルをWAVに自由転送 - Movavi」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavim4vgif/"><u>移行がスムーズ! MovaviでオンラインM4VからGIFへの自由変換サービス</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cambia-video-mkv-in-formato-mjpeg-per-niente-costi-usando-movavi-ottimo-servizio-on-line/"><u>Cambia Video MKV in Formato MJPEG per Niente Costi Usando Movavi - Ottimo Servizio On-Line!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/convert-video-formats-for-free-using-movavi-ogv-files-to-avi-supported/"><u>Convert Video Formats for Free Using Movavi - OGV Files to AVI Supported.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/creare-un-filmato-con-il-editore-di-video-movavi-guida-facile-e-completa/"><u>Creare Un Filmato Con Il Editore Di Video Movavi: Guida Facile E Completa</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/discover-efficient-techniques-for-live-discord-recording-for-2024/"><u>Discover Efficient Techniques for Live Discord Recording for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-oppo-find-n3-flip-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Oppo Find N3 Flip</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/empowering-content-makers-with-chatgpt-learn-from-the-9-key-benefits/"><u>Empowering Content Makers with ChatGPT: Learn From the 9 Key Benefits</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-devices-to-device-guide-for-google-meet-participation/"><u>In 2024, Devices to Device Guide for Google Meet Participation</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-overcoming-obstacles-with-youtube-short-strategies/"><u>In 2024, Overcoming Obstacles with YouTube Short Strategies</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-infinix-hot-30i-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Infinix Hot 30i? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/najdite-7-zacitacskych-vykroku-k-konverzi-csv-a-mp4-s-neterovymi-dvd-pouze-na-macu/"><u>Najdite 7 Začítačských Výkroku K Konverzi CSV a MP4 S Neteřovými DVD Pouze Na Macu</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/reators-currency-how-to-turn-streams-into-dollars/"><u>The Creator’s Currency How To Turn Streams Into Dollars</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/astering-the-art-of-youtube-thumbnails-on-macos/"><u>[New] Mastering the Art of YouTube Thumbnails on macOS</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1-how-to-prepare-your-storage-device-essential-guide-to-disk-formatting-discover-7-techniques/"><u>1. How to Prepare Your Storage Device: Essential Guide to Disk Formatting - Discover 7 Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-instant-restoration-for-missing-snaps/"><u>2024 Approved Instant Restoration for Missing Snaps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-tools-4-writers-elevating-the-editorial-experience/"><u>AI Tools 4 Writers: Elevating the Editorial Experience</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/analyzing-vidmas-impact-on-video-capture-tech/"><u>Analyzing Vidma's Impact on Video Capture Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-mapping-the-landscape-of-openai/"><u>Comprehensive Mapping: The Landscape of OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/culinary-creativity-unlocked-7-innovative-chatgpt-tips/"><u>Culinary Creativity Unlocked: 7 Innovative ChatGPT Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4s-global-footprint-simplified/"><u>GPT-4's Global Footprint, Simplified</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oneplus-12-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror OnePlus 12 to Roku | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On iPhone 14 Pro?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-doesnt-strike-the-gpt-core/"><u>What Doesn't Strike the GPT Core?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-snapchats-my-ai-stands-out-beyond-toys-and-games/"><u>Why Snapchat’s My AI Stands Out Beyond Toys and Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/7yob7juu7zwciounsoydto2escdrs7tqtiag7zki7iksic0g7jwi7kcv7isx6ro8ioyeroq1royeseydhcdsnittlbqg7yq57zmu65ccioyghoygosdquldsika/"><u>탁월한 데이터 보관 품사 - 안정성과 재구성을 위해 특화된 전송 기술</u></a></li>
 </ul></div>
 

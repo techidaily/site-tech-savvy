@@ -1,7 +1,7 @@
 ---
 title: Fitness Pros and ChatGPT Prompt Perfection
-date: 2024-09-12T07:36:31.212Z
-updated: 2024-09-13T07:36:31.212Z
+date: 2024-12-26T21:17:59.237Z
+updated: 2024-12-27T21:51:29.208Z
 tags:
   - chatgpt
   - open-ai
@@ -23,25 +23,11 @@ thumbnail: https://thmb.techidaily.com/50b8c0240239aa64db52b1f5d6c9798f04334cb3a
 
  Now, you might notice that ChatGPT occasionally commits errors. AI only responds to inputs. So to generate optimal outputs geared toward fitness, learn how to structure your prompts correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tips to Get Optimal Fitness Advice on ChatGPT
 
  Vague prompts yield generic responses. ChatGPT merely presents the basics if you feed it overused instructions like “help me lose fat” or “create a whole-body workout.” Everyone using these prompts gets the same results.
 
 [To generate better output on ChatGPT](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) , it's important to craft detailed prompts. Explain your fitness goals in detail, provide context about your overall health, and avoid running multistep tasks.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Provide Context About Yourself in the Prompt
 
@@ -51,30 +37,9 @@ thumbnail: https://thmb.techidaily.com/50b8c0240239aa64db52b1f5d6c9798f04334cb3a
 
 ![ChatGPT Explaining Fat Loss Basics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-fat-loss.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Meanwhile, this conversation shows ChatGPT’s response to users who provide their fitness levels.
 
 ![ChatGPT Creates Detailed Fat Loss Program Based on Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-detailed-fat-loss-program.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Specify Your Fitness Goals
 
@@ -85,23 +50,21 @@ thumbnail: https://thmb.techidaily.com/50b8c0240239aa64db52b1f5d6c9798f04334cb3a
 ![Telling ChatGPT That I Want Abs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/asking-chatgpt-how-to-get-abs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you specify your goal, ChatGPT creates a more precise routine. It even assesses if your plan is realistic.
 
 ![Asking ChatGPT to Help Me Drop Body Fat Percentage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/asking-chatgpt-to-drop-body-fat.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The [Centers for Disease Control and Prevention](https://www.cdc.gov/healthyweight/losing%5Fweight/index.html) (CDC) states that most people can safely lose one or two pounds per week. Losing weight too fast endangers your health.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Explain the Program ChatGPT Should Create
@@ -123,32 +86,20 @@ thumbnail: https://thmb.techidaily.com/50b8c0240239aa64db52b1f5d6c9798f04334cb3a
 ![ChatGPT Creating Workout of Different Sports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-ssports-workouts.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Examples of Effective ChatGPT Prompts for Fitness Enthusiasts
 
 [Creating effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) requires trial and error. If you’re having trouble getting ChatGPT to do what you need, try any of the below formulas. You can also adjust them to your needs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Customized Personal Trainer
 
 ![Customizing Fitness Prompt on Snackprompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snackprompt-fitness-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Turn ChatGPT into a personal trainer with this customizable prompt. Input your age, gender, weight, and other details in the personal information sheet. The site will automatically adjust your prompt afterward.
 
@@ -159,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/50b8c0240239aa64db52b1f5d6c9798f04334cb3a
  Second, ChatGPT crafts a detailed meal plan. It adjusts your macros, calories, and nutrients based on your fitness goals and body weight. Expect smaller portions if you’re cutting. Finally, you’ll receive some motivational quotes. List them on your [vision board](https://www.makeuseof.com/what-are-vision-boards-reasons-to-use/) —look at them whenever you feel down or uninspired.
 
 ![Snackprompt Writing a Meal Plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snackprompt-meal-plan.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Comprehensive Bodybuilding Program Builder
 
@@ -181,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/50b8c0240239aa64db52b1f5d6c9798f04334cb3a
 
  Specify any specific muscle groups you need to target. You’ll get a more detailed program if you mention the machines and equipment you can access.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Simple Meal Planner
 
  Stop forcing yourself to follow nutritious yet time-consuming recipes. Instead,[generate healthy meals on ChatGPT](https://www.makeuseof.com/can-chatgpt-teach-you-cook-healthy-meals/) . Look into simple meals that use household ingredients; otherwise, you’ll have trouble incorporating them into your diet.
@@ -189,16 +137,13 @@ thumbnail: https://thmb.techidaily.com/50b8c0240239aa64db52b1f5d6c9798f04334cb3a
 
 ![ChatGPT Creating User Profile for Personalized Meal Plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-asking-about-meal-plan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You’ll receive your seven-day meal plan shortly. It should contain household ingredients and easy cooking techniques, but feel free to clarify confusing recipes.
 
 ![ChatGPT Creating Simple Meal Plan With Easy Found Ingredients](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-creating-simple-meal-plan.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Beginner Plan to Start Moving
 
@@ -209,16 +154,7 @@ thumbnail: https://thmb.techidaily.com/50b8c0240239aa64db52b1f5d6c9798f04334cb3a
  Apart from listing simple exercises, ChatGPT also uses mindful phrasing. Getting out of a slump is hard. Even a seemingly easy cardio workout could seem intimidating—ChatGPT has to be careful.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Basic Injury Treatment
@@ -234,16 +170,7 @@ thumbnail: https://thmb.techidaily.com/50b8c0240239aa64db52b1f5d6c9798f04334cb3a
 ![ChatGPT as a Life Coach and Summarizing Bodybuilding Book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-as-a-life-coach.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use ChatGPT to Achieve Your Fitness Goals
@@ -265,5 +192,20 @@ thumbnail: https://thmb.techidaily.com/50b8c0240239aa64db52b1f5d6c9798f04334cb3a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/updated-5-winter-youtube-background-ideas-to-warm-up-your-videos/"><u>[Updated] 5 Winter YouTube Background Ideas to Warm Up Your Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-top-10-editing-upgrades-for-final-cut-pro-professionals-for-2024/"><u>[Updated] Top 10 Editing Upgrades for Final Cut Pro Professionals for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/buy-these-apple-innovations-revealed-at-wwdc-today-discover-the-products-and-find-out-where-to-preorder-now-gadgetguru/"><u>Buy These Apple Innovations Revealed at WWDC Today! Discover the Products and Find Out Where to Preorder Now | GadgetGuru</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-tech-triumphs-gpt-vs-microsoftgoogles-innovations/"><u>Comparative Tech Triumphs: GPT Vs. Microsoft/Google's Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/envisioning-a-new-era-in-healthcare-with-chatgpt/"><u>Envisioning a New Era in Healthcare with ChatGPT</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/journeying-through-yesteryears-facebook-posts-on-mobilelaptop-for-2024/"><u>Journeying Through Yesteryear's Facebook Posts on Mobile/Laptop for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/follower-tracker-software-for-2024/"><u>Live Follower Tracker Software for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastering-xbox-screencast-capture-techniques-for-2024/"><u>Mastering Xbox Screencast Capture Techniques for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-experience-the-thrill-top-10-movie-trailer-apps-for-ios/"><u>New 2024 Approved Experience the Thrill Top 10 Movie Trailer Apps for iOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sonneteers-struggle-versed-valiantry-against-woolly-kinfolk/"><u>Sonneteer's Struggle - Versed Valiantry Against Woolly Kinfolk</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-era-of-free-gpt-4-yet-platinum-plans-unique-offerings-remain-valuable/"><u>The Era of Free GPT-4! Yet, Platinum Plan's Unique Offerings Remain Valuable</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unleash-video-power-on-youtube-without-spending-a-dime-frame-by-frame-for-2024/"><u>Unleash Video Power on YouTube Without Spending a Dime (Frame by Frame) for 2024</u></a></li>
+</ul></div>
 

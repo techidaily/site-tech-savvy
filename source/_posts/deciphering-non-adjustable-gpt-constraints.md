@@ -1,7 +1,7 @@
 ---
 title: Deciphering Non-Adjustable GPT Constraints
-date: 2024-09-12T07:38:37.972Z
-updated: 2024-09-13T07:38:37.972Z
+date: 2024-12-26T16:24:19.576Z
+updated: 2024-12-27T21:40:19.926Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 
  So, where have all the ChatGPT jailbreaks gone?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. ChatGPT Prompting Skills Have Generally Improved
 
 ![A man typing on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/a-man-typing-on-laptop.jpg)
@@ -33,27 +37,17 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 
  Today, the landscape has evolved. Prompting proficiency is becoming a mainstream skill. Through a combination of experience gained from repeated use and access to freely available ChatGPT prompting guides, ChatGPT users have honed their prompting abilities. Rather than seeking out workarounds like jailbreaks, a bulk of ChatGPT users have become more adept at using different prompting strategies to achieve goals they would have required jailbreaks to achieve in the past.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. The Rise of Uncensored Chatbots
 
 ![uncensored chatbots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/uncensored-chatbots.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As large tech firms tighten content moderation on mainstream AI chatbots like ChatGPT, smaller, profit-focused startups opt for fewer restrictions, betting on demand for censorship-free AI chatbots. With a little research, you'll find dozens of AI chatbot platforms offering uncensored chatbots that can do almost anything you want them to do.
 
  Whether it is writing those crime thriller and dark humor novels that ChatGPT refuses to write or writing malware that attacks people's computers, these uncensored chatbots with a skewed moral compass will do whatever you want. With them around, there's no point putting in the extra energy to write jailbreaks for ChatGPT. Although not necessarily as powerful as ChatGPT, these alternative platforms can comfortably perform a large range of tasks. Platforms like FlowGPT and Unhinged AI are some popular examples.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Jailbreaking Has Gotten Harder
 
@@ -62,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
  In ChatGPT's early months, [jailbreaking ChatGPT was as simple as copy-pasting prompts](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/) from online sources. You could entirely alter ChatGPT's personality with just a few lines of tricky instructions. With simple prompts, you could turn ChatGPT into an evil villain teaching how to make bombs or a chatbot willing to use all forms of profanity without restraint. It was a free-for-all that produced infamous jailbreaks like DAN (Do Anything Now). DAN involved a set of seemingly harmless instructions that compelled the chatbot to do anything it was asked without refusing. Shockingly, these crude tricks worked back then.
 
  However, those wild early days are history. These basic prompts and cheap tricks no longer fool ChatGPT. Jailbreaking now requires complex techniques to have a chance of bypassing OpenAI's now robust safeguards. With jailbreaking becoming so difficult, most users are too discouraged to attempt it. The easy and wide-open exploits of ChatGPT's early days are gone. Getting the chatbot to say one wrong word now requires significant effort and expertise that may not be worth the time and effort.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. The Novelty Has Worn Off
 
@@ -81,16 +68,7 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 ![ChatGPT jailbreaks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-jailbreaks.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A common practice within the ChatGPT jailbreaking community is sharing every successful exploit when discovered. The problem is that when exploits are shared widely, OpenAI often becomes aware of them and fixes the vulnerabilities. This means the jailbreaks stop working before people who would be interested can even try them.
@@ -101,42 +79,23 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 
 ![person holding a smartphone with chatbot application facing viewer surrounded by icons](https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d176aa35825ab519985b4fb1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The rise of local large language models you can run locally on your computer has also dampened the interest in ChatGPT jailbreaks. While local LLMs aren't entirely censorship-free, many are significantly less censored and can be easily modified to fit the users' desires. So, the choices are simple. You can engage in the endless cat-and-mouse game of finding a way to trick the chatbot only to get it fixed shortly. Or, [you can settle for a local LLM](https://www.makeuseof.com/should-you-use-local-llms/) you can permanently modify to do anything you want.
 
  You'll find a surprisingly long list of powerful uncensored LLMs you can deploy on your computer with lax censorship. Some notable ones are the Llama 7B (uncensored), Zephyr 7B Alpha, Manticore 13B, Vicuna 13B, and GPT-4-X-Alpaca.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Professional Jailbreakers Now Sale for Profit
 
 ![A Group of Businessmen in Suits Discussing Projects](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/group-of-people-discussing-project.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Why dedicate precious time to developing jailbreaking prompts if you'll get nothing from it? Well, some professionals now sell jailbreaks for profit. These professional jailbreak creators design jailbreaks that perform specific tasks and list them for sale on prompt marketplaces such as PromptBase. Depending on their capabilities, these jailbreaking prompts might sell for anywhere between $2 to $15 per prompt. Some complicated multi-step exploits may cost significantly more.
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Could the Crack Down on Jailbreaks Backfire?
 
@@ -163,5 +122,22 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-an-in-depth-examination-of-vivavideo-app/"><u>[New] An In-Depth Examination of VivaVideo App</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-little-gamers-treasure-trove-of-joy/"><u>[Updated] Little Gamers' Treasure Trove of Joy</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cambia-file-mmf-a-mp3-online-e-gratuitamente-con-movavi-trasforma-i-tuoi-file-musica/"><u>Cambia File MMF a MP3 Online E Gratuitamente Con Movavi - Trasforma I Tuoi File Musica</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-gratuite-du-fichier-aif-au-format-mp4-sur-linternet-movavi/"><u>Conversion Gratuite Du Fichier AIF Au Format MP4 Sur L'Internet - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-top-6-best-video-stitching-tools-of-2024-compare-leading-options-on-android-and-ios-with-movavis-expert-list/"><u>Discover the Top 6 Best Video Stitching Tools of 2024: Compare Leading Options on Android & iOS with Movavi's Expert List</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/efficace-riduzione-delle-dimensioni-dei-video-mov-tecniche-essenziali-per-migliorare-le-prestazioni-del-dispositivo-e-conservare-lo-spazio/"><u>Efficace Riduzione Delle Dimensioni Dei Video MOV: Tecniche Essenziali per Migliorare Le Prestazioni Del Dispositivo E Conservare Lo Spazio</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-conversion-of-3gp-files-to-wma-movavi/"><u>Free Online Conversion of 3GP Files to WMA - Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-c67-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-data/"><u>How to recover lost data from Samsung Galaxy S23 Tactical Edition?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/os-melhores-programas-de-producao-musica-digital-para-pc-e-mac-descoberta-das-opcoes-principais/"><u>Os Melhores Programas De Produção Musica Digital Para PC E MAC Descoberta Das Opções Principais</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-for-adding-audio-files-to-a-portable-memory-device-movavi/"><u>Step-by-Step Tutorial for Adding Audio Files to a Portable Memory Device - Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-fixing-resident-evil-village-crashes-on-windows-pc/"><u>Troubleshooting Tips for Fixing Resident Evil Village Crashes on Windows PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trouvez-les-sites-les-plus-securises-et-legaux-pour-telecharger-des-jeux-gratuits-sur-ordinateur-notre-top-10/"><u>Trouvez Les Sites Les Plus Sécurisés Et Légaux Pour Télécharger Des Jeux Gratuits Sur Ordinateur - Notre Top 10!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-iphone-7-plus-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking iPhone 7 Plus i Do? Get Answers here | Dr.fone</u></a></li>
+</ul></div>
 

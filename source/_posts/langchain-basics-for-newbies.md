@@ -1,7 +1,7 @@
 ---
 title: LangChain Basics for Newbies
-date: 2024-12-20T02:08:47.005Z
-updated: 2024-12-22T07:34:40.279Z
+date: 2024-12-20T18:50:51.270Z
+updated: 2024-12-27T17:35:11.767Z
 tags:
   - chatgpt
   - open-ai
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 
  LangChain’s preprocessing method is a critical feature that is unavoidable as LLMs become more powerful and data-intensive. This method is mainly used in code and semantic search cases because it provides real-time collection and interaction with the LLMs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## LangChain LLM vs. Other Language Models
 
  The following comparative overview aims to highlight the unique features and capabilities that set LangChain LLM apart from other existing language models in the market:
@@ -60,13 +56,13 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 * **Data Passing**: Due to the general text-based nature of LLMs, it is usually tricky to pass data to the model. LangChain solves this problem by using [indexes](https://docs.langchain.com/docs/components/indexing/). Indexes enable an application to import data in variable formats and store it in a way that makes it possible to serve it row-by-row to an LLM.
 * **Responses**: LangChain provides output parser tools to give answers in a suitable format as opposed to other LLMs whose model response consists of general text. When using AI in an application, it is preferred to have a structured response that you can program against.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Getting Started With LangChain LLM
 
  Now you will learn how to implement LangChain in a real use-case scenario to understand how it works. Before starting the development, you need to set up the development environment.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Setting Up Your Development Environment
 
@@ -81,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 `
 
  The command above installs the packages and creates a virtual environment.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Import the Installed Dependencies
 
@@ -104,21 +104,17 @@ from langchain.memory import ConversationBufferWindowMemory`
 
 ![OpenAI API key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-page.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Enter the requested name of the API key.
 
 ![OpenAI API key naming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-naming.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You will receive a **secret key** prompt.
 
 ![OpenAI API key generated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-generated.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Copy and store the API key in a safe place for future use.
 
@@ -161,10 +157,14 @@ print(output)`
 ![Output of developing an application using LangChain](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-output.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Above is the expected output.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Rising Influence of LLMs
 
@@ -191,22 +191,24 @@ print(output)`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-launch-into-action-quick-tips-to-start-going-live-on-facebook-immediately/"><u>[New] 2024 Approved Launch Into Action Quick Tips to Start Going Live on Facebook Immediately</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-repairing-a-stand-alone-headphone/"><u>[New] Repairing a Stand-Alone Headphone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp420247/"><u>「MP4ビデオを分解してご利用ください：2024新世代最高のフリーソフト7品評」</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-from-shoots-to-screens-dslr-setup-for-youtubefacebook-live/"><u>2024 Approved From Shoots to Screens DSLR Setup for YouTube/Facebook Live</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1125674-9781609255442-dowsing-beyond-duality/"><u>Dowsing Beyond Duality | Free Book</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-pdf-free-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How do i sign a pdf free</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iwara/"><u>Iwaraコンテンツをダウンロード保存するための詳細な手順: 最強の方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/latest-enhancement-of-wonderfox-the-advanced-video-downloader-is-released/"><u>Latest Enhancement of WonderFox: The Advanced Video Downloader Is Released!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/living-your-best-life-with-insights-from-chatgpt-expertise/"><u>Living Your Best Life with Insights From ChatGPT Expertise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/most-effective-and-user-friendly-dvd-to-mkv-converter-software-in-202n4-for-windows/"><u>Most Effective and User-Friendly DVD to MKV Converter Software in 202N4 for Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/premium-tools-for-pros-masterful-4k-video-production-software-rankings/"><u>Premium Tools for Pros: Masterful 4K Video Production Software Rankings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protecting-personal-videos-on-youtube-a-step-by-step-guide-to-making-them-private/"><u>Protecting Personal Videos on YouTube: A Step-by-Step Guide to Making Them Private</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-and-simple-avi-manipulation-techniques-top-programs-for-trimming-rotating-and-combining-videos/"><u>Quick and Simple AVI Manipulation Techniques – Top Programs for Trimming, Rotating & Combining Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-guide-mastering-the-art-of-recording-fortnite-sessions-on-your-nintendo-switch/"><u>Quick Guide: Mastering the Art of Recording Fortnite Sessions on Your Nintendo Switch</u></a></li>
-<li><a href="https://review-topics.techidaily.com/realme-11-proplus-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Realme 11 Pro+ Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210117984-9781950253159-shamanic-power-animals/"><u>Shamanic Power Animals | Free Book</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-valheim-how-to-stop-your-game-from-keeping-you-down/"><u>Troubleshooting Valheim - How to Stop Your Game From Keeping You Down!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-13-key-tactics-for-enhanced-visibility-in-facebook-videography/"><u>[New] 13 Key Tactics for Enhanced Visibility in Facebook Videography</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-epic-imagery-crafting-inspiring-instagram-posts-top20-for-2024/"><u>[New] Epic Imagery Crafting Inspiring Instagram Posts #Top20 for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-essentials-for-successful-google-podcast-upload-for-2024/"><u>[New] Essentials for Successful Google Podcast Upload for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enhance-clips-best-winter-bgs-for-video-warmth/"><u>2024 Approved Enhance Clips Best Winter Bg's for Video Warmth</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-leading-smart-home-innovations-professional-evaluation-and-rankings-zdnet/"><u>2024'S Leading Smart Home Innovations: Professional Evaluation & Rankings | ZDNet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/achieving-peak-performance-with-updated-hyperx-soundcard-drivers/"><u>Achieving Peak Performance with Updated HyperX Soundcard Drivers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/assessing-luminance-for-hd-raises-questions-for-2024/"><u>Assessing Luminance for HD Raises Questions for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-teamwork-in-libreoffice-a-guide-to-adjusting-comment-styles/"><u>Enhancing Teamwork in LibreOffice: A Guide to Adjusting Comment Styles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-82-of-executives-are-embracing-remote-work-trends-over-the-next-couple-of-years-insights-from-zdnet/"><u>How 82% of Executives Are Embracing Remote Work Trends Over the Next Couple of Years – Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-manage-and-prevent-discomfort-in-your-mice-operating-hand-tips-shared-by-zdnet/"><u>How to Manage and Prevent Discomfort in Your Mice-Operating Hand – Tips Shared by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hybrid-work-success-top-5-tips-from-industry-experts-as-featured-on-zdnet/"><u>Hybrid Work Success: Top 5 Tips From Industry Experts as Featured on ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-notion-for-peak-productivity-a-comprehensive-reveal-of-its-benefits-and-usage/"><u>Leveraging Notion for Peak Productivity: A Comprehensive Reveal of Its Benefits and Usage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-pitch-perfection-how-to-persuade-decision-makers-of-the-value-in-your-revolutionary-idea-expert-tips-by-zdnet/"><u>Mastering Pitch Perfection: How to Persuade Decision-Makers of the Value in Your Revolutionary Idea | Expert Tips by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-tab-management-in-the-arc-browser-boost-performance-by-utilizing-space-innovations/"><u>Mastering Tab Management in the Arc Browser: Boost Performance by Utilizing Space Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-mix-of-home-and-office-insights-for-a-winning-hybrid-work-strategy-advice-from-leaders-zdnet/"><u>Mastering the Mix of Home and Office: Insights for a Winning Hybrid Work Strategy - Advice From Leaders | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-productivity-using-the-opera-pop-up-function-insights-by-zdnet/"><u>Maximize Productivity Using the Opera Pop-Up Function - Insights by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-secrets-of-storytelling-mastery-using-chatgpt-techniques/"><u>Unlock the Secrets of Storytelling Mastery Using ChatGPT Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-data-movement-best-ways-to-transition-files-to-pc/"><u>Unlocking Data Movement Best Ways to Transition Files to PC</u></a></li>
 </ul></div>
 

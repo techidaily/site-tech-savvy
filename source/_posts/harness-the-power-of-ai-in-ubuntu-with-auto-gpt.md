@@ -1,7 +1,7 @@
 ---
 title: Harness the Power of AI in Ubuntu with Auto-GPT
-date: 2024-12-20T16:40:19.973Z
-updated: 2024-12-22T07:48:14.386Z
+date: 2024-12-23T18:08:59.750Z
+updated: 2024-12-27T19:03:21.619Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/0de78e74e4231d077c0bbd1093422fc13ce8314c6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prerequisites to Install Auto-GPT
@@ -67,6 +67,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 `cd Auto-GPT`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Configure Auto-GPT on Ubuntu
 
  Now that you've correctly set up the environment for Auto-GPT, you need to configure your OpenAI API key as an environment variable.
@@ -95,10 +99,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 `sudo mv .env.template .env`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 2: Install Auto-GPT Dependencies on Ubuntu
 
  Auto-GPT uses a lot of Python libraries. You will need to install all the packages using pip and the **requirements.txt** text file that comes with the AutoGPT source code.
@@ -110,7 +110,7 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 ![Install Auto-GPT requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/5-install-requirements.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, try running Auto-GPT using:
@@ -120,14 +120,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 ![Successful Auto-GPT installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-success.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Congratulations! You have successfully installed and set up Auto-GPT on your Ubuntu machine.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use Auto-GPT on Ubuntu
 
@@ -162,6 +158,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  Once your AI assistant finishes its task, you can view its final output by opening the **/Auto-GPT-x.x.x/autogpt/auto\_gpt\_workspace** directory.
 
 ![Successful Auto-GPT session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/success-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Success! Our AI assistant gave us a list of active promo codes for the mouse we were looking for.
 
@@ -198,22 +198,24 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-retain-video-engagement-sustained-use-of-youtubes-cc-license/"><u>[New] In 2024, How to Retain Video Engagement Sustained Use of YouTube's CC License</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-reach-for-the-millennium-1000-youtube-supporters/"><u>[New] In 2024, Reach for the Millennium 1,000 YouTube Supporters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/achieving-harmony-using-ai-for-regular-meditation/"><u>Achieving Harmony: Using AI for Regular Meditation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-breakthrough-unlocking-six-new-frontiers-with-the-code-conductor/"><u>ChatGPT Breakthrough: Unlocking Six New Frontiers with the Code Conductor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/eradicating-the-past-your-guide-to-cleaner-chatgpt-history/"><u>Eradicating the Past: Your Guide to Cleaner ChatGPT History</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-audio-editing-essentials-l-cuts-j-cuts-and-more-for-2024/"><u>FCPX Audio Editing Essentials L-Cuts, J-Cuts, and More for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fitness-coaching-revolution-integrating-gpt-solutions/"><u>Fitness Coaching Revolution: Integrating GPT Solutions</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-livestream-success-on-television-four-pathways/"><u>In 2024, FB Livestream Success on Television Four Pathways</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-swift-tactics-for-slideshow-storage/"><u>In 2024, Swift Tactics for Slideshow Storage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prioritize-value-discard-the-unnecessary-gpt-enhancements/"><u>Prioritize Value: Discard the Unnecessary GPT Enhancements</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reconciling-service-misalignment-in-chatgpts-external-links/"><u>Reconciling Service Misalignment in ChatGPT's External Links</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sophisticated-ai-enhancing-educational-outcomes/"><u>Sophisticated AI Enhancing Educational Outcomes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-top-5-corporate-barricades-preventing-chatgpt-use/"><u>The Top 5 Corporate Barricades Preventing ChatGPT Use</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-your-podcasts-identity-with-ai-name-makers-for-2024/"><u>Transform Your Podcast's Identity with AI Name Makers for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-series-exceptional-5-slow-mo-tech/"><u>Ultimate Series Exceptional 5 Slow Mo Tech</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-mp4-to-mp3-apps-for-ios-and-android-devices/"><u>Updated In 2024, Best MP4 to MP3 Apps for iOS and Android Devices</u></a></li>
-<li><a href="https://win-top.techidaily.com/3g2-wma/"><u>오픈소스 3G2 품목을 WMA로 쉽게 전환: 무료 도구 - 모바이비</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722873499752-current-month-find-your-dream-apple-watch-at-unbelievable-discounts/"><u>[Current Month]: Find Your Dream Apple Watch at Unbelievable Discounts!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ideal-hosts-maximizing-youtube-video-exposure/"><u>[New] Ideal Hosts Maximizing YouTube Video Exposure</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-simultaneous-video-documentation/"><u>[New] In 2024, Simultaneous Video Documentation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-learn-how-to-build-youtube-backlinks-for-your-channel/"><u>[New] Learn How to Build YouTube Backlinks for Your Channel</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-m1-masterpiece-flawless-video-edits-just-a-click-away-for-2024/"><u>[New] M1 Masterpiece Flawless Video Edits, Just a Click Away for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-your-podcast-with-these-google-upload-insights/"><u>[New] Transform Your Podcast with These Google Upload Insights</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-redefining-digital-space-alternative-video-hosting-sites-for-2024/"><u>[Updated] Redefining Digital Space Alternative Video Hosting Sites for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-trending-potential-in-your-videos/"><u>2024 Approved Unlocking Trending Potential in Your Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ace-the-competition-mastering-secrets-of-getting-hired-as-a-remote-full-stack-developer-insights-from-zdnet/"><u>Ace the Competition: Mastering Secrets of Getting Hired as a Remote Full-Stack Developer - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/achieve-peak-productivity-by-adopting-programming-principles-in-daily-workflows-insights-from-zdnet/"><u>Achieve Peak Productivity by Adopting Programming Principles in Daily Workflows | Insights From ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-oneplus-ace-2-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your OnePlus Ace 2</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-expert-tips-for-efficient-instagram-to-mp4-transformation/"><u>In 2024, Expert Tips for Efficient Instagram to MP4 Transformation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-the-application-process-expert-tips-for-getting-hired-by-leading-tech-giants-based-on-zdnets-ultimate-guide/"><u>Master the Application Process: Expert Tips for Getting Hired by Leading Tech Giants, Based on ZDNet's Ultimate Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shifting-paths-essential-strategies-for-moving-from-hospitality-to-technology-careers-with-expert-insights/"><u>Shifting Paths: Essential Strategies for Moving From Hospitality to Technology Careers with Expert Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-your-admin-duties-with-windows-powershell-for-just-16-discover-the-secrets-at-zdnet/"><u>Streamline Your Admin Duties with Windows PowerShell for Just $16 | Discover the Secrets at ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-innovation-craze-mainstream-companies-still-hunting-for-expertise/"><u>Tech Innovation Craze: Mainstream Companies Still Hunting for Expertise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unexpected-driving-forces-causing-most-employees-to-quit-what-experts-at-zdnet-discovered/"><u>The Unexpected Driving Forces Causing Most Employees to Quit: What Experts at ZDNet Discovered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/thousands-tap-into-apples-latest-initiative-free-ai-education-for-students-and-graduates-discover-more-on-zdnet/"><u>Thousands Tap Into Apple's Latest Initiative: Free AI Education for Students & Graduates - Discover More on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-staffing-shifts-in-major-tech-companies-beyond-layoff-headlines/"><u>Understanding Staffing Shifts in Major Tech Companies: Beyond Layoff Headlines</u></a></li>
 </ul></div>
 

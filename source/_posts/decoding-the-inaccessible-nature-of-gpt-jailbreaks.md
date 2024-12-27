@@ -1,7 +1,7 @@
 ---
 title: Decoding the Inaccessible Nature of GPT Jailbreaks
-date: 2024-12-21T00:03:05.296Z
-updated: 2024-12-21T23:11:50.602Z
+date: 2024-12-22T20:38:32.485Z
+updated: 2024-12-27T21:08:30.167Z
 tags:
   - chatgpt
   - open-ai
@@ -30,13 +30,13 @@ thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. ChatGPT Prompting Skills Have Generally Improved
 
 ![A man typing on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/a-man-typing-on-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Prior to ChatGPT's arrival, conversing with AI was a niche skill limited to those privy to research labs. Most early users lacked expertise in crafting effective prompts. This drove many people to employ jailbreaks, an expedient way to get the chatbot to do what they wanted with minimal effort and prompting skills.
 
@@ -47,24 +47,28 @@ thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685
 ![uncensored chatbots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/uncensored-chatbots.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As large tech firms tighten content moderation on mainstream AI chatbots like ChatGPT, smaller, profit-focused startups opt for fewer restrictions, betting on demand for censorship-free AI chatbots. With a little research, you'll find dozens of AI chatbot platforms offering uncensored chatbots that can do almost anything you want them to do.
 
  Whether it is writing those crime thriller and dark humor novels that ChatGPT refuses to write or writing malware that attacks people's computers, these uncensored chatbots with a skewed moral compass will do whatever you want. With them around, there's no point putting in the extra energy to write jailbreaks for ChatGPT. Although not necessarily as powerful as ChatGPT, these alternative platforms can comfortably perform a large range of tasks. Platforms like FlowGPT and Unhinged AI are some popular examples.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Jailbreaking Has Gotten Harder
 
 ![Image of a padlock on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/towfiqu-barbhuiya-fna5pazqhmm-un.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In ChatGPT's early months, [jailbreaking ChatGPT was as simple as copy-pasting prompts](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/) from online sources. You could entirely alter ChatGPT's personality with just a few lines of tricky instructions. With simple prompts, you could turn ChatGPT into an evil villain teaching how to make bombs or a chatbot willing to use all forms of profanity without restraint. It was a free-for-all that produced infamous jailbreaks like DAN (Do Anything Now). DAN involved a set of seemingly harmless instructions that compelled the chatbot to do anything it was asked without refusing. Shockingly, these crude tricks worked back then.
 
  However, those wild early days are history. These basic prompts and cheap tricks no longer fool ChatGPT. Jailbreaking now requires complex techniques to have a chance of bypassing OpenAI's now robust safeguards. With jailbreaking becoming so difficult, most users are too discouraged to attempt it. The easy and wide-open exploits of ChatGPT's early days are gone. Getting the chatbot to say one wrong word now requires significant effort and expertise that may not be worth the time and effort.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. The Novelty Has Worn Off
 
@@ -73,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685
  A driving force behind many users' attempts to jailbreak ChatGPT was the thrill and excitement of doing so in the early days. As a new technology, getting ChatGPT to misbehave was entertaining and earned bragging rights. While there are countless practical applications for ChatGPT jailbreaks, many pursued them for the "wow, look what I did" appeal. Gradually, though, the excitement stemming from the novelty has faded, and along with it, people's interest in dedicating time to jailbreaks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Jailbreaks Are Patched Rapidly
@@ -87,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685
 ## 6\. Uncensored Local Alternatives
 
 ![person holding a smartphone with chatbot application facing viewer surrounded by icons](https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d176aa35825ab519985b4fb1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The rise of local large language models you can run locally on your computer has also dampened the interest in ChatGPT jailbreaks. While local LLMs aren't entirely censorship-free, many are significantly less censored and can be easily modified to fit the users' desires. So, the choices are simple. You can engage in the endless cat-and-mouse game of finding a way to trick the chatbot only to get it fixed shortly. Or, [you can settle for a local LLM](https://www.makeuseof.com/should-you-use-local-llms/) you can permanently modify to do anything you want.
 
@@ -129,20 +129,20 @@ thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-effortless-video-integration-into-blog-posts-and-essays-for-2024/"><u>[New] Effortless Video Integration Into Blog Posts & Essays for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-capture-youtubes-subtitles-on-no-cost-platforms/"><u>[Updated] 2024 Approved Capture YouTube's Subtitles on No-Cost Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-responsiveness-the-rise-of-a-new-profession/"><u>AI's Responsiveness: The Rise of a New Profession</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-law-a-conversational-overview/"><u>ChatGPT & Law: A Conversational Overview</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-desktop-release-delayed-experience-the-best-of-open-source-conversational-ais-today/"><u>ChatGPT Desktop Release Delayed? Experience the Best of Open Source Conversational AIs Today!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/demystifying-whatsapp-audio-talks/"><u>Demystifying WhatsApp Audio Talks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-your-interaction-with-chatgpts-new-tools/"><u>Enhancing Your Interaction with ChatGPT's New Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-4-a-new-era-of-free-accessibility-yet-plus-maintains-6-valued-features/"><u>GPT-4: A New Era of Free Accessibility, Yet Plus Maintains 6 Valued Features</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c12-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C12 Phone FRP Lock</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximize-productivity-in-your-home-workspace-using-an-ipad-pro-tips-and-tricks-from-zdnet/"><u>Maximize Productivity in Your Home Workspace Using an iPad Pro: Tips & Tricks From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-digital-world-a-guide-by-toms-hardware-experts/"><u>Navigating the Digital World: A Guide by Tom's Hardware Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peering-beyond-pretend-patterns-in-machine-learning-outputs/"><u>Peering Beyond Pretend Patterns in Machine Learning Outputs</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unseen-horizons-revealing-the-quintessential-emerging-ai-hardware/"><u>Unseen Horizons: Revealing the Quintessential Emerging AI Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-enhanced-performance-apple-rolls-out-macbook-air-with-advanced-m3-chip-in-13-and-cuisine-tech-analysis-and-review-at-zdnet/"><u>Unveiling Enhanced Performance: Apple Rolls Out MacBook Air with Advanced M3 Chip in 13 and Cuisine | Tech Analysis & Review at ZDNet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-how-to-solve-delayed-or-failed-video-sending-in-facebooks-mobile-messaging-service-for-2024/"><u>[New] How to Solve Delayed or Failed Video Sending in Facebook's Mobile Messaging Service for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/30plus-futuristic-metaverse-musings-arvr-for-2024/"><u>30+ Futuristic Metaverse Musings [AR/VR] for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/beyond-goggles-and-gloves-6-key-divergences-between-metaverse-and-vr/"><u>Beyond Goggles & Gloves: 6 Key Divergences Between Metaverse & VR</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-sharefake-location-on-whatsapp-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/hp-laptop-usb-issues-heres-how-you-can-get-them-fixed/"><u>HP Laptop USB Issues? Here's How You Can Get Them Fixed!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-chronological-displacement-effects/"><u>In 2024, Crafting Chronological Displacement Effects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-special-upgrade-to-the-newest-echo-show-8-and-enjoy-a-sizzling-30-off-smart-home-essentials-by-zdnet/"><u>Labor Day Special: Upgrade to the Newest Echo Show 8 and Enjoy a Sizzling 30% Off | Smart Home Essentials by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-music-experience-with-the-soul-s-storm-max-durable-high-quality-sound-and-vivid-led-light-show-zdnet-analysis/"><u>Maximize Your Music Experience with the Soul S-Storm Max: Durable, High-Quality Sound & Vivid LED Light Show | ZDNET Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-smart-home-on-budget-with-the-amazing-30-echo-dot-offer-insights-from-zdnet/"><u>Revolutionize Your Smart Home on Budget with the Amazing $30 Echo Dot Offer: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/superior-portable-sonic-performance-unveiled-in-latest-speaker-testing-high-fidelity-sound-across-genres-zdnet-insight/"><u>Superior Portable Sonic Performance Unveiled in Latest Speaker Testing | High Fidelity Sound Across Genres - ZDNet Insight</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-savvy-snapchat-users-guide-to-gif-sharing-for-2024/"><u>The Savvy Snapchat User's Guide to Gif Sharing for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-gaming-headsets-comprehensive-reviews-by-tech-experts-techradar/"><u>Top-Rated Gaming Headsets : Comprehensive Reviews by Tech Experts | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-non-sony-non-bose-soundbar-wows-with-unmatched-audio-experience-zdnet-insights/"><u>Top-Rated Non-Sony, Non-Bose Soundbar Wows With Unmatched Audio Experience | ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-audio-experience-with-the-soul-s-storm-bluetooth-speaker-featuring-thunderous-bass-and-dazzling-led-display/"><u>Ultimate Audio Experience with the Soul S-Storm Bluetooth Speaker: Featuring Thunderous Bass & Dazzling LED Display</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-zte-blade-a73-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When ZTE Blade A73 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

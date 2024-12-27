@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Health Screening Unveiled: From Restroom Entry to Instant Diagnosis - Insights"
-date: 2024-12-19T19:59:13.011Z
-updated: 2024-12-21T21:34:02.807Z
+date: 2024-12-22T18:34:19.803Z
+updated: 2024-12-27T16:20:57.586Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Apple Intelligence will bring to the company's operating system platforms
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI on the device and in the cloud
@@ -68,10 +68,6 @@ Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-c
 
 **Room for improvement:** While Apple's intention to be LLM-agnostic is a positive sign for the company's AI strategy, I had hoped for a broader embrace of third-party platforms, particularly health, finance, and education, with AI integration. However, this shift will have to come with developers embracing the new [SiriKit, App Intents, Core ML, Create ML, and other APIs](https://www.zdnet.com/article/apple-coders-rejoice-your-programming-tools-just-got-a-big-free-ai-boost/). Deeper integration with specialized AI providers could significantly enhance Apple Intelligence's functionality and versatility.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Smart notifications and writing tools
 
 Smart notifications in Apple's operating systems will leverage on-device LLMs to sift through the noise and ensure that only the most important alerts make it through. This is part of the new Reduce Interruptions Focus, which shows users key details for each notification. System-wide writing tools can write, proofread, and summarize text for users, from short messages to long blog posts, with the Rewrite feature providing multiple versions of text based on the intended audience.
@@ -80,15 +76,15 @@ Smart notifications in Apple's operating systems will leverage on-device LLMs to
 
 **Room for improvement:** Building on the Reduce Interruptions Focus, further development in proactive assistance features that anticipate user needs based on past behavior and context would be beneficial.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### AI image generation and Genmoji
 
 Apple has opened up a world of creative possibilities by integrating the [Image Playground](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) API into all apps. Users can create AI-generated images in three styles: Sketch, Animation, and Realism. Imagine creating and sharing these images directly within Messages or Pages -- it's a game-changer. In Notes, a new Image Wand tool can generate images based on the current page content. [Genmoji](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) allows users to create custom emojis, adding a personalized touch to communications.
 
 **Room for improvement:** Providing more granular controls and customization options for the generated images and Genmojis, such as fine-tuning styles and attributes, could cater to more specific user preferences. Additionally, implementing features that suggest image enhancements or emoji creations based on user activity and context could further streamline the creative process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Enhanced Siri and task automation
 
@@ -111,6 +107,10 @@ Lastly, enhancing AI capabilities across all Apple products, including Siri, App
 **Also: [What is Apple Intelligence? How the iPhone's on-device and cloud-based AI works](https://www.zdnet.com/article/what-is-apple-intelligence-how-the-iphones-on-device-and-cloud-based-ai-will-work/)**
 
 **Room for improvement:** We also haven't heard anything about [HomePod](https://www.zdnet.com/home-and-office/home-entertainment/homepod-vs-homepod-mini-which-one-of-apples-smart-speakers-is-right-for-you/) or Apple TV with Apple Intelligence, although neither of these products has the computational power to perform on-device generative AI. Similarly, there were no mentions of new AI capabilities in [WatchOS](https://www.zdnet.com/article/every-apple-watch-model-that-will-support-watchos-11-and-which-ones-wont/). While these devices might be able to use some of the cloud capabilities of Apple Intelligence, this was not brought up in the keynote. Additionally, with its M2 chip, the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/) is powerful enough to handle Apple Intelligence on-device features. Still, the keynote did not discuss what would be coming to that device specifically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The developer story
 
@@ -137,7 +137,7 @@ Finally, the new Translation API will be unveiled. It will help developers build
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
@@ -180,22 +180,14 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-proven-ways-to-create-engaging-intros-on-iphones-and-android/"><u>[New] In 2024, Proven Ways to Create Engaging Intros on iPhones & Android</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-vivacious-talker-examined-revision-no-8/"><u>[New] Vivacious Talker Examined Revision No. 8</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-will-your-tv-screen-showcase-fb-feeds-soon/"><u>[Updated] 2024 Approved Will Your TV Screen Showcase FB Feeds Soon?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-comprehensively-unveiling-the-syma-x5c-your-first-drones-matchmaker/"><u>[Updated] Comprehensively Unveiling the Syma X5C – Your First Drone's Matchmaker</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-software-solutions-for-video-games/"><u>[Updated] Prime Software Solutions for Video Games</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-windows-7-audio-editing-applications-top-picks-for-quality-recordings/"><u>Best Windows 7 Audio Editing Applications: Top Picks for Quality Recordings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/convert-your-avi-files-perfectly-for-iphone-with-our-top-picks-of-desktop-and-cloud-services/"><u>Convert Your AVI Files Perfectly for iPhone with Our Top Picks of Desktop and Cloud Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diy-karaoke-magic-create-personalized-songs-and-music-videos-quickly-for-free/"><u>DIY Karaoke Magic: Create Personalized Songs & Music Videos Quickly for Free!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/download-youtube-shorts-videos-without-cost-simple-techniques-exposed/"><u>Download YouTube Shorts Videos Without Cost - Simple Techniques Exposed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-guide-syncing-and-watching-films-with-subtitles-directly-from-your-television/"><u>Easy Guide: Syncing and Watching Films with Subtitles Directly From Your Television</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effective-techniques-for-converting-videos-into-written-transcripts-including-and-excluding-captions/"><u>Effective Techniques for Converting Videos Into Written Transcripts, Including and Excluding Captions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722969424348-effortless-driver-installation-guide-for-hewlett-packard-computers/"><u>Effortless Driver Installation Guide for Hewlett-Packard Computers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-strategies-building-your-own-plays-through-windows-media-player/"><u>Effortless Strategies: Building Your Own Plays Through Windows Media Player</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-audio-clarity-effective-methods-for-amplifying-sounds-in-windows-systems/"><u>Elevate Audio Clarity: Effective Methods for Amplifying Sounds in Windows Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-from-zero-to-hero-youtube-intro-wonders-with-imovie/"><u>In 2024, From Zero to Hero YouTube Intro Wonders with iMovie</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transform-photos-with-expert-color-techniques/"><u>Transform Photos with Expert Color Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-rhythm-rangers-must-try-free-online-tools/"><u>[Updated] Rhythm Rangers' Must-Try Free Online Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/55s76z2i5aplus45rov44ks5yan6kit5a6a44gx5yuv55s75zob6loq5zcr5lik77ya6kej5yop5bqm44o744ki44k544oa44kv44oi5qplusu5ps55zae5pa55rov/"><u>画面寸法を再設定し動画品質向上：解像度・アスペクト比改善方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-daily-efficiency-top-6-free-google-doc-extensions-featured-by-zdnet/"><u>Boost Your Daily Efficiency: Top 6 FREE Google Doc Extensions Featured by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-productivity-with-fast-track-scheduling-on-google-calendar-the-essential-steps-explained/"><u>Boost Your Productivity with Fast Track Scheduling on Google Calendar - The Essential Steps Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-office-styling-skills-in-libreoffice-unique-tips-and-insights-from-zdnet/"><u>Elevate Your Office Styling Skills in LibreOffice: Unique Tips & Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-writing-game-with-libreoffice-a-comparative-guide-to-outperforming-google-docs-writers-digest/"><u>Elevate Your Writing Game with LibreOffice - A Comparative Guide to Outperforming Google Docs | Writer's Digest</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overclocking-ethernet-bypassing-windows-inherent-limit-of-100mbps/"><u>Overclocking Ethernet: Bypassing Windows' Inherent Limit of 100Mbps</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-error-3-0x0001000b-in-rainbow-six-siege-effective-solutions-and-steps/"><u>Troubleshooting Error 3-0X0001000B in Rainbow Six Siege - Effective Solutions and Steps</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/world-war-ii-incursions-into-chinese-territory-an-overview-from-yl-software-experts/"><u>World War II Incursions Into Chinese Territory: An Overview From YL Software Experts</u></a></li>
 </ul></div>
 

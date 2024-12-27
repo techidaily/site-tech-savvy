@@ -1,7 +1,7 @@
 ---
 title: Songs of Yore Face-Off with AI Shepherds & Alpaca Companions
-date: 2024-12-16T08:49:29.442Z
-updated: 2024-12-21T18:43:25.969Z
+date: 2024-12-21T20:05:19.781Z
+updated: 2024-12-27T16:01:56.465Z
 tags:
   - chatgpt
   - open-ai
@@ -26,17 +26,9 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What You Need to Know About AI Chatbots
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
 
@@ -52,11 +44,19 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Is the Most Private Large Language Model?
 
@@ -75,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
 
@@ -104,20 +108,20 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the [best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/).
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which LLM Tells the Best Jokes?
@@ -135,10 +139,6 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
  A derivative but original joke would be, "How are Large Language Models like atoms? They both make things up!"
 
  You read it here first, folks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
 
@@ -165,15 +165,22 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-composing-the-unseen-background-sounds-for-movie-teasers-for-2024/"><u>[New] Composing the Unseen Background Sounds for Movie Teasers for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafting-snug-winter-atmospheres-for-engaging-online-content/"><u>[New] In 2024, Crafting Snug Winter Atmospheres for Engaging Online Content</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instaidentity-100-innovative-caption-examples-for-global-sharing-for-2024/"><u>[Updated] InstaIdentity 100 Innovative Caption Examples for Global Sharing for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44cm5pya5paw44ki44ol44oh44ov44oq44o844km44kn44kk5bqd5zgk44gn5a6j5ywo44gq54sh5paz6kaw6ig044ox44op44od44oi44ov44kp44o844og44ks55m66kal77yb44cn/"><u>「最新アニメフリーウェイ広告で安全な無料視聴プラットフォームを発見！」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/aviwav/"><u>AVI音声データをWAVに転記する簡単な方法</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-6-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your Apple iPhone 6?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-top-picks-of-engaging-click-based-pc-gaming/"><u>In 2024, Top Picks of Engaging Click-Based PC Gaming</u></a></li>
-<li><a href="https://blog-min.techidaily.com/resolving-file-not-playable-error-code-0xc10100be-in-windows-10-and-11/"><u>Resolving 'File Not Playable (Error Code 0xC10100BE) in Windows 10 and 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44k544og44o844k644gr6ycj5pc644gz44kl44gf44kb44gu44ot44oh44kq57eo6zug44og44kv44ol44od44kv/"><u>スムーズに連携するためのビデオ編集テクニック</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44ov44kh44kk44or44kz44oz44oq44o844oi5asx5pwx5pmc44gu5pyj5yq544gq5aplusplus562w5oml5q61/"><u>ファイルコンバート失敗時の有効な対策手段</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-reviewing-and-analyzing-previous-tweets/"><u>[New] Reviewing and Analyzing Previous Tweets</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-whimsical-video-downloader-score/"><u>[Updated] 2024 Approved Whimsical Video Downloader Score</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-essential-hd-action-cameras-under-100-for-2024/"><u>[Updated] Essential HD Action Cameras Under $100 for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-mastering-top-faces-essential-fb-videos/"><u>[Updated] In 2024, Mastering Top Faces Essential FB Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-role-of-b-roll-in-cinematic-storytelling-for-2024/"><u>[Updated] The Role of B-Roll in Cinematic Storytelling for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-newest-tp-link-wireless-drivers-compatible-with-windows-1087/"><u>Download the Newest TP-Link Wireless Drivers Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-asmrs-impact-on-stress-reduction/"><u>Explore ASMR’s Impact on Stress Reduction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/slash-prices-snag-a-discounted-gopro-hero-11-for-just-200-insider-tips-from-zdnet/"><u>Slash Prices: Snag a Discounted GoPro Hero 11 for Just $200 - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surprising-quality-the-ring-spotlight-cam-pro-stands-out-in-labor-day-sales-tech-insights-by-zdnet/"><u>Surprising Quality: The Ring Spotlight Cam Pro Stands Out in Labor Day Sales - Tech Insights by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-list-of-the-coolest-camping-chillers-techradar/"><u>The Ultimate List of the Coolest Camping Chillers | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-action-camcorder-picks-a-comprehensive-review-by-zdnet/"><u>Top 5 Action Camcorder Picks : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-amazing-smoke-free-fire-pit-models-recommended-by-zdnet/"><u>Top 5 Amazing Smoke-Free Fire Pit Models - Recommended by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-cost-effective-home-in-a-box-solutions-quality-modular-homes-below-50k-zdnet/"><u>Top 5 Cost-Effective 'Home in a Box' Solutions - Quality Modular Homes Below $50K | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-houseplants-ideal-for-boosting-productivity-in-your-home-workspace-insights-from-zdnet/"><u>Top 5 Houseplants Ideal for Boosting Productivity in Your Home Workspace - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-ideal-houseplants-for-boosting-productivity-in-your-work-from-home-space/"><u>Top 5 Ideal Houseplants for Boosting Productivity in Your Work-From-Home Space</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-does-strike-mean-on-xbox/"><u>What Does Strike Mean on Xbox?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-y100-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo Y100 5G? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

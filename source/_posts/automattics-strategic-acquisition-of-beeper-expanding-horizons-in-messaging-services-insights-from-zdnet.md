@@ -1,7 +1,7 @@
 ---
 title: "Automattic's Strategic Acquisition of Beeper: Expanding Horizons in Messaging Services - Insights From ZDNet"
-date: 2024-12-20T18:10:24.252Z
-updated: 2024-12-21T18:37:52.222Z
+date: 2024-12-20T18:07:26.562Z
+updated: 2024-12-27T19:10:36.228Z
 tags:
   - apple
 categories:
@@ -71,24 +71,24 @@ In October 2023, Automattic acquired Texts.com, another messaging app, for $50 m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-insiders-manual-reacting-on-twitter-videos/"><u>2024 Approved Insider’s Manual Reacting on Twitter Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/a-critical-look-at-the-latest-camera-recording-systems-for-2024/"><u>A Critical Look at the Latest Camera Recording Systems for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/achieve-more-with-ai-goal-setting-for-health-enhancement/"><u>Achieve More With AI: Goal-Setting for Health Enhancement</u></a></li>
-<li><a href="https://fox-making.techidaily.com/expert-strategies-for-successful-execution-of-sophisticated-installer-creations/"><u>Expert Strategies for Successful Execution of Sophisticated Installer Creations</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Samsung Galaxy F04? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-subrip-file-creation-from-compressed-archives/"><u>In 2024, SubRip File Creation From Compressed Archives</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-ultimate-storyboard-designers-den/"><u>In 2024, Ultimate Storyboard Designer's Den</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-of-the-toshiba-fire-tv-edition-55lf711u20-a-perfect-match-for-amazon-prime-users/"><u>In-Depth Evaluation of the Toshiba Fire TV Edition 55LF711U20 - A Perfect Match for Amazon Prime Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-dall-e-with-gpt-4-for-ai-driven-visuals/"><u>Integrating DALL-E with GPT-4 for AI-Driven Visuals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interpretation-inquiry-which-wins-gpt3-or-google/"><u>Interpretation Inquiry: Which Wins, GPT3 or Google?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/investigating-chatgpts-influence-on-data-protection/"><u>Investigating ChatGPT's Influence on Data Protection</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/learn-the-quick-fix-for-silencing-speaking-menus-on-your-smart-samsung-tv/"><u>Learn the Quick Fix for Silencing Speaking Menus on Your Smart Samsung TV</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-through-claude-3s-features/"><u>Navigating Through Claude 3'S Features</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premier-real-time-video-distribution-tools-for-2024/"><u>Premier Real-Time Video Distribution Tools for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safeguard-digital-assets-block-scrapers/"><u>Safeguard Digital Assets: Block Scrapers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-capturing-life-one-click-at-a-time-the-ultimate-guide-for-documenting-your-sims-journey-in-sims-4/"><u>[New] 2024 Approved Capturing Life, One Click at a Time The Ultimate Guide for Documenting Your Sim's Journey in Sims 4</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-dive-into-the-world-of-ifunny-meme-app/"><u>[Updated] 2024 Approved Dive Into the World of iFunny Meme App</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-the-economical-thermopro-tp67-worth-it-a-look-at-its-accuracy-issues/"><u>Is the Economical ThermoPro TP67 Worth It? A Look at Its Accuracy Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-non-functional-keys-on-windows-10-and-11-step-by-step-guide/"><u>Resolving Non-Functional Keys on Windows 10 and 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/section-2a-understanding-labor-strikes-and-picketing/"><u>Section 2A: Understanding Labor Strikes and Picketing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surpassing-expectations-a-deep-dive-into-the-best-bosejbl-alternative-for-impressive-volume-and-clarity-in-bluetooth-speakers/"><u>Surpassing Expectations: A Deep Dive Into the Best Bose/JBL Alternative for Impressive Volume and Clarity in Bluetooth Speakers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surprisingly-superior-sound-quality-a-top-alternative-to-jbl-and-klipsch-uncovered-on-zdnet/"><u>Surprisingly Superior Sound Quality: A Top Alternative to JBL and Klipsch Uncovered on ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-rise-of-a-new-player-an-introduction-to-triller/"><u>The Rise of a New Player An Introduction to Triller</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-30-amazing-cyber-monday-coupons-exclusive-amazon-echo-offers-no-longer-available-techradar/"><u>Top 30 Amazing Cyber Monday Coupons: Exclusive Amazon Echo Offers No Longer Available | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-budget-friendly-wireless-speakers-of-2022-affordable-sound-solutions/"><u>Top Budget-Friendly Wireless Speakers of 2022: Affordable Sound Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-engaging-audio-experiences-a-deep-dive-into-non-sony-non-jbl-brands-featured-on-zdnet/"><u>Top Engaging Audio Experiences: A Deep Dive Into Non-Sony, Non-JBL Brands Featured on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-october-discounts-on-amazon-echo-products-exclusive-cyber-monday-blowout-sales/"><u>Top October Discounts on Amazon Echo Products: Exclusive Cyber Monday Blowout Sales</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unleashing-your-iphone-the-top-techniques-for-skyline-pics/"><u>Unleashing Your iPhone The Top Techniques for Skyline Pics</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

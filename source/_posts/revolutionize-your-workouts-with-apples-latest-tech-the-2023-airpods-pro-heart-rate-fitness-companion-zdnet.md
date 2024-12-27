@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Your Workouts with Apple's Latest Tech: The 2023 AirPods Pro Heart Rate Fitness Companion | ZDNET"
-date: 2024-12-19T16:57:52.998Z
-updated: 2024-12-21T16:38:58.340Z
+date: 2024-12-23T21:56:20.034Z
+updated: 2024-12-27T17:05:40.306Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ To help you make this decision, we've broken down all of the most important deta
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specifications
@@ -50,7 +50,7 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
@@ -64,10 +64,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 **Also: [Your AIrPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
 
@@ -96,12 +92,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -111,10 +111,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -122,6 +118,10 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,21 +157,19 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-hitting-the-sweet-spot-top-5-tips-for-channel-growth/"><u>[New] In 2024, Hitting the Sweet Spot Top 5 Tips for Channel Growth</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-tutorial-for-zoom-and-gmail-users/"><u>[Updated] Comprehensive Tutorial for Zoom and Gmail Users</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-visual-vocabulary-at-your-fingertips-exploring-the-best-34-tools-to-convert-videos-into-language/"><u>2024 Approved Visual Vocabulary at Your Fingertips Exploring the Best 34 Tools to Convert Videos Into Language</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/assessing-the-effectiveness-of-western-digital-data-lifeguard-for-hard-drive-health-checks/"><u>Assessing the Effectiveness of Western Digital Data LifeGuard for Hard Drive Health Checks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-no-cost-photo-enhancement-tools-on-windows-platforms/"><u>Best No-Cost Photo Enhancement Tools on Windows Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversion-nef-a-linea-sin-coste-metodo-eficiente-con-movavi/"><u>Conversión NEF a Línea Sin Coste: Método Eficiente Con Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/designer-presentation-slide-creator-easy-purchase-and-use-guide/"><u>Designer Presentation Slide Creator: Easy Purchase and Use Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/geavanceerd-online-konverteren-van-rw2-fiches-gratis-met-movavi-opgeluchterde-instructies/"><u>Geavanceerd Online Konverteren Van RW2 Fiches Gratis Met Movavi - Opgeluchterde Instructies</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Realme V30? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unprecedented-capacity-choices-elite-cloud-services/"><u>In 2024, Unprecedented Capacity Choices Elite Cloud Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavi-suite-logicielle-transformez-votre-multimedia-en-moins-dheures/"><u>Movavi Suite Logicielle : Transformez Votre Multimédia en Moins D'Heures</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/optimize-your-system-with-the-newest-driver-update-from-msis-x470-gaming-plus-kit/"><u>Optimize Your System with the Newest Driver Update From MSI's X470 Gaming Plus Kit</u></a></li>
-<li><a href="https://discover-help.techidaily.com/swf/"><u>SWFファイルの編集手順：特定費用なしで始めよう！</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-top-7-free-tools-to-transform-your-videos-into-playable-dvds/"><u>Ultimate Top 7 Free Tools to Transform Your Videos Into Playable DVDs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726223425079-jpeggifmovavi/"><u>オンラインフリー変換: JPEGおよびGIFをMovaviでシームレスに変換する方法</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1728484949901-windows-10/"><u>パーティションを簡単にクローニングする方法 Windows 10で</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-revolutionizing-how-you-record-and-archive-ps3-gaming/"><u>[New] 2024 Approved Revolutionizing How You Record and Archive PS3 Gaming</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tep-by-step-guide-to-music-insertion-in-youtube-editing-tools-for-2024/"><u>[New] Step-by-Step Guide to Music Insertion in YouTube Editing Tools for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-art-of-optimizing-windows-media-players-audio-operations-from-cds-for-2024/"><u>[New] The Art of Optimizing Windows Media Player's Audio Operations From Cds for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/44cm5yuv55s744gu5lil6yoo44kt44oj44od44k344ol44ks5l244gj44gm44oa44km44oz44ot44o844oj5lin6io944gl44kj5lplusd5a2y44cn/"><u>「動画の下部キャッシュを使ってダウンロード不能から保存」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-enhanced-chrome-extensions-for-superior-productivity-ranked/"><u>AI-Enhanced Chrome Extensions for Superior Productivity Ranked</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/comedy-kings-and-queens-whos-tops-for-2024/"><u>Comedy Kings and Queens Who's Tops for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-advanced-vs-code-features-with-chatgpt/"><u>Exploring Advanced VS Code Features with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-pixels-to-plot-an-excursion-in-chatgpt-rpgs/"><u>From Pixels to Plot: An Excursion in ChatGPT RPGs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-lenovo-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Lenovo Is Unlocked</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-variations-america-vs-britain/"><u>Language Variations: America vs Britain</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/next-level-gaming-pcs-msis-titan-18-pro-ryzen-edition-arrives-with-stunning-specs-includes-amds-ryzen-9-7945hx3d-and-nvidia-rtx-4090/"><u>Next-Level Gaming PCs: MSI's Titan 18 Pro Ryzen Edition Arrives with Stunning Specs - Includes AMD’s Ryzen 9 7945HX3D and Nvidia RTX 4090</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneers-perspectives-the-next-wave-in-ai/"><u>Pioneers' Perspectives: The Next Wave in AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reassert-control-over-your-online-footprint-ditch-chatgpt/"><u>Reassert Control Over Your Online Footprint - Ditch ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-illusion-of-unfailing-ai-controls/"><u>The Illusion of Unfailing AI Controls</u></a></li>
 </ul></div>
 

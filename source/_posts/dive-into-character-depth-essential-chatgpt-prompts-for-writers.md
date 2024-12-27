@@ -1,7 +1,7 @@
 ---
 title: "Dive Into Character Depth: Essential ChatGPT Prompts for Writers"
-date: 2024-09-12T07:38:44.848Z
-updated: 2024-09-13T07:38:44.848Z
+date: 2024-12-21T20:26:31.448Z
+updated: 2024-12-27T17:03:21.336Z
 tags:
   - chatgpt
   - open-ai
@@ -27,42 +27,15 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 
 ![Character Name Results From ChatGPT Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/character-name-results-from-chatgpt-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can use this prompt as is, but adding details will make the results more precise. Provide your character’s gender, occupation, key personality traits, and what their name should sound like.
 
  If you don’t like ChatGPT’s results, you can edit your original prompt and get a new set of names. You could also copy and paste a name you loved into another prompt and ask the chatbot for additional suggestions.
 
  Among the many [ways ChatGPT can help write a novel](https://www.makeuseof.com/use-chatgpt-to-write-novel/), naming characters is a huge asset that saves you a lot of brainstorming time and makes the creative process more fun.
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. What Would My Character Look Like if…?
 
 ![Results for Character Description on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/results-for-character-description-on-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Say your story’s set in a particular time period and your protagonist originates from a country you’re unfamiliar with. ChatGPT can tell you what your character’s likeliest physical characteristics will be.
 
@@ -74,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 
  Additionally, some of the data the AI has learned from is outdated or plain wrong. That means that it’s a good idea to double-check the information it produces.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. What Is This Piece of Clothing Called?
 
 ![Prompt About Clothing on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/prompt-about-clothing-on-chatgpt.jpg)
@@ -84,9 +61,17 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 
  That said, expanding the prompt with extra info about the historical or cultural context you’re interested in can yield greater insight for your character development and world-building.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. What Style of Clothing Would People Wear in This Environment?
 
 ![ChatGPT Results From Prompt on Style of Clothing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-results-from-prompt-on-style-of-clothing.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Whether you use ChatGPT or [mobile apps for world-building](https://www.makeuseof.com/world-building-apps-for-android/), its principles don’t change: think about where your story’s set and what this territory or culture consists of.
 
@@ -95,10 +80,7 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
  Just give ChatGPT some key details about the real or made-up setting, such as its climate and dangers, and ask what people would wear in it. You’ll get a list of tips on how to dress your characters for the occasion.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. What Language Would My Character Speak if…?
@@ -114,16 +96,7 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 ![ChatGPT Translating English Into Greek](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-translating-english-into-greek.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re incorporating different languages in your book, ChatGPT prompts can translate whole paragraphs or pages for you. Just like the [best online translators for real-life use](https://www.makeuseof.com/tag/best-online-translators/), this chatbot does a decent job.
@@ -131,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
  Type or paste in the passage you want to be translated, mention what language you want it rendered into, and submit the prompt so OpenAI’s program can work its magic.
 
  The translations are quite accurate but not perfect. Have a human translator or native speaker check these parts of your story to ensure they flow naturally and don’t contain mistakes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Does This Scene Flow Well and Make Sense?
 
@@ -151,16 +117,13 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 
  You can then ask the chatbot additional questions about how to improve the scene, what would make a character’s specific action more realistic, and more. ChatGPT will offer solutions to the best of its abilities.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. What Can You Tell About My Character From This Scene?
 
 ![ChatGPT Response to Character Analysis Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-response-to-character-analysis-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As your story evolves, you may lose track of your character’s development. ChatGPT can help with that, too, by analyzing a scene or entire chapter and explaining its impression of a particular character.
 
@@ -169,33 +132,16 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
  If you continue this chat and keep adding scenes, ChatGPT can enrich the profile it created of the character. As a result, its feedback will become more complex, giving you a clearer sense of how this persona is evolving and whether it’s going according to plan.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. My Character Needs a Quirk
 
 ![Quirk Request From ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirk-request-from-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Every important member of your book’s cast must have a special trait that makes them more intriguing. You can take an existing conversation with ChatGPT in this direction for some great ideas or describe your character in a new chat and ask for a quirk.
 
  Drawing from the character information you feed it, the algorithm will produce one or as many quirks as you like that make sense and add depth to this aspect of your story.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. What Would Make a Good Start, Climax, or Ending for My Character?
 
@@ -211,22 +157,13 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 
 ![ChatGPT Prompt Asking for Character Summary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-prompt-asking-for-character-summary.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Here’s a final prompt that works best after a long exchange with ChatGPT. The discussion should clearly indicate what ideas you’re keeping for your character’s story and what you’re rejecting.
 
  This allows the chatbot to pick up the key points you made about the character and provide an accurate outline of their journey, qualities, quirks, stakes, relationships, and so on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Combine ChatGPT With Other Tools to Develop the Best Fictional Characters
 
@@ -251,5 +188,26 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-breaking-down-vimeo-streaming-giants-secrets-revealed-for-2024/"><u>[New] Breaking Down Vimeo Streaming Giant's Secrets Revealed for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-engaging-with-notable-figures-on-snapchat-for-2024/"><u>[New] Engaging with Notable Figures on Snapchat for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-essential-scripting-instant-stopwatch-integration-in-obs-for-2024/"><u>[New] Essential Scripting Instant Stopwatch Integration in OBS for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-chromatic-magic-for-your-digital-photography/"><u>[New] In 2024, Chromatic Magic for Your Digital Photography</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-assemble-and-build-your-own-google-vr-viewing-device/"><u>[Updated] Assemble and Build Your Own Google VR Viewing Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-solutions-when-apps-arent-working-properly-on-windows/"><u>7 Solutions When Apps Aren't Working Properly on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sndmp3movavi/"><u>网上免费将SND文件转为MP3格式：搭载Movavi的简单指南</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/become-a-movavi-ally-exploring-our-partnership-benefits/"><u>Become a Movavi Ally: Exploring Our Partnership Benefits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cambio-libre-online-transformar-archivos-wmv-en-formato-m4a-con-movavi-web-applique/"><u>Cambio Libre Online: Transformar Archivos WMV en Formato M4A Con Movavi Web Appliqué</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descargas-sin-coste-conversion-gratuita-de-archivos-vob-a-linea-con-movavi/"><u>Descargas Sin Coste: Conversión Gratuita De Archivos VOB a Línea Con Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descargue-la-herramienta-de-conversion-gratuita-para-convertir-archivos-mp3-en-flac-sin-coste-alguno-hazlo-con-ease/"><u>Descargue La Herramienta De Conversión Gratuita Para Convertir Archivos MP3 en Flac Sin Coste Alguno - Házlo Con Ease</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/kostenlos-konvertieren-sie-aifc-dateien-in-m4a-format-online-bei-movavi-starten-sie-hier/"><u>Kostenlos Konvertieren Sie AIFC Dateien in M4A Format Online Bei Movavi - Starten Sie Hier!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-optimal-gameplay-fixing-fps-issues-on-overwatch/"><u>Mastering Optimal Gameplay: Fixing FPS Issues on Overwatch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-definitive-guide-to-repairing-red-screen-malfunctions-solutions-that-work/"><u>The Definitive Guide to Repairing Red Screen Malfunctions: Solutions That Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-18-utilitarios-mais-eficientes-para-transformar-mp4-em-dvd-sem-custo-algum/"><u>Top 18 Utilitários Mais Eficientes Para Transformar MP4 Em DVD Sem Custo Algum!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-gopro-memory-cards-una-guia-completa-para-encuentra-la-mas-optima/"><u>Top GoPro Memory Cards: Una Guía Completa Para Encuentra La Más Óptima</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp4movavimovavi/"><u>ムービーMP4/MOVから無料でAVIに直接変換！Movaviオンラインコンバーター</u></a></li>
+</ul></div>
 
