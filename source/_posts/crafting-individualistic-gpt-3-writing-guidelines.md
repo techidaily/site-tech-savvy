@@ -1,7 +1,7 @@
 ---
 title: Crafting Individualistic GPT-3 Writing Guidelines
-date: 2024-09-06T23:32:32.355Z
-updated: 2024-09-07T23:32:32.355Z
+date: 2024-12-30T19:38:00.298Z
+updated: 2025-01-05T17:50:02.277Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Crafting Individualistic GPT-3 Writing Guideline
 thumbnail: https://thmb.techidaily.com/630a8388d901bab3eaa306301375077a09bba0fad910c1b95be6f3289c48d0ae.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Crafting Individualistic GPT-3 Writing Guidelines
 
  ChatGPT generates remarkably human-like write-ups but lacks something important: a unique personal voice. While ChatGPT can compose thoughtful prose on any topic, the phrasing often rings hollow. To make ChatGPT truly your writing companion, you need to train it to write with your style, pacing, word choices, and tone.
@@ -28,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/630a8388d901bab3eaa306301375077a09bba0fad
 **SCROLL TO CONTINUE WITH CONTENT**
 
  Fortunately, with a few prompting techniques, you can train ChatGPT to adopt a unique writing style that matches yours.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2 Ways to Teach ChatGPT to Write Like You
 
@@ -45,11 +43,9 @@ thumbnail: https://thmb.techidaily.com/630a8388d901bab3eaa306301375077a09bba0fad
  Both options require a different approach, which you can check out below.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Training ChatGPT With Samples of Your Work
 
  To train ChatGPT with samples of your work, head over to ChatGPT and use the prompt below, immediately followed by a sample of your written work that best captures your writing style.
@@ -61,17 +57,9 @@ Extract the writing style in the text provided below. Please study the tone, wor
 ![Result of writing Style extraction by ChatGPT-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/result-of-writing-style-extraction-by-chatgpt-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Of course, one sample might not be enough to thoroughly capture every aspect of your writing style. So, you can repeat the prompt above with three to five more samples within the same ChatGPT conversation. After iterating through the number of samples you wish to use, you can then use the prompt below to unify the extracted styles.
 
 Unify all the extracted writing styles and present them in a clear detailed form. Use the tone, word choice, sentence structure, pacing, explanations, and other stylistic elements you have extracted from the different samples provided to mimic this author's unique voice. Your instruction is to write an article on the topic: "Topic to write goes here." Maintain the author's perspective and attitudes while covering new subject. Write smoothly and convincingly in the author's distinctive voice.
@@ -85,11 +73,9 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
  Also, for the best results, we recommend using GPT-4 and, specifically, the GPT-4 Code Interpreter plugin for the task. You'll be able to work with more text or even, ideally, stack several articles in a text or word file and ask ChatGPT to analyze the content for its writing style.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Training ChatGPT Using a Personal Preference Map (PPM)
 
  A Personal Preference Map (PPM) is a key-value list of preferences ChatGPT can use to produce responses that better align with your preference. In this case, ChatGPT can extract a PPM from written samples to learn about your writing preferences and use it to replicate your writing style on demand. If you are unfamiliar with PPM, we've discussed it extensively in MakeUseOf's [eBook on Unlocking the Potential of ChatGPT](https://www.makeuseof.com/unlock-secrets-of-chatgpt-with-free-ebook-unlocking-the-potential-of-chatgpt/). It is lightweight and easy to read, so do check it out.
@@ -112,18 +98,6 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
 ![Extracted PPM using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extracted-ppm.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Although the PPM approach is slightly more complex, it offers enormous attention to detail. While our previous method takes a more generalist approach to describing and applying an author's style, PPM can get as detailed as possible, far more than anyone can easily discern at first glance.
 
  Another advantage of using a PPM is the flexibility and portability it offers. You can easily tweak the writing style with precision by hanging a few words. You can also use the PPM in a different AI chatbot like Claude AI or Google Bard. We used the PPM above [on the Claude AI chatbot](https://www.makeuseof.com/what-is-claude-2-what-can-you-do-with-it/) and asked it to give it a topic to write. It was able to replicate as many of the stylistic elements used by the target author as possible.
@@ -131,11 +105,9 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 ![Using ChatGPT PPM on Claude AI chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/using-chatgpt-ppm-on-claude-ai-chatbot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make ChatGPT Work for You
 
  The beauty of ChatGPT is its versatility—with the right guidance, the AI chatbot can be taught to write in practically any style you want. If you're tired of ChatGPT's soulless writing style, you don't have to settle for it. ChatGPT can do better than bland, generic outputs. With the right mix of training data, prompts, and feedback, you can transform this AI chatbot into your own writing doppelganger. Go for it.
@@ -144,14 +116,11 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
  Fortunately, with a few prompting techniques, you can train ChatGPT to adopt a unique writing style that matches yours.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -160,4 +129,19 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-capacity-limit-how-many-vids-in-128gb/"><u>[Updated] Capacity Limit How Many Vids in 128GB?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-discovering-income-monetization-through-youtube-sponsored-videos/"><u>[Updated] In 2024, Discovering Income Monetization Through YouTube Sponsored Videos?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-elevates-gpt-plus-launch-us-exclusive-edition/"><u>ChatGPT Elevates: GPT-Plus Launch US-Exclusive Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-operational-aspect-of-device-level-ai/"><u>Deciphering the Operational Aspect of Device-Level AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-guide-effective-techniques-to-deep-clean-and-disinfect-your-airpods-learn-the-importance/"><u>Essential Guide: Effective Techniques to Deep-Clean & Disinfect Your AirPods - Learn the Importance!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/maximizing-audio-capture-essential-techniques-for-facetime-for-2024/"><u>Maximizing Audio Capture Essential Techniques for FaceTime for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-diy-film-maker-tips-and-tricks-for-success/"><u>New The Ultimate DIY Film Maker Tips and Tricks for Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proton-vpn-extension-your-gateway-to-secure-browsing/"><u>Proton VPN Extension: Your Gateway to Secure Browsing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-and-updated-hp-laserjet-1018-driver-software-immediate-access/"><u>Secure and Updated HP LaserJet 1018 Driver Software - Immediate Access</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unpacking-the-potential-of-the-zmi-powerpack-20000-a-detailed-review-for-portable-chargers-enthusiasts/"><u>Unpacking the Potential of the ZMI PowerPack 20000: A Detailed Review for Portable Chargers Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-flsun-s1-a-comprehensive-review-of-its-rapid-warping-and-innovative-delta-design/"><u>Unveiling the FLSun S1: A Comprehensive Review of Its Rapid-Warping and Innovative Delta Design</u></a></li>
+</ul></div>
 

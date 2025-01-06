@@ -1,7 +1,7 @@
 ---
 title: "Uniting Tech Giants: Apple's Siri & Microsoft' Writes"
-date: 2024-09-06T23:31:09.481Z
-updated: 2024-09-07T23:31:09.481Z
+date: 2025-01-03T10:33:50.511Z
+updated: 2025-01-05T19:06:06.004Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 **SCROLL TO CONTINUE WITH CONTENT**
 
  Although ChatGPT doesn't have an official mobile app, you can access its capabilities on your iPhone via Siri. So, if you're already interested, read on as we'll teach you how to use ChatGPT with Siri on your iPhone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Can You Get ChatGPT on Your iPhone?
 
@@ -49,11 +53,9 @@ Close
  Now that you've obtained your API key, it's time to put it to use in the Shortcuts app. Make sure you don't copy anything else to the clipboard during this process. And if you're wondering, here are some other [things you can do with the OpenAI API key](http://www.makeuseof.com/openai-api-guide-what-can-you-do/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Setting Up the ChatGPT Shortcut on Your iPhone
 
  There are several shortcuts you can paste your OpenAI API key into, and we'll cover them separately below so you can easily choose your preferred option. If you're not sure how to navigate through the Shortcuts app, you can check out this [beginner's guide to the Shortcuts app](https://www.makeuseof.com/mastering-the-ios-shortcuts-app/). Here's what you need to do to set up the ChatGPT shortcut sourced from GitHub :
@@ -65,16 +67,14 @@ Close
 
 ![english version of ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/english-version-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![set up iOS shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-up-shortcut.jpg)
 
 ![paste OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  Alternatively, you can download shortcuts such as SiriGPT or SiriPro instead. Follow these steps to do so:
@@ -87,38 +87,22 @@ Close
 
 ![add shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![add API key here option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-api-key-here-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![paste API key in workflow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key-in-workflow.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  Congratulations, you now have your very own ChatGPT shortcut set up on your iPhone. Now for the million-dollar question: how do you use the shortcut with Siri on your iPhone?
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Using the ChatGPT Shortcut With Siri on Your iPhone
 
  Before we can use Siri to launch the ChatGPT shortcut, we need to ensure the shortcut has permission to function correctly. Tap on your shortcut, and you will be prompted to allow the shortcut to connect to OpenAI. Press **Allow** to give it the necessary permissions. If any of the shortcuts give you additional prompts, like asking you to allow access to **Speech Recognition** or **Enable Diction**, make sure you tap **Allow**.
@@ -127,38 +111,18 @@ Close
 
 ![allow OpenAI access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-openai-access.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![allow speech recognition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-speech-recognition.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![ChatGPT launched with siri](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-launched-with-siri.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  If you want to change the name of your shortcut, you can always long-press on it and select **Rename** to call it whatever you want.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Is More Accessible Than We Thought
 
  There's a quick and easy way to get ChatGPT right at your fingertips on your iPhone, and we're all for it. AI is advancing at an alarming rate, and having it so easily accessible will do us all favors in the long run.
@@ -169,14 +133,11 @@ Close
 
  Although ChatGPT doesn't have an official mobile app, you can access its capabilities on your iPhone via Siri. So, if you're already interested, read on as we'll teach you how to use ChatGPT with Siri on your iPhone.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -185,4 +146,17 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-addressing-over-encoded-obs-media/"><u>[Updated] In 2024, Addressing Over-Encoded OBS Media</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-macbook-pro-and-macbook-air-expert-tips-on-picking-the-perfect-apple-laptop/"><u>Choosing Between MacBook Pro and MacBook Air: Expert Tips on Picking the Perfect Apple Laptop</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/elevating-vr-gametime-through-advanced-recording-practices/"><u>Elevating VR Gametime Through Advanced Recording Practices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-eradicating-vertical-interruptions-from-your-samsung-screen/"><u>Expert Advice: Eradicating Vertical Interruptions From Your Samsung Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-started-with-double-tap-on-your-apple-watch-easy-steps-to-enhance-your-experience/"><u>Get Started with Double Tap on Your Apple Watch: Easy Steps to Enhance Your Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/macbook-air-m1-at-unbeatable-value-secure-yours-for-only-649-exclusive-deal-spotted-by-zdnet/"><u>MacBook Air M1 at Unbeatable Value: Secure Yours for Only $649 – Exclusive Deal Spotted by ZDNet!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-frontiers-in-conversation-can-googles-gemini-outshine-chatgpt/"><u>New Frontiers in Conversation: Can Google's Gemini Outshine ChatGPT?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-development-with-ease-discover-the-power-of-googles-gemini-ai-for-accelerated-and-cost-effective-creation/"><u>Revolutionizing Development with Ease: Discover the Power of Google's Gemini AI for Accelerated and Cost-Effective Creation</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-cpsc-would-not-be-involved-in-licensing-a-fireworks-business-but-may-become-relevant-if-a-consumer-product-defect-poses-a-safety-risk/"><u>The CPSC Would Not Be Involved in Licensing a Fireworks Business but May Become Relevant if a Consumer Product Defect Poses a Safety Risk.</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-tier-applications-for-animation-and-modeling-craft-for-2024/"><u>Top-Tier Applications for Animation & Modeling Craft for 2024</u></a></li>
+</ul></div>
 

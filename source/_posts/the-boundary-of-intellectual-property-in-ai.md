@@ -1,7 +1,7 @@
 ---
 title: The Boundary of Intellectual Property in AI
-date: 2024-12-24T21:30:29.178Z
-updated: 2024-12-27T18:57:28.002Z
+date: 2025-01-03T04:33:58.944Z
+updated: 2025-01-06T02:02:52.572Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/bc2c99a15767970445b720991bfe6049016a7b421
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Copyright? Does It Apply to Non-Human Creations?
 
  Before talking about copyright, we must first define it. According to the [US Copyright Office](https://www.copyright.gov/what-is-copyright/) (USCO), "Copyright is a type of intellectual property that protects original works of authorship as soon as an author fixes the work in a tangible form of expression."
@@ -41,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/bc2c99a15767970445b720991bfe6049016a7b421
  In this incident, British nature photographer David Slater set himself up between 2008 and 2011 to befriend a wild Celebes crested macaques troop. He was able to gain their trust, but they were still too nervous for him to get a close-up image.
 
 ![sefl portrait of a Macaca nigra](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/macaca_nigra_self-portrait_large.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Image Credit: David Slater/[Wikimedia Commons](https://en.m.wikipedia.org/wiki/Monkey%5Fselfie%5Fcopyright%5Fdispute#/media/File%3AMacaca%5Fnigra%5Fself-portrait%5Flarge.jpg)
 
@@ -65,7 +65,7 @@ Close
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## An Example of AI Copyright Rejection
@@ -75,6 +75,10 @@ Close
  Although the USCO issued a copyright in September 2022, it said it did it in error. When it came to light that the comic book was produced using MidJourney AI, its copyright protection was revoked.
 
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is AI Work Non-Copyrightable?
 
@@ -86,16 +90,12 @@ Close
 
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Issues With AI-Generated Work
 
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
@@ -113,7 +113,7 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Ethics of AI
@@ -141,24 +141,24 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-essential-blueprint-for-converting-slides-into-videos/"><u>[New] 2024 Approved The Essential Blueprint for Converting Slides Into Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-the-complete-pathway-to-personalized-ios-ringtones-for-2024/"><u>[New] The Complete Pathway to Personalized iOS Ringtones for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-unveils-top-ranking-super-bowl-weekend-advertisement-a-non-super-bowl-contender-hits-the-mark/"><u>Apple Unveils Top-Ranking Super Bowl Weekend Advertisement: A Non-Super Bowl Contender Hits the Mark!</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/correcting-course-post-ipad-misstep-expert-insights-on-restoring-apples-reputation/"><u>Correcting Course Post-iPad Misstep: Expert Insights on Restoring Apple's Reputation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-ai-spectrums-mass-vs-individual-use/"><u>Deciphering AI Spectrums: Mass Vs. Individual Use</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-broken-system-files-in-microsofts-latest-os/"><u>Expert Tips for Fixing Broken System Files in Microsoft's Latest OS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-your-hands-on-the-latest-macos-big-sur-macos-15-beta-version-free-guide-for-all-mac-owners/"><u>Get Your Hands on the Latest MacOS Big Sur (macOS 15) Beta Version - Free Guide for All Mac Owners!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-x90s-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo X90S Phones with/without a PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-correctly-address-the-absence-of-mfc71dll-in-your-system/"><u>How to Correctly Address the Absence of mfc71.dll in Your System</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-your-iphone-classified-as-vintage-apple-reveals-the-criteria-and-consequences-zdnet/"><u>Is Your iPhone Classified as Vintage? Apple Reveals the Criteria and Consequences | ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-downloading-and-updating-insignia-bluetooth-driver-in-windows-os/"><u>Step-by-Step Guide: Downloading and Updating Insignia Bluetooth Driver in Windows OS</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-blueprint-to-perpetual-snapstreaks-for-2024/"><u>The Blueprint to Perpetual Snapstreaks for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-4-kid-friendly-ipads-a-comprehensive-guide-zdnet/"><u>Top 4 Kid-Friendly iPads : A Comprehensive Guide (ZDNet)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-computers-expert-picks/"><u>Top-Ranking Mac Computers : Expert Picks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-iphone-15-pro-max-steals-for-pennies-on-amazon-secrets-revealed-in-this-in-depth-zdnet-analysis/"><u>Unlocking iPhone 15 Pro Max Steals for Pennies on Amazon - Secrets Revealed in This In-Depth ZDNET Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unseen-mistakes-by-artificial-writers/"><u>Unseen Mistakes by Artificial Writers</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-experts-choice-optimal-vehicle-monitoring-tech/"><u>[Updated] 2024 Approved Expert's Choice Optimal Vehicle Monitoring Tech</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/5-effective-methods-to-resolve-recovery-environment-not-found-on-windows-11/"><u>5 Effective Methods to Resolve 'Recovery Environment Not Found' On Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-enhances-self-repair-services-with-new-remote-diagnostics-for-iphone-15-and-m2-mac-a-deep-dive-into-the-latest-features/"><u>Apple Enhances Self-Repair Services with New Remote Diagnostics for iPhone 15 & M2 Mac: A Deep Dive Into the Latest Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/converti-file-audio-m4v-a-formato-wav-senza-costi-movavi/"><u>Converti File Audio M4V a Formato WAV Senza Costi - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-math-to-machine-the-birth-of-artificocal-intelligence/"><u>From Math to Machine: The Birth of Artificocal Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-workforce-does-ai-substitute-for-jobs/"><u>Future Workforce: Does AI Substitute for Jobs?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-proof-defense-how-apple-bolsters-imessage-safety-against-upcoming-risks/"><u>Future-Proof Defense: How Apple Bolsters iMessage Safety Against Upcoming Risks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/getting-started-with-microsoft-word-on-a-budget-free-edition-insights-and-tips/"><u>Getting Started with Microsoft Word on a Budget: Free Edition Insights and Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/google-pixel-watch-and-apple-watch-series-eight-showdown-a-detailed-review-to-help-you-decide-zdnet-insights/"><u>Google Pixel Watch and Apple Watch Series Eight Showdown: A Detailed Review to Help You Decide | ZDNET Insights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-6-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic 6 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-enhancing-engagement-in-online-meetings-discover-the-best-vocal-effects-for-google-meet/"><u>In 2024, Enhancing Engagement in Online Meetings Discover the Best Vocal Effects for Google Meet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-motorola-g54-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Motorola G54 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-application-essays-using-gpt-3/"><u>Mastering Application Essays Using GPT-3</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/mp4-compression-techniques-minimizing-file-size-without-compromising-quality/"><u>MP4 Compression Techniques: Minimizing File Size Without Compromising Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/phony-bot-aid-hijacks-social-network-passwords/"><u>Phony Bot Aid: Hijacks Social Network Passwords</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-guide-fixing-fifa-19s-directx-issues-with-ease/"><u>Quick Guide: Fixing FIFA 19'S DirectX Issues with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-human-ai-communication-the-top-5-expert-prompt-generators/"><u>Reimagining Human-AI Communication: The Top 5 Expert Prompt Generators</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722894742403-sequential-watchlist-for-every-superman-movie-ever-made/"><u>Sequential Watchlist for Every Superman Movie Ever Made</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-airpods-pro-gear-and-add-ons-featuring-reviews-from-zdnet/"><u>Top-Rated AirPods Pro Gear & Add-Ons - Featuring Reviews From ZDNet</u></a></li>
 </ul></div>
 

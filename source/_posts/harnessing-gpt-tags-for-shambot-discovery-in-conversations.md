@@ -1,7 +1,7 @@
 ---
 title: Harnessing GPT Tags for Shambot Discovery in Conversations
-date: 2024-12-21T16:17:18.094Z
-updated: 2024-12-27T18:47:15.824Z
+date: 2025-01-01T08:42:10.311Z
+updated: 2025-01-06T02:07:06.662Z
 tags:
   - chatgpt
   - open-ai
@@ -20,14 +20,14 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is ChatGPT's GPT Mentions Feature?](https://appsumo.8odi.net/gmezyk)
 * [How to Use the GPT Mentions Feature](https://boody-eco-wear.pxf.io/qyo4oo)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 **SCROLL TO CONTINUE WITH CONTENT**
 
  OpenAI's premium version of ChatGPT, known as ChatGPT Plus, offers users a range of extra features in exchange for the monthly subscription fee. ChatGPT Plus's newest feature, GPT call-outs or mentions, may prove very useful to you if you use various GPTs within the ChatGPT interface. So, how does this feature work, and how can it benefit you?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is ChatGPT's GPT Mentions Feature?
 
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 
  So, how can you use this?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use the GPT Mentions Feature
 
  If you're using a few custom GPTs in separate conversations, you'll now see the pop-up below displayed above your chat text box.
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 ![screenshot of GPT mentions feature window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mention-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It's super easy to use GPT Mentions, so let's delve into an example of when it would be helpful.
@@ -77,13 +77,13 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 
 ![screenshot of chatgpt beta mentions feature being used in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mentions-chat.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, you're chatting with Canva until you click "X" on the **Talking to Canva** tab that will appear above the chat text box.
 
 ![screenshot of active canva chat using beta gpt mentions feature on desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-canva-talking.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.
 
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 ![screenshot of kayak prompt result with chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-kayak-result.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After getting the results, we added the All Trails GPT to the chat using the GPT Mentions feature, and asked it to find trails near the hotels that KAYAK previously recommended.
@@ -128,22 +128,20 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-techies-guide-best-non-gaming-screen-capture-tech/"><u>[New] 2024 Approved Techie's Guide Best Non-Gaming Screen Capture Tech</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-peaceful-playtimes-best-idle-gaming-choices/"><u>[Updated] In 2024, Peaceful Playtimes Best Idle Gaming Choices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mov-aac-movavi/"><u>網路上免費 MOV 到 AAC 格式過渡 - 使用 Movavi 數位化工具</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-missteps-an-ongoing-cybersecurity-scare/"><u>AI Missteps: An Ongoing Cybersecurity Scare</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-the-perfect-cover-letter-with-ai-assistance-from-chatgpt/"><u>Crafting the Perfect Cover Letter with AI Assistance From ChatGPT</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-m54-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy M54 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/loopers-toolkit/"><u>Looper's Toolkit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-future-of-employment-with-ai/"><u>Navigating the Future of Employment with AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-your-discounted-airpods-pro-2-hearing-aid-ready-before-the-offer-ends-grab-yours-at-24-off-now/"><u>Secure Your Discounted AirPods Pro 2 (Hearing Aid Ready) Before the Offer Ends! Grab Yours at 24% Off Now .</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smartwatch-showdown-comparing-features-and-performance-of-google-pixel-watch-vs-apple-watch-series-8/"><u>Smartwatch Showdown: Comparing Features and Performance of Google Pixel Watch Vs. Apple Watch Series 8</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/three-essential-steps-apple-needs-to-take-for-reviving-vision-pros-success-insights-from-zdnet/"><u>Three Essential Steps Apple Needs to Take for Reviving Vision Pro's Success - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-8-ai-chromium-addons-to-supercharge-your-daily-tasks-and-enhance-efficiency/"><u>Top 8 AI Chromium Addons to Supercharge Your Daily Tasks and Enhance Efficiency</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-mobile-phones-recommended-by-zdnet-experts-the-devices-they-truly-utilize/"><u>Top Mobile Phones Recommended by ZDNet Experts - The Devices They Truly Utilize</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/well-being-and-vitality-8-smart-ai-upgrades/"><u>Well-Being & Vitality: 8 Smart AI Upgrades</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/windows-11-v2004-patch-installing-the-latest-conexant-driver/"><u>Windows 11 v2004 Patch: Installing the Latest Conexant Driver</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/you-can-now-access-chatgpt-and-whisper-apis-what-this-means-for-businesses/"><u>You Can Now Access ChatGPT and Whisper APIs: What This Means for Businesses</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-greatest-of-all-time-reddits-favorite-threads/"><u>[New] 2024 Approved Greatest of All Time Reddit's Favorite Threads</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-journey-to-stickers-full-tutorial-for-turning-gifs-in-chat-apps-like-discord-and-telegram/"><u>[New] 2024 Approved Journey to Stickers Full Tutorial for Turning GIFs in Chat Apps Like Discord and Telegram</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-mastering-the-art-of-engaging-unboxing-reels-for-2024/"><u>[New] Mastering the Art of Engaging Unboxing Reels for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-editmaster-insights-extensive-coverage-for-2024/"><u>[Updated] EditMaster Insights – Extensive Coverage for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unmasking-the-potential-of-recordcast/"><u>[Updated] Unmasking the Potential of RecordCast</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anticipate-apples-new-airpods-launch-insider-info-on-arrival-and-securing-yours-early-with-confidence/"><u>Anticipate Apple's New AirPods Launch – Insider Info on Arrival and Securing Yours Early with Confidence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-ai-miscommunications-with-6-key-points/"><u>Avoiding AI Miscommunications with 6 Key Points</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-gopro-hero5-black-batteries-and-chargers-official-and-3rd-party/"><u>Best GoPro Hero5 Black Batteries & Chargers Official and 3Rd Party</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-the-bulky-designs-next-gen-magsafe-battery-pack-charges-lightning-fast-for-ultimate-convenience/"><u>Beyond the Bulky Designs: Next-Gen MagSafe Battery Pack Charges Lightning-Fast for Ultimate Convenience!</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-fixes-for-your-windows-10-a-guide-to-sfc-and-dism-tools/"><u>Essential Fixes for Your Windows 10: A Guide to SFC and DISM Tools</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-evaluation-of-the-ideal-iphone-accessory-apple-airtag/"><u>In-Depth Evaluation of the Ideal iPhone Accessory - Apple AirTag</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-alternatives-to-openais-pos-mobile-platform/"><u>Innovative Alternatives to OpenAI’s POS Mobile Platform</u></a></li>
+<li><a href="https://video-capture.techidaily.com/quick-guide-how-to-seamlessly-record-screens-with-audio-on-windows-and-mac/"><u>Quick Guide: How to Seamlessly Record Screens with Audio on Windows and Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-4-apple-gadgets-to-avoid-purchasing-today-expert-insights/"><u>Top 4 Apple Gadgets to Avoid Purchasing Today: Expert Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-magsafe-wallets-comprehensive-reviews-by-tech-gurus-featuring-insights/"><u>Top-Rated MagSafe Wallets : Comprehensive Reviews by Tech Gurus - Featuring Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Elite Athletes' Prompts for AI Engagement
-date: 2024-12-21T16:27:23.299Z
-updated: 2024-12-27T19:01:10.076Z
+date: 2025-01-01T03:53:12.344Z
+updated: 2025-01-06T08:33:06.922Z
 tags:
   - chatgpt
   - open-ai
@@ -28,15 +28,15 @@ thumbnail: https://thmb.techidaily.com/174f7545789a7be7b3fd36a0fbdd896064abfcc58
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tips to Get Optimal Fitness Advice on ChatGPT
 
  Vague prompts yield generic responses. ChatGPT merely presents the basics if you feed it overused instructions like “help me lose fat” or “create a whole-body workout.” Everyone using these prompts gets the same results.
 
 [To generate better output on ChatGPT](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) , it's important to craft detailed prompts. Explain your fitness goals in detail, provide context about your overall health, and avoid running multistep tasks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Provide Context About Yourself in the Prompt
 
@@ -46,13 +46,13 @@ thumbnail: https://thmb.techidaily.com/174f7545789a7be7b3fd36a0fbdd896064abfcc58
 
 ![ChatGPT Explaining Fat Loss Basics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-fat-loss.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Meanwhile, this conversation shows ChatGPT’s response to users who provide their fitness levels.
 
 ![ChatGPT Creates Detailed Fat Loss Program Based on Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-detailed-fat-loss-program.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Specify Your Fitness Goals
 
@@ -66,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/174f7545789a7be7b3fd36a0fbdd896064abfcc58
 
 ![Asking ChatGPT to Help Me Drop Body Fat Percentage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/asking-chatgpt-to-drop-body-fat.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The [Centers for Disease Control and Prevention](https://www.cdc.gov/healthyweight/losing%5Fweight/index.html) (CDC) states that most people can safely lose one or two pounds per week. Losing weight too fast endangers your health.
 
 ### Explain the Program ChatGPT Should Create
@@ -81,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/174f7545789a7be7b3fd36a0fbdd896064abfcc58
 ![Asking ChatGPT How to Run Even With Asthma](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/running-and-asthma.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  AI can’t replace medical consultations. If you have doubts about your new exercise regimen, always check with your doctor.
@@ -95,12 +91,16 @@ thumbnail: https://thmb.techidaily.com/174f7545789a7be7b3fd36a0fbdd896064abfcc58
 ![ChatGPT Creating Workout of Different Sports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-ssports-workouts.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Examples of Effective ChatGPT Prompts for Fitness Enthusiasts
 
 [Creating effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) requires trial and error. If you’re having trouble getting ChatGPT to do what you need, try any of the below formulas. You can also adjust them to your needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Customized Personal Trainer
 
@@ -116,14 +116,6 @@ thumbnail: https://thmb.techidaily.com/174f7545789a7be7b3fd36a0fbdd896064abfcc58
 
 ![Snackprompt Writing a Meal Plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snackprompt-meal-plan.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Comprehensive Bodybuilding Program Builder
 
  Fitness enthusiasts who need help with training should try this prompt. It creates a one-week workout regimen designed to help you achieve your ideal physique.
@@ -132,9 +124,17 @@ thumbnail: https://thmb.techidaily.com/174f7545789a7be7b3fd36a0fbdd896064abfcc58
 
 ![ChatGPT Creating a Bodybuilding Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bodybuilding-profile.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, ChatGPT generates a simple workout program. Since this persona’s goal is to lose 30 pounds fast, the program primarily consists of cardio and whole-body exercises.
 
 ![ChatGPT Generating a Simple Cardio and Bodyweight Program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-cardio-and-bodyweight-program.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Specify any specific muscle groups you need to target. You’ll get a more detailed program if you mention the machines and equipment you can access.
 
@@ -145,10 +145,6 @@ thumbnail: https://thmb.techidaily.com/174f7545789a7be7b3fd36a0fbdd896064abfcc58
  Once you send the prompt, ChatGPT will ask about your eating habits. It needs your meal frequency, preferred ingredients, and fitness goals.
 
 ![ChatGPT Creating User Profile for Personalized Meal Plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-asking-about-meal-plan.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You’ll receive your seven-day meal plan shortly. It should contain household ingredients and easy cooking techniques, but feel free to clarify confusing recipes.
 
@@ -161,6 +157,10 @@ thumbnail: https://thmb.techidaily.com/174f7545789a7be7b3fd36a0fbdd896064abfcc58
 ![ChatGPT Listing Simple Guideline to Live Healthier](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-fitness-motivation.jpg)
 
  Apart from listing simple exercises, ChatGPT also uses mindful phrasing. Getting out of a slump is hard. Even a seemingly easy cardio workout could seem intimidating—ChatGPT has to be careful.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Basic Injury Treatment
 
@@ -175,7 +175,7 @@ thumbnail: https://thmb.techidaily.com/174f7545789a7be7b3fd36a0fbdd896064abfcc58
 ![ChatGPT as a Life Coach and Summarizing Bodybuilding Book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-as-a-life-coach.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use ChatGPT to Achieve Your Fitness Goals
@@ -199,21 +199,20 @@ thumbnail: https://thmb.techidaily.com/174f7545789a7be7b3fd36a0fbdd896064abfcc58
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-refresh-your-virtual-space-in-google-meet-pc-and-mobile-way/"><u>[Updated] In 2024, Refresh Your Virtual Space in Google Meet, PC & Mobile Way</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-navigating-soundscape-dilution-via-audacity-tools-for-2024/"><u>[Updated] Navigating Soundscape Dilution via Audacity Tools for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-the-trustworthiness-of-independent-gpt-tools/"><u>Assessing the Trustworthiness of Independent GPT Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claiming-a-piece-of-the-action-from-apples-25m-family-sharing-class-action-payout-what-you-need-to-know/"><u>Claiming a Piece of the Action From Apple's $25M Family Sharing Class-Action Payout – What You Need to Know</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/exclusive-reveals-on-securing-high-quality-live-cricket-broadcasting-for-2024/"><u>Exclusive Reveals on Securing High-Quality Live Cricket Broadcasting for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/handhelds-of-the-past-todays-computer-upgrade-guides/"><u>Handhelds of the Past, Today's Computer Upgrade Guides</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-apple-iphone-14-plus-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your Apple iPhone 14 Plus without Security Questions?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-djis-fpv-spectacles-feature-analysis/"><u>In 2024, DJI's FPV Spectacles Feature Analysis</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-motorola-moto-g-stylus-2023-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Motorola Moto G Stylus (2023) Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interpreting-codegpt-could-it-be-the-next-programming-hero/"><u>Interpreting CodeGPT: Could It Be the Next Programming Hero?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/occupational-survival-how-to-thrive-post-ai-revolution/"><u>Occupational Survival: How to Thrive Post-AI Revolution?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-ai-dialogues-with-elite-instructional-series/"><u>Revolutionize AI Dialogues with Elite Instructional Series</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-for-privacy-preventing-gpt-from-logging-dialogs/"><u>Strategies for Privacy: Preventing GPT From Logging Dialogs</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-poco-x6-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Poco X6 Pro Phone Pattern Lock</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-veneer-spotting-synthetic-scripts/"><u>Unveiling the Veneer: Spotting Synthetic Scripts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/virtual-reality-camera-quest-wholl-win/"><u>Virtual Reality Camera Quest Who'll Win?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-demystifying-social-engagement-instagram-stories-surveys/"><u>[Updated] In 2024, Demystifying Social Engagement Instagram Stories Surveys</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-seo-tactics-to-increase-youtube-traffic-and-views/"><u>[Updated] SEO Tactics to Increase YouTube Traffic and Views</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-whats-in-it-for-a-million-youtube-viewers/"><u>[Updated] What’s in It for a Million YouTube Viewers?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-latest-notebook-showdown-choosing-between-the-m2-and-m3-macbook-air-models-expert-comparison/"><u>Apple's Latest Notebook Showdown: Choosing Between the M2 and M3 MacBook Air Models - Expert Comparison</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-to-use-travel-wizards-the-compilation-of-top-7-planning-apps/"><u>Free-to-Use Travel Wizards - The Compilation of Top 7 Planning Apps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-pro-max-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro Max To Android? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-vida-reimagined-editing-revolution-unveiled/"><u>In 2024, Vida Reimagined Editing Revolution Unveiled</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/navigating-the-shifts-essential-insights-on-future-facebook-ads-24/"><u>Navigating the Shifts Essential Insights on Future Facebook Ads '24</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revitalize-creativity-top-5-ai-text-inspirers/"><u>Revitalize Creativity: Top 5 AI Text Inspirers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solving-the-major-issues-how-pixel-watch-3-revolutionizes-googles-wearables-insights/"><u>Solving the Major Issues: How Pixel Watch 3 Revolutionizes Google's Wearables - Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125541-9781609257965-the-art-of-living-out-loud/"><u>The Art of Living Out Loud | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-generation-awaits-exploring-apples-revolutionary-tandem-oled-displays-on-the-latest-ipad-pro-zdnet-insights/"><u>The Next Generation Awaits: Exploring Apple's Revolutionary Tandem OLED Displays on the Latest iPad Pro | ZDNET Insights</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-8-ios-and-pc-tools-for-effortlessly-altering-your-videos-for-2024/"><u>Top 8 iOS & PC Tools for Effortlessly Altering Your Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-apples-hidden-gem-the-understated-ai-breakthrough-coming-to-wwdc/"><u>Unveiling Apple's Hidden Gem: The Understated AI Breakthrough Coming to WWDC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-apples-cutting-edge-artificial-intelligence-wont-upgrade-past-models-understanding-the-cost-of-innovation-zdnet/"><u>Why Apple's Cutting-Edge Artificial Intelligence Won’t Upgrade Past Models: Understanding the Cost of Innovation - ZDNet</u></a></li>
 </ul></div>
 

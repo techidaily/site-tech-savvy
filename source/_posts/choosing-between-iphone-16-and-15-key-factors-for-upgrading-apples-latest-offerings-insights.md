@@ -1,7 +1,7 @@
 ---
 title: Choosing Between iPhone 16 and 15? Key Factors for Upgrading Apple's Latest Offerings - Insights
-date: 2024-12-22T19:48:03.163Z
-updated: 2024-12-27T16:00:11.155Z
+date: 2025-01-01T23:00:29.610Z
+updated: 2025-01-05T23:18:16.941Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -53,6 +49,10 @@ To help you make this decision, we've broken down all of the most important deta
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  1\. You'd benefit from Apple Intelligence features
 
 Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/). Chief among them is the long-awaited Siri upgrade. The iOS assistant is much smarter than before as it is now aware of on-screen content, can better understand commands even if you stumble over your words, and can switch between text and voice inputs. This is just the tip of the iceberg, too, as Siri will fully integrate itself with [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-the-worlds-most-popular-ai-chatbot-explained/#link={) later in the year.
@@ -61,10 +61,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -72,6 +68,10 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -91,12 +91,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
@@ -107,10 +111,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -120,7 +120,7 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417991%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417991.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -157,18 +157,18 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-masterclass-in-virality-cutting-edge-strategies-for-instagram-films-for-2024/"><u>[New] Masterclass in Virality Cutting-Edge Strategies for Instagram Films for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-essential-recording-steps-for-youtube-audio-extraction/"><u>[Updated] Essential Recording Steps for YouTube Audio Extraction</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-remote-screen-resizing-facility/"><u>[Updated] Remote Screen Resizing Facility</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-future-of-ai-with-googles-bard-and-bing/"><u>Decoding the Future of AI with Google's Bard and Bing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-localized-learning-on-device-techniques-and-strategies/"><u>Exploring Localized Learning: On-Device Techniques & Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gauging-ai-trustworthiness-for-financial-guidance/"><u>Gauging AI Trustworthiness for Financial Guidance?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-7-steps-for-stellar-cooking-films/"><u>In 2024, The Ultimate Guide 7 Steps for Stellar Cooking Films</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-6-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 6 With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-the-new-airpods-pro-featuring-find-my-speaker-and-upgraded-usb-c-charging-by-apple-latest-from-zdnet/"><u>Introducing the New AirPods Pro: Featuring 'Find My Speaker' & Upgraded USB-C Charging by Apple - Latest From ZDNet</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/leveraging-cookiebot-for-personalized-marketing-insights/"><u>Leveraging Cookiebot for Personalized Marketing Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/premier-github-initiatives-for-dynamic-chatgpt-interactions/"><u>Premier Github Initiatives for Dynamic ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/troubleshooting-topics-solving-the-most-frequent-chatgpt-issues/"><u>Troubleshooting Topics: Solving the Most Frequent ChatGPT Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-apple-studio-display-a-complete-overview-of-specs-functionalities-and-essential-insights/"><u>Unveiling the Apple Studio Display - A Complete Overview of Specs, Functionalities, and Essential Insights</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-replace-vanished-facebook-watch-icon/"><u>[New] In 2024, Replace Vanished Facebook Watch Icon</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-removing-aerial-video-pulsation-effects/"><u>[New] Removing Aerial Video Pulsation Effects</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-15-best-funny-youtube-channels-to-watch-when-youre-bored-for-2024/"><u>[Updated] 15 Best Funny YouTube Channels to Watch When You're Bored for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-live-video-responses-on-twitter-your-ultimate-how-to-manual/"><u>[Updated] 2024 Approved Live Video Responses on Twitter Your Ultimate How-To Manual</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gaming-history-told-by-top-video-makers/"><u>[Updated] In 2024, Gaming History Told by Top Video Makers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-leadership-turnover-anticipating-gpt-alterations/"><u>AI Leadership Turnover: Anticipating GPT Alterations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/charting-chatgpts-breakneck-development/"><u>Charting ChatGPT's Breakneck Development</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-at-hand-ready-for-8-personalized-gpts/"><u>Future at Hand: Ready for 8 Personalized GPTs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y02t-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y02T PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meet-cerebras-mega-scale-wse-3-redefining-the-future-of-generative-ai-detailed-analysis-by-zdnet/"><u>Meet Cerebras' Mega-Scale WSE-3: Redefining the Future of Generative AI - Detailed Analysis by ZDNet</u></a></li>
+<li><a href="https://win-online.techidaily.com/navigating-crypto-compliance-a-deep-dive-into-current-laws-by-experts-at-yl-computing-and-yl-software/"><u>Navigating Crypto Compliance: A Deep Dive Into Current Laws by Experts at YL Computing & YL Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-computing-experts-unveiling-the-latest-in-hardware-technology/"><u>Tom's Computing Experts: Unveiling the Latest in Hardware Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vision-pro-headset-integration-with-zoom-prepare-for-unusual-meeting-experiences-digital-trends/"><u>Vision Pro Headset Integration with Zoom: Prepare for Unusual Meeting Experiences | Digital Trends</u></a></li>
 </ul></div>
 

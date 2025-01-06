@@ -1,7 +1,7 @@
 ---
 title: Are Third-Party ChatGPT Apps and Browser Extensions Safe?
-date: 2024-12-24T22:14:29.217Z
-updated: 2024-12-27T17:13:14.499Z
+date: 2025-01-02T18:51:12.562Z
+updated: 2025-01-06T02:54:56.021Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fake ChatGPT Extensions
 
 ![ChatGPT Search Chrome Web Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-screenshots-chrome-web-store.jpg)
@@ -41,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 ![Merlin Extension Answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/merlin-extension-answering-query.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, [not all ChatGPT browser extensions are bad](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/). Some of them actually do what they advertise. One such extension is Merlin ChatGPT. Once you have logged in, the extension does exactly what it says. It will summarize your Google searches automatically and bring up a chat window where you can ask the chatbot for more information.
@@ -51,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 ![Play store ChatGPT search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/play-store-chatgpt-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A similar story lies within both the App Store and the Play Store. A quick "ChatGPT" search will show many apps that claim to be your favorite AI assistant. However, looking at the reviews section shows that these apps are mostly using paid reviews. Such apps can easily exploit user data by selling it to third-party companies.
@@ -64,23 +68,19 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
 ![Bing chat iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![bing-chat-android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-android.jpg)
 
 Close
 
  Now that Bing has integrated GPT-4 into its search engine, there isn't any need to go for these apps in the first place. You can instead download the new version of the Bing app to [use Bing AI Chat on your Android](https://www.makeuseof.com/how-to-use-bing-chat-app-ai-android) or iPhone. Since Bing uses GPT-4 and can access information from the web in real-time, it's a better alternative than any of the shady ChatGPT clones.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Privacy Concerns
 
 ![Malicious-file-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/malicious-file-image.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Most shady third-party ChatGPT apps and browser extensions raise a ton of privacy concerns. Since they trace back to the same parent companies, they can log your searches, history, and web traffic to [sell your data for targeted advertising](https://www.makeuseof.com/why-seeing-same-ads/).
 
@@ -105,7 +105,7 @@ Close
 ![Perplexity AI response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-response-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Trained on OpenAI's GPT-3 language model, [Perplexity AI](http://www.perplexity.ai/) is a great research tool that scans the web to bring you results. It doesn't require any sign-up or login, and the response timing is very good. The main [difference between Perplexity AI and ChatGPT](https://www.makeuseof.com/chatgpt-plus-vs-perplexity-which-is-best) is that Perplexity can cite sources for its responses, making it more accurate.
@@ -113,7 +113,7 @@ Close
  But while Perplexity works well as a search-engine-cum-chatbot, its conversational abilities could be better. It works best as a research tool rather than an AI assistant. Still, the fact that you can download and use it without signing up is incredible, compared to other third-party apps that require your personal info one way or the other.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Nova AI
@@ -149,20 +149,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/dea-inception-using-google-trends-to-fuel-videography-for-2024/"><u>[New] Idea Inception Using Google Trends to Fuel Videography for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-effortless-sound-transformation-from-youtube-to-wav-format/"><u>[New] In 2024, Effortless Sound Transformation From YouTube to WAV Format</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-step-by-step-journey-through-high-impact-youtube-banner-designs/"><u>[Updated] 2024 Approved A Step-by-Step Journey Through High-Impact YouTube Banner Designs</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-quick-climb-up-the-feed-use-of-likes-and-video-content-for-2024/"><u>[Updated] Quick Climb Up the Feed Use of Likes and Video Content for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-you-put-your-faith-in-ais-for-economic-decisions/"><u>Can You Put Your Faith in AIs for Economic Decisions?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/checking-content-quality-by-gpt/"><u>Checking Content Quality by GPT</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-the-latest-in-tech-with-dells-new-xps-laptops-say-goodbye-to-physical-pads-and-keyboard-keys/"><u>Discover the Latest in Tech with Dell's New XPS Laptops - Say Goodbye to Physical Pads and Keyboard Keys</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/expert-analysis-by-toms-technology-hub/"><u>Expert Analysis by Tom's Technology Hub</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-diminuendo-film-narrative/"><u>In 2024, Diminuendo Film Narrative</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/massive-discount-alert-save-up-to-700-on-the-latest-2022-ipad-pro-this-labor-day-insider-deals/"><u>Massive Discount Alert: Save Up To $700 On The Latest 2022 iPad Pro This Labor Day - Insider Deals!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/mastering-screen-recordings-in-gotomeeting-for-2024/"><u>Mastering Screen Recordings in GoToMeeting for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mistrust-in-ai-detectors-look-at-zerogpts-flaws/"><u>Mistrust in AI Detectors? Look at ZeroGPT's Flaws</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prime-day-deals-explore-how-the-apple-watch-series-se-2nd-generation-continues-offering-a-80-discount-insights/"><u>Prime Day Deals: Explore How the Apple Watch Series SE (2Nd Generation) Continues Offering a $80 Discount - Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rubber-based-linings-offer-flexibility-and-chemical-resistance-while-plastic-liners-like-ptfe-provide-excellent-performance-at-higher-temperatures/"><u>Rubber-Based Linings Offer Flexibility and Chemical Resistance, While Plastic Liners Like PTFE Provide Excellent Performance at Higher Temperatures.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-puzzle-of-ai-deciphering-black-box-algorithms/"><u>The Puzzle of AI: Deciphering Black Box Algorithms</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-comprehensively-understanding-youtubes-aspect-ratio-ecosystem/"><u>[New] 2024 Approved Comprehensively Understanding YouTube's Aspect Ratio Ecosystem</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-essential-imovie-techniques-to-upgrade-your-youtube-content/"><u>[New] 2024 Approved Essential iMovie Techniques to Upgrade Your YouTube Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-pro-tips-for-high-quality-ps3-game-screenshots/"><u>[New] 2024 Approved Pro Tips for High-Quality PS3 Game Screenshots</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-dji-quadcopters-groups-fundamentals-advanced-configurations-hd-experts/"><u>[New] DJI Quadcopters Groups Fundamentals, Advanced Configurations, HD Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-role-in-future-dev-workflows/"><u>AI's Role in Future Dev Workflows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-razers-latest-innovation-the-powerhouse-that-is-the-stealth-13/"><u>Comprehensive Review of Razer's Latest Innovation: The Powerhouse That Is the Stealth 13</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-information-access-with-advanced-perplexity-ai/"><u>Elevate Information Access with Advanced Perplexity AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/funny-robots-unveiling-pc-history-and-virtual-network-protection/"><u>Funny Robots: Unveiling PC History and Virtual Network Protection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-iphones-journal-app-makes-your-device-findable-and-why-you-should-disable-it-zdnet/"><u>How iPhone's Journal App Makes Your Device Findable and Why You Should Disable It | ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-audio-troubles-top-5-fixes-for-audacitys-cannot-open-sound-device/"><u>Resolve Your Audio Troubles: Top 5 Fixes for Audacity's 'Cannot Open Sound Device'</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/solucion-al-error-de-inicio-del-dispositivo-de-inicio-en-windows-server-201/"><u>Solución Al Error De Inicio Del Dispositivo De Inicio en Windows Server 201</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722961967943-strategic-partnerships-and-distribution-networks-for-global-reach/"><u>Strategic Partnerships and Distribution Networks for Global Reach</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-consequences-of-content-control-by-artificinaset-algorithms/"><u>The Consequences of Content Control by Artificinaset Algorithms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-of-the-line-laptops-faceoff-how-the-samsung-galaxy-book-3-ultra-stacks-up-against-the-macbook-pro-insights-by-zdnet/"><u>Top-of-the-Line Laptops Faceoff: How the Samsung Galaxy Book 3 Ultra Stacks Up Against the MacBook Pro | Insights by ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-leading-small-tablet-picks-of-2e24-in-depth-analysis-and-rankings-as-tested-by-industry-authorities-insights-from-zdnet/"><u>Ultimate Guide to the Leading Small Tablet Picks of 2E24: In-Depth Analysis and Rankings as Tested by Industry Authorities | Insights From ZDNET</u></a></li>
 </ul></div>
 

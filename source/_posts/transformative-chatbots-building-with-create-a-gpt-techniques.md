@@ -1,7 +1,7 @@
 ---
 title: "Transformative ChatBots: Building with Create a GPT Techniques"
-date: 2024-09-12T07:41:41.089Z
-updated: 2024-09-13T07:41:41.089Z
+date: 2024-12-30T22:13:47.598Z
+updated: 2025-01-06T09:13:49.563Z
 tags:
   - chatgpt
   - open-ai
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 
  Even though this is the first version of the GPT Builder, it's a very promising premise. It's chock-full of capabilities, has options to share your GPT with the public, and only takes a moment to spin up your custom GPT.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Create a GPT from My GPTs
 
  The first thing you need to do is [subscribe to ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) if you haven't already. You should find the button to do so in the left-side menu of the ChatGPT interface. Once you've paid the $20 fee, follow the instructions below:
@@ -38,26 +31,10 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 ![My GPTs in the Explore tab of ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/my-gpts-in-the-explore-tab-of-chatgpt.jpg)
 2. Choose**Create a GPT** to open the GPT Builder's interface.
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  At the time of writing, "Create a GPT" is still in beta. This means not all features are fully online, and the product isn't finished. Bear this in mind while building your GPT and prepare to encounter issues. Also, it's possible that your finished GPT may be erased when a future update comes knocking.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Give Your GPT a Primary Description and a Picture
@@ -68,23 +45,14 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 ![Primary description for a D&D GPT in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/primary-description-for-a-d-d-gpt-in-gpt-builder.jpg)
 2. Next, give your GPT a name. ChatGPT will suggest one for you, but you can still type in anything you want.
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Once you give your GPT a name, it'll automatically create a profile picture as the next step. Thanks to ChatGPT's DALL-E integration, the images are typically pretty good. Ask it to regenerate more images if you're not happy with it. You can prompt it to create the exact image you want with some guidance.  
 ![Generating a profile picture for a D&D 5e dungeon master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/generating-a-profile-picture-for-a-d-d-5e-dungeon-master-gpt.jpg)
 
  You can manually change the image, name, description, and instructions for your GPT by clicking**Configure** . Click the profile picture to change it, and edit the details in the**Name** **Description** and**Instructions** fields to change them without typing prompts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Establish a Tone and Rules for Your GPT
 
@@ -93,10 +61,7 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 ![GPT Builder setting the tone and language for The 5e Dungeon Master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-builder-setting-the-tone-and-language-for-the-5e-dungeon-master-gpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  But, of course, if you are making a more professional GPT, ensure it uses professional language.
@@ -114,10 +79,7 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
  If you find that it's not fulfilling your instructions as well as you want, go back to the**Create** tab and give it further instructions. But remember that new instructions mean you've effectively created a new version of your GPT.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Upload Files as a Knowledge Base
@@ -150,10 +112,7 @@ Here's how to upload source documents to your custom GPT:
 ![Capabilites in GPT Builder's settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/capabilites-in-gpt-builder-s-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add APIs for Third-Party Services
@@ -165,13 +124,6 @@ Here's how to upload source documents to your custom GPT:
 3. Copy and paste your OpenAPI schema into the input box.
 4. **Optional:** Scroll down and enter an authentication method and privacy policy.
 5. ![Testing weather API example in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/testing-weather-api-example-in-gpt-builder.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Go back when you're finished.
 
@@ -188,26 +140,21 @@ Go back when you're finished.
 3. Click the**X** next to a conversation starter block to remove it.  
 ![Configuring conversation starters in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/configuring-conversation-starters-in-gpt-builder.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can add more conversation starters as required.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Save and Publish Your GPT
 
  In the future, we expect OpenAI will create a community marketplace for custom GPTs. But while a framework for it is in the works, it's not yet available. Still, you can save your GPT and view your builder profile by clicking the**Save** dropdown menu in the top-right corner.
 
 ![Share dropdown menu in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/share-dropdown-menu-in-gpt-builder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While it won't make any difference, for now, you can choose whether you'd like to publish to the public, via links, or only to yourself. None of the sharing options work, by the way. We have to wait for an update. But, if you want friends to use your AI, return to ChatGPT's home, open the GPT's chat, and copy the URL in your browser's address bar.
 
@@ -232,5 +179,20 @@ You can add more conversation starters as required.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-capturing-speech-iphone-memo-making-steps/"><u>[New] 2024 Approved Capturing Speech IPhone Memo-Making Steps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-capturing-live-sounds-directly-from-youtube-videos-for-2024/"><u>[New] Capturing Live Sounds Directly From YouTube Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-expert-picks-the-phones-chosen-editors-for-everyday-use/"><u>1. Expert Picks: The Phones Chosen Editors for Everyday Use</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-clarity-counts-how-to-zoom-into-every-aspect-of-google-meet-calls/"><u>2024 Approved Clarity Counts How to Zoom Into Every Aspect of Google Meet Calls</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/asus-proart-pa-329q-in-focus-the-comprehensive-4k-professional-display-analysis-for-2024/"><u>Asus ProArt PA 329Q in Focus – The Comprehensive 4K Professional Display Analysis for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-a-revenue-generating-online-presence-for-2024/"><u>Crafting a Revenue-Generating Online Presence for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-jpeg-document-online-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How to sign a .jpeg document online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/liberate-your-iphone-storage-the-ultimate-guide-to-clearing-junk-files-and-reclaiming-space/"><u>Liberate Your iPhone Storage: The Ultimate Guide to Clearing Junk Files & Reclaiming Space</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-research-the-chatgpt-approach/"><u>Optimizing Research: The ChatGPT Approach</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/skip-googles-cleverly-coded-malwarebard-app/"><u>Skip Google’s Cleverly Coded Malware—Bard App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sneak-peeks-stopped-safeguarding-chatbot-data/"><u>Sneak Peeks Stopped: Safeguarding Chatbot Data</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essence-of-chatgpt-forging-ai-driven-innovation-pathways/"><u>The Essence of ChatGPT: Forging AI-Driven Innovation Pathways</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-premiere-pro-slow-playback-issues-finding-the-best-solutions/"><u>Updated In 2024, Premiere Pro Slow Playback Issues Finding The Best Solutions</u></a></li>
+</ul></div>
 

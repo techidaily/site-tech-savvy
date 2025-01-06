@@ -1,7 +1,7 @@
 ---
 title: "The Chronicles of AI: When It All Began"
-date: 2024-12-25T21:33:53.122Z
-updated: 2024-12-27T20:07:05.296Z
+date: 2024-12-31T01:19:47.605Z
+updated: 2025-01-05T17:10:42.263Z
 tags:
   - chatgpt
   - open-ai
@@ -28,12 +28,16 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1300-1900: Tracing the Roots of AI
 
 ![Old, Ancient Books in Dirt and With Yellow Pages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/old-books-yellow-pages.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Computers emerged in the mid-70s](https://www.makeuseof.com/who-built-the-first-personal-computer-and-how-does-it-compare-with-your-pc-or-laptop/), but historians trace the earliest references to AI back to the late middle ages. Scholars often wondered about future innovations. Of course, they lacked the technological resources and skills to materialize ideas.
@@ -46,12 +50,16 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
  Although the first period looking at the roots of AI covers a vast period, there are some key moments.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1900-1950: The Dawn of Modern AI
 
 ![Scribbles of Math Problems on Old Notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/math-problems-old-notebook-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Technological developments accelerated during this period. The accessibility of IT resources enabled researchers to materialize theories, imagined concepts, and speculations. They were laying the foundation for cybernetics.
 
@@ -62,13 +70,13 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
 
  The dawn of modern AI fitting accumulates with Alan Turing's paper and the [Turing Test, which attempts to answer the question](https://www.makeuseof.com/tag/what-is-turing-test-ever-beaten/), "Can machines think?"
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1951-2000: Exploring the Applications of AI Technologies
 
 ![An Old and Large Supercomputer Display at the Museum](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/old-super-computer-display.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:CDC%5F6600%5F-%5FComputer%5FHistory%5FMuseum%5F%2830614723650%29.jpg)
 
@@ -83,10 +91,6 @@ Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:C
 ## 2001-2010: Integrating AI Into Modern Technologies
 
 ![The Black First Generation iPhone on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/original-iphone-first-gen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IPhone%5FFirst%5FGeneration%5F8GB%5F%283680455198%29.jpg)
 
@@ -125,10 +129,6 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
  There are also numerous [other AI web apps](https://www.makeuseof.com/best-ai-web-apps/) and [AI-based health apps](https://www.makeuseof.com/best-ai-apps-monitor-your-health/) available for use or in development, and so many more to come.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How AI Will Shape the Future
 
  AI technologies go beyond chatbots and image generators. They contribute to the advancement of various fields, from global security to consumer technology. You benefit from AI in more ways than you realize. So instead of rejecting publicly available AI systems, learn to utilize them yourself.
@@ -154,24 +154,21 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-expert-tips-on-documenting-lol-tournaments/"><u>[Updated] 2024 Approved Expert Tips on Documenting LOL Tournaments</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unleashing-the-power-of-pip-videos-with-sierras-os-advantages/"><u>[Updated] Unleashing the Power of PIP Videos with Sierra's OS Advantages</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oppo-reno-11-pro-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Oppo Reno 11 Pro 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-earnings-enlightenment-joshi-and-youtube-success-stories/"><u>2024 Approved Earnings Enlightenment Joshi and YouTube Success Stories</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-savor-success-the-hottest-food-challenges-on-tiktok-to-keep-you-entertained-and-inspired/"><u>2024 Approved Savor Success The Hottest Food Challenges on TikTok to Keep You Entertained and Inspired</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-content-vs-traditional-se-excellence/"><u>AI-Driven Content vs Traditional SE Excellence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-pencil-inspired-design-unveiled-in-vision-pro-controller-patent-revealed/"><u>Apple Pencil-Inspired Design Unveiled in Vision Pro Controller Patent Revealed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beginners-blueprint-for-launching-a-vlog-series-on-product-critiques-for-2024/"><u>Beginner's Blueprint for Launching a Vlog Series on Product Critiques for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-current-updates-wide-usefulness/"><u>ChatGPT's Current Updates: Wide Usefulness</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-guide-why-protecting-your-privacy-with-a-vpn-is-crucial-for-using-vision-pro-and-similar-xr-devices/"><u>Essential Guide: Why Protecting Your Privacy with a VPN Is Crucial for Using Vision Pro and Similar XR Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/fabricate-comical-artwork-adobe-style/"><u>Fabricate Comical Artwork, Adobe Style</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/has-your-ipad-become-a-relic-of-the-past/"><u>Has Your iPad Become a Relic of the Past?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-camon-20-premier-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Tecno Camon 20 Premier 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovative-queries-for-enhanced-crypto-insight/"><u>Innovative Queries for Enhanced Crypto Insight</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-the-new-mac-mini-with-m4-chip-compact-and-powerful-like-an-apple-tv-zdnet-explores/"><u>Is the New Mac Mini with M4 Chip Compact and Powerful Like an Apple TV? - ZDNet Explores</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-future-of-intelligence-how-apple-must-evolve-its-ai-features-to-challenge-tech-giants-openai-and-google-expert-analysis/"><u>Navigating the Future of Intelligence: How Apple Must Evolve Its AI Features to Challenge Tech Giants OpenAI and Google – Expert Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/offline-operations-with-llama-2-stepwise-tutorial/"><u>Offline Operations with Llama 2: Stepwise Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shop-the-advanced-airpods-pro-2-and-transform-them-into-a-hearing-aid-at-an-unbeatable-price-discount-of-24-exclusive-offer/"><u>Shop the Advanced AirPods Pro 2 and Transform Them Into a Hearing Aid at an Unbeatable Price Discount of 24% - Exclusive Offer</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-five-must-know-factors-of-metas-new-data-strategy/"><u>The Five Must-Know Factors of Meta’s New Data Strategy</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-10-escape-room-games-you-should-try-for-2024/"><u>[New] Top 10 Escape Room Games You Should Try for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-historical-insights-the-most-relevant-youtube-channels-for-learners-for-2024/"><u>[Updated] Historical Insights - The Most Relevant YouTube Channels for Learners for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-elevating-video-view-count-top-hashtag-trends-guide/"><u>[Updated] In 2024, Elevating Video View Count Top Hashtag Trends Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerating-battery-health-monitoring-set-up-full-charge-indicators-in-win11/"><u>Accelerating Battery Health Monitoring: Set Up Full Charge Indicators in Win11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-let-loose-reveals-unexpected-star-affordable-ipad-for-only-349/"><u>Apple's 'Let Loose' Reveals Unexpected Star: Affordable iPad for Only $349</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/boost-creativity-and-performance-with-these-top-10-free-tiktok-editors-for-mac-for-2024/"><u>Boost Creativity and Performance with These Top 10 FREE TikTok Editors for Mac for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compre-cookie-cutter-method-for-downloading-and-installing-llama-2/"><u>Compre Cookie Cutter Method for Downloading & Installing Llama 2</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/comprehensive-strategies-for-overwatch-gaming-saves/"><u>Comprehensive Strategies for Overwatch Gaming Saves</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-your-books-dialogues-top-gpt-ideas-to-craft-characters/"><u>Elevating Your Book's Dialogues: Top GPT Ideas to Craft Characters</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-latest-ios-18-features-tailoring-your-iphones-control-center/"><u>Mastering the Latest iOS 18 Features: Tailoring Your iPhone's Control Center</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mastering-the-procedure-of-attaining-facebooks-blue-status-badge/"><u>Mastering the Procedure of Attaining Facebook's Blue Status Badge</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2250927-9780600627890-mindfulness-for-compassionate-living/"><u>Mindfulness for Compassionate Living | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-creativity-with-these-4-pioneering-ai-tools/"><u>Revolutionizing Creativity with These 4 Pioneering AI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-health-tech-apple-to-integrate-advanced-breath-analysis-in-newly-announced-vision-pro-reports-zdnet/"><u>Revolutionizing Health Tech: Apple to Integrate Advanced Breath Analysis in Newly Announced Vision Pro, Reports ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-selecting-pc-gaming-inputs/"><u>The Ultimate Guide to Selecting PC Gaming Inputs</u></a></li>
 </ul></div>
 

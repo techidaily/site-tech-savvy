@@ -1,7 +1,7 @@
 ---
 title: Insight Into How Businesses Are Restricting AI Engagement Tools
-date: 2024-09-06T23:32:21.066Z
-updated: 2024-09-07T23:32:21.066Z
+date: 2025-01-05T04:46:46.289Z
+updated: 2025-01-06T04:04:05.066Z
 tags:
   - chatgpt
   - open-ai
@@ -13,18 +13,6 @@ excerpt: This Article Describes Insight Into How Businesses Are Restricting AI E
 thumbnail: https://thmb.techidaily.com/e4a8d7447e854c2de99b048e14a9c3d2b9315b35b4cc07b6ffa3d376da485f27.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Insight Into How Businesses Are Restricting AI Engagement Tools
 
  Despite its impressive abilities, several major companies have banned their employees from using ChatGPT.
@@ -37,12 +25,6 @@ thumbnail: https://thmb.techidaily.com/e4a8d7447e854c2de99b048e14a9c3d2b9315b35b
 
  So, why are more and more companies banning ChatGPT? Here are five major reasons.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Data Leaks
 
 [ChatGPT requires a large amount of data to train and operate effectively](https://www.makeuseof.com/how-does-chatgpt-work/). The chatbot was trained using massive amounts of data derived from the internet, and it continues to be trained.
@@ -52,43 +34,35 @@ thumbnail: https://thmb.techidaily.com/e4a8d7447e854c2de99b048e14a9c3d2b9315b35b
 ![how to set up multifactor authentication on chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-on-2fa-on-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Many companies are subject to stringent data protection regulations. As a result, they are cautious about sharing personal data with external entities, as this increases the risks of data leaks.
 
  Besides, OpenAI doesn't offer any foolproof data protection and confidentiality assurance. In March 2023, [OpenAI confirmed](https://openai.com/blog/march-20-chatgpt-outage) a bug allowing some users to view the chat titles in other active users' histories. Although this bug was fixed and [OpenAI launched a bug bounty program](https://www.makeuseof.com/what-is-openai-bug-bounty-program/), the company does not assure the safety and privacy of user data.
 
  Many organizations are opting to restrict employees from utilizing ChatGPT to avoid data leaks, which can damage their reputation, lead to financial losses, and put their customers and employees at risk.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Cybersecurity Risks
 
 ![Person Wearing a Mask Sitting on Chair while Using a Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pexels-tima-miroshnichenko-5380605.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  While [it's unclear if ChatGPT is genuinely prone to cybersecurity risks](https://www.makeuseof.com/does-chatgpt-have-security-risks-or-issues/), there's a chance that its deployment within an organization may introduce potential vulnerabilities which cyberattackers can exploit.
 
  If a company integrates ChatGPT and there are weaknesses in the chatbot's security system, attackers may be able to exploit the vulnerabilities and inject malware codes. Also, ChatGPT's ability to generate human-like responses is a golden egg for phishing attackers who can take over an account or impersonate legitimate entities to deceive company employees into sharing sensitive information.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Creation of Personalized Chatbots
 
 ![robot standing in the middle of a room](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatbot-chatgpt-ai.jpg)
@@ -105,16 +79,14 @@ thumbnail: https://thmb.techidaily.com/e4a8d7447e854c2de99b048e14a9c3d2b9315b35b
 
  Companies are restricting ChatGPT, fearing potential violations of privacy laws and industry-specific regulations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Irresponsible Use by Employees
 
 ![Three Employees Chatting With ChatGPT Open on Desktop](https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93697161a134c6af27a69e27e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In many companies, some employees rely solely on ChatGPT responses to generate content and perform their duties. This breeds laziness in the work environment and staunches creativity and innovation.
 
  Being AI dependent can hinder your ability to think critically. It can also damage a company's credibility, as ChatGPT often provides inaccurate and unreliable data.
@@ -135,14 +107,11 @@ thumbnail: https://thmb.techidaily.com/e4a8d7447e854c2de99b048e14a9c3d2b9315b35b
 
  So, why are more and more companies banning ChatGPT? Here are five major reasons.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,4 +120,19 @@ thumbnail: https://thmb.techidaily.com/e4a8d7447e854c2de99b048e14a9c3d2b9315b35b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-snapshot-success-the-photographers-tale/"><u>[New] In 2024, Snapshot Success The Photographer's Tale</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-essentialists-guide-to-iphone-sound-recording/"><u>[Updated] 2024 Approved The Essentialist's Guide to iPhone Sound Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-dvd-ripping-software-showdown-winx-dvd-ripper-platinum-versus-dvdfabs-dvd-ripper-solution/"><u>Best DVD Ripping Software Showdown: WinX DVD Ripper Platinum Versus DVDFab's DVD Ripper Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723201027855-custom-configuration-options-now-fully-operational-past-glitches-resolved/"><u>Custom Configuration Options Now Fully Operational – Past Glitches Resolved</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embark-on-the-path-to-cash-rewards-via-bug-bounties-at-openai/"><u>Embark on the Path to Cash Rewards via Bug Bounties at OpenAI</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-design-and-deploy-bespoke-ringtone-options-for-whatsapp-users-for-2024/"><u>How to Design & Deploy Bespoke Ringtone Options for WhatsApp Users for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-magic-interactive-rpg-creation-with-chatgpt/"><u>Making Magic: Interactive RPG Creation with ChatGPT</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/optimizing-your-documents-with-flipbuilder-the-ultimate-tutorial-for-using-page-references/"><u>Optimizing Your Documents with FlipBuilder: The Ultimate Tutorial for Using Page References</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-puzzle-of-programmed-passion-can-ai-grasp-the-heartache/"><u>The Puzzle of Programmed Passion: Can AI Grasp the Heartache?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-securing-your-data-by-syncing-iphone-and-mac-with-icloud-tips-from-zdnet/"><u>Ultimate Guide: Securing Your Data by Syncing iPhone & Mac with iCloud - Tips From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-ai-weak-points-the-art-and-science-of-prompt-injection-attacks/"><u>Unveiling AI Weak Points: The Art and Science of Prompt Injection Attacks</u></a></li>
+</ul></div>
 

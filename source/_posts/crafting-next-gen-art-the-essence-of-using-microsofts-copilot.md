@@ -1,7 +1,7 @@
 ---
 title: "Crafting Next-Gen Art: The Essence of Using Microsoft's Copilot"
-date: 2024-12-21T17:24:31.186Z
-updated: 2024-12-27T21:32:09.761Z
+date: 2025-01-02T07:32:25.871Z
+updated: 2025-01-05T17:55:22.845Z
 tags:
   - chatgpt
   - open-ai
@@ -20,11 +20,19 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Microsoft Copilot Image Creator?](https://ancheer.sjv.io/y96bgp)
 * [How to Use Microsoft Copilot Image Generator](https://my-balance-meals.pxf.io/1r0rrg)
 * [Should You Use Microsoft Copilot Image Creator or ChatGPT Plus With DALL-E 3?](https://turbotech.pxf.io/pyx4je)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -50,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 
  There are two "versions" of Copilot Image Creator, though they both work similarly. You can access the Copilot Image Creator directly from Microsoft Copilot within the Edge browser, which is an exclusive Edge feature. However, not wanting to cut potential users out, you can also access it in any browser by heading to the [Copilot Image Creator](https://copilot.microsoft.com/). I'll cover the differences between each option below, but both AI image creation tools follow the same premise: you input your words, and the AI tool turns them into unique images.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Microsoft Copilot Image Generator
 
  Microsoft's Copilot Image Creator uses DALL-E 3 to create AI images. DALL-E 3 is the same AI text-to-image you'll find on ChatGPT Plus, OpenAI's premium $20 subscription tier. So here's the rub: you can use the same DALL-E 3 image creation tool with Copilot without paying a penny.
@@ -61,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
  Copilot Image Creator is completely free, which gives it a substantial advantage over ChatGPT Plus. It's also not the only [reason to use Microsoft Copilot instead of ChatGPT](https://www.makeuseof.com/reasons-to-use-copilot-instead-of-chatgpt/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Microsoft Copilot Image Creator in Edge
@@ -75,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
  For example, I asked Copilot Image Creator to "create a 2:1 image of a person standing on a beach," which, of course, it didn't do and gave me four 1:1 images instead.
 
 ![microsoft copilot image creator four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-four-images.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  However, from there, I selected the image I wanted to use, pressed the "expand" icon in the bottom right corner, and selected **Landscape**. Copilot auto-magically adjusted the original image into a 2:1 1792x1024, finally fulfilling my original request.
 
@@ -97,7 +97,7 @@ Close
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Second, the Image Creator available to all browsers uses a "boost" token system to provide speedy images. You start with 100 boosts, and each time you input a prompt, it uses a boost. Once your boosts run out, Image Creator won't prioritize your creations, and they can take a few minutes to appear. It doesn't appear to make a difference to quality, mind, just time.
@@ -105,7 +105,7 @@ Close
  What I found interesting was that Image Creator images generated in Copilot on Edge will appear in your Image Creator recent images. Edits you make to the Copilot on Edge images will update across the two tools as you make them, but it's a one-way process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Use Microsoft Copilot Image Creator or ChatGPT Plus With DALL-E 3?
@@ -137,20 +137,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-swift-playback-on-instagram-videos-mobiledesktop/"><u>[New] 2024 Approved Swift Playback on Instagram Videos (Mobile/Desktop)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-complete-guide-to-crafting-impressive-timelapse-films-on-ipad/"><u>[Updated] 2024 Approved The Complete Guide to Crafting Impressive Timelapse Films on iPad</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-infinite-jest-10-ultimate-meme-layouts/"><u>[Updated] In 2024, Infinite Jest - 10 Ultimate Meme Layouts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-gaps-eu-ai-act-and-its-consequences-for-chatgpt/"><u>Bridging Gaps: EU AI Act and Its Consequences for ChatGPT</u></a></li>
-<li><a href="https://win-updates.techidaily.com/effortless-guide-protecting-and-restoring-your-icloud-mail/"><u>Effortless Guide: Protecting and Restoring Your iCloud Mail</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-snag-an-iphone-15-pro-max-for-just-001-on-amazon-insider-tips/"><u>How to Snag an iPhone 15 Pro Max for Just $0.01 on Amazon - Insider Tips</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-from-chat-room-to-global-stage-broadcast-google-meet-on-youtube/"><u>In 2024, From Chat Room to Global Stage Broadcast Google Meet on YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-vrs-elite-accessories-top-10/"><u>In 2024, Unveiling VR's Elite Accessories (Top 10)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/missing-pieces-in-apples-latest-ai-launch-spotted-by-zdnet-anticipating-future-advancements-zdnet/"><u>Missing Pieces in Apple's Latest AI Launch Spotted by ZDNet - Anticipating Future Advancements | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-chatgpt-with-new-plugins/"><u>Optimizing ChatGPT with New Plugins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peering-into-ais-unseen-processes-black-box-exploration/"><u>Peering Into AI's Unseen Processes: Black Box Exploration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pinpointing-bingchats-deceptive-crypto-schemes/"><u>Pinpointing BingChat's Deceptive Crypto Schemes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-top-10-strategies-for-apples-intelligence-evolution-to-challenge-openai-and-google-dominance-in-ai/"><u>The Top 10 Strategies for Apple's Intelligence Evolution to Challenge OpenAI & Google Dominance in AI</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-12-mini-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone 12 mini</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unleash-the-power-of-seo-skyrocketing-through-youtube-rankings-for-2024/"><u>Unleash the Power of SEO Skyrocketing Through YouTube Rankings for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1727785151700-w2-plus-l2-d2/"><u> [ W^2 + L^2 = D^2 </u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-dichotomy-of-triller-and-tiktok-a-deep-dive-analysis/"><u>[New] The Dichotomy of Triller & TikTok A Deep-Dive Analysis</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-6-easy-free-youtube-closers-for-your-videos-top-picks/"><u>[Updated] 2024 Approved 6 Easy, Free YouTube Closers for Your Videos (Top Picks)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-sky-dominance-top-5-fpv-glasses-for-pilots/"><u>[Updated] 2024 Approved Sky Dominance Top 5 FPV Glasses for Pilots</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-filmcraft-studio-top-alternatives-for-lightroom-users/"><u>[Updated] In 2024, FilmCraft Studio Top Alternatives for Lightroom Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-list-of-text-tools-and-plugins/"><u>[Updated] Ultimate List of Text Tools & Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-exclusive-ipad-pro-pricing-perks-pre-prime-day-the-ultimate-tech-bargain/"><u>Apple's Exclusive iPad Pro Pricing Perks Pre-Prime Day – The Ultimate Tech Bargain</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convertissez-vos-films-av-au-format-numerique-gratuitement-votre-guide-facile-par-movavi/"><u>Convertissez Vos Films AV Au Format Numérique Gratuitement – Votre Guide Facile Par Movavi.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digitizing-documents-ai-driven-pdf-focused-methodologies-with-chatgpt/"><u>Digitizing Documents: AI-Driven, PDF-Focused Methodologies with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-next-generation-of-wireless-earbuds-apples-latest-airpods-4-unveil-advanced-find-my-speaker-and-usb-c-options-tech-insights-from-zdnet/"><u>Discover the Next Generation of Wireless Earbuds – Apple's Latest AirPods 4 Unveil Advanced Find My Speaker & USB-C Options | Tech Insights From ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/escape-the-blues-effective-ways-to-reactivate-an-ailing-keys/"><u>Escape the Blues: Effective Ways to Reactivate an Ailing Keys</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-analysis-unveiling-the-power-of-the-new-ipad-air-m2-your-definitive-purchase-guide-according-to-zdnet/"><u>Expert Analysis: Unveiling the Power of the New iPad Air (M2) – Your Definitive Purchase Guide, According to ZDNET</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-15-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 15 Plus Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-15-plus-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 15 Plus Lock Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-narratives-innovative-uses-of-chatgpt-in-gaming-scriptwriting/"><u>Mastering Narratives: Innovative Uses of ChatGPT in Gaming Scriptwriting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-your-living-with-gpt-innovations/"><u>Streamlining Your Living with GPT Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-for-aspiring-innovators-of-openai/"><u>The Ultimate Guide for Aspiring Innovators of OpenAI</u></a></li>
 </ul></div>
 

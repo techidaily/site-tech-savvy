@@ -1,7 +1,7 @@
 ---
 title: "Protect Your World: Real Vs. Faux GPT Applications Unveiled"
-date: 2024-12-21T21:38:32.657Z
-updated: 2024-12-27T20:53:16.086Z
+date: 2024-12-30T08:52:36.348Z
+updated: 2025-01-06T03:27:50.803Z
 tags:
   - chatgpt
   - open-ai
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/23a59a3978673a4d0acc00d7490f94438fabe3807
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. openai-pc-pro.online
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/23a59a3978673a4d0acc00d7490f94438fabe3807
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
@@ -60,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/23a59a3978673a4d0acc00d7490f94438fabe3807
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. pay.chatgptftw.com
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/23a59a3978673a4d0acc00d7490f94438fabe3807
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. ChatGPT1
@@ -78,19 +78,19 @@ thumbnail: https://thmb.techidaily.com/23a59a3978673a4d0acc00d7490f94438fabe3807
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
 
@@ -129,20 +129,24 @@ thumbnail: https://thmb.techidaily.com/23a59a3978673a4d0acc00d7490f94438fabe3807
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-best-available-avi-player-cross-platform-compatibility/"><u>[Updated] In 2024, Best Available AVi Player - Cross-Platform Compatibility</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-rapid-diy-filming-tips-for-the-budding-director/"><u>[Updated] In 2024, Rapid DIY Filming Tips for the Budding Director</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-powerful-path-to-stellar-videos-top-free-intro-makers/"><u>[Updated] In 2024, The Powerful Path to Stellar Videos Top Free Intro Makers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/achieve-job-appeal-write-cover-letters-with-chatgpt-tips/"><u>Achieve Job Appeal: Write Cover Letters with ChatGPT Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-says-no-to-rice-drying-myths-the-right-way-to-salvage-a-drenched-iphone-insider-tips/"><u>Apple Says No To Rice-Drying Myths: The Right Way To Salvage A Drenched iPhone - Insider Tips</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-techniques-for-converting-wav-files-into-mp3-format-on-macos-and-windows-systems/"><u>Best Techniques for Converting WAV Files Into MP3 Format on macOS & Windows Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bing-ai-chat-and-android-enhancing-text-input-experience/"><u>Bing AI Chat and Android: Enhancing Text Input Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chromes-best-8-extensions-infused-with-ai-productivity-features/"><u>Chrome's Best 8 Extensions Infused With AI Productivity Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/delving-into-the-mechanics-of-gigantic-ai-models/"><u>Delving Into the Mechanics of Gigantic AI Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-writing-quality-steer-clear-from-common-mistakes/"><u>Enhancing Writing Quality – Steer Clear From Common Mistakes</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Does find my friends work on Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/influencer-insights-the-top-5-instagram-moves-for-viral-content-for-2024/"><u>Influencer Insights The Top 5 Instagram Moves for Viral Content for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-artificial-intelligence-in-writing-software/"><u>Leveraging Artificial Intelligence in Writing Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-chatgpt-crafting-effective-user-personas/"><u>Maximizing ChatGPT: Crafting Effective User Personas</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nvidia-quadro-rtx-4000-driver-downloads-available-secure-your-free-update-here/"><u>NVIDIA Quadro RTX 4000 Driver Downloads Available! Secure Your Free Update Here</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-mastering-jump-cuts-for-dynamic-vlogging/"><u>[New] 2024 Approved Mastering Jump Cuts for Dynamic Vlogging</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ealthy-web-showrunners-for-2024/"><u>[New] Wealthy Web Showrunners for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-extra-memory-for-sony-a7c-model/"><u>[Updated] Ideal Extra Memory for Sony A7C Model</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-joyful-sign-uplogout-flowchart/"><u>2024 Approved Joyful Sign-Up/Logout Flowchart</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-most-advanced-macbook-series-top-picks-and-detailed-analysis-on-zdnet/"><u>2024'S Most Advanced MacBook Series: Top Picks and Detailed Analysis on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/airpods-pro-gen-2-reviewed-are-enhancements-justified-after-years-of-anticipation-cnet/"><u>AirPods Pro (Gen 2) Reviewed: Are Enhancements Justified After Years of Anticipation? | CNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beat-the-wait-fast-talk-with-nvidias-rtx-chatbot/"><u>Beat The Wait: Fast Talk with Nvidia's RTX Chatbot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-freeform-thinking-boosts-creativity-discover-the-benefits-of-using-this-technique-in-your-brainstorming-sessions/"><u>How Freeform Thinking Boosts Creativity: Discover the Benefits of Using This Technique in Your Brainstorming Sessions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-13-proipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone 13 Pro/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Teleport Your GPS Location On Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-methods-to-adapt-track-paceplay-in-spotify-app/"><u>In 2024, Prime Methods to Adapt Track Paceplay in Spotify App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-the-transition-how-apple-simplifies-your-switch-from-iphone-to-android/"><u>Making the Transition: How Apple Simplifies Your Switch From iPhone to Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-ai-interactions-is-now-embrace-chromes-gpt-extension/"><u>The Future of AI Interactions Is Now – Embrace Chrome's GPT Extension</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-rise-of-independent-chatgpt/"><u>The Rise of Independent ChatGPT</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ultimate-guide-to-macro-videography-techniques-for-2024/"><u>Ultimate Guide to Macro Videography Techniques for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-mystery-how-did-crowdstrike-influence-windows-notorious-meltdnothack-event-a-detailed-historical-perspective-from-zdnet/"><u>Unraveling the Mystery: How Did CrowdStrike Influence Windows' Notorious Meltdnothack Event ? A Detailed Historical Perspective From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-7-superior-ai-programs-for-swift-and-accurate-math-problem-solving/"><u>Unveiling 7 Superior AI Programs for Swift and Accurate Math Problem Solving</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visionary-voices-the-new-era-of-chatbots/"><u>Visionary Voices: The New Era of Chatbots</u></a></li>
 </ul></div>
 

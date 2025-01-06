@@ -1,7 +1,7 @@
 ---
 title: "Artificial Minds: Comparing Potential and Performance"
-date: 2024-12-23T19:58:11.316Z
-updated: 2024-12-27T18:20:52.506Z
+date: 2025-01-03T04:22:07.084Z
+updated: 2025-01-06T06:40:11.584Z
 tags:
   - chatgpt
   - open-ai
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/e841ca62aa6de19737a18ea09a77fb50f1ee7b8f2
 ![ChatGPT chat and website open on two monitors](https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420be6c31ae58cdceea73012a33.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Weak AI, also known as narrow AI, refers to AI applications that are specifically designed to automate tasks requiring a particular cognitive skill. This category of AI utilizes machine learning models tailored for specific tasks such as object recognition, chatbot interactions, personal voice assistants, autocorrect systems, and Google search algorithms, among others.
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/e841ca62aa6de19737a18ea09a77fb50f1ee7b8f2
  You might be wondering why this category of AI is referred to as "weak" AI. The term "weak" may mistakenly imply that these AI applications are lacking in some way. However, it is important to recognize that the rapid advancements in AI and their pervasive impact across various industries are largely due to narrow machine intelligence. The label "weak" indicates that these applications focus on a specific or narrow cognitive function.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Applications of Weak AI
@@ -62,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/e841ca62aa6de19737a18ea09a77fb50f1ee7b8f2
 
  Despite the term "weak AI," it's clear that it has numerous real-world applications that we're already using.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Limitations of Weak AI
 
  The primary reason for the limitations of AI today is its focus on automating specific tasks for humans. For example, ChatGPT and Google Bard are designed as [large language models (LLMs)](http://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/). They are specifically programmed for generating text-based content. Similarly, Midjourney and Stable Diffusion are text-to-image generators limited to this particular function.
@@ -79,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/e841ca62aa6de19737a18ea09a77fb50f1ee7b8f2
 ## What Is Strong AI or AGI?
 
 ![Image of a white robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image-of-a-white-robot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In contrast to weak AI exists strong AI, also known as artificial general intelligence (AGI). This form of AI is based on the belief that computational power can emulate human brain capabilities, including analytical thinking and other intellectual abilities. Strong AI aims to create machines capable of performing any intellectual task that a human can do, not necessarily in the same way as humans.
 
@@ -109,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/e841ca62aa6de19737a18ea09a77fb50f1ee7b8f2
 
  Given the world-changing potential of AGI, extensive regulation must be in place before any such product is released to the public. It's already been [difficult enough regulating generative AI](https://www.makeuseof.com/ways-government-may-regulate-ai-tools/), and AGI will ramp those issues up another notch.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Differences Between Strong and Weak AI
 
  There are several notable differences between strong and weak AI in terms of their purpose, learning method, and problem-solving approach. Let's explore these distinctions.
@@ -123,25 +127,21 @@ thumbnail: https://thmb.techidaily.com/e841ca62aa6de19737a18ea09a77fb50f1ee7b8f2
 
  On the other hand, strong AI systems, though hypothetical, aim to mimic the functioning of the human brain. These systems can arguably possess self-awareness, consciousness, and analytical capabilities, enabling them to undertake a wide range of general tasks, much like humans.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Learning Method
 
  Narrow AI and AGI systems also diverge in their learning methods. Narrow AI relies on specific datasets to learn patterns and perform repetitive tasks. Typically, weak AI processes data by classifying it based on predetermined criteria.
 
  In contrast, AGI mechanisms require extensive amounts of data to perform general duties, aiming to mimic the cognitive processes of the human mind. Consequently, AGIs employ data clustering and linking methods to process and analyze information.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Approach for Problem-Solving
 
  Weak AI systems are specifically engineered for repetitive tasks that necessitate close examination of datasets and pattern recognition. This enables the system to make reliable predictions and outcomes.
 
  In comparison, strong AI takes a problem-solving approach geared toward tackling more intricate and creative tasks. It relies on extensive datasets and continuously evolves to adapt to new conditions and challenges.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Current State of AI Technology
 
@@ -168,20 +168,22 @@ thumbnail: https://thmb.techidaily.com/e841ca62aa6de19737a18ea09a77fb50f1ee7b8f2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-capture-your-desktop-on-windows-3-ways-free-for-2024/"><u>[Updated] Capture Your Desktop on Windows, 3 Ways, Free for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-unlock-your-potential-with-these-leading-cost-free-editions/"><u>2024 Approved Unlock Your Potential with These Leading Cost-Free Editions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-fans-rejoice-lg-tvs-receive-a-revolutionary-audio-upgrade-to-boost-your-viewing-pleasure-as-reported-by-zdnet/"><u>Apple Fans Rejoice: LG TVs Receive a Revolutionary Audio Upgrade to Boost Your Viewing Pleasure, as Reported by ZDNET</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1126901-9781612831787-beyond-the-secret/"><u>Beyond the Secret | Free Book</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/brightening-up-your-online-videos/"><u>Brightening Up Your Online Videos</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-tutorial-how-to-save-or-record-a-microsoft-lync-webinar-for-both-windows-and-macos-users/"><u>Easy Tutorial: How to Save or Record a Microsoft Lync Webinar for Both Windows & macOS Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exciting-new-update-alert-unveiling-essential-safety-communications-on-your-iphone-with-the-latest-ios-18-upgrade-discover-more-without-ai/"><u>Exciting New Update Alert! Unveiling Essential Safety Communications on Your iPhone with the Latest iOS 18 Upgrade - Discover More Without AI!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explaining-the-408-error-causes-implications-and-remedies-for-smooth-site-operation/"><u>Explaining the '408 Error' - Causes, Implications and Remedies for Smooth Site Operation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/global-browser-leader-challenged-by-apples-intriguing-new-advertisement-discover-more-on-zdnet/"><u>Global Browser Leader Challenged by Apple's Intriguing New Advertisement - Discover More on ZDNET</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-is-ai-revolutionizing-the-future-of-medicine-with-tools-like-chatgpt/"><u>How Is AI Revolutionizing the Future of Medicine with Tools Like ChatGPT?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-motorola-g24-power-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Motorola G24 Power Phones? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-sony-xperia-1-v-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Sony Xperia 1 V to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-your-mac-or-ipad-equipped-with-an-hidden-intelligent-audio-device-find-out-now-tech-insights/"><u>Is Your Mac or iPad Equipped with an Hidden Intelligent Audio Device? Find Out Now! | Tech Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-apple-pay-a-comprehensive-guide-to-using-it-both-in-store-and-on-the-web-benefits-explained/"><u>Mastering Apple Pay: A Comprehensive Guide to Using It Both In-Store and On the Web - Benefits Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-your-creative-chatgpt-side-chrome-extension-advantage/"><u>Unlock Your Creative ChatGPT Side - Chrome Extension Advantage</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-premier-platforms-identifying-the-finest-ps2-emulation-tools-for-android/"><u>[New] Premier Platforms Identifying the Finest PS2 Emulation Tools for Android</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-top-20-tiktok-anime-ideas-for-2024/"><u>[New] Top 20 TikTok Anime Ideas for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-streamlining-media-transformation-from-xml-to-srt/"><u>[Updated] Streamlining Media Transformation From XML to SRT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cost-vs-benefit-does-elite-ai-pay-off/"><u>Cost vs Benefit: Does Elite AI Pay Off?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-gpt-content-steps-to-emulate-your-writing-ethos/"><u>Crafting GPT Content: Steps to Emulate Your Writing Ethos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-budget-friendly-iphone-14-pro-max-unbeatable-battery-and-features-that-impress-insider-review/"><u>Discover the Budget-Friendly iPhone 14 Pro Max: Unbeatable Battery & Features That Impress (Insider Review)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ver-these-27-purely-free-youtube-audio-ripper-tools/"><u>Discover These 27 Purely Free YouTube Audio Ripper Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-guide-to-upgrading-your-workspace-the-ultimate-way-to-integrate-an-ipad-pro-into-a-smart-home-office-tips-and-strategies/"><u>Essential Guide to Upgrading Your Workspace: The Ultimate Way to Integrate an iPad Pro Into a Smart Home Office - Tips and Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-picks-the-quintessential-5-ai-prompt-generators/"><u>Expert Picks: The Quintessential 5 AI Prompt Generators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-a-journey-through-the-landscape-of-human-computer-interaction/"><u>In 2024, A Journey Through the Landscape of Human-Computer Interaction</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-dialogue-engaging-your-youtube-fans/"><u>In 2024, Mastering Dialogue Engaging Your YouTube Fans</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-11-pro-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 11 Pro Max Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-18-update-a-step-by-step-guide-to-personalizing-your-iphone-control-center/"><u>IOS 18 Update: A Step-by-Step Guide to Personalizing Your iPhone Control Center</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/repairing-disconnections-between-chatgpt-and-external-services/"><u>Repairing Disconnections Between ChatGPT and External Services</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-canon-driver-downloading-and-updating-process-for-pcs/"><u>Step-by-Step Canon Driver Downloading and Updating Process for PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-showdown-determining-your-ideal-apple-smart-speaker-homepod-or-homepod-mini/"><u>The Ultimate Showdown: Determining Your Ideal Apple Smart Speaker - HomePod or HomePod Mini?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-ultraportable-computers-comprehensive-review-by-tech-experts/"><u>Top-Rated Ultraportable Computers : Comprehensive Review by Tech Experts</u></a></li>
 </ul></div>
 

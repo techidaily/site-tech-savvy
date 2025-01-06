@@ -1,7 +1,7 @@
 ---
 title: Set Up Slack Push Notifications for iPhone & Apple Watch - Tutorial
-date: 2024-12-24T17:29:48.829Z
-updated: 2024-12-27T18:37:54.554Z
+date: 2024-12-29T18:43:22.141Z
+updated: 2025-01-05T16:16:59.814Z
 tags:
   - apple
 categories:
@@ -44,12 +44,16 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
@@ -61,6 +65,10 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -75,10 +83,6 @@ Screenshot by David Gewirtz/ZDNET
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -99,7 +103,7 @@ Screenshot by David Gewirtz/ZDNET
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
@@ -126,10 +130,6 @@ Recommendation to Slack: Where you put the "Every day" option in that setting, a
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   
 
 Screenshot by David Gewirtz/ZDNET
@@ -137,7 +137,7 @@ Screenshot by David Gewirtz/ZDNET
 There. You've set up notifications. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
@@ -179,16 +179,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-2023s-mastered-entry-editor-for-multi-platform-devices/"><u>[New] 2024 Approved 2023'S Mastered Entry Editor for Multi-Platform Devices</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-best-practices-for-exporting-youtube-videos-to-facebook/"><u>[New] Best Practices for Exporting YouTube Videos to Facebook</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-professional-audio-techniques-in-audacity-for-2024/"><u>[New] Professional Audio Techniques in Audacity for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-streamlining-file-management-the-top-six-tips-for-your-windows-11-mov-files/"><u>[Updated] 2024 Approved Streamlining File Management - The Top Six Tips for Your Windows 11 MOV Files</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-influence-transforming-content-craftsmanship/"><u>AI's Influence: Transforming Content Craftsmanship</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/comprehensive-tutorial-adding-the-numbers-addon-to-your-kodi-platform/"><u>Comprehensive Tutorial: Adding the Numbers Addon to Your Kodi Platform</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discover-why-microsoft-flight-simulator-x-gold-edition-remains-a-premier-selection-amongst-flight-enthusiasts-worldwide/"><u>Discover Why Microsoft Flight Simulator X: Gold Edition Remains a Premier Selection Amongst Flight Enthusiasts Worldwide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-language-with-ease-claude-3-vs-gpt-3-in-4-points/"><u>Navigating Language with Ease: Claude 3 vs GPT-3, In 4 Points</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-in-ios-18-hands-free-call-recording-now-possible-without-external-apps-insights/"><u>New in iOS 18: Hands-Free Call Recording Now Possible Without External Apps - Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-coding-top-10-ways-to-merge-chatgpt-with-vs-code/"><u>Revolutionizing Coding - Top 10 Ways to Merge ChatGPT with VS Code</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-how-to-convert-4k-videos-to-mp4-a-step-by-step-guide/"><u>Updated 2024 Approved How to Convert 4K Videos to MP4 A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-from-social-media-savant-to-money-maker-on-instagram/"><u>[New] 2024 Approved From Social Media Savant to Money Maker on Instagram</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-capturing-moments-top-webcams-for-pcs-in-windows/"><u>[New] Capturing Moments Top Webcams for PCs in Windows</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-jest-jammer-photo-assembler/"><u>[Updated] Jest Jammer Photo Assembler</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-nexus-of-networked-realities-unveiling-metaverse-vs-omniverse/"><u>[Updated] Nexus of Networked Realities Unveiling Metaverse Vs. Omniverse</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-professional-picture-editing-hacks-how-to-add-text-with-precision/"><u>2024 Approved Professional Picture Editing Hacks How to Add Text with Precision</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/agents-at-a-click-agentgpt-deployment-tips/"><u>Agents at a Click: AgentGPT Deployment Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-iphone-upgrade-guide-key-differences-between-iphone-16-and-15-for-new-buyers-techradar/"><u>Apple iPhone Upgrade Guide: Key Differences Between iPhone 16 & 15 for New Buyers | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-apple-watchs-battery-performance-top-8-configurations-revealed-by-zdnet/"><u>Boost Your Apple Watch's Battery Performance: Top 8 Configurations Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-digital-dreamscapes-with-chatgpt-4-and-dall-e/"><u>Crafting Digital Dreamscapes with ChatGPT-4 and DALL-E</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210267190-9781734724134-earth-changes/"><u>Earth Changes | Free Book</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/effortless-gameplay-recordings-for-your-xbox-console-for-2024/"><u>Effortless Gameplay Recordings for Your Xbox Console for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/engaging-article-leader/"><u>Engaging Article Leader</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-online-apps-without-a-mobile-number/"><u>Navigating Online Apps without a Mobile Number</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-auditory-tranquility-techniques-to-achieve-gentle-sound-reduction/"><u>New 2024 Approved Auditory Tranquility Techniques to Achieve Gentle Sound Reduction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamlessly-capture-conversations-on-your-iphone-with-the-new-ios-18-call-recording-feature-as-revealed/"><u>Seamlessly Capture Conversations on Your iPhone with the New iOS 18 Call Recording Feature, as Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/skip-sims-sign-up-for-gpt-and-other-services-easily/"><u>Skip SIMs: Sign Up for GPT and Other Services Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-are-bingchatgpt-crypto-scam-tokens-and-how-can-you-spot-them/"><u>What Are BingChatGPT Crypto Scam Tokens and How Can You Spot Them?</u></a></li>
 </ul></div>
 

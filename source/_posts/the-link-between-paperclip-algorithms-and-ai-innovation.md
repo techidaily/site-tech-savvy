@@ -1,7 +1,7 @@
 ---
 title: The Link Between Paperclip Algorithms and AI Innovation
-date: 2024-12-26T18:38:42.802Z
-updated: 2024-12-27T17:20:42.257Z
+date: 2024-12-29T18:15:38.730Z
+updated: 2025-01-06T03:35:30.683Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/51c8c0f8bc5e38b3222968b9d07888b2af3d71ae1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Paperclip Maximizer Problem Explained
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/51c8c0f8bc5e38b3222968b9d07888b2af3d71ae1
 ![Grayscale photo of a futuristic robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/artificial-general-intelligence.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The first experiment appeared in Swedish philosopher Nick Bostrom's 2003 paper, [Ethical Issues in Advanced Artificial Intelligence](https://www.researchgate.net/publication/229001428%5FEthical%5FIssues%5Fin%5FAdvanced%5FArtificial%5FIntelligence), which included the paperclip maximizer to show the existential risks an advanced enough AI could use.
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/51c8c0f8bc5e38b3222968b9d07888b2af3d71ae1
  The AI isn't hostile to humans; it's just indifferent. An AI that only cares about maximizing the number of paperclips would therefore wipe out humanity and essentially convert them into paperclips to reach its goal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Does the Paperclip Maximizer Problem Apply to AI?
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/51c8c0f8bc5e38b3222968b9d07888b2af3d71ae1
 ![A robot holding a laptop computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/what-is-openai-gym-and-what-can-you-do-with-it-featured-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The bigger issue highlighted by the paperclip maximizer is instrumental convergence. It can also be highlighted using the Riemann hypothesis, in which case an AI designed to solve the hypothesis might very well decide to take over all of Earth's mass and convert it into computronium (the most efficient computer processors possible) to build supercomputers to solve the problem and reach its goal.
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/51c8c0f8bc5e38b3222968b9d07888b2af3d71ae1
  Bostrom himself has emphasized that he doesn't believe that the paperclip maximizer problem will ever be a real issue, but his intention was to illustrate the dangers of creating superintelligent machines without knowing how to control or program them not to be existentially risky to human beings. [Modern AI systems like ChatGPT have problems too](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), but they're far from the superintelligent AI systems being talked about in the paperclip maximize problem, so there's no reason to panic just yet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Advanced AI Systems Need Superior Control
@@ -106,18 +106,18 @@ thumbnail: https://thmb.techidaily.com/51c8c0f8bc5e38b3222968b9d07888b2af3d71ae1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-money-on-youtube-for-2024/"><u>[New] How To Make Money on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-digital-delegates-top-youtube-creators-by-followers/"><u>[Updated] Digital Delegates Top YouTube Creators by Followers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-from-hobbyist-to-professional-your-guide-to-design-success-for-2024/"><u>[Updated] From Hobbyist to Professional Your Guide to Design Success for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-step-by-step-guide-youtube-videos-in-avi-format/"><u>2024 Approved Step-by-Step Guide YouTube Videos in AVI Format</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/budget-friendly-xr-optics-end-apples-vision-monopoly-fomo-reduction-achieved/"><u>Budget-Friendly XR Optics End Apple's Vision Monopoly, FOMO Reduction Achieved</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciding-on-a-new-ipad-pro-compare-features-and-performance-for-your-perfect-pick-macworld/"><u>Deciding on a New iPad Pro? Compare Features and Performance for Your Perfect Pick | MacWorld</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/die-besten-12-gratis-konvertierenden-apps-fur-pcmac-um-4k-videos-perfekt-in-1080p-zu-transformieren/"><u>Die Besten 12 Gratis Konvertierenden Apps Für PC/Mac, Um 4K-Videos Perfekt in 1080P Zu Transformieren</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-zte-axon-40-lite-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does ZTE Axon 40 Lite Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-update-your-dell-g15-gpu-drivers-in-windows-pcs/"><u>How to Update Your Dell G15 GPU Drivers in Windows PCs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-connection-tips-for-linking-up-airpods-with-quest-3-headphones-without-disturbing-others-zdnet/"><u>Seamless Connection: Tips for Linking Up AirPods with Quest 3 Headphones Without Disturbing Others | ZDNet</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/steps-to-create-a-compelling-community-giving-event-post/"><u>Steps to Create a Compelling Community Giving Event Post</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synergizing-education-with-ai-innovations/"><u>Synergizing Education with AI Innovations</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-edit-video-metadata-like-a-pro-top-8-mac-software/"><u>Updated In 2024, Edit Video Metadata Like a Pro Top 8 Mac Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-step-by-step-guide-to-creating-a-peak-vr-environment/"><u>[Updated] 2024 Approved Step-by-Step Guide to Creating a Peak VR Environment</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterclass-building-hype-with-solo-podcasts/"><u>[Updated] Masterclass Building Hype with Solo Podcasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-pricing-your-way-to-higher-youtube-traffic-for-2024/"><u>[Updated] Pricing Your Way to Higher YouTube Traffic for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-androids-step-by-step-to-rotate-and-unite-video-files/"><u>2024 Approved Android's Step-by-Step to Rotate & Unite Video Files</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/earn-an-apple-gift-card-of-150-when-purchasing-your-next-macipad-for-educational-purposes-learn-the-simple-steps/"><u>Earn an Apple Gift Card of $150 When Purchasing Your Next Mac/iPad for Educational Purposes – Learn the Simple Steps!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-potential-security-risks-in-chatgpt/"><u>Exploring Potential Security Risks in ChatGPT</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-game-crashes-in-mass-effect-legendary-edition-for-playstation-and-pc-users/"><u>Fixing Game Crashes in Mass Effect Legendary Edition for PlayStation and PC Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-boring-to-breathtaking-adopt-new-wallpapers-in-win11-for-2024/"><u>From Boring to Breathtaking Adopt New Wallpapers in Win11 for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/high-fidelity-performance-desktops/"><u>High Fidelity Performance Desktops</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insights-into-gpt-4-versus-gpt-35/"><u>Insights Into GPT-4 Versus GPT-3.5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-language-learning-palm-2-for-bard/"><u>Revolutionizing Language Learning: PaLM 2 for Bard</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/44k544od44o844oe44ow44or6ywn5lplush5yuv55s744gu5a6j5ywo44gq44oa44km44oz44ot44o844oj5oml6acg/"><u>スポーツブル配信動画の安全なダウンロード手順</u></a></li>
 </ul></div>
 

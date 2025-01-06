@@ -1,7 +1,7 @@
 ---
 title: "Verification: ChatGPT for Windows - Not a Threat"
-date: 2024-12-25T20:19:37.163Z
-updated: 2024-12-27T19:11:11.771Z
+date: 2025-01-02T19:18:22.477Z
+updated: 2025-01-06T05:30:46.405Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ OpenAI's ChatGPT generative AI is being used for all manner of enterprising acti
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT Desktop Client Is Actually Trojan Malware
 
  In February 2023, cybersecurity firm [Kaspersky reported](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022340/https://www.kaspersky.com/blog/chatgpt-stealer-win-client/47274/) that it had uncovered a malware campaign using ChatGPT as its lure, promising victims a free ChatGPT account with a $50 balance (to spend on [the premium version of ChatGPT](https://www.makeuseof.com/why-paid-chatgpt-professional-is-inevitable/)) and the use of a new ChatGPT desktop client.
@@ -37,13 +41,13 @@ OpenAI's ChatGPT generative AI is being used for all manner of enterprising acti
 ![chatgpt homepage march 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-homepage-march-2023.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![kaspersky malware chatgpt desktop client download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/kaspersky-malware-chatgpt-desktop-client-download-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: [Kaspersky](https://www.kaspersky.com/blog/chatgpt-stealer-win-client/47274/)
@@ -58,10 +62,6 @@ Close
 
  According to Kaspersky's research, the ChatGPT desktop client malware has been spotted across Asia, Africa, Europe, and America.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## PSA: There Is No ChatGPT Desktop Client
 
  Although the temptation of a new ChatGPT desktop client trial is alluring, no such product exists at the current time, nor has OpenAI given any signal that a full desktop client for ChatGPT is in the works.
@@ -69,7 +69,7 @@ Close
  For now, the only way to [access ChatGPT is through your browser](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/), be that on your computer or your smartphone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3 Ways to Avoid ChatGPT Scams
@@ -79,7 +79,7 @@ Close
 3. Make sure your antivirus software is up to date, and consider installing an additional [security tool like Malwarebytes Premium](https://www.makeuseof.com/tag/reasons-upgrade-malwarebytes-premium/) to mop up any other nasties.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Avoid Anything Claiming to Be a ChatGPT Client
@@ -105,18 +105,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-mastering-the-art-of-push-notifications-with-reddit-wisdom/"><u>[New] In 2024, Mastering the Art of Push Notifications with Reddit Wisdom</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-best-6-cheap-4k-projectors/"><u>[Updated] In 2024, Best 6 Cheap 4K Projectors</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726228069719-m4bmp3-movavi/"><u>線上無限制 M4B到MP3自由下載 - 使用Movavi優化</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-honor-play-40c-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Honor Play 40C to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-samsung-galaxy-a15-4g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Samsung Galaxy A15 4G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2146294-9780917849404-joyous-abundance-journal/"><u>Joyous Abundance Journal | Free Book</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/legal-ways-to-capture-conference-calls-with-and-without-consent-strategies/"><u>Legal Ways to Capture Conference Calls: With and Without Consent Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/making-cash-from-chatbots-system-optimization/"><u>Making Cash From ChatBots, System Optimization</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027263067-step-by-step-guide-video-editing-in-windows-10-updated/"><u>Step-by-Step Guide: Video Editing in Windows 10 (Updated)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-pcs-showdown-how-apple-dell-and-other-tech-giants-stack-up-zdnet/"><u>Top Rated PCs Showdown: How Apple, Dell & Other Tech Giants Stack Up | ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-itel-p55-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-the-secrets-behind-new-visionos-2s-dazzling-wwdc-debut-the-promising-features-and-intriguing-questions-i-have-digitalworld-news/"><u>Unlocking the Secrets Behind New VisionOS 2'S Dazzling WWDC Debut: The Promising Features and Intriguing Questions I Have | DigitalWorld News</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zdnet-reveals-how-apples-siri-is-transforming-into-a-bing-like-experience-powered-by-artificnial-intelligence-upcoming-changes-explained/"><u>ZDNet Reveals How Apple's Siri Is Transforming Into a Bing-Like Experience Powered by Artificnial Intelligence | Upcoming Changes Explained</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-customizing-your-channel-icon-banner-and-thumbnail-ideas/"><u>[New] 2024 Approved Customizing Your Channel Icon, Banner & Thumbnail Ideas</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-in-class-no-charging-switch-replicas/"><u>[Updated] 2024 Approved Best-in-Class, No-Charging Switch Replicas</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-beginning-a-blogging-journey-profit-from-your-passion/"><u>2024 Approved Beginning a Blogging Journey Profit From Your Passion</u></a></li>
+<li><a href="https://fox-search.techidaily.com/5lplusu5q2j44gv44km44gf44kk44oh44o844k444ov44kh44kk44or44gu44oh44oq44kk44k544g444gu44oe44km44oz44og44kj44oz44kw5pa55rov/"><u>修正されたイメージファイルのデバイスへのマウンティング方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/balancing-creativity-with-automation-using-chatgpt-wisely/"><u>Balancing Creativity with Automation: Using ChatGPT Wisely</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-the-ultimate-study-tool-for-note-taking-pros/"><u>ChatGPT: The Ultimate Study Tool for Note Taking Pros</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/enhanced-user-tracking-with-cutting-edge-cookie-technology/"><u>Enhanced User Tracking with Cutting-Edge Cookie Technology</u></a></li>
+<li><a href="https://common-error.techidaily.com/google-chrome-crash-course-overcoming-the-not-responding-dilemma/"><u>Google Chrome Crash Course: Overcoming the Not Responding Dilemma</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-create-ai-tailored-chatgpt-excellence/"><u>Harnessing Create AI: Tailored ChatGPT Excellence</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-f23-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo F23 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ultimate-guide-top-screen-capture-apps-analysis/"><u>In 2024, Ultimate Guide Top Screen Capture Apps Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-hp-officejet-pro-8710-printer-drivers-on-windows-step-by-step-download-tutorial/"><u>Installing HP OfficeJet Pro 8710 Printer Drivers on Windows - Step by Step Download Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meta-quest-3-and-apple-vision-pro-face-off-unpacking-zuckerbergs-insightful-review-analysis/"><u>Meta Quest 3 and Apple Vision Pro Face-Off: Unpacking Zuckerberg's Insightful Review Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meta-quest-3-versus-apple-vision-pro-evaluating-the-accuracy-of-zuckerbergs-review-deep-dive-with-zdnet/"><u>Meta Quest 3 Versus Apple Vision Pro: Evaluating the Accuracy of Zuckerberg's Review | Deep Dive with ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sensing-souls-in-silicon-is-ais-grasp-on-emotion-complete/"><u>Sensing Souls in Silicon: Is AI's Grasp on Emotion Complete?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stay-safer-with-the-latest-update-explore-essential-messaging-upgrades-in-ios-18-for-your-iphone/"><u>Stay Safer with the Latest Update: Explore Essential Messaging Upgrades in iOS 18 for Your iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-top-3-must-have-features-of-the-new-iphone-16-ready-to-elevate-your-tech-experience-insights/"><u>Unveiling Top 3 Must-Have Features of the New iPhone 16: Ready to Elevate Your Tech Experience? - Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Spearheading Visual Creation: Integrating ChatGPT-4 with DALL-E"
-date: 2024-12-20T20:07:00.487Z
-updated: 2024-12-27T22:07:20.712Z
+date: 2025-01-01T19:48:55.399Z
+updated: 2025-01-05T16:27:45.241Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f24
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f24
 
  While prompting may be easy enough, we’ll show you how to know what GPTs in ChatGPT support DALL-E’s image generation. We’ll also tell you how to prompt ChatGPT to generate images when and how you want.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Sign Up for ChatGPT Plus to Access DALL-E
 
  DALL-E’s image generation features on ChatGPT are locked behind OpenAI’s ChatGPT Plus (and Team) subscription. It’s just one of the many [reasons you should consider upgrading to ChatGPT Plus](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/). GPT-3.5 doesn’t have embedded image generation abilities, and you’ll be unable to access GPTs with DALL-E’s capabilities.
@@ -54,6 +54,11 @@ thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f24
 2. Click the **Upgrade plan** button in the bottom-left corner of the side panel, just above your name.  
 ![ChatGPT upgrade plan window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-02-26-am.png)
 3. Choose **Upgrade to Plus** (or **Upgrade to Team**).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Fill in your payment information and click **Subscribe**.
 
  After doing this, you should now have access to DALL-E. It’s still a good idea to refresh your browser or log out and in again to make sure everything is in working order.
@@ -71,11 +76,11 @@ thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f24
 ![ChatGPT generating image of a tifer and rabbit having tea](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-06-12-am.png)
 4. Feel free to use follow-up prompts to improve the image to get it exactly how you want.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT generating an image in a different style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-08-39-am.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can download the image by clicking it and hitting the download button in the window's top-right corner.
 
@@ -87,22 +92,18 @@ thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f24
 
 ![ChatGPT menu in the mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0104.PNG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Choosing what GPT mode to use in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0105.PNG)
 
 ![ChatGPT generating an image in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0106.PNG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT reworking an image in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0107.PNG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -138,21 +139,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-securing-your-online-presence-off-facebook-activities-exposed/"><u>[New] In 2024, Securing Your Online Presence Off-Facebook Activities Exposed</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-transitioning-saved-snaps-from-social-networks-to-personal-archive/"><u>[New] In 2024, Transitioning Saved Snaps From Social Networks to Personal Archive</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-magix-vst-transform-your-home-studio-setup/"><u>[New] Magix VST Transform Your Home Studio Setup</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-ultimate-4k-gaming-setup-top-10-laptop-guide-for-2024/"><u>[Updated] Ultimate 4K Gaming Setup - Top 10 Laptop Guide for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-takes-the-ios-stage/"><u>ChatGPT Takes the iOS Stage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-data-handling-is-it-safe/"><u>ChatGPT's Data Handling: Is It Safe?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comparing-savings-and-performance-the-best-of-both-worlds-with-ipad-air-4-and-ipad-pro/"><u>Comparing Savings & Performance: The Best of Both Worlds with iPad Air 4 and iPad Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-your-typing-speed-with-bing-ai-chat-on-android-mobile-phones/"><u>Master Your Typing Speed with Bing AI Chat on Android Mobile Phones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximize-content-creation-ai-software-at-your-fingertips/"><u>Maximize Content Creation: AI Software at Your Fingertips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-and-understanding-shared-link-concept-in-gpt-3/"><u>Navigating and Understanding Shared Link Concept in GPT-3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stepwise-introduction-to-bluescreenview-use/"><u>Stepwise Introduction to BlueScreenView Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-rights-to-robot-generated-imagery-who-holds-them/"><u>The Rights to Robot-Generated Imagery: Who Holds Them?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-13-ultra-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi 13 Ultra Device</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/tweet-to-facebook-a-step-by-step-guide/"><u>Tweet to Facebook A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-apple-vision-pro-price-breakdown-key-features-and-insider-tips-covered-in-depth-s-comprehensive-faq/"><u>Unveiling the Apple Vision Pro: Price Breakdown, Key Features & Insider Tips Covered in Depth 'S Comprehensive FAQ</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/windows-easy-transfer-feature-missing-in-windows-11-upgrade/"><u>Windows Easy Transfer Feature Missing in Windows 11 Upgrade</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-digital-image-detail-enhancement-with-top-frameer-tools/"><u>[New] Digital Image Detail Enhancement with Top Frameer Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-premier-video-editors-transforming-igtv-videos/"><u>[Updated] In 2024, Premier Video Editors Transforming IGTV Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-minimalist-approach-to-podcast-livestream-for-2024/"><u>[Updated] Minimalist Approach to Podcast Livestream for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/audiophiles-choice-best-microphones-for-podcasting-for-2024/"><u>Audiophile's Choice Best Microphones for Podcasting for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-apple-tablets-showdown-ipad-pro-against-ipad-air-determine-the-ultimate-choice-for-your-needs/"><u>Best Apple Tablets Showdown: IPad Pro Against iPad Air - Determine the Ultimate Choice for Your Needs!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-ai-personalities-gpt-vs-bingbot-insights/"><u>Dissecting AI Personalities: GPT Vs. BingBot Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-july-2ve-deals-discover-how-you-can-score-up-to-90-off-on-apple-watches-as-revealed-by-zdnet/"><u>Exclusive July 2Ve Deals! Discover How You Can Score up to 90% Off on Apple Watches, as Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-chatgpt-overlooks-its-own-syntax/"><u>How ChatGPT Overlooks Its Own Syntax</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-xs-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone XS to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-infinix-gt-10-pro-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix GT 10 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722883713096-is-a-dac-essential-for-audio-lovers-unveiling-the-truth/"><u>Is a DAC Essential For Audio Lovers? Unveiling The Truth!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/should-freelancers-use-bing-chat-or-chatgpt-8-factors-to-consider/"><u>Should Freelancers Use Bing Chat or ChatGPT? 8 Factors to Consider</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/silvermans-stand-ai-dispute-involving-meta-and-openai/"><u>Silverman's Stand: AI Dispute Involving Meta & OpenAI</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-strategies-for-accessing-the-trustedinstaller-system-service-on-windows-10/"><u>Step-by-Step Strategies for Accessing the TrustedInstaller System Service on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-waterproof-smartwatches-comprehensive-testing-and-reviews-by-tech-experts-gizmochampion/"><u>Top-Rated Waterproof Smartwatches : Comprehensive Testing & Reviews by Tech Experts | GizmoChampion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-selection-the-most-durable-iphone-1212-pro-cases-of-2023-featured/"><u>Ultimate Selection: The Most Durable iPhone 12/12 Pro Cases of 2023, Featured</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-your-presentation-potential-with-these-high-quality-templates-for-2024/"><u>Unlock Your Presentation Potential with These High-Quality Templates for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-search-bings-ai-enters-your-devices/"><u>Unveiling the Power of Search: Bing's AI Enters Your Devices</u></a></li>
 </ul></div>
 

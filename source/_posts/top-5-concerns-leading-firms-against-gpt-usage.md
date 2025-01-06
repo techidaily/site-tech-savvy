@@ -1,7 +1,7 @@
 ---
 title: Top 5 Concerns Leading Firms Against GPT Usage
-date: 2024-12-20T18:20:32.039Z
-updated: 2024-12-27T22:22:56.538Z
+date: 2025-01-03T09:11:42.219Z
+updated: 2025-01-06T09:10:38.978Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Data Leaks
 
 [ChatGPT requires a large amount of data to train and operate effectively](https://www.makeuseof.com/how-does-chatgpt-work/). The chatbot was trained using massive amounts of data derived from the internet, and it continues to be trained.
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
  According to [OpenAI's Help Page](https://help.openai.com/en/articles/6783457-what-is-chatgpt), every piece of data, including confidential customer details, trade secrets, and sensitive business information you feed the chatbot is liable to be reviewed by its trainers, who may use your data to improve their systems.
 
 ![how to set up multifactor authentication on chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-on-2fa-on-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Many companies are subject to stringent data protection regulations. As a result, they are cautious about sharing personal data with external entities, as this increases the risks of data leaks.
 
@@ -49,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
 ![Person Wearing a Mask Sitting on Chair while Using a Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pexels-tima-miroshnichenko-5380605.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While [it's unclear if ChatGPT is genuinely prone to cybersecurity risks](https://www.makeuseof.com/does-chatgpt-have-security-risks-or-issues/), there's a chance that its deployment within an organization may introduce potential vulnerabilities which cyberattackers can exploit.
@@ -61,16 +69,12 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
 ![robot standing in the middle of a room](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatbot-chatgpt-ai.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Despite its innovative features, ChatGPT can produce false and misleading information. As a result, many companies have created AI chatbots for work purposes. For instance, the Commonwealth Bank of Australia asked its employees to use Gen.ai instead, an artificial intelligence (AI) chatbot that uses CommBank's information to provide answers.
 
  Companies like Samsung and Amazon have developed advanced natural language models, so businesses can easily create and deploy personalized chatbots based on existing transcripts. With these in-house chatbots, you can prevent the legal and reputational consequences associated with mishandling data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Lack of Regulation
 
@@ -81,16 +85,12 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
  Companies are restricting ChatGPT, fearing potential violations of privacy laws and industry-specific regulations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Irresponsible Use by Employees
 
 ![Three Employees Chatting With ChatGPT Open on Desktop](https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93697161a134c6af27a69e27e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In many companies, some employees rely solely on ChatGPT responses to generate content and perform their duties. This breeds laziness in the work environment and staunches creativity and innovation.
 
@@ -127,20 +127,22 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-breaking-the-internet-with-these-hysterical-stickers/"><u>[New] In 2024, Breaking the Internet with These Hysterical Stickers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-xbox-gaming-captured-a-beginners-screen-recording-journey-for-2024/"><u>[New] Xbox Gaming Captured A Beginner's Screen Recording Journey for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-turn-your-passion-into-profits-youtube-on-facebook-monetization-steps/"><u>[Updated] In 2024, Turn Your Passion Into Profits YouTube on Facebook Monetization Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-class-action-settlement-compensation-begins-for-eligible-macbook-users-technews/"><u>Apple's Class Action Settlement: Compensation Begins for Eligible MacBook Users | TechNews</u></a></li>
-<li><a href="https://fox-access.techidaily.com/deciphering-the-rights-based-language-of-instagrams-music-features-for-2024/"><u>Deciphering the Rights-Based Language of Instagram's Music Features for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-on-a-mac/"><u>How to Use ChatGPT on a Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-action-cameras-for-stabilized-shots-for-2024/"><u>Ideal Action Cameras for Stabilized Shots for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sticking-with-the-series-7-a-major-reason-im-not-jumping-on-the-imaginary-series-cuyano-perspectives-by-zdnet/"><u>Sticking with the Series 7: A Major Reason I'm Not Jumping on the Imaginary Series Cuyano | Perspectives by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-perfect-fit-discovering-the-apple-watch-ultra-2-at-an-unbeatable-labor-day-price-a-personal-review-by-zdnet/"><u>The Perfect Fit: Discovering the Apple Watch Ultra 2 at an Unbeatable Labor Day Price - A Personal Review by ZDNet</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-wipe-your-iphone-clean-with-ease/"><u>Ultimate Guide: Wipe Your iPhone Clean with Ease</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-xcover-7s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Samsung Galaxy XCover 7s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-latest-innovations-in-apples-ios-18-beta-version-discover-5-must-try-tips-digitalfrontiers-review/"><u>Unveiling the Latest Innovations in Apple's iOS 18 Beta Version – Discover 5 Must-Try Tips! | DigitalFrontiers Review</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-quicktime-video-editing-on-mac-tips-tricks-and-techniques/"><u>Updated In 2024, QuickTime Video Editing on Mac Tips, Tricks, and Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upgrade-your-smartphone-game-with-apples-latest-a-comprehensive-comparison-of-iphone-16-vs-iphone-15-features-expert-review/"><u>Upgrade Your Smartphone Game with Apple's Latest - A Comprehensive Comparison of iPhone 16 Vs. IPhone 15 Features Expert Review</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-premium-choice-10-leading-webcams-for-win-11/"><u>[New] In 2024, Premium Choice 10 Leading Webcams for Win 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-key-to-enhanced-viewership-designing-impactful-youtube-thumbnails/"><u>[Updated] 2024 Approved The Key to Enhanced Viewership Designing Impactful YouTube Thumbnails</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-cutting-edge-filmmaking-kinemasters-seamless-segments/"><u>2024 Approved Cutting-Edge Filmmaking Kinemaster's Seamless Segments</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-streamline-your-zoom-talks-with-camera-snaps/"><u>2024 Approved Streamline Your Zoom Talks with Camera Snaps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-guide-upcoming-iphone-models-compatible-with-apple-ios-18-and-those-that-arent-techzn/"><u>Comprehensive Guide: Upcoming iPhone Models Compatible with Apple iOS 18 and Those That Aren't | TechZN</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/could-ai-enable-new-ways-to-hack-your-financial-systems/"><u>Could AI Enable New Ways to Hack Your Financial Systems?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-how-to-enter-the-marvel-universe-using-apples-vision-pro-technology-get-yours-on-may-30th/"><u>Discover How to Enter the Marvel Universe Using Apple's Vision Pro Technology – Get Yours on May 30Th.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-diagnosing-and-repairing-your-defective-samsung-soundbar/"><u>Expert Tips: Diagnosing and Repairing Your Defective Samsung Soundbar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-anthropics-ai-creative-suite/"><u>Exploring Anthropic's AI Creative Suite</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-jumpstart-your-fandom-top-10-music-videos-on-facebook-unveiled/"><u>In 2024, Jumpstart Your Fandom Top 10 Music Videos on Facebook Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-ai-throughout-best-5-prompt-geners/"><u>Revolutionizing AI Throughout: Best 5 Prompt Geners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-wave-of-risks-in-generative-ai-tech/"><u>The Next Wave of Risks in Generative AI Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-crypto-warning-signs-for-bingchat-token-schemes/"><u>The Ultimate Crypto Warning Signs for BingChat Token Schemes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-8-must-play-androidios-gaming-apps/"><u>Top 8 Must-Play Android/iOS Gaming Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-places-to-preorder-ipad-pro-ipad-air-and-new-apple-pencil-pro-exclusive-current-offers/"><u>Top Places to Preorder iPad Pro, iPad Air & New Apple Pencil Pro: Exclusive Current Offers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/transform-your-footage-techniques-for-exceptional-instagram-videos-for-2024/"><u>Transform Your Footage Techniques for Exceptional Instagram Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/web-mastery-through-gpt-3-creating-interactive-experiences/"><u>Web Mastery Through GPT-3: Creating Interactive Experiences</u></a></li>
 </ul></div>
 

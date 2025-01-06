@@ -1,7 +1,7 @@
 ---
 title: Building a Well-Balanced Plate Aided by GPT
-date: 2024-12-23T17:28:24.369Z
-updated: 2024-12-27T16:23:58.401Z
+date: 2025-01-04T04:51:17.874Z
+updated: 2025-01-06T07:14:06.988Z
 tags:
   - chatgpt
   - open-ai
@@ -29,12 +29,16 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What You Need to Know About ChatGPT Before You Start
 
  ChatGPT can indeed help you create a healthy meal plan. In fact, it can help you create anything you’d like, even an unhealthy meal plan. But before you use ChatGPT to help you build your meal plan, there are several factors of your meal plan you need to figure out first.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Meal Plan Preferences
 
@@ -52,13 +56,13 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 * How long do you want the cooking time to be for each meal?
 * How much do you want the cost per meal to be if you're cooking on a budget?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use ChatGPT to Determine Your TDEE and BMR
 
 ![ChatGPT AI chatbot online tool TDEE BMR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-tdee-bmr.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve decided on those particulars of your healthy meal plan, you can use ChatGPT to help with your basal metabolic rate (BMR) and total daily energy expenditure (TDEE)—if you don't already know. TDEE is an estimate of your total calories burned daily.
 
@@ -70,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 
  In addition, you can even ask ChatGPT to include a full grocery list of all the ingredients you need as well as the measurements for each item.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Meal Plan Example Prompts for ChatGPT
 
 ![chatgpt AI chatbot online tool meal plan example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-meal-plan-example.jpg)
@@ -79,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 * Five-day vegan meal plan for weight loss that serves two adults with three meals per day, has a 30-minute cook time, costs $10 per meal, and contains 1800 calories per day.
 * Two-week vegetarian meal plan that caters to nut allergies, serves one, and includes three meals per day. No more than one hour of cooking time with an included grocery list.
 * One-week meal plan with three meals, one snack, and no dietary restrictions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Problems With ChatGPT Meal Plans
 
@@ -94,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 
  This can result in spending an enormous amount of money on groceries and lots of extra unused ingredients.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Better Meal Planning Alternatives to ChatGPT
 
  While ChatGPT is fun to use to play around with possible meal plans, it’s not entirely reliable, and you should use it with caution. On the other hand, there are plenty of [excellent meal planning apps](https://www.makeuseof.com/top-meal-planning-apps-healthy-eating/) available that can make your healthy meal plan easier to organize and keep track of.
@@ -107,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 ![SideChef meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-meal-plan-1.jpg)
 
 ![SideChef preferences mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-preferences.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -125,10 +129,6 @@ Close
 ![Eat this much planner mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-planner.jpg)
 
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can You Trust ChatGPT to Create a Healthy Meal Plan?
 
@@ -155,14 +155,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-high-quality-inexpensive-countdown-apps-for-2024/"><u>[New] High-Quality Inexpensive Countdown Apps for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevate-your-channelenas-expensive-check-out-our-11-free-name-generators-guide/"><u>[New] In 2024, Elevate Your Channel'enas Expensive? Check Out Our 11 Free Name Generators Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/anthropics-toolkit-the-complete-guide-to-claude-3/"><u>Anthropic's Toolkit: The Complete Guide to Claude 3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enjoy-a-world-of-gaming-with-chatgpts-top-6-innovative-titles/"><u>Enjoy a World of Gaming with ChatGPT's Top 6 Innovative Titles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-criteria-when-opting-for-ai-based-psychological-assistance-via-chatgpt/"><u>Essential Criteria When Opting for AI-Based Psychological Assistance via ChatGPT</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Google Pixel 8? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/managing-elevation-requests-for-operations-in-win-11-and-earlier-versions/"><u>Managing Elevation Requests for Operations in Win 11 and Earlier Versions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-mobile-market-leader-emerges-how-samsung-outshipped-apple-and-rose-through-the-ranks-insights/"><u>New Mobile Market Leader Emerges: How Samsung Outshipped Apple and Rose Through the Ranks - Insights</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/top-50-trending-music-videos-of-march-2nd-2017-a-must-have-playlist-for-pro-audio-mixers-and-video-editors/"><u>Top 50 Trending Music Videos of March 2Nd, 2017: A Must-Have Playlist for Pro Audio Mixers and Video Editors</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-video-creation-with-youtube-and-more/"><u>[New] Step-by-Step Video Creation with YouTube and More</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-expert-advice-downloading-editing-and-personalizing-whatsapp-tones-for-both-platforms/"><u>[Updated] 2024 Approved Expert Advice Downloading, Editing & Personalizing WhatsApp Tones for Both Platforms</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-loudness-in-the-void-breaking-soundless-twitter-vids/"><u>[Updated] 2024 Approved Loudness in the Void Breaking Soundless Twitter Vids</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-quality-video-sharing-leading-alternative-converters-from-flv-to-yt/"><u>[Updated] 2024 Approved Quality Video Sharing Leading Alternative Converters From FLV to YT</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-building-a-stylish-tiktok-closing-credits-bar/"><u>[Updated] Building A Stylish TikTok Closing Credits Bar</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-merry-media-archive-inspector/"><u>[Updated] In 2024, Merry Media Archive Inspector</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-revolutionizing-ps2-playtime-on-ios-with-top-emulators/"><u>[Updated] Revolutionizing PS2 Playtime on iOS with Top Emulators</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-secrets-for-transcribing-twitter-videos-into-mp3-format/"><u>[Updated] Secrets for Transcribing Twitter Videos Into MP3 Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehende-research-via-conversational-ai/"><u>Comprehende Research via Conversational AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-dynamics-ai-versus-machine-translators/"><u>Decoding Dynamics: AI Versus Machine Translators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-top-6-artificial-intelligence-enhancements-in-iphones-with-ios-18-an-early-look-and-future-prospects/"><u>Discover the Top 6 Artificial Intelligence Enhancements in iPhones with iOS 18: An Early Look & Future Prospects</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-ranked-slideshow-creation-software-on-latest-iphones/"><u>In 2024, Ranked Slideshow Creation Software on Latest iPhones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-gpt-3-android-and-ios-integration/"><u>Navigating GPT-3: Android & iOS Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalizing-ai-prose-training-chatgpt-to-reflect-you/"><u>Personalizing AI Prose: Training ChatGPT to Reflect You</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-biz-strategy-with-chatgpt-whisper-apis/"><u>Revolutionizing Biz Strategy with ChatGPT, Whisper APIs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-threshold-of-acceptability-in-chatgpt-usage-at-the-office/"><u>The Threshold of Acceptability in ChatGPT Usage at the Office</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-labor-day-bargain-get-your-new-2nd-gen-apple-pencil-for-just-95-with-zdnets-special-deal/"><u>Unbeatable Labor Day Bargain: Get Your New 2Nd Gen Apple Pencil for Just $95 with ZDNet's Special Deal</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-most-exceptional-mac-models-expert-review-and-analysis-by-zdnet/"><u>Unveiling the Most Exceptional Mac Models - Expert Review & Analysis by ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo V29 Pro | Dr.fone</u></a></li>
 </ul></div>
 

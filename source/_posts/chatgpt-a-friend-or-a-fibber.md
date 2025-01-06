@@ -1,7 +1,7 @@
 ---
 title: ChatGPT - A Friend or a Fibber?
-date: 2024-09-06T23:31:54.128Z
-updated: 2024-09-07T23:31:54.128Z
+date: 2025-01-02T18:25:12.307Z
+updated: 2025-01-06T07:00:00.796Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes ChatGPT - A Friend or a Fibber?
 thumbnail: https://thmb.techidaily.com/b750413312d41df96b3e21641f92f421092aa15408d61475c9e34aa15be286e0.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT - A Friend or a Fibber?
 
  Today, ChatGPT is relied on by millions as a helpful resource, be it for work, fun, or education. But can you rely on this AI chatbot to always provide the facts? Does ChatGPT ever lie, or will it only give you factual information?
@@ -27,22 +21,14 @@ thumbnail: https://thmb.techidaily.com/b750413312d41df96b3e21641f92f421092aa1540
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Where Does ChatGPT Get Its Information From?
 
 ![chatgpt live chat open on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chat-gpt-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In its training period, ChatGPT was fed data from sources across the web, such as government and agency websites, scientific journals, studies, news articles, podcasts, online forums, books, databases, films, documentaries, and social media.
 
  Specifically, ChatGPT-3 was trained using an extensive database of information that amounted to 570GB of data. As stated in an article from [Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/), 300 billion words of information were fed into the GPT-3 system during its development.
@@ -51,22 +37,18 @@ thumbnail: https://thmb.techidaily.com/b750413312d41df96b3e21641f92f421092aa1540
 
  But is ChatGPT only providing you with the facts, or is some more ambiguous information mixed in with its responses? Additionally, can ChatGPT lie to you?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does ChatGPT Lie?
 
 ![Person using chat GPT on Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/person-using-chat-gpt-on-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  While ChatGPT often provides truthful information to users, it does have the ability to "lie." Of course, ChatGPT doesn't decide to maliciously lie to users, as it simply can't do so. After all, ChatGPT is a language-processing tool, not an imitation of a real, sentient person.
 
  However, ChatGPT can technically still lie through a phenomenon known as AI hallucination.
@@ -91,11 +73,9 @@ thumbnail: https://thmb.techidaily.com/b750413312d41df96b3e21641f92f421092aa1540
  In another response in the same conversation, ChatGPT stated that "it's always a good idea to verify any information \[it provides\] with other sources."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can You Trust ChatGPT?
 
  Because it can provide false information, you clearly [cannot trust ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/) 100% of the time.
@@ -105,25 +85,20 @@ thumbnail: https://thmb.techidaily.com/b750413312d41df96b3e21641f92f421092aa1540
  Because of this, it's best to check any information that ChatGPT gives you, especially if you're requesting information about recent events. Double-checking this data by referring to other sources can help you determine if ChatGPT's right in what it is saying and can prevent you from making ill-advised decisions.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Is Useful but Not Always Truthful
 
  Unfortunately, you cannot rely on ChatGPT to provide truthful, unbiased information 100% of the time. This AI-powered chatbot is undeniably helpful and can help you in various ways, but it's always worth verifying whether the information it provides is factual.
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,4 +107,21 @@ thumbnail: https://thmb.techidaily.com/b750413312d41df96b3e21641f92f421092aa1540
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unleashing-your-viewing-experience-screen-recording-solutions/"><u>[Updated] 2024 Approved Unleashing Your Viewing Experience Screen Recording Solutions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-essential-audio-transforming-software-for-streamers-for-2024/"><u>[Updated] Essential Audio Transforming Software for Streamers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerating-system-awakening-tweak-windows-11-boot-timeout/"><u>Accelerating System Awakening: Tweak Windows 11 Boot Timeout</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-gears-up-for-the-future-with-new-acquisition-implications-for-ai-integrated-iphones-silicon-scoop/"><u>Apple Gears Up for the Future with New Acquisition - Implications for AI-Integrated iPhones | Silicon Scoop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-college-essays-balancing-innovation-with-tradition/"><u>ChatGPT and College Essays: Balancing Innovation with Tradition?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/detecting-fraudgpt-dangers-immediate-safeguards-to-apply/"><u>Detecting FraudGPT Dangers: Immediate Safeguards to Apply</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-lenovo-x1-carbon-drivers-compatible-with-windows-10-and-7-simple-guide/"><u>Download Lenovo X1 Carbon Drivers: Compatible with Windows 10 and 7 - Simple Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/explore-these-non-periscope-video-platforms-for-iphones-and-androids-for-2024/"><u>Explore These Non-Periscope Video Platforms for iPhones & Androids for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-apples-potential-upgrade-introducing-respiratory-monitoring-in-the-new-vision-pro-insights/"><u>Exploring Apple's Potential Upgrade: Introducing Respiratory Monitoring in the New Vision Pro - Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-samsung-galaxy-f15-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Samsung Galaxy F15 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-samsung-galaxy-a54-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Samsung Galaxy A54 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/oneplus-ace-2v-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Ace 2V Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-150-apple-gift-card-the-ultimate-guide-to-choosing-between-mac-and-ipad-for-academic-use/"><u>Secure Your $150 Apple Gift Card: The Ultimate Guide to Choosing Between Mac and iPad for Academic Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-do-it-yourself-evolution-starts-here/"><u>The Do-It-Yourself Evolution Starts Here</u></a></li>
+</ul></div>
 

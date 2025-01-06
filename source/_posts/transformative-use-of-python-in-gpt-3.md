@@ -1,7 +1,7 @@
 ---
 title: Transformative Use of Python in GPT-3
-date: 2024-12-21T18:05:37.176Z
-updated: 2024-12-27T18:28:25.744Z
+date: 2025-01-04T01:49:46.555Z
+updated: 2025-01-05T19:29:44.044Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is GPT-3?
@@ -52,17 +52,17 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
 3. Click on **Create new secret key** to generate your API key.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Create Secret API Screen of OpenAI website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/create-secret-api-screen-of-openai-website.jpg)
 4. Copy your API key and keep it in a secure location as you won't be able to view it again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  OpenAI's GPT-3 API charges you based on the number of tokens (words) you use to interact with it. Luckily, OpenAI provides $18 of credit for free for the first three months, so you can explore it and experiment according to your needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Building a Python Program to Use the GPT-3 API
 
@@ -108,6 +108,10 @@ main()`
 
  Put it all together and use Artificial Intelligence to answer your questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Output of Your GPT-3-Enabled Python Program
 
  When you run the program, it will ask you to enter a question. On entering the prompt, "Write a poem in 5 lines about how Iron Man is the greatest superhero of all time," the program produced the following impressive output:
@@ -115,11 +119,7 @@ main()`
 ![Output of using GPT3 with Python](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/output-of-using-gpt3-with-python.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-3 Has Many Interesting Applications
@@ -147,15 +147,24 @@ main()`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-crafting-cinematic-memories-with-music/"><u>[New] Crafting Cinematic Memories with Music</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-techniques-for-smooth-audio-amplification-in-lumafusion/"><u>[New] Techniques for Smooth Audio Amplification in Lumafusion</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-uniting-disparate-iphone-media-into-one-feed/"><u>[Updated] 2024 Approved Uniting Disparate iPhone Media Into One Feed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-artificinas-intelligent-processes-inside-black-boxes/"><u>Dissecting Artificinas Intelligent Processes: Inside Black Boxes</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719578854143-how-to-immerse-yourself-in-a-language-6-helpful-tips/"><u>How To Immerse Yourself In A Language: 6 Helpful Tips</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-itel-a60s-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Itel A60s Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mov-to-samsung-galaxy-s21-fe-5g-2023-converter-convert-mov-files-for-samsung-galaxy-s21-fe-5g-2023-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Samsung Galaxy S21 FE 5G (2023) converter-convert .mov files for Samsung Galaxy S21 FE 5G (2023)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/precision-in-personal-health-chatgpts-plan-writing/"><u>Precision in Personal Health: ChatGPT's Plan-Writing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sharpen-your-writing-skills-eliminate-errors-with-chatgpt-insights/"><u>Sharpen Your Writing Skills – Eliminate Errors with ChatGPT Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-turing-test-concepts-and-competitors/"><u>Unraveling Turing Test Concepts and Competitors</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-culinary-crescendo-high-impact-food-network-monikers/"><u>[New] In 2024, Culinary Crescendo High-Impact Food Network Monikers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-tailor-fb-videos-for-maximum-full-screen-effect/"><u>[New] Tailor FB Videos for Maximum Full-Screen Effect</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-coherent-audio-segments/"><u>[New] The Art of Coherent Audio Segments</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-guide-to-making-money-on-youtube-average-required-views/"><u>[New] The Ultimate Guide to Making Money on YouTube Average Required Views</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-achieve-professional-looking-motion-blur-with-just-a-few-steps-in-photoshop/"><u>[Updated] Achieve Professional-Looking Motion Blur with Just a Few Steps in Photoshop</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-blueprints-for-successful-docu-screenplays/"><u>2024 Approved Blueprints for Successful Docu-Screenplays</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/behind-the-curtain-elon-and-truthgpt/"><u>Behind the Curtain: Elon and TruthGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-titans-of-text-googles-palm-2-and-ais-gpt-4/"><u>Comparing Titans of Text: Google's PaLM 2 & AI's GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/galaxy-ai-breakthrough-elevates-samsung-amidst-tech-shakeup-as-google-faces-regulatory-hurdles-in-latest-innovation-rankings-zdnet-insights/"><u>Galaxy AI Breakthrough Elevates Samsung Amidst Tech Shakeup as Google Faces Regulatory Hurdles in Latest Innovation Rankings | ZDNET Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-safety-with-satellites-the-groundbreaking-inclusion-of-sos-feature-on-the-new-google-pixel-n/"><u>Revolutionizing Safety with Satellites: The Groundbreaking Inclusion of SOS Feature on the New Google Pixel N</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-smartphone-photography-the-iphone-16-now-features-visual-intelligence-comparable-to-google-lens-tech-news/"><u>Revolutionizing Smartphone Photography: The iPhone 16 Now Features Visual Intelligence Comparable to Google Lens | Tech News</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/securing-financial-stability-through-beauty-content-for-2024/"><u>Securing Financial Stability Through Beauty Content for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341752525-toms-tech-hub-in-depth-reviews-and-tips-explore-more-with-us/"><u>Tom's Tech Hub: In-Depth Reviews & Tips - Explore More with Us</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-15-youtube-openers-that-boost-viewership-and-engagement-for-2024/"><u>Top 15 YouTube Openers That Boost Viewership and Engagement for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-innovations-in-ios-18-unveiled-at-wwdc-2024-the-rise-of-artificial-intelligence-features/"><u>Top 5 Innovations in iOS 18 Unveiled at WWDC 2024: The Rise of Artificial Intelligence Features!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unobtrusive-ways-to-sync-your-airpods-to-the-quest-3-a-guide-for-considerate-tech-enthusiasts/"><u>Unobtrusive Ways to Sync Your AirPods to the Quest 3 – A Guide for Considerate Tech Enthusiasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-users-dislike-in-windows-11-most/"><u>What Users Dislike in Windows 11 Most</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/whats-the-science-behind-gpt-4-and-7-app-integration/"><u>What's the Science Behind GPT-4 & 7 App Integration?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-apple-vision-pro-offers-the-best-in-store-experience-insights-and-reservation-tips/"><u>Why Apple Vision Pro Offers the Best In-Store Experience: Insights & Reservation Tips</u></a></li>
 </ul></div>
 

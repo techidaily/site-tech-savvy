@@ -1,7 +1,7 @@
 ---
 title: AI's Role in Future Dev Workflows
-date: 2024-12-26T17:24:53.061Z
-updated: 2024-12-27T16:20:27.282Z
+date: 2024-12-30T19:44:16.261Z
+updated: 2025-01-06T10:27:13.279Z
 tags:
   - chatgpt
   - open-ai
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
  The views on AI differ based on the profession and the level of experience of the developer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Profession
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 
  For cloud developers, AI can help optimize infrastructure management by automating processes such as resource allocation, load balancing, monitoring, and performance tuning.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Experience
 
  Developers earlier in their careers and those learning to code are more likely to use AI tools possibly because it improves the speed of learning.
@@ -61,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 ### Countries
 
  Professional developers from India (83%), Brazil (78%), and Poland (70%) are among the developers using or planning to use AI tools in the future. This is probably because of the high growth of young developers from these countries. Developers from the United Kingdom, France, and Germany are less likely to use AI tools.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Are the Tasks Developers Are Using AI For?
 
@@ -76,9 +68,17 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 
  It’s worth noting that only a few developers are interested in using AI to collaborate with teammates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Benefits of AI for Developers
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  AI is beneficial to professional developers as well as those learning to code. Overall 33% see an increase in productivity as the most important benefit of using AI. Tools such as GitHub Copilot offer features like code suggestions, auto-completion, and error detection, which can significantly speed up the coding process.
 
@@ -91,12 +91,16 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
  The survey further categorized these benefits across different developer types. Increased productivity was a constant among all developer types.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Popular AI Tools That Developers Are Using in 2023
 
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Stack Overflow surveyed the popularity of various AI tools grouped between AI search tools and AI developer tools. From the data, developers are primarily using two tools, ChatGPT and GitHub Copilot.
 
@@ -109,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
  GitHub Copilot is the most popular AI coding assistant. 70% + respondents who worked with GitHub Copilot want to work with it again. Additionally, 59%+ of Tabnine users and 50% of AWS Code Whisperer users want to use GitHub Copilot.
 
  This slow adoption of a wide variety of AI tools can be attributed to skepticism about AI accuracy with only 2.85% of developers highly trusting AI output. This distrust can be attributed to tools like ChatGPT providing incorrect output sometimes. This output, when used, can cause significant damage to an application. When using these tools, it's always a good idea to first verify the output.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Get Started With AI in Software Development
 
@@ -139,18 +139,20 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-audience-centric-video-structure-chapter-addition-for-maximum-viewership-on-youtube/"><u>[New] 2024 Approved Audience-Centric Video Structure Chapter Addition for Maximum Viewership on YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-proven-techniques-in-the-art-of-srt-file-making/"><u>[New] Proven Techniques in the Art of SRT File Making</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-unbeatable-mobilized-game-slowdowns/"><u>[Updated] In 2024, Unbeatable Mobilized Game Slowdowns</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-secure-smooth-photo-viewing-w10-troubleshooting-tips-unveiled/"><u>[Updated] Secure Smooth Photo Viewing W10 Troubleshooting Tips Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbot-authenticity-and-plagiarism-debate/"><u>ChatBot Authenticity and Plagiarism Debate</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-guide-to-selecting-a-safe-and-private-email-service/"><u>Essential Guide to Selecting a Safe and Private Email Service</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-guide-to-upgrading-your-workspace-the-ultimate-way-to-integrate-an-ipad-pro-into-a-smart-home-office-tips-and-strategies-by-zdnet/"><u>Essential Guide to Upgrading Your Workspace: The Ultimate Way to Integrate an iPad Pro Into a Smart Home Office - Tips and Strategies by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/heartwarming-surprise-from-amazon-leaves-a-lasting-impression-a-memorable-customer-experience-tale-shared-on-zdnet/"><u>Heartwarming Surprise From Amazon Leaves a Lasting Impression - A Memorable Customer Experience Tale Shared on ZDNet</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-cutting-edge-screen-recording-free-from-lag-frames/"><u>In 2024, Cutting-Edge Screen Recording Free From Lag Frames</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-oppo-reno-11-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Oppo Reno 11 5G</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/initiate-local-free-open-source-ai-emulation-on-windows/"><u>Initiate Local, Free, Open-Source AI Emulation on Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-power-of-ai-boosting-home-routine-productivity/"><u>The Power of AI: Boosting Home Routine Productivity</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-drafting-a-dim-sum-storyline/"><u>[New] Drafting a Dim Sum Storyline</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rom-camera-roll-to-youtube-the-ultimate-uploading-guide/"><u>[New] From Camera Roll to YouTube The Ultimate Uploading Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-mastering-airtunes-on-your-apple-devices-quick-guide-to-repairs/"><u>2024 Approved Mastering Airtunes on Your Apple Devices - Quick Guide to Repairs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/achieve-more-chromes-top-8-productivity-enhancers-powered-by-ai/"><u>Achieve More: Chrome's Top 8 Productivity Enhancers Powered by AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-minds-comparing-potential-and-performance/"><u>Artificial Minds: Comparing Potential and Performance</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/best-mac-screen-recorders-a-comprehensive-guide/"><u>Best Mac Screen Recorders A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-strategies-for-converting-ts-video-files-to-mkv-using-top-free-tools/"><u>Effective Strategies for Converting TS Video Files to MKV Using Top Free Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/gopro-hero5-black-vs-yi-4k-the-best-action-cameras-battle-in-23-for-2024/"><u>GoPro Hero5 Black Vs. Yi 4K - The Best Action Cameras Battle in '23 for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-harmonic-hits-top-rated-dj-template-downloads/"><u>In 2024, Harmonic Hits Top-Rated DJ Template Downloads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/join-the-beta-early-explore-apple-vision-pro-before-launch-via-testflight-tips-and-tricks/"><u>Join the Beta Early: Explore Apple Vision Pro Before Launch via TestFlight - Tips & Tricks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-maze-to-find-your-ideal-4k-screen-for-2024/"><u>Navigating the Maze to Find Your Ideal 4K Screen for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-macos-software-expert-picks/"><u>Top-Ranking macOS Software : Expert Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-importance-of-using-a-vpn-with-vision-pro-and-similar-xr-devices-a-detailed-guide-tech-insights/"><u>Understanding the Importance of Using a VPN with Vision Pro and Similar XR Devices: A Detailed Guide | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-mobile-communication-with-bing-ai-chat-for-android-users/"><u>Unlocking Mobile Communication with Bing AI Chat for Android Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-guide-to-staying-in-touch-managing-contacts-and-messages-on-your-apple-watch/"><u>ZDNet's Guide to Staying in Touch: Managing Contacts and Messages on Your Apple Watch</u></a></li>
 </ul></div>
 

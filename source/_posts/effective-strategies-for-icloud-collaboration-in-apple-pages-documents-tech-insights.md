@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for iCloud Collaboration in Apple Pages Documents | Tech Insights
-date: 2024-12-21T20:37:52.716Z
-updated: 2024-12-27T20:24:44.630Z
+date: 2025-01-02T09:15:34.708Z
+updated: 2025-01-06T08:38:12.066Z
 tags:
   - apple
 categories:
@@ -18,6 +18,10 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple
 
 * [iPhone 16 Pro upgrade: If you have a 3 year-old iPhone, here are all the new features you'll get](https://www.zdnet.com/article/iphone-16-pro-and-pro-max-hands-on/)
@@ -27,15 +31,15 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
 
@@ -50,7 +54,7 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
@@ -62,10 +66,14 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enable the Collaboration feature
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
 
@@ -74,10 +82,6 @@ The first thing you must do is open the Pages document that will be shared with 
 **Figure 3**: Apple Pages open and the Collaborate button is ready to use.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Enable the Collaborate feature
 
@@ -104,10 +108,6 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -149,15 +149,17 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-heimdalls-eye-the-watchers-of-ragnarok/"><u>[New] In 2024, Heimdall's Eye The Watchers of Ragnarok</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoid-the-pitfalls-not-using-ai-to-generate-windows-key/"><u>Avoid the Pitfalls: Not Using AI to Generate Windows Key</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/eliminating-input-lag-for-a-smoother-gaming-session-on-a-secondary-display-using-windows-11/"><u>Eliminating Input Lag for a Smoother Gaming Session on a Secondary Display Using Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-remedies-for-chatgpts-most-recurrent-faults/"><u>Essential Remedies for ChatGPT's Most Recurrent Faults</u></a></li>
-<li><a href="https://network-issues.techidaily.com/normalizing-asymmetric-screens-for-w11-users/"><u>Normalizing Asymmetric Screens for W11 Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-business-with-these-essential-five-ai-tools/"><u>Revolutionize Your Business With These Essential Five AI Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-birth-and-evolution-of-artificocal-intelligence/"><u>The Birth and Evolution of Artificocal Intelligence</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-enhancing-gameplay-by-lowering-latency-and-increasing-fps-in-genshin-impact/"><u>Ultimate Guide: Enhancing Gameplay by Lowering Latency and Increasing FPS in Genshin Impact</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/hp-secure-erase-hp/"><u>データ安全保持を確実にするHP Secure Erase方法と代替ソリューション - HPディスクの完全消去</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frolic-fables-a-vhs-review-of-the-comical-epic-for-2024/"><u>'Frolic Fables' - A VHS Review of The Comical Epic for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-delving-into-past-facebook-chronicles-with-tech-help-for-2024/"><u>[New] Delving Into Past Facebook Chronicles with Tech Help for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-aggregate-video-pieces-into-lists-for-2024/"><u>[Updated] Aggregate Video Pieces Into Lists for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbot-fake-outs-staying-informed/"><u>ChatBot Fake-Outs: Staying Informed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/create-unique-ai-conversations/"><u>Create Unique AI Conversations</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-tips-for-youtube-shorts-success/"><u>Essential Tips for YouTube Shorts Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-ready-iphone-lineup-unveiling-devices-compatible-with-apples-next-ai-breakthroughs-and-the-evolved-version-of-siri/"><u>Future-Ready iPhone Lineup: Unveiling Devices Compatible with Apple's Next AI Breakthroughs and the Evolved Version of Siri</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/hassle-free-transition-migrate-windows-8-or-81-to-any-hardware-quickly-and-securely/"><u>Hassle-Free Transition: Migrate Windows 8 or 8.1 to Any Hardware Quickly and Securely</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-proposal-impact-with-gpt-3-assistance/"><u>Maximizing Proposal Impact with GPT-3 Assistance</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-redmi-12-5g-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Redmi 12 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shift-your-focus-to-claude-3-the-top-4-reasons-ahead/"><u>Shift Your Focus to Claude 3: The Top 4 Reasons Ahead</u></a></li>
 </ul></div>
 

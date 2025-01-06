@@ -1,7 +1,7 @@
 ---
 title: "Apple Enhances Self-Repair Services with New Remote Diagnostics for iPhone 15 & M2 Mac: A Deep Dive Into the Latest Features"
-date: 2024-12-21T17:42:13.385Z
-updated: 2024-12-27T16:34:59.763Z
+date: 2025-01-04T10:27:45.755Z
+updated: 2025-01-06T02:04:08.712Z
 tags:
   - apple
 categories:
@@ -56,7 +56,7 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -76,7 +76,7 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -91,6 +91,10 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does systemwide AI text generation work?
 
 Apple
@@ -102,6 +106,10 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -115,10 +123,6 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -130,10 +134,6 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -167,7 +167,7 @@ The company is striving to keep the AI features secure through several mechanism
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
@@ -210,18 +210,20 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-innovative-tips-producing-instagram-ready-loop-videos/"><u>[Updated] In 2024, Innovative Tips Producing Instagram-Ready Loop Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-level-up-your-livestream-game-using-obs-youtube-and-twitch-for-2024/"><u>[Updated] Level-Up Your Livestream Game Using OBS, YouTube & Twitch for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-a-compreenas-guide-to-choosing-ideal-lenses-for-filmmaking/"><u>2024 Approved A Compreenas Guide to Choosing Ideal Lenses for Filmmaking</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-compliance-the-four-step-governmental-regulation-roadmap/"><u>AI Compliance: The Four-Step Governmental Regulation Roadmap</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-elite-tablets-face-off-which-ipad-pro-is-best-for-you-insights-and-reviews-by-zdnet/"><u>Apple's Elite Tablets Face-Off: Which iPad Pro Is Best for You? Insights & Reviews by ZDNET</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/aurora-hdr-assessment-excellence-or-overkill/"><u>Aurora HDR Assessment Excellence or Overkill?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparing-openais-sora-6-cheap-effective-alternatives/"><u>Comparing OpenAI's Sora: 6 Cheap, Effective Alternatives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-ios-must-evolve-in-version-18-to-compete-with-androids-advanced-features-according-to-experts-gadgetflow/"><u>How iOS Must Evolve in Version 18 to Compete with Android’s Advanced Features, According to Experts | GadgetFlow</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-realme-narzo-60x-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Realme Narzo 60x 5G Unlock Without Password</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/testing-google-pixel-6s-photography-prowess-a-detailed-assessment/"><u>Testing Google Pixel 6'S Photography Prowess - A Detailed Assessment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-blueprint-of-shared-link-functioning-in-chatgpt/"><u>The Blueprint of Shared Link Functioning in ChatGPT</u></a></li>
-<li><a href="https://os-tips.techidaily.com/utilizing-emoji-and-sticker-features-for-enhanced-messaging-on-ios-10/"><u>Utilizing Emoji & Sticker Features for Enhanced Messaging on iOS 10</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-can-128gb-hold-extensive-video-content/"><u>[New] In 2024, Can 128GB Hold Extensive Video Content?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-viewing-voids-to-viral-videos-the-top-ten-reasons-and-cures-for-zero-traffic/"><u>[New] In 2024, From Viewing Voids to Viral Videos The Top Ten Reasons & Cures for Zero Traffic</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-complete-guide-to-iphones-album-orchestration-and-cloud-storage-sync/"><u>[New] The Complete Guide to iPhone's Album Orchestration and Cloud Storage Sync</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-why-your-imessages-were-not-sent-yesterday-insightful-explanation-and-solutions/"><u>1. Why Your iMessages Were Not Sent Yesterday: Insightful Explanation and Solutions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-pixelpanorama-crafting-collage-vids-on-gear/"><u>2024 Approved PixelPanorama Crafting Collage Vids on Gear</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/battle-of-the-buzzes-in-depth-analysis-of-ring-and-nest-doorbells/"><u>Battle of the Buzzes: In-Depth Analysis of Ring and Nest Doorbells</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/effective-techniques-for-optimizing-your-pcs-performance-insights-from-yl-computing/"><u>Effective Techniques for Optimizing Your PC's Performance: Insights From YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-zoom-on-vision-pro-headsets-how-it-might-change-your-future-meetings/"><u>Introducing Zoom on Vision Pro Headsets: How It Might Change Your Future Meetings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meta-quest-3-outshines-the-competition-enable-advanced-ai-before-it-arrives-on-apple-vision-pro-step-by-step-instructions-the-verge/"><u>Meta Quest 3 Outshines the Competition: Enable Advanced AI Before It Arrives on Apple Vision Pro – Step-by-Step Instructions | The Verge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/misleading-claims-no-win-client-of-gpt-as-virus/"><u>Misleading Claims: No Win Client of GPT as Virus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/opt-out-navigating-chatgpts-data-use/"><u>Opt-Out: Navigating ChatGPT's Data Use</u></a></li>
+<li><a href="https://extra-support.techidaily.com/reclaiming-iphone-hdr-footage-premiere-pros-fixes-for-overexposure-for-2024/"><u>Reclaiming iPhone HDR Footage Premiere Pro's Fixes for Overexposure for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-non-apple-non-tile-airtag-wallets-a-comprehensive-review-tech-insights/"><u>Top Non-Apple, Non-Tile AirTag Wallets: A Comprehensive Review | Tech Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975496760-update-your-hp-scanjet-software-for-windows-11-8-and-7-get-the-newest-version-today/"><u>Update Your HP Scanjet Software for Windows 11, 8 & 7 – Get the Newest Version Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/winning-hearts-and-minds-persuasive-writing-techniques-and-gpt-assistance/"><u>Winning Hearts and Minds: Persuasive Writing Techniques & GPT Assistance</u></a></li>
 </ul></div>
 

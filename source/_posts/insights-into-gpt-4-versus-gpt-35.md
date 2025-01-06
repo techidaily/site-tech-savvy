@@ -1,7 +1,7 @@
 ---
 title: Insights Into GPT-4 Versus GPT-3.5
-date: 2024-12-21T18:22:39.164Z
-updated: 2024-12-27T20:14:11.446Z
+date: 2024-12-29T23:31:21.742Z
+updated: 2025-01-06T09:53:44.616Z
 tags:
   - chatgpt
   - open-ai
@@ -28,12 +28,16 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. GPT-4 vs. GPT-3.5: Creativity
 
 ![gpt-4 language model with OpenAI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-4-language-model-with-openai-logo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One of the most pronounced advantages of the GPT-4 model over GPT-3.5 is its ability to provide more creative replies to prompts. Don't get me wrong; GPT-3.5 is very creative. There's a long list of [creative things you can do with ChatGPT that uses the model](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/). However, it already outperforms many large language models in terms of creativity.
@@ -42,13 +46,13 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
  For example, if you ask both models to complete a creative task like writing a poem using both English and French on each line of the poem, [ChatGPT powered by the latest GPT-4 model](https://www.makeuseof.com/how-to-use-gpt4/) will deliver better results. While GPT-4's response would use both languages on every line, GPT-3.5 would alternate between both languages instead, with each line using one language and the next using the other.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. GPT-4 vs. GPT-3.5: Image or Visual Inputs
 
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While GPT-3.5 can only accept text prompts, GPT-4 is multi-modal and can accept both text and visual inputs. To be clear, when we say visual inputs, the image doesn't have to be an image of a typed prompt—it can be an image of anything. So from an image of a handwritten math problem to Reddit memes, GPT-4 can understand and describe almost any image.
 
@@ -69,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One of GPT-3.5's flaws is its tendency to produce nonsensical and untruthful information confidently. In AI lingo, this is called "AI hallucination" and can cause distrust of AI-generated information.
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
 ![A pair of programmers sitting in an office reviewing some code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/two-programmers-reviewing-code-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A less talked about difference between GPT-4 and GPT-3.5 is the context window and context size. A context window is how much data a model can retain in its "memory" during a chat session and for how long. GPT-4 has a significantly better context size and window than its predecessor model.
 
  In practical terms, this means that GPT-4 can better remember the context of a conversation for longer, as well as the instructions given during the conversation.
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
  Another issue is the limitation on the volume of text you can use in a prompt at once. Summarizing long text using GPT-3 typically means splitting the text into multiple chunks and summarizing them bit by bit. The improvement in context length in the GPT-4 model means you can paste entire PDFs at a go and get the model to summarize without splitting it into chunks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-4: A Step Up from GPT-3.5
@@ -121,24 +121,22 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-what-makes-a-youtube-short-go-viral/"><u>[New] 2024 Approved What Makes a YouTube Short Go Viral?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-top-obs-software-insights-screen-recorder-capabilities-uncovered/"><u>[Updated] In 2024, Top OBS Software Insights Screen Recorder Capabilities Uncovered</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ace-your-media-playback-with-superior-mkv-converters-compatible-with-mac-high-sierra-systems/"><u>Ace Your Media Playback with Superior MKV Converters Compatible with Mac High Sierra Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-breakthroughs-understanding-the-role-of-transfer-learning/"><u>AI Breakthroughs: Understanding the Role of Transfer Learning</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-the-spotlight-discover-apples-most-impactful-yet-subtle-ai-innovation-at-wwdc-zdnet/"><u>Beyond the Spotlight: Discover Apple's Most Impactful, Yet Subtle AI Innovation at WWDC | ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-advantages-and-disadvantages-of-premium-membership/"><u>ChatGPT: Advantages & Disadvantages of Premium Membership</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cost-cutting-options-for-purchasing-gopros/"><u>Cost-Cutting Options for Purchasing GoPros</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ending-fortnite-lag-frustration-expert-strategies-to-improve-connection-stability/"><u>Ending Fortnite Lag Frustration: Expert Strategies to Improve Connection Stability</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-essentials-in-openai-knowledge/"><u>Exploring the Essentials in OpenAI Knowledge</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-the-latest-update-ios-18-is-here-installation-instructions-and-eligible-iphone-devices-techzdnet/"><u>Get the Latest Update: IOS 18 Is Here! Installation Instructions and Eligible iPhone Devices | TechZDNET</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210290940-9781644920350-im-not-a-hypocrite-im-human/"><u>I'm Not a Hypocrite I'm Human | Free Book</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-installation-of-the-canon-pro-100-driver-on-your-pc-with-windows/"><u>Instant Installation of the Canon PRO 100 Driver on Your PC with Windows</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/journey-to-the-core-of-instagram-finding-all-about-free-filters-for-2024/"><u>Journey to the Core of Instagram Finding All About Free Filters for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solving-the-full-capacity-message-on-win-chatgpt/"><u>Solving the Full Capacity Message on Win ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-27-most-advanced-retail-management-software-not-included-in-gpts-suite/"><u>The 27 Most Advanced Retail Management Software Not Included in GPT's Suite</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-comedic-potential-of-the-metaverses-vast-space/"><u>The Comedic Potential of the Metaverse's Vast Space</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-innovative-camera-button-feature-now-available-on-all-iphone-16-variants-discover-its-unique-functions-and-advantages/"><u>The Innovative Camera Button Feature Now Available on All iPhone 16 Variants | Discover Its Unique Functions and Advantages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-science-behind-shared-gpt-3-links-and-their-purpose/"><u>The Science Behind Shared GPT-3 Links & Their Purpose</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/why-certain-videos-lack-repair-benefits/"><u>Why Certain Videos Lack Repair Benefits?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-fabricate-personalized-viral-memes-for-2024/"><u>[New] Fabricate Personalized Viral Memes for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-mac-videos-for-snapchat/"><u>[New] In 2024, The Ultimate Guide to Mac Videos for Snapchat</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-blending-bands-and-friends-connecting-spotify-to-discord/"><u>[Updated] In 2024, Blending Bands & Friends Connecting Spotify to Discord</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-sifting-through-the-best-video-hosting-options-with-vimeo-memberships/"><u>2024 Approved Sifting Through the Best Video Hosting Options with Vimeo Memberships</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-step-by-step-guide-to-sims-4-gameplay-recording/"><u>2024 Approved Step-by-Step Guide to Sims 4 Gameplay Recording</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-most-advanced-macbook-series-top-picks-and-detailed-analysis-on-zdnet/"><u>2024'S Most Advanced MacBook Series: Top Picks and Detailed Analysis on ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-tips-for-dealing-with-system-calls-in-windows/"><u>Comprehensive Tips for Dealing With System Calls in Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-nokia-105-classic-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Nokia 105 Classic to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-v29-pro-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo V29 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-18-update-introduces-built-in-call-recording-feature-no-more-third-party-dependency-technewszdnet/"><u>IOS 18 Update Introduces Built-In Call Recording Feature, No More Third-Party Dependency | TechNewsZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-the-transition-how-apple-simplifies-your-switch-from-iphone-to-android/"><u>Making the Transition: How Apple Simplifies Your Switch From iPhone to Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/not-a-substitute-for-professional-medical-guidance-ai/"><u>Not a Substitute for Professional Medical Guidance, AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-your-search-the-future-of-bing-in-android/"><u>Reimagining Your Search: The Future of Bing in Android</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95703529-9781612833743-the-everything-answer-book/"><u>The Everything Answer Book | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-ai-interactions-is-now-embrace-chromes-gpt-extension/"><u>The Future of AI Interactions Is Now – Embrace Chrome's GPT Extension</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ipad-productivity-apps-streamline-your-tasks-and-enhance-efficiency-on-the-go-insights-from-zdnet/"><u>Top iPad Productivity Apps: Streamline Your Tasks & Enhance Efficiency on the Go - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-tools-why-teachers-should-welcome-ai-innovations/"><u>Transformative Tools: Why Teachers Should Welcome AI Innovations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Excel Mastery Unraveled: Where ChatGPT Lags"
-date: 2024-09-12T07:39:51.572Z
-updated: 2024-09-13T07:39:51.572Z
+date: 2024-12-29T19:09:44.679Z
+updated: 2025-01-05T18:06:11.786Z
 tags:
   - chatgpt
   - open-ai
@@ -24,10 +24,7 @@ thumbnail: https://thmb.techidaily.com/57a07625ab9c873f1b8816cfe4ef02cf1a6f9bda4
  With advancements increasing at an alarming rate, it’s easy to worry that your job may be at risk of automation. Despite the surprising abilities AI programs like ChatGPT have already shown, there are still places where humans can outshine them. Here are three things you can do using Excel that are still out of reach for ChatGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Using Excel for Long-Term Report Storage and Data Entry
@@ -47,10 +44,7 @@ thumbnail: https://thmb.techidaily.com/57a07625ab9c873f1b8816cfe4ef02cf1a6f9bda4
  While building out a single report can be handy, useful trends are more visible over long periods of time. Building dashboards to [visualize data trends](https://www.makeuseof.com/how-to-use-scatter-plot-predict-data-behavior-microsoft-excel/) and raise red flags immediately when things go wrong is still a highly valuable skill.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Customizable Report Creation in Excel
@@ -58,16 +52,7 @@ thumbnail: https://thmb.techidaily.com/57a07625ab9c873f1b8816cfe4ef02cf1a6f9bda4
 ![A laptop sitting on a desk showing a data dashboard. There are several graphs showing and some other various data on screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/data-dashboard.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While a single report is simple to create with ChatGPT, a set of data frozen in time isn’t always beneficial. One of the most potent abilities that Excel gives us the ability to create reports that the reader can instantly customize.
@@ -83,22 +68,12 @@ thumbnail: https://thmb.techidaily.com/57a07625ab9c873f1b8816cfe4ef02cf1a6f9bda4
  Make your reports more useful by adding some [simple Excel features](https://www.makeuseof.com/essential-excel-functions/). Ensure your reports can pull variable timeframes, highlight potential problems automatically, and sanitize data for long-term storage and flexibility.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Easy-to-Use Forms in Excel
 
 ![Man in black suit sitting in front of a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/pexels-kampus-production-8353777.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Forms are another great Excel option for those looking for value that ChatGPT can’t provide. Entering information manually can be time-consuming and frustrating. Giving end users the option to enter data independently as it arises frees up time and energy better spent analyzing the results.
 
@@ -109,10 +84,7 @@ thumbnail: https://thmb.techidaily.com/57a07625ab9c873f1b8816cfe4ef02cf1a6f9bda4
  For those looking to blend forms and long-term data storage, looking into different ways to export data from Excel is essential. Learning how to take data from an entry form to a SQL database can help insulate your job and keep your work essential.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Isn’t Going to Automate You Out of a Job Yet
@@ -140,5 +112,26 @@ thumbnail: https://thmb.techidaily.com/57a07625ab9c873f1b8816cfe4ef02cf1a6f9bda4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-eco-effect-filmmaking-youtubes-guide-to-green-magic/"><u>[New] 2024 Approved Eco-Effect Filmmaking YouTube's Guide to Green Magic</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-dynamic-color-grading-using-ae-luts-for-2024/"><u>[New] Dynamic Color Grading Using AE LUTs for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-efficient-techniques-unveiled-mastering-screen-recordings-with-showmore/"><u>[Updated] Efficient Techniques Unveiled Mastering Screen Recordings with ShowMore</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-free-online-jpggif-converters-the-best-10-list/"><u>2024 Approved Free Online JPG/GIF Converters The Best 10 List</u></a></li>
+<li><a href="https://win-best.techidaily.com/boot-blues-troubleshooting-and-resolving-black-screen-issues-in-windows-by-yl-tech-solutions/"><u>Boot Blues: Troubleshooting and Resolving Black Screen Issues in Windows by YL Tech Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-continuous-chats-refine-chatgpts-ai-abilities/"><u>Can Continuous Chats Refine ChatGPT’s AI Abilities?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-vpn-use-improve-privacy-while-using-chatgpt/"><u>Can VPN Use Improve Privacy While Using ChatGPT?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/design-thinking-for-content-creators-crafting-impactful-facebook-reels/"><u>Design Thinking for Content Creators Crafting Impactful Facebook Reels</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-theory-to-action-implementing-chatgpt-api/"><u>From Theory to Action: Implementing ChatGPT API</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-laserjet-p1007-driver-version-instantly-safe-and-easy-update/"><u>Get the Newest HP LaserJet P1007 Driver Version Instantly | Safe and Easy Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/googles-foray-into-next-gen-language-processing-with-palm-2/"><u>Google's Foray Into Next-Gen Language Processing with PaLM 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-3-an-ally-for-aspiring-poets-and-writers/"><u>GPT-3: An Ally for Aspiring Poets and Writers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/how-to-capture-your-iphones-screen-seamlessly-for-2024/"><u>How to Capture Your iPhone's Screen Seamlessly for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-6s-plus-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 6s Plus Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/installation-of-codegpt-in-visual-studio-code/"><u>Installation of CodeGPT in Visual Studio Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personal-development-and-the-power-of-chatgpt/"><u>Personal Development and the Power of ChatGPT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-in-wow-heres-how-you-successfully-silenced-the-sound-problem/"><u>Reviving Audio in WoW? Here's How You Successfully Silenced The Sound Problem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/setting-up-various-mac-os-network-interfaces-for-enhanced-connection-options/"><u>Setting Up Various MAC OS Network Interfaces for Enhanced Connection Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrading-made-easy-unveil-top-advantages-of-macos-15-on-your-apple-macbook/"><u>Upgrading Made Easy: Unveil Top Advantages of MacOS 15 on Your Apple MacBook</u></a></li>
+</ul></div>
 

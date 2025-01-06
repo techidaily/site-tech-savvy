@@ -1,7 +1,7 @@
 ---
 title: "AI's Hidden Treasure Trove: Top 5 Innovative Chat Functions"
-date: 2024-09-06T23:34:49.968Z
-updated: 2024-09-07T23:34:49.968Z
+date: 2025-01-02T21:20:54.572Z
+updated: 2025-01-06T00:54:09.292Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes AI's Hidden Treasure Trove: Top 5 Innovative Ch
 thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb2fb6b24d9d6255bb836b3c7.JPG
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI's Hidden Treasure Trove: Top 5 Innovative Chat Functions
 
  ChatGPT is packed with features—more than most folks realize. This means most of us aren't using the full range of ChatGPT's features and could be getting more out of the world's leading AI chatbot.
@@ -29,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 
  So, here are five ChatGPT features you're not using but absolutely should be.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1  Read Aloud
 
  In March 2024, OpenAI launched ChatGPT's Read Aloud feature, enabling the AI tool to read its responses to you. It can be handy if you're working on a long piece of text and want to hear how it sounds spoken, but it also means that you can now effectively converse with ChatGPT (using ChatGPT's voice input feature).
@@ -47,11 +35,9 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
  Furthermore, Read Aloud can speak in 37 different languages but will also try to auto-detect whatever language it's reading.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2  Personalized Responses
 
  ChatGPT's Custom Instructions give you greater control over how the AI chatbot responds to your inputs. [ChatGPT's custom instructions can range](https://www.makeuseof.com/best-ways-to-use-chatgpt-custom-instructions/) from in-depth information about your life, business, or otherwise, to simple instructions, such as making sure it only uses imperial measurements or always responds with your name.
@@ -67,11 +53,9 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
  That's a small example, but illustrates how you might shape ChatGPT's output towards your daily use, saving you time each day.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3  ChatGPT Memory and Temporary Chat
 
  ChatGPT Memory and Temporary Chat are two features launching together, aimed to give ChatGPT better recall—and a way to avoid that recall altogether.
@@ -81,11 +65,9 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 ![openai chatgpt memory options and management panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-chatgpt-memory-options-and-management-panel.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [OpenAI](https://help.openai.com/en/articles/8590148-memory-faq)
 
  Part of ChatGPT's Memory is the supposition you're talking to it about anything and everything. It gives an example of "You mention that you have a toddler and that she loves jellyfish. When you ask ChatGPT to help create her birthday card, it suggests a jellyfish wearing a party hat." That's cute, no doubt, but it's not the sort of information most folks are providing to ChatGPT regularly (at least, I assume not).
@@ -101,11 +83,9 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 ![chatgpt temporary chat option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-temporary-chat-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [OpenAI](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
 
  In response, OpenAI revealed ideas for [Temporary Chat](https://help.openai.com/en/articles/8914046-temporary-chat-faq), a mode that enables "a conversation with a blank slate." In Temporary Chat mode, ChatGPT won't be aware of any previous conversations or memory, but would still use your custom instructions if set. It's a little like Incognito or Private mode in a browser.
@@ -117,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
  Want to share ChatGPT Plus with your buddies, but they don't have the cash for the subscription? Well, you can use a ChatGPT Plus free trial invite to grant them a 14-day free ChatGPT Plus experience, with access to every feature.
 
  The only real downside to the ChatGPT Plus free trial is that anyone taking it has to sign up for an account using a credit or debit card—which means the card will be charged straight away when the trial ends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5  Shared Links
 
@@ -130,14 +114,11 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 
  So, here are five ChatGPT features you're not using but absolutely should be.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,4 +127,26 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-in-depth-slomo-video-software-review-year-2024/"><u>[Updated] In-Depth SloMo Video Software Review - Year 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/automattics-strategic-buyout-of-beeper-future-expansion-plans-unveiled/"><u>Automattic's Strategic Buyout of Beeper: Future Expansion Plans Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-speeds-chatgpt-4s-laggard-legacy-vs-gpt-35/"><u>Comparative Speeds: ChatGPT-4's Laggard Legacy vs GPT-3.5</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/crafting-professional-gamers-content-with-obs-recordings-for-2024/"><u>Crafting Professional Gamers' Content with OBS Recordings for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/declutter-your-email-easily-with-this-one-step-method-no-more-managing-rules-or-multiple-mailboxes/"><u>Declutter Your Email Easily with This One-Step Method – No More Managing Rules or Multiple Mailboxes!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-apples-latest-key-features-and-upgrades-of-the-new-airpods-series-a-comprehveiw-by-zdnet/"><u>Discovering Apple's Latest: Key Features and Upgrades of the New AirPods Series - A Comprehveiw by ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/effective-measures-for-protecting-your-social-media-pin/"><u>Effective Measures for Protecting Your Social Media PIN</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/getting-your-sound-blaster-z-up-and-running-on-windows-nine-a-free-driver-downloader/"><u>Getting Your Sound Blaster Z Up and Running on Windows Nine: A Free Driver Downloader!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/human-interpretation-vs-machine-generated-summary-clarity/"><u>Human Interpretation Vs. Machine-Generated Summary Clarity</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-the-loop-a-comprehensive-guide-for-instagram-videographers/"><u>In 2024, Mastering the Loop A Comprehensive Guide for Instagram Videographers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-pioneering-methods-to-log-lol-gaming-sessions/"><u>In 2024, Pioneering Methods to Log LOL Gaming Sessions</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-error-403-in-roblox/"><u>Navigating Windows Error 403 in Roblox</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-avs-video-editor-an-in-depth-analysis-for-2024/"><u>New AVS Video Editor An In-Depth Analysis for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-data-analysis-mastery-through-chatgpt-and-excel/"><u>Revolutionize Your Data Analysis: Mastery Through ChatGPT and Excel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scrutinizing-6-overrated-chatgpt-extensions/"><u>Scrutinizing 6 Overrated ChatGPT Extensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-airpods-pro-gear-and-add-ons-featured/"><u>Top-Rated AirPods Pro Gear and Add-Ons - Featured</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-full-power-of-siri-top-secret-iphone-voice-commands-you-need-to-know-exclusive-guide-techadvocate/"><u>Unlocking the Full Power of Siri: Top Secret iPhone Voice Commands You Need to Know [Exclusive Guide] - TechAdvocate</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrading-your-workflow-with-apples-new-macbook-pro-an-in-depth-look-at-m1-vs-m3-performance/"><u>Upgrading Your Workflow with Apple's New MacBook Pro: An In-Depth Look at M1 Vs. M3 Performance</u></a></li>
+</ul></div>
 

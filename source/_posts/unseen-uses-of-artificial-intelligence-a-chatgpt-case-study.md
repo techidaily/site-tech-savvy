@@ -1,7 +1,7 @@
 ---
 title: "Unseen Uses of Artificial Intelligence: A ChatGPT Case Study"
-date: 2024-12-21T18:12:57.455Z
-updated: 2024-12-27T16:16:58.646Z
+date: 2025-01-03T17:57:26.508Z
+updated: 2025-01-05T16:02:30.452Z
 tags:
   - chatgpt
   - open-ai
@@ -38,17 +38,9 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 
  Before you get excited and try to script all your videos with ChatGPT, remember that adding a human touch is still important. You should know about the topics you discuss, and you'll also need to edit the tone to fit how you authentically speak.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Brainstorming Topic Ideas
 
 ![An idea symbol (lightbulb) linked to post it notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/lightbulb-with-post-its.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Even if you're required to come up with creative ideas each day, you're not always going to be able to think of new topics. You'll go through periods where you can't seem to think of anything—and if your job relies on you using your brain, this can get frustrating.
 
@@ -66,19 +58,23 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 
  Creating a good social media bio can require a lot of thought, and you can use ChatGPT to help you create a draft. Once you've got a rough framework, you have more room to adjust everything to fit your personality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Learning a New Language
 
 ![Photo of numerous countries' flags](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/joshua-fuller-tida-geog-s-unsplash.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Learning a new language can open new doors, such as giving you the chance to make new friends and potentially gain employment in a new country. You'll find plenty of [language-learning apps, such as Duolingo and Babbel](https://www.makeuseof.com/babbel-vs-duolingo-complete-comparison/). Moreover, you can hone your skills by consuming videos, podcasts, and articles in your target language.
 
  Knowing the most common words and phrases is a good idea when you're first learning a new language. At the very least, you should find it easier to get around when you next visit that place. And if you use ChatGPT, you've got the opportunity to make progress toward your language-learning goals.
 
  Some users have asked ChatGPT for the most common words in their target language, and you can also ask the service how to translate certain words and phrases. On top of that, you might want to think about asking ChatGPT for a list of resources that you can add to your ecosystem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Market Research
 
@@ -91,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
  You can also use ChatGPT to look at what the people you want to sell to are currently interested in. While you should also use other forms of research—such as surveys—to get a clearer overall picture, ChatGPT can provide a good base level of information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Finding the Answers to Questions
@@ -102,19 +98,23 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 
  If you need additional information, you can always turn to a search engine later.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Software Development
 
 ![photo of a woman typing on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/woman-working-on-computer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One of the most interesting ways that ChatGPT is being used is a little outside the box. As reported by [ABC News](https://www.abc.net.au/news/science/2023-01-25/chatgpt-midjourney-generative-ai-and-future-of-work/101882580), some people and companies are using the tool to help them with software development.
 
  In the article, one student in Australia mentioned that they had used the tool to help them write code. However, they also mentioned that human input still required to ensure everything was correct.
 
  Meanwhile, a company in Belgium mentioned that it was testing with ChatGPT to create software that would make it easier to put contracts together.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## You'll Find Several Uses for ChatGPT
 
@@ -141,22 +141,18 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-devise-giggle-generating-pictorials-for-giphy/"><u>[New] 2024 Approved Devise Giggle-Generating Pictorials for Giphy</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonizing-youtube-production-with-a-9-to-5-routine/"><u>[New] 2024 Approved Harmonizing YouTube Production with a 9-to-5 Routine</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-earnings-expertise-on-streaming-services-the-ultimate-guide/"><u>[New] In 2024, Earnings Expertise on Streaming Services The Ultimate Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-upgrade-playstation-10-best-hard-drive-mods/"><u>[New] Upgrade PlayStation #10 Best Hard Drive Mods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/creative-writing-enhanced-by-gpts-nine-techniques/"><u>Creative Writing Enhanced by GPT's Nine Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/data-dominance-5-picks-for-efficient-gpt-3-data-handling/"><u>Data Dominance: 5 Picks for Efficient GPT-3 Data Handling</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-the-cybersecurity-of-ai-dialogues/"><u>Deciphering the Cybersecurity of AI Dialogues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/divergence-of-ai-the-powerful-and-the-passive/"><u>Divergence of AI: The Powerful and the Passive</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-powered-idea-generation-for-fictional-worlds/"><u>GPT-Powered Idea Generation for Fictional Worlds</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-maximizing-engagement-integrating-youtube-music-into-videos/"><u>In 2024, Maximizing Engagement Integrating YouTube Music Into Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/microsoft-365-packaged-in-apples-new-vision-pro-get-access-to-word-excel-on-day-one-exclusive/"><u>Microsoft 365 Packaged in Apple's New Vision Pro: Get Access to Word, Excel on Day One | Exclusive</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/snapchat-and-skype-an-ai-expertise-showdown/"><u>Snapchat and Skype: An AI Expertise Showdown</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-benefits-of-deleting-idle-android-applications-enhance-your-devices-performance/"><u>The Benefits of Deleting Idle Android Applications: Enhance Your Device's Performance!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-meizu-21-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Meizu 21 Pro FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/thin-is-in-a-firsthand-look-at-the-slimmest-ever-ipads-from-apple-is-less-really-more-at-just-008-inches/"><u>Thin Is In: A Firsthand Look at the Slimmest Ever iPads From Apple - Is Less Really More at Just 0.08 Inches?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-12-gratuite-programmi-di-animazione-3d-migliori-nellagosto-2024/"><u>Top 12 Gratuite Programmi Di Animazione 3D Migliori Nell'agosto 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mastering-pubg-tones-in-minutes-for-2024/"><u>[Updated] Mastering PUBG Tones in Minutes for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/after-the-iphone-13-and-15-pro-top-alternatives-to-consider-now-insights-from-tech-analysts-at-zdnet/"><u>After the iPhone 13 and 15 Pro: Top Alternatives to Consider Now - Insights From Tech Analysts at ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciding-on-your-next-smartwatch-companion-in-depth-review-of-google-pixel-watch-gen3-vs-apple-watch-series-9-zdnet/"><u>Deciding on Your Next Smartwatch Companion: In-Depth Review of Google Pixel Watch Gen3 Vs. Apple Watch Series 9 | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-market-mysteries-the-inadequacy-of-gpt-analysis/"><u>Decoding Market Mysteries: The Inadequacy of GPT Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-the-data-dilemmas-of-chatgpt-engagement/"><u>Delving Into the Data Dilemmas of ChatGPT Engagement</u></a></li>
+<li><a href="https://win-docs.techidaily.com/easy-guide-for-converting-and-downloading-byutv-programs-mp4-avi-flv-options-explained/"><u>Easy Guide for Converting & Downloading BYUTV Programs: MP4, AVI, FLV Options Explained</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-performance-of-the-kootek-tech-an-efficient-laptop-thermal-management-system/"><u>Evaluating the Performance of the Kootek Tech: An Efficient Laptop Thermal Management System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-discount-alert-get-airpods-pro-turned-into-a-hearing-device-for-only-24-off-shop-now-on-audiotech-savings-hub/"><u>Exclusive Discount Alert! Get AirPods Pro Turned Into a Hearing Device for Only 24% Off - Shop Now on AudioTech Savings Hub</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-why-the-discounted-apple-watch-ultra-2-is-my-ideal-smartwatch-pick-this-labor-day-insights/"><u>Exploring Why the Discounted Apple Watch Ultra 2 Is My Ideal Smartwatch Pick This Labor Day - Insights</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-x50-gt-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor X50 GT Without Password | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-navigating-roku-tv-facebook-live-broadcasting-tips/"><u>In 2024, Navigating Roku TV Facebook Live Broadcasting Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/redirecting-noise-free-tweets-back-to-audio/"><u>Redirecting Noise-Free Tweets Back to Audio</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-models-comprehensive-analysis-and-reviews-by-tech-experts/"><u>Top-Rated Apple Watch Models : Comprehensive Analysis & Reviews by Tech Experts</u></a></li>
 </ul></div>
 

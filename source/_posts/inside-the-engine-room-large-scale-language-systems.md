@@ -1,7 +1,7 @@
 ---
 title: "Inside the Engine Room: Large-Scale Language Systems"
-date: 2024-12-23T20:50:55.378Z
-updated: 2024-12-27T22:24:36.395Z
+date: 2025-01-02T22:38:57.254Z
+updated: 2025-01-06T10:03:21.975Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is a Large Language Model?
 
  In its simplest terms, an LLM is a massive database of text data that can be referenced to generate human-like responses to your prompts. The text comes from a range of sources and can amount to billions of words.
@@ -41,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
  Of course, having a huge database of text is one thing, but LLMs need to be trained to make sense of it to produce human-like responses. How it does this is what we cover next.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Do LLMs Work?
 
  How do LLMs use these repositories to create their responses? The first step is to analyze the data using a process called deep learning.
@@ -56,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
  The prompt in the following image mentions seeing a bat at night. From this, ChatGPT understood that we were talking about an animal and not, for instance, a baseball bat. Of course, other chatbots like [Bing Chat or Google Bard](https://www.makeuseof.com/google-bard-vs-bing-chat-best-chatbot/) may answer this completely differently.
 
 ![Screenshot of question about bats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-bats.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  However, it isn't infallible, and as this example shows, sometimes you will need to supply additional information to get the desired response.
 
@@ -75,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
  To summarize, LLMs use a massive text database with a combination of deep learning and NLG techniques to create human-like responses to your prompts. But there are limitations to what this can achieve.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are the Limitations of LLMs?
 
 ![woman frustrated at response from computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/woman-frustrated-at-response-from-computer.jpg)
@@ -88,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
  There is also an argument that ethical concerns can be considered a limitation of LLMs, but this subject falls outside the scope of this article.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 Examples of Popular LLMs
 
  The continuing advance of AI is now largely underpinned by LLMs. So while they aren't exactly a new technology, they have certainly reached a point of critical momentum, and there are now many models.
@@ -95,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
  Here are some of the most widely used LLMs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. GPT
@@ -105,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 ### 2\. LaMDA
 
  This is the initial LLM used by Google Bard, Google's AI chatbot. The version Bard was initially rolled out with was described as a "lite" version of the LLM. The more powerful PaLM iteration of the LLM superseded this.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. BERT
 
@@ -130,7 +130,7 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
  These are just a few of the areas where LLMs are likely to become a larger part of the way we live.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## LLMs Transforming and Educating
@@ -158,16 +158,24 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-exclusive-twitter-gif-compiler-for-avid-scribes/"><u>[New] Exclusive Twitter GIF Compiler for Avid Scribes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-playbook-to-create-compelling-youtube-educational-videos/"><u>[New] The Ultimate Playbook to Create Compelling YouTube Educational Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-experience-the-power-of-visuals-discover-all-50-banners-in-our-digital-collection/"><u>[Updated] In 2024, Experience the Power of Visuals Discover All 50 Banners in Our Digital Collection</u></a></li>
-<li><a href="https://win-info.techidaily.com/windows-11usb52024/"><u>進行 Windows 11的USB重新安装？以下是5種抓住成功的技術（2024更新）</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-apples-new-horizon-unlimited-access-to-ai-education-for-thousands-of-alumni-and-students/"><u>Exploring Apple's New Horizon: Unlimited Access to AI Education for Thousands of Alumni and Students</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-12-mini-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 12 mini Data From iTunes | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixing-stutters-in-age-of-empires-iv-expert-tips-and-strategies/"><u>Troubleshooting and Fixing Stutters in Age of Empires IV: Expert Tips & Strategies</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unexpected-vertical-tilt-in-instagram-vids-for-2024-why/"><u>Unexpected Vertical Tilt in Instagram Vids for 2024 Why?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-5-ai-apps-designed-for-emotional-care/"><u>Unraveling 5 AI Apps Designed for Emotional Care</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-ios-175s-hidden-feature-resurrecting-deleted-photos-expert-advice-for-users-cnet/"><u>Unveiling iOS 17.5'S Hidden Feature: Resurrecting Deleted Photos - Expert Advice for Users | CNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/vital-steps-for-a-more-innovative-and-user-friendly-chatgpt-plugin-store/"><u>Vital Steps for a More Innovative and User-Friendly ChatGPT Plugin Store</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-select-and-download-exclusive-tailored-audio-templates/"><u>[New] Select & Download Exclusive Tailored Audio Templates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-art-of-youtube-video-trailers-with-filmora-software/"><u>[Updated] The Art of YouTube Video Trailers with Filmora Software</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-digital-cashmans-codex-flourishing-on-youtube-free-from-ads-for-2024/"><u>[Updated] The Digital Cashman's Codex Flourishing on YouTube, Free From Ads for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-ig-music-companion/"><u>[Updated] The Ultimate IG Music Companion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725289914873-dvd/"><u>怎麼樣才能成功翻頻DVD和自動生成字幕</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-advice-the-right-way-to-dry-out-a-wet-iphone-not-just-with-rice/"><u>Apple Advice - The Right Way to Dry Out a Wet iPhone, Not Just with Rice!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-exclusions-unveiled-top-titans-absent-from-its-launch-tech-insights-by-zdnet/"><u>Apple Vision Pro Exclusions Unveiled - Top Titans Absent From Its Launch | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-chatgpt-discover-the-1abulary-models-boosting-conversational-ai/"><u>Beyond ChatGPT: Discover the 1Abulary Models Boosting Conversational AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/continue-to-score-huge-savings-ongoing-presidents-day-offers-at-major-retailers-including-best-buy/"><u>Continue to Score Huge Savings: Ongoing Presidents’ Day Offers at Major Retailers Including Best Buy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/customized-exercise-plans-chatgpts-potential-impact/"><u>Customized Exercise Plans: ChatGPT's Potential Impact</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cutting-edge-urban-transportation-meets-style-unveiling-the-benefits-of-swagtrons-swagger-electric-scooter/"><u>Cutting-Edge Urban Transportation Meets Style: Unveiling the Benefits of Swagtron's Swagger Electric Scooter</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/edit-photos-like-a-pro-explore-the-best-free-darkroom-software-lightzone-for-pcmaclinux-users/"><u>Edit Photos Like a Pro: Explore the Best FREE Darkroom Software Lightzone for PC/Mac/Linux Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-novice-to-expert-the-gpt-4-influence-on-diy/"><u>From Novice to Expert: The GPT-4 Influence on DIY</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/homeos-reemerges-within-apples-newest-tvos-development-update-an-in-depth-look/"><u>HomeOS Reemerges Within Apple's Newest tvOS Development Update: An In-Depth Look</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y28-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y28 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/late-2021-m1-max-powerhouse-unveiled-in-depth-analysis-of-the-ultimate-apple-16-inch-macbook-pro/"><u>Late 2021 M1 Max Powerhouse Unveiled: In-Depth Analysis of the Ultimate Apple 16-Inch MacBook Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-making-the-most-of-chatgpt-plugins/"><u>Step by Step: Making the Most of ChatGPT Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-ios-18s-new-messaging-feature-that-could-save-lives-on-iphones-no-ai-involved-zdnet/"><u>Unveiling iOS 18'S New Messaging Feature That Could Save Lives on iPhones (No AI Involved) | ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
 </ul></div>
 

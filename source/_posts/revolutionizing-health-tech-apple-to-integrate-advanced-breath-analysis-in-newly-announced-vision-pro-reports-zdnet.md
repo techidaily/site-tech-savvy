@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Health Tech: Apple to Integrate Advanced Breath Analysis in Newly Announced Vision Pro, Reports ZDNET"
-date: 2024-12-22T20:52:16.679Z
-updated: 2024-12-27T17:38:59.853Z
+date: 2024-12-30T16:13:46.280Z
+updated: 2025-01-06T09:35:01.254Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ As someone who is not nearly an influencer but loves to use their imagination, I
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Video scroll bar and playback options
@@ -63,7 +63,7 @@ When you do find the perfect take, the editing menu now allows an option to slow
 When viewing videos, the scroll bar automatically pops up. To access the playback options, select edit and then the clock icon at the top right corner. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Customizable layout with 'Recent Days'
@@ -83,7 +83,7 @@ For example, during the Apple launch, my phone was essentially exploding with co
 With customization, you can keep this collection at the top of your feed, or any other categories that would help you stay the most organized. Now I can pull content from a certain day without having to scroll all the way back, and hopefully it does the same for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Filter button
@@ -101,7 +101,7 @@ To narrow content more, you can also filter to favorites, previously edited cont
 And just with one slide up, it resets the filters. If you add the ability to organize your photos app to your liking, your photos app becomes so much more efficient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Honorable mentions
@@ -112,7 +112,7 @@ And just with one slide up, it resets the filters. If you add the ability to org
 * A 'recovered' album in Utilities recovers corrupted images that were previously not visible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhones are compatible with iOS 18?
@@ -175,20 +175,22 @@ And just with one slide up, it resets the filters. If you add the ability to org
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-exploring-new-frontiers-in-contactless-interface-designs-for-2024/"><u>[New] Exploring New Frontiers in Contactless Interface Designs for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723262281674-amd-disputes-delay-rumors-anticipate-ryzen-grooving-into-the-market-this-month/"><u>AMD Disputes Delay Rumors – Anticipate Ryzen Grooving Into the Market This Month</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-unveils-top-ad-campaign-during-super-bowl-hype-surpassing-game-day-spots-a-closer-look-by-tech-news/"><u>Apple Unveils Top Ad Campaign During Super Bowl Hype, Surpassing Game-Day Spots! - A Closer Look by Tech News</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-nubia-z50s-pro-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Nubia Z50S Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/erasing-the-footprints-of-previous-gpt-interactions/"><u>Erasing the Footprints of Previous GPT Interactions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-strategies-for-finding-no-cost-art/"><u>Expert Strategies for Finding No-Cost Art</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Infinix Zero 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/location-sharing-on-a-mac-a-step-by-step-tutorial-plus-pros-and-cons/"><u>Location Sharing on a Mac: A Step-by-Step Tutorial + Pros and Cons</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-more-bills-how-to-terminate-apple-music-service-independently-of-itunes-expert-advice-by-zdnet/"><u>No More Bills: How To Terminate Apple Music Service Independently of iTunes | Expert Advice by ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/predictions-on-artificinas-inteligentes-date-of-gpt-5/"><u>Predictions on Artificinas Inteligentes: Date of GPT-5?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-communication-from-wrist-wise-connecting-with-loved-ones-via-apple-watch/"><u>Seamless Communication From Wrist-Wise: Connecting With Loved Ones via Apple Watch</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/set-up-additional-mac-os-network-spots-for-improved-internet-routes-step-by-step/"><u>Set Up Additional Mac OS Network Spots for Improved Internet Routes - Step by Step</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire-for-2024/"><u>Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-continuous-crashes-in-cities-skylines-2-on-desktop-pcs/"><u>Ultimate Fixes for Continuous Crashes in Cities: Skylines 2 on Desktop PCs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/your-first-sound-recording-guide-in-audacity-on-a-mac/"><u>Your First Sound Recording Guide in Audacity on a Mac</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-best-performance-at-a-glance-top-4k-laptops/"><u>[New] Best Performance at a Glance - Top 4K Laptops</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/iverse-video-realms-sites-outshining-youtube-for-2024/"><u>[New] Diverse Video Realms Sites Outshining Youtube for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-photographic-purity-and-proficiency-in-chromatic-control/"><u>[Updated] 2024 Approved Photographic Purity and Proficiency in Chromatic Control</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-green-screen-tech-for-improved-ctas-for-2024/"><u>[Updated] Green Screen Tech for Improved CTAs for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-how-to-buy-1-million-youtube-views-safely-from-trusted-providers/"><u>2024 Approved How to Buy 1 Million YouTube Views Safely From Trusted Providers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-guide-to-modern-love-and-connection/"><u>ChatGPT's Guide to Modern Love & Connection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevating-your-book-ideas-with-these-9-techniques-using-chatgpt/"><u>Elevating Your Book Ideas with These 9 Techniques Using ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-your-instruction-tinkering-with-these-tech-savvy-resources/"><u>Enhance Your Instruction Tinkering with These Tech-Savvy Resources</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-most-trusted-vpn-apps-for-your-mac-in-depth-analysis-by-tech-pros-zdnet/"><u>Explore the Most Trusted VPN Apps for Your Mac: In-Depth Analysis by Tech Pros - ZDNet</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/high-resolution-eiffel-tower-walls-premium-hd-backgrounds-and-design-imagery-powered-by-yl-computing/"><u>High-Resolution Eiffel Tower Walls: Premium HD Backgrounds & Design Imagery - Powered by YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-assures-no-intellectual-drop-in-ai/"><u>OpenAI Assures No Intellectual Drop in AI</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-time-savings-ultimate-discounts-before-prime-day-2024-explore-top-offers/"><u>Prime Time Savings: Ultimate Discounts Before Prime Day 2024 - Explore Top Offers!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-potential-of-leveraging-chatgpt-for-improving-text-accuracy-an-examination/"><u>The Potential of Leveraging ChatGPT for Improving Text Accuracy: An Examination</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-taboo-topics-for-gpt-powered-conversations/"><u>The Taboo Topics for GPT-Powered Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-desired-visionos-enhancements-hoping-from-apples-wwdc-reveal-an-expert-forecast/"><u>Top 10 Desired VisionOS Enhancements Hoping From Apple's WWDC Reveal - An Expert Forecast</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-software-selections-featured/"><u>Top-Ranking Mac Software Selections - Featured</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-oversight-in-apples-newest-ipad-release-remediation-strategies-revealed/"><u>Unveiling the Oversight in Apple's Newest iPad Release: Remediation Strategies Revealed</u></a></li>
 </ul></div>
 

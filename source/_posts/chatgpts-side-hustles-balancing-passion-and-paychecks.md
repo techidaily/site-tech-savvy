@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's Side Hustles: Balancing Passion and Paychecks"
-date: 2024-12-24T16:06:46.409Z
-updated: 2024-12-27T18:44:07.365Z
+date: 2025-01-04T04:20:48.064Z
+updated: 2025-01-06T03:40:08.790Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 
 ![The YouTube Channel of MakeUseOf](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/muo-youtube-channel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  YouTube content creators find scriptwriting taxing. It’s a cognitively demanding task with several steps: topic generation, market research, and writing. Finishing just one draft could take days.
 
  Considering the time and effort required, many creators would rather let ChatGPT handle their scripts. It can make 1,000-word outputs within seconds. All you have to do is tell ChatGPT your topic, tone, and niche.
@@ -48,10 +52,14 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 
 ![ChatGPT Answering When It Was Launched](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-general-question.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Likewise, ChatGPT has limited knowledge of events after 2021\. The above photo shows that it doesn’t even know its release date. Academic writing involves a lot of fact-checking, so research topics yourself and cite sources. Otherwise, clients will stop hiring you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Copywriting and Blogging
@@ -66,27 +74,15 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 
 **Tip:** You don’t have to ditch ChatGPT altogether. [Writers can use AI responsibly](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) for topic research, idea generation, and simple coding.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Caption Writing
 
 ![Editing the Caption on an Instagram Post](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/instagram-post-captions.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Users often write captions as an afterthought. They obsess over uploading the perfect post so much that they overlook other crucial elements. Some just bombard their captions with hashtags.
 
  Although using ChatGPT to write captions seems practical, it really has little upside. Captions are limited. You can’t waste your character count on generic, spammy AI-generated fluff. Remember: ChatGPT only pulls templates from its database.
 
  To grab the reader’s attention, write captions yourself. See what format suits your brand. Some users like writing long-form captions that tell stories, while others prefer a minimalistic approach. We suggest trying out different styles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Selling Diet and Fitness Programs
 
@@ -97,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
  You can share your personal preferences. But don’t sell e-books of workout regimens, diets, and supplement recommendations unless you have the necessary certifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Coding Websites
@@ -108,15 +104,15 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 
  If you need to launch a website but don’t have any experience, use [no-code site builders](https://www.makeuseof.com/best-code-free-website-creators/). They use drag-and-drop editors. Instead of manually typing source code, you can drag around page elements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Email Marketing
 
  Fake gurus claim that ChatGPT handles all their copywriting needs. Precise, detailed prompts supposedly make custom sales emails that match your tone and branding. The below image shows a sample AI-generated sales email.
 
 ![Sales Email for Cars on Gmail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gmail-email-sales.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  While ChatGPT can quickly write multiple sales emails, don’t expect positive results. Generic, sales-y templates yield low conversion rates. [Radicati](https://www.radicati.com/wp/wp-content/uploads/2015/02/Email-Statistics-Report-2015-2019-Executive-Summary.pdf) reports that consumers send and receive 120+ emails daily—they’ll automatically ignore low-effort promotions. Some might even flag your account as spam.
 
@@ -133,12 +129,16 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 ![ChatGPT Explains the Meaning of AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-ai-explanation.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Meanwhile, the below image demonstrates how additional instructions change ChatGPT’s output.
 
 ![ChatGPT Explains AI Like Talking to a Five Year Old](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-simple-ai-explanation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  These examples simply cover the basics. To [get the best results from ChatGPT](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/), you must craft detailed instructions that maximize datasets and override certain restrictions. The below photo illustrates an effective jailbreak prompt.
 
@@ -175,22 +175,19 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-dual-display-delight-mastery-of-floating-window-on-netflix-for-2024/"><u>[New] Dual Display Delight Mastery of Floating Window on Netflix for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-essential-recording-tools-top-5-webcam-capturers/"><u>[New] Essential Recording Tools - Top 5 Webcam Capturers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-obs-the-ultimate-tutorial-for-live-broadcasts-for-2024/"><u>[New] Mastering OBS The Ultimate Tutorial for Live Broadcasts for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-10-best-4k-monitors/"><u>[Updated] Top 10 Best 4K Monitors</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-win-11s-best-practices-the-ultimate-guide-to-saving-mov-files/"><u>[Updated] Win 11'S Best Practices The Ultimate Guide to Saving MOV Files</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dethroning-chatgpt-next-big-wave-of-bots/"><u>Dethroning ChatGPT: Next Big Wave of Bots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-fitness-routines-7-smart-gpt-tools/"><u>Enhancing Fitness Routines: 7 Smart GPT Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/essential-techniques-for-enhancing-obs-studio-edits/"><u>Essential Techniques for Enhancing OBS Studio Edits</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/examining-ai-generated-content-risks/"><u>Examining AI-Generated Content Risks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722874455065-free-texting-solutions-for-ipod-touch-owners-top-picks/"><u>Free Texting Solutions for iPod Touch Owners - Top Picks!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-head-to-ground-how-for-chatgpt-post-altman/"><u>From Head to Ground: How for ChatGPT Post-Altman?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-iphone-13-pro-max-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the iPhone 13 Pro Max Without Previous Owner?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-users-rejoice-get-your-hands-on-the-newly-launched-ios-18-with-device-support-details-gadgetpulse/"><u>IPhone Users Rejoice! Get Your Hands on the Newly Launched iOS 18 with Device Support Details | GadgetPulse</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-the-potential-of-learning-best-student-centric-uses-for-chatgpt/"><u>Maximizing the Potential of Learning: Best Student-Centric Uses for ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-video-on-apple-airpower-surfaces-is-there-a-comeback-for-the-infamous-qi-mat/"><u>New Video on Apple AirPower Surfaces - Is There a Comeback for the Infamous Qi Mat?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-10-most-affordable-cloud-vendors-listed-for-2024/"><u>Top 10 Most Affordable Cloud Vendors Listed for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-iphone-15-in-depth-analysis-and-why-its-a-must-have-even-for-seasoned-professionals/"><u>Unveiling the Power of iPhone 15: In-Depth Analysis & Why It's a Must-Have Even for Seasoned Professionals</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-splitscreen-study-for-2024/"><u>[New] SplitScreen Study for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-essential-livestream-providers-the-ultimate-list-for-2024/"><u>[Updated] Essential Livestream Providers The Ultimate List for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-from-novice-to-expert-mastering-movie-maker-in-windows-8-systems/"><u>[Updated] From Novice to Expert Mastering Movie Maker in Windows 8 Systems</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-max-360-and-hero-11-gopro-comparison-which-reigns-supreme/"><u>2024 Approved Max 360 and Hero 11 GoPro Comparison - Which Reigns Supreme?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-loyalists-rejoice-newly-upgraded-audio-experience-available-with-no-cost-on-latest-lg-tv-models/"><u>Apple Loyalists Rejoice! Newly Upgraded Audio Experience Available with No Cost on Latest LG TV Models</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/asus-vivobook-11-user-guide-compact-design-and-budget-friendly-performance/"><u>ASUS VivoBook 11 User Guide: Compact Design and Budget-Friendly Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connect-your-fire-stick-to-a-smartphones-mobile-hotspot-for-uninterrupted-viewing/"><u>Connect Your Fire Stick to a Smartphone's Mobile Hotspot for Uninterrupted Viewing</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-task-capping-on-windows-11-taskbar/"><u>Enabling Task Capping on Windows 11 Taskbar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-boundary-of-intellectual-property-in-ai/"><u>The Boundary of Intellectual Property in AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-chronicles-of-ai-when-it-all-began/"><u>The Chronicles of AI: When It All Began</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-efficient-office-worker-embracing-gpt-automation-in-word/"><u>The Efficient Office Worker: Embracing GPT Automation in Word</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/toms-tech-hub-the-ultimate-guide-to-hardware-mastery/"><u>Tom's Tech Hub: The Ultimate Guide to Hardware Mastery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trio-strategies-enhancing-dialogue-with-chatgpt-and-wolframalpha/"><u>Trio Strategies: Enhancing Dialogue with ChatGPT & WolframAlpha</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-apple-advocates-against-using-cases-on-iphones-are-consumers-taking-notice/"><u>Why Apple Advocates Against Using Cases on iPhones - Are Consumers Taking Notice?</u></a></li>
 </ul></div>
 

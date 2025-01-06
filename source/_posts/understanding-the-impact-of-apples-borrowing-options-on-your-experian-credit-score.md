@@ -1,7 +1,7 @@
 ---
 title: Understanding the Impact of Apple's Borrowing Options on Your Experian Credit Score
-date: 2024-12-21T22:10:39.967Z
-updated: 2024-12-27T21:08:11.845Z
+date: 2025-01-03T21:16:56.425Z
+updated: 2025-01-05T22:47:28.500Z
 tags:
   - apple
 categories:
@@ -25,6 +25,10 @@ In this article, I answer a relatively common reader question: _What does it all
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Understanding the CPU
 
@@ -57,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Multiple cores can increase performance considerably for problems that can be split into parallel processes. Many modern processes work well in parallel, especially graphics, data crunching, AI, ML, and AR-related tasks. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  CPU vs. SoC
@@ -83,7 +87,7 @@ SoCs have enormous performance benefits because all the electrical impulses have
 It wasn't until SoCs could be successfully fabricated with tens of billions of transistors that they were suitable for high-performance personal computers. They can be now, so now they are. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Apple Silicon
@@ -107,7 +111,7 @@ They're a win for Apple because the company no longer has to rely on Intel for i
 However, the Silicon transition was a win for Apple and its customers solely because of something called Rosetta 2\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Rosetta 2
@@ -153,7 +157,7 @@ It's a win for both developers and users when code is compiled for Apple Silicon
 I found, for example, that Rosetta-translated Chrome was OK but a bit sluggish. When I replaced that with the Apple Silicon version of Chrome, it was far faster. For help finding out which of your applications are Native, Intel, or "Universal" (meaning the application contains native code for both Intel and Apple Silicon), read "[Sluggish apps on your M1 Mac? Check this first for a possible fix](https://www.zdnet.com/article/the-first-thing-to-check-if-an-app-seems-sluggish-on-your-m1-mac/)." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  M1, M2, M3, Pro, Max, and Ultra
@@ -177,10 +181,6 @@ David Gewirtz/ZDNET
 The M-series processors are SoCs, so memory and storage come right on the chip. Depending on the chip, you can go from 8GB RAM up to 192GB RAM and 256GB of flash storage up to a whopping 8TB on the 16-inch MacBook Pro with M3 Max. That additional storage will cost you, to the tune of a few thousand bucks more. But if you need it, you need it.
 
 The sizes of the chips differ considerably. The base chip is about a quarter the size of the Max model. This makes sense because the Max crams a lot more onto its die. It got smaller between the M2 and M3 generations when the die-production process went from 5-nanometer to 3-nanometer components. But for now, it's just interesting to note that the M3 Max has 92 billion transistors, while the double-chip M2 Ultra has 134 billion transistors -- all in the space of about the size of a fingernail. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Final thoughts
 
@@ -222,22 +222,17 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-culinary-craftsmanship-mastering-the-art-of-food-filmmaking-with-these-7-strategies/"><u>2024 Approved Culinary Craftsmanship Mastering the Art of Food Filmmaking with These 7 Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/basic-vs-enhanced-chatgpt-for-your-online-discussions/"><u>Basic Vs. Enhanced ChatGPT for Your Online Discussions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-6-ways-to-upgrade-your-living-with-ai/"><u>Discover the 6 Ways to Upgrade Your Living with AI</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-12windowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your Apple iPhone 12/Windows/Mac</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-impeccablecapture-studio-suite-windows-10-edition/"><u>In 2024, ImpeccableCapture Studio Suite (Windows 10 Edition)</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-wholesome-meals-via-ai-suggestions/"><u>Integrating Wholesome Meals via AI Suggestions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interactive-evolution-6-ways-ai-transforms-video-game-scriptwriting/"><u>Interactive Evolution: 6 Ways AI Transforms Video Game Scriptwriting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/outwitting-chatgpt-written-maximum/"><u>Outwitting ChatGPT' Written Maximum</u></a></li>
-<li><a href="https://win-docs.techidaily.com/quick-fix-activate-the-hidden-feature-in-windows-11-to-speed-up-shutting-down-slow-apps-techsavvy/"><u>Quick Fix: Activate the Hidden Feature in Windows 11 to Speed Up Shutting Down Slow Apps | TechSavvy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reassessing-snapchats-my-ai-with-these-six-perspectives/"><u>Reassessing Snapchat's My AI with These Six Perspectives</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-evolution-of-dall-e-3-exploring-the-latest-edit-tools-with-room-for-perfection/"><u>The Evolution of DALL-E 3: Exploring the Latest Edit Tools with Room for Perfection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-conversations-chatgpt-plus-siri-on-iphones/"><u>Transforming Conversations: ChatGPT + Siri on iPhones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unforeseen-risks-6-reasons-for-careful-engagement-with-ai/"><u>Unforeseen Risks: 6 Reasons for Careful Engagement With AI</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-animation-powerhouses-top-8-software-for-mac-and-windows-creators/"><u>Updated In 2024, Animation Powerhouses Top 8 Software for Mac and Windows Creators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-ai-regulation-who-should-regulate-ai/"><u>What Is AI Regulation? Who Should Regulate AI?</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-realme-narzo-n53-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Realme Narzo N53 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-demystifying-the-purpose-of-slug-lines-in-screenplay-for-2024/"><u>[New] Demystifying the Purpose of Slug Lines in Screenplay for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-hacks-to-record-video-of-your-playtime/"><u>[New] Hacks to Record Video of Your Playtime</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-mastering-subtitle-craft-with-the-best-online-resources-today/"><u>[Updated] 2024 Approved Mastering Subtitle Craft with The Best Online Resources Today</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-seamless-time-logging-on-youtube-desktopmobile/"><u>[Updated] Seamless Time Logging on YouTube (Desktop/Mobile)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-aural-alignments-pairing-sounds-and-visuals/"><u>2024 Approved Aural Alignments Pairing Sounds & Visuals</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-from-vast-views-to-virtual-visibility-sharing-immersive-content-online/"><u>2024 Approved From Vast Views to Virtual Visibility Sharing Immersive Content Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-the-apple-vision-pro-empowers-enterprises-with-advanced-device-management-insights/"><u>How the Apple Vision Pro Empowers Enterprises with Advanced Device Management - Insights</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-s23-fe-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy S23 FE to Mac? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-14-plus-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 14 Plus Location by Number | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-nx-release-exclusive-breakdown-of-most-popular-models-and-their-availability-timelines-coverage/"><u>IPhone nX Release: Exclusive Breakdown of Most Popular Models and Their Availability Timelines Coverage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-ais-role-in-law-and-order/"><u>Navigating AI's Role in Law & Order</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-does-the-co-pilot-extension-do-for-chatgpt/"><u>What Does the Co-Pilot Extension Do for ChatGPT?</u></a></li>
 </ul></div>
 

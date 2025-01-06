@@ -1,7 +1,7 @@
 ---
 title: "Inside the Phone Evaluation Process: Techniques Used Experts"
-date: 2024-12-24T21:51:57.166Z
-updated: 2024-12-27T16:33:29.883Z
+date: 2025-01-03T19:55:46.669Z
+updated: 2025-01-06T05:16:29.565Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ Within the embargoed time frame, ZDNET reviewers can test the latest features (i
 While ZDNET primarily covers smartphone releases in the US market, we also evaluate international handsets to understand the competitive landscape better and have a frame of reference when making recommendations to international readers. We also attend trade shows, including [CES](https://www.zdnet.com/collection/ces-2024-whats-next-in-tech/) and [Mobile World Congress](https://www.zdnet.com/collection/mwc-2024/), to connect with industry experts and analysts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What makes a phone ZDNET recommended?
@@ -49,7 +49,7 @@ For hands-on testing, five aspects determine whether or not a phone gets recomme
 To be included in our [buying guides](https://www.zdnet.com/best-products/), the best smartphones must achieve above-average marks on all five criteria (with a reviewed score of over 3.5 out of 5), especially when compared to other devices priced similarly. Reviewers also consider the key differences between the latest phone models and their predecessors during the grading process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Design and ergonomics
@@ -63,7 +63,7 @@ But also, how does the phone feel when it's tucked in your tight jeans or lightw
 To truly test the real-world experience of using the latest iPhones and Androids, ZDNET reviewers often don't accessorize the handsets with silicone or rubberized cases; instead, we browse, take pictures, and roam around with them as is. Phones get brownie points if they're rated IP68, the industry standard for water and dust resistance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance
@@ -76,6 +76,10 @@ Performance testing also includes putting phones through varying levels of graph
 
 Of course, reviewers also consider the price of the tested devices, adjusting their standards and expectations accordingly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cameras
 
 Kerry Wan/ZDNET
@@ -87,7 +91,7 @@ Arguably the most valuable aspect of today's smartphones, built-in cameras have 
 Having a larger sample size to reference and compare with images from other phone models gives us the most accurate assessment of what phone camera is best at preserving details, colors, contrast, and more. Whether we're evaluating the latest [Samsung Galaxy phones](https://www.zdnet.com/article/best-samsung-phone/) to each other or with the [latest iPhone](https://www.zdnet.com/article/best-iphone/), ZDNET reviewers can typically be found with more than one device in their pockets, both for comparison reasons and because we're simply tech geeks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life and charging
@@ -97,10 +101,6 @@ Kerry Wan/ZDNET
 It's also important for us to evaluate how long phones last under light, moderate, and heavy usage, how long they take to recharge, and how they do it (wired, wireless, or both). We typically judge the endurance of phones based on screen-on time (SOT); that's the total amount of time the screen is turned on, whether you're scrolling through TikTok or typing an email. The higher the SOT, the longer the phone lasts.
 
 On average, phones can score from three hours of SOT to upwards of nine hours of SOT, with the value resetting after 24 hours or when the phone is fully recharged. However, remember that a high SOT value is not always correlated to top-tier battery life; being able to play a Netflix video at full brightness for four hours straight is more impressive, endurance-wise, than leaving a text document on the screen for nine hours. Therefore, when speaking to the battery life of phones, we also describe it in a more practical sense -- mentioning if a device can last one full day of usage, more or less.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Special features
 
@@ -148,22 +148,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ultimate-compilation-of-ios-compatible-ps2-games/"><u>[New] 2024 Approved Ultimate Compilation of iOS-Compatible PS2 Games</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-review-the-full-story-of-theta-s-technology/"><u>[Updated] In-Depth Review The Full Story of Theta S Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2023-unveiled-by-zdnet/"><u>2023 Unveiled by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparing-the-latest-macbook-air-models-intel-core-i5-vs-m2-processor-which-one-wins-in-performance-and-value/"><u>Comparing the Latest MacBook Air Models: Intel Core I5 vs M2 Processor – Which One Wins in Performance & Value?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-an-intuitive-household-with-chatgpts-technology/"><u>Crafting an Intuitive Household with ChatGPT’s Technology</u></a></li>
-<li><a href="https://win-web3.techidaily.com/elevate-your-computers-speed-with-key-hardware-upgrades-according-to-experts-at-yl-software/"><u>Elevate Your Computer's Speed with Key Hardware Upgrades, According to Experts at YL Software</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/excellence-in-entertainment-the-finest-offline-ios-games-for-2024/"><u>Excellence in Entertainment - The Finest Offline iOS Games for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-resolving-persistent-valorant-pc-game-crashes/"><u>Expert Tips for Resolving Persistent Valorant PC Game Crashes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-future-of-apples-artificial-intelligence-infrastructure-with-a-new-fortified-os-key-updates-decoded/"><u>Exploring the Future of Apple’s Artificial Intelligence Infrastructure with a New, Fortified OS – Key Updates Decoded</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expose-chatgpt-windows-app-hoax-a-comprehensible-guide/"><u>Expose ChatGPT Windows App Hoax - A Comprehensible Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-magic5-ultimate-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor Magic5 Ultimate via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-quest-for-visual-excellence-can-pickup-be-the-top-photo-editor-on-android/"><u>In 2024, The Quest for Visual Excellence – Can PickUp Be the Top Photo Editor on Android?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-wow-slowdown-strategies-to-overcome-connection-issues/"><u>No More Wow Slowdown: Strategies to Overcome Connection Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-change-googles-introduction-of-the-innovative-bard/"><u>Pioneering Change: Google's Introduction of the Innovative 'Bard'</u></a></li>
-<li><a href="https://driver-download.techidaily.com/solution-implemented-for-secure-card-interface-processor-decryption-issues/"><u>Solution Implemented for Secure Card Interface Processor Decryption Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tackling-the-top-6-car-ai-snags-head-on-your-step-by-step-guide/"><u>Tackling the Top 6 Car AI Snags Head On: Your Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-premium-magsafe-wallets-for-2n4-expert-opinions-and-ratings-cnet/"><u>The Ultimate Guide to Premium MagSafe Wallets for 2N4: Expert Opinions and Ratings | CNET</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-leverage-the-power-of-live-streaming-strategies-for-facebook-dominance/"><u>[New] 2024 Approved Leverage the Power of Live Streaming Strategies for Facebook Dominance</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-swift-screen-tape-with-sound-included/"><u>[New] Swift Screen Tape with Sound Included</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-full-feature-analysis-videon-plus-suite-the-edit-experience/"><u>[Updated] 2024 Approved Full Feature Analysis Videon Plus Suite – The Edit Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciding-between-apples-top-ultraportables-how-does-the-new-m3-macbook-air-stack-up-against-its-predecessor-the-m2/"><u>Deciding Between Apple's Top Ultraportables: How Does the New M3 MacBook Air Stack Up Against Its Predecessor, the M2?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-solutions-restoring-color-back-to-your-androids-lockscreen/"><u>DIY Solutions: Restoring Color Back to Your Android's Lockscreen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-maximize-your-anthropics-ai-experience/"><u>How to Maximize Your Anthropic's AI Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-14-pro-max-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 14 Pro Max Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-honor-90-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP from Honor 90 Pro?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-remedies-to-resolve-six-common-gpt-vehicle-problems/"><u>Quick Remedies to Resolve Six Common GPT Vehicle Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/six-keys-to-outclassing-text-generating-machines/"><u>Six Keys to Outclassing Text-Generating Machines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-new-ios-18-innovations-unveiled-at-wwdc-2024-a-glimpse-into-apples-future-with-ai/"><u>Top 5 New iOS 18 Innovations Unveiled at WWDC 2024: A Glimpse Into Apple's Future with AI</u></a></li>
+<li><a href="https://win11.techidaily.com/trick-easy-emoji-15-integration-for-windows-11-users/"><u>Trick: Easy Emoji 15 Integration for Windows 11 Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unbiased-review-is-videopad-video-editor-the-right-fit-for-you/"><u>Updated 2024 Approved Unbiased Review Is Videopad Video Editor the Right Fit for You ?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visual-output-denied-no-card-found/"><u>Visual Output Denied: No Card Found</u></a></li>
 </ul></div>
 

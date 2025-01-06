@@ -1,7 +1,7 @@
 ---
 title: Mobile Phone Is 50, Ransomware Decryption Explained, and ChatGPT Writes Our Podcast!
-date: 2024-12-20T20:25:37.609Z
-updated: 2024-12-27T19:50:35.916Z
+date: 2024-12-30T22:52:09.852Z
+updated: 2025-01-05T21:41:17.178Z
 tags:
   - chatgpt
   - open-ai
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/00b577597c6ed0b7b4c19ecd66f01c2d9945d3270
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/00b577597c6ed0b7b4c19ecd66f01c2d9945d3270
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -97,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/00b577597c6ed0b7b4c19ecd66f01c2d9945d3270
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -130,7 +130,7 @@ thumbnail: https://thmb.techidaily.com/00b577597c6ed0b7b4c19ecd66f01c2d9945d3270
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -171,19 +171,16 @@ thumbnail: https://thmb.techidaily.com/00b577597c6ed0b7b4c19ecd66f01c2d9945d3270
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-capturing-and-crafting-your-essential-guide-to-gopro-4k-edits/"><u>[Updated] Capturing and Crafting Your Essential Guide to GoPro 4K Edits</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-transforming-images-on-snapchat-an-editors-playbook/"><u>[Updated] In 2024, Transforming Images on Snapchat An Editor's Playbook</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-innovative-responses-the-ultimate-guide-to-youtube-reacts-for-2024/"><u>[Updated] Innovative Responses The Ultimate Guide to YouTube Reacts for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastering-the-shadows-crafting-discreet-snaps/"><u>2024 Approved Mastering the Shadows Crafting Discreet Snaps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-vanguard-audio-visual-makers-virtual-showcase/"><u>2024 Approved The Vanguard Audio-Visual Makers' Virtual Showcase</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-epson-workforce-ds-30-printer-driver-for-windows-11-8-and-7-free/"><u>Download Epson WorkForce DS-30 Printer Driver for Windows 11, 8 & 7 - Free</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficiently-transforming-dall-e-images-from-webp-to-pngjpg/"><u>Efficiently Transforming DALL-E Images From WebP to PNG/JPG</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-apples-latest-release-key-highlights-and-curiosities-from-the-new-visionos-v2-revealed-at-wwdc-insights-and-analysis-techworld/"><u>Exploring Apple’s Latest Release: Key Highlights and Curiosities From the New VisionOS v2 Revealed at WWDC - Insights & Analysis | TechWorld</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/generative-ais-escalating-cybersecurity-perils/"><u>Generative AI's Escalating Cybersecurity Perils</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-planning-superior-dietary-choices/"><u>GPT: Planning Superior Dietary Choices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-on-android-and-ios/"><u>How to Use ChatGPT on Android and iOS</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-digital-content-picking-between-podcasts-and-youtube-for-2024/"><u>Navigating Digital Content Picking Between Podcasts & YouTube for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-trick-to-taming-your-emails-with-advanced-gmail-rules/"><u>The Ultimate Trick to Taming Your Emails with Advanced Gmail Rules</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-sky-high-streamer-success-channel-growth-through-monetizing-every-device/"><u>[Updated] Sky-High Streamer Success Channel Growth Through Monetizing Every Device</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-superior-mp4-channel-updater-for-2024/"><u>[Updated] Superior MP4 Channel Updater for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-as-a-companion-in-scholarly-pursuits/"><u>AI as a Companion in Scholarly Pursuits</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-wont-respond-heres-how-you-can-fix-it/"><u>Corsair Keyboard Won't Respond? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-blueprints-to-bot-tailoring-ai-with-create-a-gpt/"><u>From Blueprints to Bot: Tailoring AI with Create a GPT</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-nokia-c12-plus-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Nokia C12 Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/liberate-your-iphone-storage-the-ultimate-guide-to-clearing-junk-files-and-reclaiming-space/"><u>Liberate Your iPhone Storage: The Ultimate Guide to Clearing Junk Files & Reclaiming Space</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/er-video-breakdown-fifa-analysis-graphs/"><u>Premier Video Breakdown FIFA Analysis Graphs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/skip-googles-cleverly-coded-malwarebard-app/"><u>Skip Google’s Cleverly Coded Malware—Bard App</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-tecno-pova-5-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Tecno Pova 5 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wholesome-eating-made-simple-by-chatgpt/"><u>Wholesome Eating Made Simple by ChatGPT</u></a></li>
 </ul></div>
 

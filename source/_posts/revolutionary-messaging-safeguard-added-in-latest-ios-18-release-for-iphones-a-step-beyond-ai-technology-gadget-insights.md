@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Messaging Safeguard Added in Latest iOS 18 Release for iPhones: A Step Beyond AI Technology | Gadget Insights"
-date: 2024-12-22T20:02:56.064Z
-updated: 2024-12-27T19:15:15.729Z
+date: 2025-01-04T04:35:26.786Z
+updated: 2025-01-06T02:50:39.506Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,20 +146,24 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-making-your-instagram-story-pop-with-youtube-vids/"><u>[New] In 2024, Making Your Instagram Story Pop with YouTube Vids</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/best-tool-to-translate-youtube-video-to-arabic/"><u>Best Tool to Translate YouTube Video to Arabic</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/bose-quietcomfort-35-ii-review-the-best-on-the-market/"><u>Bose QuietComfort 35 II Review: The Best on the Market</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-zte-nubia-flip-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-eu-ai-act-and-chatgpts-future/"><u>Decoding the EU AI Act & ChatGPT's Future</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embracing-effort-over-easy-chatgpt-assistance/"><u>Embracing Effort Over Easy ChatGPT Assistance</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ensure-optimal-performance-update-hp-printer-drivers-for-windows-11-users/"><u>Ensure Optimal Performance: Update HP Printer Drivers for Windows 11 Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-8-chatgpt-inquiries-for-elevating-task-completion/"><u>Essential 8 ChatGPT Inquiries for Elevating Task Completion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-mechanics-of-7-gpt-4-apps/"><u>Exploring the Mechanics of 7 GPT-4 Apps</u></a></li>
-<li><a href="https://article-tips.techidaily.com/get-started-with-streamlabs-on-mac-using-obs-instantly-for-2024/"><u>Get Started with Streamlabs on Mac Using OBS Instantly for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guide-effortlessly-setting-up-libreoffice-as-a-gratis-microsoft-suite-substitute-on-mac-expert-tips/"><u>Guide: Effortlessly Setting Up LibreOffice as a Gratis Microsoft Suite Substitute on Mac - Expert Tips</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-poco-c65-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Poco C65</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-apple-pay-a-complete-guide-to-using-it-offline-and-online-insights/"><u>Mastering Apple Pay: A Complete Guide to Using It Offline & Online - Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-microsoft-wireless-display-adapter-issues-with-windows-10/"><u>Troubleshooting Guide: How to Fix Microsoft Wireless Display Adapter Issues with Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-list-of-2024s-superior-ipad-air-sleeves-professional-ratings-and-reviews-zdnet/"><u>Ultimate List of 2024'S Superior iPad Air Sleeves: Professional Ratings & Reviews | ZDNET</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-premier-stop-motion-works-the-ultimate-15-selection/"><u>[New] 2024 Approved Premier Stop-Motion Works The Ultimate 15 Selection</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-echoes-of-time-unveiling-the-secrets-to-snapchat-reverse/"><u>[New] Echoes of Time Unveiling the Secrets to Snapchat Reverse</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/lite-collection-of-online-video-grabbers-and-savers/"><u>[New] Elite Collection of Online Video Grabbers & Savers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-itunes-recording-hacks-for-enhanced-videos/"><u>[New] In 2024, ITunes Recording Hacks for Enhanced Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-crafting-perfect-youtube-introend-videos-at-no-cost/"><u>[Updated] 2024 Approved Crafting Perfect YouTube Intro/End Videos at No Cost</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-first-footsteps-into-frame-finesse-a-novices-guide-to-hd-content/"><u>[Updated] First Footsteps Into Frame Finesse A Novice's Guide to HD Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-youtubes-power-with-these-top-7-affordable-easy-to-use-tag-extractor-tools/"><u>[Updated] In 2024, Harness YouTube's Power with These Top 7 Affordable, Easy-to-Use Tag Extractor Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-rated-best-webcam-mounting-solutions/"><u>[Updated] Top-Rated Best Webcam Mounting Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-targets-top-browser-with-bone-chilling-campaign-revealed-by-zdnet/"><u>Apple Targets Top Browser with Bone-Chilling Campaign Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-iphone-16-and-iphone-15-essential-factors-for-upgrading-to-apples-latest-standard-device-techspot/"><u>Choosing Between iPhone 16 and iPhone 15: Essential Factors for Upgrading to Apple’s Latest Standard Device | TechSpot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claudes-edge-breaking-down-how-it-surpasses-gpts-offering-by-four-aspects/"><u>Claude’s Edge - Breaking Down How It Surpasses GPT's Offering by Four Aspects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/create-like-never-before-utilizing-free-dall-e-3-via-microsoft-bing/"><u>Create Like Never Before: Utilizing Free DALL-E 3 via Microsoft Bing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-sneak-peek-scoring-an-unbeatable-bargain-on-the-anticipated-ipad-pro-before-prime-day-insights/"><u>Exclusive Sneak Peek: Scoring an Unbeatable Bargain on the Anticipated iPad Pro Before Prime Day - Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guideline-on-budgeting-for-music-video-filming-for-2024/"><u>Guideline on Budgeting for Music Video Filming for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nokia-g310-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Nokia G310 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/no-foul-play-avoiding-unauthorized-use-of-chatgpt/"><u>No Foul Play: Avoiding Unauthorized Use of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-recovery-9-fixes-for-frozen-chatgpt-on-iphones/"><u>Quick Recovery: 9 Fixes for Frozen ChatGPT on iPhones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-enhancements-boosting-vs-code-and-gpt-integration/"><u>Top 6 Enhancements: Boosting VS Code & GPT Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/walmarts-ultimate-guide-to-top-notch-seasonal-sales-discover-hidden-gems-for-the-holidcks-insights-by-zdnet/"><u>Walmart's Ultimate Guide to Top-Notch Seasonal Sales: Discover Hidden Gems for the Holidcks | Insights by ZDNet</u></a></li>
 </ul></div>
 

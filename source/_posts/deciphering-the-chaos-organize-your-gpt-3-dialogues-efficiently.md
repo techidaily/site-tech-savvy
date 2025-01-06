@@ -1,7 +1,7 @@
 ---
 title: "Deciphering the Chaos: Organize Your GPT-3 Dialogues Efficiently"
-date: 2024-09-06T23:33:19.495Z
-updated: 2024-09-07T23:33:19.495Z
+date: 2025-01-05T01:47:34.076Z
+updated: 2025-01-05T19:27:22.213Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Deciphering the Chaos: Organize Your GPT-3 Dial
 thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524efb6bb31d25ddff4661a97e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Deciphering the Chaos: Organize Your GPT-3 Dialogues Efficiently
 
  ChatGPT's conversation memory is one of the generative AI chatbot's most useful features. Every time you start a new conversation and ask ChatGPT a question or provide a prompt, it's recorded for you to refer back to.
@@ -31,18 +25,6 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
 
  That's where the ChatGPT Folders Chrome extension comes into play, allowing you to organize, structure, and pin your ChatGPT conversations. Here's how it works.
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use ChatGPT Folders to Organize Your ChatGPT Conversations
 
  Let's face it; the ChatGPT conversation history isn't the chatbot's strongest feature. Having the list of prior conversations is handy, but without a way to manage it properly, it's not up to scratch.
@@ -50,11 +32,9 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
  The [ChatGPT Folders](https://chrome.google.com/webstore/detail/chatgpt-folders-organize/hkabkcpdocmhidhbgfcpbadafacnekkl) Chrome extension addresses this problem directly, adding support for folders, subfolders, pinning, bulk conversation deletion, and the option to [share your ChatGPT conversations](https://www.makeuseof.com/apps-extensions-export-share-chatgpt-history/). Now, I imagine OpenAI will add all of these features to ChatGPT in the future ([ChatGPT link sharing is already enabled](https://www.makeuseof.com/share-chatgpt-chats-links/)). But the future isn't now, and ChatGPT Folders is delivering the goods.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Download and Install ChatGPT Folders
 
  First up, head to [ChatGPT Folders](https://chrome.google.com/webstore/detail/chatgpt-folders-organize/hkabkcpdocmhidhbgfcpbadafacnekkl) while using the Chrome browser, then select **Add to Chrome**.
@@ -62,17 +42,9 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
  Launch ChatGPT to check ChatGPT Folders installed correctly. You should now find a new toolbar atop your ChatGPT conversation history with options to create a New Conversation and, most importantly, a New Folder. You'll also note that a tree structure now exists alongside your ChatGPT conversations, which you can use to select specific chats you want to move into a folder, delete, and so on.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Create a New Folder, Add Your Conversations
 
  From here, you can begin creating new folders to manage your ChatGPT conversations.
@@ -84,22 +56,14 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
 3. You can either drag and drop the selected folders into your new folder or right-click and select **Move to > New Folder**.  
 ![moving chatgpt conversations to new folder chatgpt folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/moving-chatgpt-conversations-to-new-folder-chatgpt-folders.jpg)
 4. Select your folder. It will open using the same tree structure, where you'll find your grouped conversations.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. **Optional**: Inside your new folder, select the **New Folder** button once more to create a subfolder. Use the same steps as before to transfer ChatGPT conversations to the subfolder.
 
 ![chatgpt folders with nested conversations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-folders-with-nested-conversations.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. How to Delete a Folder and Reset Your Conversations
 
  Deleting a folder and resetting your conversations are two different processes, but you'll want to know about both.
@@ -110,7 +74,15 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
 
 ![chatgpt folders reset conversations and folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-folders-reset-conversations-and-folders.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select the three-line button at the top of the ChatGPT history, then **Reset folders and conversations**. Doing so will remove all of the ChatGPT Folders you've created and return your ChatGPT conversations to their original state. Note that this isn't the same as [deleting your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are ChatGPT Folders the ChatGPT Future?
 
@@ -132,14 +104,11 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
 
  That's where the ChatGPT Folders Chrome extension comes into play, allowing you to organize, structure, and pin your ChatGPT conversations. Here's how it works.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -148,4 +117,23 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/gnite-your-creativity-making-dynamic-splitscreen-videos/"><u>[New] Ignite Your Creativity Making Dynamic Splitscreen Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-pixelpilot-studio-plus-advanced-os-recorder/"><u>[New] PixelPilot Studio Plus Advanced OS Recorder</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-precision-in-numbers-a-3-step-process-to-examine-your-youtube-earnings/"><u>[New] Precision in Numbers A 3-Step Process to Examine Your YouTube Earnings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-exceptional-14-visual-text-motion-examples/"><u>[Updated] In 2024, Exceptional 14 Visual Text Motion Examples</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/3-usb-usb/"><u>3 異なるアプローチでUSBの空きスペースを回復 - USBメモリ修復方法</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-budget-friendly-marvel-detailed-hisense-50h8f-4k-hdr-television-review/"><u>A Budget-Friendly Marvel: Detailed Hisense 50H8F 4K HDR Television Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/behind-the-curtain-of-machine-learning-black-boxes-analysis/"><u>Behind the Curtain of Machine Learning: Black Boxes Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-buzzwords-a-critical-look-at-opting-out-of-the-iphone-gro-up-16-expert-analysis-by-zdnet/"><u>Beyond Buzzwords: A Critical Look at Opting Out of the iPhone Gro-Up 16 - Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-ways-to-detect-a-hidden-airtag-tracker-a-guide-by-zdnet/"><u>Discover Ways to Detect a Hidden AirTag Tracker: A Guide by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-hotel-convenience-with-apple-airplay-your-guide-to-seamless-entertainment-in-selected-luxury-properties/"><u>Experience Hotel Convenience with Apple AirPlay: Your Guide to Seamless Entertainment in Selected Luxury Properties</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-linguistic-milestones-unveiling-bert-and-gpt/"><u>Exploring Linguistic Milestones: Unveiling BERT and GPT</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-honor-magic-6-lite-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Honor Magic 6 Lite</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/improve-your-audio-experience-discover-how-tvos-18-upgrades-apple-tvs-dialogue-clarity-insights-from-zdnet/"><u>Improve Your Audio Experience: Discover How tvOS 18 Upgrades Apple TV's Dialogue Clarity - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-androids-leading-collage-tools-the-ultimate-list/"><u>In 2024, Android's Leading Collage Tools The Ultimate List</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-tips-to-design-an-eye-catching-logo-for-podcasts/"><u>In 2024, Tips to Design an Eye-Catching Logo for Podcasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-notetaker-tablet-reviews-2024-in-depth-analysis-and-comparisons/"><u>Top Notetaker Tablet Reviews 2024: In Depth Analysis & Comparisons</u></a></li>
+</ul></div>
 

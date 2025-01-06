@@ -1,7 +1,7 @@
 ---
 title: Apple Vision Pro Reignites My Love for an Old Favorite Show - A Dazzling, Peculiar Viewing Adventure | Tech Analysis
-date: 2024-12-24T18:13:45.859Z
-updated: 2024-12-27T19:35:07.307Z
+date: 2025-01-01T09:45:53.357Z
+updated: 2025-01-06T04:09:30.273Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ I've been wanting to rewatch the entire four seasons of _For All Mankind_, the a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Apple TV+ on the Vision Pro
 
 The Apple TV+ app provides a couple of viewing options on the Vision Pro. The first is just a window in passthrough mode, where you see the show floating in space, with whatever your room is as a backdrop. That didn't interest me at all. I wanted full immersion. 
@@ -80,17 +84,9 @@ It wasn't distracting enough for me to stop the show, but it was one of those an
 
 And yet, watching the show was incredible in that environment. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The reality of virtual reality
 
 But it wasn't all vintage 1969 Corvette Stingrays and Apollo 11\. There were some problems. The first was audio… 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. AirPods ala mode
 
@@ -124,10 +120,6 @@ So, yes, you can turn on noise cancellation. I just didn't know how to do it on 
 
 Just because I love you folks and want to give you the complete story, I later forced myself to watch the second episode of some of the best TV ever made, on what is probably the most intense giant TV screen I've ever watched. And yeah, both the AirPods Pro and AirPods Max worked just fine. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Eyestrain and itchy itch
 
 I watched the first 20 minutes of the show in entertainment center bliss, but then my eyes started to hurt and my face (the part inside the headset) started to itch. 
@@ -135,10 +127,6 @@ I watched the first 20 minutes of the show in entertainment center bliss, but th
 I made sure to close and blink my eyes throughout the viewing experience, but by about 40 minutes in, I found myself alternately wishing the show was over and enthralled by how awesome the video was. 
 
 To alleviate the itching, I stopped the video a few times, loosened the headset, and scratch it. That's a bit of an immersion killer. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. No coffee for you
 
@@ -150,6 +138,10 @@ I wound up drinking my coffee through a straw, but that was also a bit of a prob
 
 After trying this once, I waited until the times I needed to scratch itches to take sips. Not ideal. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Jumpy-jump, flail, flail
 
 There's supposed to be a people detection feature in the Vision Pro that opens a bit of a portal if someone walks up to you and stands in front of you. But when my wife reached across the couch with an insistent tap, there was no such warning. 
@@ -159,7 +151,7 @@ It wasn't as much that it was startling. It was more that it took some coordinat
 I'm sure it looked ridiculous to her, and I know it was somewhat stressful to me. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Oh, my furrowed brow
@@ -168,11 +160,19 @@ I did notice brow pain while watching, but the entertainment experience was so e
 
 To be fair, it's not a terrible level of hurt, like when you stub your toe. But it's painful enough that it's worth remarking about. The pain went away after about ten minutes. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. In VR, nobody can hear you stream
 
 I can confirm the sense of isolation some [Vision Pro reviewers have reported](https://www.zdnet.com/article/i-tried-apple-vision-pro-for-a-weekend-and-here-are-my-3-biggest-takeaways/#:~:text=3.%20It%27s%20lonely%20in%20the%20spatial%20computing%20world). To be fair, I was purposely going for the isolation, because I didn't want to be involved in my wife's Zoom meeting. 
 
 But when my pup came over, I could feel him and pet him, but he couldn't look at my face and I couldn't see him. It wasn't a terrible moment, because he has prodigious lap-sitting skills, but I wanted to look back at his little face and couldn't. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Is it worth it?
 
@@ -228,24 +228,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-diy-movie-magic-speedy-hacks-for-aspiring-producers-for-2024/"><u>[Updated] DIY Movie Magic Speedy Hacks for Aspiring Producers for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-definitive-guide-to-captivating-podcast-covers/"><u>[Updated] The Definitive Guide to Captivating Podcast Covers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-laughter-unraveling-computer-history-and-virtual-safeguarding/"><u>AI Laughter: Unraveling Computer History & Virtual Safeguarding</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/an-easy-guide-to-connecting-airpods-with-quest-3-without-disturbing-others-tips-and-tricks/"><u>An Easy Guide to Connecting AirPods with Quest 3 Without Disturbing Others - Tips & Tricks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-between-the-macbook-pro-and-macbook-air-a-comprehensive-guide-for-optimal-apple-laptop-selection/"><u>Choosing Between the MacBook Pro and MacBook Air: A Comprehensive Guide for Optimal Apple Laptop Selection</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/day-one-highlights-from-ces-202n-top-tech-reveals-and-breakthroughs-zdnet/"><u>Day One Highlights From CES 202N: Top Tech Reveals and Breakthroughs - ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-unbeatable-prime-day-laptop-offers-coming-to-october-2024-dont-miss-out/"><u>Discover Unbeatable Prime Day Laptop Offers Coming to October 2024 – Don't Miss Out!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-windows-10-nvidiaintel-graphic-card-compatibility-issue/"><u>Fixing Windows 10: NVIDIA/Intel Graphic Card Compatibility Issue</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-building-your-brands-buzz-on-youtube-with-fresh-insights/"><u>In 2024, Building Your Brand's Buzz on Youtube with Fresh Insights</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-realme-narzo-n53-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Realme Narzo N53?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-tecno-pop-7-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Tecno Pop 7 Pro FRP?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/multi-language-mental-merge/"><u>Multi-Language Mental Merge</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/should-i-get-ahead-of-the-curve-with-apples-vision-pro-reserved-listing-find-out-by-asking-these-5-key-questions-expert-advice-on-zdnet/"><u>Should I Get Ahead of the Curve with Apple's Vision Pro Reserved Listing? Find Out by Asking These 5 Key Questions | Expert Advice on ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/taming-language-through-ai-understanding-bot-content-filters/"><u>Taming Language Through AI: Understanding Bot Content Filters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-top-alternative-for-your-apple-watch-ultra-is-restocked-discover-the-secret-in-our-latest-zdnet-report/"><u>The Top Alternative for Your Apple Watch Ultra Is Restocked! Discover the Secret in Our Latest ZDNET Report.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-mac-os-maintenance-tools-of-2022-expert-reviews-and-ratings-techradar/"><u>Top MAC OS Maintenance Tools of 2022: Expert Reviews and Ratings | TechRadar</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/two-effective-techniques-for-updating-applications-on-macos-detailed-guide/"><u>Two Effective Techniques for Updating Applications on macOS - Detailed Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/video-formats-face-off-determining-the-best-av1-or-vp9-in-2024/"><u>Video Formats Face Off Determining the Best, AV1 or VP9, In 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zdnets-must-avoid-apple-picks-the-four-tech-gadgets-to-skip-this-season/"><u>ZDNet’s Must-Avoid Apple Picks: The Four Tech Gadgets to Skip This Season</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-evaluating-auroras-high-dynamic-range-benefits/"><u>[Updated] In 2024, Evaluating Aurora's High Dynamic Range Benefits</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unlock-15-simple-vlog-inspirations-today-for-2024/"><u>[Updated] Unlock 15 Simple Vlog Inspirations Today for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beginners-companion-to-ai/"><u>Beginner’s Companion to AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-drives-with-intelligent-conversations/"><u>Elevating Drives with Intelligent Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-non-gpt-pos-software-for-todays-retailers/"><u>Essential Non-GPT POS Software for Today’s Retailers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/from-airplay-to-download-apple-podcasts-simplified/"><u>From Airplay to Download Apple Podcasts Simplified</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-in-terminal-how-to-engage-via-shellgpt-bash-commands/"><u>GPT in Terminal: How to Engage via ShellGPT Bash Commands</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-mastering-remote-desktop-control-with-your-samsung-smart-tv/"><u>Guide: Mastering Remote Desktop Control with Your Samsung Smart TV</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-start-fresh-erasing-previous-gpt-talks/"><u>How to Start Fresh: Erasing Previous GPT Talks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-peals-of-laughter-fun-tones-websites-unveiled/"><u>In 2024, Peals of Laughter Fun Tones Websites Unveiled</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-secureyourcam-top-10-reviews-for-protected-shopping/"><u>In 2024, SecureYourCam Top 10 Reviews for Protected Shopping</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-feature-alert-airpods-pros-upcoming-hearing-aid-compatibility-with-ios-15-and-beyond-revolutionizing-accessibility-without-hardware-changes/"><u>New Feature Alert: AirPods Pro's Upcoming Hearing Aid Compatibility with iOS 15 and Beyond, Revolutionizing Accessibility Without Hardware Changes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protect-your-world-real-vs-faux-gpt-applications-unveiled/"><u>Protect Your World: Real Vs. Faux GPT Applications Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-resin-3d-printing-the-ultimate-guide-to-using-the-elegoo-dip-n-cure-bundle-for-149/"><u>Revolutionize Resin 3D Printing: The Ultimate Guide to Using the Elegoo Dip-N-Cure Bundle for $149</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/rutas-mas-sencillas-para-clonar-unidades-ntfs-en-windows-gratuito/"><u>Rutas Más Sencillas Para Clonar Unidades NTFS en Windows Gratuito</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solve-your-android-texting-problems-no-reception-fixes-explained/"><u>Solve Your Android Texting Problems – No Reception Fixes Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-cycling-adventures-with-photochromic-smart-glasses-and-interactive-heads-up-display-insights/"><u>Transforming Cycling Adventures with Photochromic Smart Glasses and Interactive Heads-Up Display - Insights</u></a></li>
 </ul></div>
 

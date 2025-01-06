@@ -1,7 +1,7 @@
 ---
 title: "Innovating Language Understanding: Dissecting GPT and BERT Differences"
-date: 2024-12-22T18:06:09.889Z
-updated: 2024-12-27T17:52:39.706Z
+date: 2025-01-02T10:55:41.611Z
+updated: 2025-01-05T17:45:33.886Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,13 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Explaining GPT-3 and GPT-4
 
 ![ChatGPT screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/04/screenshot-2023-04-21-at-5-45-17-pm.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  GPT-3 (Generative Pre-trained Transformer 3) is an autoregressive language model launched by OpenAI in June 2020\. It utilizes a transformer architecture with 175 billion parameters, making it one of the largest language models ever constructed.
 
@@ -48,12 +48,16 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 
 ![Image showing machine learning code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/learning-code-unsplash.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [BERT](https://www.makeuseof.com/what-is-bert-language-model-how-differ-gpt/) (Bidirectional Encoder Representations from Transformers) is a pre-training language representation model that fine-tunes NLP applications created by Google in 2018\. Unlike other NLP models that use unidirectional attention flow, BERT uses bidirectional flow, which allows it to use context from both directions during processing.
 
  This allows the model to understand the meaning of words in context and, in turn, better comprehend language structures. With BERT, Google can now provide more accurate search results for complex queries—particularly those that rely on prepositions such as "for," "to," and "from."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Main Differences Between GPT and BERT
@@ -72,13 +76,13 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 
  GPT is trained using a unidirectional (causal) language modeling objective, where it predicts the next word given the context of previous words. That's one of the main reasons why GPT is so popular for content generation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Training Data
 
 ![Image showing data points and connectors in an abstract manner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dataset-unsplash.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  BERT and GPT differ in the types of training data they use. BERT is trained using a masked language model, meaning certain words are masked, and the algorithm has to predict what the next word is likely to be. This helps train the model and makes it more contextually accurate.
 
@@ -91,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
  As for GPT-4, training data information is a bit scarce, but it's quite likely that the GPT-4 is trained on a similarly diverse dataset, potentially including newer sources and an even larger volume of data to improve its understanding of natural language and its ability to generate contextually relevant responses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Use Cases
@@ -113,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
  Unlike ChatGPT, which lets anyone leverage the GPT model, BERT is not as readily available. First, you'll have to download the originally published [Jupyter Notebook](http://colab.research.google.com/drive/1ywsvwO6thOVOrfagjjfuxEf6xVRxbUNO) for BERT and then set up a development environment using Google Colab or TensorFlow.
 
  If you don't want to worry about using a [Jupyter Notebook](https://www.makeuseof.com/get-started-with-jupyter-notebook/) or aren't as technical, you could consider using ChatGPT, which is as simple as just logging into a website. However, we've also covered [how to use Jupyter Notebook](http://www.makeuseof.com/get-started-with-jupyter-notebook/), which should give you a good starting point.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## BERT and GPT Show the Capabilities of AI
 
@@ -143,24 +143,19 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-expertly-curated-windows-video-editors-guide/"><u>[New] 2024 Approved Expertly Curated Windows Video Editors Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-filmmakers-guide-to-the-top-10-essential-camera-brands/"><u>[New] 2024 Approved Filmmaker's Guide to the Top 10 Essential Camera Brands</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-ideas-for-soundless-video-preservation/"><u>[New] In 2024, Ideas for Soundless Video Preservation</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-recent-showcase-of-ai-innovations-what-we-didnt-see-but-could-expect-in-the-future-zdnet/"><u>Apple's Recent Showcase of AI Innovations - What We Didn't See, but Could Expect in the Future? | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-the-new-m4-powered-mac-mini-compete-with-a-tiny-form-factor-like-apple-tv-insights-from-zdnet/"><u>Can the New M4-Powered Mac Mini Compete with a Tiny Form Factor Like Apple TV? - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/changer-gratuitement-un-fichier-mpeg-en-format-aiff-sur-la-toile-avec-movavi/"><u>Changer Gratuitement Un Fichier MPEG en Format AIFF Sur La Toile - Avec Movavi!</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/chromebooks-premier-capture-solution-for-2024/"><u>Chromebook's Premier Capture Solution for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cyber-threats-evolving-chatgpts-emergence-as-a-potential-risk/"><u>Cyber Threats Evolving: ChatGPT's Emergence as a Potential Risk</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone 15 Plus Without Passcode? 4 Easy Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/illusory-botnet-adapter-steals-on-facebook-username-and-password/"><u>Illusory Botnet Adapter: Steals on Facebook Username & Password</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-apple-ignoring-customer-needs-by-not-offering-iphone-cases-we-demand-attention/"><u>Is Apple Ignoring Customer Needs by Not Offering iPhone Cases? We Demand Attention!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/master-the-connection-a-user-friendly-guide-for-subwoofer-and-samsung-soundbar-pairing/"><u>Master the Connection: A User-Friendly Guide for Subwoofer and Samsung Soundbar Pairing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quit-linking-siri-with-chatgpt-their-significant-gaps/"><u>Quit Linking Siri with ChatGPT: Their Significant Gaps</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/removed-startup-partition-say-goodbye-to-windows-7-8-10-and-11/"><u>Removed Startup Partition: Say Goodbye to Windows 7, 8, 10 & 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplifying-sticker-setup-addressing-the-most-frequent-issues/"><u>Simplifying Sticker Setup: Addressing the Most Frequent Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tactical-defenses-against-fraudgpt-your-cybersecurity-companion/"><u>Tactical Defenses Against FraudGPT: Your Cybersecurity Companion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1727789295610-top-ranking-mac-software-a-comprehensive-guide-by-zdnet/"><u>Top-Ranking Mac Software : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-charting-social-media-trends-with-data-graphics/"><u>[New] 2024 Approved Charting Social Media Trends with Data Graphics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-flawless-top-timelapse-capturer-for-2024/"><u>[New] Flawless Top Timelapse Capturer for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-syncing-platforms-for-video-upload/"><u>[Updated] 2024 Approved Syncing Platforms for Video Upload</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-explore-new-realms-the-ultimate-guide-to-iphone-vr-gaming/"><u>2024 Approved Explore New Realms The Ultimate Guide to IPhone VR Gaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-creativity-exploring-new-horizons-for-text-production/"><u>AI and Creativity: Exploring New Horizons for Text Production</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/balancing-reliance-and-resistance-6-tips-on-using-ai-wisely/"><u>Balancing Reliance and Resistance: 6 Tips on Using AI Wisely</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enterprises-dilemma-the-5-significant-reasons-against-chatgpt/"><u>Enterprises' Dilemma: The 5 Significant Reasons Against ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-proof-companies-with-key-ai-technologies-for-owners/"><u>Future-Proof Companies with Key AI Technologies for Owners</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-close-up-techniques-with-videoleap/"><u>In 2024, Mastering Close-Up Techniques with Videoleap</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-showdown-evaluating-advancements-from-the-iphone-14-pro-to-the-latest-iphone-15-pro-deep-dive/"><u>IPhone Showdown: Evaluating Advancements From the iPhone 14 Pro to the Latest iPhone 15 Pro Deep Dive</u></a></li>
+<li><a href="https://article-tips.techidaily.com/personalized-and-accessible-video-conclusions-downloads/"><u>Personalized & Accessible Video Conclusions Downloads</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/professional-livestream-selector-pick-between-virusmix-and-castpro-for-2024/"><u>Professional Livestream Selector Pick Between VirusMix and CastPro for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-6-overlords-vast-data-models-crowned/"><u>Ultimate 6 Overlords: Vast Data Models Crowned</u></a></li>
 </ul></div>
 

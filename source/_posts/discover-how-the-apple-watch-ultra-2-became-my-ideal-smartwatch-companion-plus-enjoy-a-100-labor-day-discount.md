@@ -1,7 +1,7 @@
 ---
 title: Discover How the Apple Watch Ultra 2 Became My Ideal Smartwatch Companion - Plus, Enjoy a $100 Labor Day Discount!
-date: 2024-12-26T16:19:50.710Z
-updated: 2024-12-27T17:40:52.929Z
+date: 2025-01-02T03:40:31.422Z
+updated: 2025-01-06T09:22:01.185Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -33,7 +33,7 @@ Matthew Miller/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
@@ -97,7 +97,7 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,7 +111,7 @@ If you don't have an Apple Watch Ultra but are interested in buying one, the Ult
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -148,24 +148,24 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-5-star-channel-cutting-long-urls-down-for-youtube-videos/"><u>[New] 2024 Approved 5-Star Channel Cutting Long URLs Down for YouTube Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-lightweightapp-no-trouble-recording-windows-10/"><u>[New] In 2024, LightweightApp - No-Trouble Recording, Windows 10</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-essential-tips-for-enhancing-images-on-snapchat/"><u>[Updated] In 2024, Essential Tips for Enhancing Images on Snapchat</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-understanding-youtubes-content-crafting-environment/"><u>[Updated] Understanding YouTube's Content Crafting Environment</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-nokia-c300-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Nokia C300</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/effortless-transition-converting-dvds-for-seamless-integration-into-your-home-media-hub/"><u>Effortless Transition: Converting DVDs for Seamless Integration Into Your Home Media Hub</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-conversational-ai-top-5-customized-gpt-techniques/"><u>Elevating Conversational AI: Top 5 Customized GPT Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-ipad-pro-embracing-apples-top-tier-tablet-that-defies-macbook-comparison-insights/"><u>Exploring the IPad Pro: Embracing Apple's Top-Tier Tablet That Defies MacBook Comparison Insights</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-smart-8-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Infinix Smart 8 Pro?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ios-174-launches-featuring-enhanced-podcast-accessibility-fresh-emoji-additions-and-notable-updates-to-apples-eu-app-marketplace-tech-insights/"><u>IOS 17.4 Launches Featuring Enhanced Podcast Accessibility, Fresh Emoji Additions & Notable Updates to Apple's EU App Marketplace - Tech Insights</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/revealing-the-mysteries-of-whatsapp-tricks-and-features-for-2024/"><u>Revealing the Mysteries of WhatsApp Tricks & Features for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/talent-in-cocktails-chatgpts-evaluation/"><u>Talent in Cocktails: ChatGPT's Evaluation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-intersection-of-cognitive-behavior-and-ai-technologies/"><u>The Intersection of Cognitive-Behavior and AI Technologies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-temptation-of-tech-how-apples-usb-c-earpods-became-my-spontaneous-buy-during-prime-day/"><u>The Temptation of Tech: How Apple's USB-C EarPods Became My Spontaneous Buy During Prime Day</u></a></li>
-<li><a href="https://facebook.techidaily.com/thriving-in-silence-6-advantages-to-exiting-facebook/"><u>Thriving in Silence - 6 Advantages to Exiting Facebook</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-5-facil-y-gratuito-de-reducir-el-tamano-del-archivo-de-video-mkv/"><u>Top 5 Fácil Y Gratuito De Reducir El Tamaño Del Archivo De Video MKV</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-notch-laptop-bargains-in-july-2024-tech-insights-by-zdnet/"><u>Top Notch Laptop Bargains in July 2024 | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-ranked-iphone-16-and-pro-case-picks-comprehensive-protection-ratings-by-tech-experts-zdnets-review/"><u>Top-Ranked iPhone 16 & Pro Case Picks : Comprehensive Protection Ratings by Tech Experts | ZDNet's Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upgrade-your-productivity-with-dual-monitors-on-the-m3-macbook-pro-now-as-effortless-as-on-the-air-models/"><u>Upgrade Your Productivity with Dual Monitors on the M3 MacBook Pro | Now As Effortless as On the Air Models</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-vr-today-a-glimpse-inside-for-2024/"><u>[New] VR Today A Glimpse Inside for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-how-to-blur-the-video-background-in-a-microsoft-teams-meeting-in-2024/"><u>[Updated] How to Blur the Video Background in a Microsoft Teams Meeting, In 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-achieve-balance-and-vitality-top-10-premium-yoga-streams/"><u>[Updated] In 2024, Achieve Balance & Vitality - Top 10 Premium Yoga Streams</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-your-path-to-an-elite-online-presence-six-strategic-methods-for-instagram-fame-for-2024/"><u>[Updated] Your Path to an Elite Online Presence Six Strategic Methods for Instagram Fame for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-virtual-reality-lgs-360-degree-experience/"><u>2024 Approved Exploring Virtual Reality LG's 360-Degree Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-game-on-with-updated-windows-11-gems/"><u>2024 Approved Game On with Updated Windows 11 Gems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-the-truthfulness-of-machine-learning-conclusions-with-6-cues/"><u>Enhancing the Truthfulness of Machine Learning Conclusions With 6 Cues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-claude-2-its-essence-and-uses/"><u>Exploring Claude 2: Its Essence & Uses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fictitious-gpt-add-on-pilfers-login-data-from-fb/"><u>Fictitious GPT Add-On: Pilfers Login Data From FB</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-text-to-adventure-navigating-gpts-roleplay-scenarios/"><u>From Text to Adventure: Navigating GPT's Roleplay Scenarios</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/governing-recording-youtube-live-streams-for-2024/"><u>Laws Governing Recording YouTube Live Streams for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-error-5-has-happened-your-ultimate-guide-for-windows-users/"><u>Overcoming 'Error 5 Has Happened' – Your Ultimate Guide for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-play-ai-driven-transformations-in-games/"><u>Pioneering Play: AI-Driven Transformations in Games</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/powerpoint-presentations-merging-text-with-tuneable-tracks-for-2024/"><u>PowerPoint Presentations Merging Text with Tuneable Tracks for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/professional-review-of-the-apple-studio-27-inch-5k-monitor-is-its-elegance-worth-the-price-tag-analysis/"><u>Professional Review of the Apple Studio 27-Inch 5K Monitor: Is Its Elegance Worth the Price Tag? - Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/put-an-end-to-junk-text-alerts-a-tri-step-guide-for-iphone-users-insights-from-zdnet/"><u>Put an End to Junk Text Alerts: A Tri-Step Guide for iPhone Users - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/samsung-galaxy-book-2-ultra-takes-on-the-apple-macbook-pro-an-in-depth-comparison-of-two-elite-computers-techadvisor/"><u>Samsung Galaxy Book 2 Ultra Takes on the Apple MacBook Pro: An In-Depth Comparison of Two Elite Computers | TechAdvisor</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-vignette-apps-for-mobile-devices-free-and-premium-options-for-2024/"><u>Top Vignette Apps for Mobile Devices Free and Premium Options for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-explores-apples-upcoming-quiet-revolution-in-ai-announced-for-the-latest-wwdc-event/"><u>ZDNet Explores Apple's Upcoming Quiet Revolution in AI Announced for the Latest WWDC Event</u></a></li>
 </ul></div>
 

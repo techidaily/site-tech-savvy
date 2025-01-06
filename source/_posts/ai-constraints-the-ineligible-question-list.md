@@ -1,7 +1,7 @@
 ---
 title: "AI Constraints: The Ineligible Question List"
-date: 2024-09-12T07:40:36.602Z
-updated: 2024-09-13T07:40:36.602Z
+date: 2025-01-04T07:06:48.076Z
+updated: 2025-01-05T19:57:07.495Z
 tags:
   - chatgpt
   - open-ai
@@ -24,10 +24,7 @@ thumbnail: https://thmb.techidaily.com/25f2a05c8be60260f4d2e250cf565b20fcb8e042f
  So, let's discuss what ChatGPT can't do.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT's Code of Ethics
@@ -35,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/25f2a05c8be60260f4d2e250cf565b20fcb8e042f
  ChatGPT follows a strict code of ethics to keep users and others safe. When we asked ChatGPT to provide its code of ethics, we received the response below.
 
 ![chatgpt chat response listing code of ethics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-ethics-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This code of ethics includes...
 
@@ -63,14 +53,11 @@ thumbnail: https://thmb.techidaily.com/25f2a05c8be60260f4d2e250cf565b20fcb8e042f
 
 ![chatgpt conversation screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-2022-request.jpg)
 
- If you're looking for recent news, weather updates, and other real-time data, ChatGPT won't be of much use. [Other AI chatbots like Claude](https://www.makeuseof.com/what-is-claude-ai-why-use-it/) have been trained with more recent information, but you still won't be able to access data less than a few months old.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you're looking for recent news, weather updates, and other real-time data, ChatGPT won't be of much use. [Other AI chatbots like Claude](https://www.makeuseof.com/what-is-claude-ai-why-use-it/) have been trained with more recent information, but you still won't be able to access data less than a few months old.
 
 ## 2\. Give Criminal Advice
 
@@ -81,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/25f2a05c8be60260f4d2e250cf565b20fcb8e042f
  Since this story emerged, others have tried using ChatGPT to write malware, sometimes successfully. This fact alone has raised concerns about how AI can be abused for malicious purposes.
 
  However, the current versions of ChatGPT only seem to be able to write simple malware programs, which can also be buggy at times. But regardless of this, [the chatbot can be exploited for malware creation](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Invade Personal Privacy or Security
 
@@ -109,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/25f2a05c8be60260f4d2e250cf565b20fcb8e042f
 
  It's better to consult dedicated websites or professionals if you're looking for solid predictions, be it in finance, politics, or sports.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Answer Bigoted or Hateful Questions
 
  As you may have guessed, ChatGPT is strictly against engaging with bigoted or hateful prompts. Racism, misogyny, homophobia, ableism, and transphobia are all a no-go for ChatGPT.
@@ -118,19 +102,6 @@ thumbnail: https://thmb.techidaily.com/25f2a05c8be60260f4d2e250cf565b20fcb8e042f
 > I do not engage in hate speech or promote any form of harmful content. My programming strictly adheres to ethical guidelines that prioritize respect, inclusivity, and the avoidance of harmful behavior.
 
  Additionally, ChatGPT will not engage with any prompts that promote harm to the user or others.
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Provide Its Own Opinion
 
@@ -142,19 +113,14 @@ thumbnail: https://thmb.techidaily.com/25f2a05c8be60260f4d2e250cf565b20fcb8e042f
 
 ![chatgpt opinion request screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-opinion-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  One day, we may see AI chatbots able to form reasonable opinions. But for now, that's a luxury reserved for human beings.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Look Up Web Results
@@ -188,5 +154,24 @@ thumbnail: https://thmb.techidaily.com/25f2a05c8be60260f4d2e250cf565b20fcb8e042f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-screen-to-speakers-secrets-to-successful-video-sharing/"><u>[New] In 2024, From Screen To Speakers Secrets to Successful Video Sharing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-premiere-pro-solutions-to-perfect-iphone-hd-video-exposure-balance/"><u>[Updated] Premiere Pro Solutions to Perfect iPhone HD Video Exposure Balance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-top-cell-phone-discounts-and-promotions-on-independence-day-find-the-best-offers-now/"><u>1. Top Cell Phone Discounts & Promotions on Independence Day - Find the Best Offers Now!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/are-budget-friendly-wireless-hdmi-converters-effective-for-enjoying-games-movies-and-presentations/"><u>Are Budget-Friendly Wireless HDMI Converters Effective for Enjoying Games, Movies, and Presentations?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-apple-laptop-a-detailed-comparison-of-macbook-pro-vs-macbook-air-for-your-needs/"><u>Choosing the Right Apple Laptop: A Detailed Comparison of MacBook Pro Vs. MacBook Air for Your Needs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-market-mysteries-the-inadequacy-of-gpt-analysis/"><u>Decoding Market Mysteries: The Inadequacy of GPT Analysis</u></a></li>
+<li><a href="https://blog-min.techidaily.com/download-and-convert-mkv-videos-to-aac-audio-at-no-cost-using-online-tools/"><u>Download and Convert MKV Videos to AAC Audio at No Cost Using Online Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-tech-savvy-with-gpt-assisted-fixes/"><u>Elevate Your Tech Savvy with GPT-Assisted Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-professional-prowess-through-chatgpt-integration/"><u>Empowering Professional Prowess Through ChatGPT Integration</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-magic5-ultimate-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Honor Magic5 Ultimate Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-oppo-a2-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Oppo A2 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/improve-apple-tv-experience-with-tvos-18s-advanced-audio-features-insights/"><u>Improve Apple TV Experience with tvOS 18'S Advanced Audio Features - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-portrait-profiles-a-covert-guide-to-swapping-faces-on-your-apple-watch-with-tips-from-zdnet/"><u>Mastering Portrait Profiles: A Covert Guide to Swapping Faces on Your Apple Watch with Tips From ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-challenges-with-malfunctioning-smart-tv-apps-a-focus-on-samsung-devices/"><u>Overcoming Challenges with Malfunctioning Smart TV Apps: A Focus on Samsung Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-xiaomi-redmi-note-13-proplus-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Xiaomi Redmi Note 13 Pro+ 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revealing-the-ratio-why-does-chatgpt-4-run-roughly/"><u>Revealing the Ratio: Why Does ChatGPT-4 Run Roughly?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-most-protective-and-stylish-samsung-s22-ultra-case-selection-for-2n3/"><u>The Most Protective and Stylish Samsung S22 Ultra Case Selection for 2N3</u></a></li>
+</ul></div>
 

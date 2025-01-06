@@ -1,7 +1,7 @@
 ---
 title: Unveiling 7 Evolving Threats in the Cyber Arena
-date: 2024-12-25T20:51:30.311Z
-updated: 2024-12-27T19:24:56.177Z
+date: 2025-01-05T10:51:01.033Z
+updated: 2025-01-05T17:43:35.278Z
 tags:
   - chatgpt
   - open-ai
@@ -48,19 +48,23 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
 
  It's the gravity of supply chain's influence that has made it an attractive target for cybercriminals. As the demand for mass production and global shipping increases, so does the impact of hacks on supply chain systems.
 
  According to [Cybersecurity Hub](https://www.cshub.com/events-supply-chain-threats), the number of supply chain attacks has risen by 74 percent over the past three years. The site also reported that it takes an average of 287 days to detect a supply chain attack, giving malicious actors plenty of time to steal data or disrupt services. In 2024, we may see this increase in supply chain attacks continue, or even evolve in sophistication.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Further Adoption of Zero-Trust Systems
 
 ![person in suit using tablet with zero-trust spider diagram in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/zero-trust-image.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Zero-trust systems do not rely on any user or group of users to authenticate, monitor, or store data. Additionally, every user present in a zero-trust system must authorize access to a new user, otherwise the system remains off-limits to that individual. In short, a zero-trust system is designed not to trust any one individual. All users are assumed untrustworthy unless authentication is provided by other users.
 
@@ -68,17 +72,9 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
  Zero-trust systems also provide granular access and granular control. This means that no one individual ever has control of or access to the majority of data and power within the network. Each user is provided information on a strictly need-to-know basis. Blockchains work similarly, wherein power and data are spread across the network in a decentralized manner.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Further Exploit of EV Security Systems
 
 ![close up shot of electric car charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ev-charging-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Gone are the days when a car was just a mechanical vehicle with a radio. Now, we can use Bluetooth, Wi-Fi, and even NFC in our cars. These wireless connections, along with a reliance on software, have opened the door for cybercriminals.
 
@@ -92,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 ![picture of living room with smart tech connection grid in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smart-home-grid.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  IoT devices make our day-to-day lives possible. Whether you're using your smartphone, smart speaker, smartwatch, or anything similar, IoT is facilitating your actions. In short IoT is a blanket term covering all interconnected devices. This network of connected "things" forms its own [Internet of Things (IoT)](https://www.makeuseof.com/tag/what-is-internet-of-things/). It's this increased connectivity forming the Internet of Things that has attracted cybercriminals.
 
  The reason for this is similar to the increased focus on EV hacking. Not only do IoT devices rely on software, but they also use wireless connections to communicate with each other. These two elements leave a door open for exploits, be it through software vulnerabilities, malware, or inside actors.
@@ -101,12 +101,16 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
  Because of this growing threat, smart home and IoT security is expected to see an improvement throughout 2024\. Providing patches for vulnerabilities, offering more security features (such as encryption and two-factor authentication), and conducting regular code audits can all help to fend of cyberattacks aimed towards IoT devices and smart homes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Further Exploit of Cloud Platforms
 
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There's a good chance you already have data stored on a cloud platform, such as Microsoft OneDrive or Google Drive. These platforms aren't easy to hack, but the hordes of data they store make them very lucrative targets for hackers.
 
@@ -123,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
  For instance, a scammer may email a potential victim claiming to be a representative for a charity. They provide a link to a donation page so that the recipient can provide some money for the cause. But in reality, the charity is either make-believe, or the sender is impersonating an employee from a well known charitable organization. The scammer may be looking for a one-off payment, but they could also be providing a link to a phishing site designed to steal the victim's payment details. Either way, the recipient ends up losing out.
 
  As we continue to see more conflicts, tragedies, and scandals arise, there's no doubt that cybercriminals will continue to try and profit from other people's hardships.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Each Year Brings New Cybersecurity Threats
 
@@ -151,20 +151,22 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-revolutionary-chromatic-shots-with-uhd-blade-tech/"><u>[Updated] In 2024, Revolutionary Chromatic Shots with UHD Blade Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-creative-leap-understanding-the-search-and-output-dynamics/"><u>AI's Creative Leap: Understanding the Search & Output Dynamics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-says-no-to-rice-drying-myths-the-right-way-to-salvage-a-drenched-iphone-insider-tips-from-zdnet/"><u>Apple Says No To Rice-Drying Myths: The Right Way To Salvage A Drenched iPhone - Insider Tips From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-down-fear-of-ai-top-8-teacher-insights/"><u>Breaking Down Fear of AI: Top 8 Teacher Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dive-into-ai-creations-openais-flexible-gpt-offerings/"><u>Dive Into AI Creations: OpenAI's Flexible GPT Offerings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-cover-letters-effortlessly-using-chatgpt/"><u>Enhance Cover Letters Effortlessly Using ChatGPT</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/free-ways-to-transform-mxf-files-into-mp4-format-a-step-by-step-guide/"><u>Free Ways to Transform MXF Files Into MP4 Format: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gain-gpt-4-insights-at-no-cost-four-strategies/"><u>Gain GPT-4 Insights at No Cost: Four Strategies</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/limited-time-offer-apple-vision-pro-at-a-surprising-discount-of-200-on-amazon-as-predicted-by-tech-experts-at-zdnet/"><u>Limited-Time Offer: Apple Vision Pro at a Surprising Discount of $200 on Amazon, as Predicted by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211139224-9782017229759-magie-des-rituels-sacres-et-sauvages-dun-druide-actuel/"><u>Magie des rituels sacrés et sauvages d'un druide actuel | Free Book</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigating-amazon-luna-insightful-review-on-its-remarkably-effortless-gaming-service/"><u>Navigating Amazon Luna: Insightful Review on Its Remarkably Effortless Gaming Service</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-tapes-with-these-top-5-brighteners-for-2024/"><u>Transform Your Tapes with These Top 5 Brighteners for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-2023-guide-to-integrating-creative-audio-elements-into-your-film-projects/"><u>Updated 2024 Approved The 2023 Guide to Integrating Creative Audio Elements Into Your Film Projects</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-webm-video-compression-made-easy-best-online-services/"><u>Updated 2024 Approved WebM Video Compression Made Easy Best Online Services</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-how-to-set-up-and-use-the-grid-layout-for-zoom/"><u>[New] 2024 Approved How to Set Up and Use the Grid Layout for Zoom</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-reels-strategy-for-instant-success/"><u>[Updated] 2024 Approved Instagram Reels Strategy for Instant Success</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-essential-snaps-cutting-edge-filters-and-lenses-unveiled/"><u>[Updated] Essential Snaps Cutting-Edge Filters & Lenses Unveiled</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unleash-your-potential-skyrocketing-numbers-of-youtubers-subscribers/"><u>[Updated] Unleash Your Potential Skyrocketing Numbers of YouTubers' Subscribers</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/adjusting-screen-clarity-a-step-by-step-solution-for-optimal-resolution-powered-by-yl-software/"><u>Adjusting Screen Clarity: A Step-by-Step Solution for Optimal Resolution - Powered by YL Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/bridge-gaps-between-tech-worlds-stream-and-save-youtube-from-various-devices-for-2024/"><u>Bridge Gaps Between Tech Worlds Stream and Save YouTube From Various Devices for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-strategies-for-powerful-instagram-captions/"><u>ChatGPT Strategies for Powerful Instagram Captions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cryptos-and-chatbots-top-5-collaboration-benefits/"><u>Cryptos and Chatbots: Top 5 Collaboration Benefits</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/exploring-the-root-causes-of-abrupt-visual-disturbances-with-yl-software-insights/"><u>Exploring the Root Causes of Abrupt Visual Disturbances with YL Software Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-ai-and-the-looming-cybersecurity-crisis/"><u>Generative AI and the Looming Cybersecurity Crisis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-your-hands-on-discounted-apple-watch-se-this-memorial-day-for-just-60-less-top-tech-pick-of-2nt/"><u>Get Your Hands on Discounted Apple Watch SE This Memorial Day for Just $60 Less | Top Tech Pick of 2N't</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/grok-ai-deciphering-its-meaning-functionality-and-cost-with-elon-musk/"><u>Grok AI: Deciphering Its Meaning, Functionality & Cost with Elon Musk</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-vivo-y17s-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo Y17s – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/revolutionize-your-american-supply-network-in-2020-lessons-from-reuters-panel-on-efficient-automation-techniques/"><u>Revolutionize Your American Supply Network in 2020: Lessons From Reuter's Panel on Efficient Automation Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/set-up-a-zero-cost-windows-edition-of-chatgpt-replica/"><u>Set Up a Zero-Cost Windows Edition of ChatGPT Replica</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-smartphones-endorsed-experts-user-favorites-revealed/"><u>Top Smartphones Endorsed Experts - User Favorites Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/winchatgpt-separating-fact-from-fiction/"><u>WinChatGPT: Separating Fact From Fiction</u></a></li>
 </ul></div>
 

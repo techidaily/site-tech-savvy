@@ -1,7 +1,7 @@
 ---
 title: "Legal Landscape of AI in the EU: Consequences for Platforms Like ChatGPT"
-date: 2024-12-22T17:49:55.323Z
-updated: 2024-12-27T18:05:27.418Z
+date: 2024-12-31T22:27:13.287Z
+updated: 2025-01-05T17:13:52.636Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the EU AI Act?
 
  What's first important to note here is that the EU's Artificial Intelligence Act has not yet been enforced. Rather, it is still being fleshed out and altered so the European Parliament can reach a consensus on the final product. However, this act may come into law in the near future, so it's important to understand what it entails.
@@ -49,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
  While the EU AI Act has several objectives, its main aim is to somewhat reign in AI. This will be done by assessing the risk levels of AI systems, ensuring they follow EU laws, and enforcing transparency requirements for AI systems.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Who Will Be Affected by the EU AI Act?
@@ -57,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 ![wooden court hammer on white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/court-hammer-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While the EU AI Act is still in the works, there are concerns over how it will affect AI researchers, developers, and users within the EU.
@@ -73,12 +69,16 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 
  Evidently, the scope is large, spanning the AI industry. Thousands of AI organizations may be affected by this act, including ChatGPT creator, OpenAI. This has led to contention between the EU and OpenAI CEO Sam Altman. In fact, Altman has threatened to pull OpenAI, and therefore ChatGPT, out of the EU because of it. So, why has he made such a striking statement?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is Sam Altman Threatening to Pull ChatGPT From the EU?
 
 ![sam altman sitting on stage talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sam-altman-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838377432/in/)
@@ -92,7 +92,7 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  Interestingly, this threat came shortly after [Altman advocated for further AI regulation within the US](https://www.makeuseof.com/why-openai-ceo-calling-for-more-ai-regulation/) to mitigate the risks of AI development. We'll leave how that looks up to you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The EU's AI Act Could Alter AI Development
@@ -116,16 +116,15 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-brief-basslines-video-music-mosaics/"><u>[New] 2024 Approved Brief Basslines Video Music Mosaics</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-srgb-vs-rgb-decoding-color-standards-for-devices-for-2024/"><u>[New] Srgb vs Rgb Decoding Color Standards for Devices for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-one-minute-color-magic/"><u>[Updated] One Minute Color Magic</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-no-delay-scrutinized-top-8-capture-tools/"><u>2024 Approved No Delay Scrutinized Top 8 Capture Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/educational-entertainment-hub-launches-in-tokyo-teaching-children-to-assemble-and-use-pcs-hands-on/"><u>Educational Entertainment Hub Launches in Tokyo – Teaching Children to Assemble and Use PCs Hands-On</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effective-strategies-for-sharing-and-editing-apple-pages-files-in-icloud-tips/"><u>Effective Strategies for Sharing and Editing Apple Pages Files in iCloud: Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elite-8-chatgpt-questions-to-combat-screen-time-temptations/"><u>Elite 8 ChatGPT Questions to Combat Screen Time Temptations</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-vivo-y100t-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Vivo Y100t to Another | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pivotal-8-image-packs-for-elevated-mac-aesthetics/"><u>Pivotal 8 Image Packs for Elevated Mac Aesthetics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-home-interaction-how-apples-latest-ai-technology-enhances-siri-on-your-device/"><u>Revolutionizing Home Interaction: How Apple’s Latest AI Technology Enhances Siri on Your Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-battle-of-entertainment-how-does-cable-compare-to-streaming/"><u>The Battle of Entertainment: How Does Cable Compare to Streaming?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-complete-playbook-for-instagram-revenue-generation/"><u>[New] 2024 Approved The Complete Playbook for Instagram Revenue Generation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-artful-annotation-distortion-techniques/"><u>2024 Approved Artful Annotation Distortion Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-prohero-vs-nikkor-km-170-which-reigns-supreme/"><u>2024 Approved ProHero vs Nikkor KM-170 Which Reigns Supreme?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/all-iphone-16-models-set-to-include-revolutionary-features-spatial-video-and-slimmer-designs-unveiled-by-zdnet/"><u>All iPhone 16 Models Set to Include Revolutionary Features: Spatial Video & Slimmer Designs Unveiled by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empower-chatgpt-use-essential-tools-for-data-exportation/"><u>Empower ChatGPT Use – Essential Tools for Data Exportation</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-samsung-galaxy-s23-tactical-edition-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Samsung Galaxy S23 Tactical Edition Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interactive-realms-via-textual-machine-learning/"><u>Interactive Realms via Textual Machine Learning</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-computers-processor-drivers-on-windows/"><u>Step-by-Step Guide: Updating Your Computer's Processor Drivers on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-ipad-pro-protectors-comprehensive-reviews-by-tech-specialists/"><u>Top-Rated iPad Pro Protectors : Comprehensive Reviews by Tech Specialists</u></a></li>
 </ul></div>
 

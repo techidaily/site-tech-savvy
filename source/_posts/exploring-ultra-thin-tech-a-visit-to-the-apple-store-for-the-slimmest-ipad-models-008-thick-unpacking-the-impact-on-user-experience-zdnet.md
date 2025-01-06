@@ -1,7 +1,7 @@
 ---
 title: "Exploring Ultra-Thin Tech: A Visit to the Apple Store for the Slimmest iPad Models (0.08 Thick) - Unpacking the Impact on User Experience | ZDNet"
-date: 2024-12-20T17:27:53.266Z
-updated: 2024-12-27T16:05:19.630Z
+date: 2025-01-02T10:48:34.086Z
+updated: 2025-01-05T21:53:40.123Z
 tags:
   - apple
 categories:
@@ -35,7 +35,7 @@ Still, I went to an Apple store, ready to be excited, stunned, and -- indeed -- 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Thin ain't what it used to be
@@ -69,7 +69,7 @@ Please remember, though, that Apple had [inserted thinness in my mind](https://w
 So as I picked them up, I was primed to believe in the thin new world.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Thinly-veiled confusion?
@@ -97,7 +97,7 @@ I couldn't resist, however, checking how much heavier it was than the 11-inch 10
 It's a fulsome 0.23 pounds heavier, yet curiously it's 0.08 pounds lighter than the new 13-inch iPad Air.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I was sold
@@ -150,14 +150,24 @@ They're great at laying it on thick, you know.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-experience-ultimate-quality-leading-4k-converters/"><u>[New] In 2024, Experience Ultimate Quality Leading 4K Converters</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-free-banner-templates-and-makers-for-youtube/"><u>[Updated] Free Banner Templates & Makers for YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/early-entry-into-apple-vision-pro-secure-your-spot-with-testflight-now-a-step-by-step-guide-by-zdnet/"><u>Early Entry Into Apple Vision Pro: Secure Your Spot with TestFlight Now! – A Step-by-Step Guide by ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-functioning-discord-call-audio-services/"><u>Effective Fixes for Non-Functioning Discord Call Audio Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/emoji-eradicated-tweets-linus-unravelled-trojan-truth-and-ais-main-mishaps-with-chatgpt/"><u>Emoji Eradicated Tweets, Linus Unravelled, Trojan Truth, and AI's Main Mishaps with ChatGPT</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/lightning-fast-windowed-photo-reader-for-win11/"><u>Lightning-Fast Windowed Photo Reader for Win11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-instagram-live-a-guide-to-staying-incognito/"><u>Mastering Instagram Live A Guide to Staying Incognito</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-start-gpt-4-for-current-chatgpt-engagements/"><u>Quick Start: GPT-4 for Current ChatGPT Engagements</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/remote-revolution-with-chatgpt-the-ultimate-guide-for-freelancers/"><u>Remote Revolution with ChatGPT: The Ultimate Guide for Freelancers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-cutting-edge-tempo-detection-top-free-tools-unveiled/"><u>[New] 2024 Approved Cutting-Edge Tempo Detection Top Free Tools Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-iphone-photos-upside-down-and-sideways-tricks/"><u>[New] Transforming iPhone Photos Upside-Down & Sideways Tricks</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-gastronomic-globe-trotters-worlds-best-recipes-on-tiktok/"><u>[Updated] 2024 Approved Gastronomic Globe-Trotters World's Best Recipes on TikTok</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-ranked-steadicam-systems-for-drone-cinematography-aficionados/"><u>[Updated] Top-Ranked Steadicam Systems for Drone Cinematography Aficionados</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-live-obs-video-on-instagram/"><u>2024 Approved Live OBS Video on Instagram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/blur-apps-that-work-wonders-on-iphonesandroids-for-2024/"><u>Blur Apps That Work Wonders on iPhones/Androids for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-macbook-pro-and-macbook-air-a-comprehensive-guide-on-picking-the-ideal-apple-laptop/"><u>Choosing Between MacBook Pro and MacBook Air: A Comprehensive Guide on Picking the Ideal Apple Laptop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cost-prohibitive-factors-preventing-new-apple-ai-innovations-on-legacy-iphones-insights/"><u>Cost-Prohibitive Factors Preventing New Apple AI Innovations on Legacy iPhones - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-the-most-out-of-chatgpt-implementing-gpt-4-now/"><u>Get the Most Out of ChatGPT: Implementing GPT-4 Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-pros-the-ultimate-copilot-experience/"><u>GPT-4 Pros: The Ultimate Copilot Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-free-ai-hearing-and-handling-software/"><u>In 2024, Free AI Hearing and Handling Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-xiaomi-14-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Xiaomi 14</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-workflow-on-mac-with-montereys-custom-focus-modes-to-minimize-distractions/"><u>Mastering Workflow on Mac with Monterey's Custom Focus Modes to Minimize Distractions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dawn-of-advanced-displays-what-apples-ipad-pros-tandem-oled-innovation-reveals-about-tomorrows-tablet-screens/"><u>The Dawn of Advanced Displays: What Apple's iPad Pro's Tandem OLED Innovation Reveals About Tomorrow's Tablet Screens</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-widespread-fascination-with-chatbot-interactions/"><u>The Widespread Fascination with Chatbot Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-2-ais-battle-for-chat-supremacy/"><u>Top 2 AIs Battle for Chat Supremacy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-huggingchat-an-accessible-ai-for-conversation-enthusiasts/"><u>Understanding HuggingChat: An Accessible AI for Conversation Enthusiasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-hidden-radios-are-they-lurking-inside-your-mac-and-ipad-find-out-now/"><u>Unveiling Hidden Radios: Are They Lurking Inside Your Mac & iPad? Find Out Now!</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo Y100 | Dr.fone</u></a></li>
 </ul></div>
 

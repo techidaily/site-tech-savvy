@@ -1,7 +1,7 @@
 ---
 title: "Beyond Standard Tokens: Expanding ChatGPT Capabilities"
-date: 2024-09-12T07:39:45.058Z
-updated: 2024-09-13T07:39:45.058Z
+date: 2025-01-03T05:50:55.040Z
+updated: 2025-01-06T06:12:41.010Z
 tags:
   - chatgpt
   - open-ai
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/e6d099750c73059d854ce64a05b1f14144b4ddd8a
 
  Let's take a step back and give you an insight into all there is to know about the app's underlying working mechanisms.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's a ChatGPT Token?
 
  If you go by the app's façade, all you see is a computer language that obeys your commands and gives you the answers you seek. However, the backend is just lots of code, learning every minute, and getting up to speed with the questions it answers.
@@ -41,10 +34,7 @@ thumbnail: https://thmb.techidaily.com/e6d099750c73059d854ce64a05b1f14144b4ddd8a
 ![Comparison operators and boolean logic with cpp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cpp-coding-samples.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Since computers don't understand text values directly, they break them down into a combination of numbers, often called embeddings. You can even consider embeddings like [Python lists](https://www.makeuseof.com/tag/arrays-lists-in-python/), which resemble a list of related numbers, such as \[1.1,2.1,3.1,4.1…n\].
@@ -70,21 +60,26 @@ thumbnail: https://thmb.techidaily.com/e6d099750c73059d854ce64a05b1f14144b4ddd8a
 ![Tokenizer calculation from OpenAI's website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/tokenizer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As per the [OpenAI token calculator](https://platform.openai.com/tokenizer):
 
  A helpful rule of thumb is that one token generally corresponds to \~4 text characters for common English text. This translates to roughly ¾ of a word (100 tokens \~= 75 words).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Free vs. Paid Tokens
 
  To give you a flavor of what's what within the ChatGPT application, OpenAI offers you a free limited token subscription. If you want to experiment with the ChatGPT API, use the free $5 credit, which is valid for three months. Once the limit is exhausted (or the trial period is up), you can pay-as-you-go, which increases the maximum quota to $120\.
 
 ![OpenAI dashboard with credit usage graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/token-dashboard-openai.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ChatGPT Plus: Is the Paid Subscription Worth It?
 
@@ -95,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/e6d099750c73059d854ce64a05b1f14144b4ddd8a
 * First-hand access to new features and releases
 
  If you feel these features are entirely worth it and up your alley, you can enroll for the paid subscription and benefit from them immediately.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Token Pricing Structure
 
@@ -122,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/e6d099750c73059d854ce64a05b1f14144b4ddd8a
 | GPT-4 32k context | $0.06                                | $0.12                                     |
 
  Ada is the fastest, while DaVinci is the most powerful model from this list of models. The prompt is the question, while the completion deals with the answers.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Maximum Token Limits
 
@@ -153,10 +134,7 @@ thumbnail: https://thmb.techidaily.com/e6d099750c73059d854ce64a05b1f14144b4ddd8a
  For example, within the ChatGPT model, the **prompt\_tokens + max\_tokens <= 4096** tokens**.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Learn to Control Your ChatGPT Prompts for Best Results
@@ -184,5 +162,20 @@ thumbnail: https://thmb.techidaily.com/e6d099750c73059d854ce64a05b1f14144b4ddd8a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-encompassing-critique-hero4-black-features/"><u>[New] 2024 Approved Encompassing Critique Hero4 Black Features</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-instagram-stories-integrating-personalized-graphics/"><u>[New] 2024 Approved Mastering Instagram Stories Integrating Personalized Graphics</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-melodic-migration-6-preferred-free-apps-for-moving-youtube-audio-on-android/"><u>[Updated] 2024 Approved Melodic Migration 6 Preferred Free Apps for Moving YouTube Audio on Android</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-newcomers-playbook-for-youtube-success-setup-and-revenue-generation-for-2024/"><u>[Updated] The Newcomer's Playbook for Youtube Success Setup & Revenue Generation for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-optimal-net-vaults-free-unique-ringtone-choices/"><u>2024 Approved Optimal Net Vaults Free, Unique Ringtone Choices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/automattics-strategic-buyout-of-beeper-future-expansion-plans-unveiled/"><u>Automattic's Strategic Buyout of Beeper: Future Expansion Plans Unveiled</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-edge-transitions-for-kinemaster-users/"><u>Cutting Edge Transitions for Kinemaster Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-apples-latest-key-features-and-upgrades-of-the-new-airpods-series-a-comprehveiw-by-zdnet/"><u>Discovering Apple's Latest: Key Features and Upgrades of the New AirPods Series - A Comprehveiw by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/human-interpretation-vs-machine-generated-summary-clarity/"><u>Human Interpretation Vs. Machine-Generated Summary Clarity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-data-analysis-mastery-through-chatgpt-and-excel/"><u>Revolutionize Your Data Analysis: Mastery Through ChatGPT and Excel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-selecting-the-best-cpu-coolers-liquid-and-airflow-varieties/"><u>The Ultimate Guide to Selecting the Best CPU Coolers - Liquid and Airflow Varieties</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-full-power-of-siri-top-secret-iphone-voice-commands-you-need-to-know-exclusive-guide-techadvocate/"><u>Unlocking the Full Power of Siri: Top Secret iPhone Voice Commands You Need to Know [Exclusive Guide] - TechAdvocate</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrading-your-workflow-with-apples-new-macbook-pro-an-in-depth-look-at-m1-vs-m3-performance/"><u>Upgrading Your Workflow with Apple's New MacBook Pro: An In-Depth Look at M1 Vs. M3 Performance</u></a></li>
+</ul></div>
 

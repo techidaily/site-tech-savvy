@@ -1,7 +1,7 @@
 ---
 title: "AI Insights or Astrology: Which Seeks Tomorrow Better?"
-date: 2024-12-22T17:54:27.616Z
-updated: 2024-12-27T22:16:02.931Z
+date: 2024-12-31T01:44:02.522Z
+updated: 2025-01-06T09:16:52.916Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 
 ![Hands Over Fortune Telling Crystal Ball](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hands-over-fortune-telling-crystal-ball.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Fortune-tellers have a particular mystique about them, which you'll instantly recognize from the movies.
 
  There's a darkened tent at the fairground, decks of Tarot cards lying around, star charts hanging from the ropes, spooky magic mirrors, and of course, the obligatory crystal ball. There should also be skulls used as utilitarian yet exotic and disturbing candleholders.
@@ -42,16 +46,12 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 
  Generating this persona was simplicity itself, prompting ChatGPT to "Respond the following as if you are a wise fortune teller."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Choose Your ChatGPT Fortune Telling Questions Wisely
 
 ![Fortune Teller doing a Reading for a Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fortune-teller-doing-a-reading-for-a-client-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another thing we've learned from movies is that knowing the future is a dangerous thing. As a large language model which has already ingested and digested most of the internet, ChatGPT, or Agnes, as she now calls herself, could possibly make reliable predictions of when and how you're going to die. You probably don't want to know, so don't ask.
@@ -60,13 +60,13 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 
  What follows is her prediction and how it played out in real life.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Well Did ChatGPT Predict the Future?
 
 ![A Woman Opening the Card on the Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-woman-opening-the-card-on-the-table.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  My prompt to Agnes was: "Today is June 1st, 2023\. Please do a reading for the next two weeks."
 
@@ -109,11 +109,11 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 ![chatgpt fortune transcript](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-fortune-transcript.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Predicted the Future as Well as Any Magazine Horoscope
@@ -143,24 +143,16 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-3-best-nintendo-switch-emulators-you-can-find/"><u>[New] 2024 Approved Top 3 Best Nintendo Switch Emulators You Can Find</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-iconic-top-tier-virtual-reality-films-for-2024/"><u>[New] Iconic Top-Tier Virtual Reality Films for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-photographers-resource-efficient-online-photo-cropping/"><u>[Updated] 2024 Approved The Photographer's Resource Efficient Online Photo Cropping</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-industry-leaders-top-notch-free-presentation-resources/"><u>[Updated] In 2024, Industry Leaders Top-Notch, Free Presentation Resources</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-why-youtubes-viewer-numbers-matter-more-than-you-think/"><u>[Updated] Why YouTube's Viewer Numbers Matter More Than You Think</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-tecno-spark-20-proplus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Tecno Spark 20 Pro+ to iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ace-the-choice-of-mini-tablets-for-2pertise-verified-comparisons-zdnet-insights/"><u>Ace the Choice of Mini Tablets for 2Pertise-Verified Comparisons | ZDNET Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-latest-innovations-in-apples-airpods-series-unveiling-4-key-upgrade-features-now-available/"><u>Discover the Latest Innovations in Apple’s AirPods Series – Unveiling 4 Key Upgrade Features Now Available</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experiencing-the-apple-studio-display-a-stylish-yet-costly-choice-for-professionals-using-mac-insights-from-zdnet/"><u>Experiencing the Apple Studio Display: A Stylish Yet Costly Choice for Professionals Using Mac - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-gpt-breaks-necessity-and-risks/"><u>Exploring GPT Breaks: Necessity and Risks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immersive-worlds-shaping-future-cinematic-experiences-for-2024/"><u>Immersive Worlds Shaping Future Cinematic Experiences for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/keep-it-cool-and-connected-unveiling-the-ultimate-3-in-1-magsafe-docking-solution-for-all-your-apple-devices-tech-insights/"><u>Keep It Cool & Connected: Unveiling The Ultimate 3-in-1 MagSafe Docking Solution for All Your Apple Devices | Tech Insights</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210324529-9781647467852-living-without-skin/"><u>Living Without Skin | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/score-big-savings-on-apples-latest-ipad-just-199-dollars-this-labor-day-on-amazon-now-with-zdnet-insider-info/"><u>Score Big Savings on Apple's Latest iPad – Just 199 Dollars This Labor Day on Amazon, Now with ZDNet Insider Info!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplifying-communication-chatgpt-and-siri-on-your-iphone/"><u>Simplifying Communication: ChatGPT & Siri on Your iPhone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/speak-now-ask-anyth-market-research-expert-on-how-businesses-can-use-chatbots-in-customer-service-to-enhance-brand-experience-and-reduce-costs/"><u>Speak Now, Ask Anyth Market Research Expert on How Businesses Can Use Chatbots in Customer Service to Enhance Brand Experience and Reduce Costs.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-vexing-visualization-distinguishing-genuine-ai-representations/"><u>The Vexing Visualization: Distinguishing Genuine AI Representations</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-razer-microphone-without-breaking-a-sweat-effortless-tips-and-tricks/"><u>Troubleshoot Your Razer Microphone Without Breaking a Sweat: Effortless Tips and Tricks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-get-filmora-13-video-editor-free-download/"><u>Updated 2024 Approved Get Filmora 13 Video Editor Free Download</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-collecting-classics-copyrights-released/"><u>[Updated] In 2024, Collecting Classics Copyrights Released</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-key-elements-in-achieving-proficient-interview-performance/"><u>[Updated] The Key Elements in Achieving Proficient Interview Performance</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-guide-to-initiating-and-archiving-webinars-economically/"><u>2024 Approved Guide to Initiating and Archiving Webinars Economically</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-oneplus-nord-3-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From OnePlus Nord 3 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-apple-iphone-8-plus-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From Apple iPhone 8 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://win-dash.techidaily.com/optimizing-cell-size-adjustment-techniques-for-optimal-text-display-in-ms-excel/"><u>Optimizing Cell Size Adjustment Techniques for Optimal Text Display in MS Excel</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-non-responsive-laptop-mousepad-problems-across-multiple-windows-versions/"><u>Resolve Non-Responsive Laptop Mousepad Problems Across Multiple Windows Versions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shielding-integrity-openai-launches-gpt-fraud-detector/"><u>Shielding Integrity: OpenAI Launches GPT Fraud Detector</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/super-bowl-season-showdown-how-apples-innovative-ad-tops-football-broadcast-commercials-exclusive-report/"><u>Super Bowl Season Showdown: How Apple’s Innovative Ad Tops Football Broadcast Commercials Exclusive Report</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essential-list-top-7-ai-for-enhanced-talks/"><u>The Essential List: Top 7 AI for Enhanced Talks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-promotions-in-july-2024-exclusive-insights/"><u>Top-Rated iPhone Promotions in July 2024 - Exclusive Insights</u></a></li>
 </ul></div>
 

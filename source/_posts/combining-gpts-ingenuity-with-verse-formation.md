@@ -1,7 +1,7 @@
 ---
 title: Combining GPT's Ingenuity with Verse Formation
-date: 2024-09-12T07:41:50.032Z
-updated: 2024-09-13T07:41:50.032Z
+date: 2024-12-29T20:16:48.138Z
+updated: 2025-01-06T09:22:16.200Z
 tags:
   - chatgpt
   - open-ai
@@ -25,19 +25,6 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 
  Keep reading to learn how to use ChatGPT to help you write poetry—whether it’s as a collaboration or as a guide.
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Collaborative Writing With ChatGPT
 
  Collaborative writing is considered to be group writing done between two or more people—in this context, let’s say two or more forms of intelligence.
@@ -48,56 +35,30 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 
 ![ChatGPT poetry brainstorming session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-brainstorming.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can go into brainstorming with AI with no idea of what to write about or with a topic in mind. This process is all about considering ways to create the best piece of poetry.
 
  If you are starting with no idea in mind, simply ask ChatGPT to brainstorm themes to write a poem. It’ll give you a list of subjects to review, and you both can take the idea from there.
 
  If you have a topic in mind but want to find some inspiration for how to convey it, let ChatGPT know what theme you’re considering, and it’ll give you some choices for a direction to take your poem in.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Realize Structure and Form
 
 ![ChatGPT poetry structure and form decision](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-structure.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Writing a poem with ChatGPT can be advantageous for a few reasons—one being that it can choose the structure and form of the poem for you. This includes the type of poem, like a sonnet or an ode, and the rhyme scheme.
 
  After you know the topic of your poem, ask ChatGPT what kind of structure and form should be written about the theme. It’ll give you an option and ask if you want to continue. If it chooses a format you’re not interested in, just ask for something different.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Co-Create Word Choice and Imagery
 
 ![ChatGPT poetry wording corrections](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-wording.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There’s a chance that ChatGPT may come up with the perfect poem on the first try. However, chances are with your guidance, it could be better. There may be some word choices that don’t quite harmonize with the poem or maybe the imagery isn’t quite hitting the mark.
@@ -107,49 +68,28 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
  But don’t forget, you always have the option of coming up with your diction and telling ChatGPT to change its wording to yours.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Add Engaging Poetic Devices
 
 ![ChatGPT creating a haiku about napping](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-poetic-device.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Poetic devices help to enrich the meaning of a poem, and sometimes make it a more entertaining experience for the writer and the reader. There are many to choose from such as personification, alliteration, metaphors, similes, and paradoxes.
 
  When creating your poem with ChatGPT, ask it to include which poetic devices you want. If you’re not sure which one to go for, you can simply ask ChatGPT to pick one for you.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Use ChatGPT to Proofread and Refine
 
 ![ChatGPT proofreading and refining a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-proofreading.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [ChatGPT makes for a good proofreader](https://www.makeuseof.com/can-chatgpt-be-used-as-proofreader/) and editor for all your creative writing, poetry included. Even if you’re working with the AI throughout the whole writing process, it’s still a good idea to have it check for any errors. It may also be able to find a way to make the poem sound better.
 
@@ -168,10 +108,7 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
  ChatGPT’s poetry prompts are especially effective when you’re stuck with massive writer’s block and aren’t sure how to proceed in your craft.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Ask for Advice
@@ -181,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
  Treat ChatGPT like a friend about to read your latest piece of creative writing. You’re open to advice, but every comment and criticism isn’t going to make it to the final draft.
 
  If you have a poem drafted or even just a few lines, you can ask the AI if it has any advice to make it better. Take the suggestions lightly and apply the ones you feel will help your piece of writing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Welcome Research and References
 
@@ -204,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 
  Though ChatGPT can be a great resource, [you shouldn’t blindly trust everything AI produces](https://www.makeuseof.com/reasons-you-shouldnt-trust-artificial-intelligence/). In terms of creating poetry, here are a couple of things to look out for.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Robots Make Terrible Poets
 
  Let’s be honest, ChatGPT can’t be the next John Keats or Robert Frost. AI is not capable of expressing human emotion and understanding individual experiences.
@@ -224,16 +158,7 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
  When in doubt, look up the information yourself to determine if it’s correct or not.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Write Your Next Poem Using ChatGPT
@@ -261,5 +186,20 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-laughter-layouts-design-meme-magic-on-kapwing/"><u>[New] Laughter Layouts Design Meme Magic on Kapwing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-crafting-stunning-insta-films-templates-plus-hacks/"><u>[Updated] In 2024, Crafting Stunning Insta Films Templates + Hacks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-speedsters-top-windows-photos-viewer/"><u>[Updated] Speedster's Top Windows Photos Viewer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beginners-blueprint-for-financial-gain-in-periscope/"><u>2024 Approved Beginner's Blueprint for Financial Gain in Periscope</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-optimal-tools-to-convert-and-tweet-videos/"><u>2024 Approved Optimal Tools to Convert and Tweet Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-latest-camera-upgrade-the-innovative-camera-button-on-iphone-16-models-explained/"><u>Discover the Latest Camera Upgrade: The Innovative Camera Button on iPhone 16 Models Explained!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diy-mastery-meets-machine-learning-the-next-chapter/"><u>DIY Mastery Meets Machine Learning: The Next Chapter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-the-apple-studio-display-an-exquisite-expensive-choice-for-the-dedicated-mac-creators-workspace-insights-from-zdnet/"><u>Evaluating the Apple Studio Display: An Exquisite, Expensive Choice for the Dedicated Mac Creator's Workspace - Insights From ZDNet</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-se-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone SE to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-serenity-in-chaos/"><u>Leveraging AI for Serenity in Chaos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reviving-visionpro-three-crucial-steps-for-apples-success-techinsights/"><u>Reviving VisionPro: Three Crucial Steps for Apple's Success | TechInsights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-vrvirtual-reality-apps-for-iphoneandroid/"><u>Top 10 VR/Virtual Reality Apps for iPhone/Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncover-the-best-alternative-to-apple-and-tile-wallet-trackers-in-depth-tests-and-reviews/"><u>Uncover the Best Alternative to Apple and Tile Wallet Trackers - In-Depth Tests & Reviews</u></a></li>
+</ul></div>
 

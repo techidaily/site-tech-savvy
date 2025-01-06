@@ -1,7 +1,7 @@
 ---
 title: Not a Substitute for Professional Medical Guidance, AI
-date: 2024-12-23T19:15:32.895Z
-updated: 2024-12-27T16:27:32.510Z
+date: 2025-01-05T04:28:03.736Z
+updated: 2025-01-06T09:00:44.717Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. ChatGPT Has Limited Knowledge
 
 ![Pig-to-heart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pig-to-heart.jpg)
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
  ChatGPT does not have direct access to search engines or the internet. It was trained using a vast amount of text data from numerous sources, including books, websites, and other texts. It does not "know" the data it is delivering. Instead, ChatGPT uses text it has read to create predictions about the words to use and in what order.
 
  Therefore, it cannot get current news on developments in medical fields. Yes, ChatGPT is unaware of the pig-to-human heart transplant or any other very recent breakthroughs in medical science.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. ChatGPT May Produce Incorrect Information
 
@@ -56,16 +56,12 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 
  ChatGPT cannot perform a complete virtual checkup or even a physical examination; it can only reply to the symptoms you provide as messages. For a patient's safety and care, errors in physical examination—or completely ignoring physical examination—can be harmful. Because ChatGPT didn't physically examine you, it will offer an incorrect diagnosis.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. ChatGPT Can Provide False Information
 
 ![ChatGPT False Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-false-response.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A recent study by the [University of Maryland School of Medicine](https://www.medschool.umaryland.edu/news/2023/UM-School-of-Medicine-Study-Finds-ChatGPT-Helpful-for-Breast-Cancer-Screening-Advice-With-Certain-Caveats-.html) on ChatGPT's advice for breast cancer screening found the following results:
@@ -76,18 +72,22 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 
  When we inquired about the book, it replied that it was a "hypothetical" book that it created. ChatGPT won't tell you if a journal article or book is false if you don't inquire further.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. ChatGPT Is Just an AI Language Model
 
 ![ChatGPT Medical](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-medical.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Language models function by memorizing and generalizing text rather than examining or studying a patient's condition. Despite generating responses that match human standards in terms of language and grammar, [ChatGPT still contains a number of problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), much like other AI bots.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Not a Replacement for Your Doctor
@@ -117,24 +117,22 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-stepwise-strategies-for-measuring-yt-success-metrics-and-revenue/"><u>[New] 2024 Approved Stepwise Strategies for Measuring YT Success Metrics and Revenue</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ow-much-money-do-youtubers-make-per-view/"><u>[New] How Much Money Do YouTubers Make Per View</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2022s-most-durable-iphone-se-skins-and-covers-enhance-your-phones-safety-zdnet/"><u>2022'S Most Durable iPhone SE Skins and Covers: Enhance Your Phone’s Safety | ZDNet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210002081-9781609252168-about-peace/"><u>About Peace | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augmenting-artistry-6-gpt-powered-creative-conceptions/"><u>Augmenting Artistry: 6 GPT-Powered Creative Conceptions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/creative-freedom-vs-tech-titans-sarah-silverman-and-co-challenge-openaimeta/"><u>Creative Freedom Vs. Tech Titans: Sarah Silverman and Co. Challenge OpenAI/Meta</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/everyones-gain-from-updated-chatgpt-data/"><u>Everyone's Gain From Updated ChatGPT Data</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-unmatched-reliability-dbpowers-1800-grove-charger-600a-peak-review/"><u>Experience Unmatched Reliability: DBPOWER's 18,00 Grove Charger (600A Peak) Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/from-compatibility-to-cooling-the-essential-guide-to-choosing-your-motherboard-wisely/"><u>From Compatibility to Cooling: The Essential Guide to Choosing Your Motherboard Wisely</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-finding-the-right-sound-for-movie-previews/"><u>In 2024, Finding the Right Sound for Movie Previews</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-art-of-the-end-scene-tutorials-and-templates-for-youtube/"><u>In 2024, The Art of the End Scene Tutorials & Templates for YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/in-depth-guide-for-downloading-and-setting-up-llama-2/"><u>In-Depth Guide for Downloading & Setting up Llama 2</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/pc-gaming-fixes-how-to-address-crashing-relink-features-in-granblue-fantasy/"><u>PC Gaming Fixes: How to Address Crashing ReLink Features in Granblue Fantasy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pixel-vs-apple-comparing-the-latest-smartwatches-choosing-between-a-pixel-watch-and-an-apple-watch-series-8/"><u>Pixel Vs. Apple: Comparing the Latest Smartwatches - Choosing Between a Pixel Watch and an Apple Watch Series 8</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-browsing-ai-in-microsofts-bing/"><u>Revolutionizing Browsing: AI in Microsoft's Bing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synthetic-sentience-showdown-advanced-gemini-vs-gptplusplus/"><u>Synthetic Sentience Showdown: Advanced Gemini Vs GPT++</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-benefits-of-switching-to-iphone-15-youre-not-experienncing-yet-uncovered/"><u>The Benefits of Switching to iPhone 15 You're Not Experienncing Yet Uncovered</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-itel-p55-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Itel P55 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/winx-dvd-ripper-pro-for-windows-11-fast-and-easy-free-converter-from-dvd-to-mp4/"><u>WinX DVD Ripper Pro for Windows 11 - Fast & Easy Free Converter From DVD to MP4</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-inaugural-recording-evaluation-guide/"><u>[Updated] 2024 Approved Inaugural Recording Evaluation Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fbs-frontier-making-and-sending-immersive-360-videos-for-2024/"><u>[Updated] FB's Frontier Making and Sending Immersive 360 Videos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-shine-through-the-game-fixes-for-dark-capture-by-obs/"><u>[Updated] In 2024, Shine Through the Game Fixes for Dark Capture by OBS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-art-of-testimonials-techniques-for-persuasive-video-credibility/"><u>2024 Approved The Art of Testimonials Techniques for Persuasive Video Credibility</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unite-chords-and-visuals-on-powerpoint/"><u>2024 Approved Unite Chords and Visuals on PowerPoint</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-insights-or-astrology-which-seeks-tomorrow-better/"><u>AI Insights or Astrology: Which Seeks Tomorrow Better?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-missteps-in-chat-with-gpt-technology/"><u>Avoiding Missteps in Chat with GPT Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-a-well-balanced-plate-aided-by-gpt/"><u>Building a Well-Balanced Plate Aided by GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-how-the-apple-watch-ultra-2-became-my-ideal-smartwatch-companion-plus-enjoy-a-100-labor-day-discount/"><u>Discover How the Apple Watch Ultra 2 Became My Ideal Smartwatch Companion - Plus, Enjoy a $100 Labor Day Discount!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/dive-into-freeware-for-precise-music-tempo-tracking/"><u>Dive Into Freeware for Precise Music Tempo Tracking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ultra-thin-tech-a-visit-to-the-apple-store-for-the-slimmest-ipad-models-008-thick-unpacking-the-impact-on-user-experience-zdnet/"><u>Exploring Ultra-Thin Tech: A Visit to the Apple Store for the Slimmest iPad Models (0.08 Thick) - Unpacking the Impact on User Experience | ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-cutting-edge-tips-for-professional-youtube-content-creation/"><u>In 2024, Cutting-Edge Tips for Professional YouTube Content Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-innovation-landscape-samsung-ascends-with-galaxy-ai-while-google-grapples-with-legal-hurdles-zdnet-analysis/"><u>Navigating the Innovation Landscape: Samsung Ascends with Galaxy AI While Google Grapples With Legal Hurdles | ZDNet Analysis</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/odins-children-ragnaroks-reign-for-2024/"><u>Odin’s Children Ragnarok’s Reign for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-youth-in-digital-dialogues-5-safe-chatgpt-strategies/"><u>Protecting Youth in Digital Dialogues: 5 Safe ChatGPT Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-the-fun-discover-these-best-chatgpt-games-today/"><u>Unleash the Fun! Discover These Best ChatGPT Games Today</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updated-canon-lbp6030-series-printer-drivers-for-windows-compatible-with-1087/"><u>Updated Canon LBP6030 Series Printer Drivers for Windows: Compatible with 10/8/7</u></a></li>
 </ul></div>
 

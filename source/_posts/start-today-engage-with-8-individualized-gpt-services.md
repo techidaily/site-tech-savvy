@@ -1,7 +1,7 @@
 ---
 title: "Start Today: Engage with 8 Individualized GPT Services"
-date: 2024-12-25T19:57:39.376Z
-updated: 2024-12-27T16:51:44.150Z
+date: 2024-12-31T04:31:29.219Z
+updated: 2025-01-06T08:27:49.209Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/17e9bdf0ca4901af161680238bb761b46415b8f3d
 
  Here's a guide on [how to create your first custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/) if you're not sure how to.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Translation Tool
 
 ![Screenshot of Custom GPT called Pidgin Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pidgin-hero-description-card.jpg)
@@ -52,20 +56,20 @@ thumbnail: https://thmb.techidaily.com/17e9bdf0ca4901af161680238bb761b46415b8f3d
 
 **Try this GPT:**[Pidgin Hero](https://chat.openai.com/g/g-CcgN0HIuC-pidgin-hero).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Programming Project Assistant
 
 ![Custom chatgpt screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It is no news that [ChatGPT can write code](https://www.makeuseof.com/chatgpt-programming-practical-uses/). It could write code since the days of GPT-3.5 and has improved significantly with the arrival of GPT-4 and the GPT-4 Turbo. However, although the chatbot is quite adept at solving programming problems, it doesn't perform particularly well within the context of a single project since it has a limited context window and cannot soak up all the details of a project to provide a context-specific solution.
 
  You can deploy custom GPTs to solve this problem. Simply prompt the chatbot to create a specialized GPT that focuses on the programming languages used in your project, then upload your entire project files, including a detailed description of what you're trying to build. Whenever you run into a problem with the project, prompt the GPTs, and you'll get a much more precise and relevant solution than you'd get from your regular ChatGPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Personal Movie Recommender
@@ -73,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/17e9bdf0ca4901af161680238bb761b46415b8f3d
 ![movie recommender Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/movie-recommender-custom-gpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Let's be honest, Netflix can be horrible at suggesting what to watch next. I asked classic ChatGPT to recommend some historical Korean TV shows. I wanted shows with themes of power, royalty, heroism, and war. The result was a mixed bag. Some options were strong, while others seemed randomly selected based on popularity rather than relevance.
@@ -101,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/17e9bdf0ca4901af161680238bb761b46415b8f3d
 ![Custom GPT for Abstract math tutoring](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-abstract-math-tutoring.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Custom GPT models offer exciting new ways to accelerate learning and preparation, whether you're a student prepping for exams, a professional gearing up for interviews, or anyone looking to upskill rapidly. Leveraging GPT-4's vast context window, you can create specialized GPTs that serve as expert tutors on specific subjects. Feed them textbooks, course materials, flashcards, and other learning resources from the field you want to master.
@@ -111,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/17e9bdf0ca4901af161680238bb761b46415b8f3d
  The same approach applies across academic and professional domains, from computer science to anything you can think of. Custom GPTs digest vast knowledge banks and personalize learning faster than individual study ever could. With the right training data, they become virtual masters of the material to accelerate your comprehension and skills. I created a GPT to brush up on my math skills based on my class notes. How good is it? You can see it for yourself.
 
 **Try this GPT**: [Abstract Math Genius](https://chat.openai.com/g/g-wFmBbvdm0-abstract-math-genius).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Niche Tools for Work
 
@@ -155,24 +155,20 @@ thumbnail: https://thmb.techidaily.com/17e9bdf0ca4901af161680238bb761b46415b8f3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-transform-canon-photos-gratuitous-fundamentals-plus-optional-lut-expansion/"><u>[New] 2024 Approved Transform Canon Photos Gratuitous Fundamentals + Optional LUT Expansion</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-noise-free-conversations-achievable-with-voicemod-on-discord-platforms/"><u>[New] In 2024, Noise-Free Conversations Achievable with VoiceMod on Discord Platforms</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-unlock-the-magic-of-custom-snaps-and-effortless-lenses/"><u>[Updated] 2024 Approved Unlock the Magic of Custom Snaps & Effortless Lenses</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-expedite-youtube-video-submission-rapid-rendering-secrets-for-2024/"><u>[Updated] Expedite YouTube Video Submission Rapid Rendering Secrets for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-time-lapse-video-techniques-for-ipad-users/"><u>[Updated] In 2024, Time-Lapse Video Techniques for iPad Users</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-perfect-wave-linker-the-podcastists-choice/"><u>[Updated] Perfect Wave Linker The Podcastist's Choice</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-development-constrained-governments-4-regulatory-strategies/"><u>AI Development Constrained: Governments' 4 Regulatory Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-powered-creation-the-new-era-of-digital-storytelling/"><u>AI-Powered Creation: The New Era of Digital Storytelling</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-srt-conversion-uncover-top-8-online-options-for-2024/"><u>Free SRT Conversion Uncover Top 8 Online Options for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-webp-to-jpgpng-a-guide-for-dall-e-outputs/"><u>From WebP to JPG/PNG: A Guide for DALL-E Outputs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/high-tech-titans-discussing-tomorrows-ai/"><u>High-Tech Titans Discussing Tomorrow's AI</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-parody-basics-tips-for-entertaining-mocks/"><u>In 2024, Parody Basics Tips for Entertaining Mocks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-strategy-for-professional-gopro-filming/"><u>In 2024, The Ultimate Strategy for Professional Gopro Filming</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/invest-in-ai-excellence-heres-why-you-upgrade-to-chatgptplus/"><u>Invest in AI Excellence – Here's Why You Upgrade to ChatGPT+</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/next-weeks-iphone-owners-meet-the-must-have-anker-charging-accessories-zdnet/"><u>Next Week's iPhone Owners, Meet the Must-Have Anker Charging Accessories! | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scripted-escapades-your-path-to-interactive-storytelling/"><u>Scripted Escapades: Your Path to Interactive Storytelling</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/securing-your-gaming-legacy-through-fbx-capture-systems-for-2024/"><u>Securing Your Gaming Legacy Through FBX Capture Systems for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/taking-control-of-your-digital-chatgpt-exchange/"><u>Taking Control of Your Digital ChatGPT Exchange</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-ideas-into-poetry-books-via-chatgpt/"><u>Transforming Ideas Into Poetry Books via ChatGPT</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unmatched-hdds-for-enhanced-xbox-experience/"><u>[Updated] 2024 Approved Unmatched HDDs for Enhanced Xbox Experience</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-audience-engagement-trends-to-master-on-instagram/"><u>[Updated] In 2024, Audience Engagement Trends to Master on Instagram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-smilesketcher-turn-your-ideas-into-memes-and-graphics/"><u>2024 Approved SmileSketcher Turn Your Ideas Into Memes & Graphics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-innovative-goggles-spark-wonder-an-insightful-look-at-future-wearables-unveiled-on-zdnet/"><u>Apple's Innovative Goggles Spark Wonder: An Insightful Look at Future Wearables | Unveiled on ZDNET</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/boost-your-pcs-creativity-with-top-tier-localized-ai-art-tools/"><u>Boost Your PC's Creativity with Top-Tier Localized AI Art Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-the-iphones-iphone-14-pro-and-pro-max-showdown-find-your-best-fit/"><u>Choosing Between the iPhones: IPhone 14 Pro and Pro Max Showdown – Find Your Best Fit!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deep-insight-what-lies-beneath-truthgpt/"><u>Deep Insight: What Lies Beneath TruthGPT?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/electric-vs-gasoline-understanding-why-evs-take-the-lead-on-performance/"><u>Electric Vs. Gasoline: Understanding Why EVs Take The Lead on Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/freelancing-powered-by-ai-6-ways-to-master-chatgpt-tools/"><u>Freelancing Powered by AI: 6 Ways to Master ChatGPT Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-lava-blaze-2-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Lava Blaze 2 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-air-5-vs-ipad-air-4-is-the-latest-upgrade-worth-your-investment/"><u>IPad Air 5 vs iPad Air 4: Is the Latest Upgrade Worth Your Investment?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-verdict-on-the-2022-nacon-revolution-pro-game-pad-by-zdnets-tech-team/"><u>The Ultimate Verdict on the 2022 Nacon Revolution Pro Game Pad by ZDNet's Tech Team</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-wireless-power-banks-of-2024-comprehensive-review-by-tech-gurus/"><u>Top-Rated Wireless Power Banks of 2024 - Comprehensive Review by Tech Gurus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-reality-experience-marvel-universe-live-through-apple-vision-pro-on-may-30th-explore-with-zdnet/"><u>Transform Your Reality: Experience Marvel Universe Live Through Apple Vision Pro on May 30Th | Explore with ZDNET</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-start-a-private-live-stream-on-youtube/"><u>Updated In 2024, How To Start a Private Live Stream on YouTube</u></a></li>
 </ul></div>
 

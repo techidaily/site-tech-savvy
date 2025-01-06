@@ -1,7 +1,7 @@
 ---
 title: "Assessing the Delay: ChatGPT-4 Versus Fast GPT-3.5"
-date: 2024-12-25T19:28:28.662Z
-updated: 2024-12-27T21:44:20.655Z
+date: 2025-01-04T10:07:29.176Z
+updated: 2025-01-05T17:27:33.082Z
 tags:
   - chatgpt
   - open-ai
@@ -28,16 +28,12 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is ChatGPT-4?
 
 ![chatgpt welcome page open on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gpt-laptop-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT-4 is the newest model of [OpenAI's chatbot, known generally as ChatGPT](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/). ChatGPT is powered by artificial intelligence, allowing it to answer your questions and prompts far better than previous chatbots. ChatGPT uses a large language model powered by a GPT (Generative Pre-trained Transformer) to provide information and content to users while also being able to converse.
@@ -52,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 
  However, GPT-4 is by no means perfect. In fact, GPT-4's lengthy response times are causing quite a stir. So let's look into this issue and why it may be happening.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ChatGPT-4 Is Slow
 
 ![loading text and bar symbol on black exterior wall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/black-wall-loading.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Many noticed upon the release of GPT-4 that OpenAI's new chatbot was incredibly slow. This left scores of users frustrated, as GPT-4 was meant to be a step up from GPT-3.5, not backward. As a result, GPT-4 users have been taking to online platforms, such as Reddit and OpenAI's community board, to discuss the issue.
 
@@ -73,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
  So why, exactly, is this happening? Is there something wrong with GPT-4?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Is GPT-4 Slow Compared to GPT-3.5?
@@ -94,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 
 ![digital graphic of openai logo on glass tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-ai-logo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  So, with these issues in mind, should you use [GPT-3.5 or GPT-4](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/)?
 
  At the time of writing, it seems GPT-3.5 is the snappier option over GPT-4\. So many users have experienced delays that it's likely the time issue is present across the board, not just with a few individuals. So, if ChatGPT-3.5 is currently meeting all your expectations, and you don't want to wait around for a response in exchange for extra features, it may be wise to stick to this version for now.
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
  Over time, GPT-4's delays may be lessened or entirely resolved, so patience could be a virtue here. Whether you try switching to GPT-4 now or wait a little longer to see how things play out with this version, you can still get a lot out of OpenAI's nifty little chatbot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-4 Is More Advanced but Comes With a Lag
@@ -129,15 +129,18 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-streaming-success-secrets-unveiling-monetization-on-dm-and-yo/"><u>[New] In 2024, Streaming Success Secrets Unveiling Monetization on Dm & Yo</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-kinemaster-tutorial-seamless-integration-of-green-screen-techniques/"><u>[Updated] Kinemaster Tutorial Seamless Integration of Green Screen Techniques</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-videorecording-mastery-with-screencapture-x/"><u>[Updated] VideoRecording Mastery with ScreenCapture X</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-value-capture-affordable-cam-options/"><u>2024 Approved Value Capture Affordable Cam Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-rechargeable-tracking-devices-for-your-essentials-top-apple-airtag-substitutes-reviewed-by-zdnet/"><u>Best Rechargeable Tracking Devices for Your Essentials: Top Apple AirTag Substitutes Reviewed by ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-safety-of-user-conversations/"><u>ChatGPT: Safety of User Conversations</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722964960357-enhance-gaming-experience-with-corsair-icue-windows-11-and-nt-free-downloads-available-now/"><u>Enhance Gaming Experience with Corsair iCUE: Windows 11 and nT - FREE Downloads Available Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-gpt-mentions-to-call-out-custom-gpts-in-any-chatgpt-conversation/"><u>How to Use GPT Mentions to Call Out Custom GPTs in Any ChatGPT Conversation</u></a></li>
-<li><a href="https://games-able.techidaily.com/shop-now-and-save-big-exclusive-offer-on-85-inch-tcl-tv-up-to-25-off-ending-labor-day-zdnet-shops/"><u>Shop Now and Save Big – Exclusive Offer on 85-Inch TCL TV, Up to 25% Off Ending Labor Day | ZDNET Shops.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-4-essential-ai-capabilities-ios-must-embrace-to-match-androids-advancements-insights/"><u>Top 4 Essential AI Capabilities iOS Must Embrace to Match Android's Advancements: Insights</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-superior-scrutinizer-of-top-8-rankings-tracker/"><u>[Updated] 2024 Approved Superior Scrutinizer of Top 8 Rankings Tracker</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-crafting-memes-perfecting-social-media-videos-on-fb-and-insta/"><u>[Updated] Crafting Memes Perfecting Social Media Videos on FB & Insta</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-experts-choice-aspertronics-for-phones-for-2024/"><u>[Updated] Expert's Choice Aspertronics For Phones for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-balancing-consistency-and-quality-a-key-to-increasing-youtube-viewership/"><u>2024 Approved Balancing Consistency & Quality A Key to Increasing YouTube Viewership</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-fixes-for-when-physxloaderdll-cant-be-found-on-your-computer/"><u>Comprehensive Fixes for When PhysXLoader.dll Can't Be Found on Your Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-attraction-to-gpt-for-malicious-purposes/"><u>Exploring the Attraction to GPT for Malicious Purposes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/find-the-most-amazing-iphone-discounts-in-july-2024-insider-info-by-zdnet/"><u>Find the Most Amazing iPhone Discounts in July 2024 - Insider Info by ZDNet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-social-media-self-proofing-deciphering-ig-identity/"><u>In 2024, Social Media Self-Proofing Deciphering IG Identity</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/mastering-the-fix-unveiling-your-samsung-t7-when-its-missing-from-windows-11-8-proven-strategies-and-one-insider-trick/"><u>Mastering The Fix: Unveiling Your Samsung T7 When It's Missing From Windows 11 (8 Proven Strategies & One Insider Trick)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preventing-gpt-from-logging-and-saving-your-conversations/"><u>Preventing GPT From Logging and Saving Your Conversations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-comprehensive-evaluations-of-computer-hardware/"><u>Tom's Tech Review: Comprehensive Evaluations of Computer Hardware</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-infinix-smart-7-hd-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Infinix Smart 7 HD Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-releases-in-depth-analysis-and-comparisons-by-tech-experts-zdnet/"><u>Top-Rated iPhone Releases : In-Depth Analysis & Comparisons by Tech Experts | ZDNet</u></a></li>
 </ul></div>
 

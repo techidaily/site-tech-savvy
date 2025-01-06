@@ -1,7 +1,7 @@
 ---
 title: "Perfect Pensmanship: ChatGPT for Academic Notes"
-date: 2024-12-23T20:33:16.656Z
-updated: 2024-12-27T16:36:17.412Z
+date: 2025-01-03T07:03:11.764Z
+updated: 2025-01-06T10:33:56.736Z
 tags:
   - chatgpt
   - open-ai
@@ -28,15 +28,15 @@ thumbnail: https://thmb.techidaily.com/7258b8f35a232c1cea7c283f6887f95e75da539c9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use ChatGPT for Note-Taking
 
  Undoubtedly, traditional note-taking is still good, but what if you take a more futuristic approach by using AI for note-taking?
 
  By now, you may have heard of ChatGPT due to the buzz it has created in the artificial intelligence (AI) industry. There are [many things to do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/); for this article, we'll stick to using it for systematic note-taking.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1\. Create a Prompt for Your Topic
 
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/7258b8f35a232c1cea7c283f6887f95e75da539c9
  For example, if your topic for note-taking is **Income Tax Law**, a basic prompt could be, "**Please provide an in-depth overview of Income Tax Law, the main provisions, and kinds of taxes.**"
 
 ![A Basic Prompt Example In ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-basic-prompt-example.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As you can see above, ChatGPT provided us with a complex paragraph. However, it might not be the most systematic and reader-friendly format for note-taking. After all, if we all wanted a wall of text, we could use Google, right? So, to get the best possible output, you must improve the prompt for your needs.
 
@@ -85,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/7258b8f35a232c1cea7c283f6887f95e75da539c9
  For this guide, we're using the free version of ChatGPT. If you have the Plus subscription, you might find the WebPilot or Metaphor Search plugins to be useful.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3\. Review and Refine the Generated Notes
@@ -98,21 +94,17 @@ thumbnail: https://thmb.techidaily.com/7258b8f35a232c1cea7c283f6887f95e75da539c9
 
 ![Re-Prompting In ChatGPT Example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/re-prompting-in-chatgpt-example.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Prompting is indeed a skill, and if you want to master it, read our [prompt crafting guide for beginners](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) once. Once you master prompting, you can quickly improve your notes. For example, you can prompt ChatGPT to include bucket brigades, more examples, and context-based questions in your notes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 4\. Format the Notes in a Note-Taking App
 
  Once satisfied with the output, click the **copy** button and paste the copied output into your preferred note-taking app. This can vary from Microsoft OneNote to Google Keep. To help you better, we've shared our views on some [useful note-taking apps for different platforms](https://www.makeuseof.com/note-taking-apps-link-ideas-together/).
 
 ![ChatGPT Copy Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-copy-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you've transferred the notes into your note-taking app, it's entirely up to you how you choose to present them. Also, you can check some of the [most effective strategies to master note-taking quickly](https://www.makeuseof.com/use-good-note-taking-strategies-to-take-faster-notes/).
 
@@ -122,12 +114,16 @@ thumbnail: https://thmb.techidaily.com/7258b8f35a232c1cea7c283f6887f95e75da539c9
 
  So you have the notes ready, but now what? Do you want to improve them and make them easy to remember? Here are two ways by which you can improve your notes when using ChatGPT:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Layered Note-Taking Method
 
 ![Obsidian Notes Using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-notes-using-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Layered note-taking is a great way to organize and structure your notes. With this method, you create different layers or levels of information, starting with the most critical points at the top and adding more detailed information as you go down.
@@ -141,6 +137,10 @@ thumbnail: https://thmb.techidaily.com/7258b8f35a232c1cea7c283f6887f95e75da539c9
  The question-and-answer method is another effective way to enrich your notes. This method involves creating questions based on your notes and then using ChatGPT to answer them. This makes your notes more interactive and deepens your understanding of the material.
 
  For this, our prompt already includes a condition. Here's a tip: While using ChatGPT, you can use **CONDITIONS** to emphasize things you don't want ChatGPT to miss.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tips on Using ChatGPT for Note-Taking
 
@@ -177,22 +177,21 @@ thumbnail: https://thmb.techidaily.com/7258b8f35a232c1cea7c283f6887f95e75da539c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-free-windows-programs-expertly-record-live-shows-for-2024/"><u>[New] Free Windows Programs Expertly Record Live Shows for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-secrets-unlocked-becoming-a-leader-in-online-social-media-live-events/"><u>[New] Secrets Unlocked Becoming a Leader in Online Social Media Live Events</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-twitters-reaction-reel-a-comprehensive-guide-for-23-for-2024/"><u>[New] Twitter's Reaction Reel A Comprehensive Guide for '23 for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-image-magic-harnessing-the-potential-of-gpt-4-and-dall-e/"><u>AI Image Magic: Harnessing the Potential of GPT-4 & DALL-E</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-your-iphones-capabilities-mastery-of-secret-voice-controls-as-revealed-by-zdnet/"><u>Boost Your iPhone's Capabilities: Mastery of Secret Voice Controls as Revealed by ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-s23-ultramirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy S23 UltraMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-reno-10-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-openais-world-mastering-gpt-3-use-cases/"><u>Navigating OpenAI's World: Mastering GPT-3 Use Cases</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-free-and-fabulous-top-10-online-video-enhancers-for-better-quality-for-2024/"><u>New Free & Fabulous Top 10 Online Video Enhancers for Better Quality for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-cycling-experience-with-photochromic-smart-glasses-the-hud-innovation-unveiled-on-zdnet/"><u>Revolutionize Your Cycling Experience with Photochromic Smart Glasses - The HUD Innovation Unveiled on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/soar-higher-the-difference-in-copilot-versions/"><u>Soar Higher: The Difference in CoPilot Versions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-installation-of-microsoft-copilot-for-macos-users/"><u>Step-by-Step Installation of Microsoft Copilot for macOS Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-great-chatbot-showdown-pitting-gpt-against-microsoftgoogles-creations/"><u>The Great Chatbot Showdown: Pitting GPT Against Microsoft/Google's Creations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-next-generation-of-chatbots-bard-vs-bing-showdown/"><u>The Next Generation of Chatbots: Bard Vs. Bing Showdown</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/tips-and-tricks-mastering-voiceover-on-tiktok/"><u>Tips and Tricks Mastering Voiceover on TikTok</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-your-wallets-potential-on-steam/"><u>Unlocking Your Wallet's Potential on Steam</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-hidden-wonders-in-yokus-island-express-an-enthusiast-game-analysis/"><u>Unveiling Hidden Wonders in 'Yoku's Island Express': An Enthusiast Game Analysis</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-customizing-video-dimensions-the-aspect-ratio-guide/"><u>[New] Customizing Video Dimensions The Aspect Ratio Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-art-of-echo-chambers-hits-that-amplify-on-fb/"><u>[New] The Art of Echo Chambers Hits that Amplify on FB</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-crafting-softer-beats-with-ableton/"><u>[Updated] Crafting Softer Beats with Ableton</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-first-steps-in-mastering-av1-coders/"><u>[Updated] First Steps in Mastering AV1 Coders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-sci-fis-new-realms-exploring-the-best-metaverse-adventures-on-screen-for-2024/"><u>[Updated] Sci-Fi's New Realms Exploring the Best Metaverse Adventures on Screen for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-integration-into-dev-practices/"><u>AI Integration Into Dev Practices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/automate-your-writing-tasks-with-hix-ai-and-gpt-4/"><u>Automate Your Writing Tasks With HIX AI and GPT-4</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-the-logitech-c615-webcam-balancing-cost-and-efficiency/"><u>Comprehensive Guide to the Logitech C615 Webcam - Balancing Cost & Efficiency</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-infographic-spotlight-on-emerging-23-trends/"><u>In 2024, Infographic Spotlight on Emerging '23 Trends</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastering-chronos-shifts-using-phantoms-time-reversed-footage-for-2024/"><u>Mastering Chronos Shifts Using Phantom's Time-Reversed Footage for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-zoom-audio-production-comprehensive-tips-and-techniques-for-professionals-for-2024/"><u>Mastering ZOOM Audio Production Comprehensive Tips and Techniques for Professionals for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protect-your-chatbots-from-unauthorized-inquiry/"><u>Protect Your Chatbots From Unauthorized Inquiry</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-apple-watch-series-9ultra-2-at-unbeatable-prices-before-stoppage-prime-locations-zdnet-insights/"><u>Secure Your Apple Watch Series 9/Ultra 2 at Unbeatable Prices Before Stoppage: Prime Locations | ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-evolution-of-wireless-earbuds-apple-rumored-to-unveil-cameras-on-new-airpods-by-2026-exclusive/"><u>The Next Evolution of Wireless Earbuds: Apple Rumored to Unveil Cameras on New AirPods by 2026 Exclusive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-list-of-airtag-peripherals-expert-opinions-and-ratings-zdnet/"><u>Ultimate List of AirTag Peripherals : Expert Opinions and Ratings | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-key-traits-of-gpt-4-and-gpt-35/"><u>Unveiling Key Traits of GPT-4 and GPT-3.5</u></a></li>
 </ul></div>
 

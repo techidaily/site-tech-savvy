@@ -1,7 +1,7 @@
 ---
 title: "Brainchild of Bard: Google's Answer to the AI World Leaders"
-date: 2024-09-12T07:41:43.619Z
-updated: 2024-09-13T07:41:43.619Z
+date: 2024-12-31T23:03:01.458Z
+updated: 2025-01-05T20:29:00.301Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
  **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Google's Bard AI?
 
  Bard is a Google-owned experimental AI language model capable of generating human-sounding responses to prompts or inputs given. It is built on top of Google's powerful conversational language model, LaMDA (Language Model for Dialogue Applications).
@@ -29,22 +33,12 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
 ![google bard on smartphone example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/google-bard-on-smartphone-example.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit:[Google](https://blog.google/technology/ai/bard-google-ai-search-updates/)
 
  Unlike ChatGPT, Sundar Pichai explained that Bard will initially only be available to a few trusted testers, with plans to scale to more users. The announcement also showcased what the initial release would look like with several examples—some of which look strikingly similar to what ChatGPT would do. So, is Bard going to be just another ChatGPT?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Google Bard Could Be Better Than ChatGPT
@@ -52,10 +46,7 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 ![An illustration of an AI bot performing meeting analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/AI-Meeting-Assistant-for-Online-Meetings-Featured-Image.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT was released on November 30, 2022, after a lengthy development period. The entire development process, including the base technology that powers it, spanned several years. At first glance, this would mean Google had less than three months to build a product to rival ChatGPT, a product built on years of evolving technology.
@@ -70,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
  In simpler terms, this would mean Google's Bard would be able to provide fresh, up-to-date responses while ChatGPT would, unfortunately, be limited to information relating to events, not beyond 2021 (ChatGPT's current data training cut-off).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Will Google Bard Work?
 
  From the demonstrations Google has provided, it's not entirely clear whether Bard will exist as a standalone prompt-response web interface like ChatGPT "after the initial testing phase."
@@ -84,16 +68,7 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
  However, in typical Google fashion, Google will almost certainly push to deeply integrate Bard into most of its products, including Google Search, akin to what Microsoft is trying to do with Bing and other Microsoft products using ChatGPT technology.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Google's Bard Demonstration Features Factual Issues
@@ -103,10 +78,7 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
  Bard is still in its very early stages, but its false statement was a clear indicator of the issues of integrating conversational AI technology deeper into general internet search, where many will trust what is written.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Google's Bard AI Be Better Than ChatGPT?
@@ -128,5 +100,22 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-steps-towards-joining-filmoras-certified-creative-circle/"><u>[New] 2024 Approved Steps Towards Joining Filmora's Certified Creative Circle</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-revolutionize-visual-storytelling-by-incorporating-cg-centrals-look-up-tables-luts/"><u>[New] Revolutionize Visual Storytelling by Incorporating CG Central's Look-Up Tables (Luts)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-ultimate-powerdirector-guide-for-2024/"><u>[New] Ultimate PowerDirector Guide for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-professional-tips-for-high-quality-video-disc-production-on-mac-for-2024/"><u>[Updated] Professional Tips for High-Quality Video Disc Production on Mac for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-learn-to-create-stunning-thumbnails-in-minutes/"><u>2024 Approved Learn to Create Stunning Thumbnails in Minutes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-apples-powerhouses-mac-mini-and-mac-studio-does-the-m2-outshine-the-m1/"><u>Comparing Apple's Powerhouses: Mac Mini and Mac Studio - Does the M2 Outshine the M1?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/declutter-email-effortlessly-with-this-single-account-tip-no-rules-required-insights/"><u>Declutter Email Effortlessly with This Single-Account Tip - No Rules Required! Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-top-4-new-ipados-18-updates-unveiled-at-apples-wwdc-2024-compatibility-breakdown-for-various-ipad-models/"><u>Discover the Top 4 New iPadOS 18 Updates Unveiled at Apple's WWDC 2024: Compatibility Breakdown for Various iPad Models</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-the-apple-m2-macbook-air-for-under-a-grand-on-amazon-sale-happens-way-ahead-of-october-prime-day-news/"><u>Get the Apple M2 MacBook Air for Under a Grand on Amazon – Sale Happens Way Ahead of October Prime Day! News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/global-smartphone-market-witnesses-apple-surpassing-samsung-historic-leadership-switch-examined/"><u>Global Smartphone Market Witnesses Apple Surpassing Samsung: Historic Leadership Switch Examined</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-to-hosting-a-successful-online-marketing-workshop-2009/"><u>Step-by-Step Guide to Hosting a Successful Online Marketing Workshop (2009)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-complete-manual-for-llama-2-installation-at-home/"><u>The Complete Manual for Llama 2 Installation at Home</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-2024-manual-to-restoring-functionality-of-squad-microphones/"><u>The Definitive 2024 Manual to Restoring Functionality of Squad Microphones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/toms-tech-insights-expert-reviews-and-comparisons/"><u>Tom's Tech Insights: Expert Reviews & Comparisons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-magsafe-wallets-comprehensive-reviews-by-industry-experts-techradar/"><u>Top-Rated MagSafe Wallets : Comprehensive Reviews by Industry Experts | TechRadar</u></a></li>
+</ul></div>
 

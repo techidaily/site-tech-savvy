@@ -1,7 +1,7 @@
 ---
 title: Challenge the ChatGPT Token Count Norms
-date: 2024-09-12T07:40:48.123Z
-updated: 2024-09-13T07:40:48.123Z
+date: 2024-12-30T22:58:47.320Z
+updated: 2025-01-05T21:14:20.485Z
 tags:
   - chatgpt
   - open-ai
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 
  Let's take a step back and give you an insight into all there is to know about the app's underlying working mechanisms.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's a ChatGPT Token?
 
  If you go by the app's façade, all you see is a computer language that obeys your commands and gives you the answers you seek. However, the backend is just lots of code, learning every minute, and getting up to speed with the questions it answers.
@@ -39,19 +32,6 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
  ChatGPT converts each word into a legible token whenever you ask a question. To break it down further, tokens are text fragments, and each programming language uses a different set of token values to understand the requirements.
 
 ![Comparison operators and boolean logic with cpp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cpp-coding-samples.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Since computers don't understand text values directly, they break them down into a combination of numbers, often called embeddings. You can even consider embeddings like [Python lists](https://www.makeuseof.com/tag/arrays-lists-in-python/), which resemble a list of related numbers, such as \[1.1,2.1,3.1,4.1…n\].
 
@@ -76,28 +56,22 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 ![Tokenizer calculation from OpenAI's website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/tokenizer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As per the [OpenAI token calculator](https://platform.openai.com/tokenizer):
 
  A helpful rule of thumb is that one token generally corresponds to \~4 text characters for common English text. This translates to roughly ¾ of a word (100 tokens \~= 75 words).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Free vs. Paid Tokens
 
  To give you a flavor of what's what within the ChatGPT application, OpenAI offers you a free limited token subscription. If you want to experiment with the ChatGPT API, use the free $5 credit, which is valid for three months. Once the limit is exhausted (or the trial period is up), you can pay-as-you-go, which increases the maximum quota to $120\.
 
 ![OpenAI dashboard with credit usage graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/token-dashboard-openai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### ChatGPT Plus: Is the Paid Subscription Worth It?
 
@@ -108,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 * First-hand access to new features and releases
 
  If you feel these features are entirely worth it and up your alley, you can enroll for the paid subscription and benefit from them immediately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Token Pricing Structure
 
@@ -130,10 +108,7 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
  Ada is the fastest, while DaVinci is the most powerful model from this list of models. The prompt is the question, while the completion deals with the answers.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Maximum Token Limits
@@ -159,10 +134,7 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
  For example, within the ChatGPT model, the **prompt\_tokens + max\_tokens <= 4096** tokens**.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Learn to Control Your ChatGPT Prompts for Best Results
@@ -190,5 +162,23 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-batch-save-presentations-in-video-format/"><u>[New] Batch Save Presentations in Video Format</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-effortless-restoration-of-windows-photo-viewer-steps-explained/"><u>[Updated] 2024 Approved Effortless Restoration of Windows Photo Viewer - Steps Explained</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-optimizing-class-engagement-with-visual-media-usage-for-2024/"><u>[Updated] Optimizing Class Engagement with Visual Media Usage for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-google-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Google</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excels-exclusive-capabilities-vs-chatgpt/"><u>Excel's Exclusive Capabilities Vs. ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-and-you-crafting-diplomatic-emails-with-smart-tech/"><u>GPT and You: Crafting Diplomatic Emails with Smart Tech</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-itel-p55-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Itel P55 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategies-for-bulk-tiktok-video-acquisition/"><u>In 2024, Strategies for Bulk TikTok Video Acquisition</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-realme-v30-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Realme V30</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-cross-platform-messaging-sending-and-receiving-imessages-via-windows-according-to-zdnet-experts/"><u>Mastering Cross-Platform Messaging: Sending & Receiving iMessages via Windows, According to ZDNet Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solve-instant-problems-in-live-chatgpt-transmissions/"><u>Solve Instant Problems in Live ChatGPT Transmissions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-verdict-on-apples-high-end-vision-pro-headset-consumer-ratings-and-thoughts-zdnet-analysis/"><u>The Verdict on Apple's High-End Vision Pro Headset: Consumer Ratings and Thoughts | ZDNET Analysis</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95771982-9781515414933-the-writings-of-thomas-troward-vol-i/"><u>The Writings of Thomas Troward, Vol I | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-four-reasons-im-saying-no-to-the-iphone-16-pro-and-loving-my-iphone-14-an-in-depth-analysis-by-zdnet/"><u>Top Four Reasons I'm Saying No to the iPhone 16 Pro and Loving My iPhone 14 | An In-Depth Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-educational-savings-score-a-free-150-apple-gift-card-when-purchasing-an-ipad-or-mac-for-classroom-use-zdnet/"><u>Unlock Educational Savings: Score a Free $150 Apple Gift Card When Purchasing an iPad or Mac for Classroom Use | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-exclusive-offers-save-big-on-apples-products-iphones-watches-pads-this-july-zdnet-deals-roundup/"><u>Unlock Exclusive Offers: Save Big on Apples Products (iPhones, Watches, Pads) This July | ZDNET Deals Roundup</u></a></li>
+</ul></div>
 

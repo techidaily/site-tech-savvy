@@ -1,7 +1,7 @@
 ---
 title: "Mastering Creativity: Anthropic's New AI Tools"
-date: 2024-12-23T16:14:13.174Z
-updated: 2024-12-27T21:07:14.534Z
+date: 2025-01-02T20:40:12.129Z
+updated: 2025-01-06T08:48:43.042Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Anthropic's Prompt Library?](https://bluettieu.pxf.io/nlgoka)
@@ -27,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
 * [Is the Anthropic Prompt Library Any Good?](https://review-au.sjv.io/wqnrq3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -44,16 +48,12 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
 
  Anthropic's prompt library is simple to use—and better still, it's completely free.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Anthropic's Prompt Library?
 
 ![anthropic prompt library options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/anthropic-prompt-library-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Anthropic's prompt library](https://docs.anthropic.com/claude/prompt-library) is a free tool designed to make it easier to get the AI responses and output you need for the task at hand.
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
  It's a nice touch for those who spend time perfecting their prompt prowess and want to share these tips with the world.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use Anthropic's Prompt Library
@@ -81,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
 ![anthropic prompt library corporate clairvoyant option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/anthropic-prompt-library-corporate-clairvoyant-option.jpg)
 
  Using any of the prompts is simple: just copy and paste them into Claude (or another AI chatbot), tweak them to your liking, and you're good to go.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is the Anthropic Prompt Library Any Good?
 
@@ -103,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
  While ChatGPT 4 responded:
 
 ![chatgpt plus dream interpreter prompt library output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-plus-dream-interpreter-prompt-library-output.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's pretty similar, covering the same thoughts, feelings, and imagery. However, given the number of websites, blog posts, and books both tools have been trained on, those details are relatively easy to discern.
 
@@ -141,18 +141,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-20-viral-tiktok-anime-ideas/"><u>[New] In 2024, 20 Viral Tiktok Anime Ideas</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-pro-level-snap-tech-free-from-any-delaying-hiccups/"><u>[New] In 2024, Pro-Level Snap Tech Free From Any Delaying Hiccups</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-revolutionize-your-photos-with-these-best-grid-makers-for-ig/"><u>[Updated] Revolutionize Your Photos with These Best Grid Makers for IG</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-pencil-inspired-design-revealed-in-vision-pro-controllers-latest-patent-insights-from-zdnet/"><u>Apple Pencil-Inspired Design Revealed in Vision Pro Controller's Latest Patent: Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-da-vincis-chatgpts-role-in-ai-artistry/"><u>Digital Da Vincis: ChatGPT's Role in AI Artistry</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-training-regimens-how-combining-whoop-and-apple-watch-benefits-elite-athletes/"><u>Enhancing Training Regimens: How Combining Whoop & Apple Watch Benefits Elite Athletes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-legends-of-arcade-combat-nintendos-top-ten-on-switch/"><u>In 2024, Legends of Arcade Combat Nintendo's Top Ten on Switch</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intuitive-interaction-on-the-road-mercedes-benz-ai-advance/"><u>Intuitive Interaction on the Road: Mercedes-Benz AI Advance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/taming-machine-minds-for-mutual-benefit/"><u>Taming Machine Minds for Mutual Benefit</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-samsung-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Samsung Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-pinterest-planning-programs-explore-these-5-options/"><u>The Ultimate List of Pinterest Planning Programs: Explore These 5 Options!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-your-home-workspace-mastering-the-ipad-pro-for-efficient-remote-working-insights/"><u>Transforming Your Home Workspace: Mastering the iPad Pro for Efficient Remote Working - Insights</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/uncomplicated-story-framework/"><u>Uncomplicated Story Framework</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-20plus-cool-metaverse-memes-and-how-to-make-your-own-memes-for-2024/"><u>[New] 20+ Cool Metaverse Memes and How to Make Your Own Memes for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-heroblack-vs-yi-4k-updates-gopro-and-yi-showcase-their-best/"><u>[New] 2024 Approved HeroBlack Vs. Yi 4K Updates - GoPro and Yi Showcase Their Best</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-paving-digital-pathways-for-ig-and-tiktok/"><u>[New] Paving Digital Pathways for IG & TikTok</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-there-vulnerabilities-affecting-chatgpt-safety/"><u>Are There Vulnerabilities Affecting ChatGPT Safety?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-intellectual-theft-in-machine-learning/"><u>Avoiding Intellectual Theft in Machine Learning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-improvements-needed-for-a-cutting-edge-chatgpt-marketplace/"><u>Critical Improvements Needed for a Cutting-Edge ChatGPT Marketplace</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/freedom-in-the-digital-age-leaving-chatgpt-behind/"><u>Freedom in the Digital Age - Leaving ChatGPT Behind</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-poco-x5-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Poco X5 Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oneplus-nord-3-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track OnePlus Nord 3 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-your-media-with-these-pro-screenshot-and-video-editors-iphoneandroid/"><u>In 2024, Master Your Media with These Pro Screenshot and Video Editors (iPhone/Android)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/cope-networking-an-experts-guide-to-selecting-a-media-company-for-2024/"><u>OmniScope Networking An Expert's Guide to Selecting a Media Company for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-workflow-integrating-microsoft-copilot-into-macos/"><u>Streamline Workflow: Integrating Microsoft Copilot Into macOS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-visuals-for-success-a-deep-dive-into-youtube-live-imagery/"><u>Striking Visuals for Success A Deep Dive Into YouTube Live Imagery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-benefits-of-apple-pay-for-shoppers-expert-tips-on-how-and-why-to-use-it-both-offline-and-online-zdnet/"><u>The Ultimate Benefits of Apple Pay for Shoppers: Expert Tips on How and Why to Use It Both Offline and Online | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ubuntu-gpt-integration-from-start-to-finish/"><u>Ubuntu GPT Integration: From Start to Finish</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-mysteries-ai-and-vector-database-relationship/"><u>Unraveling the Mysteries: AI and Vector Database Relationship</u></a></li>
 </ul></div>
 

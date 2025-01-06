@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Novelty: GPT-4 by OpenAI"
-date: 2024-12-26T18:41:54.059Z
-updated: 2024-12-27T18:18:05.983Z
+date: 2025-01-01T17:00:11.621Z
+updated: 2025-01-06T05:18:08.600Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ OpenAI has released GPT-4, an update to the artificial intelligence model that p
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OpenAI Reveals Upgraded GPT-4 Model
@@ -41,7 +41,7 @@ OpenAI has released GPT-4, an update to the artificial intelligence model that p
  OpenAI hasn't mentioned video processing yet, but one must imagine that video processing and analysis are on the horizon—or closer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OpenAI Showcases GPT-4 With Impressive Examples
@@ -53,7 +53,7 @@ OpenAI has released GPT-4, an update to the artificial intelligence model that p
  The live stream focused primarily on how developers can put GPT-4 to use but was also an impressive display of GPT-4's capabilities, which will only continue to improve, especially versus [what you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-4 Is Available Now
@@ -63,7 +63,7 @@ OpenAI has released GPT-4, an update to the artificial intelligence model that p
 ![openai gpt4 model chatgpt upgrade](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-gpt4-model-chatgpt-upgrade.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, OpenAI stressed that although GPT-4 is a significant upgrade, it still has "similar limitations as earlier GPT models." GPT-4 will still lie, make falsehoods, reasoning errors, and "hallucinate facts." But, those moments should be significantly reduced, making GPT-4's outputs significantly more trustworthy and accurate than GPT-3.5\.
@@ -87,16 +87,24 @@ OpenAI has released GPT-4, an update to the artificial intelligence model that p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-giggle-graph-meme-trends-by-occasion-type/"><u>[New] 2024 Approved Giggle Graph Meme Trends by Occasion Type</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-finest-selection-of-prime-day-laptop-bargains-still-on-offer-featuring-selections-by-hp-apple-and-razer-zdnet/"><u>Discover the Finest Selection of Prime Day Laptop Bargains Still On Offer: Featuring Selections by HP, Apple and Razer | ZDNet</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-it-infinix-hot-40-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Infinix Hot 40 Pro Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reimagining-business-through-chatgpt-and-whisper-apis-release/"><u>Reimagining Business Through ChatGPT & Whisper APIs' Release</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-musk-revelation-truthgpt-explained/"><u>The Musk Revelation: TruthGPT Explained</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-motorola-moto-g14-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Motorola Moto G14 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ling-excellent-video-keywords-on-youtube-for-2024/"><u>Unveiling Excellent Video Keywords on YouTube for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-gap-between-nlp-and-ml/"><u>Unveiling the Gap Between NLP and ML</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-latest-upgrades-discover-what-sets-the-new-apple-airpods-pro-and-max-apart/"><u>Unveiling the Latest Upgrades: Discover What Sets the New Apple AirPods Pro and Max Apart</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-elite-circle-of-vr-innovation-experts/"><u>[Updated] 2024 Approved Elite Circle of VR Innovation Experts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-perfect-asmr-recording-top-mic-choices-unveiled/"><u>[Updated] Perfect ASMR Recording Top Mic Choices Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-muse-8-aids-from-gpt-to-content-makers/"><u>Artificial Muse: 8 Aids From GPT to Content Makers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-dialogues-duo-chatgpt-vs-google-bard-showdown/"><u>Digital Dialogues Duo: ChatGPT Vs. Google Bard Showdown</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-visuals-with-audio-cutting-and-composing-music-for-canva/"><u>Enhance Visuals with Audio Cutting & Composing Music for Canva</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-install-the-latest-firmware-on-your-apple-studio-display-expert-tips-and-tricks/"><u>How to Install the Latest Firmware on Your Apple Studio Display - Expert Tips and Tricks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-max-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS Max to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-comprehensive-guide-to-valheim-flora/"><u>In 2024, Comprehensive Guide to Valheim Flora</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-manual-for-background-banishment-in-figma/"><u>In 2024, The Complete Manual for Background Banishment in Figma</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-apples-next-move-diving-into-artificial-intelligence-with-future-home-robotics-zdnet/"><u>Inside Apple's Next Move: Diving Into Artificial Intelligence with Future Home Robotics | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intels-core-i9-14900kf-sets-new-performance-milestone-nearing-91-ghz/"><u>Intel's Core I9-14900KF Sets New Performance Milestone Nearing 9.1 GHz</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211140879-9781960466167-lenormand-tarot-deck-meaning/"><u>Lenormand Tarot Deck Meaning | Free Book</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-final-cut-pro-sound-visualization-step-by-step-on-rendering-audio-waveforms-and-their-animation-integration-for-2024/"><u>New Final Cut Pro Sound Visualization Step-by-Step on Rendering Audio Waveforms and Their Animation Integration for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/privacy-controls-are-they-enough-for-chatgpt/"><u>Privacy Controls: Are They Enough for ChatGPT?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sustainable-biofuel-innovation-mushroom-derived-chip-technology-for-device-power-and-eco-conservation-exploring-the-future-with-zdnet/"><u>Sustainable Biofuel Innovation: Mushroom-Derived Chip Technology for Device Power & Eco Conservation | Exploring the Future with ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ongoing-debate-why-apple-asserts-your-iphone-works-fine-without-a-case-zdnet/"><u>The Ongoing Debate: Why Apple Asserts Your iPhone Works Fine Without a Case [ZDNet]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-3-essential-gadgets-to-maintain-your-iphone-13s-fresh-appearance-tips/"><u>Top 3 Essential Gadgets to Maintain Your iPhone 13'S Fresh Appearance - Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-anker-phone-charger-essentials-must-have-accessories-for-your-upcoming-new-iphone-purchase-insights/"><u>Top Anker Phone Charger Essentials: Must-Have Accessories for Your Upcoming New iPhone Purchase - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-ipad-air-protection-gear-of-2024-verified-reviews-by-tech-experts-zdnet/"><u>Top-Rated iPad Air Protection Gear of 2024 - Verified Reviews by Tech Experts | ZDNet</u></a></li>
 </ul></div>
 

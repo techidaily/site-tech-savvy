@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Power of Individualized ChatGPT Commands
-date: 2024-09-06T23:33:35.312Z
-updated: 2024-09-07T23:33:35.312Z
+date: 2025-01-04T00:45:21.075Z
+updated: 2025-01-05T22:15:03.787Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Unlocking the Power of Individualized ChatGPT Co
 thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d44f30246bb809e8ce4eedda.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unlocking the Power of Individualized ChatGPT Commands
 
  One of the biggest limitations of ChatGPT is its inability to retain instructions across sessions. You take the time to instruct the chatbot on your preferences, it understands and sticks to it, and on your next chat session, it totally forgets any instructions. It's an annoying limitation to put up with.
@@ -30,20 +24,16 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
  Now, ChatGPT is leveling up with a game-changing new feature called Custom Instructions. The new feature will give ChatGPT the ability to retain specific instructions, context, and preferences between chats. Here's how to get started with Custom Instructions on ChatGPT.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the ChatGPT Custom Instructions Feature?
 
 ![Custom instructions feature on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/custom-instructions-feature-on-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In a nutshell, the Custom Instructions feature is a cross-session memory that allows ChatGPT to retain key instructions across chat sessions. It provides ChatGPT users with the means to give standing instructions that the AI chatbot will recall and apply in later chats, preventing the need for repetitive back-and-forth explanations.
 
@@ -57,14 +47,17 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
 2. Click on **Settings & Beta**​​​​​.  
 ![settings and beta features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/settings-and-beta-features.jpg)
 3. On the pop-up menu that comes up, click on **Beta features** on the left panel.
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Toggle **Custom instructions** to turn on the feature and exit the pop-up.  
 ![toggling on custom instructions on ChatGPT Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/toggling-on-custom-instructions-on-chatgpt-settings-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the feature is turned on, you have to provide instructions that you want ChatGPT to retain across all your chat sessions.
 
@@ -72,23 +65,16 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
 2. You'll now find a new option labeled **Custom instructions**; click on it to reveal the Custom Instructions editor.  
 ![turning on the custom instructions feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turning-on-the-custom-instructions-feature.jpg)
 3. Up next, you'll find two fields for providing custom instruction. Click on **Show tips** below each editor to see some examples of what kind of instructions should be provided on both fields.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
    * For the first editor, provide information about yourself.  
    ![Answering custom instructions question 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/answering-custom-instructions-question-1.jpg)  
    * For the second editor, you can provide information about how you want ChatGPT's response to be.  
    ![Answering custom instructions question 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/answering-custom-instructions-question-2.jpg)
 4. After entering your custom instructions on both fields, click **Save.**
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once your instructions have been saved, your account is ready to use the Custom Instructions feature. If you are still unsure what to do with this incredible new feature, we have a few ideas for you.
 
@@ -104,18 +90,6 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
 
  The urge to provide personal information to ChatGPT might increase with the introduction of this new feature, but [avoid providing any sensitive information to ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/), even in the instructions' editor. If you have plugins turned on for your account, third-party plugin developers can access any sensitive information you share using the feature.
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Personalize ChatGPT to Your Taste
 
  With ChatGPT's Custom Instructions feature, the AI chatbot can finally stay "in the loop" on key details like your background, communication style, and recurring requests. This will eliminate the frustration of constantly reorienting a forgetful ChatGPT every time you start a chat session.
@@ -126,14 +100,11 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
 
  Now, ChatGPT is leveling up with a game-changing new feature called Custom Instructions. The new feature will give ChatGPT the ability to retain specific instructions, context, and preferences between chats. Here's how to get started with Custom Instructions on ChatGPT.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +113,20 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-insta-angle-alchemy-crafting-content-with-a-twist-for-maximum-impact/"><u>[New] In 2024, Insta-Angle Alchemy Crafting Content with a Twist for Maximum Impact</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-trimming-techniques-understanding-video-crops-in-imovie/"><u>[New] Trimming Techniques Understanding Video Crops in iMovie</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/5-effective-strategies-for-enhancing-technological-sustainability-insights-from-zdnet/"><u>5 Effective Strategies for Enhancing Technological Sustainability - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/android-speech-to-text-your-chatgpt-voicecontrol-key/"><u>Android Speech to Text – Your ChatGPT VoiceControl Key</u></a></li>
+<li><a href="https://facebook.techidaily.com/anticipated-ruling-by-social-medias-governance-authority-on-trump/"><u>Anticipated Ruling by Social Media’s Governance Authority on Trump</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-realme-11-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Realme 11 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-strategies-for-icloud-collaboration-in-apple-pages-documents-tech-insights/"><u>Effective Strategies for iCloud Collaboration in Apple Pages Documents | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-ai-mobile-apps-for-androidios-users/"><u>Essential AI Mobile Apps for Android/iOS Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-appleamo-new-ai-advances-from-wwdc-anticlimactic-but-a-welcome-change-gizmodotech/"><u>Exploring Apple'amo New AI Advances From WWDC: Anticlimactic but a Welcome Change | GizmodoTech</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-nokia-c22-frp-by-drfone-android/"><u>Full Guide to Bypass Nokia C22 FRP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gemini-advanced-vs-chatgpt-plus-which-is-better/"><u>Gemini Advanced Vs. ChatGPT Plus: Which Is Better?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-luminosity-calmed-issue-over/"><u>Laptop Luminosity Calmed - Issue Over</u></a></li>
+<li><a href="https://win-docs.techidaily.com/ultimate-walkthrough-disabling-windows-defender-in-windows-11-full-instructions/"><u>Ultimate Walkthrough: Disabling Windows Defender in Windows 11 – Full Instructions</u></a></li>
+</ul></div>
 

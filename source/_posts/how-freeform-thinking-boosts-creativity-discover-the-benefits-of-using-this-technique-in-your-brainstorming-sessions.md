@@ -1,7 +1,7 @@
 ---
 title: "How Freeform Thinking Boosts Creativity: Discover the Benefits of Using This Technique in Your Brainstorming Sessions"
-date: 2024-12-24T17:47:19.238Z
-updated: 2024-12-27T16:37:45.344Z
+date: 2025-01-04T00:18:39.403Z
+updated: 2025-01-06T01:55:33.226Z
 tags:
   - apple
 categories:
@@ -21,6 +21,10 @@ At some point in your life, you've probably used a whiteboard or even a chalkboa
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More how-tos
 
@@ -58,6 +62,10 @@ I will warn you, however, that Freeform is currently problematic and until Apple
 
 ## What is Freeform, and why should it be your next creative brainstorming tool?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Requirements
 
 In order to use Freeform, you'll need one of the following versions of your Apple OS:
@@ -69,7 +77,7 @@ In order to use Freeform, you'll need one of the following versions of your Appl
 For syncing your boards across your devices, you'll also need iCloud syncing enabled (more on this in a bit).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Enable iCloud syncing
@@ -82,17 +90,9 @@ Screenshot by Jack Wallen/ZDNET
 
 Note: Enabling iCloud Syncing not only allows you to access your boards across devices, but it also makes it possible to share boards. Without enabling iCloud Syncing, you cannot share boards.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Close Settings
 
 Once you've configured iCloud Syncing, close Settings and you should then find yourself on the main Freeform window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Start creating
 
@@ -109,7 +109,7 @@ Screenshot by Jack Wallen/ZDNET
 You might find that the drawing tool only appears on devices with a touch screen. So, if you're using a MacBook or [iMac](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that doesn't include a touchscreen, you won't be able to use the sketch tool. This does limit what you can do on a non-touchscreen device, but if you don't need the sketch option, you'll find plenty of elements that can be added and manipulated.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sharing a board
@@ -123,7 +123,7 @@ Upon upgrading MacOS to 13.2, there's a little thing called the "Terms of servic
 You should be presented with a pop-up where you can scroll through the terms and agree. Once you've done that, the iCloud Sync Settings will automatically switch from Unknown to Freeform. Disable Freeform, re-enable it, click Merge, and sync should start working. If not… Apple, are you listening?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Work out those kinks
@@ -160,19 +160,22 @@ Hopefully, once Apple irons out the Freeform syncing kinks, this app will help y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-discover-top-30-steadicam-choices-for-superior-dslr-footage/"><u>[New] 2024 Approved Discover Top 30 Steadicam Choices for Superior DSLR Footage</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-nextgen-codec-battle-is-av1-trumping-vp9-quality/"><u>[New] NextGen Codec Battle Is AV1 Trumping VP9 Quality?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-artisans-approach-to-script-dialogue/"><u>[Updated] 2024 Approved The Artisan’s Approach to Script Dialogue</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-direct-video-transfer-from-twitter-to-tumblr-for-2024/"><u>[Updated] Direct Video Transfer From Twitter to Tumblr for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-fix-audio-loop-in-tweeted-visual-media-links/"><u>[Updated] In 2024, Fix Audio Loop in Tweeted Visual Media Links</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-ultimate-blueprint-for-effective-use-of-audio-emojis/"><u>2024 Approved The Ultimate Blueprint for Effective Use of Audio Emojis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augmenting-virtual-teams-interaction-via-gpt-chat/"><u>Augmenting Virtual Teams' Interaction via GPT-Chat</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conformite-et-respect-du-tufa-pour-les-produits-de-digiarty-incluant-le-logiciel-winxdvd/"><u>Conformité Et Respect Du TUFA Pour Les Produits De Digiarty, Incluant Le Logiciel WinXDVD</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-airpods-pros-new-features-post-release-are-they-still-worth-your-money-tech-analysis/"><u>Evaluating AirPods Pro's New Features Post-Release: Are They Still Worth Your Money? | Tech Analysis</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-poco-m6-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Poco M6 5G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/link-oura-ring-performance-stats-directly-to-strava-for-enhanced-training-insights/"><u>Link Oura Ring Performance Stats Directly to Strava for Enhanced Training Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/silicon-smile-stimulators-can-giggle-codecs-engage-emotion/"><u>Silicon Smile Stimulators: Can Giggle Codecs Engage Emotion?</u></a></li>
-<li><a href="https://win-help.techidaily.com/step-by-step-guide-secure-your-data-by-backing-up-on-a-seagate-external-hard-drive/"><u>Step-by-Step Guide: Secure Your Data by Backing Up on a Seagate External Hard Drive</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-designs-into-reality-chatgpts-role-in-3d-printing/"><u>Transform Your Designs Into Reality: ChatGPT's Role in 3D Printing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-reverse-revelations-instagrams-guide-to-rotating-images-for-engagement/"><u>[Updated] Reverse Revelations Instagram's Guide to Rotating Images for Engagement</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-social-splendor-leading-story-filter-hits-for-2024/"><u>[Updated] Social Splendor Leading Story Filter Hits for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-surviving-and-thriving-adapting-to-facebooks-algorithm-changes/"><u>[Updated] Surviving and Thriving Adapting to Facebook's Algorithm Changes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-how-to-for-finding-freely-available-pictorial-frames/"><u>[Updated] The How-To for Finding Freely Available Pictorial Frames</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-7-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 7 Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-gears-up-for-the-future-with-new-acquisition-implications-for-ai-integrated-iphones-silicon-scoop/"><u>Apple Gears Up for the Future with New Acquisition - Implications for AI-Integrated iPhones | Silicon Scoop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-college-essays-balancing-innovation-with-tradition/"><u>ChatGPT and College Essays: Balancing Innovation with Tradition?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-openais-future-focused-vision/"><u>Decoding OpenAI's Future-Focused Vision</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/detecting-fraudgpt-dangers-immediate-safeguards-to-apply/"><u>Detecting FraudGPT Dangers: Immediate Safeguards to Apply</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/driving-into-the-future-mercedes-voice-and-chatgpt-fusion/"><u>Driving Into the Future: Mercedes Voice & ChatGPT Fusion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/entendiendo-los-archivos-de-formato-ts-guia-completa-para-la-reproduccion-y-uso/"><u>Entendiendo Los Archivos De Formato Ts: Guía Completa Para La Reproducción Y Uso</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-apple-m2-macbook-air-now-for-just-800-before-official-september-sales-exclusive-deal-at-amazon/"><u>Get Apple M2 MacBook Air Now for Just $800 Before Official September Sales - Exclusive Deal at Amazon</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-future-with-claude-the-ai-leader-in-tech/"><u>Navigating the Future with Claude: The AI Leader in Tech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-and-simple-macx-dvd-ripper-seamless-conversion-of-dvds-to-itunes-videos-for-ios-devices/"><u>Quick & Simple MacX DVD Ripper: Seamless Conversion of DVDs to iTunes Videos for iOS Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-ultimate-vr-footage-contest-samsung-gear-and-lgs-compare-for-2024/"><u>The Ultimate VR Footage Contest Samsung Gear & LG's Compare for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/three-methods-for-creating-windows-10-backups-without-using-an-external-drive/"><u>Three Methods for Creating Windows 10 Backups Without Using an External Drive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-chat-ai-differences-on-platforms/"><u>Unveiling the Chat AI Differences on Platforms</u></a></li>
 </ul></div>
 

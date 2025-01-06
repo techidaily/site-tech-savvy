@@ -1,7 +1,7 @@
 ---
 title: "Trustworthy Virtual Health: Guidelines for GPT Use"
-date: 2024-12-20T18:12:34.274Z
-updated: 2024-12-27T22:02:57.712Z
+date: 2025-01-04T17:19:02.327Z
+updated: 2025-01-06T07:03:09.394Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Designing Your Coach or Mental Health Professional
 
  Three are many [apps that contain chatbots acting as pocket therapists](https://www.makeuseof.com/ai-chatbot-therapist-mobile-apps-pocket/). However, there's no denying ChatGPT's level of sophistication. Just look at its meteoric adoption rate.
@@ -45,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9
 ![Screenshot of ChatGPT giving advice for managing stress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-08-12-am.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, to mimic a trauma-informed counseling session, you might describe your situation followed by a question such as, "How can I approach managing stress with a trauma-informed perspective?"
@@ -53,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9
  Here's the best part: you're not limited to one persona. You can switch between a Stoic philosopher, a Zen master, or a modern psychologist, depending on your mood. It's like having a team of therapists at your fingertips, minus the outrageous costs.
 
  Remember though, your AI pal is not psychic. It won't remember past conversations or know your personal history unless you tell it. So, the more details you can provide ahead of your question, the more tailored ChatGPT's response will be. Don't shy away from providing some context with your prompts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Advanced Chat GPT Training
 
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9
 ![Screenshot of ChatGPT giving Stoic advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-06-50-am.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  By providing this additional context, you're helping ChatGPT generate more specific, tailored advice. Or, let's say you're struggling with a personal relationship. You could ask, "I had an argument with my friend because of a misunderstanding, and it's causing me a lot of distress. What would a therapist suggest I do to resolve this situation?"
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9
 ![Stoic advice provided by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-04-47-am.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting Healthy Boundaries With Your AI
@@ -93,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9
  Also, make sure to balance your use of AI with friends and family and if necessary, other mental health resources. ChatGPT is a supplement, not a substitute. Keep up with your real-world people and never replace them with a chatbot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Know When to Seek Human Help
@@ -131,22 +131,16 @@ thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-a-new-era-of-visual-narratives-full-rotation/"><u>[Updated] In 2024, A New Era of Visual Narratives Full Rotation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-step-by-step-guide-navigating-through-the-internet-archives-wayback-machine/"><u>A Step-by-Step Guide: Navigating Through the Internet Archive's Wayback Machine</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ascending-skills-from-copilot-to-pros-advantages/"><u>Ascending Skills: From CoPilot to Pro's Advantages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-language-barriers-with-chatgpt-insights/"><u>Breaking Language Barriers with ChatGPT Insights</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/capturing-victories-effective-strategies-with-w11/"><u>Capturing Victories Effective Strategies with W11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/correcting-erratic-subtitle-display-post-mkv-and-mp4-format-switch/"><u>Correcting Erratic Subtitle Display Post-MKV and MP4 Format Switch</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-leading-mac-applications-expert-picks/"><u>Discover the Leading Mac Applications - Expert Picks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-missing-file-issue-how-to-restore-d3dx941dll-successfully/"><u>Fixing Missing File Issue: How to Restore d3dx9_41.dll Successfully</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-samsung-galaxy-f54-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Samsung Galaxy F54 5G Devices</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-exploring-best-video-grabbers-for-win11/"><u>In 2024, Exploring Best Video Grabbers for Win11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ipad-enhancements-unveiled-at-wwdc-202-how-the-latest-ipados-18-features-will-transform-your-experience-digital-innovations-hub/"><u>IPad Enhancements Unveiled at WWDC 202# - How the Latest iPadOS 18 Features Will Transform Your Experience | Digital Innovations Hub</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-ai-interaction-design-a-sustainable-profession/"><u>Is AI Interaction Design a Sustainable Profession?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-ace-2-profrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Ace 2 ProFRP Lock</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/m2-vs-m1-showdown-can-apples-new-mac-studio-edge-out-the-classic-mac-mini-in-performance/"><u>M2 vs M1 Showdown: Can Apple's New Mac Studio Edge Out the Classic Mac Mini in Performance?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/professional-insights-on-the-premier-ipads-of-2e-comprehensive-testing-and-reviews/"><u>Professional Insights on the Premier iPads of 2E: Comprehensive Testing and Reviews</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/techniques-for-transcending-gpts-character-cap/"><u>Techniques for Transcending GPT’s Character Cap</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-peak-creation-suite-insightful-2023-analysis/"><u>[Updated] 2024 Approved Peak Creation Suite Insightful 2023 Analysis</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-ultimate-meme-list-social-media-giants-clash/"><u>[Updated] 2024 Approved The Ultimate Meme List Social Media Giants Clash</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-10-secrets-for-successful-youtube-music-reaction-videos/"><u>2024 Approved Top 10 Secrets for Successful YouTube Music Reaction Videos</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-x-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From Apple iPhone X Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-computers-gaming-capabilities-without-spending-a-dime-the-ultimate-optimization-strategy/"><u>Boost Your Computer's Gaming Capabilities Without Spending a Dime - The Ultimate Optimization Strategy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compre-cookie-cutter-method-for-downloading-and-installing-llama-2/"><u>Compre Cookie Cutter Method for Downloading & Installing Llama 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-your-books-dialogues-top-gpt-ideas-to-craft-characters/"><u>Elevating Your Book's Dialogues: Top GPT Ideas to Craft Characters</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/immersing-into-new-horizons-with-watch-dogs-legion-game-review-and-analysis/"><u>Immersing Into New Horizons with 'Watch Dogs: Legion' - Game Review & Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-latest-ios-18-features-tailoring-your-iphones-control-center/"><u>Mastering the Latest iOS 18 Features: Tailoring Your iPhone's Control Center</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-creativity-with-these-4-pioneering-ai-tools/"><u>Revolutionizing Creativity with These 4 Pioneering AI Tools</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-realme-narzo-60x-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Realme Narzo 60x 5G to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Sudden Italian Decree Against AI Language Tools Like ChatGPT
-date: 2024-09-06T23:31:42.178Z
-updated: 2024-09-07T23:31:42.178Z
+date: 2024-12-29T16:03:52.871Z
+updated: 2025-01-06T02:51:31.647Z
 tags:
   - chatgpt
   - open-ai
@@ -23,32 +23,18 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 
  This means that if you're in Italy, you'll now be unable to use the AI chatbot. Here's why.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Did Italy Ban ChatGPT?
 
 ![Person Using ChatGPT on Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cchatgpt-on-laptop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On March 30th, 2023, the Italian Data Protection Authority, Garante per la Protezione dei Dati Personali (GPDP), [officially announced](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9870847) a ChatGPT ban, effective immediately, that would last until ChatGPT complied with the EU's GDPR.
 
  The Italian data regulator declared that [OpenAI's ChatGPT posed several problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) and infringed the EU's privacy law. The GDPD's privacy concerns can be broken down into five key areas:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Breach of Privacy Laws
 
  The GDPD's chief concern is that ChatGPT continues processing personal data in breach of its privacy laws. Although [the way ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) is that it has been trained prior to deployment, the chatbot still collects and processes data from users to provide relevant answers.
@@ -56,49 +42,41 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 ![ChatGPT Onboarding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-onboarding.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Italian regulator ensures data controllers follow the general obligations outlined in the EU's privacy law, and OpenAI falls short.
 
 ### 2\. Unjustified Collection of Personal Data
 
  Asides from the breach of its privacy laws, the GDPD claims that there is no legal justification for OpenAI's massive collection and processing of personal data to train ChatGPT's algorithms. According to the Italian regulator, ChatGPT's information doesn't always match factual circumstances, so OpenAI can use falsified personal data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. A Lack of Easily-Accessible and Transparent Information
 
  In addition, the Italian regulator pointed out that OpenAI doesn't inform users whose data it collects. This is another clear violation of the EU's privacy laws.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Lack of Age Verification Systems
 
  The GDPD announced that ChatGPT exposes inappropriate information to users under 13 because it lacks appropriate age detection mechanisms. This underage exposure violates the EU's GDPR, which states that individuals must clearly consent to the processing of their personal data. As underage individuals, they are not to consent on their behalf.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Risk of Data Breaches
 
  While citing a data breach reported on March 20th, 2023, the Italian regulator raised concerns about the chatbot's risk of data breaches. [Europol's announcement](https://www.europol.europa.eu/publications-events/publications/chatgpt-impact-of-large-language-models-law-enforcement) of the potential of criminals using ChatGPT to commit fraud and cybercrime likely fostered these concerns.
 
  Data breaches also infringe on the country's privacy laws—all data processors must implement appropriate security measures.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Italy's ChatGPT Ban Could Be a Template for Other EU Countries
 
  The EU's GDPR is said to be the strictest privacy law in the world, and Italy's ban emphasizes the importance of data compliance in Europe. The Irish data authority has been reported to be studying the GDPD's actions with intentions to "coordinate" with the EU concerning the ban. Likewise, the UK's data regulator is said to have declared support for AI with the condition that it complies with data protection laws.
@@ -111,14 +89,11 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 
  This means that if you're in Italy, you'll now be unable to use the AI chatbot. Here's why.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +102,19 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-taking-control-importing-snapchat-snaps-to-your-phones-gallery/"><u>[New] In 2024, Taking Control Importing Snapchat Snaps to Your Phone's Gallery</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enhancing-on-screen-appeal-essential-tips-for-talking-head-shots/"><u>[Updated] 2024 Approved Enhancing On-Screen Appeal Essential Tips for Talking-Head Shots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-insights-or-astrology-which-seeks-tomorrow-better/"><u>AI Insights or Astrology: Which Seeks Tomorrow Better?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-missteps-in-chat-with-gpt-technology/"><u>Avoiding Missteps in Chat with GPT Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-a-well-balanced-plate-aided-by-gpt/"><u>Building a Well-Balanced Plate Aided by GPT</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-corsair-keyboard-device-driver-windows-at-no-cost-safely-now/"><u>Download Corsair Keyboard Device Driver (Windows) at No Cost - Safely Now</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/explore-the-power-of-durability-and-high-quality-hd-sunbritetvs-55-4k-hdr-veranda-tv-for-outdoor-enthusiasts/"><u>Explore the Power of Durability and High-Quality HD: SunBriteTV's 55 4K HDR Veranda TV for Outdoor Enthusiasts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oneplus-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass OnePlus FRP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-innovation-landscape-samsung-ascends-with-galaxy-ai-while-google-grapples-with-legal-hurdles-zdnet-analysis/"><u>Navigating the Innovation Landscape: Samsung Ascends with Galaxy AI While Google Grapples With Legal Hurdles | ZDNet Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-youth-in-digital-dialogues-5-safe-chatgpt-strategies/"><u>Protecting Youth in Digital Dialogues: 5 Safe ChatGPT Strategies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-ipad-air-protectors-comprehensive-review-by-tech-gurus/"><u>Top-Rated iPad Air Protectors - Comprehensive Review by Tech Gurus</u></a></li>
+</ul></div>
 

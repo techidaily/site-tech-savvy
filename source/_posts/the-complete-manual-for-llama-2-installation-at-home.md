@@ -1,7 +1,7 @@
 ---
 title: The Complete Manual for Llama 2 Installation at Home
-date: 2024-12-20T21:18:02.641Z
-updated: 2024-12-27T17:13:18.236Z
+date: 2025-01-01T22:36:09.618Z
+updated: 2025-01-06T07:06:20.204Z
 tags:
   - chatgpt
   - open-ai
@@ -28,15 +28,15 @@ thumbnail: https://thmb.techidaily.com/d2b7e4746fe693895b4178e4d3a3d7272df65f201
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Install Llama 2 Locally
 
  There are many reasons why people choose to run Llama 2 directly. Some do it for privacy concerns, some for customization, and others for offline capabilities. If you're researching, fine-tuning, or integrating Llama 2 for your projects, then accessing Llama 2 via API might not be for you. The point of running an LLM locally on your PC is to reduce reliance on [third-party AI tools](https://www.makeuseof.com/best-ai-web-apps/) and use AI anytime, anywhere, without worrying about leaking potentially sensitive data to companies and other organizations.
 
  With that said, let's begin with the step-by-step guide to installing Llama 2 locally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 1: Install Visual Studio 2019 Build Tool
 
@@ -49,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/d2b7e4746fe693895b4178e4d3a3d7272df65f201
 ![Install-Desktop-Development-With-C++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/2-install-desktop-development-with-c.jpg)
 
  Now that you have Desktop development with C++ installed, it's time to download the Text-Generation-WebUI one-click installer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Install Text-Generation-WebUI
 
@@ -68,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/d2b7e4746fe693895b4178e4d3a3d7272df65f201
 4. A terminal will open and start the setup. Early on, the setup will pause and ask you what GPU you are using. Select the appropriate type of GPU installed on your computer and hit enter. For those without a dedicated graphics card, select **None (I want to run models in CPU mode)**. Keep in mind that running on CPU mode is much slower when compared to running the model with a dedicated GPU.  
 ![Selecting GPU hardware installed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/5-select-gpu-settings.jpg)
 5. Once the setup is complete, you can now launch Text-Generation-WebUI locally. You can do so by opening your preferred web browser and entering the provided IP address on the URL.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![How to launch-Text-Generation-WebUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/6-launch-text-generation-webui.jpg)
 6. The WebUI is now ready for use.  
@@ -108,22 +108,14 @@ thumbnail: https://thmb.techidaily.com/d2b7e4746fe693895b4178e4d3a3d7272df65f201
 ![Downloading Llama 2 model of your preference](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/8-download-llama-2-model.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After the download is finished, place the model in **text-generation-webui-main** \> **models**.
 
 ![Placing Llama 2 model to model folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/9-place-model-to-model-folder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now that you have your model downloaded and placed in the model folder, it's time to configure the model loader.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 4: Configure Text-Generation-WebUI
 
@@ -134,13 +126,22 @@ Now that you have your model downloaded and placed in the model folder, it's tim
 3. Now click on the dropdown menu of the **Model loader** and select **AutoGPTQ** for those using a GTPQ model and **ctransformers** for those using a GGML model. Finally, click on **Load** to load your model.  
 ![Setting model loader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/10-select-model-loader.jpg)
 4. To use the model, open the Chat tab and start testing the model.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Testing Llama 2 locally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/12-testing-llama-2-locally.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Congratulations, you've successfully loaded Llama2 on your local computer!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try Out Other LLMs
 
@@ -165,22 +166,22 @@ Now that you have your model downloaded and placed in the model folder, it's tim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/avigating-the-economic-landscape-of-short-video-royalties/"><u>[New] Navigating the Economic Landscape of Short Video Royalties</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-best-time-to-post-on-ig-for-maximum-reach/"><u>[Updated] 2024 Approved The Best Time to Post on IG for Maximum Reach</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-visual-memories-an-insiders-look-at-video-recorders/"><u>2024 Approved Visual Memories An Insider's Look at Video Recorders</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725289718270-winx-dvd-ripper-and-video-converter/"><u>輕鬆使用WinX DVD Ripper & Video Converter : 線上技術協助中心</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/critical-8-gpt-suggestions-for-sharpening-focus-in-a-digital-age/"><u>Critical 8 GPT Suggestions for Sharpening Focus in a Digital Age</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/digiarty-winxdvd-windows-dvd/"><u>Digiarty WinXDVD Windows DVDソフトウェア - お問い合わせガイドライン</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/easy-iphonesideways-capturing-the-moment-for-2024/"><u>Easy iPhonesideways Capturing the Moment for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-refresh-the-software-of-your-apple-studio-display-expert-advice/"><u>How To Refresh The Software of Your Apple Studio Display - Expert Advice</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-the-verdict-on-video-clips-a-deep-dive-into-inshots-performance/"><u>In 2024, The Verdict on Video Clips A Deep Dive Into InShot's Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/perfect-integration-plugins-chatgpt-and-vs-code-unite/"><u>Perfect Integration Plugins: ChatGPT & VS Code Unite</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/politeness-in-digital-dialogue-ai-engagement-guidelines/"><u>Politeness in Digital Dialogue: AI Engagement Guidelines</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-tecno-camon-20-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Tecno Camon 20</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solutions-for-resolving-mingwm10dll-file-cannot-be-found-issues/"><u>Solutions for Resolving 'mingwm10.dll File Cannot Be Found' Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-top-4-reasons-im-holding-onto-my-iphone-14-instead-of-switching-to-an-iphone-16-pro/"><u>The Top 4 Reasons I'm Holding Onto My iPhone 14 Instead of Switching to an iPhone 16 Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-3-critical-errors-in-using-the-apple-vision-pro-protect-your-investment/"><u>Top 3 Critical Errors in Using the Apple Vision Pro - Protect Your Investment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-and-utilizing-chatgpt-plugins/"><u>Understanding and Utilizing ChatGPT Plugins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-bots-are-winning-the-rise-of-conversational-ai/"><u>Why Bots Are Winning: The Rise of Conversational AI</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-list-affordable-efficient-high-quality-passport-photos-creators/"><u>[New] Exclusive List Affordable, Efficient, High-Quality Passport Photos Creators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-streamline-your-sessions-the-discord-recorders-handbook/"><u>[New] Streamline Your Sessions The Discord Recorder’s Handbook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-unveiling-the-foremost-android-alternatives-for-playstation-2-emulation/"><u>[New] Unveiling The Foremost Android Alternatives for PlayStation 2 Emulation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-full-review-of-camstudios-screen-capture-features-for-2024/"><u>[Updated] Full Review of CamStudio's Screen Capture Features for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/alert-for-savvy-users-avoid-googles-pretend-wizard-bot/"><u>Alert for Savvy Users: Avoid Google's Pretend Wizard Bot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-iphone-16-and-15-key-factors-for-upgrading-apples-latest-offerings-insights/"><u>Choosing Between iPhone 16 and 15? Key Factors for Upgrading Apple's Latest Offerings - Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2070571-9780835631471-earth-energies/"><u>Earth Energies | Free Book</u></a></li>
+<li><a href="https://fox-where.techidaily.com/elevate-your-privacy-management-with-windows-11-insights-by-yl-computing/"><u>Elevate Your Privacy Management with Windows 11 - Insights by YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embracing-ai-innovation-top-strategies-using-chatgpt-in-business/"><u>Embracing AI Innovation: Top Strategies Using ChatGPT in Business</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-the-iphone-16-sets-a-higher-standard-for-easy-fixes-compared-to-earlier-models-exploring-with-zdnet/"><u>How the iPhone 16 Sets a Higher Standard for Easy Fixes Compared to Earlier Models | Exploring with ZDNET</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-quickly-modify-photo-resolution-on-an-iphone/"><u>In 2024, How to Quickly Modify Photo Resolution on an iPhone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-15-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 15</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-there-a-maximum-character-limit-for-chatbot-outputs/"><u>Is There a Maximum Character Limit for Chatbot Outputs?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-conversations-in-gpt-and-crypto-space/"><u>Leading Conversations in GPT & Crypto Space</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-a-fresh-deal-for-apple-airtag-tracker-set-at-walmart-24-discounted-price-this-labor-day-zdnet/"><u>Score a Fresh Deal for Apple AirTag Tracker Set at Walmart - $24 Discounted Price This Labor Day | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-future-with-apple-vision-pro-app-demos-on-testflight-learn-how-from-zdnets-comprehensive-tutorial/"><u>Unlock the Future with Apple Vision Pro App Demos on TestFlight - Learn How From ZDNet's Comprehensive Tutorial</u></a></li>
 </ul></div>
 

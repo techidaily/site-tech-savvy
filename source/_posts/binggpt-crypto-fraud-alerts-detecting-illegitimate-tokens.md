@@ -1,7 +1,7 @@
 ---
 title: "BingGPT Crypto Fraud Alerts: Detecting Illegitimate Tokens"
-date: 2024-12-21T17:38:37.454Z
-updated: 2024-12-27T18:31:48.284Z
+date: 2025-01-01T23:28:18.957Z
+updated: 2025-01-06T08:00:53.807Z
 tags:
   - chatgpt
   - open-ai
@@ -26,12 +26,16 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Bing's AI Browser?
 
 ![digital graphic of rotating bing logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-blue-logo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Nowadays, your typical search engine will take inputted text and scour the internet for the most relevant results. This is by no means a shoddy model but could be improved upon using artificial intelligence.
@@ -41,7 +45,7 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
  With Microsoft integrating AI into its Bing search tool, users can expect an improved search experience, more complete answers, and an interactive AI-powered chat to help them create content. So, how are these new technologies being capitalized on by malicious actors?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are BingChatGPT Scam Tokens?
@@ -49,7 +53,7 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
 ![red digital scam alert graphic with binary code in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/scam-alert-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The crypto industry is no stranger to scam tokens. Thousands of people have fallen victim to fake assets launched by malicious actors, with some losing huge amounts of money to such scams. So, it's really no surprise that cybercriminals are looking to use Bing and ChatGPT's well-established names to lure in unknowing victims.
@@ -68,10 +72,6 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
 
  Then, the scammers who launched the coin will sell all their holdings at a higher price. These scammers hold back a large proportion of the overall supply to make big profits by dumping it after the price rise. The huge sell-off causes a massive price crash, leaving all other investors out of pocket.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Steer Clear of Scam Crypto Tokens
 
  There are many [key warning signs of a scam token](https://www.makeuseof.com/biggest-signs-scam-token/), but we'll briefly run over what you should look out for here to protect yourself from crypto scams.
@@ -83,7 +83,7 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
  Finally, beware of tokens with names linked to any trend or meme. [Memecoins like Dogecoin and Shiba Inu](https://www.makeuseof.com/what-are-crypto-meme-coins/) have become popular, but most meme cryptos are used in scams.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Scam Tokens Pose a Huge Risk to Investors
@@ -107,18 +107,24 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-pristine-story-conception-in-eight-genre-divisions/"><u>[New] Pristine Story Conception in Eight Genre Divisions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-cut-to-the-chase-techniques-for-tightening-youtube-content-for-2024/"><u>[Updated] Cut to the Chase Techniques for Tightening YouTube Content for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-complete-guide-to-setting-up-streamlabs-obs-for-2024/"><u>[Updated] The Complete Guide to Setting Up Streamlabs OBS for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/autonomous-vehicle-algorithms-as-autonomous-vehicles-avs-become-more-prevalent-algorithms-capable-of-making-decisions-based-on-sensor-data-are-crucial-for-s12/"><u>Autonomous Vehicle Algorithms: As Autonomous Vehicles (AVs) Become More Prevalent, Algorithms Capable of Making Decisions Based on Sensor Data Are Crucial for Safety-Critical Functions Like Obstacle Avoidance and Navigation in Complex Traffic Scenarios.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/employing-attention-mechanisms-detecting-fabricated-ai/"><u>Employing Attention Mechanisms: Detecting Fabricated AI</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-t2x-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo T2x 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-xiaomi-redmi-note-12t-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Xiaomi Redmi Note 12T Pro Phone?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-tvos-18-upgrade-improves-apple-tv-conversations-with-superior-audio-quality-insights/"><u>How tvOS 18 Upgrade Improves Apple TV Conversations with Superior Audio Quality - Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-out-what-really-transpires-in-ai-bot-interactions/"><u>Inside Out: What Really Transpires in AI Bot Interactions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/making-dual-monitor-setup-a-reality-for-m3-macbook-pro-users-finally-matches-up-with-macbook-airs-display-capability/"><u>Making Dual Monitor Setup a Reality for M3 MacBook Pro Users – Finally Matches Up With MacBook Air's Display Capability</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/setting-up-microsoft-copilot-on-macos-a-step-by-step-guide/"><u>Setting Up Microsoft Copilot on macOS: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/whats-coming-with-ios-eighteen-release-timeline-pricing-info-free-essential-features-and-latest-news/"><u>What's Coming with iOS Eighteen? Release Timeline, Pricing Info (Free), Essential Features, and Latest News</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-reliance-on-ai-for-writing-jobs-is-a-fatal-mistake/"><u>Why Reliance on AI for Writing Jobs Is a Fatal Mistake</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-skyline-your-tweets-elevating-twitter-streams/"><u>[Updated] Skyline Your Tweets Elevating Twitter Streams</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-toast-to-trending-celebrating-reddit-writings-top-10/"><u>2024 Approved A Toast to Trending Celebrating Reddit’ Writings (Top 10)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-demystifying-vimeo-top-choice-for-filmmakers/"><u>2024 Approved Demystifying Vimeo Top Choice for Filmmakers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-secret-weapon-unveiling-the-strategy-behind-transfer-learning/"><u>AI's Secret Weapon: Unveiling the Strategy Behind Transfer Learning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/all-about-the-next-gen-apple-watch-update-who-gets-watchos/"><u>All About the Next-Gen Apple Watch Update: Who Gets WatchOS 지난과 없는 모델은?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anthropics-innovative-ai-prompt-system/"><u>Anthropic's Innovative AI Prompt System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-how-to-install-and-utilize-the-instagram-app-for-pcs-windows-11-8-7/"><u>Discover How to Install and Utilize the Instagram App for PCs (Windows 11, 8, 7)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-covert-smart-connectivity-tool-built-into-mac-and-ipads-could-your-devices-be-equipped-with-one-gadgetguru/"><u>Discovering the Covert Smart Connectivity Tool Built Into Mac & iPads - Could Your Devices Be Equipped With One? | GadgetGuru</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experts-picks-for-the-most-advanced-small-tablets-of-202e-in-depth-analysis-and-ratings-zdnet/"><u>Experts' Picks for the Most Advanced Small Tablets of 202E: In-Depth Analysis and Ratings | ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nubia-z50-ultra-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nubia Z50 Ultra to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-refinements-of-sonys-s6500-bdp-model/"><u>In 2024, Exploring the Refinements of Sony's S6500 BDP Model</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-gives-chatgpt-a-voice-to-respond-to-prompts-and-commands/"><u>OpenAI Gives ChatGPT a Voice to Respond to Prompts and Commands</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-ios-devices-comprehensive-instructions-for-using-icloud-and-mac-to-safeguard-your-iphone-digital-guru-tips/"><u>Protecting iOS Devices: Comprehensive Instructions for Using iCloud & Mac to Safeguard Your iPhone | Digital Guru Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-resolve-why-is-my-google-chrome-freezing-and-how-to-stop-it/"><u>Quick Resolve: Why Is My Google Chrome Freezing and How to Stop It?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-choices-in-tech-the-case-against-picking-up-an-iphone-16-from-apple-insights-zdnet/"><u>Smart Choices in Tech: The Case Against Picking Up an iPhone 16 From Apple - Insights [ZDNet]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-removing-the-windows-restore-partition/"><u>Step-by-Step Guide: Removing the Windows Restore Partition</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-redmi-note-12-4g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi Redmi Note 12 4G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/syntax-sorcerers-chatgpt-meets-google-translate/"><u>Syntax Sorcerers: ChatGPT Meets Google Translate</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nner-workings-of-youtubes-system-after-an-upload/"><u>The Inner Workings of YouTube's System After an Upload</u></a></li>
 </ul></div>
 

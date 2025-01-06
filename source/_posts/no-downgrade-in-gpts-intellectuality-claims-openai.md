@@ -1,7 +1,7 @@
 ---
 title: No Downgrade in GPT's Intellectuality Claims OpenAI
-date: 2024-09-06T23:33:01.582Z
-updated: 2024-09-07T23:33:01.582Z
+date: 2025-01-02T18:01:56.331Z
+updated: 2025-01-06T04:16:59.432Z
 tags:
   - chatgpt
   - open-ai
@@ -13,18 +13,6 @@ excerpt: This Article Describes No Downgrade in GPT's Intellectuality Claims Ope
 thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f84ca632563f78a12990cc533.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## No Downgrade in GPT's Intellectuality Claims OpenAI
 
 If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question asked more than any other: is ChatGPT getting dumber?Is the performance of the world's leading generative AI chatbot decreasing as time passes, or are ChatGPT's millions of users collectively hallucinating quality issues?
@@ -34,11 +22,9 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
 **SCROLL TO CONTINUE WITH CONTENT**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is ChatGPT Getting Worse?
 
  It's something many ChatGPT users have wondered: is ChatGPT getting dumber? OpenAI releases frequent updates to ChatGPT designed to tweak its responses, safety, and more, [using user feedback](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/), prompts, and user data to inform its direction.
@@ -49,12 +35,6 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
 
  Responses requiring specific outputs, like those involving coding and math, are likely easiest to compare directly.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stanford Study Suggests ChatGPT Drop Off
 
  A combined Stanford University and UC Berkley research group believes those feelings that ChatGPT is changing could be right. Lingjiao Chen, Matei Zaharia, and James Zou's paper [How Is ChatGPT's Behavior Changing over Time?](https://arxiv.org/pdf/2307.09009.pdf) \[PDF\] is one of the first in-depth studies into ChatGPT's changing capabilities.
@@ -68,14 +48,16 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
 ![chatgpt study answers changing chart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
 ![chatgpt study answers changing chart explanations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart-explanations.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
@@ -86,11 +68,9 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
  The report explains that ChatGPT's large language model chain of thought "did not work" when presented with the questions in June. Conversation drift has always been a notable issue with LLMs, but the extreme variance in responses suggests performance issues and changes to ChatGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is ChatGPT Getting Worse? OpenAI Says No
 
  Is it just a coincidence that both casual and prolific ChatGPT users are noticing ChatGPT's changing quality?
@@ -102,11 +82,9 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
  Still, that didn't stop numerous responses to his tweet detailing how users have found ChatGPT's responses wanting, with many taking the time to annotate prompts and responses.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can OpenAI Restore ChatGPT to Its Original State?
 
  The early days of ChatGPT seem long in the distance now; November 2022 is a hazy memory, and the world of AI moves fast.
@@ -117,14 +95,11 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,4 +108,23 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-from-zero-to-hero-youtube-intro-wonders-with-imovie/"><u>[Updated] From Zero to Hero YouTube Intro Wonders with iMovie</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-new-era-of-mobile-gaming-with-android-and-vr/"><u>[Updated] In 2024, The New Era of Mobile Gaming with Android and VR</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-fraudgpts-snares-digital-vigilance-for-everyone/"><u>Avoiding FraudGPT's Snares: Digital Vigilance for Everyone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/best-accompaniments-to-elevate-your-gopro-for-2024/"><u>Best Accompaniments to Elevate Your GoPro for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-i-get-responses-with-different-sizes-in-gpt-based-systems/"><u>Can I Get Responses with Different Sizes in GPT-Based Systems?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/customize-your-online-correspondence-adding-an-email-signature-in-godaddy-webmail-made-easy/"><u>Customize Your Online Correspondence: Adding an Email Signature in GoDaddy Webmail Made Easy</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-performance-of-googles-telephony-service/"><u>Evaluating the Performance of Google’s Telephony Service</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fastforward-your-media-files-using-winxvideo-ais-gpu-technology-for-instant-speeding-up/"><u>FastForward Your Media Files Using Winxvideo AI's GPU Technology for Instant Speeding Up</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/flying-high-with-comfort-how-the-apple-vision-pro-could-revolutionize-economy-travel/"><u>Flying High with Comfort: How the Apple Vision Pro Could Revolutionize Economy Travel</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-from-raw-audio-to-polished-masterpiece-editing-with-avidemux-2023-edition/"><u>In 2024, From Raw Audio to Polished Masterpiece Editing with Avidemux - 2023 Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-infinix-hot-30i-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Infinix Hot 30i Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-icloud-note-management-into-your-linux-system-expert-tips-from-zdnet/"><u>Integrating iCloud Note Management Into Your Linux System - Expert Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-error-landscape-top-6-chatgpt-hurdles-and-remedies/"><u>Navigating Error Landscape: Top 6 ChatGPT Hurdles & Remedies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pioneering-windows-future-with-ai-tech-trends/"><u>Pioneering Windows' Future with AI Tech Trends</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-smartphone-durability-apple-reveals-enhanced-iphone-16-repairability-features-compared-to-earlier-models-insights/"><u>Revolutionizing Smartphone Durability: Apple Reveals Enhanced iPhone 16 Repairability Features Compared to Earlier Models - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-advanced-browser-and-plugin-functionality-in-chatgpt/"><u>Unlocking Advanced Browser & Plugin Functionality in ChatGPT</u></a></li>
+</ul></div>
 

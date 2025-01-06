@@ -1,7 +1,7 @@
 ---
 title: Doubting the Faithfulness of ZeroGPT and Similar Devices
-date: 2024-12-23T21:19:00.245Z
-updated: 2024-12-27T19:06:10.843Z
+date: 2025-01-03T09:57:24.128Z
+updated: 2025-01-05T21:00:26.529Z
 tags:
   - chatgpt
   - open-ai
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/e317ee1375b71965ab23395d09818c610ccf5d2d8
 
  For material, we thought it would be quite fun to give ChatGPT a crack at writing an intro for this article and then comparing it against the “human-generated” intro:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Test One: Comparing a Human and AI-Generated Article Intro
 
  The first thing we did was get ChatGPT to generate an introduction. We entered the title and gave it no further information. For the record, we used GPT-3.5 for the test.
@@ -47,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/e317ee1375b71965ab23395d09818c610ccf5d2d8
 ![Screenshot of ChatGPT generated intro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-generated-intro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We then copied the text and pasted it into ZeroGPT. As you can see, the results were less than stellar.
@@ -70,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/e317ee1375b71965ab23395d09818c610ccf5d2d8
 
  To be fair, I was aiming for this result. I kept the text generic and used “salesy” language. But the point that a human wrote this remains just as valid. This is not an inconvenience or something that can just be shrugged off. Errors like this can have serious ramifications for writers, students, and other professionals who create written works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Test Three: Testing ZeroGPT on Fiction
 
  For the third test, we are going to use ChatGPT and ask it to write some fiction. To do this, we created a scenario and prompted ChatGPT to write a brief introduction to a fictional story.
@@ -78,18 +78,18 @@ thumbnail: https://thmb.techidaily.com/e317ee1375b71965ab23395d09818c610ccf5d2d8
 
 ![Screenshot of ChatGPT fiction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-fiction.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And here was the response from ZeroGPT:
 
 ![Screenshot of ZeroGPT failing fiction test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-failing-fiction-test.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As is apparent from the result, ZeroGPT is unable to tell fact from fiction when dealing with fiction!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Test Four: News Articles
@@ -100,9 +100,17 @@ thumbnail: https://thmb.techidaily.com/e317ee1375b71965ab23395d09818c610ccf5d2d8
 
 ![Screenshot of ZeroGPT correctly identifying AI news article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-correctly-identifying-ai-news-article.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The tool so consistently flagged each news article as AI-generated that we decided to test it on a dummy news article that we wrote for the purpose.
 
 ![Screenshot of ZeroGPT misidentifying news story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-misidentifying-news-story.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It did at least identify some of the articles as human-generated, but it flagged over 70% as AI-generated. Again, we need to be fair here; this was a fairly basic re-hash of the Bing article and was hardly Pulitzer Prize quality.
 
@@ -122,17 +130,9 @@ thumbnail: https://thmb.techidaily.com/e317ee1375b71965ab23395d09818c610ccf5d2d8
 
  Another factor that must be considered is what constitutes AI-generated content. If AI-generated content is simply reworded, is it human or AI-generated content? This represents another major challenge—the blurring of the lines between the two makes defining machine-created content almost impossible.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Looking to the Future of AI Detection
 
 ![cyber-glasses-1938449_1280](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/cyber-glasses-1938449_1280.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This may sound like we are knocking tools like ZeroGPT. This isn’t the case; they face massive challenges, and the technology is barely out of diapers. The rapid uptake of tools like ChatGPT has created a demand for AI detection, and the technology should be given a chance to mature and learn.
 
@@ -169,22 +169,24 @@ thumbnail: https://thmb.techidaily.com/e317ee1375b71965ab23395d09818c610ccf5d2d8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-remarkable-effects-of-asmr-on-you/"><u>[New] The Remarkable Effects of ASMR on You</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bard-by-google-set-to-outshine-chatgpt-in-ai-race/"><u>Bard by Google Set to Outshine ChatGPT in AI Race</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/best-no-cost-dvd-copying-applications-protect-your-memories-without-paying-a-penny/"><u>Best No-Cost DVD Copying Applications: Protect Your Memories Without Paying a Penny</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-wisely-in-depth-comparison-of-google-pixel-watch-and-apples-latest-marvel-the-series-9-expert-analysis/"><u>Choosing Wisely: In-Depth Comparison of Google Pixel Watch ⌚️ and Apple's Latest Marvel, the Series 9 | Expert Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/designing-future-web-services-with-ai-assistance-from-chatgpt/"><u>Designing Future Web Services with AI Assistance From ChatGPT</u></a></li>
-<li><a href="https://techtrends.techidaily.com/do-electric-vehicles-handle-polar-temperatures-effectively/"><u>Do Electric Vehicles Handle Polar Temperatures Effectively?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-install-guide-for-epson-xp-440-driver-updates-keeping-your-print-quality-top-notch/"><u>Easy Install Guide for Epson XP-440 Driver Updates – Keeping Your Print Quality Top-Notch</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-fitness-queries-with-optimized-prompts/"><u>Elevating Fitness Queries with Optimized Prompts</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-12-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 12 iCloud Bypass</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harness-the-power-of-ai-chatgpts-role-in-video-scriptwriting/"><u>Harness the Power of AI: ChatGPT's Role in Video Scriptwriting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-usechatgpts-co-pilot-extension-enhances-user-experience/"><u>How UseChatGPT's Co-Pilot Extension Enhances User Experience</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-x50i-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor X50i Phone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-realme-narzo-60x-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Realme Narzo 60x 5G Phone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learning-in-your-fifies-a-wise-multilingual-choice/"><u>Learning in Your Fifies: A Wise Multilingual Choice</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-mkv-to-mp4-transformation-on-windows/"><u>Navigating Through MKV-to-MP4 Transformation on Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/redefining-interactive-entertainment-with-ai-gaming-tech/"><u>Redefining Interactive Entertainment with AI Gaming Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-gpt4all-and-how-does-it-work/"><u>What Is GPT4All and How Does It Work?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-media-mastery-youtube-vs-tiktoks-best-fit/"><u>[Updated] 2024 Approved Media Mastery Youtube Vs. TikTok's Best Fit</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-futures-camera-giants-top-10-camcorder-picks-2024-edition/"><u>[Updated] Future's Camera Giants Top 10 Camcorder Picks, 2024 Edition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-art-of-vocal-performance-for-video-projects/"><u>[Updated] In 2024, The Art of Vocal Performance for Video Projects</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inside-the-world-of-funimate-gamers/"><u>[Updated] Inside the World of Funimate Gamers</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-secure-your-preference-with-these-9-leading-websites-offering-3d-typography-for-2024/"><u>[Updated] Secure Your Preference With These 9 Leading Websites Offering 3D Typography for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-expert-picks-the-phones-chosen-editors-for-everyday-use/"><u>1. Expert Picks: The Phones Chosen Editors for Everyday Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-as-a-companion-in-scholarly-pursuits/"><u>AI as a Companion in Scholarly Pursuits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-perfection-our-curated-list-of-best-tools-for-prompts/"><u>Artificial Intelligence Perfection: Our Curated List of Best Tools for Prompts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compact-computing-unleashed-can-the-newly-launched-m4-powered-mac-mini-outshine-the-apple-tv-in-size-and-performance-insights/"><u>Compact Computing Unleashed: Can the Newly Launched M4-Powered Mac Mini Outshine the Apple TV in Size and Performance? Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-combat-shake-in-visual-media-for-2024/"><u>How to Combat Shake in Visual Media for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-mix-fold-3-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Mix Fold 3 Phone without PIN</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/liberate-your-iphone-storage-the-ultimate-guide-to-clearing-junk-files-and-reclaiming-space/"><u>Liberate Your iPhone Storage: The Ultimate Guide to Clearing Junk Files & Reclaiming Space</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-insta-lives-guide-to-downloads-and-creative-techniques-for-2024/"><u>Mastering Insta Lives Guide to Downloads & Creative Techniques for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-research-the-chatgpt-approach/"><u>Optimizing Research: The ChatGPT Approach</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-pc-issues-with-starting-resident-evil-5/"><u>Resolved: Fixing PC Issues with Starting Resident Evil 5</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-logitech-webcam-and-mic-a-guide-to-overcoming-technical-hiccups/"><u>Reviving Logitech Webcam & Mic: A Guide to Overcoming Technical Hiccups</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/skip-googles-cleverly-coded-malwarebard-app/"><u>Skip Google’s Cleverly Coded Malware—Bard App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sneak-peeks-stopped-safeguarding-chatbot-data/"><u>Sneak Peeks Stopped: Safeguarding Chatbot Data</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essence-of-chatgpt-forging-ai-driven-innovation-pathways/"><u>The Essence of ChatGPT: Forging AI-Driven Innovation Pathways</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Avoiding Missteps in Chat with GPT Technology
-date: 2024-12-25T19:47:18.569Z
-updated: 2024-12-27T21:05:11.832Z
+date: 2024-12-30T19:01:52.303Z
+updated: 2025-01-06T02:33:45.924Z
 tags:
   - chatgpt
   - open-ai
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Too Many Instructions In a Single Prompt
@@ -65,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 
  The second set of prompts will produce much more detailed information and relevant responses.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Being Overly Specific With Your Instructions
 
  Although it might appear beneficial to provide highly detailed prompts, this strategy isn't always optimal. Detailed instructions indeed offer ChatGPT a clear direction for generating responses. However, excessive detail can unintentionally confine ChatGPT's responses to an overly narrow context, potentially leading to less accurate responses and hallucinations.
@@ -74,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
  As a demonstration, we asked ChatGPT to limit its responses to any question we ask about Elon Musk's view on the subject. We asked ChatGPT about Mars, rockets, and Electric Vehicles, and the responses were good since Elon Musk has clearly said a lot on the topic. However, when we asked ChatGPT to tell us about Pizza (remember, the responses should only be Elon Musk's views on the topic), ChatGPT made up hilarious commentary.
 
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Not Providing Context When Necessary
 
@@ -88,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Not Using Examples
@@ -111,23 +119,15 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Not Being Clear and Specific With Your Instructions
 
@@ -160,20 +160,19 @@ thumbnail: https://thmb.techidaily.com/26f65c8609b0e088bfc952ce0e1907346f9597a5e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-download.techidaily.com/free-upgrade-to-nvidias-newest-geforce-rtx-3090-driver-on-windows-7810/"><u>[Free] Upgrade to NVIDIA's Newest GeForce RTX 3090 Driver on Windows 7/8/10</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-beyond-staged-success-ten-truths-about-reels-on-instagram/"><u>[New] In 2024, Beyond Staged Success Ten Truths About Reels on Instagram</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-checklist-for-your-youtubes-most-impactful-visuals/"><u>[Updated] The Ultimate Checklist for Your YouTube's Most Impactful Visuals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/accessible-information-via-chatgpt-for-all/"><u>Accessible Information via ChatGPT for All</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-around-the-world-5-innovative-approaches/"><u>ChatGPT Around the World: 5 Innovative Approaches</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/complete-transformation-manchester-uni-healthcares-revolutionary-shift-to-full-automation-of-invoicing-and-minimizing-payment-hazards/"><u>Complete Transformation: Manchester Uni Healthcare's Revolutionary Shift to Full-Automation of Invoicing & Minimizing Payment Hazards</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-interactions-via-chatgpt/"><u>Elevating Interactions via ChatGPT</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/excellent-shot-capture-best-action-cam-tech/"><u>Excellent Shot Capture - Best Action Cam Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-gist-to-gui-running-chatgpt-in-windows/"><u>From Gist to GUI: Running ChatGPT in Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-proficiency-with-probability-questions/"><u>GPT's Proficiency with Probability Questions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808238469-how-to-uninstall-windows-10-anniversary-update-easily/"><u>How to Uninstall Windows 10 Anniversary Update. Easily!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-itel-a70-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Itel A70 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-repair-update-apple-authorizes-second-hand-components-for-certain-fixes-tech-news/"><u>IPhone Repair Update: Apple Authorizes Second-Hand Components for Certain Fixes - Tech News</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-huawei-p60-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Huawei P60</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/value-beyond-measure-the-compact-power-of-this-superior-8-in-1-adapter-tech-reveal-on-zdnet/"><u>Value Beyond Measure: The Compact Power of This Superior 8-in-1 Adapter - Tech Reveal on ZDNet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-premier-media-mover-mp4-to-fb-for-2024/"><u>[New] Premier Media Mover MP4-to-FB for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-sonic-canvas-painting-sounds-on-a-mac/"><u>[Updated] 2024 Approved Sonic Canvas Painting Sounds on a Mac</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-essential-photographic-tool-dynamic-wallpaper-editor/"><u>[Updated] In 2024, Essential Photographic Tool Dynamic Wallpaper Editor</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-ultimate-hd-video-memory-creators/"><u>2024 Approved Ultimate HD Video Memory Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-the-eu-artificial-intelligence-act-and-its-influence-on-gpt-based-dialogue-systems/"><u>Breaking Down the EU Artificial Intelligence Act and Its Influence on GPT-Based Dialogue Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/determining-the-accuracy-in-chatgpts-words/"><u>Determining the Accuracy in ChatGPT's Words</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-guide-why-using-a-vpn-with-your-vision-pro-and-similar-arvr-gear-is-crucial-insights/"><u>Essential Guide: Why Using a VPN with Your Vision Pro and Similar AR/VR Gear Is Crucial - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-analysis-dreame-bot-l10-pro-revolutionary-lidar-equipped-cleaning-companion/"><u>Expert Analysis: Dreame Bot L10 Pro - Revolutionary LiDAR-Equipped Cleaning Companion</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebooks-vision-for-video-unpacking-the-short-form-movement-for-2024/"><u>Facebook's Vision for Video Unpacking the Short Form Movement for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-vs-perplexity-seeking-the-ideal-ai-chatbot/"><u>GPT Vs. Perplexity: Seeking the Ideal AI Chatbot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/joining-bings-ai-world-your-onboarding-tips/"><u>Joining Bing's AI World: Your Onboarding Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimal-assistance-premier-tone-designers-for-iphones-for-2024/"><u>Optimal Assistance Premier Tone Designers for iPhones for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-error-messages-in-kodi-a-comprehensive-guide-to-smooth-streaming/"><u>Resolving Error Messages in Kodi - A Comprehensive Guide to Smooth Streaming</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/understanding-wmv-format-a-comprehensive-guide-on-opening-wmv-files/"><u>Understanding WMV Format: A Comprehensive Guide on Opening WMV Files</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Behind the Curtain of Machine Learning: Black Boxes Analysis"
-date: 2024-12-23T22:00:06.122Z
-updated: 2024-12-27T22:18:19.344Z
+date: 2025-01-05T06:21:36.272Z
+updated: 2025-01-05T18:39:30.899Z
 tags:
   - chatgpt
   - open-ai
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are AI Black Boxes?
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
  We will set the concerns aside for the moment as we look at how AI black boxes work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How AI Black Boxes Work
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
  Once the training phase is completed, the black boxes can be deployed to make independent decisions based on the learned algorithms and patterns. However, the lack of transparency about how decisions are reached is one of the primary concerns surrounding AI black boxes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Challenges and Risks of AI Black Boxes
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
  These are known challenges, and efforts are underway to develop more accountable and transparent AI systems that can "show their workings."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does the Future Hold for AI Black Boxes?
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
  This is still a raw technology, one which is straining ethical and legal boundaries. Addressing the concerns around AI black boxes is critical to its future and development.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI Black Boxes: An Ethical Dilemma
@@ -125,24 +125,20 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-identifying-when-unfriended-on-snapchat-for-2024/"><u>[New] Identifying When Unfriended on Snapchat for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ideal-methods-to-archive-playstation-4-gaming-sessions/"><u>[New] In 2024, Ideal Methods to Archive PlayStation 4 Gaming Sessions</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-complete-annihilation-of-youtube-shorts-accessibility/"><u>[Updated] In 2024, Complete Annihilation of YouTube Shorts Accessibility</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-fix-the-invisible-fb-watch-video-icon-restored/"><u>[Updated] In 2024, Fix the Invisible FB Watch Video Icon, Restored</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-optimizing-video-speed-on-tiktok-platform-for-2024/"><u>[Updated] Optimizing Video Speed on TikTok Platform for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/affordably-powerful-the-compact-8-in-1-adapter-that-exceeds-expectations-insights/"><u>Affordably Powerful: The Compact 8-in-1 Adapter That Exceeds Expectations - Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/auto-gpt-breakdown-what-sets-it-apart-from-chatgpt/"><u>Auto-GPT Breakdown: What Sets It Apart From ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-software-and-services-for-both-windows-and-mac-os-expert-picks-from-zdnets-top-11-list/"><u>Essential Software and Services for Both Windows & Mac OS: Expert Picks From ZDNet's Top 11 List</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expertly-evaluated-the-ultimate-list-of-note-taking-tablets-for-2-benefits-of-taking-notes-on-a-tablet-over-traditional-paper/"><u>Expertly Evaluated: The Ultimate List of Note-Taking Tablets for 2# Benefits of Taking Notes on a Tablet Over Traditional Paper</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-x5-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Poco X5 Pro PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mastering-essential-ad-copy-frameworks-on-facebook/"><u>In 2024, Mastering Essential Ad Copy Frameworks on Facebook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/lgs-latest-audio-enhancement-the-ultimate-tv-experience-that-will-thrill-apple-fans-insights/"><u>LG's Latest Audio Enhancement: The Ultimate TV Experience That Will Thrill Apple Fans | Insights</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/maximizing-social-sharing-uploading-360-degree-images-on-mobile-platforms-for-2024/"><u>Maximizing Social Sharing Uploading 360-Degree Images on Mobile Platforms for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mirage-gpt-modifier-exfiltrates-fb-accounts/"><u>Mirage GPT Modifier: Exfiltrates FB Accounts</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/msi-afterburner-guide-correcting-gpu-recognition-errors-in-the-latest-windows-operating-systems/"><u>MSI Afterburner Guide: Correcting GPU Recognition Errors in the Latest Windows Operating Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/premier-6-titans-massive-mlm-models-unveiled/"><u>Premier 6 Titans: Massive MLM Models Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/puzzling-the-digital-sphere-join-4-ai-enhanced-crime-games/"><u>Puzzling the Digital Sphere: Join 4 AI-Enhanced Crime Games</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-vivo-x-flip-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo X Flip Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-creativity-with-anthropics-claude-3/"><u>Unleashing Creativity with Anthropic's Claude 3</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-harnessing-the-power-of-look-up-tables-in-film-grading/"><u>[New] Harnessing the Power of Look-Up Tables in Film Grading</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-emojis-revealed-a-closer-look-at-snapchats-hidden-language/"><u>[New] In 2024, Emojis Revealed A Closer Look at Snapchat's Hidden Language</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-smart-guide-for-spawning-share-worthy-memes-in-9gag/"><u>[New] In 2024, The Smart Guide for Spawning Share-Worthy Memes in 9GAG</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-clues-to-detecting-an-snapchat-block-for-2024/"><u>[Updated] The Clues to Detecting an Snapchat Block for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-triple-caption-magic-for-compelling-ig-videographies-for-2024/"><u>[Updated] Triple Caption Magic for Compelling IG Videographies for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/binggpt-crypto-fraud-alerts-detecting-illegitimate-tokens/"><u>BingGPT Crypto Fraud Alerts: Detecting Illegitimate Tokens</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-gap-between-imagination-and-reality-for-dandd-characters/"><u>Bridging Gap Between Imagination and Reality for D&D Characters</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-decoding-instagrams-music-copyright-doctrine/"><u>In 2024, Decoding Instagram's Music Copyright Doctrine</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-motorola-g24-power-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Motorola G24 Power Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lightning-fast-windowed-gallery-viewer-alert/"><u>In 2024, Lightning-Fast Windowed Gallery Viewer Alert</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-the-engine-room-large-scale-language-systems/"><u>Inside the Engine Room: Large-Scale Language Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-creativity-anthropics-new-ai-tools/"><u>Mastering Creativity: Anthropic's New AI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swift-techniques-for-eliminating-old-gpt-dialogues/"><u>Swift Techniques for Eliminating Old GPT Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transition-from-apples-finewoven-to-high-quality-beats-leather-and-fabric-cases-exclusive-insights-by-zdnet/"><u>Transition From Apple's FineWoven to High-Quality Beats Leather & Fabric Cases | Exclusive Insights by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-quintupled-impact-ai-in-criminal-computing/"><u>Unraveling the Quintupled Impact: AI in Criminal Computing</u></a></li>
 </ul></div>
 

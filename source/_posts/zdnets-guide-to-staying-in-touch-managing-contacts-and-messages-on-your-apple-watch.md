@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Guide to Staying in Touch: Managing Contacts and Messages on Your Apple Watch"
-date: 2024-12-23T18:47:57.599Z
-updated: 2024-12-27T16:42:36.532Z
+date: 2024-12-30T10:40:14.149Z
+updated: 2025-01-06T00:08:11.947Z
 tags:
   - apple
 categories:
@@ -47,10 +47,6 @@ This is the screen recording button we'll use to start the recording.
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Open your Control Center
 
 Next, you'll want to open Control Center. This can be done from your home screen, or from within the vast majority of iPhone apps. For iPhones without a physical Home Button, you can access it by swiping down from the top-right corner of the display. 
@@ -62,7 +58,7 @@ While recording, your Screen Recording button will look like this (minus the red
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Begin screen recording
@@ -75,6 +71,10 @@ Your clock will look like this as long as Screen Recording is active.
 
 Michael Gariffo
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 5: Record
 
 This is when you'll want to complete whatever task it is you wanted to screen record. Once you've finished recording your task, move on to the final step below.
@@ -82,10 +82,6 @@ This is when you'll want to complete whatever task it is you wanted to screen re
 This is the confirmation box that will appear when you stop your recording. 
 
 Michael Gariffo
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. End your recording
 
@@ -96,17 +92,21 @@ In both cases, the recording you just produced will immediately be saved to your
 **Also:** [How to record a call on your iPhone](https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does the Screen Recording app actually capture?
 
 It captures everything that goes on across your entire iPhone screen, as well as any sound produced by the iPhone itself while it's recording. This includes any actions you perform, any full-screen videos, and any audio you play via websites, apps, etc. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I add narration to my captured videos?
@@ -153,24 +153,18 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-infusing-vitality-into-text-an-animated-adventure/"><u>[Updated] 2024 Approved Infusing Vitality Into Text An Animated Adventure</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-social-media-showdown-continues-the-ongoing-debate-on-igtv-and-youtube/"><u>[Updated] 2024 Approved Social Media Showdown Continues The Ongoing Debate on IGTV and YouTube</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unveiling-the-secrets-of-youtube-to-mp4mpeg-mastery/"><u>[Updated] In 2024, Unveiling the Secrets of YouTube to MP4/MPEG Mastery</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-top-5-driving-and-race-replicas/"><u>2024 Approved Top 5 Driving & Race Replicas</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-transforming-scripted-words-into-powerful-video-soundtracks/"><u>2024 Approved Transforming Scripted Words Into Powerful Video Soundtracks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-m2-powerhouse-mac-mini-hits-record-low-at-only-479-the-verge/"><u>Apple's M2 Powerhouse Mac Mini Hits Record Low at Only $479 - The Verge</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-to-fixing-stuttering-in-halo-infinite/"><u>Comprehensive Guide to Fixing Stuttering in Halo Infinite</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-clear-and-consistent-slug-lines-for-2024/"><u>Crafting Clear and Consistent Slug Lines for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-why-gpt-cant-be-tweaked-easily/"><u>Exploring Why GPT Can't Be Tweaked Easily</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-your-hands-on-the-just-released-affordable-apple-10gen-ipad-for-a-steal-at-299-post-prime-day-insider-info/"><u>Get Your Hands on the Just-Released, Affordable Apple 10Gen iPad for a Steal at $299 Post-Prime Day – Insider Info !</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-a-step-by-step-approach-to-yt-channel-descriptors/"><u>In 2024, A Step-by-Step Approach to YT Channel Descriptors</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/remote-comic-genius-app/"><u>Remote Comic Genius App</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smart-choices-for-your-wrist-comparing-google-pixel-watch-with-apple-series-8-expert-analysis-at-zdnet/"><u>Smart Choices for Your Wrist: Comparing Google Pixel Watch with Apple Series 8 | Expert Analysis at ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/switching-from-apple-vision-pro-and-meta-quest-3-discover-affordable-alternatives-with-top-notch-xr-glasses/"><u>Switching From Apple Vision Pro & Meta Quest 3: Discover Affordable Alternatives with Top-Notch XR Glasses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dos-and-donts-of-using-chatgpt-as-a-freelance-writer/"><u>The Do’s and Don’ts of Using ChatGPT as a Freelance Writer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dynamics-of-colossal-machine-learning-constructs/"><u>The Dynamics of Colossal Machine Learning Constructs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-the-hacking-capabilities-of-chatgpt/"><u>Understanding the Hacking Capabilities of ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-hugging-face-and-what-is-it-used-for/"><u>What Is Hugging Face and What Is It Used For?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028662618-windows-10mp4/"><u>Windows 10向けウィンドウズメディアビデオからMP4への高速バッチ変換方法を解説します</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-best-12-screensavers-with-no-time-caps/"><u>[Updated] Best 12 Screensavers with No Time Caps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-select-from-the-leading-7-android-apps-to-eradicate-ads/"><u>2024 Approved Select From the Leading 7 Android Apps to Eradicate Ads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-the-delay-chatgpt-4-versus-fast-gpt-35/"><u>Assessing the Delay: ChatGPT-4 Versus Fast GPT-3.5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/differentiating-linguistic-analysis-from-machine-algorithms/"><u>Differentiating Linguistic Analysis From Machine Algorithms</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/enhance-creativity-with-these-top-6-instagram-reel-tools-for-2024/"><u>Enhance Creativity with These Top 6 Instagram Reel Tools for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971289704-how-to-get-the-latest-amd-rx-580-drivers-step-by-step-instructions-for-a-quick-fix/"><u>How to Get the Latest AMD RX 580 Drivers: Step-by-Step Instructions for a Quick Fix</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-tech-tutorial-saving-screen-movies-from-your-gadgets/"><u>In 2024, Tech Tutorial Saving Screen Movies From Your Gadgets</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/including-servers/"><u>Including Servers</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/patrick-p-jean-executive-leader-at-abbyy-as-cpo-and-cto/"><u>Patrick P. Jean, Executive Leader at ABBYY as CPO and CTO</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reasons-to-dismiss-auto-generated-dialogues/"><u>Reasons to Dismiss Auto-Generated Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/should-you-upgrade-to-iphone-16-pro-or-stick-with-iphone-14-pro-expert-analysis/"><u>Should You Upgrade to iPhone 16 Pro or Stick with iPhone 14 Pro? Expert Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-concepts-into-online-realities-via-chatgpts-4-keys/"><u>Transforming Concepts Into Online Realities via ChatGPT’s 4 Keys</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-how-to-smart-ways-to-fuse-playlists-together-on-the-spotify-platform/"><u>Ultimate How-To: Smart Ways to Fuse Playlists Together on the Spotify Platform</u></a></li>
 </ul></div>
 

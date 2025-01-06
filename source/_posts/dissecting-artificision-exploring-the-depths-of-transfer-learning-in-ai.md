@@ -1,7 +1,7 @@
 ---
 title: "Dissecting Artificision: Exploring the Depths of Transfer Learning in AI"
-date: 2024-09-12T07:41:19.653Z
-updated: 2024-09-13T07:41:19.653Z
+date: 2025-01-01T23:25:26.640Z
+updated: 2025-01-05T21:57:33.049Z
 tags:
   - chatgpt
   - open-ai
@@ -24,28 +24,12 @@ thumbnail: https://thmb.techidaily.com/be2a1675c0ab7927f3587b55784c9a94cb04734a3
  Without transfer learning, training an effective and reliable model will often be a resource-prohibitive endeavor, requiring lots of money, time, and expertise, with ChatGPT developer OpenAI estimated to have spent millions training GPT-3, GPT-3.5, and GPT-4\. With the power of transfer learning, you can train your own model as powerful as the latest GPT model with little resources in a short period.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is AI Transfer Learning?
 
 ![Finetuning pre-trained model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/pre-trained-model.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Transfer learning is the idea of taking a pre-trained model such as BERT or one of the [different GPT models](https://www.makeuseof.com/gpt-models-explained-and-compared/) and training it on a custom dataset to work on tasks it wasn't necessarily trained to tackle.
 
@@ -54,16 +38,7 @@ thumbnail: https://thmb.techidaily.com/be2a1675c0ab7927f3587b55784c9a94cb04734a3
  This works since cats and dogs share many traits the pre-trained model can already identify. Since the cat-classifying model can identify the various traits of a cat, such as having four legs, fur coats, and prominent snouts, the dog-classifying model can skip all the training to identify those traits and inherit them from the original model. After inheriting all those neural networks, you then cut off the last layers of the trained model used to identify the more specific traits of a cat and replace them with a dataset specific to dogs.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What AI Models Can You Use for Transfer Learning?
@@ -85,21 +60,16 @@ thumbnail: https://thmb.techidaily.com/be2a1675c0ab7927f3587b55784c9a94cb04734a3
  Training an AI model from scratch is possible, but you need greater resources to do so.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Does Transfer Learning Work?
 
 ![Transfer-Learning-Illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/final.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In essence, there are three stages when it comes to transfer learning.
 
@@ -108,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/be2a1675c0ab7927f3587b55784c9a94cb04734a3
 * **Fine-Tuning:** After the pre-trained model has been frozen and the top layers removed, a new dataset is fed to the learning algorithm, which is then used to train the new model and the specifics of its application.
 
  There is more to it than the three stages, but this outline details roughly how the AI transfer learning process works, with some fine-tuning.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Limitations to AI Transfer Learning
 
@@ -127,10 +90,7 @@ thumbnail: https://thmb.techidaily.com/be2a1675c0ab7927f3587b55784c9a94cb04734a3
  So while transfer learning is a handy AI learning technique, limitations exist, and it isn't a silver bullet.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Use Transfer Learning?
@@ -156,5 +116,24 @@ thumbnail: https://thmb.techidaily.com/be2a1675c0ab7927f3587b55784c9a94cb04734a3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-simplycapture-windows-screens-in-minutes/"><u>[New] 2024 Approved SimplyCapture - Windows Screens in Minutes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-goovision-elite-next-gen-screen-capture-for-2024/"><u>[Updated] GooVision Elite Next-Gen Screen Capture for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-maximize-creativity-with-no-investment-explore-these-8-video-editors-for-2024/"><u>[Updated] Maximize Creativity with No Investment Explore These 8 Video Editors for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-action-filming-at-its-peak-garmin-virb-ultra-30-analysis/"><u>2024 Approved Action Filming at Its Peak Garmin VIRB Ultra 30 Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-to-iphone-ios-18-support-models-compatible-and-incompatible/"><u>Comprehensive Guide to iPhone iOS 18 Support - Models Compatible and Incompatible</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dont-miss-out-immediate-purchase-of-top-three-wwdc-apple-innovations-and-how-to-secure-them-now-zdnet-insights/"><u>Don't Miss Out: Immediate Purchase of Top Three WWDC Apple Innovations and How to Secure Them Now | ZDNET Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/improve-your-audio-experience-discover-how-tvos-18-upgrades-apple-tvs-dialogue-clarity-insights-from-zdnet/"><u>Improve Your Audio Experience: Discover How tvOS 18 Upgrades Apple TV's Dialogue Clarity - Insights From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-approaches-for-clearing-background-elements-in-figma-for-2024/"><u>Innovative Approaches for Clearing Background Elements in Figma for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimize-periscope-broadcasts-for-maximum-velocity-for-2024/"><u>Optimize Periscope Broadcasts for Maximum Velocity for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tation-plaza-your-gateway-to-a-thousand-channels-for-2024/"><u>PlayStation Plaza Your Gateway to a Thousand Channels for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preserving-data-integrity-chatgpt-for-businesses/"><u>Preserving Data Integrity: ChatGPT for Businesses</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-motorola-moto-g24-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Motorola Moto G24</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-microsoft-enterprise-solutions-for-ios-expert-picks/"><u>Top 10 Microsoft Enterprise Solutions for iOS : Expert Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-concerns-leading-firms-against-gpt-usage/"><u>Top 5 Concerns Leading Firms Against GPT Usage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-use-of-python-in-gpt-3/"><u>Transformative Use of Python in GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-document-mysteries-with-chatgpts-4-reading-techniques/"><u>Unlocking Document Mysteries with ChatGPT's 4 Reading Techniques</u></a></li>
+</ul></div>
 

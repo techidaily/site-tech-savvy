@@ -1,7 +1,7 @@
 ---
 title: "Guide: Effortless iPhone Data Protection Using iCloud and macOS - Tips"
-date: 2024-12-20T19:49:17.255Z
-updated: 2024-12-27T19:08:21.922Z
+date: 2025-01-02T10:47:33.624Z
+updated: 2025-01-06T08:46:25.226Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to check in with a friend or family member from your Apple Watch
@@ -35,7 +35,7 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Update your devices
@@ -53,6 +53,10 @@ Screenshot by Lance Whitney/ZDNET
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -76,10 +80,6 @@ When the timer is up to indicate that you should have reached your destination, 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Change the time for a Check In
 
 If you don't want to share the default details with a Check In, you can easily change them. After starting or resuming a conversation in Messages with your trusted contact, tap the + icon and select Check In. At the Check In screen, tap Edit. The next screen displays several settings that you can modify.
@@ -90,6 +90,10 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
@@ -97,7 +101,7 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
@@ -107,10 +111,6 @@ Next, tap the link for "Add a Destination." Start typing the address of the dest
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
 
@@ -154,24 +154,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-enhancing-instagram-visibility-with-powerful-promotions/"><u>[New] 2024 Approved Enhancing Instagram Visibility with Powerful Promotions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-meme-mayhem-top-twenty-from-reddit-and-twitter-for-2024/"><u>[New] Meme Mayhem Top Twenty From Reddit & Twitter for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-perfectly-blending-iphones-multimedia/"><u>[New] Perfectly Blending iPhones' Multimedia</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-boosting-video-content-with-effective-srt-file-management/"><u>[Updated] Boosting Video Content with Effective SRT File Management</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-instagram-live-without-a-trace-the-unseen-spectators-playbook/"><u>[Updated] Instagram Live without a Trace The Unseen Spectator's Playbook</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-snapedit-a-beginners-guide-to-photo-mastery-for-2024/"><u>[Updated] Snapedit A Beginner's Guide to Photo Mastery for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-prime-desktopmobile-communication-alternatives-to-zoom/"><u>2024 Approved Prime Desktop/Mobile Communication Alternatives to Zoom</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-risks-in-altering-chatgpt-settings/"><u>Assessing Risks in Altering ChatGPT Settings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-verdict-on-the-ultimate-tablet-for-note-taking-in-2024-in-depth-analysis-cnet/"><u>Expert Verdict on the Ultimate Tablet for Note-Taking in 202^4: In-Depth Analysis | CNET</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-f04-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy F04 Phone without PIN</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-15-pro-max-available-at-just-001-on-amazon-the-ultimate-guide-to-snagging-this-steal/"><u>IPhone 15 Pro Max Available at Just $0.01 on Amazon – The Ultimate Guide to Snagging This Steal!</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ful-melodies-best-song-caricatures-for-2024/"><u>Mirthful Melodies Best Song Caricatures for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prioritizing-factors-when-implementing-ai-for-emotional-support-via-chatgpt/"><u>Prioritizing Factors when Implementing AI for Emotional Support via ChatGPT</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/reel-in-viewers-mastery-of-live-360-video-broadcasts-on-youtube-for-2024/"><u>Reel In Viewers Mastery of Live 360 Video Broadcasts on Youtube for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-day-exploring-7-chatgpt-enhancements-for-productivity/"><u>Revolutionize Your Day: Exploring 7 ChatGPT Enhancements for Productivity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/savory-science-ai-assisted-healthy-eating-education/"><u>Savory Science: AI-Assisted Healthy Eating Education</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/section-nce-advanced-topics-in-welding-metallurgy-residual-stresses-and-distortion-control-continued/"><u>Section Nce: Advanced Topics in Welding Metallurgy - Residual Stresses and Distortion Control (Continued)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-to-overcome-chatgpt-saturation-pc/"><u>Strategies to Overcome ChatGPT Saturation (PC)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-cellphone-bargains-on-independence-day-compiled/"><u>Top Cellphone Bargains on Independence Day - Compiled</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-enhance-your-chromebooks-speech-top-5-web-based-alterations/"><u>[New] In 2024, Enhance Your Chromebook’s Speech Top 5 Web-Based Alterations</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-subject-emphasis-background-cleanse/"><u>[Updated] In 2024, Subject Emphasis Background Cleanse</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unmatched-warfare-discovering-the-prime-7-total-war-battles-for-2024/"><u>[Updated] Unmatched Warfare Discovering the Prime 7 Total War Battles for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/itunes-4/"><u>【完全還元】消えてしまった iTunes 曲を取り戻す！これは4つの詳しい方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-ultimate-selection-of-magsafe-wallets-in-depth-analysis-and-expert-ratings-insightful-picks/"><u>2024'S Ultimate Selection of MagSafe Wallets: In-Depth Analysis and Expert Ratings | Insightful Picks</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-protection-in-depth-analysis-of-the-procase-macbook-pro-13-laptop-sleeve/"><u>Affordable Protection: In-Depth Analysis of the ProCase MacBook Pro 13 Laptop Sleeve</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-productivity-on-the-go-with-leading-ipad-applications-computerworld-review/"><u>Boost Your Productivity on the Go with Leading iPad Applications | ComputerWorld Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empower-your-job-quest-with-chatgpt-tips/"><u>Empower Your Job Quest with ChatGPT Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expertly-selected-best-apple-watch-band-picks-in-depth-analysis-and-ratings/"><u>Expertly Selected Best Apple Watch Band Picks : In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-gpts-capabilities-to-overhaul-health-systems/"><u>Exploring GPT's Capabilities to Overhaul Health Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/getting-started-with-langchain-and-llm/"><u>Getting Started with LangChain & LLM</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-analyzing-investment-costs-for-auditory-visual-fusion/"><u>In 2024, Analyzing Investment Costs For Auditory-Visual Fusion</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-essential-mac-captures-compilation-under-156-chars/"><u>In 2024, Essential Mac Captures Compilation (Under 156 Chars)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-se-2022-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone SE (2022) Without Passcode Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-dialogue-for-film-selection/"><u>Leveraging AI Dialogue for Film Selection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/october-prime-deals-apple-m3-macbook-air-discounted-by-250-on-amazon-exclusive-report/"><u>October Prime Deals: Apple M3 MacBook Air Discounted by $250 on Amazon - Exclusive Report</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-ai-with-python-and-gpt-3-techniques/"><u>Pioneering AI with Python and GPT-3 Techniques</u></a></li>
+<li><a href="https://win-hot.techidaily.com/solving-iphone-touch-id-issues-post-ios-15-update-a-comprehensive-fix-guide/"><u>Solving iPhone Touch ID Issues Post-iOS 15 Update: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tackling-the-unseen-potential-paperclips-and-ais-bond/"><u>Tackling the Unseen Potential: Paperclips and AI's Bond</u></a></li>
 </ul></div>
 

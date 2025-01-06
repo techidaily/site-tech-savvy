@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Internet Search: AI-Enhanced Bing"
-date: 2024-09-06T23:34:25.666Z
-updated: 2024-09-07T23:34:25.666Z
+date: 2025-01-04T08:16:32.124Z
+updated: 2025-01-06T00:37:10.188Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes The Evolution of Internet Search: AI-Enhanced B
 thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc5357892b0b77a3b9431bbf691.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Evolution of Internet Search: AI-Enhanced Bing
 
  Microsoft overhauled Bing in February 2023 by integrating it with OpenAI’s latest AI model. Building on the success of ChatGPT, the new Bing will feature an AI chatbot capable of giving comprehensive answers to complex search queries.
@@ -30,11 +24,9 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
  More importantly, we need to look ahead and decode how our experience with the search engines we’ve acquainted ourselves with for so many years will change in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Microsoft Prometheus Model?
 
  Microsoft has branded Bing and the Edge browser as your AI copilot for the web. Undoubtedly, the new [AI-powered Bing packs some huge upgrades](http://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , but it’s essential to understand how they’re made possible.
@@ -42,33 +34,17 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
 ![OpenAI logo up-close on a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-ai-web-apps.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Microsoft Prometheus is a specialized artificial intelligence model for superior web searching and querying and is fundamentally based on OpenAI’s GPT3.5 and ChatGPT models. Its capabilities are optimized for rapidly fetching relevant and accurate search results without compromising user safety.
 
  The Prometheus model powers the new Bing to deliver summarized search results that are more relevant and can even answer composite search queries.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A New Generation of AI for Web Searching
 
  As a result of Bing’s AI transition, web searching will fundamentally change. In the near future, we won’t have to explore a list of potentially relevant results aimlessly. Instead, AI chatbots will give us the precise information we need to be styled in a format of your choosing.
@@ -78,11 +54,9 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
 ![Google app on the home screen of a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-google-fi-phones.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the AI-powered Bing, you can specifically query it to give you a list of important points related to your Science class, and Bing will provide you with precisely that. You won’t have to explore multiple retrieved search results. Instead, you can rest assured that Bing has all the correct answers you need, thanks to its AI-powered search algorithm.
 
  You can also use Bing as your AI chatbot and query it for simple questions like “What’s the weather going to be like in two weeks?” and even complex queries such as “I enjoyed Coachella, what similar music festivals should I visit?”. If you’re not satisfied with Bing’s answer, you can ask it to refine the response per your needs.
@@ -98,11 +72,9 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
 [Google is expected to release its Bard competitor](https://www.makeuseof.com/google-launching-bard-ai-compete-with-chatgpt/) to Microsoft’s AI-powered Bing very soon. Once it’s launched and possibly integrated with Google Chrome, we’ll have a better idea of how web browsers will evolve in the coming future.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bing Redefines Searching Using AI
 
  Microsoft has redefined the web searching experience with Bing’s new AI capabilities. While change can sometimes be messy, AI-powered searching has revolutionized how we access the internet for the better.
@@ -113,8 +85,6 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +92,19 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-youtube-content-seo-methods-revealed/"><u>[New] 2024 Approved Elevate Your YouTube Content SEO Methods Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-closer-look-at-immersive-virtual-reality-tech/"><u>[New] A Closer Look at Immersive Virtual Reality Tech</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/building-simplistic-mobile-tech-crafting-a-basic-handset-with-gratis-programming-resources/"><u>Building Simplistic Mobile Tech: Crafting a Basic Handset with Gratis Programming Resources</u></a></li>
+<li><a href="https://article-helps.techidaily.com/cutting-edge-crossfading-steps-for-logic-pro-users-for-2024/"><u>Cutting-Edge Crossfading Steps for Logic Pro Users for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-apples-potential-upgrade-introducing-respiratory-monitoring-in-the-new-vision-pro-insights/"><u>Exploring Apple's Potential Upgrade: Introducing Respiratory Monitoring in the New Vision Pro - Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-era-for-chatbots-gpt-plus-available-in-us-for-20-monthly/"><u>New Era for Chatbots: GPT Plus Available in US for $20 Monthly</u></a></li>
+<li><a href="https://video-capture.techidaily.com/powerpoint-persona-establishing-your-presentations-voice-for-2024/"><u>PowerPoint Persona Establishing Your Presentation's Voice for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revisiting-video-broadcast-choices-post-wirecast/"><u>Revisiting Video Broadcast Choices Post-Wirecast</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-150-apple-gift-card-the-ultimate-guide-to-choosing-between-mac-and-ipad-for-academic-use/"><u>Secure Your $150 Apple Gift Card: The Ultimate Guide to Choosing Between Mac and iPad for Academic Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-do-it-yourself-evolution-starts-here/"><u>The Do-It-Yourself Evolution Starts Here</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-latest-upgrades-in-apples-airpods-pro-and-max-what-sets-them-apart/"><u>Unveiling the Latest Upgrades in Apple's AirPods Pro and Max - What Sets Them Apart?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bot Battlefront: Seeking the Better Chatbot"
-date: 2024-12-26T21:40:44.938Z
-updated: 2024-12-27T16:36:08.096Z
+date: 2025-01-04T16:19:06.919Z
+updated: 2025-01-06T06:47:38.366Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/8802195183c08c165ad84f773d4a1ece25e2e1ef5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Technology (GPT-3 vs. GPT-4)
 
  The difference in language models is immediately where things get interesting. ChatGPT's free version gives you access to GPT-3.5, the large language model that most of us are familiar with now. Upgrading to the Plus version gives you access to GPT-4, [a more impressive language model than its predecessor](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/).
@@ -51,12 +47,16 @@ thumbnail: https://thmb.techidaily.com/8802195183c08c165ad84f773d4a1ece25e2e1ef5
 ![Perplexity homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-homepage.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Perplexity AI is more of a search engine that provides suggestions and sources in response to your queries. It is designed to search the web in real-time to provide up-to-date information on various topics. The new GPT-4 powered Copilot feature is also useful as it can guide your search experience with interactive inputs to tailor personalized responses.
 
  Both of them are useful AI tools for entirely different purposes. Perplexity is a great free tool for conducting research, while ChatGPT can help you summarize that research and make it presentable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Pricing
 
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/8802195183c08c165ad84f773d4a1ece25e2e1ef5
  Then again, [ChatGPT Plus is still well worth the money](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), especially if you want access to GPT-4 and priority access to new features. There's no clear winner here, as Perplexity is also worth trying out, considering it's free.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Responses
@@ -94,21 +94,17 @@ thumbnail: https://thmb.techidaily.com/8802195183c08c165ad84f773d4a1ece25e2e1ef5
 
 ![Perplexity AI Popular Topics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-popular-topics.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  The Perplexity app also boasts a voice command feature that allows users to send prompts hands-free. While there are [ways to control ChatGPT Plus with your voice](https://www.makeuseof.com/ways-to-control-chatgpt-with-voice/), there is no official feature that can help you do so.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Speed and Stability
 
 ![ChatGPT Models Speed and Stability](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-models-speed-and-stability.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Perplexity AI is noticeably faster than any other chatbot or AI search engine. The GPT-3 version quickly searches the web and curates a response inspired by different sources. This ability to access real-time information makes it faster than ChatGPT.
 
@@ -123,6 +119,10 @@ Close
  It works similarly to Perplexity but uses the newer GPT-4 language model. This means Bing Chat is the best of both worlds. It can access information from the internet in real-time, provide sources, and solve complex problems.
 
  Unfortunately, it still feels like a beta version at the moment. Microsoft is being cautious with its approach, and this means that Bing Chat simply won't respond to prompts it considers "controversial." However, it's still worth trying out as it's free.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Plus vs. Perplexity: Two Impressively Different Chatbots
 
@@ -149,22 +149,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-banish-buffering-repair-facebook-videos-on-phonestablets/"><u>[Updated] 2024 Approved Banish Buffering – Repair Facebook Videos on Phones/Tablets</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-achieve-professionalism-in-sims-4-videography/"><u>[Updated] Achieve Professionalism in Sims 4 Videography</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/10-obstacles-expert-analysis-on-zdnet/"><u>10 Obstacles | Expert Analysis on ZDNET</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-protecting-integrity-while-boosting-your-youtube-followers-count/"><u>2024 Approved Protecting Integrity While Boosting Your YouTube Followers Count</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boosting-wireless-capabilities-atheros-driver-update-in-windows-10/"><u>Boosting Wireless Capabilities: Atheros Driver Update in Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dandd-mastery-unlocked-chatgpt-strategies-for-epic-adventures/"><u>D&D Mastery Unlocked: ChatGPT Strategies for Epic Adventures</u></a></li>
-<li><a href="https://facebook.techidaily.com/fresh-laws-on-the-horizon-for-americas-big-tech-firms/"><u>Fresh Laws on the Horizon for America's Big Tech Firms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-role-in-generating-secure-and-productive-routines/"><u>GPT's Role in Generating Secure and Productive Routines</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-problematic-windows-11-update-1607-installation-failures/"><u>How to Resolve Problematic Windows 11 Update 1607 Installation Failures</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Motorola Moto G73 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/macos-15-arrives-as-a-complimentary-upgrade-for-macbook-users-discover-the-must-have-functions-zdnet/"><u>MacOS 15 Arrives as a Complimentary Upgrade for MacBook Users - Discover the Must-Have Functions | ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-restoring-your-closed-off-w11-calendars/"><u>Quick Fix Guide: Restoring Your Closed-Off W11 Calendars</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/steer-clear-of-scams-true-vs-false-gpt-binco-coins/"><u>Steer Clear of Scams: True vs False GPT-Binco Coins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-classroom-8-key-reasons-for-embracing-ai/"><u>The Future Classroom: 8 Key Reasons for Embracing AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-rise-of-ai-in-academia-can-students-keep-up-with-chatgpts-speed/"><u>The Rise of AI in Academia: Can Students Keep Up with ChatGPT's Speed?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-36-unbeatable-prime-day-savings-on-apple-products-exclusive-offers-you-cant-miss/"><u>Top 36 Unbeatable Prime Day Savings on Apple Products - Exclusive Offers You Can't Miss!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-turn-to-ai-for-wellness-wisdom-heres-the-breakdown-in-7-points/"><u>Why Turn to AI for Wellness Wisdom? Here's the Breakdown, in 7 Points</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-spin-swivel-and-shuffle-videos-effortlessly-using-vlc-player/"><u>[New] In 2024, Spin, Swivel, and Shuffle Videos Effortlessly Using VLC Player</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/delving-into-historical-masterpieces-without-copyrights/"><u>Delving Into Historical Masterpieces without Copyrights</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ver-the-top-30-freefire-hashtags-for-amplifying-video-growth/"><u>Discover the Top 30 FreeFire Hashtags for Amplifying Video Growth</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728500405737-hdd-3/"><u>HDD上永久消去された情報の効果的な復元技術 - ベスト3ガイド</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-honor-v-purse-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Honor V Purse Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Itel P55 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-zdnet/"><u>IPhone 지대 선택의 도전 : 균일, 더 큰, 프로, 프로 마우스를 비교하기 | ZDNET</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/megadatasky-affordable-space-for-big-files-for-2024/"><u>MegaDataSky - Affordable Space for Big Files for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-hr-routines-via-chatgpt/"><u>Revolutionizing HR Routines via ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailor-your-iphone-experience-on-ios-18-mastering-control-center-customization-with-tips-from-zdnets-latest-article/"><u>Tailor Your iPhone Experience on iOS 18: Mastering Control Center Customization with Tips From ZDNet's Latest Article</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-key-to-spotting-fakebots-mastery-of-mention-cues/"><u>The Key to Spotting Fakebots: Mastery of Mention Cues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-computers-a-comprehensive-guide-by-zdnet/"><u>Top-Rated Apple Computers - A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-dialogues-full-potential-three-methods-of-chatgpt-wolfram-plugin-use/"><u>Unleashing Dialogue's Full Potential: Three Methods of ChatGPT-Wolfram Plugin Use</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-viewing-unleashed-how-to-hook-up-a-fire-tv-stick-with-cellular-data/"><u>Wireless Viewing Unleashed: How to Hook Up a Fire TV Stick with Cellular Data</u></a></li>
 </ul></div>
 

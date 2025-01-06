@@ -1,7 +1,7 @@
 ---
 title: Mastering Application Essays Using GPT-3
-date: 2024-12-24T16:15:21.926Z
-updated: 2024-12-27T22:21:35.322Z
+date: 2025-01-01T00:12:31.595Z
+updated: 2025-01-05T20:30:41.700Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 
 ![Screenshot of ChatGPT homepage (updated)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-chatgpt-homepage-updated.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can easily create one if you don’t already have an account. Go to the site [chat.openai.com](https://chat.openai.com/). Once you’re there, you’ll see a prompt to open your account or sign up. You can create a new account with your choice of email, including connecting it to an existing Gmail account.
 
  You’ll need access to your mobile phone since you’ll receive a six-digit code sent to your phone via text to confirm your registration. Once you’ve confirmed your registration, you’re ready to get started.
@@ -39,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
  When you’re in ChatGPT, you’ll see you can stay with the free version, ChatGPT 3.5, or pay for access to ChatGPT 4\. The features of ChatGPT-4 include faster responses and access to beta features like code interpreter, plug-ins, and browsing.
 
  ChatGPT-4 has a limit of 25 messages every three hours, costing $20 monthly. If you’re wondering what other artificial intelligence options exist besides ChatGPT, you might be interested in learning about [the best alternatives to ChatGPT](https://www.makeuseof.com/best-alternatives-chatgpt/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Enter Your Custom Instructions
 
@@ -60,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 
 ![Screenshot of job description provided to ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-job-description-provided-to-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’ve completed your custom instructions, it’s time to provide a job description that ChatGPT can refer to when creating your cover letter. Remember, the key to writing an effective cover letter is addressing all the critical needs indicated in the job description.
 
  If you’re using the free ChatGPT 3.5 version of the platform, there’s no limit to the number of jobs you can ask it to write cover letters for! You can also ask the platform to regenerate the response if you don’t like the first one you get.
@@ -74,23 +70,27 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 
  Once you’ve submitted the job description, the next step is to ask for a cover letter. Instead of asking it to write one document, you can ask it to focus on each part of your cover letter to create a more focused one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Introductory Paragraph
 
 ![Screenshot of introductory paragraph by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-introductory-paragraph-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The first paragraph is where you provide basic details about who you are and why you want the job. You can also give a general overview of why you’re the right candidate for the job and why the position excites you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Your Qualifications
 
 ![Screenshot of summary of qualifications by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-summary-of-qualifications-by-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The next part of your cover letter summarizes your experience and qualifications and how they apply to the job you’re applying for. This is where you can include stories about relevant projects or situations to give the hiring manager or recruiter some insight into how you work.
 
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 ![Screenshot of aligning with values and goals of organization by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-aligning-with-values-and-goals-of-organization-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this section of your cover letter, you want to illustrate that you understand the company’s mission and have done your research on the company. You want to focus on how your goals align with the organization’s, and you can also include positive factors you’ve heard about the company culture.
@@ -116,6 +116,10 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 
 ![Image of a math mistake](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/image-of-a-math-mistake.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After the AI generates the different parts of your cover letter, you can put them together and read it out loud to see if it makes sense.
 
  Use the content ChatGPT generates as the foundation of your cover letter. You can add elements that add a personal touch to the cover letter, giving the reader an idea about your personality.
@@ -123,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
  The content generated by ChatGPT can help you create a cover letter focused on what the organization hiring you is looking for. It would be best to remember that the platform is available to everyone, and you’re probably not the only one using it to help them apply for the job.
 
  This is why adding what makes you unique to the letter ChatGPT generates can be a vital part of using the platform for job applications and getting noticed. If you enjoy using the platform, you may be interested in learning about the [amazing ChatGPT Chrome extensions for better AI prompts and answers in browsers](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/ "6 Amazing ChatGPT Chrome Extensions for Better AI Prompts and Answers in Browsers").
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Work Smarter, Not Harder With ChatGPT
 
@@ -153,24 +153,24 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-bite-sized-to-detailed-converting-shorts-to-editable-mp4/"><u>[New] 2024 Approved From Bite-Sized to Detailed Converting Shorts to Editable MP4</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-decoding-popularity-a-truthful-look-at-reels-on-instagram-for-2024/"><u>[Updated] Decoding Popularity A Truthful Look at Reels on Instagram for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-essential-steps-for-seamlessly-clearing-youtube-feedback/"><u>[Updated] Essential Steps for Seamlessly Clearing YouTube Feedback</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-examining-vidma-as-a-video-recorder-for-screens/"><u>[Updated] In 2024, Examining Vidma as a Video Recorder for Screens</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-leading-charts-to-screen-videos/"><u>[Updated] Leading Charts to Screen Videos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/19522205-2024-approved-boost-production-value-with-free-sfx-libraries/"><u>2024 Approved Boost Production Value with Free SFX Libraries</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/auto-gpt-9-smart-implementations/"><u>Auto-GPT: 9 Smart Implementations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversation-privacy-tactics-against-gpt-savings/"><u>Conversation Privacy Tactics Against GPT Savings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-dialogue-for-podcast-gpt-to-the-rescue/"><u>Crafting Dialogue for Podcast: GPT to the Rescue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-claude-ai-your-gateway-to-enhanced-productivity/"><u>Discovering Claude AI: Your Gateway to Enhanced Productivity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-gpt-4-without-paying-top-4-free-strategies/"><u>Discovering GPT-4 Without Paying: Top 4 Free Strategies</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-call-of-duty-modern-warfare-3s-fps-stuttering-issue-in-early-2024/"><u>How to Fix Call of Duty Modern Warfare 3'S FPS Stuttering Issue in Early 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-maximize-your-obs-fb-integration-tips/"><u>In 2024, Maximize Your OBS-FB Integration Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prompt-engineering-in-ai-an-overview-and-future-prospects/"><u>Prompt Engineering in AI: An Overview & Future Prospects</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/redefining-ai-interaction-essential-gpt-innovations-explored/"><u>Redefining AI Interaction: Essential GPT Innovations Explored</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-samsung-galaxy-watch3-timeless-style-meets-contemporary-enhancements/"><u>Review of Samsung Galaxy Watch3 - Timeless Style Meets Contemporary Enhancements</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/save-on-gaming-power-the-best-laptops-under-1000-you-can-buy-now/"><u>Save on Gaming Power: The Best Laptops Under $1,000 You Can Buy Now</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/three-proven-methods-to-securely-back-up-your-iphone-data-before-upgrading/"><u>Three Proven Methods to Securely Back Up Your iPhone Data Before Upgrading</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-productivity-in-onlyoffice-with-chatgpt-integration/"><u>Unleashing Productivity in ONLYOFFICE with ChatGPT Integration</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-guide-to-crafting-engaging-videos-in-adobe-premiere/"><u>[New] In 2024, A Guide to Crafting Engaging Videos in Adobe Premiere</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-cinematic-influence-building-a-powerful-video-marketing-strategy/"><u>[Updated] 2024 Approved Instagram Cinematic Influence Building a Powerful Video Marketing Strategy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-insights-or-astrology-which-seeks-tomorrow-better/"><u>AI Insights or Astrology: Which Seeks Tomorrow Better?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-a-well-balanced-plate-aided-by-gpt/"><u>Building a Well-Balanced Plate Aided by GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-apples-airpods-max-and-airpods-pro-unveiling-the-distinctive-differences-zdnet/"><u>Comparing Apple's AirPods Max and AirPods Pro – Unveiling the Distinctive Differences | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-price-tags-to-ai-output-excellence-gains/"><u>Comparing Price Tags to AI Output Excellence Gains</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/erase-live-video-on-facebook-windows-android-tactics-for-2024/"><u>Erase Live Video on Facebook Windows, Android Tactics for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ultra-thin-tech-a-visit-to-the-apple-store-for-the-slimmest-ipad-models-008-thick-unpacking-the-impact-on-user-experience-zdnet/"><u>Exploring Ultra-Thin Tech: A Visit to the Apple Store for the Slimmest iPad Models (0.08 Thick) - Unpacking the Impact on User Experience | ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-your-turtle-beach-elite-70-mic-step-by-step-solutions/"><u>How To Restore Your Turtle Beach Elite 70 Mic - Step by Step Solutions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-barely-there-to-top-rated-the-youtube-growth-arc/"><u>In 2024, From Barely There to Top Rated The Youtube Growth Arc</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-innovative-groups-shaping-future-of-vr-worlds/"><u>In 2024, Innovative Groups Shaping Future of VR Worlds</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-innovation-landscape-samsung-ascends-with-galaxy-ai-while-google-grapples-with-legal-hurdles-zdnet-analysis/"><u>Navigating the Innovation Landscape: Samsung Ascends with Galaxy AI While Google Grapples With Legal Hurdles | ZDNet Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-youth-in-digital-dialogues-5-safe-chatgpt-strategies/"><u>Protecting Youth in Digital Dialogues: 5 Safe ChatGPT Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-discounted-ipad-9gen-for-just-250-following-apples-fresh-announcement/"><u>Secure Your Discounted iPad (9Gen) for Just $250 Following Apple's Fresh Announcement</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-s24-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-severe-application-crashes-windows-11-solution-unveiled/"><u>Troubleshooting Severe Application Crashes - Windows 11 Solution Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-the-fun-discover-these-best-chatgpt-games-today/"><u>Unleash the Fun! Discover These Best ChatGPT Games Today</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers on Windows 10</u></a></li>
 </ul></div>
 

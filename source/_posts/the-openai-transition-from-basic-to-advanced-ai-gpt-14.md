@@ -1,7 +1,7 @@
 ---
 title: "The OpenAI Transition: From Basic to Advanced AI (GPT-1–4)"
-date: 2024-09-12T07:41:59.065Z
-updated: 2024-09-13T07:41:59.065Z
+date: 2025-01-05T00:55:51.958Z
+updated: 2025-01-06T10:00:23.821Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 
  But what is the difference between each GPT model, and what's their impact on the field of NLP?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are Generative Pre-Trained Transformers?
 
  Generative Pre-trained Transformers (GPTs) are a type of machine learning model used for natural language processing tasks. These models are pre-trained on massive amounts of data, such as books and web pages, to generate contextually relevant and semantically coherent language.
@@ -31,23 +35,9 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 
  So, why are GPTs important? GPTs represent a significant breakthrough in natural language processing, allowing machines to understand and generate language with unprecedented fluency and accuracy. Below, we explore the four GPT models, from the first version to the most recent GPT-4, and examine their performance and limitations.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## GPT-1
 
 ![Art of an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rup-ai-chatgpt4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  GPT-1 was released in 2018 by OpenAI as their first iteration of a language model using the Transformer architecture. It had 117 million parameters, significantly improving previous state-of-the-art language models.
 
@@ -70,16 +60,7 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
  These limitations paved the way for the development of the next iteration of GPT models.
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-3
@@ -87,10 +68,7 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 ![Image of a laptop with AI on the screen and ChatGPT in different fonts in the background](https://thmb.techidaily.com/176a1a151aeb9ebfdcfd4bd623625c32ca353b5d86117d513193a67649a60b72.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Natural language processing models made exponential leaps with the release of GPT-3 in 2020\. With 175 billion parameters, GPT-3 is over 100 times larger than GPT-1 and over ten times larger than GPT-2\.
@@ -110,10 +88,7 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 ![openai gpt4 model chatgpt upgrade](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-gpt4-model-chatgpt-upgrade.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  GPT-4 is the latest model in the GPT series, launched on March 14, 2023\. It's a significant step up from its previous model, GPT-3, which was already impressive. While the specifics of the model's training data and architecture are not officially announced, it certainly builds upon the strengths of GPT-3 and overcomes some of its limitations.
@@ -134,16 +109,7 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 | GPT-4 | March 2023    | Unknown                                                        | Estimated to be in trillions | Unknown              |
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A Journey Through GPT Language Models
@@ -171,5 +137,18 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-strategic-planning-for-virtual-teams-mastering-slack-and-filmora-coordination-for-2024/"><u>[New] Strategic Planning for Virtual Teams Mastering Slack & Filmora Coordination for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-deciphering-online-videography-a-facebook-journey-for-2024/"><u>[Updated] Deciphering Online Videography A Facebook Journey for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-stepwise-blueprint-converting-everyday-gifs-to-sticker-status-in-discord-and-other-chat-apps/"><u>[Updated] Stepwise Blueprint Converting Everyday GIFs to Sticker Status in Discord & Other Chat Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-solve-minecraft-error-code-5-issues/"><u>How to Troubleshoot and Solve Minecraft Error ^Code 5 Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interactive-realms-via-textual-machine-learning/"><u>Interactive Realms via Textual Machine Learning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/potential-weaknesses-in-chatgpts-security/"><u>Potential Weaknesses in ChatGPT’s Security</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fix-for-the-elusive-directx-9-error/"><u>Quick-Fix for the Elusive 'DirectX 9 Error'</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revive-your-pc-troubleshooting-tips-via-chatgpt/"><u>Revive Your PC: Troubleshooting Tips via ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-training-blueprints-with-machine-learning-help/"><u>Tailored Training Blueprints with Machine Learning Help</u></a></li>
+<li><a href="https://win-data.techidaily.com/windows-11-cmd-recovery-steps-detaillierte-anleitungen/"><u>Windows 11 CMD Recovery Steps - Detaillierte Anleitungen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/iuc4oec4uec4pplusc4soc5hou5hcdguydgukrguyngujngujfgullguifguihgullgukpguitguyngullguyhgukxguldguypgujrguydguklguyfgujk6ioc4hoc4splusc4quc4rec4mec4quc4splusc33/"><u>มูวะไ비 เส้นทางการค้าและใบเย็น: คำสอนสำหรับการปฏิฌ� สุขภาพ</u></a></li>
+</ul></div>
 

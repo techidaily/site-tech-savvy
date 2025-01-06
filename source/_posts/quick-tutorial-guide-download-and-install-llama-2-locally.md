@@ -1,7 +1,7 @@
 ---
 title: "Quick Tutorial Guide: Download & Install Llama 2 Locally"
-date: 2024-12-22T20:22:24.911Z
-updated: 2024-12-27T17:22:48.301Z
+date: 2025-01-02T09:20:19.522Z
+updated: 2025-01-06T09:31:34.952Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/9b3d4059cce82d617824aff75bbe2c1cfb1dda056
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Install Llama 2 Locally
 
@@ -63,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/9b3d4059cce82d617824aff75bbe2c1cfb1dda056
 3. Your anti-virus might create an alert; this is fine. The prompt is just an [antivirus false positive](https://www.makeuseof.com/what-is-antivirus-false-result/) for running a batch file or script. Click on **Run anyway**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. A terminal will open and start the setup. Early on, the setup will pause and ask you what GPU you are using. Select the appropriate type of GPU installed on your computer and hit enter. For those without a dedicated graphics card, select **None (I want to run models in CPU mode)**. Keep in mind that running on CPU mode is much slower when compared to running the model with a dedicated GPU.  
@@ -71,18 +75,23 @@ thumbnail: https://thmb.techidaily.com/9b3d4059cce82d617824aff75bbe2c1cfb1dda056
 5. Once the setup is complete, you can now launch Text-Generation-WebUI locally. You can do so by opening your preferred web browser and entering the provided IP address on the URL.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![How to launch-Text-Generation-WebUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/6-launch-text-generation-webui.jpg)
 6. The WebUI is now ready for use.  
-![Text-Generation-WebUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/7-text-generation-webui-view.jpg)
-
- However, the program is only a model loader. Let's download Llama 2 for the model loader to launch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Text-Generation-WebUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/7-text-generation-webui-view.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ However, the program is only a model loader. Let's download Llama 2 for the model loader to launch.
 
 ## Step 3: Download the Llama 2 Model
 
@@ -113,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/9b3d4059cce82d617824aff75bbe2c1cfb1dda056
 ![Downloading Llama 2 model of your preference](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/8-download-llama-2-model.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After the download is finished, place the model in **text-generation-webui-main** \> **models**.
@@ -121,10 +130,6 @@ thumbnail: https://thmb.techidaily.com/9b3d4059cce82d617824aff75bbe2c1cfb1dda056
 ![Placing Llama 2 model to model folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/9-place-model-to-model-folder.jpg)
 
 Now that you have your model downloaded and placed in the model folder, it's time to configure the model loader.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 4: Configure Text-Generation-WebUI
 
@@ -138,10 +143,6 @@ Now that you have your model downloaded and placed in the model folder, it's tim
 ![Testing Llama 2 locally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/12-testing-llama-2-locally.jpg)
 
  Congratulations, you've successfully loaded Llama2 on your local computer!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try Out Other LLMs
 
@@ -166,19 +167,19 @@ Now that you have your model downloaded and placed in the model folder, it's tim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-breaking-barriers-top-picks-of-virtual-reality-walkers-for-2024/"><u>[New] Breaking Barriers Top Picks of Virtual Reality Walkers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-end-vector-sites-ranked-1-to-10/"><u>[New] High-End Vector Sites Ranked 1 to 10</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-storage-sizing-film-duration-in-gb/"><u>[New] Storage Sizing Film Duration in GB</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-troubleshoot-facebook-live-pause-strategies-for-smooth-broadcasts/"><u>[New] Troubleshoot Facebook Live Pause Strategies for Smooth Broadcasts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-unlocking-deep-sleep-with-asmr-strategies/"><u>[New] Unlocking Deep Sleep with ASMR Strategies</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-key-strategies-for-harvesting-free-photo-frames/"><u>[Updated] In 2024, Key Strategies for Harvesting Free Photo Frames</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-partner-filmmaking-for-channelnode-increase-strategies/"><u>[Updated] In 2024, Partner Filmmaking for Channelnode Increase Strategies</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-intellect-in-your-hand-the-moto-z2-breakdown/"><u>[Updated] Intellect in Your Hand The Moto Z2 Breakdown</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-how-to-transcribe-speech-to-text-in-microsoft-word-learn-it-here/"><u>2024 Approved How to Transcribe Speech to Text in Microsoft Word Learn It Here</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-a-symphony-from-text-to-tunes-using-ai-in-daws/"><u>Crafting a Symphony From Text to Tunes Using AI in DAWs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-power-for-windows-users/"><u>Harnessing AI Power for Windows Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-your-ipad-expert-advice-on-key-tips-tricks-and-setting-tweaks-every-apple-user-should-know-zdnet/"><u>Master Your iPad: Expert Advice on Key Tips, Tricks & Setting Tweaks Every Apple User Should Know | ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-complexity-of-conversation-bots-unpacking-the-eight-core-problems-in-gpt/"><u>The Complexity of Conversation Bots: Unpacking the Eight Core Problems in GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-apple-musics-educational-offers-a-comprehensive-guide-to-securing-a-student-price-plan/"><u>Unlocking Apple Music's Educational Offers: A Comprehensive Guide to Securing a Student Price Plan</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969831335-achieve-pro-level-control-install-the-newest-steelseries-engine-on-windows-10-free-download/"><u>[Achieve Pro-Level Control]: Install the Newest SteelSeries Engine on Windows 10 - Free Download</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-navigating-the-essentials-of-attractive-profiles/"><u>[Updated] 2024 Approved Navigating the Essentials of Attractive Profiles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-immediate-cessation-of-live-streaming-in-quicktime/"><u>[Updated] In 2024, Immediate Cessation of Live Streaming in QuickTime</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-image-browsing-the-ultimate-guide-to-pexels-wonders/"><u>[Updated] Mastering Image Browsing The Ultimate Guide to Pexels Wonders</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/descubre-las-maximas-ganancias-con-asociacion-a-winxddvd/"><u>Descubre Las Máximas Ganancias Con Asociación a WinXDDVD</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortlessly-power-and-cool-your-apple-gadgets-with-our-3-in-1-magsafe-charging-station-explore-on-zdnet/"><u>Effortlessly Power and Cool Your Apple Gadgets with Our 3-in-1 MagSafe Charging Station - Explore on ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-user-experience-and-analytics-the-power-of-the-latest-cookiebot-solutions/"><u>Enhance User Experience & Analytics: The Power of the Latest Cookiebot Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-perfecting-soundtracks-top-10-microphones/"><u>In 2024, Perfecting Soundtracks Top 10 Microphones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/privacy-protocols-in-ai-dialogues/"><u>Privacy Protocols in AI Dialogues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/signing-out-unknown-windows-accounts-with-ease-on-win-11/"><u>Signing Out Unknown Windows Accounts with Ease on Win 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-meta-quest-3-with-apples-dynamic-3d-videos-tutorial-zdnet-exclusives/"><u>Transform Your Meta Quest 3 with Apples Dynamic 3D Videos - Tutorial | ZDNET Exclusives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-latest-mac-studio-advantages-prevent-me-from-upgrading-to-the-new-m4-mac-mini-in-autumn-insights-zdnet/"><u>Why the Latest Mac Studio Advantages Prevent Me From Upgrading to the New M4 Mac Mini in Autumn: Insights - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/will-ai-improve-or-worsen-mental-health-and-support/"><u>Will AI Improve or Worsen Mental Health and Support?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Analyzing AI's Sentiment Sages: Dissecting GPT & BERT"
-date: 2024-09-06T23:33:49.043Z
-updated: 2024-09-07T23:33:49.043Z
+date: 2025-01-05T00:57:37.160Z
+updated: 2025-01-06T08:00:04.262Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Analyzing AI's Sentiment Sages: Dissecting GPT 
 thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554cd872de0aa746e8545edfc3c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Analyzing AI's Sentiment Sages: Dissecting GPT & BERT
 
  The popularity of ChatGPT is a testament to how far natural language processing (NLP) has come. Transformer architecture models like GPT-3, GPT-4, and BERT are capable of human-like conversations, and some can even be used to write complex code.
@@ -29,28 +23,14 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 
  While GPT is the market leader, BERT was actually the first language model that arrived on the scene in 2018\. But which one is better? And what's the difference between GPT and BERT?
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Explaining GPT-3 and GPT-4
 
 ![ChatGPT screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/04/screenshot-2023-04-21-at-5-45-17-pm.png)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  GPT-3 (Generative Pre-trained Transformer 3) is an autoregressive language model launched by OpenAI in June 2020\. It utilizes a transformer architecture with 175 billion parameters, making it one of the largest language models ever constructed.
 
  GPT-3 can generate natural language text, as well as answer questions, compose poetry, and even write complete articles. [ChatGPT is a prime example of generative AI](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) powered by GPT.
@@ -63,15 +43,13 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 
 ![Image showing machine learning code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/learning-code-unsplash.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [BERT](https://www.makeuseof.com/what-is-bert-language-model-how-differ-gpt/) (Bidirectional Encoder Representations from Transformers) is a pre-training language representation model that fine-tunes NLP applications created by Google in 2018\. Unlike other NLP models that use unidirectional attention flow, BERT uses bidirectional flow, which allows it to use context from both directions during processing.
 
  This allows the model to understand the meaning of words in context and, in turn, better comprehend language structures. With BERT, Google can now provide more accurate search results for complex queries—particularly those that rely on prepositions such as "for," "to," and "from."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Main Differences Between GPT and BERT
 
@@ -90,14 +68,16 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
  GPT is trained using a unidirectional (causal) language modeling objective, where it predicts the next word given the context of previous words. That's one of the main reasons why GPT is so popular for content generation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Training Data
 
 ![Image showing data points and connectors in an abstract manner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dataset-unsplash.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  BERT and GPT differ in the types of training data they use. BERT is trained using a masked language model, meaning certain words are masked, and the algorithm has to predict what the next word is likely to be. This helps train the model and makes it more contextually accurate.
 
@@ -108,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
  Conversely, GPT-3 was trained on the WebText dataset, a large-scale corpus containing web pages from sources like Wikipedia, books, and articles. It also includes text from Common Crawl, a publicly available archive of web content. And it can also be fine-tuned for specific purposes.
 
  As for GPT-4, training data information is a bit scarce, but it's quite likely that the GPT-4 is trained on a similarly diverse dataset, potentially including newer sources and an even larger volume of data to improve its understanding of natural language and its ability to generate contextually relevant responses.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Use Cases
 
@@ -129,12 +113,6 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 
  If you don't want to worry about using a [Jupyter Notebook](https://www.makeuseof.com/get-started-with-jupyter-notebook/) or aren't as technical, you could consider using ChatGPT, which is as simple as just logging into a website. However, we've also covered [how to use Jupyter Notebook](http://www.makeuseof.com/get-started-with-jupyter-notebook/), which should give you a good starting point.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## BERT and GPT Show the Capabilities of AI
 
  BERT and GPT training models are clear examples of what artificial intelligence is capable of. ChatGPT is more popular and has already resulted in several additional applications, such as Auto-GPT, which are disrupting workflows and changing job functions.
@@ -145,14 +123,11 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 
  While GPT is the market leader, BERT was actually the first language model that arrived on the scene in 2018\. But which one is better? And what's the difference between GPT and BERT?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -161,4 +136,24 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-art-of-coherent-audio-segments/"><u>[Updated] 2024 Approved The Art of Coherent Audio Segments</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/come-reimpostare-il-tuo-pc-con-windows-10-in-modalita-provvisoria-un-tutorial-facile-da-seguire/"><u>Come Reimpostare Il Tuo PC Con Windows 10 in Modalità Provvisoria: Un Tutorial Facile Da Seguire</u></a></li>
+<li><a href="https://discover-great.techidaily.com/da-disco-a-digitale-come-trasformare-i-tuoi-dvd-in-file-video-con-windows-10-o-macos/"><u>Da Disco a Digitale: Come Trasformare I Tuoi DVD in File Video Con Windows 10 O MacOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-chatgpt-plagiarize-examining-the-chatbots-sources/"><u>Does ChatGPT Plagiarize? Examining the Chatbot's Sources</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-tricks-to-eliminate-lag-in-street-fighter-6-optimize-your-pc-gameplay/"><u>Essential Tricks to Eliminate Lag in Street Fighter 6: Optimize Your PC Gameplay</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excels-exclusive-capabilities-vs-chatgpt/"><u>Excel's Exclusive Capabilities Vs. ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-and-you-crafting-diplomatic-emails-with-smart-tech/"><u>GPT and You: Crafting Diplomatic Emails with Smart Tech</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-v30-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo V30 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/launching-soon-apple-unveils-vision-pro-headset-supported-by-over-600-tailored-applications-insights/"><u>Launching Soon: Apple Unveils Vision Pro Headset Supported by Over 600 Tailored Applications – Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211319382-9781923238398-mental-health-and-your-church-2nd-ed/"><u>Mental Health and Your Church (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-content-access-with-ai-enhanced-websites/"><u>Revolutionizing Content Access with AI-Enhanced Websites</u></a></li>
+<li><a href="https://win-lab.techidaily.com/solving-your-printers-low-quality-print-issues-tips-and-strategies-from-yl-computing/"><u>Solving Your Printer's Low-Quality Print Issues - Tips & Strategies From YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tackling-integration-issues-repairing-the-chatgpt-plugin-link/"><u>Tackling Integration Issues: Repairing the ChatGPT-Plugin Link</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-s24-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-four-reasons-im-saying-no-to-the-iphone-16-pro-and-loving-my-iphone-14-an-in-depth-analysis-by-zdnet/"><u>Top Four Reasons I'm Saying No to the iPhone 16 Pro and Loving My iPhone 14 | An In-Depth Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-exclusive-offers-save-big-on-apples-products-iphones-watches-pads-this-july-zdnet-deals-roundup/"><u>Unlock Exclusive Offers: Save Big on Apples Products (iPhones, Watches, Pads) This July | ZDNET Deals Roundup</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-mastery-overcoming-samsung-ssd-hiccups-and-errors/"><u>Windows Mastery: Overcoming Samsung SSD Hiccups and Errors</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Illusion of Originality: Uncovering AI Writings' Traits"
-date: 2024-12-20T19:05:34.989Z
-updated: 2024-12-27T22:01:06.201Z
+date: 2024-12-31T16:28:06.686Z
+updated: 2025-01-06T00:07:27.268Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/cb7cf233af45cd7a6edf5f132f2f1c85fe4924908
 
  From the risk of misinformation to losing your brand voice, there are many dangers associated with using AI to produce content. Here are the top five dangers of using AI to generate written content.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Misinformation
 
  Generating text using AI is easy. You only need to write a prompt, and the AI text generator will add content it believes could logically follow.
@@ -49,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/cb7cf233af45cd7a6edf5f132f2f1c85fe4924908
  Another drawback of using AI to write is the increased likelihood of unintentional plagiarism.[The Guardian](https://www.theguardian.com/us-news/2023/jan/06/new-york-city-schools-ban-ai-chatbot-chatgpt) reports that one of the reasons schools in New York City banned ChatGPT is the risk of students using it to write assignments and passing them off as their work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Algorithms Devaluing Your Content
@@ -57,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/cb7cf233af45cd7a6edf5f132f2f1c85fe4924908
  Publishers who use AI to write risk having their site penalized by search engines. According to Google, sites with lots of unhelpful content are less likely to rank well in Search. Google states that its team is constantly working to ensure users see more original, helpful content written by people, for people, in search results.
 
  As previously stated, AI-written text may be incoherent and contain factual inconsistencies, making it unhelpful. This means if your site relied on AI content and took a hit after [Google's helpful content update](https://www.makeuseof.com/tips-to-write-for-google-helpful-content-update/) , it could be because the search engine found the content unhelpful or lacking in accuracy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Lack of Original Ideas, Creativity, and Personalization
 
@@ -67,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/cb7cf233af45cd7a6edf5f132f2f1c85fe4924908
  Thought-provoking and unique content often include personal experiences, opinions, and analysis, which are a few areas where AI falls short, at least at present.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Reputational Risk and Watered-Down Brand Voice
@@ -86,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/cb7cf233af45cd7a6edf5f132f2f1c85fe4924908
 
 ![Some text illustrating repetition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ai-repetition.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Even though GPT-3 can generate coherent sentences, AI writing tools frequently appear to have difficulty producing long-form, high-quality content.
 
  Many users assert that after generating a few high-quality paragraphs on a specific subject, some AI text generators will either start to repeat themselves or spew irrelevant sentences. This is due to the AI tool adding a series of what it thinks are relevant sentences to reach the target word count.
@@ -97,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/cb7cf233af45cd7a6edf5f132f2f1c85fe4924908
  So, if you're reading an article, and it seems like the same words are being used repeatedly, then it was probably written by an AI writing assistant. Many AI text generators tend to repeat words like "the," "it," and "is" more frequently.
 
  Also, if an article seems to follow a specific pattern or formula, it may have been generated by AI. This kind of writing often makes content predictable and mind-numbing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Search for Unnatural Transitions and Errors
 
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/cb7cf233af45cd7a6edf5f132f2f1c85fe4924908
  Unsurprisingly, though, excellent grammar can be a sign of machine-generated text. This is because grammar is rule-based; AI systems are usually better than people at following logic.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Examine Any Fact-Heavy, Dry Texts
@@ -121,7 +121,7 @@ thumbnail: https://thmb.techidaily.com/cb7cf233af45cd7a6edf5f132f2f1c85fe4924908
 ![Some factual, dry texts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bald-eagle-facts.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  An AI writing tool can quickly generate facts and simple sentences but not in-depth commentaries. So if you're reading an article and notice it's heavy on facts and light on opinions, it's likely written by a bot.
@@ -161,24 +161,20 @@ thumbnail: https://thmb.techidaily.com/cb7cf233af45cd7a6edf5f132f2f1c85fe4924908
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-huntings-top-5-high-quality-video-recorders/"><u>[New] Hunting's Top 5 High-Quality Video Recorders</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-alliance-formula-youtube-partnerships-with-brands/"><u>[Updated] In 2024, The Alliance Formula YouTube Partnerships with Brands</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-leading-brands-car-compatible-viewing-devices/"><u>[Updated] Leading Brands' Car-Compatible Viewing Devices</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-polarr-editor-explained-the-ultimate-visual-enhancement-pathway-for-2024/"><u>[Updated] Polarr Editor Explained The Ultimate Visual Enhancement Pathway for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024s-elite-lineup-of-note-taking-tablets-comprehensive-testing-and-honest-opinions-by-zdnet/"><u>2024'S Elite Lineup of Note-Taking Tablets: Comprehensive Testing and Honest Opinions by ZDNet</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-poco-c65-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/algorithmic-love-scams-exposed/"><u>Algorithmic Love Scams Exposed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/binary-bonds-cybercrimes-romantic-ruse/"><u>Binary Bonds: Cybercrime's Romantic Ruse</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conquer-interviews-with-the-power-of-chatgpt-tips/"><u>Conquer Interviews with the Power of ChatGPT Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/efficient-ways-to-address-the-missing-haldll-error-in-windows-xp/"><u>Efficient Ways to Address the 'Missing hal.dll' Error in Windows XP</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/laws-for-the-digital-mind-ai-oversight/"><u>Laws for the Digital Mind: AI Oversight</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-edge-discovery-top-6-uses-for-chatgpts-innovative-code-conductor/"><u>Leading-Edge Discovery - Top 6 Uses for ChatGPT's Innovative Code Conductor</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/logitech-g933-headset-microphone-not-functioning-try-these-fixes-first/"><u>Logitech G933 Headset Microphone Not Functioning? Try These Fixes First</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/smooth-media-transition-pc-files-to-iphone/"><u>Smooth Media Transition PC Files To iPhone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-essential-guide-to-choosing-an-iphone-ecase-for-your-latest-model-uncover-why-you-need-one-now/"><u>The Essential Guide to Choosing an iPhone eCase for Your Latest Model - Uncover Why You Need One Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-apples-secret-sauce-what-the-tech-giant-might-be-preparing-in-gaming-innovation/"><u>Unveiling Apple's Secret Sauce: What the Tech Giant Might Be Preparing in Gaming Innovation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-common-missteps-in-transitioning-to-iphone-ios-18-community-insights-and-regrets-on-zdnet/"><u>Unveiling Common Missteps in Transitioning to iPhone iOS 18 – Community Insights & Regrets on ZDNET</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unlock-cross-platform-video-editing-a-chromebook-guide/"><u>Updated 2024 Approved Unlock Cross-Platform Video Editing A Chromebook Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-5-best-apps-blending-visual-storytelling-and-music/"><u>[Updated] 2024 Approved 5 Best Apps Blending Visual Storytelling & Music</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-quick-tips-for-transcribing-audio-to-text-using-microsoft-word/"><u>[Updated] In 2024, Quick Tips for Transcribing Audio to Text Using Microsoft Word</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-streamlined-techniques-for-capturing-stories-on-instagram/"><u>[Updated] In 2024, Streamlined Techniques for Capturing Stories on Instagram</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-expert-picks-the-phones-chosen-editors-for-everyday-use/"><u>1. Expert Picks: The Phones Chosen Editors for Everyday Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-perfection-our-curated-list-of-best-tools-for-prompts/"><u>Artificial Intelligence Perfection: Our Curated List of Best Tools for Prompts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compact-computing-unleashed-can-the-newly-launched-m4-powered-mac-mini-outshine-the-apple-tv-in-size-and-performance-insights/"><u>Compact Computing Unleashed: Can the Newly Launched M4-Powered Mac Mini Outshine the Apple TV in Size and Performance? Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connect-your-disneyplus-subscription-to-a-chromecast-a-comprehensive-guide/"><u>Connect Your Disney+ Subscription to a Chromecast – A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/view-alliance-how-to-settle-on-a-cms-for-2024/"><u>Grandview Alliance How to Settle on a CMS for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/lg-360-vr-headset-review-for-2024/"><u>LG 360 VR Headset Review for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-research-the-chatgpt-approach/"><u>Optimizing Research: The ChatGPT Approach</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/professional-tips-for-high-quality-video-disc-production-on-mac/"><u>Professional Tips for High-Quality Video Disc Production on Mac</u></a></li>
+<li><a href="https://blog-min.techidaily.com/spotify5/"><u>Spotify音楽を安全に保存しよう：手っ取り早い5つのスピットライト音楽ダウンロードツールリスト</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-oppo-reno-11f-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Oppo Reno 11F 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essence-of-chatgpt-forging-ai-driven-innovation-pathways/"><u>The Essence of ChatGPT: Forging AI-Driven Innovation Pathways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-apples-new-vintage-mode-is-your-device-outdated-find-out-the-implications-on-zdnet/"><u>Understanding Apple's New 'Vintage Mode': Is Your Device Outdated? Find Out the Implications on ZDNet</u></a></li>
 </ul></div>
 

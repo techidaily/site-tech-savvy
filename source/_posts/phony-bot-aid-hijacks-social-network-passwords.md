@@ -1,7 +1,7 @@
 ---
 title: "Phony Bot Aid: Hijacks Social Network Passwords"
-date: 2024-12-21T18:45:08.706Z
-updated: 2024-12-27T20:31:01.459Z
+date: 2025-01-03T07:56:00.183Z
+updated: 2025-01-06T00:20:37.988Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A Fake ChatGPT Extension Is Targeting Facebook Users
@@ -45,7 +45,7 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably [sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Thousands of Facebook Accounts May Have Been Compromised
@@ -55,7 +55,7 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Malicious App Has Been Removed from Chrome
@@ -63,7 +63,7 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT's Name Is Consistently Used by Scammers
@@ -87,17 +87,24 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-transform-video-beats-into-ringtones-must-visit-sites-explored/"><u>[New] Transform Video Beats Into Ringtones Must-Visit Sites Explored</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-smoothly-integrate-linktree-into-your-tiktok-bio-space/"><u>[Updated] How to Smoothly Integrate Linktree Into Your TikTok Bio Space</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-ai-become-uncontrollable/"><u>Can AI Become Uncontrollable?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-the-best-a-comprehensive-comparison-of-m1-vs-m2-ipad-pro-models-zdnet-insights/"><u>Choosing the Best: A Comprehensive Comparison of M1 Vs. M2 iPad Pro Models | ZDNet Insights</u></a></li>
-<li><a href="https://blog-min.techidaily.com/download-sem-custo-transformar-videos-em-formato-wtv-usando-o-movaviconverter/"><u>Download Sem Custo: Transformar Vídeos Em Formato WTV Usando O MovaviConverter</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Honor X50? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-power-of-choice-in-ai-craft-customized-gpt-models-using-the-newest-features-of-chatgpt/"><u>The Power of Choice in AI: Craft Customized GPT Models Using the Newest Features of ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-ranking-apple-watch-models-of-2024-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Apple Watch Models of 2024: Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unraveling-misidentifications-enhancing-accuracy-in-apples-image-organization-tool/"><u>Unraveling Misidentifications: Enhancing Accuracy in Apple's Image Organization Tool</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-of-new-airpower-video-sparks-questions-about-revival-of-apples-discontinued-wireless-charging-pad-with-qi-technology/"><u>Unveiling of New AirPower Video Sparks Questions About Revival of Apple's Discontinued Wireless Charging Pad with Qi Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-wont-apples-new-ai-enhancements-reach-your-vintage-iphone-understanding-the-pricey-barriers-analysis-by-zdnet/"><u>Why Won't Apple's New AI Enhancements Reach Your Vintage iPhone? Understanding the Pricey Barriers | Analysis by ZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-transition-mastery-in-cinematic-productions-with-kinemaster/"><u>[New] 2024 Approved Transition Mastery in Cinematic Productions with Kinemaster</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-expert-tutorial-on-utilizing-googles-automatic-speech-transcription/"><u>[New] Expert Tutorial on Utilizing Google's Automatic Speech Transcription</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-high-quality-video-calling-solutions-top-10-best-apps-ranked/"><u>[New] High-Quality Video Calling Solutions Top 10 Best Apps Ranked</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mambos-in-the-mangroves/"><u>2024 Approved Mambos in the Mangroves</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-integrates-siri-with-bing-the-future-of-ai-and-search-optimization-insights/"><u>Apple Integrates Siri with Bing: The Future of AI and Search Optimization Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beginners-guide-to-ai-learning-together-in-these-9-clusters/"><u>Beginner's Guide to AI: Learning Together in These 9 Clusters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beware-of-ais-eager-listener-protect-your-secrets/"><u>Beware of AI's Eager Listener: Protect Your Secrets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/copilot-comparison-essential-features-and-upgrades/"><u>CoPilot Comparison: Essential Features & Upgrades</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-thermaltake-massive-tm-laptop-cooler-abundant-advantages-meet-high-expense/"><u>Evaluating the Thermaltake Massive TM Laptop Cooler: Abundant Advantages Meet High Expense</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-apples-upcoming-airpods-pro-version-key-features-and-enhancements-comparison-techradar/"><u>Explore Apple's Upcoming AirPods Pro Version: Key Features and Enhancements Comparison | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/icloud-and-apple-pages-integration-expert-tips-for-effective-online-collaboration/"><u>ICloud and Apple Pages Integration: Expert Tips for Effective Online Collaboration</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 8 Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://win-tips.techidaily.com/leading-bx500-replica-utilities-perfect-for-effortless-os-upgrades-and-file-transfers/"><u>Leading BX500 Replica Utilities: Perfect for Effortless OS Upgrades & File Transfers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/master-your-tech-choices-in-depth-guides-by-toms-hardware-experts/"><u>Master Your Tech Choices - In-Depth Guides by Tom's Hardware Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proposing-six-economical-substitutes-for-openais-sora/"><u>Proposing Six Economical Substitutes for OpenAI's Sora</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-unresponsive-windows-webcam/"><u>Remedying Unresponsive Windows Webcam</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-techniques-to-pen-convincing-proposals-leveraging-the-power-of-chatgpt/"><u>The Ultimate Techniques to Pen Convincing Proposals Leveraging the Power of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-durable-iphones-12-and-12-pro-cases-in-202n-expert-reviews-and-ratings-zdnet/"><u>Ultimate Guide to Choosing Durable iPhones 12 and 12 Pro Cases in 202N: Expert Reviews & Ratings | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unexpected-glitches-in-visionpro-app-expert-tips-and-fixes-for-sudden-crashes-zdnet-insights/"><u>Unexpected Glitches in VisionPro App? Expert Tips & Fixes for Sudden Crashes | ZDNet Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Beat Apple Vision Pro Anxiety for Less: Unveiling Effective, Budget-Friendly XR Glasses | ZDNET Insights"
-date: 2024-12-20T19:45:49.597Z
-updated: 2024-12-27T21:52:49.038Z
+date: 2025-01-01T19:17:12.578Z
+updated: 2025-01-06T06:12:14.476Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple
@@ -31,15 +31,15 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
 
@@ -53,10 +53,6 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Enable Pages for iCloud Drive
 
 In the next window (**Figure 2**), click the check box for Pages and then click Done. Close System Preferences.
@@ -65,14 +61,10 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Enable the Collaboration feature
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
@@ -91,6 +83,10 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Enable Track Changes
 
 Click Move to iCloud and then, when prompted, click Continue to enable Track Changes (**Figure 5**).
@@ -108,6 +104,10 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -149,22 +149,17 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-live-choreo-streaming-on-shouqi-media/"><u>[New] 2024 Approved Live Choreo Streaming on Shouqi Media</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-time-travelers-guide-to-youtube-queue-watch-from-end-to-start/"><u>[New] In 2024, A Time Traveler’s Guide to YouTube Queue Watch From End to Start</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-cadence-crossover-transferring-playlists-with-ease/"><u>2024 Approved Cadence Crossover Transferring Playlists with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-glimpse-into-the-future-of-mobile-photography-how-ai-is-revolutionizing-smartphone-cameras-and-shaping-our-visual-world-zdnet/"><u>A Glimpse Into the Future of Mobile Photography: How AI Is Revolutionizing Smartphone Cameras and Shaping Our Visual World | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-dialogues-battlefront-choosing-between-gpt-and-bing/"><u>AI Dialogues Battlefront: Choosing Between GPT & Bing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/are-mac-systems-evolving-enough-to-challenge-pc-dominance-in-the-gamer-arena/"><u>Are Mac Systems Evolving Enough to Challenge PC Dominance in the Gamer Arena?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/como-convertir-3gpp-a-avi-gratis-online-mediante-movavi-guia-paso-a-paso/"><u>Cómo Convertir 3GPP a AVI Gratis Online Mediante Movavi: Guía Paso a Paso</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparing-meta-quest-3-with-apple-vision-pro-analyzing-mark-zuckerbegs-insights/"><u>Comparing Meta Quest 3 with Apple Vision Pro: Analyzing Mark Zuckerbeg’s Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciding-on-the-best-chatgpt-approach-to-enhance-psychological-health/"><u>Deciding on the Best ChatGPT Approach to Enhance Psychological Health</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/die-top-13-beliebtesten-kostenlosen-windows-11-dvd-player-ihre-umfassende-liste/"><u>Die Top 13 Beliebtesten Kostenlosen Windows 11 DVD-Player: Ihre Umfassende Liste</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-deal-exceptional-magsafe-compatible-wallet-thats-not-from-apple-or-anker-exclusive-zdnet-insight/"><u>Discover the Ultimate Deal: Exceptional MagSafe Compatible Wallet That's Not From Apple or Anker | Exclusive ZDNET Insight</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-macbook-upgrades-of-the-year-2024-in-depth-analysis-and-ratings/"><u>Essential MacBook Upgrades of the Year 2024: In-Depth Analysis and Ratings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/find-the-ideal-ios-vpn-solutions-in-depth-analysis-and-rankings-by-specialists-zdnet/"><u>Find the Ideal iOS VPN Solutions: In-Depth Analysis & Rankings by Specialists | ZDNet</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-transform-spaces-and-elevate-brands-the-ultimate-apps-list-for-youtube-artistry/"><u>In 2024, Transform Spaces & Elevate Brands The Ultimate Apps List for YouTube Artistry</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/top-20-hilarious-tiktok-skits-for-giggle-fests/"><u>Top 20 Hilarious TikTok Skits for Giggle Fests</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-t2-pro-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo T2 Pro 5G Phone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/triad-tactics-for-chatgpts-coexistence-with-wolframalpha/"><u>Triad Tactics for ChatGPT's Coexistence with WolframAlpha</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fine-tuning-your-frames-with-videoleap/"><u>[New] Fine-Tuning Your Frames with Videoleap</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-visualize-the-possibilities-a-beginners-guide-to-snapseed/"><u>[Updated] 2024 Approved Visualize the Possibilities A Beginner's Guide to Snapseed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-stabilizing-high-flying-camera-work-a-guide/"><u>2024 Approved Stabilizing High-Flying Camera Work A Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-codegpt-future-of-automated-source-coding/"><u>Dissecting CodeGPT: Future of Automated Source Coding</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-infinix-zero-30-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Infinix Zero 30 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-essential-5-backdrops-alternator-for-iphones-x87/"><u>In 2024, Essential 5 Backdrops Alternator for iPhones X/8/7</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-screensaviors-guide-global-and-regional-channels-led-by-you/"><u>In 2024, ScreenSaviors Guide Global and Regional Channels Led by You</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-job-quests-6-chatgpt-techniques-explored/"><u>Innovating Job Quests: 6 ChatGPT Techniques Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamlessly-blending-silence-ai-assisted-meditation-routines/"><u>Seamlessly Blending Silence: AI-Assisted Meditation Routines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-iphones-memory-using-icloud-and-mac-a-comprehensive-how-to-experts/"><u>Secure Your iPhone's Memory Using iCloud & Mac: A Comprehensive How-To Experts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-ultimate-insiders-guide-to-instagram-stories-magic-for-2024/"><u>The Ultimate Insider's Guide to Instagram Stories Magic for 2024</u></a></li>
 </ul></div>
 

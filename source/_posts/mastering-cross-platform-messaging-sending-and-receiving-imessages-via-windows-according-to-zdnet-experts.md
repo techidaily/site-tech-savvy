@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Messaging: Sending & Receiving iMessages via Windows, According to ZDNet Experts"
-date: 2024-12-23T18:32:48.872Z
-updated: 2024-12-27T16:03:44.988Z
+date: 2025-01-02T03:14:09.492Z
+updated: 2025-01-05T19:53:15.803Z
 tags:
   - apple
 categories:
@@ -42,6 +42,10 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to send and receive iMessages on Windows
 
 ## Use Microsoft Phone Link
@@ -56,15 +60,15 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -77,7 +81,7 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
@@ -98,17 +102,21 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use Intel Unison
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -142,19 +150,11 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,21 +192,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-seamless-visual-storytelling-through-advanced-chroma-techniques/"><u>[New] 2024 Approved Seamless Visual Storytelling Through Advanced Chroma Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-insert-youtube-links-for-an-engaging-ppt-experience/"><u>[Updated] In 2024, How to Insert YouTube Links for an Engaging PPT Experience</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-s23-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-unveils-revolutionary-ai-image-creation-tool-offers-on-device-magic-without-the-need-for-dall-e/"><u>Apple Unveils Revolutionary AI Image Creation Tool - Offers On-Device Magic Without the Need for DALL-E</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/designing-impressive-presentations-through-ai-driven-processes/"><u>Designing Impressive Presentations Through AI-Driven Processes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/generative-bots-battle-gpt-or-bing-chat-leads/"><u>Generative Bots Battle - GPT or Bing Chat Leads?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-nokia-g22-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Nokia G22 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ignite-your-artistic-spirit-find-the-premier-android-drawing-tools/"><u>Ignite Your Artistic Spirit Find the Premier Android Drawing Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-chatgpts-potential-with-usechatgpt-co-pilot-extension/"><u>Maximizing ChatGPT's Potential with UseChatGPT Co-Pilot Extension</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-generative-tech-with-parenthood/"><u>Navigating Generative Tech with Parenthood</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-expert-picks-top-video-animation-apps-for-mobile/"><u>New Expert Picks Top Video Animation Apps for Mobile</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/secure-your-advance-order-on-iphone-15-and-apple-watch-series-9ultra-2-with-top-savings-insights/"><u>Secure Your Advance Order on iPhone 15 & Apple Watch Series 9/Ultra 2 with Top Savings - Insights</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/the-easiest-way-to-edit-gopro-videos-a-beginners-guide-for-2024/"><u>The Easiest Way to Edit GoPro Videos A Beginners Guide for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-36-unbeatable-apple-discounts-and-offers-still-up-for-grabs-on-prime-day-shop-smart-with-zdnets-guide/"><u>Top 36 Unbeatable Apple Discounts & Offers Still Up for Grabs on Prime Day - Shop Smart with ZDNet's Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-im-choosing-the-iphone-16-pro-over-the-max-apples-latest-incentives-insights-from-zdnet/"><u>Why I'm Choosing the iPhone 16 Pro Over the Max: Apple's Latest Incentives - Insights From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-mix-fold-3-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi Mix Fold 3 can’t play AVCHD .mts video</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfect-frame-rate-selection-a-guide-to-best-slow-motion-filmmaking-techniques/"><u>[New] Perfect Frame Rate Selection A Guide to Best Slow Motion Filmmaking Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-preserving-every-moment-of-your-switch-gaming/"><u>[Updated] 2024 Approved Preserving Every Moment of Your Switch Gaming</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-enhance-visibility-with-any-channel-title-through-free-makers/"><u>[Updated] In 2024, Enhance Visibility With Any Channel Title Through Free Makers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oneplus-ace-3-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart OnePlus Ace 3 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conceptual-canvas-the-freshest-visual-suggestions-with-dall-e-3/"><u>Conceptual Canvas: The Freshest Visual Suggestions with DALL-E 3</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/discover-the-next-big-thing-in-design-the-best-9-sites-featuring-dynamic-3d-text-creation-for-2024/"><u>Discover the Next Big Thing in Design The Best 9 Sites Featuring Dynamic 3D Text Creation for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-newest-browser-capabilities-in-gpt-beta/"><u>Exploring the Newest Browser Capabilities in GPT Beta</u></a></li>
+<li><a href="https://extra-information.techidaily.com/learning-the-art-of-soundshaping-in-audacity/"><u>Learning the Art of Soundshaping in Audacity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/my-loyalty-with-apple-watch-series-n-why-im-skipping-series-10-and-staying-content-with-what-i-have-exclusive/"><u>My Loyalty with Apple Watch Series N | Why I'm Skipping Series 10 and Staying Content With What I Have Exclusive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resurgence-of-apples-enigmatic-homeos-seen-again-in-latest-tvos-development-leak-insights/"><u>Resurgence of Apple's Enigmatic homeOS Seen Again in Latest tvOS Development Leak - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safe-mental-support-mastering-gpt-4-in-therapy/"><u>Safe Mental Support: Mastering GPT-4 in Therapy</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/story-lore-who-are-the-premier-channels-in-2024/"><u>Story Lore Who Are the Premier Channels, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-choosing-the-best-2022-ipads-for-children-insights-from-gadgetwise/"><u>The Ultimate Guide to Choosing the Best 2022 iPads for Children - Insights From GadgetWise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-gpts-latest-web-and-plugin-upgrades/"><u>Unlocking GPT's Latest Web & Plugin Upgrades</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/xbox-one-connected-to-xbox-live-heres-the-comprehensive-guide/"><u>Xbox One Connected to Xbox Live? Here's the Comprehensive Guide</u></a></li>
 </ul></div>
 

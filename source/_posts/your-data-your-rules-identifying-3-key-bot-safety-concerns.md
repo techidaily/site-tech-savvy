@@ -1,7 +1,7 @@
 ---
 title: "Your Data, Your Rules: Identifying 3 Key Bot Safety Concerns"
-date: 2024-09-12T07:41:08.081Z
-updated: 2024-09-13T07:41:08.081Z
+date: 2025-01-05T05:24:57.448Z
+updated: 2025-01-05T23:52:55.495Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,7 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
  Millions of people now use AI chatbots worldwide, but there are some important privacy risks and concerns to keep in mind if you want to try out one of these tools.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Data Collection
@@ -44,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 
  But the concerns don't stop here.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How Does ChatGPT Learn?
 
  In order to provide information, large language models are trained with huge amounts of data. According to [Science Focus](https://www.sciencefocus.com/future-technology/gpt-3), ChatGPT-4 alone was fed 300 billion words of information during its training period. This isn't taken straight from a few encyclopedias. Rather, chatbot developers use masses of information from the internet to train their models. This can include data from books, movies, articles, Wikipedia entries, blog posts, comments, and even review sites.
@@ -64,10 +54,7 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 ![screenshot of chatgpt-3.5 conversation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-3-5-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Rather, it was trained using "a diverse range of text from the internet, including websites, books, articles, and other publicly available written material up until September 2021."
@@ -89,10 +76,7 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
  ChatGPT may be the biggest AI chatbot today, but chatbot privacy issues don't start and end with this provider. If you're using a shady chatbot with a lackluster privacy policy, your conversations may be misused, or highly sensitive information may be used in its training data.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Data Theft
@@ -108,10 +92,7 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
  In March 2023, MUO reported on a [fake ChatGPT Chrome extension stealing Facebook logins](https://www.makeuseof.com/fake-chatgpt-chrome-extension-steals-facebook-logins/). The plugin could exploit a Facebook backdoor to hack high-profile accounts and steal user cookies. This is just one example of numerous phony ChatGPT services designed to con unknowing victims.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Malware Infection
@@ -125,10 +106,7 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
  Additionally, you should never install any chatbot plugins and extensions without verifying their legitimacy first. Do a little research around the app to see if it's been well-reviewed, and also run a search of the app's developer to see if you find anything shady.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Chatbots Aren't Impervious to Privacy Issues
@@ -156,5 +134,19 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-making-your-youtube-content-stand-out-with-engaging-subtitle-designs/"><u>[New] 2024 Approved Making Your YouTube Content Stand Out with Engaging Subtitle Designs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-mastering-speed-easy-steps-to-create-top-notch-slow-motion-on-android-for-2024/"><u>[New] Mastering Speed Easy Steps to Create Top-Notch Slow Motion on Android for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-riches-in-pixels-identifying-the-best-12-sites-with-free-stock-photos/"><u>[Updated] In 2024, Riches in Pixels Identifying the Best 12 Sites with Free Stock Photos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dive-into-tech-excellence-insights-from-toms-hardware-professionals/"><u>Dive Into Tech Excellence - Insights From Tom's Hardware Professionals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dreams-and-data-how-ai-redefines-fantasy/"><u>Dreams and Data: How AI Redefines Fantasy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-strategies-for-detecting-and-eliminating-mobile-phone-spyware-insights-from-zdnet/"><u>Effective Strategies for Detecting & Eliminating Mobile Phone Spyware - Insights From ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-the-ultimate-guide-to-meta-and-omni-versions/"><u>In 2024, The Ultimate Guide to Meta & Omni Versions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-charger-upgrade-for-globe-trotters-unveiling-the-3-in-1-magsafe-wireless-charger-that-supports-qi2-now-a-top-pick-on-zdnet/"><u>The Ultimate Charger Upgrade for Globe-Trotters: Unveiling the 3-in-1 MagSafe Wireless Charger That Supports Qi2, Now a Top Pick on ZDNET!</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/unraveling-the-impact-how-the-opium-wars-shaped-modern-chinese-society-explored-by-yl-computing/"><u>Unraveling the Impact: How the Opium Wars Shaped Modern Chinese Society - Explored by YL Computing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updated-nvidia-rtx-1080-driver-package-for-windows-1n-fast-and-easy-download-process/"><u>Updated NVIDIA RTX 1080 Driver Package for Windows 1N - Fast & Easy Download Process!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/visual-narratives-instagram-carousel-for-2024/"><u>Visual Narratives Instagram Carousel for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-claude-triumphs-over-gpt-top-4-beneficial-aspects-unveiled/"><u>Why Claude Triumphs Over GPT: Top 4 Beneficial Aspects Unveiled</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Using the Messages App to Access iMessage Features on Windows - Insights From ZDNet"
-date: 2024-12-22T21:12:12.456Z
-updated: 2024-12-27T16:58:12.800Z
+date: 2024-12-31T22:51:19.744Z
+updated: 2025-01-06T10:19:23.952Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -61,7 +57,7 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
@@ -69,10 +65,6 @@ Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings,
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -102,21 +94,17 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use Intel Unison
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -125,6 +113,10 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -137,6 +129,10 @@ You'll then be asked to grant the app access to your contacts, photo library, de
 At the next screen on your phone, tap the button for "Scan QR code." Scan the code in the Unison screen on your PC. Confirm the text string that appears on the screen. Your phone and PC should tell you that the pairing was successful. Tap Get Started in the iPhone app.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Launch the Windows Unison app
 
@@ -155,6 +151,10 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,18 +192,15 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-thinkers-arena-premier-gk-quiz-vids/"><u>[Updated] 2024 Approved Thinkers’ Arena Premier GK Quiz Vids</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastering-the-art-of-filter-selection-on-instagram/"><u>[Updated] Mastering the Art of Filter Selection on Instagram</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/8-tips-to-create-attractive-instagram-unboxing-reels-for-2024/"><u>8 Tips to Create Attractive Instagram Unboxing Reels for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-step-by-step-guide-personalizing-the-control-center-on-ios-18/"><u>A Step-by-Step Guide: Personalizing the Control Center on iOS 18</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-missing-self-critique-clues/"><u>ChatGPT: Missing Self-Critique Clues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conquering-spreadsheets-a-guide-to-chatgpt-excel-synergy/"><u>Conquering Spreadsheets: A Guide to ChatGPT-Excel Synergy</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dominating-the-sky-with-heavylift-drones/"><u>Dominating the Sky with Heavylift Drones</u></a></li>
-<li><a href="https://win11.techidaily.com/expanding-context-menu-adding-folders-to-w11/"><u>Expanding Context Menu: Adding Folders to W11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/game-design-revolution-how-bzs-merger-elevates-microsofts-ai-artistic-endeavors-industry-breakdown/"><u>Game Design Revolution: How BZ's Merger Elevates Microsoft's AI Artistic Endeavors [Industry Breakdown]</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/getting-to-know-the-trailblazer-in-depth-review-of-the-new-ampace-andes-1500-solar-generator/"><u>Getting to Know The Trailblazer: In-Depth Review of the New Ampace Andes 1500 Solar Generator</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y200e-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-look-at-apples-strategic-development-of-a-fortified-operating-system-for-advanced-ai-management-in-data-centers-exclusive-report/"><u>Inside Look at Apple's Strategic Development of a Fortified Operating System for Advanced AI Management in Data Centers | Exclusive Report</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dilemma-of-gpt-in-programming-weapons/"><u>The Dilemma of GPT in Programming Weapons</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-essential-screen-capture-techniques-for-powerpoint-presentations/"><u>[New] 2024 Approved Essential Screen Capture Techniques for PowerPoint Presentations</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-elevate-your-slow-motion-on-mobile-with-these-apps/"><u>[New] Elevate Your Slow Motion on Mobile with These Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-premium-software-selection-upload-videos-for-twitter/"><u>[New] Premium Software Selection Upload Videos for Twitter</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/clearstream-2v-all-weather-tv-antenna-assessment-exceptional-reception-in-an-eye-catching-design/"><u>ClearStream 2V All-Weather TV Antenna Assessment: Exceptional Reception in an Eye-Catching Design</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reinvigorate-the-essential-wsreset-process/"><u>How to Reinvigorate the Essential WSReset Process</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/introducing-new-amd-hd-6950-drivers-for-w11-os/"><u>Introducing New AMD HD 6950 Drivers for W11 OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-speech-commands-on-android/"><u>Mastering ChatGPT Speech Commands on Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/math-mastery-ai-edition/"><u>Math Mastery: AI Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premier-ai-notetakers-best-tools-for-academic-success/"><u>Premier AI Notetakers: Best Tools for Academic Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-top-8-ai-powered-chrome-extensions-for-productivity/"><u>The Top 8 AI-Powered Chrome Extensions for Productivity</u></a></li>
 </ul></div>
 

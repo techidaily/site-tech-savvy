@@ -1,7 +1,7 @@
 ---
 title: Flawless Content Creation - The 4 Biggest Mistakes to Dodge Using ChatGPT
-date: 2024-09-06T23:33:37.194Z
-updated: 2024-09-07T23:33:37.194Z
+date: 2025-01-01T22:34:29.860Z
+updated: 2025-01-06T02:27:01.813Z
 tags:
   - chatgpt
   - open-ai
@@ -24,11 +24,9 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
  Before you take this issue lightly, know that misusing AI can lead to legal issues, reputational damage, and erroneous output. Let's explore the wrong ways content creators use ChatGPT so that you can avoid these problems.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Don't Overdepend on ChatGPT
 
  Imagine you're a first-time ChatGPT user. Since it's your first time using it, you'll find its speed remarkable. What once took you hours to create only takes seconds. As time goes by, you might start heavily relying on it. You make a few edits but don't bother to research.
@@ -49,18 +47,6 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
 
  If you're learning to use ChatGPT for content creation, include [what AI hallucination is and how you can spot it](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) in your list of topics to master. More importantly, don't disregard human judgment and creativity. Remember, AI should augment your thinking and not replace it.
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Don't Ask ChatGPT for Research Links
 
  You'd likely be disappointed if you asked ChatGPT for internet links to research sources. ChatGPT will give you links, but they will be the wrong ones or not necessarily the best ones on the web.
@@ -79,16 +65,14 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
 
 ![ChatGPT responding to request for a literature review](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-49-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To better understand the information, we asked for links. This time, ChatGPT refused, saying it was only an AI language model without web browsing capabilities. However, it gave bibliographic information, which we couldn't verify online despite the works being supposedly written between 2004-2018\.
 
 ![chatGPT giving bibliographic information to articles not found online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-48.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When prompted to give links to verify the information it provided, ChatGPT flatly refused this time. It said it didn't have web browsing capabilities and instead gave a list of bibliographic information. However, the data was still erroneous.
 
  The latest [ChatGPT release notes on OpenAI](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) show it now has web browsing capabilities. But these features have yet to be rolled out to every user. Also, as [TechCrunch](https://techcrunch.com/2023/03/23/openai-connects-chatgpt-to-the-internet/) points out, ChatGPT's results aren't necessarily the best on the internet since professionals can game search engine results.
@@ -100,17 +84,9 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
 * Remember to critically assess the results and exercise judgment when selecting which ones to cite.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Don't Replace Workplace Connections With ChatGPT
 
  Some [things that you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) might tempt you to anthropomorphize it or give it human attributes. For instance, you can ask ChatGPT for advice and chat with it if you need someone to talk to.
@@ -119,12 +95,6 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
 
 ![ChatGPT giving advice on workplace burnout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-45.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  But no matter how compassionate it sounds, ChatGPT isn't human. What sounds like human-generated sentences are only the results of ChatGPT predicting the next word or "token" in the sequence based on its training data. It isn't a sentient being with a will and mind of its own as you do.
 
  That said, ChatGPT can't substitute for human relationships and collaboration in the workplace. As the [Work and Well-being Initiative at Harvard University](https://workwellbeinginitiative.org/module-4-moderating-work-demands#:~:text=The%20evidence%20shows%20that%20positive,harmful%20effects%20of%20workplace%20stress.&text=Positive%20relationships%20at%20work%20are%20also%20good%20for%20the%20bottom%20line.) says, these human connections benefit you, helping improve your well-being and protecting you against workplace stress.
@@ -142,21 +112,17 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
 ![ChatGPT giving a wrong answer to a prompt asking for a summary of Eric Allen's article on Hackernoon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-44.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To help ChatGPT, we copy-pasted the article in parts and asked for a summary after each upload. This time, ChatGPT was able to accomplish the task accurately. At one point, it gave us a comment instead of a summary, but we redirected it using another prompt.
 
 ![Conversation with ChatGPT asking to summarize a blog on Hackernoon by Eric Allen, which was uploaded in parts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-43.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This example was a learn-by-doing experiment on how to use ChatGPT to summarize long and technical articles effectively. However, you can now access many internet resources and [learn prompting techniques to improve your ChatGPT responses](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/).
 
  Using recommended prompts is not a fail-safe method against hallucinations, but it can help you deliver accurate results. You can also review the [best ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/) for more information on prompting techniques.
@@ -171,14 +137,11 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
 
  Before you take this issue lightly, know that misusing AI can lead to legal issues, reputational damage, and erroneous output. Let's explore the wrong ways content creators use ChatGPT so that you can avoid these problems.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -187,4 +150,20 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-a-beginners-guide-to-personal-brand-craftsmanship/"><u>[New] In 2024, A Beginner's Guide to Personal Brand Craftsmanship</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-deep-dive-into-effective-youtube-banner-techniques/"><u>[Updated] 2024 Approved A Deep Dive Into Effective YouTube Banner Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-ultimate-companion-for-a-seamless-instagram-video-journey-for-2024/"><u>[Updated] The Ultimate Companion for a Seamless Instagram Video Journey for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-the-reliability-of-ais-like-chatgptbard-for-savings/"><u>Assessing the Reliability of AIs Like ChatGPT/Bard for Savings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-rechargeable-tracking-devices-for-your-wallet-beyond-apple-airtags-gadgetexpert/"><u>Best Rechargeable Tracking Devices for Your Wallet, Beyond Apple AirTags | GadgetExpert</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/choosing-your-operating-system-a-comparison-of-windows-11-windows-10-and-windows-7-for-users-considering-an-upgrade/"><u>Choosing Your Operating System: A Comparison of Windows 11, Windows 10 & Windows 7 for Users Considering an Upgrade</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-started-with-double-tap-on-your-apple-watch-easy-steps-to-enhance-your-experience/"><u>Get Started with Double Tap on Your Apple Watch: Easy Steps to Enhance Your Experience</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-a-treasure-trove-of-premium-youtube-images-from-6-websites/"><u>In 2024, A Treasure Trove of Premium YouTube Images From 6 Websites</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-secure-shots-with-a-steadier-gopro-video-technique/"><u>In 2024, Secure Shots with a Steadier GoPro Video Technique</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-amd-rx-5700x-firmware-updates/"><u>Latest AMD RX 5700X Firmware Updates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-ai-boss-challenges-gpt-outlook/"><u>New AI Boss Challenges GPT Outlook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-picks-for-the-ultimate-2024-ipad-guide-in-depth-comparisons-and-reviews-tech-insights/"><u>Top Picks for the Ultimate 2024 iPad Guide: In-Depth Comparisons & Reviews - Tech Insights</u></a></li>
+</ul></div>
 

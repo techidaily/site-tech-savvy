@@ -1,7 +1,7 @@
 ---
 title: "From Math to Machine: The Birth of Artificocal Intelligence"
-date: 2024-12-24T21:34:29.525Z
-updated: 2024-12-27T21:04:10.253Z
+date: 2025-01-03T21:26:10.526Z
+updated: 2025-01-06T10:30:17.068Z
 tags:
   - chatgpt
   - open-ai
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/4b4c42d86cbc7f5900b95e8b4af00dbe97e236701
 
 ![Scribbles of Math Problems on Old Notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/math-problems-old-notebook-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Technological developments accelerated during this period. The accessibility of IT resources enabled researchers to materialize theories, imagined concepts, and speculations. They were laying the foundation for cybernetics.
 
 * **1914:** Spanish civil engineer Leonardo Torres y Quevedo created El Ajedrecista, which translates to The Chess Player in English. It's an early use of automation. The Chess Player performed an endgame move using its rook and king to checkmate an opposing player.
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/4b4c42d86cbc7f5900b95e8b4af00dbe97e236701
  The dawn of modern AI fitting accumulates with Alan Turing's paper and the [Turing Test, which attempts to answer the question](https://www.makeuseof.com/tag/what-is-turing-test-ever-beaten/), "Can machines think?"
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1951-2000: Exploring the Applications of AI Technologies
@@ -67,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/4b4c42d86cbc7f5900b95e8b4af00dbe97e236701
 ![An Old and Large Supercomputer Display at the Museum](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/old-super-computer-display.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:CDC%5F6600%5F-%5FComputer%5FHistory%5FMuseum%5F%2830614723650%29.jpg)
@@ -81,12 +77,16 @@ Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:C
  The middle period of AI development saw one of the most important moments of all: the coining of the term "artificial intelligence."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2001-2010: Integrating AI Into Modern Technologies
 
 ![The Black First Generation iPhone on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/original-iphone-first-gen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IPhone%5FFirst%5FGeneration%5F8GB%5F%283680455198%29.jpg)
 
@@ -99,6 +99,10 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 * **2009:** Google developed its driverless car for four years before passing the first statewide self-driving test in 2014\. Competitors would later [enhance driverless vehicles with AI](https://www.makeuseof.com/artificial-intelligence-in-cars-safety/).
 
  Interestingly, despite this period featuring some of the most iconic tech from recent decades, AI wasn't fully on the radar for most consumers, with personal and home assistant tools like Siri and Alexa only appearing in the next period.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2011-2020: The Spread and Development of AI-Driven Applications
 
@@ -113,10 +117,6 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 * **2018:** OpenAI developed GPT-1, the first language model of the [GPT family](https://www.makeuseof.com/gpt-models-explained-and-compared/). Developers used the BookCorpus dataset for training. The model could answer general knowledge questions and use natural language.
 
  During this period, consumers were likely to use AI applications without even realizing it, even though visual and voice recognition tools (for most consumers) were still young. Towards the end of the decade, AI development kicked up a notch, but still not as dramatically as what was to come.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2021-Present: Global Tech Leaders Kick off the Great AI Race
 
@@ -154,22 +154,22 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-extensive-examination-of-vsco-image-tools/"><u>[New] Extensive Examination of VSCO Image Tools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-how-to-adapt-posting-techniques-after-instagrams-revisions/"><u>[Updated] 2024 Approved How to Adapt Posting Techniques After Instagram’s Revisions</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-tips-for-achieving-crystal-clear-1080p-on-fb/"><u>[Updated] 2024 Approved Tips for Achieving Crystal Clear 1080P on FB</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unraveling-youtubes-ranks-the-deciding-elements/"><u>[Updated] In 2024, Unraveling YouTube's Ranks The Deciding Elements</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-ethics-in-software-from-defense-to-offense-crafting/"><u>AI Ethics in Software: From Defense to Offense Crafting</u></a></li>
-<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-6s-plus-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone 6s Plus Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flight-cam-combat-dji-spark-vs-gopro-fury-for-2024/"><u>Flight Cam Combat DJI Spark VS GoPro Fury for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-fix-the-chatgpt-login-error/"><u>How to Fix the ChatGPT Login Error</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/kickstart-embrace-8-customizable-gpt-models-now/"><u>Kickstart: Embrace 8 Customizable GPT Models Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/making-the-switch-smoothly-ensuring-your-iphone-13-case-is-perfect-for-iphone-14-an-expert-review/"><u>Making the Switch Smoothly: Ensuring Your iPhone 13 Case Is Perfect for iPhone 14 - An Expert Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-location-tracking-on-iphone-with-our-favorite-5-gps-apps/"><u>Mastering Location Tracking on iPhone with Our Favorite 5 GPS Apps</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidias-latest-graphics-drivers-a-win10-upgrade/"><u>NVIDIA's Latest Graphics Drivers: A Win10 Upgrade</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-osx-exploring-potential-features-at-wwdc-that-could-enhance-visionos-tech-analysis/"><u>The Future of OSX: Exploring Potential Features at WWDC that Could Enhance VisionOS | Tech Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-8-considerations-for-ai-tools-as-an-independent-professional/"><u>Top 8 Considerations for AI Tools as an Independent Professional</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unearthing-ghosted-chatgpt-conversations/"><u>Unearthing Ghosted ChatGPT Conversations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-word-potential-with-ai-powered-automated-drafting/"><u>Unlock Word Potential with AI-Powered Automated Drafting</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unraveling-the-mechanics-of-generative-ai-for-enhanced-search-capabilities-and-key-players/"><u>Unraveling the Mechanics of Generative AI for Enhanced Search Capabilities and Key Players</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-estimating-film-budget-the-cost-of-capturing-melodies-visually/"><u>[New] 2024 Approved Estimating Film Budget The Cost of Capturing Melodies Visually</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-direct-to-streamer-duel-choose-your-platform/"><u>[New] In 2024, Direct-to-Streamer Duel Choose Your Platform</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-animators-odyssey-crafting-your-own-fx-realm/"><u>[New] The Animator's Odyssey Crafting Your Own FX Realm</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-symphony-in-softness-playback-reduction-guide/"><u>2024 Approved Symphony in Softness Playback Reduction Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-power-how-this-compact-8-in-1-adapter-outperforms-expectations-a-zdnet-review/"><u>Affordable Power: How This Compact 8-In-1 Adapter Outperforms Expectations - A ZDNet Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/approach-recall-the-definition-of-arc-blow-from-the-facts-provided/"><u>Approach: Recall the Definition of Arc Blow From the Facts Provided.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-missteps-in-chat-with-gpt-technology/"><u>Avoiding Missteps in Chat with GPT Technology</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/boost-engagement-by-refreshing-your-tiktok-profile/"><u>Boost Engagement by Refreshing Your TikTok Profile</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-how-the-apple-watch-ultra-2-became-my-ideal-smartwatch-companion-plus-enjoy-a-100-labor-day-discount/"><u>Discover How the Apple Watch Ultra 2 Became My Ideal Smartwatch Companion - Plus, Enjoy a $100 Labor Day Discount!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a15-4g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A15 4G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unlocking-the-treasure-chest-digging-into-fb-status-videos/"><u>In 2024, Unlocking the Treasure Chest Digging Into FB Status Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/master-the-art-of-live-streaming-snapchat-videos/"><u>Master the Art of Live Streaming Snapchat Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-relationships-with-ai-wisdom/"><u>Navigating Relationships with AI Wisdom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nonewchatter-when-will-open-again/"><u>NoNewChatter: When Will Open Again?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-own-apple-vision-pro-today-available-in-512gb-and-1tb-variants/"><u>Secure Your Own Apple Vision Pro Today - Available in 512GB & 1TB Variants!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-trimming-images-efficiently-in-word-excel-and-powerpoint-2010/"><u>Ultimate Guide to Trimming Images Efficiently in Word, Excel & PowerPoint 2010</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unfettered-gpt-accessibility-globally-reachable-guide/"><u>Unfettered GPT Accessibility: Globally Reachable Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to iPhone iOS 18 Support - Models Compatible and Incompatible
-date: 2024-12-21T21:16:11.860Z
-updated: 2024-12-27T21:24:06.892Z
+date: 2025-01-04T03:04:54.186Z
+updated: 2025-01-05T21:04:42.753Z
 tags:
   - apple
 categories:
@@ -39,10 +39,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which iPhone models will get iOS 18?
 
@@ -92,6 +88,10 @@ The general release will have ironed out most of these bugs and problems using t
 
 One example of this process is when Apple released the iOS 17 beta version in 2023\. The early beta version featured the "End" button during a call that had moved from the center to the right, which was a big change for iPhone users. Disapproving feedback from beta testers resulted in [Apple moving the "End" button back to the center of the screen](https://www.zdnet.com/article/apple-moved-iphones-end-call-button-again-is-this-spot-less-weird/), where users had been accustomed to.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When was iOS 18 released?
 
 Apple typically releases its new operating systems for public beta access a few weeks after WWDC. iOS 18 was released in public beta in mid-July. The public beta program lets users test developing software to pinpoint bugs and performance issues. This process lets software teams make any necessary fixes and releases before the new system reaches general availability.
@@ -101,7 +101,7 @@ Apple typically releases its new operating systems for public beta access a few 
 Apple released iOS 18 out of beta on September 16, a week after its ["Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/). The Apple Intelligence features will be available in stages for qualifying devices and are expected to roll out gradually over the coming months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a software beta?
@@ -113,7 +113,7 @@ A software beta is a version of a program or operating system initially released
 The beta phase follows alpha testing, where software is developed and tested internally within the company. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhone models will get Apple Intelligence?
@@ -125,7 +125,7 @@ While many iPhone models support iOS 18, very few will support Apple Intelligenc
 Apple Intelligence will be part of iOS 18, iPadOS18, and macOS Sequoia, but will be released over time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhone models will no longer be supported?
@@ -133,7 +133,7 @@ Apple Intelligence will be part of iOS 18, iPadOS18, and macOS Sequoia, but will
 iOS 18 will not be supported in the iPhone X, iPhone 8, or earlier models. The new iOS version will only be available for iPhones sporting an A12 Bionic chip or newer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What should you do with your outdated iPhone?
@@ -176,22 +176,24 @@ If you're looking to maintain or obtain a service provider, you can check your i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-best-obs-settings-for-low-end-pc/"><u>[New] Best OBS Settings for Low-End PC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-quick-tips-for-nvidia-screen-capturing-for-2024/"><u>[Updated] Quick Tips for NVIDIA Screen Capturing for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-language-crafting-analyzing-its-impact-on-employment-stability/"><u>AI-Driven Language Crafting: Analyzing Its Impact on Employment Stability</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/best-free-webcam-driver-downloads-from-logitech-for-windows-computers/"><u>Best Free Webcam Driver Downloads From Logitech for Windows Computers</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/control-your-android-applications-directly-on-pc-a-guide-to-seamless-app-management/"><u>Control Your Android Applications Directly on PC: A Guide to Seamless App Management</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-selection-of-18-premium-deals-for-high-performance-laptops-this-prime-day-insider-tips-on-hp-apple-and-razer-from-zdnets-tech-experts.50/"><u>Discover the Ultimate Selection of 18 Premium Deals for High-Performance Laptops This Prime Day: Insider Tips on HP, Apple, and Razer From ZDNet's Tech Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embrace-the-future-of-payments-with-apple-pay-a-comprehensive-tutorial-by-zdnet-on-using-it-both-offline-and-online/"><u>Embrace the Future of Payments with Apple Pay: A Comprehensive Tutorial by ZDNet on Using It Both Offline and Online</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/empowering-websites-with-cookiebot-next-level-conversion-tracking-solutions/"><u>Empowering Websites with Cookiebot: Next-Level Conversion Tracking Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-apples-recently-introduced-distinctive-accessories-the-hidden-launch-story/"><u>Exploring Apple's Recently Introduced Distinctive Accessories: The Hidden Launch Story</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-oneplus-12-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My OnePlus 12? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-highest-rated-10-apps-to-watch-golf-and-soccer-in-the-moment/"><u>In 2024, Highest Rated 10 Apps to Watch Golf & Soccer in the Moment</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-file-shift-quick-and-easy-transfer-tactics-for-the-computer/"><u>In 2024, Mastering File Shift Quick and Easy Transfer Tactics for the Computer</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-realme-narzo-n53-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Realme Narzo N53 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/marvelous-revelation-direct-communication-with-chatgpt/"><u>Marvelous Revelation: Direct Communication with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/personalized-nutrition-with-chatgpt-help/"><u>Personalized Nutrition with ChatGPT Help</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/section-2b-five-facts-to-remember/"><u>Section 2B: Five Facts to Remember</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailored-conversation-machines-creating-your-own-gpt/"><u>Tailored Conversation Machines: Creating Your Own GPT</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unveiling-the-immersive-era-vrs-progress-and-upcoming-struggles/"><u>[New] 2024 Approved Unveiling the Immersive Era VR's Progress & Upcoming Struggles</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-standing-out-strategies-for-top-users-on-snapchat/"><u>[New] In 2024, Standing Out Strategies for Top Users on Snapchat</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-swift-windows-checkup-guide-explanatory/"><u>[New] Swift Windows Checkup Guide Explanatory</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebook-cover-makeovers-the-most-trusted-design-tools-ranked/"><u>2024 Approved Facebook Cover Makeovers The Most Trusted Design Tools Ranked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/doctors-vs-algorithms-why-rely-on-professionals/"><u>Doctors vs Algorithms: Why Rely on Professionals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-chatgpt-plagiarize-examining-the-chatbots-sources/"><u>Does ChatGPT Plagiarize? Examining the Chatbot's Sources</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-considerations-in-selecting-video-coders-on-windows/"><u>Essential Considerations in Selecting Video Coders on Windows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/expert-tips-to-improve-skype-broadcasts-using-obs-for-2024/"><u>Expert Tips to Improve Skype Broadcasts Using OBS for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-and-you-crafting-diplomatic-emails-with-smart-tech/"><u>GPT and You: Crafting Diplomatic Emails with Smart Tech</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-from-basic-to-breathtaking-crafting-top-tier-tiktok-videos-using-templates/"><u>In 2024, From Basic to Breathtaking Crafting Top-Tier TikTok Videos Using Templates</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-motorola-edge-40-neo-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Motorola Edge 40 Neo to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-exclusive-score-an-affordable-199-ipad-with-amazons-sale-learn-how-on-zdnet/"><u>Labor Day Exclusive: Score an Affordable $199 iPad with Amazon's Sale - Learn How on ZDNet!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/launching-soon-apple-unveils-vision-pro-headset-supported-by-over-600-tailored-applications-insights/"><u>Launching Soon: Apple Unveils Vision Pro Headset Supported by Over 600 Tailored Applications – Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/no-video-display-on-sony-a6400-screen/"><u>No Video Display on Sony A6400 Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-content-access-with-ai-enhanced-websites/"><u>Revolutionizing Content Access with AI-Enhanced Websites</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tackling-integration-issues-repairing-the-chatgpt-plugin-link/"><u>Tackling Integration Issues: Repairing the ChatGPT-Plugin Link</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-svchostexe-overuse-lowering-cpu-usage-on-windows-10-systems-step-by-step-fix/"><u>Tackling svchost.exe Overuse: Lowering CPU Usage on Windows 10 Systems [Step-by-Step Fix]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-four-reasons-im-saying-no-to-the-iphone-16-pro-and-loving-my-iphone-14-an-in-depth-analysis-by-zdnet/"><u>Top Four Reasons I'm Saying No to the iPhone 16 Pro and Loving My iPhone 14 | An In-Depth Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-exclusive-offers-save-big-on-apples-products-iphones-watches-pads-this-july-zdnet-deals-roundup/"><u>Unlock Exclusive Offers: Save Big on Apples Products (iPhones, Watches, Pads) This July | ZDNET Deals Roundup</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Crypto Red Flags: How to Detect Phony BingCrypt Schemes"
-date: 2024-09-12T07:41:55.183Z
-updated: 2024-09-13T07:41:55.183Z
+date: 2025-01-02T08:41:35.407Z
+updated: 2025-01-06T03:28:02.698Z
 tags:
   - chatgpt
   - open-ai
@@ -22,10 +22,7 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
 **SCROLL TO CONTINUE WITH CONTENT**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Bing's AI Browser?
@@ -33,16 +30,7 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
 ![digital graphic of rotating bing logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-blue-logo.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Nowadays, your typical search engine will take inputted text and scour the internet for the most relevant results. This is by no means a shoddy model but could be improved upon using artificial intelligence.
@@ -52,10 +40,7 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
  With Microsoft integrating AI into its Bing search tool, users can expect an improved search experience, more complete answers, and an interactive AI-powered chat to help them create content. So, how are these new technologies being capitalized on by malicious actors?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are BingChatGPT Scam Tokens?
@@ -63,10 +48,7 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
 ![red digital scam alert graphic with binary code in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/scam-alert-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The crypto industry is no stranger to scam tokens. Thousands of people have fallen victim to fake assets launched by malicious actors, with some losing huge amounts of money to such scams. So, it's really no surprise that cybercriminals are looking to use Bing and ChatGPT's well-established names to lure in unknowing victims.
@@ -86,10 +68,7 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
  Then, the scammers who launched the coin will sell all their holdings at a higher price. These scammers hold back a large proportion of the overall supply to make big profits by dumping it after the price rise. The huge sell-off causes a massive price crash, leaving all other investors out of pocket.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Steer Clear of Scam Crypto Tokens
@@ -101,19 +80,6 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
  You should also steer clear of brand-new tokens that have experienced huge price hikes in a short period. Additionally, you could check how much of the total token supply is in circulation. If a very high proportion is being held back, this may indicate that the developers are looking to sell off a large volume at some point.
 
  Finally, beware of tokens with names linked to any trend or meme. [Memecoins like Dogecoin and Shiba Inu](https://www.makeuseof.com/what-are-crypto-meme-coins/) have become popular, but most meme cryptos are used in scams.
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Scam Tokens Pose a Huge Risk to Investors
 
@@ -134,5 +100,20 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-3-simple-ways-to-color-grading-in-photoshop-for-2024/"><u>[Updated] 3 Simple Ways to Color Grading in Photoshop for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-strategies-for-exclusive-zero-cost-visual-frames/"><u>2024 Approved Strategies for Exclusive Zero-Cost Visual Frames</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-8-best-no-cost-editing-software-for-social-media/"><u>2024 Approved The 8 Best No-Cost Editing Software for Social Media</u></a></li>
+<li><a href="https://techtrends.techidaily.com/budget-friendly-powerhouse-the-comprehensive-guide-to-the-lenovo-legion-5i-ila92-gaming-laptop-review/"><u>Budget-Friendly Powerhouse: The Comprehensive Guide to the Lenovo Legion 5I (ILA92) Gaming Laptop Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-writing-with-unique-tailored-gpt-from-openai/"><u>Elevate Writing with Unique, Tailored GPT From OpenAI</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oneplus-ace-3-drfone-by-drfone-android/"><u>How to Screen Mirroring OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/is-it-possible-to-perform-a-remote-backup-on-an-iphone-steps-and-tips-inside/"><u>Is It Possible to Perform a Remote Backup on an iPhone? Steps and Tips Inside</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-advanced-audio-file-adapter-free-conversion-of-high-end-mpa-sounds-to-universal-mp3-format-2023-version/"><u>New 2024 Approved Advanced Audio File Adapter Free Conversion of High-End MPA Sounds to Universal MP3 Format (2023 Version)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resurrecting-erased-digital-dialogues/"><u>Resurrecting Erased Digital Dialogues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-mystery-of-city-skylines-2-non-launch-problems/"><u>Solving the Mystery of City Skylines 2 Non-Launch Problems</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/transforming-china-the-impact-of-the-chinese-civil-war-on-societal-structures-insights-by-yl-computing-and-yl-software/"><u>Transforming China: The Impact of the Chinese Civil War on Societal Structures - Insights by YL Computing & YL Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-hidden-world-of-ai-powered-content-policing/"><u>Unveiling The Hidden World of AI-Powered Content Policing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-apple-advocates-against-using-cases-on-iphones-are-consumers-taking-notice/"><u>Why Apple Advocates Against Using Cases on iPhones - Are Consumers Taking Notice?</u></a></li>
+</ul></div>
 

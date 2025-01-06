@@ -1,7 +1,7 @@
 ---
 title: How Good Is ChatGPT at Making Cocktails?
-date: 2024-12-25T21:27:37.602Z
-updated: 2024-12-27T18:12:30.051Z
+date: 2025-01-01T16:10:58.759Z
+updated: 2025-01-06T07:56:56.517Z
 tags:
   - chatgpt
   - open-ai
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/ffcad7f48962d75f242ed7b8339741a057dbb5359
 
  As long as your prompts are sound, the AI chatbot should deliver. So, let's test that theory.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Testing ChatGPT's Abilities as a Bartender
 
  I started out with a simple request before moving on to more difficult requests. And the results were interesting, to say the least. I have paraphrased the prompts used as there was often a back-and-forth needed to get ChatGPT to deliver.
@@ -50,15 +46,15 @@ thumbnail: https://thmb.techidaily.com/ffcad7f48962d75f242ed7b8339741a057dbb5359
 
 ![aperol-spritz-with-lemonade-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/aperol-spritz-with-lemonade-cocktail.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Prompt 2: "Please Create the Best Version of an Old-Fashioned."
 
  You can choose any cocktail you want, but I chose the Old-Fashioned, my favorite cocktail in the world. The problem here is that ChatGPT just gave me the core, world-renowned recipe for an Old-Fashioned. So, while it was a very nice cocktail, if you already know how to make a cocktail (or know [how to search online for recipes](https://www.makeuseof.com/recipe-search-engines-based-on-time-budget-ingredients/)), this prompt is a bit of a letdown.
 
 ![ultimate-old-fashioned-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/ultimate-old-fashioned-cocktail.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I did follow up by asking for some tweaks I could make, resulting in some ideas for variations on the Old-Fashioned for another time. This included using maple syrup instead of simple syrup (as Canadians do), using flavored whiskies rather than straight bourbon or rye, and adding smoked ingredients such as oak chips.
 
@@ -71,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/ffcad7f48962d75f242ed7b8339741a057dbb5359
  Adding a few drops of bitters to the Pina Colada really worked, adding a bitter taste to counter the sweet creaminess of a standard mix. While it still looks the same, there is a bitterness in the background.
 
 ![pina-colada-with-a-twist-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/pina-colada-with-a-twist-cocktail.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I also tried adding cinnamon, which also worked well. However, the cinnamon upped the sweetness and overpowered some of the other flavors.
 
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/ffcad7f48962d75f242ed7b8339741a057dbb5359
 ![island-serenade-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/island-serenade-chatgpt-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Prompt 5: "What Cocktail Should I Make Right Now?"
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/ffcad7f48962d75f242ed7b8339741a057dbb5359
 ![orange-blossom-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/orange-blossom-chatgpt-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## So, Is ChatGPT Good at Making Cocktails?
@@ -109,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/ffcad7f48962d75f242ed7b8339741a057dbb5359
  In a word, yes. But as with everything related to ChatGPT and [generative AI as a whole](https://www.makeuseof.com/what-is-generative-ai/), the key is providing the correct prompts and parameters. If you just want a classic cocktail recipe to follow, you can just type that into Google Search. However, ChatGPT comes into its own when you ask it to adapt cocktails or suggest small tweaks to improve the standard recipes.
 
  Every single one of its combinations worked in broad terms. There wasn't a single blend of ingredients that it suggested that led me to throw the cocktail down the sink. And that is a great start. As someone who has experimented with combining flavors, I can tell you that it's very easy to get cocktails wrong.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Three Big Takeaways From This Experiment
 
@@ -119,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/ffcad7f48962d75f242ed7b8339741a057dbb5359
 * ChatGPT needs a little hand-holding at times, so always strive to be clear in explaining what you want when writing prompts.
 
  The first takeaway doesn't particularly matter (you can always make up a name afterward), and the second should be adjusted to your taste (and tolerance!). But the third is an important note concerning ChatGPT; it's only as good as the prompts it receives.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Who Needs a Mixologist When You Have ChatGPT on Hand?
 
@@ -149,18 +149,16 @@ thumbnail: https://thmb.techidaily.com/ffcad7f48962d75f242ed7b8339741a057dbb5359
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-audio-liberation-at-its-finest-in-depth-pazera-tool-examination/"><u>[Updated] Audio Liberation at Its Finest In-Depth Pazera Tool Examination</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-comprehebese-on-the-growth-of-5g-and-its-impact-on-verizons-services/"><u>A Comprehebese on the Growth of 5G and Its Impact on Verizon's Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apex-selection-of-qi-chargers-in-depth-analysis-by-technology-gurus-cnet/"><u>Apex Selection of Qi Chargers : In-Depth Analysis by Technology Gurus - CNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-vision-of-a-domestic-robotic-helper-shaping-our-homes-with-ai/"><u>Apple's Vision of a Domestic Robotic Helper - Shaping Our Homes with AI</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/best-buys-hottest-offers-before-the-2024-prime-day-sale-exclusive-picks/"><u>Best Buy's Hottest Offers Before the 2024 Prime Day Sale - Exclusive Picks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/content-infiltration-despite-advanced-tech/"><u>Content Infiltration Despite Advanced Tech</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oneplus-11-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead OnePlus 11 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-vivo-x100-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Vivo X100 Pro Phone Pattern Lock</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-murky-waters-of-ai-and-privacy-concerns/"><u>Navigating the Murky Waters of AI and Privacy Concerns</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-splitting-your-screen-on-apples-macbook-air/"><u>Step-by-Step Guide: Splitting Your Screen on Apple's MacBook Air</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/0-student-centric-history-youtube-vlogs/"><u>Top 10 Student-Centric History YouTube Vlogs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-stealthy-smart-lock-apps-seamlessly-integrate-with-iphones-find-your-perfect-match/"><u>Top-Rated Stealthy Smart Lock Apps Seamlessly Integrate with iPhones - Find Your Perfect Match!</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/voice-your-ideas-windows-10-recorder-walkthrough/"><u>Voice Your Ideas Windows 10 Recorder Walkthrough</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-browsing-like-a-pro-5-top-choices-for-screen-capture-software-for-2024/"><u>[New] Browsing Like a Pro 5 Top Choices for Screen Capture Software for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-pioneering-photography-examination-with-counterparts/"><u>[Updated] 2024 Approved Pioneering Photography Examination with Counterparts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-barriers-the-new-age-of-ai-communication/"><u>Breaking Barriers: The New Age of AI Communication</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-the-enterprise-applications-of-gpt/"><u>Dissecting the Enterprise Applications of GPT</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhanced-ui-and-improved-recovery-stellars-new-mac-software-update/"><u>Enhanced UI & Improved Recovery: Stellar's New Mac Software Update</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-essential-list-of-preferred-ae-themes-on-ig/"><u>In 2024, The Essential List of Preferred AE Themes on IG</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-steps-for-delving-into-windows-boot-zone/"><u>Key Steps for Delving Into Windows' Boot Zone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-interactions-chatgpt-meets-crypto-landscape/"><u>Mastering Interactions: ChatGPT Meets Crypto Landscape</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pure-text-vs-extended-chatgpt-features/"><u>Pure Text Vs. Extended ChatGPT Features</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/streamline-your-gameplay-win10-screen-record-tech/"><u>Streamline Your Gameplay Win10 Screen Record Tech</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/vintage-film-effect-1920s-how-to-make-for-2024/"><u>Vintage Film Effect 1920S - How to Make for 2024</u></a></li>
 </ul></div>
 

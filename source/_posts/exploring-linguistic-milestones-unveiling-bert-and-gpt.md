@@ -1,7 +1,7 @@
 ---
 title: "Exploring Linguistic Milestones: Unveiling BERT and GPT"
-date: 2024-12-26T19:52:06.137Z
-updated: 2024-12-27T19:09:40.910Z
+date: 2024-12-31T04:21:21.669Z
+updated: 2025-01-05T20:58:45.695Z
 tags:
   - chatgpt
   - open-ai
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 
  Essentially, this means that BERT analyzes a sentence's full context before providing an answer. However, it's pertinent to mention that GPT-3 was trained on a considerably larger corpus of text (45TB) compared to BERT (3TB).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### BERT Is a Masked Language Model
 
  An important thing to know here is that BERT relies on masking to understand the context of a sentence. When processing a sentence, it removes parts of it and relies on the model to predict and complete the gaps.
@@ -59,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 ## How Does BERT Work?
 
 ![Image of a dictionary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/language-unsplash.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  BERT was trained on a dataset of over 3.3 billion words (relying on Wikipedia for up to 2.5 billion words) and the BooksCorpus from Google for 800 million words.
 
@@ -72,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 
  Then, during NSP, BERT learns to predict whether sentence X genuinely follows into sentence Y. This capability trains the model to understand sentence relationships and overall context, which, in turn, contributes to the model's effectiveness.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fine-Tuning BERT
 
  After pre-training, BERT moved on to a fine-tuning phase, where the model was adapted to various NLP tasks, including sentiment analysis, named entity recognition, and question-answering systems. Fine-tuning involves supervised learning, leveraging labeled data sets to enhance model performance for specific tasks.
@@ -81,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
  For instance, BERT is used by Google to predict search queries and to plug in missing words, especially in terms of context.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is BERT Commonly Used For?
@@ -90,15 +94,15 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 
  While Google uses BERT in its search engine, it has several other applications:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Sentiment Analysis
 
  Sentiment analysis is a core application of NLP that deals with classifying text data based on the emotions and opinions embedded in them. This is crucial in numerous fields, from monitoring customer satisfaction to predicting stock market trends.
 
  BERT shines in this domain, as it captures the emotional essence of textual input and accurately predicts the sentiment behind the words.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Text Summarization
 
@@ -111,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
  BERT is truly transformative in the NER space, primarily because of its ability to recognize and classify complex entity patterns—even when presented within intricate text structures.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Question-Answering Systems
@@ -119,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
  BERT's contextual understanding and grounding in bidirectional encoders make it adept at extracting accurate answers from large data sets.
 
  It can effectively determine the context of a question and locate the most suitable answer within the text data, a capability that can be harnessed for advanced chatbots, search engines, and even virtual assistants.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Machine Translation via BERT
 
@@ -155,24 +155,19 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-excellence-in-detail-a-curated-list-of-8k-cameras/"><u>[New] Excellence in Detail A Curated List of 8K Cameras</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-embrace-cold-choosing-heated-backdrops-for-youtube/"><u>[Updated] Embrace Cold Choosing Heated Backdrops for YouTube</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-stepping-through-the-art-of-subtle-volume-lowering-in-audacity/"><u>[Updated] In 2024, Stepping Through the Art of Subtle Volume Lowering in Audacity</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-youtubes-monetization-potential/"><u>[Updated] Unlocking YouTube's Monetization Potential</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoiding-mistakes-the-freelancers-guide-to-chatgpt-use/"><u>Avoiding Mistakes: The Freelancer's Guide to ChatGPT Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-down-apples-wwdc-announcements-today-insights-into-advanced-machine-learning-siri-innovations-and-what-to-expect-from-ios-eighteen-comprehensive-re172/"><u>Breaking Down Apple’s WWDC Announcements Today: Insights Into Advanced Machine Learning, Siri Innovations & What to Expect From iOS Eighteen – Comprehensive Report | ZDNET</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-acrocefexe-issues-with-simple-fixes/"><u>Bypassing AcroCEF.exe Issues with Simple Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-driven-side-businesses-and-pc-optimization/"><u>ChatGPT-Driven Side Businesses & PC Optimization</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/employ-gpt4all-for-low-cost-windows-gpt-clone/"><u>Employ GPT4All for Low-Cost Windows GPT Clone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/five-effective-techniques-to-silence-the-relentless-cursor-flicker-on-any-device/"><u>Five Effective Techniques to Silence the Relentless Cursor Flicker on Any Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-4s-new-era-of-accessibility-for-all-at-no-cost-yet-platinum-still-offers-6-peculiar-benefits/"><u>GPT-4's New Era of Accessibility: For All at No Cost! Yet Platinum Still Offers 6 Peculiar Benefits.</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-editing-mastery-in-fcp-5-advanced-techniques-to-transform-your-videos/"><u>In 2024, Editing Mastery in FCP 5 Advanced Techniques to Transform Your Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-elite-no-cost-fb-imagemovie-design-toolkit/"><u>In 2024, Elite No-Cost FB Image/Movie Design Toolkit</u></a></li>
-<li><a href="https://facebook.techidaily.com/masterclass-in-marketing-the-quintet-of-premier-social-tools/"><u>Masterclass in Marketing: The Quintet of Premier Social Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/probing-the-depths-of-gpt-identifying-8-problematic-aspects/"><u>Probing the Depths of GPT: Identifying 8 Problematic Aspects</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-work-and-adventures-the-three-new-features-upgrading-your-favorite-ar-glasses-insights-from-zdnet/"><u>Revolutionizing Work and Adventures: The Three New Features Upgrading Your Favorite AR Glasses | Insights From ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/see-beyond-images-unleashing-chatgpts-potent-visual-tech/"><u>See Beyond Images: Unleashing ChatGPT's Potent Visual Tech</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-initiating-a-compulsory-safe-mode-reboot-on-windows/"><u>Step-by-Step Guide: Initiating a Compulsory Safe Mode Reboot on Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-vpn-apps-in-depth-comparison-and-reviews-by-industry-experts-techadvisor/"><u>Top-Rated iPhone VPN Apps: In-Depth Comparison & Reviews by Industry Experts | TechAdvisor</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-pioneering-practices-in-multichannel-video-distribution-fbwhatsapp/"><u>[New] 2024 Approved Pioneering Practices in Multichannel Video Distribution (FB/WhatsApp)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-expert-analysis-the-full-spectrum-of-bublcam-360/"><u>[New] Expert Analysis The Full Spectrum of Bublcam 360</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-costless-methods-for-superior-photo-quality/"><u>[New] Explore Costless Methods for Superior Photo Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-assisted-recruitment-discover-the-best-10-ways-to-utilize-gpt-on-linkedin-jobsites/"><u>AI Assisted Recruitment: Discover the Best 10 Ways to Utilize GPT on LinkedIn Jobsites</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-guide-to-designing-and-sharing-your-personalized-contact-card-on-ios-17-using-namedrop/"><u>Easy Guide to Designing and Sharing Your Personalized Contact Card on iOS 17 Using NameDrop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-8-chatgpt-tactics-to-cut-down-on-screen-time-distractions/"><u>Essential 8 ChatGPT Tactics to Cut Down on Screen Time Distractions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/exploring-income-average-creator-revenue-from-adverts-on-youtube-in-2024/"><u>Exploring Income Average Creator Revenue From Adverts on YouTube, In 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-music-that-fuels-movement-top-rated-workout-anthems/"><u>In 2024, Music that Fuels Movement Top-Rated Workout Anthems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/running-windows-11-on-your-m1-mac-with-parallels-desktop-18-a-practical-guide/"><u>Running Windows 11 on Your M1 Mac with Parallels Desktop 18 - A Practical Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-messaging-services-with-beepers-under-new-ownership-by-automattic-expert-analysis/"><u>The Future of Messaging Services with Beepers Under New Ownership by Automattic | Expert Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-list-leading-voice-transcription-programs/"><u>The Ultimate List: Leading Voice Transcription Programs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-locked-away-gpt-history/"><u>Unlocking Locked-Away GPT History</u></a></li>
 </ul></div>
 

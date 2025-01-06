@@ -1,7 +1,7 @@
 ---
 title: "Anticipated VisionOS Improvements: A Look Ahead to Potential Announcements From Apple's WWDC Showcase"
-date: 2024-12-26T18:29:21.064Z
-updated: 2024-12-27T21:22:33.162Z
+date: 2024-12-31T08:44:46.210Z
+updated: 2025-01-05T21:30:26.732Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ Here are my 10 suggestions for what I'd like to see in VisionOS 2.0\.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  1\. Mouse support
@@ -70,6 +70,10 @@ That precludes using the Vision Pro's mirror-to-Apple TV feature to help a perso
 
 Look, I get the whole piracy thing. But limiting even a single screenshot is overkill. Apple, please fix this. It makes it much harder to help you sell your products. Shutting down the ability to mirror any Apple TV+ content from the Vision Pro to the Apple TV is baffling. I, for example, subscribe to the Apple One Premier plan, which allows us to use Family Sharing to share among up to five people. So why is Apple blocking this capability on the Vision Pro? 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. More native spatial apps
 
 Apple still ships Books, Calendar, Clock, Home, Maps, Podcasts, Reminders, Shortcuts, Stocks, and Voice Memos in the Compatibility Mode folder. While some of these, like Podcasts, won't benefit much from spatial conversion, others will. Maps, for example, would be the obvious beneficiary of a spatial upgrade, since the app itself tries to present 3D projections on a 2D screen. 
@@ -85,7 +89,7 @@ Apple currently allows just a few fully immersive environments. While the surfac
 I'd love to see more immersive environments for the Vision Pro. There is a category of long-running videos on YouTube called "ambience videos." They consist of cozy animated scenes with some background music like [this serene coffee shop](https://www.youtube.com/watch?v=W5qamfXh3Q4&t=11737s). How nice would it be to set up work virtually in a coffee shop like this, chill, and be productive? I can see a great app market for well-designed third-party ambience environments. Heck, I'd pay a couple of bucks to work in a selection of charming coffee shops! 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  7\. Larger play space boundary
@@ -101,7 +105,7 @@ There's more flexibility on the Quest 3\. Using a [fairly dangerous optional set
 Maybe, with VisionOS 2.0, Apple will allow for some flexibility in play space boundary size. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  8\. VR controller support
@@ -129,16 +133,12 @@ It's weird, but there's no Find My app for the Apple Vision Pro. You can't even 
 Even cooler would be a heads-up display version of Find My that puts an arrow in your field of view as you look for what's missing. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Bonus: Better personas
 
 Wow, those things are creepy. We need to get them out of the uncanny valley. 'Nuff said. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Looking forward to VisionOS 2.0
 
@@ -178,20 +178,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-understanding-haul-content-production-and-post-production-techniques/"><u>[New] Understanding Haul Content Production & Post-Production Techniques</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-dive-into-time-lapse-shooting-gopro-unveiled-for-2024/"><u>[Updated] Dive Into Time-Lapse Shooting GoPro Unveiled for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-exclusive-access-to-premium-playlists-on-mobile-devices-for-2024/"><u>[Updated] Exclusive Access to Premium Playlists on Mobile Devices for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-apples-latest-why-the-iphone-16-may-not-be-your-best-bet-in-depth-analysis/"><u>Decoding Apple's Latest: Why the iPhone 16 May Not Be Your Best Bet | In-Depth Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/forefront-ai-explained-does-it-outshine-chatgpt/"><u>Forefront AI Explained – Does It Outshine ChatGPT?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guiding-ais-future-the-case-for-increased-oversight/"><u>Guiding AI’s Future: The Case for Increased Oversight</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improved-visual-performance-in-grand-theft-auto-v-after-rectifying-errgfxd3dinit/"><u>Improved Visual Performance in Grand Theft Auto V After Rectifying ERR_GFX_D3D_INIT</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-quick-tips-for-hitting-the-jackpot-in-pexels/"><u>In 2024, Quick Tips for Hitting the Jackpot in Pexels</u></a></li>
-<li><a href="https://fox-links.techidaily.com/pivoting-from-srt-to-subtitle-format-for-2024/"><u>Pivoting From SRT to Subtitle Format for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-leveraging-chatgpt/"><u>Step-by-Step: Leveraging ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-leading-ipads-of-2024-expert-insights-and-ratings/"><u>Ultimate Guide to the Leading iPads of 2024: Expert Insights and Ratings</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/uniting-skype-and-zoom-for-seamless-video-calls-for-2024/"><u>Uniting Skype & Zoom for Seamless Video Calls for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-facebooks-openness-portal-a-guide-to-platform-clarity/"><u>Unveiling Facebook's Openness Portal: A Guide to Platform Clarity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-top-5-cutting-edge-features-of-iphone-16-pro-that-technology-buffs-cant-resist-zdnet/"><u>Unveiling the Top 5 Cutting-Edge Features of iPhone 16 Pro That Technology Buffs Can't Resist | ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-top-5-pioneering-ai-processor-technologies/"><u>Unveiling the Top 5 Pioneering AI Processor Technologies</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-elite-writes-on-10-free-video-transcript-extractors/"><u>[New] In 2024, Elite' Writes on 10 Free Video Transcript Extractors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-top-10-hilarious-tiktok-skits-unveiled/"><u>[New] Top 10 Hilarious TikTok Skits Unveiled</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-cinema-grade-color-grading-via-look-up-table-utilization/"><u>[Updated] Cinema-Grade Color Grading via Look-Up Table Utilization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/an-8-hour-test-run-with-the-apple-vision-pro-satisfaction-levels-assessed/"><u>An 8-Hour Test Run with the Apple Vision Pro: Satisfaction Levels Assessed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-apple-laptop-a-comparison-of-m3-and-m2-macbook-air-models-techreview/"><u>Choosing the Right Apple Laptop: A Comparison of M3 and M2 MacBook Air Models | TechReview</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-iphones-the-evolution-from-se-2020-to-se-2022-gizmodo-analysis/"><u>Comparing iPhones: The Evolution From SE 2020 to SE 2022 | Gizmodo Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engineering-chatbot-genius-crafting-custom-via-gpt-techniques/"><u>Engineering ChatBot Genius: Crafting Custom via GPT Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/finding-lost-airpods-made-easy-expert-strategies-for-retrieval-and-future-protection/"><u>Finding Lost AirPods Made Easy! Expert Strategies for Retrieval and Future Protection</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-c53-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Realme C53 Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-y200-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo Y200? Fixed | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-honor-x7b-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Honor X7b Phone? Unlock It Now</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-itel-p40-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Itel P40</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-your-ipad-at-risk-with-the-latest-ios-18-update-find-out-before-you-install-now-zdnet-guides/"><u>Is Your iPad At Risk With the Latest iOS 18 Update? Find Out Before You Install Now | ZDNET Guides</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-technology-trends-at-toms-hardware-resource/"><u>Navigating Technology Trends at Tom's Hardware Resource</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-case-for-and-against-chatgpt-plus/"><u>The Case for & Against ChatGPT Plus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-7-benefits-discover-how-chromebooks-outshine-traditional-laptops-for-everyday-users-zdnet-insights/"><u>Top 7 Benefits: Discover How Chromebooks Outshine Traditional Laptops for Everyday Users | ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-best-ipad-pro-cases-in-2-expert-insights-and-detailed-comparisons/"><u>Ultimate Guide to Choosing the Best iPad Pro Cases in 2# - Expert Insights and Detailed Comparisons</u></a></li>
 </ul></div>
 

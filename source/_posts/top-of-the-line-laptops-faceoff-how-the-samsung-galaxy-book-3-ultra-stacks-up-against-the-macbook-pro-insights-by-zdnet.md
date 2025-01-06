@@ -1,7 +1,7 @@
 ---
 title: "Top-of-the-Line Laptops Faceoff: How the Samsung Galaxy Book 3 Ultra Stacks Up Against the MacBook Pro | Insights by ZDNet"
-date: 2024-12-23T21:22:59.843Z
-updated: 2024-12-27T17:06:01.597Z
+date: 2025-01-01T23:20:22.501Z
+updated: 2025-01-05T22:20:06.964Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | **Samsung Galaxy Book 3 Ultra** | **Apple M2-gen MacBook Pro (16-inch)**                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                   |
@@ -44,7 +48,7 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy Samsung's Galaxy Book 3 Ultra if...
@@ -53,11 +57,11 @@ There are definitely some strong MacBook Pro vibes informing Samsung's aesthetic
 
 Samsung
 
-###  1\. You're committed to Samsung's ecosystem
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+###  1\. You're committed to Samsung's ecosystem
 
 ### Samsung Unpacked
 
@@ -73,10 +77,6 @@ If you've already got a Galaxy smartphone or tablet, there are definitely practi
 
 Macs have never matched their Windows-based counterparts when it comes to gaming. Despite the massive boost in power provided by Apple's M2 Pro and Max chips, this remains true. Of course there's the issue that a handful of gaming titles are available for MacOS, almost none of which are new or AAA games. But an equally big problem is MacBooks' lack of discrete GPUs. The Galaxy Book 3 Ultra, on the other hand, has options for an [Nvidia RTX 4050 or 4070 GPU](https://www.zdnet.com/article/nvidia-unveils-its-latest-studio-laptop-series-which-showcases-its-fastest-most-powerful-gpu-chip/), either of which should offer frame rates that are playable to exceptional for almost any title. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  3\. You want maximum software compatibility
 
 Two factors make Samsung's Galaxy Book 3 Ultra more widely compatible: its operating system and its CPU. First, the device runs Windows, which remains the OS with the widest range of supported software across most categories. MacOS is in a much better place than it once was, but there remain software titles that are still available only for Windows. 
@@ -87,19 +87,11 @@ The other factor is Apple's switch to its own silicon. When Apple was using Inte
 
 [Buy Samsung's Galaxy Book 3 Ultra $2,199 at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F&publisher_slug=itechdaily19598&exclusive=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy Apple's 16-inch M2-gen MacBook Pro if...
 
 The most recent, M2 Pro or Max-powered refresh of the venerable 16-inch MacBook Pro.
 
 Apple
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You, or your family, are committed to Apple's ecosystem
 
@@ -120,9 +112,17 @@ It's an issue that can chafe at times, but it's also one that has led many, myse
 
 **Also:** [**Samsung Galaxy S23 Ultra vs Google Pixel 7 Pro: Which Android flagship is king?**](https://www.zdnet.com/article/samsung-galaxy-s23-ultra-vs-google-pixel-7-pro/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You're a content creator looking for a mobile desktop replacement
 
 Apple's M1 generation of chips was already more than enough power for most photo editors, and even a large chunk of video editors, including those working in 4K+ formats. Now, with the advent of M2 Pro and M2 Max options, the 16-inch MacBook Pro is like an entire production studio unto itself, especially when combined with the ample variety of RAM and storage configurations now available for both chips and a full-fledged HDMI port, as well as three DisplayPort-capable Thunderbolt ports. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You need a ton of RAM or storage
 
@@ -185,18 +185,24 @@ Absolutely must have a 16-inch laptop? Lenovo's ThinkPad Z16 is among the most p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-elite-meme-design-software-for-2024/"><u>[New] Elite Meme Design Software for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-price-tracker-finding-the-best-cloud-services/"><u>[New] In 2024, Price Tracker Finding the Best Cloud Services</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-top-10-best-screen-recorders-for-computer/"><u>[New] Top 10 Best Screen Recorders for Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-quick-dive-into-apple-vision-pro-experience-my-key-findings-after-a-weekend-with-it-tech-analysis/"><u>A Quick Dive Into Apple Vision Pro Experience – My Key Findings After a Weekend with It | Tech Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-explores-breath-monitoring-feature-in-new-vision-pro-glasses-tech-news/"><u>Apple Explores Breath Monitoring Feature in New Vision Pro Glasses | Tech News</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-legal-challenge-by-doj-potential-consequences-for-iphone-enthusiasts-and-app-creators-tech-insight/"><u>Apple Legal Challenge by DOJ: Potential Consequences for iPhone Enthusiasts & App Creators | Tech Insight</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-latest-laptops-showdown-comparing-the-new-macbook-air-with-m3-chipset-against-its-predecessor-the-macbook-air-with-m2-tech-advice/"><u>Apple's Latest Laptops Showdown: Comparing the New MacBook Air with M3 Chipset Against Its Predecessor, the MacBook Air with M2 | Tech Advice</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/breaking-out-of-your-iphones-persistent-data-recovery-loop-with-simple-fixes/"><u>Breaking Out of Your iPhone's Persistent 'Data Recovery' Loop with Simple Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cyber-shifts-and-sways-prognosticating-top-7-trends/"><u>Cyber Shifts and Sways: Prognosticating Top 7 Trends</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/um-8-editors-compatible-with-linux/"><u>Premium 8 Editors Compatible with Linux</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smartphone-evolution-the-top-8-android-and-ios-ai-apps/"><u>Smartphone Evolution: The Top 8 Android & iOS AI Apps</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/unleashing-potential-advanced-tiktok-visual-enhancements-for-2024/"><u>Unleashing Potential Advanced TikTok Visual Enhancements for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/wiederherstellung-von-daten-aus-einem-bootfahigen-usb-auf-windows-11-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Von Daten Aus Einem Bootfähigen USB Auf Windows 11: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-critical-steps-in-logging-live-youtube-videos/"><u>[New] 2024 Approved Critical Steps in Logging Live YouTube Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-hue-harmonizer-tool/"><u>[Updated] Ultimate Hue Harmonizer Tool</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1-diagnosing-and-fixing-gpu-malfunctions-expert-advice-from-yl-computings-specialists/"><u>1. Diagnosing and Fixing GPU Malfunctions: Expert Advice From YL Computing's Specialists</u></a></li>
+<li><a href="https://blog-min.techidaily.com/cambia-mpeg-sin-costo-alguno-a-mjpeg-con-convertidor-online-de-movavi/"><u>Cambia MPEG Sin Costo Alguno a MJPEG Con Convertidor Online De Movavi</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-unistellar-odyssey-pro-redefining-astronomy-for-tech-savvy-enthusiasts/"><u>Comprehensive Analysis of the Unistellar Odyssey Pro – Redefining Astronomy for Tech-Savvy Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-to-iphone-ios-18-support-models-compatible-and-incompatible/"><u>Comprehensive Guide to iPhone iOS 18 Support - Models Compatible and Incompatible</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dont-miss-out-immediate-purchase-of-top-three-wwdc-apple-innovations-and-how-to-secure-them-now-zdnet-insights/"><u>Don't Miss Out: Immediate Purchase of Top Three WWDC Apple Innovations and How to Secure Them Now | ZDNET Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dreamscapes-unveiled-ai-arts-latest-visual-ventures-with-dall-e-iii/"><u>Dreamscapes Unveiled: AI Art's Latest Visual Ventures with DALL-E III</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/enhancing-video-calls-incorporating-snap-camera-on-teams-for-2024/"><u>Enhancing Video Calls Incorporating Snap Camera on Teams for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-eradicating-warped-imagery-a-complete-guide-to-fixing-gopro-fish-eye/"><u>In 2024, Eradicating Warped Imagery A Complete Guide to Fixing GoPro Fish Eye</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-nuances-of-ai-in-financial-strategy-planning/"><u>Navigating the Nuances of AI in Financial Strategy Planning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/propelling-progress-the-triumphant-five-in-ai-computing-technology/"><u>Propelling Progress: The Triumphant Five in AI Computing Technology</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/review-for-dji-phantom-3-standard/"><u>Review for DJI Phantom 3 Standard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-transfer-of-images-shifting-from-google-photos-to-icloud-with-simple-steps-techguide/"><u>Seamless Transfer of Images: Shifting From Google Photos to iCloud with Simple Steps | TechGuide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-decision-makers-guide-to-choosing-between-staying-on-current-os-or-going-for-ios-17/"><u>The Decision-Maker's Guide to Choosing Between Staying on Current OS or Going for iOS 17</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-concerns-leading-firms-against-gpt-usage/"><u>Top 5 Concerns Leading Firms Against GPT Usage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-document-mysteries-with-chatgpts-4-reading-techniques/"><u>Unlocking Document Mysteries with ChatGPT's 4 Reading Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watch-the-big-game-heres-how-to-get-espn-on-your-lg-set/"><u>Watch the Big Game? Here's How to Get ESPN on Your LG Set</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-were-my-imessages-marked-as-undeliverable-recently-uncover-the-causes-insights/"><u>Why Were My iMessages Marked as 'Undeliverable' Recently? Uncover the Causes - Insights</u></a></li>
 </ul></div>
 

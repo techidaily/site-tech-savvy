@@ -1,7 +1,7 @@
 ---
 title: The Gap in Self-Review Systems
-date: 2024-09-12T07:40:09.046Z
-updated: 2024-09-13T07:40:09.046Z
+date: 2025-01-04T21:07:52.593Z
+updated: 2025-01-06T02:37:42.510Z
 tags:
   - chatgpt
   - open-ai
@@ -23,19 +23,6 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
  However, in an era where AI-generated text is passed as human-written and used to gain an unfair advantage, identifying AI content is very important. But ChatGPT cannot accurately spot AI content, even its own work—but why?
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is There a Difference Between AI Text and Human Writing?
 
  A precondition for ChatGPT to spot its own writing or any AI-generated text is that there has to be a difference between it and human-written text. So, is there any significant difference between human-written text and AI-generated content? If there is, surely, a tool like ChatGPT should be able to discern it.
@@ -44,26 +31,20 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![False positive judgement by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/false-positive-judgement-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We then asked ChatGPT to generate a story, and in that same chat thread, we copy-pasted the generated text and asked ChatGPT whether the text was AI-created. ChatGPT's response? A confident "No."
 
 ![ChatGPT false negative judgement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-false-negative-judgement.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT failed at identifying human-written or AI-generated text in both cases. So how come ChatGPT cannot detect its own text? Does this mean there is no difference between AI and human text?
 
  Well, there is. We could write an entire book on the difference between the two, but it won't matter much. So, if there's a difference, why is ChatGPT or any other AI tool unable to identify these differences and accurately point out AI-generated text from a human-written one? The answer lies in [how ChatGPT works and how it generates text](http://www.makeuseof.com/how-does-chatgpt-work/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How ChatGPT Generates Text
@@ -71,10 +52,7 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 ![Artificial intelligence and puny human are shaking hands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-power-of-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you ask ChatGPT to generate text, it tries to mimic the human writing process. Firstly, the model behind ChatGPT—Generative Pre-trained Transformer (GPT)—has been trained on a large corpus of human text. Everything from emails, health articles, tech articles, high school essays, and just about any text you can find online has been fed to the model during training. So ChatGPT understands how each of these types of texts should be written.
@@ -84,10 +62,7 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
  But there's a catch. Unlike how humans write, ChatGPT does not really understand what it is writing in a way that a human would. Instead, the chatbot tries to predict what would be the most plausible next word in a sentence until it completes the write-up.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How ChatGPT Writes by Prediction
@@ -103,10 +78,7 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
  AI chatbots like ChatGPT are designed to mimic natural human language as much as possible. So while AI text may have discernable patterns, those patterns are not so obvious even to a powerful tool like ChatGPT. This is why ChatGPT can not spot its own writing, as well as [why AI-text detector tools do not work](https://www.makeuseof.com/ai-content-detectors-dont-work/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will ChatGPT Recognize Its Own Writing In the Future?
@@ -130,5 +102,18 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-mimicking-marvels-how-to-create-comedic-videos/"><u>[New] In 2024, Mimicking Marvels How to Create Comedic Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-how-to-use-leading-lines-in-photography-for-iphone-photos-for-2024/"><u>[Updated] How to Use Leading Lines in Photography for iPhone Photos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-snappro-v3-windows-screen-mastery-for-2024/"><u>[Updated] SnapPro V3 Windows Screen Mastery for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-flagship-pixel-6-pro-vs-iphone-13-pro-reviewed-tech-insider-by-zdnet/"><u>Choosing the Right Flagship: Pixel 6 Pro vs iPhone 13 Pro Reviewed | Tech Insider by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquering-communication-which-superior-ai-prevails/"><u>Conquering Communication: Which Superior AI Prevails?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-artisanaiphotostudio-seamless-image-magic/"><u>In 2024, ArtisanAiPhotoStudio Seamless Image Magic</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-poco-x6-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Poco X6 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-era-for-chatbots-gpt-plus-available-in-us-for-20-monthly/"><u>New Era for Chatbots: GPT Plus Available in US for $20 Monthly</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-challenge-of-application-crashes-due-to-unhandled-errors/"><u>Tackling the Challenge of Application Crashes Due to Unhandled Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-latest-upgrades-in-apples-airpods-pro-and-max-what-sets-them-apart/"><u>Unveiling the Latest Upgrades in Apple's AirPods Pro and Max - What Sets Them Apart?</u></a></li>
+</ul></div>
 

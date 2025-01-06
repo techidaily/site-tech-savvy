@@ -1,7 +1,7 @@
 ---
 title: Can Generative AI Spread Falsehoods?
-date: 2024-12-26T17:50:28.647Z
-updated: 2024-12-27T18:27:25.193Z
+date: 2024-12-30T07:52:13.158Z
+updated: 2025-01-06T05:06:55.421Z
 tags:
   - chatgpt
   - open-ai
@@ -42,13 +42,13 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -60,15 +60,7 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -81,6 +73,10 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -90,7 +86,7 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  It's crucial, then, to be able to [identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -102,7 +98,7 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by [The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
@@ -115,6 +111,10 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -139,22 +139,21 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-effortless-offline-access-best-youtube-playlist-downloaders/"><u>[Updated] 2024 Approved Effortless Offline Access Best YouTube Playlist Downloaders</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-breaking-down-barriers-to-pc-livestreams-on-tiktok/"><u>2024 Approved Breaking Down Barriers to PC Livestreams on TikTok</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722961303149-effortless-installation-guide-get-your-wacom-intuos-pro-set-up-on-windows-10/"><u>Effortless Installation Guide: Get Your Wacom Intuos Pro Set Up on Windows 10!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elite-body-cameras-of-2024-in-depth-comparisons-and-choices/"><u>Elite Body Cameras of 2024: In-Depth Comparisons & Choices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expertly-selected-ultimate-mac-applications-listing-cnet/"><u>Expertly Selected Ultimate Mac Applications Listing | CNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-frontiers-of-text-generation-via-openais-api/"><u>Exploring the Frontiers of Text Generation via OpenAI's API</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-m54-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy M54 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/hugging-face-clarity-on-its-role-in-ai/"><u>Hugging Face: Clarity on Its Role in AI</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-zte-blade-a73-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your ZTE Blade A73 5G</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/investigating-chatgpts-defense-against-hacking/"><u>Investigating ChatGPT's Defense Against Hacking</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/rhythmic-reinvention-the-art-of-voice-in-free-fire/"><u>Rhythmic Reinvention The Art of Voice in Free Fire</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/small-yet-mighty-discover-the-surprising-capabilities-of-a-budget-friendly-handheld-amazingness-why-this-8-in-1-adapter-outperforms-expensive-rivals-on-feat151/"><u>Small Yet Mighty: Discover the Surprising Capabilities of a Budget-Friendly, Handheld Amazingness! Why This 8-in-1 Adapter Outperforms Expensive Rivals on Features and Convenience | ZDNet</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/steps-for-controlling-video-comment-settings-in-youtube/"><u>Steps for Controlling Video Comment Settings in YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tech-titans-tale-blizzard-merge-with-ms-opens-new-horizons-for-ai-translation-audio-debate/"><u>Tech Titans' Tale: Blizzard Merge with MS Opens New Horizons for AI Translation [Audio Debate]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unearthing-claude-2-its-purpose-and-impact/"><u>Unearthing Claude 2: Its Purpose & Impact</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-ultimate-magsafe-compatible-wallet-appleanker-alternative-on-massive-sale-gadgetguru/"><u>Unveiling the Ultimate MagSafe Compatible Wallet: Apple/Anker Alternative on Massive Sale! | GadgetGuru</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-art-of-hdr-enhancement-your-lightroom-journey/"><u>[New] 2024 Approved The Art of HDR Enhancement Your Lightroom Journey</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-navigating-the-finest-converters-top-5-tiktok-to-gif-apps/"><u>[New] Navigating the Finest Converters Top 5 TikTok-to-GIF Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-immersive-worlds-unveiled-jaunt-vr-in-focus/"><u>[Updated] 2024 Approved Immersive Worlds Unveiled Jaunt VR in Focus</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mp3-export-made-easy-select-free-apps-for-iphone-and-youtube/"><u>[Updated] 2024 Approved MP3 Export Made Easy Select Free Apps for iPhone & YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-scouting-top-7-innovative-mobile-streaming-tools-for-youtube-enthusiasts/"><u>[Updated] Scouting Top 7 Innovative Mobile Streaming Tools for YouTube Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-latest-showdown-iphone-16-vs-iphone-15-essential-factors-for-upgraders-zdnet/"><u>Apple's Latest Showdown: IPhone 16 Vs. IPhone 15 - Essential Factors for Upgraders | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-past-the-pivotal-factors-behind-crowdstrikes-infamous-clash-with-windows-zdnet/"><u>Deciphering the Past: The Pivotal Factors Behind CrowdStrike's Infamous Clash with Windows | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-patterns-6-ingenious-ways-to-utilize-chatgpt/"><u>Decoding Patterns: 6 Ingenious Ways to Utilize ChatGPT</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-evaluation-of-the-jackery-powerbar-with-integrated-ac-outlet/"><u>Expert Evaluation of the Jackery PowerBar with Integrated AC Outlet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-insider-tips-on-apple-vision-pro-demonstrations-superior-quality-awaits-you-secure-your-spot-today-gadgetguru/"><u>Get Insider Tips on Apple Vision Pro Demonstrations - Superior Quality Awaits You, Secure Your Spot Today! | GadgetGuru</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-profit-from-spotting-code-flaws-in-openais-challenge-arena/"><u>How to Profit From Spotting Code Flaws in OpenAI's Challenge Arena</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interactive-wilderness-planning-with-chatgpt/"><u>Interactive Wilderness Planning with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/small-form-factor-wonders-expertly-curated-selection-of-the-finest-tablets-underhandling-for-2n24-evaluations-and-insights-from-zdnet/"><u>Small Form Factor Wonders: Expertly Curated Selection of the Finest Tablets Underhandling for 2N24 | Evaluations and Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-remove-hyber-v-from-windows-11-pro/"><u>Steps to Remove Hyber-V From Windows 11 Pro</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-compreehers-guide-to-srt-file-flexibility-for-2024/"><u>The Compreeher’s Guide to SRT File Flexibility for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-intelligence-analyzing-forefront-ai-against-chatgpt/"><u>Unleashing Intelligence: Analyzing Forefront AI Against ChatGPT</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Alpaca Anthem Clashes with Bards, GPT's Woolly Counterpart
-date: 2024-12-25T18:07:22.840Z
-updated: 2024-12-27T21:47:14.034Z
+date: 2025-01-01T08:21:58.797Z
+updated: 2025-01-06T08:17:32.063Z
 tags:
   - chatgpt
   - open-ai
@@ -26,16 +26,12 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What You Need to Know About AI Chatbots
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
@@ -52,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
@@ -65,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
 
@@ -96,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 
 ![burnt socket for a BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
  Cables attaching to the plug have a live wire (brown), an earth wire (yellow/green), and a neutral wire (blue). These must be attached to the correct terminals within the plug housing.
@@ -117,16 +109,24 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the [best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/).
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
@@ -165,18 +165,24 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhance-your-video-with-these-premium-free-audio-stores/"><u>[Updated] 2024 Approved Enhance Your Video with These Premium, Free Audio Stores</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-empower-pics-with-perimeter-blur-using-cs/"><u>2024 Approved Empower Pics with Perimeter Blur Using CS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-gpt-powered-projects-as-money-makers/"><u>Evaluating GPT-Powered Projects as Money Makers</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-msmpengexe-high-cpu-usage-on-windows-10/"><u>How to Fix MsMpEng.exe High CPU Usage on Windows 10</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-13-ultra-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi 13 Ultra to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-troubleshoot-a-frozen-minecraft-game-on-windowspc/"><u>How to Troubleshoot a Frozen Minecraft Game on Windows/PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/human-sensibility-in-creative-writing-overlooked-by-bots/"><u>Human Sensibility in Creative Writing Overlooked by Bots</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-iphones-prime-camera-utilities/"><u>In 2024, IPhone's Prime Camera Utilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-update-a-comprehensive-guide-to-personalizing-your-iphones-control-center-on-ios-18-tips-from-zdnet/"><u>Mastering the Update: A Comprehensive Guide to Personalizing Your iPhone's Control Center on iOS 18 - Tips From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-apples-new-rules-how-macpaw-offers-a-compliant-iphone-application-platform-alternative/"><u>Navigating Apple's New Rules: How MacPaw Offers a Compliant iPhone Application Platform Alternative</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-helldivers-ii-pc-game-issues-top-troubleshooting-steps/"><u>Resolving Helldivers II PC Game Issues: Top Troubleshooting Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-making-your-logitech-g-pro-x-mic-work-again/"><u>Troubleshooting Tips: Making Your Logitech G PRO X Mic Work Again!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-step-by-step-guide-sync-your-iphone-with-icloud-complete-backup-strategies/"><u>Ultimate Step-by-Step Guide: Sync Your iPhone with iCloud - Complete Backup Strategies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-enhance-virtual-engagement-streaming-with-finesse-using-zoom-and-youtube-live/"><u>[New] Enhance Virtual Engagement Streaming with Finesse Using Zoom and YouTube Live</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-world-of-srt-alteration-in-macos-systems/"><u>[New] Navigating the World of SRT Alteration in macOS Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-from-faces-to-films-the-mi-11s-advanced-screenshot-technology/"><u>[Updated] In 2024, From Faces to Films The Mi 11'S Advanced Screenshot Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-redefined-essential-updates-in-gpts-latest-release/"><u>AI Redefined: Essential Updates in GPT's Latest Release</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/corporate-challenges-five-reasons-to-question-ai-dialogue-systems/"><u>Corporate Challenges: Five Reasons to Question AI Dialogue Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-hidden-intel-based-smart-assistant-in-your-mac-or-ipad-is-yours-equipped-with-it/"><u>Discover the Hidden Intel-Based Smart Assistant in Your Mac or iPad – Is Yours Equipped with It?</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/evaluating-windows-defenders-impact-on-pc-performance/"><u>Evaluating Windows Defender's Impact on PC Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/export-and-share-with-ease-top-4-applications-for-gpt-3-histories/"><u>Export & Share with Ease: Top 4 Applications for GPT-3 Histories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-to-governance-in-artificial-worlds/"><u>Guide to Governance in Artificial Worlds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/has-ai-outpaced-openais-restraint/"><u>Has AI Outpaced OpenAI's Restraint?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-vivo-s18-to-mac-drfone-by-drfone-android/"><u>How to Mirror Vivo S18 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-oneplus-ace-2-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror OnePlus Ace 2 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-most-compelling-5-ios-podcast-solutions/"><u>In 2024, Most Compelling 5 iOS Podcast Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keeping-your-secrets-safe-with-tailored-chatgpt-systems/"><u>Keeping Your Secrets Safe with Tailored ChatGPT Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mystery-unraveled-what-is-the-new-gpt/"><u>Mystery Unraveled: What Is the New GPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pixel-6-pro-versus-iphone-13-pro-in-depth-comparison-and-buyers-guide-for-the-ultimate-smartphone/"><u>Pixel 6 Pro versus iPhone 13 Pro: In-Depth Comparison and Buyer's Guide for the Ultimate Smartphone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-church-live-streaming-services-revealed/"><u>Premier Church Live Streaming Services Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-content-with-chatgpt-techniques/"><u>Revolutionizing Content with ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-exclusive-deal-on-new-apple-pencil-2nd-gen-for-just-95-perfect-gift-idea-this-labor-day-sourced-by-zdnet/"><u>Unlock Exclusive Deal on New Apple Pencil (2Nd Gen) for Just $95 - Perfect Gift Idea This Labor Day, Sourced by ZDNET!</u></a></li>
 </ul></div>
 

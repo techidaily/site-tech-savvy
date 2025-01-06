@@ -1,7 +1,7 @@
 ---
 title: Braving New Waters with 'Bard', Google Aims at GPT Supremacy
-date: 2024-09-12T07:40:57.069Z
-updated: 2024-09-13T07:40:57.069Z
+date: 2024-12-31T04:49:03.640Z
+updated: 2025-01-05T16:42:36.188Z
 tags:
   - chatgpt
   - open-ai
@@ -22,10 +22,7 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
  **SCROLL TO CONTINUE WITH CONTENT**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Google's Bard AI?
@@ -37,10 +34,7 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
 ![google bard on smartphone example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/google-bard-on-smartphone-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[Google](https://blog.google/technology/ai/bard-google-ai-search-updates/)
@@ -48,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
  Unlike ChatGPT, Sundar Pichai explained that Bard will initially only be available to a few trusted testers, with plans to scale to more users. The announcement also showcased what the initial release would look like with several examples—some of which look strikingly similar to what ChatGPT would do. So, is Bard going to be just another ChatGPT?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Google Bard Could Be Better Than ChatGPT
@@ -71,10 +62,7 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
  In simpler terms, this would mean Google's Bard would be able to provide fresh, up-to-date responses while ChatGPT would, unfortunately, be limited to information relating to events, not beyond 2021 (ChatGPT's current data training cut-off).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Will Google Bard Work?
@@ -83,19 +71,6 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
 
  However, in typical Google fashion, Google will almost certainly push to deeply integrate Bard into most of its products, including Google Search, akin to what Microsoft is trying to do with Bing and other Microsoft products using ChatGPT technology.
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Google's Bard Demonstration Features Factual Issues
 
  But despite the interest and understandable hype with Google's Bard announcement, its first demonstration didn't go well. Eagle-eyed astronomers quickly pointed out that at least one of the "facts" delivered by Bard was completely wrong. For example, Bard stated that the James Webb Space Telescope "took the very pictures of a planet outside of our own solar system," but the European Very Large Telescope accomplished that accolade in 2004.
@@ -103,10 +78,7 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
  Bard is still in its very early stages, but its false statement was a clear indicator of the issues of integrating conversational AI technology deeper into general internet search, where many will trust what is written.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Google's Bard AI Be Better Than ChatGPT?
@@ -128,5 +100,19 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-through-fb-content-on-your-apple-media-hub-for-2024/"><u>[New] Navigating Through FB Content on Your Apple Media Hub for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024-top-picks-for-magsafe-power-solutions-comprehensive-reviews-and-comparisons-by-tech-experts-gizmobank/"><u>2024 Top Picks for MagSafe Power Solutions: Comprehensive Reviews & Comparisons by Tech Experts | GizmoBank</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beat-apple-vision-pro-anxiety-for-less-unveiling-effective-budget-friendly-xr-glasses-zdnet-insights/"><u>Beat Apple Vision Pro Anxiety for Less: Unveiling Effective, Budget-Friendly XR Glasses | ZDNET Insights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/comprehensive-guide-to-the-top-10-cost-free-picture-archives/"><u>Comprehensive Guide to the Top 10 Cost-Free Picture Archives</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/data-saving-techniques-for-efficient-texting-on-mobile-networks/"><u>Data-Saving Techniques for Efficient Texting on Mobile Networks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-gpt-tags-for-shambot-discovery-in-conversations/"><u>Harnessing GPT Tags for Shambot Discovery in Conversations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-complex-web-of-international-cybersecurity-pacts-what-leaders-say-about-multilateral-strategies-explored-by-zdnet/"><u>Navigating the Complex Web of International Cybersecurity Pacts: What Leaders Say About Multilateral Strategies | Explored by ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/predicting-the-role-of-ai-in-transforming-developer-routines/"><u>Predicting the Role of AI in Transforming Developer Routines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-dialogue-preventing-model-inversion/"><u>Secure Dialogue: Preventing Model Inversion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-file-dates-the-windows-edition-approach/"><u>Tailoring File Dates: The Windows Edition Approach</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-capturing-screenshots-on-your-desktop-computer/"><u>Ultimate Guide: Capturing Screenshots on Your Desktop Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-creativity-and-saving-time-10-ai-enhanced-pdfs/"><u>Unleashing Creativity & Saving Time: 10 AI-Enhanced PDFs</u></a></li>
+</ul></div>
 

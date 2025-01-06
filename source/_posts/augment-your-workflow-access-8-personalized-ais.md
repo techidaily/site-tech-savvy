@@ -1,7 +1,7 @@
 ---
 title: "Augment Your Workflow: Access 8 Personalized AIs"
-date: 2024-09-06T23:32:49.548Z
-updated: 2024-09-07T23:32:49.548Z
+date: 2025-01-01T23:21:24.869Z
+updated: 2025-01-06T02:02:41.964Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Augment Your Workflow: Access 8 Personalized AI
 thumbnail: https://thmb.techidaily.com/c2ff7acd78dea76e7429574a96f5d83925797a8b18bf953373ef1ee065acd190.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Augment Your Workflow: Access 8 Personalized AIs
 
  Custom GPTs have generated enormous buzz since their November 2023 launch; these programmable mini versions of ChatGPT can be tuned to excel at specific tasks with almost endless potential.
@@ -32,21 +26,13 @@ thumbnail: https://thmb.techidaily.com/c2ff7acd78dea76e7429574a96f5d83925797a8b1
  Links have not been provided for each custom GPT because the documents uploaded as a knowledge base contain private information. However, you can still take the title and outline and make each idea your own, with your own private information. Just be careful if you share any custom GPTs, as you may accidentally grant access to sensitive information.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Resume and Cover Letter Creator
 
 ![Screenshot of Custom GPT Resume Maestro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/resume-maestro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  I built a custom GPT called "Resume Maestro." Once it receives a job post description, it immediately comes up with a resume with the right professional details included. It captures everything from names and contact details to work experience, educational history, and achievements. It also writes a cover letter that isn't just tailored to the job post but also aligns with personal experiences relevant to the job. Better still, its output is immediately available for download as a PDF or Word file, all under ten seconds.
 
  How did I do it? I uploaded dozens of resumes and cover letters written in the past. I also added resources on writing the perfect cover letters and resumes. This was topped off by providing links to my portfolios and uploading samples of high-performing cover letters and resumes I found online. The result? My personal resume expert that spits out resumes and cover letters akin to what I'd write.
@@ -59,18 +45,6 @@ thumbnail: https://thmb.techidaily.com/c2ff7acd78dea76e7429574a96f5d83925797a8b1
 
 ![Screenshot of Custom GPT called Pidgin Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pidgin-hero-description-card.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the weeks following ChatGPT's release, we tested [ChatGPT's ability to translate text compared to Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/). While Google's translation tool performed admirably against the massive power that is ChatGPT, it struggled with certain languages like Pidgin English, a widely spoken Creole in parts of West Africa. Although ChatGPT was better in this aspect, it also struggled as well.
 
  To improve translation capabilities for Pidgin, I created a custom GPT for Pidgin translation. How? I fed it dozens of expert Pidgin dictionaries and linguistic resources. After re-testing ChatGPT against Google Translate on Pidgin text, the results were striking—ChatGPT significantly outperformed Google Translate by nearly all metrics. This example highlights the power of building custom GPTs for specific translation tasks, irrespective of language. With the right training data, these customized chatbots can surpass even the best general translation tools. Fancy playing around with Pidgin?
@@ -78,43 +52,17 @@ thumbnail: https://thmb.techidaily.com/c2ff7acd78dea76e7429574a96f5d83925797a8b1
 **Try this GPT:**[Pidgin Hero](https://chat.openai.com/g/g-CcgN0HIuC-pidgin-hero).
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Programming Project Assistant
 
 ![Custom chatgpt screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It is no news that [ChatGPT can write code](https://www.makeuseof.com/chatgpt-programming-practical-uses/). It could write code since the days of GPT-3.5 and has improved significantly with the arrival of GPT-4 and the GPT-4 Turbo. However, although the chatbot is quite adept at solving programming problems, it doesn't perform particularly well within the context of a single project since it has a limited context window and cannot soak up all the details of a project to provide a context-specific solution.
 
  You can deploy custom GPTs to solve this problem. Simply prompt the chatbot to create a specialized GPT that focuses on the programming languages used in your project, then upload your entire project files, including a detailed description of what you're trying to build. Whenever you run into a problem with the project, prompt the GPTs, and you'll get a much more precise and relevant solution than you'd get from your regular ChatGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Personal Movie Recommender
 
 ![movie recommender Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/movie-recommender-custom-gpt.jpg)
@@ -125,9 +73,17 @@ thumbnail: https://thmb.techidaily.com/c2ff7acd78dea76e7429574a96f5d83925797a8b1
 
 **Try this GPT**: [K-Drama Hero](https://chat.openai.com/g/g-WhObLzfn5-k-drama-hero).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Interactive Text and Image Games
 
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another very exciting use case for GPTs is creating games. You can bring almost any text and image-based games you can think of into reality. You can program, modify the rules, and play games like Tic-Tac-Toe, Hangman, Word Ladder, and more. We've previously created a list of simple but [interesting games you can play with ChatGPT](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/). You can spice those games up by invoking the DALL-E image creator to create scenery and characters on the go.
 
@@ -143,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/c2ff7acd78dea76e7429574a96f5d83925797a8b1
 
 ![Custom GPT for Abstract math tutoring](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-abstract-math-tutoring.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Custom GPT models offer exciting new ways to accelerate learning and preparation, whether you're a student prepping for exams, a professional gearing up for interviews, or anyone looking to upskill rapidly. Leveraging GPT-4's vast context window, you can create specialized GPTs that serve as expert tutors on specific subjects. Feed them textbooks, course materials, flashcards, and other learning resources from the field you want to master.
 
  For example, if you have an upcoming physics exam, build a custom Physics GPT by uploading all your class notes, practice problems, textbooks, and study guides. You can then efficiently quiz the AI tutor to identify key concepts, take automatically generated practice tests, and get explanations of complex topics at your own pace.
@@ -155,12 +115,6 @@ thumbnail: https://thmb.techidaily.com/c2ff7acd78dea76e7429574a96f5d83925797a8b1
 
 ![Custom GPT for Work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-work.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Could custom GPTs improve your workflow or automate tasks in your job? For many roles, the answer is yes. Consider your typical work responsibilities and identify repetitive or time-consuming areas that could benefit from AI assistance.
 
  For example, as a graphic designer side gig, I built a custom GPT to create geometric Google-inspired logos using my client's brand colors: blue, red, yellow, and green. I trained it by uploading several examples of logos we designed in this style. Now, when prompted to create a logo for anything, the GPT generates professional logo options that meet the brand requirements. While a simple illustration, it demonstrates how tailored GPTs can replicate elements of human work.
@@ -181,14 +135,11 @@ thumbnail: https://thmb.techidaily.com/c2ff7acd78dea76e7429574a96f5d83925797a8b1
 
  Links have not been provided for each custom GPT because the documents uploaded as a knowledge base contain private information. However, you can still take the title and outline and make each idea your own, with your own private information. Just be careful if you share any custom GPTs, as you may accidentally grant access to sensitive information.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -197,4 +148,24 @@ thumbnail: https://thmb.techidaily.com/c2ff7acd78dea76e7429574a96f5d83925797a8b1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-ultimate-pathway-for-high-quality-video-production-in-adobe-connect/"><u>[Updated] In 2024, The Ultimate Pathway for High-Quality Video Production in Adobe Connect</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-rapid-routines-for-capturing-video-calls/"><u>[Updated] Rapid Routines for Capturing Video Calls</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-latest-camera-upgrade-the-innovative-camera-button-on-iphone-16-models-explained/"><u>Discover the Latest Camera Upgrade: The Innovative Camera Button on iPhone 16 Models Explained!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/dissemination-techniques-sharing-your-podcast-on-instagram/"><u>Dissemination Techniques Sharing Your Podcast on Instagram</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diy-mastery-meets-machine-learning-the-next-chapter/"><u>DIY Mastery Meets Machine Learning: The Next Chapter</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719577017353-enjoy-the-best-of-both-worlds-get-free-mondly-plus-for-life/"><u>Enjoy the Best of Both Worlds - Get Free Mondly Plus for Life!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-the-apple-studio-display-an-exquisite-expensive-choice-for-the-dedicated-mac-creators-workspace-insights-from-zdnet/"><u>Evaluating the Apple Studio Display: An Exquisite, Expensive Choice for the Dedicated Mac Creator's Workspace - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experiencing-better-interactions-with-chatgpt-discovering-the-co-pilot-extension/"><u>Experiencing Better Interactions With ChatGPT: Discovering the Co-Pilot Extension</u></a></li>
+<li><a href="https://video-capture.techidaily.com/full-screen-glitch-resolved-in-obs/"><u>Full-Screen Glitch Resolved in Obs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/googles-augmented-reality-stickers-an-in-depth-look-and-alternatives-for-2024/"><u>Google's Augmented Reality Stickers An In-Depth Look and Alternatives for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-your-digital-companion-chatgpt-functional/"><u>Is Your Digital Companion, ChatGPT, Functional?</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-s17t-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo S17t working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-serenity-in-chaos/"><u>Leveraging AI for Serenity in Chaos</u></a></li>
+<li><a href="https://win-community.techidaily.com/mp4-to-aac-in-just-a-few-easy-steps-hassle-free-audio-file-transformation/"><u>MP4 to AAC in Just a Few Easy Steps: Hassle-Free Audio File Transformation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reviving-visionpro-three-crucial-steps-for-apples-success-techinsights/"><u>Reviving VisionPro: Three Crucial Steps for Apple's Success | TechInsights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210877243-9781612831879-stay-tuned/"><u>Stay Tuned | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncover-the-best-alternative-to-apple-and-tile-wallet-trackers-in-depth-tests-and-reviews/"><u>Uncover the Best Alternative to Apple and Tile Wallet Trackers - In-Depth Tests & Reviews</u></a></li>
+</ul></div>
 

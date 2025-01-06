@@ -1,7 +1,7 @@
 ---
 title: Clearing the Air on AI Bot Fallacies - Top 9 Dissected
-date: 2024-12-23T17:11:36.763Z
-updated: 2024-12-27T20:38:48.049Z
+date: 2024-12-29T22:04:24.956Z
+updated: 2025-01-06T08:26:59.467Z
 tags:
   - chatgpt
   - open-ai
@@ -30,15 +30,15 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. AI Chatbots are Sentient
 
  Chatbots like ChatGPT and Bing Chat may be able to generate human-like responses, but they are far from sentient. This ability is mimicry and not sentience. These tools use huge databases of text and images to create responses that mimic human responses.
 
  It is complex, it is clever, and to some extent, you could argue the presence of intelligence—but not sentience. Any “intelligence” present in these tools is created by training them on massive amounts of data. In this sense, they are more akin to an incredibly powerful and flexible database than a sentient being.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Chatbots Can Handle Any Type of Task or Request
 
@@ -50,19 +50,11 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
 ![Screenshot of ChatGPT answering question about Google Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-question-about-google-bard.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, just to be clear, there are known limitations to ChatGPT and the age of the data it can reference. That question was deliberately set up to expose this. However, we asked Bard the same question when [comparing Google Bard vs. ChatGPT](https://www.makeuseof.com/chatgpt-vs-google-bard/), and it got it wrong too:
 
 ![Screenshot of ChatGPT answering question about Google Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-question-about-google-bard.jpg)
 
  Chatbots may be clever, but they aren’t capable of any type of task and will sometimes fail on the simplest of questions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Chatbots Are a Threat to Humanity
 
@@ -83,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
  LLMs contain text from a vast range of sources, everything from literature to social media posts are included in LLMs. This is the repository that the chatbots reference to supply their answers. Any factual errors present in these can manifest themselves in the answers they provide.
 
 [AI hallucinations are a common form of error](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) that all too often shows just how fallible these tools are.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Chatbots Will Replace Human Interaction
 
@@ -106,12 +102,16 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
  However, for the moment at least, the potential for biased responses is an unresolved issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Chatbots Are Actually Real Humans
 
 ![Picture of mechanical typewriter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/picture-of-mechanical-typewriter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Perhaps the most ludicrous myth is that behind every AI chatbot is a real human. This one is treading a delicate line between conspiracy theory and myth, we won’t dwell on this one other than to say that it's nonsense.
@@ -125,7 +125,7 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
  The training process could be likened to the testing process of non-AI software. Training involves predefining their objectives, designing their architecture, and teaching them to generate responses based on the data in the relevant LLM. This entire progress still requires human intervention and programming expertise.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI Chatbots: Separating Fact From Fiction
@@ -155,21 +155,19 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-choosing-between-slack-and-discord-for-enhanced-team-collaboration/"><u>[New] 2024 Approved Choosing Between Slack & Discord for Enhanced Team Collaboration</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-how-to-guide-elevating-gameplay-recordings-via-obs/"><u>[New] In 2024, How-To Guide Elevating Gameplay Recordings via OBS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-detailed-instruction-set-converting-any-gif-to-a-perfect-sticker-in-social-media-apps/"><u>[Updated] 2024 Approved Detailed Instruction Set Converting Any GIF to a Perfect Sticker in Social Media Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-overlay-strategies-for-videographers/"><u>[Updated] Best Overlay Strategies for Videographers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-premier-mac-mkv-solvers-list-for-2024/"><u>[Updated] Premier Mac MKV Solvers List for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/classic-console-charisma-best-ps1-emulation-tools-reviewed/"><u>Classic Console Charisma - Best PS1 Emulation Tools Reviewed</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/crafting-content-that-captivates-and-grows-your-audience/"><u>Crafting Content That Captivates and Grows Your Audience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-ease-of-sonos-s2-app-advanced-audio-management-with-notable-limitations-insights-from-zdnet/"><u>Discover the Ease of Sonos S2 App: Advanced Audio Management with Notable Limitations - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-apples-latest-ai-breakthroughs-missed-opportunities-and-future-prospects-zdnet/"><u>Exploring Apple's Latest AI Breakthroughs: Missed Opportunities and Future Prospects | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/machine-mastery-comparing-translations-of-two-giants/"><u>Machine Mastery: Comparing Translations of Two Giants</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-wanderlust-chronicles-setting-up-for-success-as-a-travel-vlogger-for-2024/"><u>The Wanderlust Chronicles Setting Up for Success as a Travel Vlogger for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-4-reasons-holding-me-back-from-switching-to-an-iphone-16-pro-lessons-from-my-iphone-14-experience/"><u>Top 4 Reasons Holding Me Back From Switching to an iPhone 16 Pro: Lessons From My iPhone 14 Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truth-seekers-and-chatgpts-claims/"><u>Truth Seekers and ChatGPT’s Claims</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-the-affordable-iphone-14-plus-is-a-game-changer-unbeatable-all-day-power-and-extra-perks-you-should-know-zdnets-expert-take/"><u>Why the Affordable iPhone 14 Plus Is a Game Changer: Unbeatable All-Day Power & Extra Perks You Should Know (ZDNET's Expert Take)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zdnet-exclusive-apple-adjusts-timeline-for-rollout-of-innovative-intelligence-features-now-set-for-october-release/"><u>ZDNet Exclusive: Apple Adjusts Timeline for Rollout of Innovative Intelligence Features, Now Set for October Release</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-clearing-the-darkness-remedies-for-invisible-gaming-captures-by-obs-for-2024/"><u>[Updated] Clearing the Darkness Remedies for Invisible Gaming Captures by OBS for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-clip-viewer-extractor-system-for-2024/"><u>[Updated] Clip Viewer Extractor System for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-switches-are-mechanical-keys-superior-for-gamers/"><u>Comparing Switches: Are Mechanical Keys Superior for Gamers?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-epics-utilizing-chatgpt-for-enthralling-stories/"><u>Elevating Epics: Utilizing ChatGPT for Enthralling Stories</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-asus-rog-phone-7-ultimate-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Asus ROG Phone 7 Ultimate FRP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-the-phones-of-tech-gurus-at-zdnet-a-comprehensive-device-showcase-and-evaluation/"><u>Inside the Phones of Tech Gurus at ZDNet: A Comprehensive Device Showcase & Evaluation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-the-new-ipad-air-outshining-your-older-ipad-pro-a-comprehensive-review-and-analysis/"><u>Is The New iPad Air Outshining Your Older iPad Pro? A Comprehensive Review & Analysis</u></a></li>
+<li><a href="https://win-bits.techidaily.com/professioneller-tipp-wie-man-unter-windows-eine-cloud-bildbackup-erstellt-ein-detaillierter-leitfaden/"><u>Professioneller Tipp: Wie Man Unter Windows Eine Cloud-Bildbackup Erstellt – Ein Detaillierter Leitfaden</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-browsing-tips-for-mac-users-how-to-disable-tracking-in-safari-and-enhance-personal-data-safety/"><u>Secure Browsing Tips for Mac Users: How to Disable Tracking in Safari and Enhance Personal Data Safety</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-to-terminating-your-apple-music-subscription-independently-of-itunes-digital-trends/"><u>Step-by-Step Guide to Terminating Your Apple Music Subscription Independently of iTunes | Digital Trends</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211374281-9781528799898-the-magus/"><u>The Magus | Free Book</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-14-plus-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 14 Plus</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-iphone-6-plus-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your iPhone 6 Plus in Minutes with ICCID Code Everything You Need to Know</u></a></li>
 </ul></div>
 

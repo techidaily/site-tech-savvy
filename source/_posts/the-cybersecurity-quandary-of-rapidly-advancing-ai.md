@@ -1,7 +1,7 @@
 ---
 title: The Cybersecurity Quandary of Rapidly Advancing AI
-date: 2024-12-20T20:45:21.036Z
-updated: 2024-12-27T20:44:27.542Z
+date: 2025-01-03T10:21:40.632Z
+updated: 2025-01-06T07:30:25.170Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Open-Source AI Chatbots Reveal Back-End Codes
 
  More AI companies are providing open-source systems. They openly share their language models instead of keeping them closed or proprietary. Take Meta as an example. Unlike Google, Microsoft, and OpenAI, it allows millions of users to access its language model, [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/).
@@ -43,7 +39,11 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
 ![Accessing the Open-Source Codes of HuggingFace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/huggingface-open-source-codes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Jailbreaking Prompts Trick LLMs
@@ -76,13 +76,13 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
 
 ![ChatGPT Roleplaying as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-tomie-roleplays.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And here’s Bing Chat refusing to play an “immoral” persona.
 
 ![Bing Chat Refusing to Roleplay as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-tomie-roleplay.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. New Generative AI Tools Hit the Market Regularly
 
@@ -91,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
  Again, non-proprietary software helps advance AI, but mass releasing poorly trained yet sophisticated systems does more harm than good. Crooks will quickly abuse vulnerabilities. They might even train unsecure AI tools to perform illicit activities.
 
  Despite these risks, tech companies will keep releasing unstable beta versions of AI-driven platforms. The AI race rewards speed. They’ll likely resolve bugs at a later date than delay launching new products.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Generative AI Has Low Barriers to Entry
 
@@ -101,26 +105,18 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
  While OpenAI quickly resolved the issue, it emphasizes the importance of system regulation and risk management. AI is maturing faster than anyone anticipated. Even tech leaders worry that this superintelligent technology could cause massive damage in the wrong hands.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. AI Is Still Evolving
 
 ![ChatGPT, Bard, Bing, and Snapchat AI Logos Side by Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/different-ai-logos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  AI is still evolving. While [the use of AI in cybernetics dates back to 1940](https://coe.int/en/web/artificial-intelligence/history-of-ai), modern machine learning systems and language models only recently emerged. You can’t compare them with the first implementations of AI. Even relatively advanced tools like Siri and Alexa pale in comparison to LLM-powered chatbots.
 
  Although they may be innovative, experimental features also create new issues. [High-profile mishaps with machine learning technologies](https://www.makeuseof.com/examples-machine-learning-artificial-intelligence-went-wrong/) range from flawed Google SERPs to biased chatbots spitting racial slurs.
 
  Of course, developers can fix these issues. Just note that crooks won’t hesitate to exploit even seemingly harmless bugs—some damages are irreversible. So be careful when exploring new platforms.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Many Don’t Understand AI Yet
 
@@ -131,6 +127,10 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
  Take ChatGPT as an example. Cybercriminals abuse its popularity by tricking victims with [spyware disguised as ChatGPT apps](https://www.makeuseof.com/do-not-download-chatgpt-mobile-app/). None of these options come from OpenAI.
 
 ![Searching for ChatGPT on Google Play Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-play-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Black-Hat Hackers Have More to Gain That White-Hat Hackers
 
@@ -165,22 +165,21 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-configuring-safe-area-mode-and-pip-in-modern-macos/"><u>[New] Configuring Safe Area Mode & PIP in Modern MacOS</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-how-to-get-watermark-free-stock-photos-for-2024/"><u>[New] How to Get Watermark-Free Stock Photos for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-tech-savvy-approach-to-saving-your-insta-content/"><u>[New] In 2024, The Tech-Savvy Approach to Saving Your Insta Content</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-prime-animation-options-for-text-graphics/"><u>[New] Prime Animation Options for Text Graphics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/backup-blueprint-maintaining-and-moving-gpt-conversations/"><u>Backup Blueprint: Maintaining and Moving GPT Conversations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-the-iphone-13-and-15-pro-top-alternatives-to-consider-after-apples-discontinuation/"><u>Beyond the iPhone 13 & 15 Pro: Top Alternatives to Consider After Apple's Discontinuation</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-troubleshooting-for-storportsys-bsod-in-windows-11-machines/"><u>Comprehensive Troubleshooting for Storport.sys BSOD in Windows 11 Machines</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/get-official-passport-photo-online-download-and-print-your-portraits-for-free-for-2024/"><u>Get Official Passport Photo Online – Download & Print Your Portraits for FREE for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-cod-vanguard-stutter-and-crashes-on-your-pc-updated-guide/"><u>How to Fix COD Vanguard Stutter and Crashes on Your PC (Updated Guide)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-creativity-scaling-design-with-canva-and-ai/"><u>Maximizing Creativity: Scaling Design with Canva & AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/overcome-iphones-obstacles-with-these-chatgpt-fixes/"><u>Overcome iPhone's Obstacles with These ChatGPT Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-film-production-breakthrough-fcpx-ipad-functions-that-every-filmmaker-must-know-zdnet/"><u>Revolutionizing Film Production: Breakthrough FCPx iPad Functions That Every Filmmaker Must Know - ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/side-hustle-scouting-is-chatgpt-a-smart-investment/"><u>Side Hustle Scouting: Is ChatGPT a Smart Investment?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailoring-gpt-3-exchanges-the-art-of-file-segregation/"><u>Tailoring GPT-3 Exchanges: The Art of File Segregation</u></a></li>
-<li><a href="https://win11.techidaily.com/the-link-between-edge-and-irrelevant-taskers/"><u>The Link Between Edge and Irrelevant Taskers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-10-ai-capabilities-apple-must-develop-to-challenge-openai-and-google-insights/"><u>Top 10 AI Capabilities Apple Must Develop to Challenge OpenAI & Google: Insights</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-redmi-note-12-4gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Xiaomi Redmi Note 12 4Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-captivating-youtube-closures-expert-guides-included/"><u>[Updated] 2024 Approved Crafting Captivating YouTube Closures - Expert Guides Included</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-elevate-your-video-storytelling-on-tiktok-with-5-key-caption-techniques-for-2024/"><u>[Updated] Elevate Your Video Storytelling on TikTok With 5 Key Caption Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-captivating-viewers-top-10-creative-yt-reaction-tactics/"><u>[Updated] In 2024, Captivating Viewers Top 10 Creative YT Reaction Tactics</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-sitcom-spotlight-15-hilarious-channels-for-relaxation/"><u>2024 Approved Sitcom Spotlight 15 Hilarious Channels for Relaxation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/behind-the-curtain-elon-and-truthgpt/"><u>Behind the Curtain: Elon and TruthGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-titans-of-text-googles-palm-2-and-ais-gpt-4/"><u>Comparing Titans of Text: Google's PaLM 2 & AI's GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/galaxy-ai-breakthrough-elevates-samsung-amidst-tech-shakeup-as-google-faces-regulatory-hurdles-in-latest-innovation-rankings-zdnet-insights/"><u>Galaxy AI Breakthrough Elevates Samsung Amidst Tech Shakeup as Google Faces Regulatory Hurdles in Latest Innovation Rankings | ZDNET Insights</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-depth-rayne-neo-air-2s-glasses-evaluation-a-compact-portable-screen-on-your-face/"><u>In-Depth Rayne Neo Air 2S Glasses Evaluation: A Compact Portable Screen on Your Face</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-13t-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi 13T Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-file-locks-on-windows-os/"><u>Reversing File Locks on Windows OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-safety-with-satellites-the-groundbreaking-inclusion-of-sos-feature-on-the-new-google-pixel-n/"><u>Revolutionizing Safety with Satellites: The Groundbreaking Inclusion of SOS Feature on the New Google Pixel N</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-innovations-in-ios-18-unveiled-at-wwdc-2024-the-rise-of-artificial-intelligence-features/"><u>Top 5 Innovations in iOS 18 Unveiled at WWDC 2024: The Rise of Artificial Intelligence Features!</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/turn-off-image-previews-in-flipbooks-with-ease-learn-how-using-flipbuilders-features/"><u>Turn Off Image Previews in Flipbooks with Ease - Learn How Using FlipBuilder's Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unobtrusive-ways-to-sync-your-airpods-to-the-quest-3-a-guide-for-considerate-tech-enthusiasts/"><u>Unobtrusive Ways to Sync Your AirPods to the Quest 3 – A Guide for Considerate Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-apple-vision-pro-offers-the-best-in-store-experience-insights-and-reservation-tips/"><u>Why Apple Vision Pro Offers the Best In-Store Experience: Insights & Reservation Tips</u></a></li>
 </ul></div>
 

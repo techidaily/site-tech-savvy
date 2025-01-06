@@ -1,7 +1,7 @@
 ---
 title: Leveraging ChatGPT in the 3D Printing Space
-date: 2024-12-23T21:57:40.601Z
-updated: 2024-12-27T18:16:46.846Z
+date: 2025-01-05T03:04:00.825Z
+updated: 2025-01-06T06:57:26.405Z
 tags:
   - chatgpt
   - open-ai
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e26
 
 ![creality k1 max 3d printer - printing benchy moving so fast](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/creality-k1-max-3d-printer-printing-benchy-moving-so-fast.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
 
  Before starting using ChatGPT for 3D printing, it’s important to know that it has many limitations. While it can generate basic 3D models, this tool isn’t made to take on the role of a 3D designer, and this means that you may have to do some of the work for yourself.
@@ -43,16 +39,12 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
  ChatGPT can make it much easier to create and manage files for 3D printing and save you a lot of time and effort. 3D modeling is a time-consuming process that often involves a lot of repetitive tasks, and this makes it well worth using AI tools to make it faster.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Generate an STL File With ChatGPT
 
 ![Male designer facing a computer, working on 3D furniture models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/male-designer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [STL is the most commonly used file format for 3D printing](https://www.makeuseof.com/what-is-an-stl-file-what-is-it-used-for/). An STL file stores sets of instructions that enable CAD and slicer software to build a 3D model that was saved elsewhere or made at a different time. Thanks to their simplicity, ChatGPT can generate simple STL files for you.
 
@@ -64,6 +56,10 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
 
 ![ChatGPT generating a cube STL file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-generate-cube-stl.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Copy the text from the window and paste it into a blank notepad file. When you save the file, make sure that you change the extension to “.stl”. Now you can load the file into your slicer software of choice and prepare it for 3D printing.
 
  Note that on the first attempt, you may not always get the 3D model you asked for, in which case you’ll need to ask ChatGPT to correct it.
@@ -71,7 +67,7 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
  While ChatGPT certainly has the ability to create STL files of greater complexity, OpenAI can’t dedicate the resources required for this sort of operation to free users. This is still an excellent tool for those who would like to build an understanding of how STL files work, though.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Generate 3D Model Scripts for CAD Software With ChatGPT
@@ -84,12 +80,16 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
 
 ![ChatGPT generated Blender Python script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-cube-python.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have your script copied, you can load up Blender and head to the Scripting workspace. By default, you should see a script console on the left of the screen. Paste the ChatGPT-generated script into the console pane and hit the **Enter** key to see your 3D model appear in the 3D workspace.
 
 ![Blender script generated cube](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/blender-script-generated-cube.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Like when generating an STL file with ChatGPT, there are limitations in place that mean that the chatbot won’t try to create scripts that are too time-consuming. Thankfully, though, you can find paid services around the web that expand ChatGPT’s script-writing abilities. You can [learn how to access GPT-4](https://www.makeuseof.com/how-to-use-gpt4/) to enhance your 3D printing even further.
@@ -126,20 +126,24 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-twitter-video-streams-download-and-convert-to-mp3/"><u>[Updated] 2024 Approved Twitter Video Streams Download & Convert to MP3</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-go-live-on-twitter-a-practical-guide/"><u>[Updated] In 2024, Go Live on Twitter A Practical Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-monetization-milestone-the-500-subscriber-trick/"><u>[Updated] Monetization Milestone The 500-Subscriber Trick</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-elevate-your-presence-instagrams-path-to-prominence/"><u>2024 Approved Elevate Your Presence Instagram's Path to Prominence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-the-gap-of-intelligence-how-claude-advances-over-gpt-by-four-elements/"><u>Bridging the Gap of Intelligence: How Claude Advances Over GPT by Four Elements</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-samsung-galaxy-tab-s7plus-the-ultimate-high-end-android-device/"><u>Expert Analysis of the Samsung Galaxy Tab S7+: The Ultimate High-End Android Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ideation-innovation-mindmapping-and-chatgpt-synergy/"><u>Ideation Innovation: Mindmapping & ChatGPT Synergy</u></a></li>
-<li><a href="https://facebook.techidaily.com/identifying-2022s-top-technology-gaffes/"><u>Identifying 2022'S Top Technology Gaffes</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-unlocking-all-about-dji-inspire-2-today/"><u>In 2024, Unlocking All About DJI Inspire 2 Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ios-18-guide-tailoring-the-apple-control-center-on-your-iphone-expert-tips/"><u>IOS 18 Guide: Tailoring the Apple Control Center on Your iPhone - Expert Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/italy-blocks-chatgpt-overnight-the-motivation/"><u>Italy Blocks ChatGPT Overnight: The Motivation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/model-uniqueness-at-your-fingertips/"><u>Model Uniqueness at Your Fingertips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/uncovering-the-key-distinctions-between-mac-and-pc-systems-explained/"><u>Uncovering the Key Distinctions Between Mac & PC Systems Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-in-every-click-discover-macos-15-upgrades-for-your-apple-macbook-insights-from-zdnet/"><u>Unlocking Potential in Every Click: Discover MacOS 15 Upgrades for Your Apple MacBook - Insights From ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/will-microsofts-arm-strategy-surpass-apple-m1-chips-in-performance-a-deep-dive-into-future-prospects-techinsights/"><u>Will Microsoft's ARM Strategy Surpass Apple M1 Chips in Performance? A Deep Dive Into Future Prospects | TechInsights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-captivating-your-audience-youtube-intro-excellence-with-imovie-for-2024/"><u>[New] Captivating Your Audience YouTube Intro Excellence with iMovie for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-delightful-yuletide-cinema-on-youtube-savor-nine-whole-film-gems/"><u>[Updated] 2024 Approved Delightful Yuletide Cinema on YouTube Savor Nine Whole-Film Gems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-gaming-evolution-top-7-stardew-valley-enhancements-7-for-2024/"><u>[Updated] Gaming Evolution Top 7 Stardew Valley Enhancements (#7) for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-essential-guide-to-du-recorder-functionality/"><u>[Updated] In 2024, The Essential Guide to Du Recorder Functionality</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-unlock-the-power-of-speech-recognition-for-effective-office-documentation-in-microsoft-word/"><u>[Updated] Unlock the Power of Speech Recognition for Effective Office Documentation in Microsoft Word</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-infinix-zero-5g-2023-turbo-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Infinix Zero 5G 2023 Turbo to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-easily-and-quickly-draw-on-photos-app-in-windows-11/"><u>How to Easily and Quickly Draw on Photos App in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-motorola-g54-5g-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Motorola G54 5G Phone Forgot Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-plus-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Plus, Apples New iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/savvy-shoppers-guide-to-buying-apple-magsafe-compatible-wallets-our-top-pick-that-isnt-anker-or-apple-available-for-less-insights/"><u>Savvy Shopper's Guide to Buying Apple MagSafe Compatible Wallets: Our Top Pick That Isn't Anker or Apple, Available for Less Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/snag-your-discounted-airpods-pro-2-with-built-in-hearing-support-at-24-less-exclusive-offer/"><u>Snag Your Discounted AirPods Pro 2 with Built-In Hearing Support at 24% Less! Exclusive Offer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-illusion-of-originality-uncovering-ai-writings-traits/"><u>The Illusion of Originality: Uncovering AI Writings' Traits</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-list-of-8-real-world-youtube-boosters/"><u>The Ultimate List of 8 Real-World YouTube Boosters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-ai-prompts-makers-for-diverse-ai-platforms/"><u>Top 5 AI Prompts Makers for Diverse AI Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1727792993440-top-rated-magsafe-wallets-comprehensive-reviews-by-tech-experts/"><u>Top-Rated MagSafe Wallets : Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-new-potential-how-apple-enables-third-party-integration-with-iphones-nfc-features-insights/"><u>Unlocking New Potential: How Apple Enables Third-Party Integration with iPhone's NFC Features | Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-apples-latest-how-do-the-new-airpods-pro-and-max-compare-key-features-explored/"><u>Unveiling Apple's Latest: How Do the New AirPods Pro and Max Compare? Key Features Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-auto-gpt-distinct-traits-from-chatgpt/"><u>Unveiling Auto-GPT: Distinct Traits From ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/yoga-poses-and-meditation-scenes/"><u>Yoga Poses & Meditation Scenes</u></a></li>
 </ul></div>
 

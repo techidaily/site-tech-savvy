@@ -1,7 +1,7 @@
 ---
 title: "Crafting GPT Content: Steps to Emulate Your Writing Ethos"
-date: 2024-12-22T16:53:58.327Z
-updated: 2024-12-27T16:44:22.000Z
+date: 2025-01-02T00:38:35.954Z
+updated: 2025-01-06T05:33:43.174Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/6e846bc4d3f1a335cff18ee3a8993821cc088b40d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 Ways to Teach ChatGPT to Write Like You
 
  To get started, we'll assume the persona of a detail-oriented author who uses a lively, engaging tone, provides detailed, accessible explanations, make liberal use of analogies, and address the reader directly throughout their text. The author also has a knack for using analogies to explain key concepts. [Here's a sample of the author's work](https://www.makeuseof.com/how-does-chatgpt-work/).
@@ -44,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/6e846bc4d3f1a335cff18ee3a8993821cc088b40d
  Both options require a different approach, which you can check out below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Training ChatGPT With Samples of Your Work
@@ -58,7 +62,7 @@ Extract the writing style in the text provided below. Please study the tone, wor
 ![Result of writing Style extraction by ChatGPT-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/result-of-writing-style-extraction-by-chatgpt-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Of course, one sample might not be enough to thoroughly capture every aspect of your writing style. So, you can repeat the prompt above with three to five more samples within the same ChatGPT conversation. After iterating through the number of samples you wish to use, you can then use the prompt below to unify the extracted styles.
@@ -96,7 +100,7 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 ![Extracted PPM using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extracted-ppm.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Although the PPM approach is slightly more complex, it offers enormous attention to detail. While our previous method takes a more generalist approach to describing and applying an author's style, PPM can get as detailed as possible, far more than anyone can easily discern at first glance.
@@ -106,11 +110,7 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 ![Using ChatGPT PPM on Claude AI chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/using-chatgpt-ppm-on-claude-ai-chatbot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make ChatGPT Work for You
@@ -136,18 +136,17 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-from-chords-to-clicks-mastering-music-on-ig-for-2024/"><u>[New] From Chords to Clicks Mastering Music on IG for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-ryan-kajis-net-worth-11-year-old-boy-gets-highest-paid-from-youtube/"><u>[New] In 2024, Ryan Kaji’s Net Worth 11-Year-Old Boy Gets Highest-Paid From YouTube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-leading-tech-in-snap-capture/"><u>[Updated] 2024 Approved Leading Tech in Snap Capture</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-best-of-editing-filmoras-captivating-features/"><u>[Updated] In 2024, The Best of Editing Filmora's Captivating Features</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/basic-screenshot-toolkit-for-windows-10/"><u>Basic Screenshot Toolkit for Windows 10</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/choosing-the-best-camera-for-filming-mirrorless-or-dslr-for-2024/"><u>Choosing the Best Camera for Filming Mirrorless or DSLR for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/connecting-effortlessly-using-your-apple-watch-for-real-time-chats-with-loved-ones-insights/"><u>Connecting Effortlessly: Using Your Apple Watch for Real-Time Chats with Loved Ones - Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experiencing-apples-studio-display-a-stunning-yet-expensive-27-inch-5k-screen-tailored-for-professionals-using-mac-insights-from-zdnet/"><u>Experiencing Apple's Studio Display: A Stunning Yet Expensive $27-Inch 5K Screen Tailored for Professionals Using Mac - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-1-to-gpt-4-each-of-openais-gpt-models-explained-and-compared/"><u>GPT-1 to GPT-4: Each of OpenAI's GPT Models Explained and Compared</u></a></li>
-<li><a href="https://extra-information.techidaily.com/image-alchemy-converting-ordinary-into-extraordinary/"><u>Image Alchemy Converting Ordinary Into Extraordinary</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/resurrecting-drowned-digital-discussions/"><u>Resurrecting Drowned Digital Discussions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/theoretical-perspectives-on-the-analogy-of-the-internet-as-an-open-access-resource-hub/"><u>Theoretical Perspectives on the Analogy of the Internet as an Open-Access Resource Hub</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-and-ipad-vpn-providers-comprehensive-reviews-and-comparisons-by-tech-experts-at-zdnet/"><u>Top-Rated iPhone & iPad VPN Providers: Comprehensive Reviews and Comparisons by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-essential-guide-to-crafting-dynamic-snaps/"><u>[New] In 2024, The Essential Guide to Crafting Dynamic Snaps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-initial-steps-creating-a-new-twitter-identity/"><u>[New] Initial Steps Creating a New Twitter Identity</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-ensuring-your-shorts-videos-thumbnail-shows-up/"><u>[Updated] Ensuring Your Shorts Video's Thumbnail Shows Up</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/applause-for-mondly-kids-on-google-plays-top-selections/"><u>Applause for Mondly Kids on Google Play’s Top Selections</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-let-loose-reveals-unexpected-star-affordable-ipad-for-only-349/"><u>Apple's 'Let Loose' Reveals Unexpected Star: Affordable iPad for Only $349</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compre-cookie-cutter-method-for-downloading-and-installing-llama-2/"><u>Compre Cookie Cutter Method for Downloading & Installing Llama 2</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722998337825-cure-for-the-nier-gestalt-games-unexpected-closures-now-fixed/"><u>Cure for the NieR Gestalt Game's Unexpected Closures - Now Fixed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-your-books-dialogues-top-gpt-ideas-to-craft-characters/"><u>Elevating Your Book's Dialogues: Top GPT Ideas to Craft Characters</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-ai-driven-verse-creation-in-book-formations/"><u>Introducing AI-Driven Verse Creation in Book Formations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-latest-ios-18-features-tailoring-your-iphones-control-center/"><u>Mastering the Latest iOS 18 Features: Tailoring Your iPhone's Control Center</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-creativity-with-these-4-pioneering-ai-tools/"><u>Revolutionizing Creativity with These 4 Pioneering AI Tools</u></a></li>
 </ul></div>
 

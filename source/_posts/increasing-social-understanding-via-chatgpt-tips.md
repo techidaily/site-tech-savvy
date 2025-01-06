@@ -1,7 +1,7 @@
 ---
 title: Increasing Social Understanding via ChatGPT Tips
-date: 2024-12-20T16:45:02.077Z
-updated: 2024-12-27T17:57:32.062Z
+date: 2025-01-04T07:50:07.782Z
+updated: 2025-01-05T22:51:44.119Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Understanding Emotional Intelligence
 
  There are [plenty of reasons to use ChatGPT for health advice](https://www.makeuseof.com/reasons-consider-using-chatgpt-health-advice/) and to provide reliable health information, so there's no reason why you can't use it to develop your EQ. EQ is about managing and leveraging your emotions effectively. It encompasses things like self-awareness, self-management, social awareness, and relationship management.
@@ -48,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
  If you've never used this chatbot, learn [how to get the best results from ChatGPT.](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Building Emotional Awareness
 
  Suppose you can't focus on work after a difficult interaction with a friend. Rather than trying to power through, consider instead pulling up ChatGPT and asking, "What might I be feeling if I can't concentrate on work after a disagreement with a friend?"
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 ![Screenshot of ChatGPT providing EQ advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-16-at-8-50-37-am.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Suddenly, you're not just "feeling bad." You've got a more acute description of how you're feeling: tension and guilt. This articulation is the first step towards understanding and managing your emotions, which are crucial parts of EQ.
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 ![Screenshot of ChatGPT providing advice to develop EQ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-16-at-8-52-45-am.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT might offer something like, "You could say, 'I value our collaborative spirit and feel frustrated when my ideas aren't considered. Could we discuss how to ensure everyone's thoughts are taken into account?'"
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
  Again, you've just practiced a conflict-free way of expressing your needs, which is a huge win for your relationship management skills.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Effective Prompts for Emotional Intelligence Growth
@@ -111,7 +111,7 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
  You can also ask follow-up questions for advice on how to regulate your anxiety. For example, ask, "How can I respond constructively when I'm criticized?" This prompt is like having a personal tutor for dealing with criticism—a key aspect of emotional self-regulation. Of course, you can always learn [how to write your own effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Making the Most of ChatGPT While Recognizing Limitations
@@ -141,18 +141,17 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-setting-up-your-footprint-a-complete-guide-to-fb-instream-ad-configuration-for-2024/"><u>[New] Setting Up Your Footprint A Complete Guide to FB Instream Ad Configuration for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-a-year-in-the-market-top-15-finance-videos/"><u>[Updated] In 2024, A Year in the Market Top 15 Finance Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-ideal-mp4-slicer-for-mac-boost-your-vlog-game/"><u>2024 Approved Ideal MP4 Slicer for Mac Boost Your Vlog Game</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-x-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On Apple iPhone X</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discerning-genuine-from-counterfeit-chatbot-tools/"><u>Discerning Genuine From Counterfeit ChatBot Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-clarity-and-safety-with-the-shoknkz-openrun-pro-zdnets-comprehensive-review-on-top-notch-training-audio-technology/"><u>Experience Unmatched Clarity & Safety with the Shoknkz OpenRun Pro - ZDNET's Comprehensive Review on Top-Notch Training Audio Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-laserjet-pro-m127fn-driver-download-updated-and-compatible-with-windows-1011/"><u>HP LaserJet Pro M127FN Driver Download: Updated and Compatible with Windows 10/11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/legally-accessing-government-election-coverage-on-demand-for-2024/"><u>Legally Accessing Government Election Coverage on Demand for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-market-chatgpt-for-profit-maximization/"><u>Mastering the Market: ChatGPT for Profit Maximization</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mend-your-mobile-mind-resolving-chatgpt-glitches-on-iphones/"><u>Mend Your Mobile Mind: Resolving ChatGPT Glitches on iPhones</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/ranking-the-best-top-10-video-editing-software-options-for-2024/"><u>Ranking the Best Top 10 Video Editing Software Options for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-workings-explained-gpt4all-insights/"><u>The Workings Explained: GPT4All Insights</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tune-your-status-on-whatsapp/"><u>Tune Your Status on WhatsApp</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-precision-photography-the-most-exceptional-phones-for-4k-imaging/"><u>[New] 2024 Approved Precision Photography The Most Exceptional Phones for 4K Imaging</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-guide-to-iphonedesktop-video-change-top-8-recommendations/"><u>[New] The Ultimate Guide to iPhone/Desktop Video Change Top 8 Recommendations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-detailed-guide-to-advanced-human-interface-systems/"><u>[Updated] A Detailed Guide to Advanced Human Interface Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-expert-picks-the-phones-chosen-editors-for-everyday-use/"><u>1. Expert Picks: The Phones Chosen Editors for Everyday Use</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-fundamentals-a-complete-srt-overview/"><u>2024 Approved Mastering the Fundamentals A Complete SRT Overview</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-perfection-our-curated-list-of-best-tools-for-prompts/"><u>Artificial Intelligence Perfection: Our Curated List of Best Tools for Prompts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/best-full-screen-recorders-windows-and-macos-version/"><u>Best Full-Screen Recorders - Windows & macOS Version</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-microsoft-excel-2007-cannot-access-the-file-error-stellar-by-stellar-guide/"><u>Fixed Microsoft Excel 2007 Cannot Access the File Error | Stellar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-research-the-chatgpt-approach/"><u>Optimizing Research: The ChatGPT Approach</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sneak-peeks-stopped-safeguarding-chatbot-data/"><u>Sneak Peeks Stopped: Safeguarding Chatbot Data</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essence-of-chatgpt-forging-ai-driven-innovation-pathways/"><u>The Essence of ChatGPT: Forging AI-Driven Innovation Pathways</u></a></li>
+<li><a href="https://win11.techidaily.com/wintime-troubleshoot-harmonize-your-systems-hours/"><u>WinTime Troubleshoot: Harmonize Your System's Hours</u></a></li>
 </ul></div>
 

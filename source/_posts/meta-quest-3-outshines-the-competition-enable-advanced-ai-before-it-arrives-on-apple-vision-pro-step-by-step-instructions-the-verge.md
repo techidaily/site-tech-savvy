@@ -1,7 +1,7 @@
 ---
 title: "Meta Quest 3 Outshines the Competition: Enable Advanced AI Before It Arrives on Apple Vision Pro – Step-by-Step Instructions | The Verge"
-date: 2024-12-22T19:42:38.859Z
-updated: 2024-12-27T17:58:38.921Z
+date: 2025-01-02T06:51:19.768Z
+updated: 2025-01-06T01:58:09.549Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,22 +120,17 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-google-photos-complete-guide/"><u>[New] How to Google Photos [Complete Guide]</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-melodymentor-detailed-sound-review-for-2024/"><u>[Updated] MelodyMentor Detailed Sound Review for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-king-of-commercial-success/"><u>[Updated] YouTube King of Commercial Success</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/complete-tutorial-on-testing-your-web-content-before-go-live/"><u>Complete Tutorial on Testing Your Web Content Before Go Live</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/coupe-video-leader-free-pour-windows-11-8-et-7-and-mac-supprimez-effortlessment-les-scenes-superflues/"><u>Coupe-Vidéo Leader Free Pour Windows 11, 8 Et 7 & Mac : Supprimez Effortlessment Les Scènes Superflues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-an-ai-secret-archive-without-deletion/"><u>Crafting an AI Secret Archive without Deletion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embrace-ai-creativity-openais-customizable-gpt-platforms/"><u>Embrace AI Creativity: OpenAI’s Customizable GPT Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/envisioned-ai-evolution-within-the-workshop-space/"><u>Envisioned AI Evolution Within the Workshop Space</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-ai-potential-bard-vs-bing-showdown/"><u>Exploring AI Potential: Bard Vs. Bing Showdown</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/has-chatgpt-rendered-student-essays-obsolete/"><u>Has ChatGPT Rendered Student Essays Obsolete?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-sony-xperia-10-v-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Sony Xperia 10 V Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-tecno-pop-7-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Tecno Pop 7 Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/making-the-most-of-your-iphone-how-integrating-googles-gemini-into-ios-enhances-usability-insights/"><u>Making the Most of Your iPhone: How Integrating Google's Gemini Into iOS Enhances Usability - Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-daily-tasks-at-home-a-6-step-guide-with-chatgpt/"><u>Revolutionize Daily Tasks at Home: A 6-Step Guide with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-hidden-dangers-of-gpt-in-bank-security-and-pc-vulnerabilities/"><u>The Hidden Dangers of GPT in Bank Security & PC Vulnerabilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-seamless-power-on-the-go-with-our-top-pick-the-3-in-1-magsafe-charger-supporting-qi2-a-game-changer-in-travel-gadgets-exclusive-zdnet-insights/"><u>Unleash Seamless Power on the Go with Our Top Pick - The 3-in-1 MagSafe Charger Supporting Qi2, A Game Changer in Travel Gadgets (Exclusive ZDNET Insights)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/world-of-warcraft-troubleshooting-how-to-overcome-the-uncatchable-error-1cuuage/"><u>World of Warcraft Troubleshooting: How to Overcome the Uncatchable Error 1Cuuage</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-effortless-techniques-for-streamlined-ipad-video-recording/"><u>[New] 2024 Approved Effortless Techniques for Streamlined iPad Video Recording</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adding-a-digital-copy-of-your-drivers-license-to-iphone-wallet-tips-for-seamless-setup-based-on-region/"><u>Adding a Digital Copy of Your Driver’s License to iPhone Wallet: Tips for Seamless Setup Based on Region</u></a></li>
+<li><a href="https://facebook.techidaily.com/anticipated-ruling-by-social-medias-governance-authority-on-trump/"><u>Anticipated Ruling by Social Media’s Governance Authority on Trump</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-13-mini-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone 13 mini? How to Fix it?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delve-into-claude-cutting-edge-ai-for-dynamic-business-growth/"><u>Delve Into Claude: Cutting-Edge AI for Dynamic Business Growth</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-innovations-in-the-domain-of-chatgpt-plugins-store/"><u>Essential Innovations in the Domain of ChatGPT Plugins Store</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/how-can-you-enhance-your-computers-performance-with-a-ram-upgrade-tips-from-yl-computing/"><u>How Can You Enhance Your Computer's Performance with a RAM Upgrade - Tips From YL Computing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-poco-c65-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Poco C65 FRP?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-fix-guide-resolving-issues-with-your-non-responsive-logitech-k520-keyboard/"><u>Quick Fix Guide: Resolving Issues with Your Non-Responsive Logitech K520 Keyboard</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/466070-9780307574886-the-minds-sky/"><u>The Mind's Sky | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranked-mac-software-selections-featuring-expert-reviews-and-rankings/"><u>Top-Ranked Mac Software Selections - Featuring Expert Reviews & Rankings</u></a></li>
 </ul></div>
 

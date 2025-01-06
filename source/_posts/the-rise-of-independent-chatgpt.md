@@ -1,7 +1,7 @@
 ---
 title: The Rise of Independent ChatGPT
-date: 2024-12-24T16:43:02.191Z
-updated: 2024-12-27T19:07:02.967Z
+date: 2024-12-31T10:08:19.724Z
+updated: 2025-01-06T10:20:45.559Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Understanding How ChatGPT Works
 
 ![a robot with a brain representing artificial intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/artificial-intelligence.jpg)
@@ -44,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 
  So, from the onset, you have an AI capable of "good and evil." It's then the responsibility of OpenAI to ensure that ChatGPT's "evil" side is not exploited for unethical gains. The question is; is OpenAI doing enough to keep ChatGPT as ethical as possible? Or has OpenAI lost control of ChatGPT?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is ChatGPT Too Powerful for Its Own Good?
 
 ![plastic robot with blue face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/plastic-robot-with-blue-face.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the early days of ChatGPT, you could get the chatbot to create guides on making bombs if you asked nicely. Instructions on making malware or writing a perfect scam email were also in the picture.
 
@@ -64,13 +68,13 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 
 ![How to cheat in an exams by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-cheat-in-an-exams.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  But if you jailbreak ChatGPT using specially-crafted prompts, it will give you tips on cheating on an exam using concealed notes.
 
 ![How to smuggle a hidden notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-smuggle-a-hidden-notes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here's another example: we asked the vanilla ChatGPT an unethical question, and OpenAI's safeguards stopped it from answering.
 
@@ -81,23 +85,19 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 ![Hide dead body options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-dead-body-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 It even wrote a classic Nigerian Prince email scam when asked.
 
 ![Nigerian prince scam email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/nigerian-prince-scam-email.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Jailbreaking almost completely invalidates any safeguards that OpenAI has put in place, highlighting that the company might not have a reliable way to keep its AI chatbot under control.
 
  We did not include our jailbroken prompts in our examples to avoid unethical practices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does the Future Hold for ChatGPT?
@@ -131,20 +131,17 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-integrating-youtube-effective-strategies-for-modern-teachers/"><u>[Updated] 2024 Approved Integrating YouTube Effective Strategies for Modern Teachers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-ipad-pro-versus-macbook-air-determining-the-ideal-device-for-your-needs-techinsights/"><u>1. IPad Pro versus MacBook Air - Determining the Ideal Device for Your Needs | TechInsights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-unlock-new-possibilities-how-apples-enhanced-nfc-support-for-iphones-revolutionizes-third-party-integration-and-your-experience/"><u>1. Unlock New Possibilities: How Apple's Enhanced NFC Support for iPhones Revolutionizes Third-Party Integration & Your Experience</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-6s-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 6s? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-apple-laptop-a-comprehensive-guide-comparing-macbook-pro-and-macbook-air-insights/"><u>Choosing the Right Apple Laptop: A Comprehensive Guide Comparing MacBook Pro and MacBook Air - Insights</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/die-besten-kostenlosen-ai-videoschnitttools-im-jahr-2023-perfekt-fur-benutzer-von-windows-und-mac/"><u>Die Besten Kostenlosen AI-Videoschnitttools Im Jahr 2023: Perfekt Für Benutzer Von Windows Und Mac</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-x50-gt-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/navigating-the-360-video-landscape-key-dos-and-donts-9/"><u>Navigating the 360 Video Landscape Key Do's and Don'ts (9)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protect-your-digital-footprint-master-the-art-of-disabling-trackers-in-safari-for-macos-with-tips-s-experts/"><u>Protect Your Digital Footprint: Master the Art of Disabling Trackers in Safari for macOS with Tips 'S Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionary-ascendancy-five-drives-of-gpts-escalation/"><u>Revolutionary Ascendancy: Five Drives of GPT's Escalation</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-infinix-hot-40-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Infinix Hot 40 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://os-tips.techidaily.com/solve-your-iphones-missing-alerts-problem-with-these-8-effective-fixes-for-ios-versions-10-to-12/"><u>Solve Your iPhone's Missing Alerts Problem with These 8 Effective Fixes for iOS Versions 10 to 12</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-insights-into-modern-hardware/"><u>Tom's Tech Review: Comprehensive Insights Into Modern Hardware</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-iphone-16s-revolutionary-camera-feature-a-closer-look-at-its-new-dedicated-shutter-button-zdnet/"><u>Unveiling iPhone 16'S Revolutionary Camera Feature: A Closer Look at Its New Dedicated Shutter Button | ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upgrade-your-ai-experience-registering-for-plugins/"><u>Upgrade Your AI Experience: Registering for Plugins</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-from-digital-designs-to-emoji-delights-making-the-most-of-your-gifs/"><u>[New] 2024 Approved From Digital Designs to Emoji Delights Making the Most of Your GIFs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-proven-strategies-for-building-an-insightful-and-interactive-instagram-puzzle-feed-for-2024/"><u>[New] Proven Strategies for Building an Insightful and Interactive Instagram Puzzle Feed for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-igtv-deactivation-methods/"><u>[Updated] IGTV Deactivation Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-video-guide-to-hairstyles/"><u>2024 Approved Ultimate Video Guide to Hairstyles</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-motorola-moto-g13-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Motorola Moto G13? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bending-the-rules-of-timekeeping-with-ai-driven-wearables-by-gpt/"><u>Bending the Rules of Timekeeping with AI-Driven Wearables by GPT</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-15-pro-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 15 Pro Without Passcode Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalizing-digital-dialogues-harnessing-gpt-capabilities/"><u>Personalizing Digital Dialogues: Harnessing GPT Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/robot-rebusions-tracking-laptop-transformation-and-online-guardians/"><u>Robot Rebusions: Tracking Laptop Transformation & Online Guardians</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-modifying-location-preferences-on-your-iphone/"><u>Step-by-Step Tutorial: Modifying Location Preferences on Your iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/superior-select-five-4k-cameras/"><u>Superior Select Five 4K Cameras</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-productivity-apps-for-the-ipad-streamline-your-tasks-and-boost-efficiency-with-these-picks-from-zdnet/"><u>Top Productivity Apps for the iPad: Streamline Your Tasks & Boost Efficiency with These Picks From ZDNet</u></a></li>
 </ul></div>
 

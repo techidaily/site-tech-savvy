@@ -1,7 +1,7 @@
 ---
 title: "From Blueprints to Bot: Tailoring AI with Create a GPT"
-date: 2024-12-21T19:01:35.616Z
-updated: 2024-12-27T18:05:00.812Z
+date: 2025-01-04T20:16:06.970Z
+updated: 2025-01-06T06:05:27.472Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/f48216f44870658586ad3ccce716597fb01e77f08
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Access Create a GPT from My GPTs
 
  The first thing you need to do is [subscribe to ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) if you haven't already. You should find the button to do so in the left-side menu of the ChatGPT interface. Once you've paid the $20 fee, follow the instructions below:
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/f48216f44870658586ad3ccce716597fb01e77f08
 1. Click**Explore** on the left-side menu. This should bring you to a My GPTs page that contains [OpenAI's custom GPT versions](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) .  
 ![My GPTs in the Explore tab of ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/my-gpts-in-the-explore-tab-of-chatgpt.jpg)
 2. Choose**Create a GPT** to open the GPT Builder's interface.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  At the time of writing, "Create a GPT" is still in beta. This means not all features are fully online, and the product isn't finished. Bear this in mind while building your GPT and prepare to encounter issues. Also, it's possible that your finished GPT may be erased when a future update comes knocking.
 
@@ -53,13 +45,18 @@ thumbnail: https://thmb.techidaily.com/f48216f44870658586ad3ccce716597fb01e77f08
 1. Now that you're in the GPT Builder, the first question you'll get is what you want to make. You can keep this first part short and sweet and input a single sentence. In this case, we said, "Make a Dungeons & Dragons 5e dungeon master who oversees D&D campaigns."  
 ![Primary description for a D&D GPT in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/primary-description-for-a-d-d-gpt-in-gpt-builder.jpg)
 2. Next, give your GPT a name. ChatGPT will suggest one for you, but you can still type in anything you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Once you give your GPT a name, it'll automatically create a profile picture as the next step. Thanks to ChatGPT's DALL-E integration, the images are typically pretty good. Ask it to regenerate more images if you're not happy with it. You can prompt it to create the exact image you want with some guidance.  
 ![Generating a profile picture for a D&D 5e dungeon master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/generating-a-profile-picture-for-a-d-d-5e-dungeon-master-gpt.jpg)
 
  You can manually change the image, name, description, and instructions for your GPT by clicking**Configure** . Click the profile picture to change it, and edit the details in the**Name** **Description** and**Instructions** fields to change them without typing prompts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Establish a Tone and Rules for Your GPT
@@ -67,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/f48216f44870658586ad3ccce716597fb01e77f08
  At this stage, your GPT wants to know how it should address users. Direct it to the tone and style you want it to adopt. Here, we said, "5e Dungeon Master should use a wise, sagely tone. Use language and style commonly used in high-fantasy settings," which fits quite nicely into the fantasy nature of D&D.
 
 ![GPT Builder setting the tone and language for The 5e Dungeon Master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-builder-setting-the-tone-and-language-for-the-5e-dungeon-master-gpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  But, of course, if you are making a more professional GPT, ensure it uses professional language.
 
@@ -80,11 +81,11 @@ thumbnail: https://thmb.techidaily.com/f48216f44870658586ad3ccce716597fb01e77f08
 
 ![GPT Dungeon Master giving information on how to build a character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-dungeon-master-giving-information-on-how-to-build-a-character.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you find that it's not fulfilling your instructions as well as you want, go back to the**Create** tab and give it further instructions. But remember that new instructions mean you've effectively created a new version of your GPT.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Upload Files as a Knowledge Base
 
@@ -96,6 +97,10 @@ Here's how to upload source documents to your custom GPT:
 2. Scroll down to the section titled**Knowledge** .
 3. Click**Upload files** and add files from your computer.  
 ![GPT Knowledge source documents uploading in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-knowledge-source-documents-uploading-in-gpt-builder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for it to finish uploading, and you'll have the documents as a knowledge base for your GPT.
 
@@ -114,10 +119,6 @@ Here's how to upload source documents to your custom GPT:
 1. Click**Configure** and scroll to**Capabilities** .
 2. Toggle**Web Browsing** ,**DALL-E Image Generation** , and**Code Interpreter** on or off.  
 ![Capabilites in GPT Builder's settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/capabilites-in-gpt-builder-s-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Add APIs for Third-Party Services
 
@@ -144,11 +145,11 @@ Go back when you're finished.
 3. Click the**X** next to a conversation starter block to remove it.  
 ![Configuring conversation starters in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/configuring-conversation-starters-in-gpt-builder.jpg)
 
-You can add more conversation starters as required.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+You can add more conversation starters as required.
 
 ## 8\. Save and Publish Your GPT
 
@@ -161,7 +162,7 @@ You can add more conversation starters as required.
  If you click the pencil icon in the share menu, you'll enter your builder profile, where you can change your GPT and profile options when this feature is fully released.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT's Limitations Still Apply to GPT Builder
@@ -185,21 +186,24 @@ You can add more conversation starters as required.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-game-modders-and-tutorial-content-leaders/"><u>[Updated] 2024 Approved Game Modders & Tutorial Content Leaders</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-perfecting-virtual-presentations-key-practices-for-using-skypes-screen-share-feature/"><u>[Updated] Perfecting Virtual Presentations Key Practices for Using Skype’s Screen Share Feature</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-photo-editing-mastery-with-polarr-a-comprehensive-guide/"><u>[Updated] Photo Editing Mastery with Polarr A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-master-iphoneandroid-apps-top-10-photo-edits-guide/"><u>2024 Approved Master iPhone/Android Apps Top 10 Photo Edits Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-comedy-chronicles-testing-if-machines-can-spark-laughter/"><u>AI's Comedy Chronicles: Testing if Machines Can Spark Laughter</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/become-a-pro-at-utilizing-zoom-for-windows-11-users-for-2024/"><u>Become a Pro at Utilizing Zoom for Windows 11 Users for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boundaries-of-ai-the-unanswerable-list/"><u>Boundaries of AI: The Unanswerable List</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/content-intruders-eluding-state-of-the-art-ais/"><u>Content Intruders Eluding State-of-the-Art AIs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/creating-engaging-interactive-experienenas-with-chatgpt-integration/"><u>Creating Engaging Interactive Experienenas With ChatGPT Integration</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-top-quality-video-uplift-immaculate-resolution/"><u>In 2024, Top Quality Video Uplift Immaculate Resolution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/narrative-nuance-and-conflict-creation-with-gpts-9-strategies/"><u>Narrative Nuance and Conflict Creation with GPT's 9 Strategies</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/quick-route-to-your-latest-fb-video-viewings/"><u>Quick Route to Your Latest FB Video Viewings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-googles-artificial-intelligence-project-the-gemini-pursuit/"><u>Understanding Google's Artificial Intelligence Project - The Gemini Pursuit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/visionaries-converge-globally-minded-perspectives-on-ai/"><u>Visionaries Converge: Globally-Minded Perspectives on AI</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-from-flight-to-film-the-drone-editors-playbook/"><u>[New] 2024 Approved From Flight to Film The Drone Editor's Playbook</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-elite-eye-opening-film-moments/"><u>[New] Elite Eye-Opening Film Moments</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-navigating-lens-distortion-a-practical-guide-for-gopro-editors/"><u>[New] In 2024, Navigating Lens Distortion A Practical Guide for GoPro Editors</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-decoding-the-core-contrasts-between-youtube-and-dailymention/"><u>[Updated] 2024 Approved Decoding the Core Contrasts Between YouTube and DailyMention</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unlocking-the-secrets-to-instagram-post-replicas/"><u>[Updated] 2024 Approved Unlocking the Secrets to Instagram Post Replicas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024-top-picks-for-magsafe-power-solutions-comprehensive-reviews-and-comparisons-by-tech-experts-gizmobank/"><u>2024 Top Picks for MagSafe Power Solutions: Comprehensive Reviews & Comparisons by Tech Experts | GizmoBank</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-fixes-for-undetected-hardware-devices-in-various-windows-versions/"><u>Effective Fixes for Undetected Hardware Devices in Various Windows Versions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-impact-of-apples-tandem-oled-technology-in-the-next-generation-ipads-insights-from-zdnet/"><u>Exploring the Impact of Apple's Tandem OLED Technology in the Next Generation iPads: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insights-into-intrinsic-intelligence-systems-on-devices/"><u>Insights Into Intrinsic Intelligence Systems on Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-facebook-potential-five-practical-tips-for-improved-engagement/"><u>Maximizing Facebook Potential: Five Practical Tips for Improved Engagement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/professional-video-creation-on-iphone-now-with-apples-final-cut-pro-update-tech-news/"><u>Professional Video Creation on iPhone Now with Apple's Final Cut Pro Update | Tech News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-messaging-safeguard-added-in-latest-ios-18-release-for-iphones-a-step-beyond-ai-technology-gadget-insights/"><u>Revolutionary Messaging Safeguard Added in Latest iOS 18 Release for iPhones: A Step Beyond AI Technology | Gadget Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-smartphone-photography-the-iphone-16-now-features-visual-intelligence-comparable-to-google-lens-tech-news/"><u>Revolutionizing Smartphone Photography: The iPhone 16 Now Features Visual Intelligence Comparable to Google Lens | Tech News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-dialogue-preventing-model-inversion/"><u>Secure Dialogue: Preventing Model Inversion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-list-of-pos-alternatives-to-gpt-on-mobile-devices/"><u>The Ultimate List of POS Alternatives to GPT on Mobile Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-impact-of-apples-borrowing-options-on-your-experian-credit-score/"><u>Understanding the Impact of Apple's Borrowing Options on Your Experian Credit Score</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-game-boy-legends-on-your-linux-box/"><u>Unlocking Game Boy Legends on Your Linux Box</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-xiaomi-13t-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Xiaomi 13T? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726226787063-ogg-aac-movavi/"><u>필기: 영구 공간에서 단순성을 위해 OGG AAC 데이터를 자유롭게 전환하는 방법 - Movavi</u></a></li>
 </ul></div>
 

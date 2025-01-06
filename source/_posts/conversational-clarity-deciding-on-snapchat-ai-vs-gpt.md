@@ -1,7 +1,7 @@
 ---
 title: "Conversational Clarity: Deciding on Snapchat AI vs GPT"
-date: 2024-09-12T07:41:53.926Z
-updated: 2024-09-13T07:41:53.926Z
+date: 2025-01-02T08:38:25.728Z
+updated: 2025-01-06T08:50:41.341Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 
  Even though the two chatbots are powered by the same technology, their accessibility, tone, and design make them better suited for different tasks. We’ve made a small list of the different things you could do with them, so you can better utilize them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## My AI Offers Both Snapchat and ChatGPT Features
 
  As you must have guessed, My AI is perfect for all things Snapchat. You can ask it to show you around Snapchat more easily than you could ever ask ChatGPT. You could, for instance, ask My AI to show you how to add captions to your Snap, and it accurately tells you how to do so.
@@ -30,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 ![Prompt for Alien lens in My AI chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/prompt-for-alien-lens-in-my-ai-chat.jpeg)
 
 ![My AI recommending an Aliens Lens to use](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-recommending-an-aliens-lens-to-use.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Alien Lens activated in Snapchat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/alien-lens-activated-in-snapchat.jpeg)
 
@@ -48,6 +45,10 @@ Close
 
  However, since ChatGPT isn’t on a social media platform, it's in a far less distracting environment (better-suited for work) and can format its output better. It also stores all your conversations in neat categories, so you can reference them later. My AI’s chat is all on a Snapchat conversation that might disappear unless you save each message.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Research and Essays: ChatGPT vs. My AI
 
  You might notice that Snapchat’s My AI isn’t eager to help out with professional or academic stuff. There are scenarios where we’ve asked the AI to help out with essays and problems, and it just straight up tells you to go do it yourself.
@@ -58,36 +59,19 @@ Close
 
  But you should be careful because ChatGPT sometimes “hallucinates” facts. You should still Google certain facts you’re not sure about to make sure it’s accurate. And that’s just one of the [major problems with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fun and Games: ChatGPT vs. My AI
 
  While it’s possible to still play games with ChatGPT and have it generate fun, random stuff, the key difference with using My AI is that it’s quicker to access and use than ChatGPT. All you have to do to get to My AI is pull out your phone and open Snapchat.
 
 ![My AI coming up with a word game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-coming-up-with-a-word-game.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![My AI giving a quick random fact about the shortest war in history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-giving-a-quick-random-fact-about-the-shortest-war-in-history.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![My AI suggesting the 20 questions game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-suuggesting-the-20-questions-game.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -97,42 +81,15 @@ Close
 
  However, if your game is a big, complicated idea, then it’s a better option to use ChatGPT. It seems to have a more robust data pool and a better ability to retain information. You can play a [detailed text-based RPG on ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-as-an-interactive-rpg/) using our complex prompt to test out the breadth of ChatGPT’s abilities as a game.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Work or Professional Help: ChatGPT vs. My AI
 
  ChatGPT is the AI to go to for professional assistance. Open a new browser tab and keep ChatGPT open as you go about your business. The AI could be useful for simulations, simple questions you don’t need to Google, math problems, coding, translations, and many, many more.
 
 ![ChatGPT displaying a Python code for calculating the price of goods](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-displaying-a-python-code-for-calculating-the-price-of-goods.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  My AI doesn’t give detailed answers to questions the way ChatGPT does, so it’s still not a good idea to use it—even after opening [Snapchat in your browser](https://www.makeuseof.com/how-to-use-snapchat-on-web/).
 
  ChatGPT also has the advantage of being able to format its output. It can create numbered lists, and even place its output inside code blocks, making it more presentable for people who need to see it like that. ChatGPT’s generated code also has more notes and better explanations.
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Directions and Local Navigation: ChatGPT vs. My AI
 
@@ -140,24 +97,23 @@ Close
 
 ![My AI pointing out a nearby taco place](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-pointing-out-a-nearby-taco-place-1.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![My AI pointing out the nearest stadium](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-pointing-out-the-nearest-stadium.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
  Feel free to ask My AI questions like where the nearest parks or stadiums are, and to give you a description of them. But please, check again with your map to ensure you’re actually going the right way.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Natural Language Chats: ChatGPT vs. My AI
 
@@ -167,13 +123,6 @@ Close
 
 ![ChatGPT commenting on whether Stoicism relates with its morals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-commenting-on-whether-stoicism-relates-with-its-morals.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, when you compare it with My AI’s response, you begin to see the clear difference between the two of them in terms of depth of conversation:
 
 ![My AI commenting on Stoicism](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-commenting-on-stoicism.jpeg)
@@ -181,16 +130,7 @@ Close
  My AI responses seem like a more summarized version of ChatGPT’s.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Personalized Recommendations: ChatGPT vs. My AI
@@ -222,5 +162,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-incredible-browser-game-hacks-for-2024/"><u>[New] Top Incredible Browser Game Hacks for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-from-feedback-to-fanbase-the-video-journey/"><u>2024 Approved From Feedback to Fanbase The Video Journey</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-day-with-chatgpts-4-time-management-solutions/"><u>Boost Your Day with ChatGPT’s 4 Time Management Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embarking-on-the-path-to-mastery-of-interactive-dialogue-creation/"><u>Embarking on the Path to Mastery of Interactive Dialogue Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-your-future-storing-gpt-powered-dialogues/"><u>Ensuring Your Future: Storing GPT-Powered Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/extend-your-apple-watchs-lifespan-with-these-essential-configuration-adjustments-insights-by-zdnet/"><u>Extend Your Apple Watch's Lifespan with These Essential Configuration Adjustments, Insights by ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-huawei-nova-y91-phone-by-drfone-android/"><u>How to Reset a Locked Huawei Nova Y91 Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-oppo-reno-10-proplus-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Oppo Reno 10 Pro+ 5G Face Lock?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-c210-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Nokia C210 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-tp-link-ac1200-range-amplifier-model-re305-easy-to-use/"><u>In-Depth Look at the TP-Link AC1200 Range Amplifier, Model RE305 - Easy to Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/legal-landscape-of-ai-in-the-eu-consequences-for-platforms-like-chatgpt/"><u>Legal Landscape of AI in the EU: Consequences for Platforms Like ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-how-its-custom-commands-extend-possibilities-for-interaction/"><u>Mastering ChatGPT: How Its Custom Commands Extend Possibilities for Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-purchase-of-apple-vision-pro-expert-advice-on-optimizing-your-facial-recognition-experience/"><u>Mastering the Purchase of Apple Vision Pro: Expert Advice on Optimizing Your Facial Recognition Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-setting-up-triple-display-on-your-pc/"><u>Ultimate Guide: Setting Up Triple Display on Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncover-the-truth-are-you-overlooking-your-apple-watchs-battery-health-find-out-now/"><u>Uncover the Truth: Are You Overlooking Your Apple Watch's Battery Health? Find Out Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-revolutionary-messaging-upgrade-in-ios-18-your-iphone-gets-a-new-lifesaver-not-powered-by-ai/"><u>Unveiling the Revolutionary Messaging Upgrade in iOS 18: Your iPhone Gets a New Lifesaver – Not Powered by AI</u></a></li>
+</ul></div>
 

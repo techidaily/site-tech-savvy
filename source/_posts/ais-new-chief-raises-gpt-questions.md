@@ -1,7 +1,7 @@
 ---
 title: AI's New Chief Raises GPT Questions
-date: 2024-09-06T23:33:04.845Z
-updated: 2024-09-07T23:33:04.845Z
+date: 2024-12-30T02:23:10.937Z
+updated: 2025-01-05T20:05:55.182Z
 tags:
   - chatgpt
   - open-ai
@@ -16,11 +16,9 @@ thumbnail: https://thmb.techidaily.com/10d09cb93e07ee59e0a22acff845b375c79c46fae
 ## AI's New Chief Raises GPT Questions
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Sam Altman has been fired by OpenAI due to concerns about his communication and transparency with the board, potentially impacting the company's development.
@@ -38,11 +36,9 @@ thumbnail: https://thmb.techidaily.com/10d09cb93e07ee59e0a22acff845b375c79c46fae
  It's a shock move, but why has the OpenAI board axed Altman now?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Has OpenAI Fired CEO Sam Altman?
 
 [OpenAI's official statement](https://openai.com/blog/openai-announces-leadership-transition) confirms that Sam Altman's departure comes after a "deliberate review process by the board," indicating that Altman's behavior and responsibilities at the company were under question. It appears that during the review, the OpenAI board found that Altman had kept information from them, which made it difficult for the board to carry out its responsibilities.
@@ -53,18 +49,6 @@ thumbnail: https://thmb.techidaily.com/10d09cb93e07ee59e0a22acff845b375c79c46fae
 
  Whatever Altman did or held back in his communication with the OpenAI board, it was enough to see him immediately removed from the post, potentially drastically altering the course of development for one of the world's most important startups.
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Who Is Replacing Sam Altman as OpenAI CEO?
 
  As part of the same statement, OpenAI revealed that Mira Murati, the company's chief technology officer, will serve as interim CEO, with the changes taking effect immediately.
@@ -73,18 +57,6 @@ thumbnail: https://thmb.techidaily.com/10d09cb93e07ee59e0a22acff845b375c79c46fae
 
  However, as Murati's appointment is temporary, OpenAI may well turn to the wider tech world to find a new CEO to lead the development of its primary product, ChatGPT, and the suspected development of GPT-5, the successor to GPT-4\.
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What's Next for OpenAI? Will This Affect ChatGPT?
 
  It appears OpenAI is undergoing a restructuring, starting from the very top. The company's statement alludes strongly to issues in communication and trust between the two parties; apparently, that trust cannot be rebuilt, and therefore, Altman is gone.
@@ -103,12 +75,6 @@ thumbnail: https://thmb.techidaily.com/10d09cb93e07ee59e0a22acff845b375c79c46fae
 
  It's a shock move, but why has the OpenAI board axed Altman now?
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Has OpenAI Fired CEO Sam Altman?
 
 [OpenAI's official statement](https://openai.com/blog/openai-announces-leadership-transition) confirms that Sam Altman's departure comes after a "deliberate review process by the board," indicating that Altman's behavior and responsibilities at the company were under question. It appears that during the review, the OpenAI board found that Altman had kept information from them, which made it difficult for the board to carry out its responsibilities.
@@ -120,11 +86,9 @@ thumbnail: https://thmb.techidaily.com/10d09cb93e07ee59e0a22acff845b375c79c46fae
  Whatever Altman did or held back in his communication with the OpenAI board, it was enough to see him immediately removed from the post, potentially drastically altering the course of development for one of the world's most important startups.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Who Is Replacing Sam Altman as OpenAI CEO?
 
  As part of the same statement, OpenAI revealed that Mira Murati, the company's chief technology officer, will serve as interim CEO, with the changes taking effect immediately.
@@ -187,12 +151,6 @@ thumbnail: https://thmb.techidaily.com/10d09cb93e07ee59e0a22acff845b375c79c46fae
 
  It's a shock move, but why has the OpenAI board axed Altman now?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Has OpenAI Fired CEO Sam Altman?
 
 [OpenAI's official statement](https://openai.com/blog/openai-announces-leadership-transition) confirms that Sam Altman's departure comes after a "deliberate review process by the board," indicating that Altman's behavior and responsibilities at the company were under question. It appears that during the review, the OpenAI board found that Altman had kept information from them, which made it difficult for the board to carry out its responsibilities.
@@ -203,6 +161,10 @@ thumbnail: https://thmb.techidaily.com/10d09cb93e07ee59e0a22acff845b375c79c46fae
 
  Whatever Altman did or held back in his communication with the OpenAI board, it was enough to see him immediately removed from the post, potentially drastically altering the course of development for one of the world's most important startups.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Who Is Replacing Sam Altman as OpenAI CEO?
 
  As part of the same statement, OpenAI revealed that Mira Murati, the company's chief technology officer, will serve as interim CEO, with the changes taking effect immediately.
@@ -211,6 +173,10 @@ thumbnail: https://thmb.techidaily.com/10d09cb93e07ee59e0a22acff845b375c79c46fae
 
  However, as Murati's appointment is temporary, OpenAI may well turn to the wider tech world to find a new CEO to lead the development of its primary product, ChatGPT, and the suspected development of GPT-5, the successor to GPT-4\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's Next for OpenAI? Will This Affect ChatGPT?
 
  It appears OpenAI is undergoing a restructuring, starting from the very top. The company's statement alludes strongly to issues in communication and trust between the two parties; apparently, that trust cannot be rebuilt, and therefore, Altman is gone.
@@ -218,15 +184,12 @@ thumbnail: https://thmb.techidaily.com/10d09cb93e07ee59e0a22acff845b375c79c46fae
  How this affects OpenAI's development of ChatGPT remains to be seen. It's enormously surprising given the prominence of Altman at OpenAI's November 2023 Dev Day, where custom GPTs and GPT-4 Turbo were revealed.
 
  Of course, Altman alone is not responsible for the development of ChatGPT. But given his stature within OpenAI and the wider artificial intelligence world as a whole, the shockwaves of Altman's firing will be keenly felt.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -235,4 +198,20 @@ thumbnail: https://thmb.techidaily.com/10d09cb93e07ee59e0a22acff845b375c79c46fae
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-become-a-streaming-guru-utilizing-zooms-features-for-effective-youtube-broadcasts-for-2024/"><u>[New] Become a Streaming Guru Utilizing Zoom's Features for Effective YouTube Broadcasts for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-building-a-robust-spotify-advertising-strategy/"><u>[Updated] 2024 Approved Building a Robust Spotify Advertising Strategy</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-art-of-gamers-screen-recording-on-win10/"><u>[Updated] 2024 Approved The Art of Gamers' Screen Recording on Win10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-extract-youtube-content-easily/"><u>[Updated] How to Extract YouTube Content Easily</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-iphoneandroid-5-tactics-for-downloading-igtv/"><u>[Updated] IPhone/Android 5 Tactics for Downloading IGTV</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-navigating-the-art-of-3d-text-rendering-in-ps/"><u>[Updated] Navigating the Art of 3D Text Rendering in PS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-video-sectioning-mastery-in-vimeo-videos/"><u>[Updated] Video Sectioning Mastery in Vimeo Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-gpt-content-steps-to-emulate-your-writing-ethos/"><u>Crafting GPT Content: Steps to Emulate Your Writing Ethos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-budget-friendly-iphone-14-pro-max-unbeatable-battery-and-features-that-impress-insider-review/"><u>Discover the Budget-Friendly iPhone 14 Pro Max: Unbeatable Battery & Features That Impress (Insider Review)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-picks-the-quintessential-5-ai-prompt-generators/"><u>Expert Picks: The Quintessential 5 AI Prompt Generators</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-s23plus-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy S23+ Phone Pattern Lock</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/mastering-screen-capture-with-1-5-of-the-best-pc-snipers/"><u>Mastering Screen Capture with #1-#5 of the Best Pc Snipers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbelievable-deal-get-the-newest-ipad-9th-generation-at-only-250-following-apples-recent-launch-shop-now/"><u>Unbelievable Deal: Get the Newest iPad 9Th Generation at Only $250 Following Apple’s Recent Launch – Shop Now</u></a></li>
+</ul></div>
 

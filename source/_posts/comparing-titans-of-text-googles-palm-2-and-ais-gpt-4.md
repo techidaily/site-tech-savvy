@@ -1,7 +1,7 @@
 ---
 title: "Comparing Titans of Text: Google's PaLM 2 & AI's GPT-4"
-date: 2024-12-25T16:02:55.726Z
-updated: 2024-12-27T21:10:19.612Z
+date: 2024-12-30T00:39:22.636Z
+updated: 2025-01-05T18:26:28.824Z
 tags:
   - chatgpt
   - open-ai
@@ -60,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 
 ![the ChatGPT logo over a photograph of an essay written on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-chatgpt-logo-over-a-photograph-of-an-essay-written-on-a-laptop.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When GPT-4 is asked a question, it can produce a wide variety of responses, not all of which might be relevant to your query. To align it with the user's intent, OpenAI fine-tuned the model's behavior using reinforcement learning with human feedback.
 
  While we may not know the exact training data either of these models were trained on, we know that the training intent was very different. We'll have to wait and see how this difference in training intent differentiates between the two models in a real-world deployment.
@@ -71,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
  That said, the sheer volume of training data used for GPT-4 means that it has an advantage when it comes to understanding the nuances of language and should theoretically generate higher-quality outputs. However, this also means that OpenAI needs to put stronger restrictions in place to keep the model from going haywire, something that Google can avoid, considering it left potentially toxic sources out of the training data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## PaLM 2 and GPT-4 Chatbots and Services
@@ -82,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 
 ![Setting an emoji wallpaper on Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/emoji-wallpapers-android.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Google I/O 2023 was filled with announcements about how PaLM 2 and generative AI integration will improve the Google Workspace experience with AI features coming to Google Docs, Sheets, Slides, Gmail, and just about every service the search giant offers. In addition, Google has confirmed that PaLM 2 has already been integrated into over 25 Google products, including Android and YouTube.
 
  In comparison, Microsoft has already brought AI features to the Microsoft Office suite of programs and many of its services. At the moment, you can experience both LLMs in their versions of similar offerings from two rival companies going head to head in the AI battle.
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 ![A screenshot of Microsoft's Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's not to say that developers won't be switching to or at least trying out PaLM 2, but Google still has to play catch-up with OpenAI on that front. The fact that PaLM 2 is open-source, instead of being locked behind a paid API, means it has the potential to be more widely adopted than GPT-4\.
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
  You also get the option of double-checking Bard's responses with Google searches. However, on the performance front, the model still takes longer to generate responses as compared to the GPT-4 powered ChatGPT or Bing Chat.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can PaLM 2 Take on GPT-4?
@@ -111,7 +111,7 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
  However, GPT-4 is still quite a capable model and, as mentioned before, beats PaLM 2 in quite a few comparisons. That said, PaLM 2's multiple smaller models give it an irrefutable edge. Gecko itself is so lightweight that it can work on mobile devices, even when offline. This means that PaLM 2 can support an entirely different class of products and devices that might struggle to use GPT-4\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI Race Is Heating Up
@@ -137,18 +137,24 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-live-from-anywhere-reach-anyone-streaming-techniques-for-iphonesipads/"><u>[New] 2024 Approved Live From Anywhere, Reach Anyone Streaming Techniques for iPhones/iPads</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-top-8-ultimate-4k-blu-ray-playback-units-reviewed/"><u>[New] 2024 Approved Top 8 Ultimate 4K Blu-Ray Playback Units Reviewed</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-aquatic-videography-evolved-top-camcorders-of-the-year/"><u>[New] In 2024, Aquatic Videography Evolved - Top Camcorders of the Year</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-conquer-with-titans-top-7-strategic-multiplayer-battles-for-2024/"><u>[Updated] Conquer with Titans Top 7 Strategic Multiplayer Battles for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-ideal-8-visuals-to-elevate-your-mbp-aesthetics/"><u>[Updated] In 2024, Ideal 8 Visuals to Elevate Your MBP Aesthetics</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/checking-graphic-cards-specs-a-step-by-step-tutorial-for-computer-enthusiasts-hardware-hub/"><u>Checking Graphic Cards Specs: A Step-by-Step Tutorial for Computer Enthusiasts - Hardware Hub</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exclusive-insight-why-one-m-powered-mac-stands-apart-as-fedora-linux-widespread-discover-more/"><u>Exclusive Insight: Why One M-Powered Mac Stands Apart as Fedora Linux Widespread - Discover More</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-ais-challenges-the-eight-core-problems-with-gpt/"><u>Exploring AI's Challenges: The Eight Core Problems with GPT</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-infinix-zero-30-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/in-depth-look-at-newly-released-gen-3-airpods-from-apple-spotlighting-key-upgrades/"><u>In-Depth Look at Newly Released Gen 3 AirPods From Apple: Spotlighting Key Upgrades</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-ai-journeys-the-free-power-of-copilot-and-turbo/"><u>Seamless AI Journeys: The Free Power of Copilot and Turbo</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-apple-bargains-in-july-2024-iphone-apple-watch-and-ipad-discounts-explore-savings-on-latest-tech-with-zdnet/"><u>Top Apple Bargains in July 2024: IPhone, Apple Watch & iPad Discounts - Explore Savings on Latest Tech with ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-8-compelling-arguments-for-teachers-and-ai/"><u>Unveiling 8 Compelling Arguments for Teachers and AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-targets-top-browser-with-unsettling-new-marketing-strategy-watch-live-on-zdnet/"><u>Apple Targets Top Browser with Unsettling New Marketing Strategy – Watch Live on ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fast-track-photo-and-video-editing-via-mobile-luts-for-2024/"><u>Fast-Track Photo & Video Editing via Mobile LUTs for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guard-your-digital-realm-avoid-the-google-bard-menace/"><u>Guard Your Digital Realm: Avoid the Google Bard Menace</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-eliminate-packet-loss-when-using-discord-tips-and-tricks/"><u>How To Eliminate Packet Loss When Using Discord – Tips & Tricks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-ultimate-guide-twitter-video-enhancers/"><u>In 2024, Ultimate Guide Twitter Video Enhancers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-systems-academic-research-revolution/"><u>Intelligent Systems: Academic Research Revolution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interview-success-integrating-chatgpt-wisdom/"><u>Interview Success: Integrating ChatGPT Wisdom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-dyson-ontrac-the-revolutionary-wireless-earbuds-poised-to-rival-apple-airpods-pro/"><u>Introducing Dyson OnTrac: The Revolutionary Wireless Earbuds Poised to Rival Apple AirPods Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-chatgtp-exposed-to-privacy-threats/"><u>Is ChatGTP Exposed to Privacy Threats?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavidpxpng/"><u>Movaviで手軽に無料のオンラインDpxからPngへの変換</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-cybersecurity-on-a-budget-phone/"><u>Navigating Cybersecurity on a Budget Phone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/netgear-secure-start-essential-default-credentials-for-all-your-devices-released-in-july-2024/"><u>NETGEAR Secure Start: Essential Default Credentials for All Your Devices, Released in July 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/quick-guide-how-to-revamp-facebook-profile-imagery/"><u>Quick Guide How to Revamp Facebook Profile Imagery</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-halo-infinite-crashes-on-xbox-with-dx12/"><u>Resolved: Halo Infinite Crashes on Xbox with DX12</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-stylus-tablets-comprehensive-reviews-from-tech-experts-zdnet/"><u>Top-Rated Stylus Tablets : Comprehensive Reviews From Tech Experts | ZDNet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/ultimate-10-battle-royale-matchups/"><u>Ultimate 10 Battle Royale Matchups</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-gpts-char-limit-and-solutions/"><u>Understanding GPT's Char Limit & Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Infinix Note 30 5G? | Dr.fone</u></a></li>
 </ul></div>
 

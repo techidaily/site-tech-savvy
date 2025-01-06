@@ -1,7 +1,7 @@
 ---
 title: Reasons to Dismiss Auto-Generated Dialogues
-date: 2024-12-25T20:40:20.988Z
-updated: 2024-12-27T20:39:04.384Z
+date: 2025-01-03T06:01:39.330Z
+updated: 2025-01-06T02:25:36.728Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/02374ddd20d049e41c0d0fe41e4dbd023d73e596f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. AI Chatbots Tend to Hallucinate
 
  If you've used [ChatGPT, Bing, or Bard](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/), you know that generative AI chatbots tend to "hallucinate." AI hallucination is when these chatbots make stuff up due to a lack of adequate training data on the query requested by the user.
@@ -44,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/02374ddd20d049e41c0d0fe41e4dbd023d73e596f
 
 ![Small orange and silver robot sitting on carpeted floor with a laptop in front of it.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-robot-working-on-laptop-computer-artificial-intelligence-concept-3d-rendering-generative-ai)
 
  Think of how annoying it is when you're trying to contact a company's customer support, and you're made to talk to a chatbot instead of a real human executive who can actually understand the nuances of your problem and offer appropriate guidance.
@@ -55,7 +55,7 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
  Using AI to write emails, for example, is understandable since it's a professional interaction, but using it in personal conversations will not be something anyone would want to encourage. Once the novelty of the tech fades, it'll become rude to use it in this context.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. AI Cannot Copy Your Unique Tonality
@@ -68,17 +68,9 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
 
  Up until AI tools allow you the option to train their language model based on your chat history, they will not be able to replicate your unique dialect and eccentricities. That said, this challenge is not that hard to solve, so we might see it being implemented soon.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Writing Good Prompts Takes Time
 
 ![Man Texting on Mobile Phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/man-mobile.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Getting desired results from an AI chatbot heavily depends on the quality of your prompt. If you write a bad prompt, you're going to get a bad response and will have to refine the prompt until you get a satisfactory result.
 
@@ -86,21 +78,25 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
 
  The time it might take to refine your prompts and get useable responses will be, in most cases, more than the time it would've taken you if you just wrote the messages yourself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. AI May Produce Offensive Results
 
  Aside from accuracy, bias is one of the [biggest problems with generative AI](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/). Some people perceive AI as unbiased since it doesn't have its own motives. However, the people behind these AI tools are ultimately humans with their own biases.
 
  In other words, bias is baked into the system. AI doesn't inherently understand what's considered offensive and what's not, so it might, for instance, be trained to be biased against certain groups of people or certain cultures—hence producing offensive results in the process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. AI May Not Understand Sarcasm or Humor
 
  AI's understanding of figures of speech, such as irony and metaphor, is improving over time, but it's still far from being at a point where it can be used in a conversation to recognize humor. When asking Google's Bard to be sarcastic, for example, the results were hit-or-miss.
 
 ![Google Bard chatbot attempting to be sarcastic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-bard-chatbot-attempting-to-be-sarcastic.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In some cases, it was genuinely funny and played along with my sarcasm. But in other cases, it either defaulted back to an unfunny cookie-cutter response or simply refused to participate in the conversation altogether, saying that as it's just a LLM, it can't help me with my query.
 
@@ -109,6 +105,10 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
  Another subtle yet substantial problem with integrating generative AI into messaging apps is how it can affect our ability to communicate. If we increasingly rely on AI to converse with each other, it may hinder our ability to [train our emotional intelligence](https://www.makeuseof.com/ways-increase-your-emotional-intelligence/) and social skills.
 
  The point here is that the more we outsource our social needs to AI, the worse we will get at communicating ideas through organic means. In other words, the more you use AI to talk to your contacts, the more likely you may be to degrade the quality of your relationships.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Not Everything Needs to Have AI
 
@@ -135,21 +135,21 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-elevate-online-engagement-unlocking-the-potential-of-voicemod-on-discord/"><u>[New] 2024 Approved Elevate Online Engagement Unlocking the Potential of VoiceMod on Discord</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/levate-your-content-with-these-10-reaction-wonders-for-2024/"><u>[New] Elevate Your Content with These 10 Reaction Wonders for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/7-tips-for-preventing-big-picture-crashes/"><u>7 Tips for Preventing Big Picture Crashes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-vs-authors-6-tactics-for-human-centric-composition/"><u>AI Vs. Authors: 6 Tactics for Human-Centric Composition</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Realme GT 3? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-interviews-enhancing-your-prep-game/"><u>ChatGPT & Interviews: Enhancing Your Prep Game</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claim-mastery-with-claude-leveraging-artificial-intelligence-in-business/"><u>Claim Mastery with Claude: Leveraging Artificial Intelligence in Business</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-language-of-generative-tech/"><u>Decoding the Language of Generative Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-battery-preservation-with-macos-montereys-low-power-feature-detailed-guide-by-zdnet/"><u>Effortless Battery Preservation with macOS Monterey's Low Power Feature | Detailed Guide by ZDNET</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723012830716-fixes-implemented-for-destiny-2-pc-startup-problems-enjoy-gaming-again/"><u>Fixes Implemented for Destiny 2 PC Startup Problems – Enjoy Gaming Again!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-lava-storm-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Lava Storm 5G</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/journey-to-joyful-nutritious-dining-with-gpt-guidance/"><u>Journey to Joyful, Nutritious Dining With GPT Guidance</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-iphones-vr-video-viewing-for-2024/"><u>Mastering iPhone's VR Video Viewing for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-the-continuous-reboot-issue-in-windows-10/"><u>Ultimate Guide: Solving the Continuous Reboot Issue in Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/whats-behind-ai-benchmarking-progressive-alternatives-to-turing/"><u>What's Behind AI Benchmarking: Progressive Alternatives to Turing?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-editmasters-selecting-the-best-4k-screens-for-creatives/"><u>[New] In 2024, EditMasters Selecting the Best 4K Screens for Creatives</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-uncomplicated-capture-efficient-screenshots-on-dell-for-2024/"><u>[New] Uncomplicated Capture Efficient Screenshots on Dell for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-a-critical-look-at-the-action-focused-polaroid-cubeplus/"><u>[Updated] 2024 Approved A Critical Look at the Action-Focused Polaroid Cube+</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-all-encompassing-look-at-the-ricoh-theta-s-design/"><u>[Updated] In 2024, All-Encompassing Look at the Ricoh Theta S Design</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-elevating-live-tiktok-content-via-zoom/"><u>2024 Approved Elevating Live TikTok Content via Zoom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-rx-6800-graphics-driver-update-for-windows-111087-free-download-options/"><u>AMD RX 6800 Graphics Driver Update for Windows 11/10/8/7 - Free Download Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-value-should-you-switch-to-iphone-16-pro-from-iphone-14-pro-gadget-specs/"><u>Assessing Value: Should You Switch to iPhone 16 Pro From iPhone 14 Pro? | Gadget Specs</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719576236146-boost-your-career-with-croatian-skills-explore-these-7-benefits/"><u>Boost Your Career with Croatian Skills – Explore These 7 Benefits!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-chatbot-technology-for-mass-appeal/"><u>Dissecting Chatbot Technology for Mass Appeal</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-guide-latest-drivers-for-your-hp-designjet-f-series/"><u>Download Guide: Latest Drivers for Your HP Designjet F-Series</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-itel-a05s-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stay-connected-embrace-the-chatgpt-android-experience/"><u>Stay Connected: Embrace the ChatGPT-Android Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ta/"><u>TA</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-scholars-guide-to-chatgpt-utilization/"><u>The Scholar's Guide to ChatGPT Utilization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-enterprise-with-these-5-must-know-ai-innovations/"><u>Transform Your Enterprise with These 5 Must-Know AI Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-ai-innovations-palm-2-versus-gpt-4/"><u>Unpacking AI Innovations: PaLM 2 Versus GPT-4</u></a></li>
 </ul></div>
 

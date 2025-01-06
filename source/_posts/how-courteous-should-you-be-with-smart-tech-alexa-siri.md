@@ -1,7 +1,7 @@
 ---
 title: How Courteous Should You Be with Smart Tech? (Alexa, Siri)
-date: 2024-09-06T23:31:58.080Z
-updated: 2024-09-07T23:31:58.080Z
+date: 2025-01-02T04:55:20.650Z
+updated: 2025-01-06T08:10:40.425Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes How Courteous Should You Be with Smart Tech? (Al
 thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a950d0a63433c57fd863da90.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Courteous Should You Be with Smart Tech? (Alexa, Siri)
 
  AI models like OpenAI's GPT-4 can pass the Turing test. In other words, the latest AI systems can fool you into believing they're human.
@@ -34,11 +28,9 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  It doesn't make a difference if you're polite to AI. This is because AI like ChatGPT, Alexa, or Siri cannot process emotions like humans, and it won't be offended if you're not polite.
 
  AI uses [machine learning and deep learning](https://www.makeuseof.com/tag/machine-learning-algorithms/) algorithms to process data and answer your queries. This means it doesn't rely on personal opinion to decide.
@@ -47,24 +39,20 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
 
 ![chatgpt no feelings or emotions text march 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-no-feelings-or-emotions-text.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For instance, if you use derogatory words when addressing [Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/), it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Should You Teach Children to Be Polite Using AI?
 
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's [Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/), which includes a **Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the [Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
 
  Of course, by using AI to reward children when they say "please" or "thank you," you could condition your children to be more polite when interacting with humans. Shouting at and being abusive to your AI probably delivers a poor lesson in communication, whether the ChatGPT or Alexa has feelings or not.
@@ -72,11 +60,9 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can AI Be Rude to You?
 
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
@@ -90,11 +76,9 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
  On the other hand, you can [set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Interact With AI How You Want
 
  AI cannot process emotions like humans, and you shouldn't feel obligated to say "thank you" or "please." Nevertheless, it doesn't hurt to be polite to AI, even if you know it's not sentient, but rather because you will feel better about yourself if you're polite.
@@ -105,14 +89,11 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
 
  But, if AI can talk and reply to your messages like a human, do you need to be polite to AI, as you would with a human?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,4 +102,23 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-from-theory-to-practice-mastering-instagram-livestreams-through-obs/"><u>[Updated] From Theory to Practice Mastering Instagram Livestreams Through OBS</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unraveling-the-latest-features-of-lgs-360-camera-series/"><u>[Updated] Unraveling the Latest Features of LG's 360 Camera Series</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-prime-free-images-hosts-ensure-picture-longevity/"><u>10 Prime Free Images Hosts, Ensure Picture Longevity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-guide-how-to-prep-and-configure-your-brand-new-ipad-tips-from-zdnet/"><u>Essential Guide: How to Prep and Configure Your Brand-New iPad - Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-apples-immersive-3d-content-on-your-oculus-quest-2-tutorial-and-guide-techcrunch/"><u>Experience Apple's Immersive 3D Content on Your Oculus Quest 2 - Tutorial & Guide | TechCrunch</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-proper-techniques-for-easy-iphone-screen-recording/"><u>In 2024, Proper Techniques for Easy iPhone Screen Recording</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-asus-rog-phone-7-ultimate-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Asus ROG Phone 7 Ultimate Phone Network-Ready</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/note-networks-audit-sound-file-archives/"><u>Note Networks Audit Sound File Archives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ode-onlookers-human-lyricists-challenge-ai-pastoral-pals/"><u>Ode Onlookers: Human Lyricists Challenge AI, Pastoral Pals</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/pick-your-song-daily-with-party-tyme-enjoy-our-newest-karaoke-selection-now/"><u>Pick Your Song Daily with Party Tyme - Enjoy Our Newest Karaoke Selection Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/smart-tvs-vs-firestick-future-prospects/"><u>Smart TVs vs FireStick: Future Prospects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-savings-unveiling-the-most-competitive-atandt-offers-in-may-2024-insights-from-zdnet/"><u>Top Savings: Unveiling the Most Competitive AT&T Offers in May 2024 - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-blowout-discounts-on-the-new-2n22-ipad-pro-for-labor-day-get-700-off-now-shop-smart-with-zdnets-inside-tips/"><u>Unbeatable Blowout Discounts on the New 2N22 iPad Pro for Labor Day! Get $700 Off Now | Shop Smart with ZDNet's Inside Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-slowdowns-in-chatgpt-4-vs-gpt-35-timeframe/"><u>Unveiling Slowdowns in ChatGPT-4 vs GPT-3.5 Timeframe</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/who-holds-the-crown-in-chatbot-arena-gpt-or-huggingface/"><u>Who Holds the Crown in ChatBot Arena, GPT or HuggingFace?</u></a></li>
+</ul></div>
 

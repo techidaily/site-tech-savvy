@@ -1,7 +1,7 @@
 ---
 title: "Revealing the Ratio: Why Does ChatGPT-4 Run Roughly?"
-date: 2024-12-24T21:46:24.428Z
-updated: 2024-12-27T18:59:25.106Z
+date: 2025-01-03T02:12:04.768Z
+updated: 2025-01-06T03:38:30.289Z
 tags:
   - chatgpt
   - open-ai
@@ -28,12 +28,16 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is ChatGPT-4?
 
 ![chatgpt welcome page open on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gpt-laptop-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT-4 is the newest model of [OpenAI's chatbot, known generally as ChatGPT](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/). ChatGPT is powered by artificial intelligence, allowing it to answer your questions and prompts far better than previous chatbots. ChatGPT uses a large language model powered by a GPT (Generative Pre-trained Transformer) to provide information and content to users while also being able to converse.
@@ -48,17 +52,9 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
  However, GPT-4 is by no means perfect. In fact, GPT-4's lengthy response times are causing quite a stir. So let's look into this issue and why it may be happening.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ChatGPT-4 Is Slow
 
 ![loading text and bar symbol on black exterior wall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/black-wall-loading.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Many noticed upon the release of GPT-4 that OpenAI's new chatbot was incredibly slow. This left scores of users frustrated, as GPT-4 was meant to be a step up from GPT-3.5, not backward. As a result, GPT-4 users have been taking to online platforms, such as Reddit and OpenAI's community board, to discuss the issue.
 
@@ -71,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
  With delays and failed or half-baked responses, it seems that GPT-4 is littered with issues that are quickly putting users off.
 
  So why, exactly, is this happening? Is there something wrong with GPT-4?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Is GPT-4 Slow Compared to GPT-3.5?
 
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
  But the biggest reason GPT-4 is slow is the number of parameters GPT-4 can call upon versus GPT-3.5\. The phenomenal rise in parameters simply means it takes the newer GPT model longer to process information and respond accurately. You get better answers with increased complexity, but getting there takes a little longer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Choose GPT-3.5 Over GPT-4?
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
  Over time, GPT-4's delays may be lessened or entirely resolved, so patience could be a virtue here. Whether you try switching to GPT-4 now or wait a little longer to see how things play out with this version, you can still get a lot out of OpenAI's nifty little chatbot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-4 Is More Advanced but Comes With a Lag
@@ -129,16 +129,21 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-mastering-circular-and-spherical-artistry-building-block-by-block/"><u>[New] Mastering Circular & Spherical Artistry Building Block by Block</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-viewer-interest-with-thumbnails-for-2024/"><u>[Updated] Enhancing Viewer Interest with Thumbnails for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-ushers-new-era-key-capabilities-we-expect-in-gpt-5/"><u>AI Ushers New Era: Key Capabilities We Expect in GPT-5</u></a></li>
-<li><a href="https://win-great.techidaily.com/copilot-pro-vs-chatgpt-plus-showdown-is-20-a-month-worth-it-for-advanced-ai-chatting-zdnet/"><u>Copilot Pro Vs. ChatGPT Plus Showdown: Is $20 a Month Worth It for Advanced AI Chatting? | ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dialogue-dynamics-le-chat-ai-vs-gpt-3/"><u>Dialogue Dynamics: Le Chat AI vs GPT-3</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-how-to-get-youtube-sponsorship-for-small-channels-easy/"><u>In 2024, How to Get YouTube Sponsorship for Small Channels (Easy)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/m3-macbook-pro-and-macbook-air-dual-monitor-capability-compared-how-to-seamlessly-connect-external-screens-zdnet/"><u>M3 MacBook Pro and MacBook Air Dual Monitor Capability Compared – How to Seamlessly Connect External Screens (ZDNET)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-iphone-backups-effortless-methods-using-icloud-and-macos-systems/"><u>Mastering iPhone Backups: Effortless Methods Using iCloud and macOS Systems</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/secret-sonic-snatchers-6-in-the-shadows-voice-recording-apps/"><u>Secret Sonic Snatchers 6 In-the-Shadows Voice Recording Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/two-ways-to-play-tetris-competitively-on-android-and-iphone/"><u>Two Ways to Play Tetris Competitively on Android and iPhone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/whats-next-for-gamers-discover-three-key-insights-into-apples-mysterious-new-game-enhancement/"><u>What's Next for Gamers? Discover Three Key Insights Into Apple's Mysterious New Game Enhancement</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-gopro-hero4-session-vs-hero5-session/"><u>[New] In 2024, GoPro Hero4 Session Vs Hero5 Session</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-inside-look-apples-m1-max-attachments/"><u>[Updated] Inside Look Apple's M1 Max Attachments</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dealing-with-c1900101-on-new-operating-system/"><u>Dealing with C1900101 on New Operating System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-ai-classifications-public-personal-and-restricted-spheres/"><u>Decoding AI Classifications: Public, Personal, and Restricted Spheres</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-how-to-fix-and-update-realtek-wireless-drivers-for-seamless-operation-in-win11-10-and-7-environments/"><u>Expert Advice: How to Fix and Update Realtek Wireless Drivers for Seamless Operation in Win11, 10 & 7 Environments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-gpt-3-capabilities-in-openai/"><u>Exploring GPT-3 Capabilities in OpenAI</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/foremost-virtual-environments-providers/"><u>Foremost Virtual Environments Providers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-expand-connectivity-ultimate-guide-to-adding-more-ports-on-your-macbook-and-ipad-pro/"><u>How to Expand Connectivity: Ultimate Guide to Adding More Ports on Your MacBook and iPad Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-securely-maintain-your-smart-device-batteries-including-airtags-against-hazardous-features-a-complete-guide/"><u>How to Securely Maintain Your Smart Device Batteries, Including AirTags, Against Hazardous Features - A Complete Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-ideas-top-20-github-curated-chatgpt-dialogues/"><u>Pioneering Ideas: Top 20 Github-Curated ChatGPT Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reach-new-heights-with-9-key-perks-from-chatgpt-plus/"><u>Reach New Heights with 9 Key Perks From ChatGPT Plus</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-directx-installation-obstacles/"><u>Remedying DirectX Installation Obstacles</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-essentials-of-professional-level-audio-crossfade-for-2024/"><u>The Essentials of Professional-Level Audio Crossfade for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-recovering-lost-airpods-and-preventative-measures-for-future-losses-insights-from-zdnet/"><u>The Ultimate Guide: Recovering Lost AirPods & Preventative Measures for Future Losses - Insights From ZDNET</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/transform-your-videos-best-time-lapse-editing-apps-for-mobile/"><u>Transform Your Videos Best Time-Lapse Editing Apps for Mobile</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-next-big-thing-how-iphone-16s-cutting-edge-features-make-upgrades-irresistible-wired-magazine/"><u>Unveiling the Next Big Thing: How iPhone 16'S Cutting-Edge Features Make Upgrades Irresistible | Wired Magazine</u></a></li>
 </ul></div>
 

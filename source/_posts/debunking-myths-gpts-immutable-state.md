@@ -1,7 +1,7 @@
 ---
 title: "Debunking Myths: GPT's Immutable State"
-date: 2024-12-25T16:20:17.356Z
-updated: 2024-12-27T20:08:52.889Z
+date: 2025-01-03T07:17:21.551Z
+updated: 2025-01-05T23:06:49.188Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/2b507e99a3bf554781726874cc0f5a38265095ead
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. ChatGPT Prompting Skills Have Generally Improved
 
 ![A man typing on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/a-man-typing-on-laptop.jpg)
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/2b507e99a3bf554781726874cc0f5a38265095ead
  Prior to ChatGPT's arrival, conversing with AI was a niche skill limited to those privy to research labs. Most early users lacked expertise in crafting effective prompts. This drove many people to employ jailbreaks, an expedient way to get the chatbot to do what they wanted with minimal effort and prompting skills.
 
  Today, the landscape has evolved. Prompting proficiency is becoming a mainstream skill. Through a combination of experience gained from repeated use and access to freely available ChatGPT prompting guides, ChatGPT users have honed their prompting abilities. Rather than seeking out workarounds like jailbreaks, a bulk of ChatGPT users have become more adept at using different prompting strategies to achieve goals they would have required jailbreaks to achieve in the past.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. The Rise of Uncensored Chatbots
 
@@ -55,16 +63,12 @@ thumbnail: https://thmb.techidaily.com/2b507e99a3bf554781726874cc0f5a38265095ead
  However, those wild early days are history. These basic prompts and cheap tricks no longer fool ChatGPT. Jailbreaking now requires complex techniques to have a chance of bypassing OpenAI's now robust safeguards. With jailbreaking becoming so difficult, most users are too discouraged to attempt it. The easy and wide-open exploits of ChatGPT's early days are gone. Getting the chatbot to say one wrong word now requires significant effort and expertise that may not be worth the time and effort.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The Novelty Has Worn Off
 
 ![Uninterested Formal Man Looking at a Laptop Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cybersecurity-fatigue-fatuted-image.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A driving force behind many users' attempts to jailbreak ChatGPT was the thrill and excitement of doing so in the early days. As a new technology, getting ChatGPT to misbehave was entertaining and earned bragging rights. While there are countless practical applications for ChatGPT jailbreaks, many pursued them for the "wow, look what I did" appeal. Gradually, though, the excitement stemming from the novelty has faded, and along with it, people's interest in dedicating time to jailbreaks.
 
@@ -72,9 +76,17 @@ thumbnail: https://thmb.techidaily.com/2b507e99a3bf554781726874cc0f5a38265095ead
 
 ![ChatGPT jailbreaks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-jailbreaks.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A common practice within the ChatGPT jailbreaking community is sharing every successful exploit when discovered. The problem is that when exploits are shared widely, OpenAI often becomes aware of them and fixes the vulnerabilities. This means the jailbreaks stop working before people who would be interested can even try them.
 
  So, each time a ChatGPT user painstakingly develops a new jailbreak, sharing it with the community hastens its demise via patching. This disincentivizes the idea of going public whenever a user comes across a jailbreak. The conflict between keeping jailbreaks active yet hidden versus publicizing them creates a dilemma for ChatGPT jailbreak creators. These days, more often than not, people choose to keep their jailbreaks a secret to avoid the loopholes being patched.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Uncensored Local Alternatives
 
@@ -84,23 +96,11 @@ thumbnail: https://thmb.techidaily.com/2b507e99a3bf554781726874cc0f5a38265095ead
 
  You'll find a surprisingly long list of powerful uncensored LLMs you can deploy on your computer with lax censorship. Some notable ones are the Llama 7B (uncensored), Zephyr 7B Alpha, Manticore 13B, Vicuna 13B, and GPT-4-X-Alpaca.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Professional Jailbreakers Now Sale for Profit
 
 ![A Group of Businessmen in Suits Discussing Projects](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/group-of-people-discussing-project.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Why dedicate precious time to developing jailbreaking prompts if you'll get nothing from it? Well, some professionals now sell jailbreaks for profit. These professional jailbreak creators design jailbreaks that perform specific tasks and list them for sale on prompt marketplaces such as PromptBase. Depending on their capabilities, these jailbreaking prompts might sell for anywhere between $2 to $15 per prompt. Some complicated multi-step exploits may cost significantly more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Could the Crack Down on Jailbreaks Backfire?
 
@@ -129,22 +129,19 @@ thumbnail: https://thmb.techidaily.com/2b507e99a3bf554781726874cc0f5a38265095ead
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-flipping-the-script-on-instagrams-video-content/"><u>[New] 2024 Approved Flipping the Script on Instagram's Video Content</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-how-to-change-the-destination-where-screenshots-are-saved-on-your-mac/"><u>[New] 2024 Approved How to Change the Destination Where Screenshots Are Saved on Your Mac</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-immediate-capture-in-zoom-conferences-via-snap/"><u>[New] In 2024, Immediate Capture in Zoom Conferences via Snap</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-dailymovement-vs-youtube-income-comparison/"><u>[Updated] 2024 Approved DailyMovement vs Youtube Income Comparison</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-nokia-g310-frp-bypass-by-drfone-android/"><u>About Nokia G310 FRP Bypass</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bypassing-common-sticker-setup-snags-in-automotive-ai-systems/"><u>Bypassing Common Sticker Setup Snags in Automotive AI Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/collision-course-for-creators-notion-vs-gpt-3-comparison/"><u>Collision Course for Creators: Notion Vs. GPT-3 Comparison</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-apple-homepod-mini-evaluation-exploring-music-playback-intelligent-assistant-and-extra-functions/"><u>Comprehensive Apple HomePod Mini Evaluation: Exploring Music Playback, Intelligent Assistant, and Extra Functions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/deciding-between-apple-devices-the-distinct-advantages-of-the-ipad-pro-and-macbook-air/"><u>Deciding Between Apple Devices: The Distinct Advantages of the iPad Pro and MacBook Air</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/deciphering-the-covert-codes-of-snapchats-emojis/"><u>Deciphering the Covert Codes of Snapchat's Emojis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-walmart-labor-day-blowout-get-your-apple-airtags-for-just-24-less-featured/"><u>Discover the Walmart Labor Day Blowout: Get Your Apple AirTags for Just $24 Less, Featured !</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-the-premium-perks-of-chatgpt-experience/"><u>Inside the Premium Perks of ChatGPT Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-your-ipad-key-configuration-tips-every-apple-enthusiast-and-veteran-needs-to-know-expert-advice/"><u>Master Your iPad: Key Configuration Tips Every Apple Enthusiast and Veteran Needs to Know | Expert Advice</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/questioning-your-assumptions-six-reasons-to-distrust-ai/"><u>Questioning Your Assumptions: Six Reasons to Distrust AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-hazards-of-using-gpt-powered-phones/"><u>The Hazards of Using GPT-Powered Phones</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tiktok-tricks-for-striking-visual-results/"><u>TikTok Tricks for Striking Visual Results</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-ranking-iphone-models-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Ranking iPhone Models : Comprehensive Reviews by Tech Gurus | ZDNET</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/xpert-tips-for-youtube-channel-aesthetics-finding-optimal-sizes/"><u>[New] Expert Tips for YouTube Channel Aesthetics Finding Optimal Sizes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-instas-archive-maze-for-optimal-results/"><u>[New] Navigating Insta’s Archive Maze for Optimal Results</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-understanding-luts-transforming-images-magic-for-2024/"><u>[New] Understanding LUTs Transforming Images Magic for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/iuoajoocuplusodvoodleodhuocoplusobquodkplusocuoodjeocueodlplusodreocuplusocutrjgqtjg5njg7pjg4jjg4jjg6rjgqzjg7zjg5djg4pjgqjgqljg4pjg5fjga7mtlvnlkjoozpjgi0i.m142/"><u>「セーフティなビジネスプロセス:イベントトリガーバックアップの活用術」</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-unlocking-youtubes-potential-for-visual-storytelling/"><u>2024 Approved Unlocking YouTube's Potential for Visual Storytelling</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/d-the-scenes-with-youtubes-payment-policies-for-creators/"><u>Behind the Scenes with YouTube's Payment Policies for Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/envisioning-elegance-da-vincis-latest-image-inspirations/"><u>Envisioning Elegance: Da Vinci's Latest Image Inspirations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-your-neurological-network-9-steps-for-smoother-iphones-and-chatgpt/"><u>Navigate Your Neurological Network: 9 Steps for Smoother iPhones & ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-invalid-payment-methods-on-ps5/"><u>Reviving Invalid Payment Methods on PS5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-path-forward-for-responsible-ai-development/"><u>The Path Forward for Responsible AI Development</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-quick-guide-to-correcting-6-common-chatgpt-faults/"><u>The Quick Guide to Correcting 6 Common ChatGPT Faults</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-ultimate-sales-magsafe-compatible-wallet-exclusive-apple-and-anker-alternative-tested-on-zdnet/"><u>Unveiling the Ultimate Sales MagSafe Compatible Wallet: Exclusive Apple & Anker Alternative Tested on ZDNet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/dtvand/"><u>ダウンロード不能なdTVコンテンツを正常に記録&保存する究極技術</u></a></li>
 </ul></div>
 

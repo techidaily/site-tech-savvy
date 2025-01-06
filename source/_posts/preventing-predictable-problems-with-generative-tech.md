@@ -1,7 +1,7 @@
 ---
 title: Preventing Predictable Problems with Generative Tech
-date: 2024-09-06T23:33:39.793Z
-updated: 2024-09-07T23:33:39.793Z
+date: 2025-01-05T07:34:57.924Z
+updated: 2025-01-06T07:52:32.085Z
 tags:
   - chatgpt
   - open-ai
@@ -34,11 +34,9 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
  ChatGPT is a large language model trained on massive amounts of data from the internet and other sources. This AI chatbot relies on this training to generate human-sounding responses to your queries. It is worth noting that some of these AI text generators, including ChatGPT, have a training cutoff date, which means they lack knowledge of events after this date.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Not Editing Responses From AI Text Generators
 
  The next big mistake to avoid when using AI-generative tools is failing to edit their responses. By editing, we don't just mean correcting spelling or grammar mistakes. You also need to fact-check the information generated and compare it to other credible sources.
@@ -51,12 +49,6 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 
 ![A woman using a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ai-tools-writing.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Although these AI writing tools can help you write entire articles for online publishers or write your school essays from scratch, developing an over-reliance on them is a huge mistake. There are [several reasons why content writers should not rely on AI chatbots](https://www.makeuseof.com/why-content-writers-cant-rely-ai-chatbots/) for their daily writing tasks.
 
  First, as we have covered, these tools don't guarantee accuracy and may contain factual errors or biased content. In addition, these AI writing tools typically generate bland, generic, formulaic content that lacks sufficient depth and creativity. Lastly, an over-dependence on these tools will kill your creativity and make you lazy.
@@ -64,17 +56,9 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
  This is not to say you shouldn't use them at all, as there are [several responsible ways to use AI as a content writer](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/), including brainstorming titles or content ideas, researching, crafting catchy headlines, and more.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Failing to Write Good Prompts
 
  For the most part, the quality of the responses you get from ChatGPT and similar tools depends on the quality of their training and your prompts. In the most basic terms, prompting is how humans talk to AIs, so adopting good [prompting techniques is an effective way to improve your ChatGPT responses](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/).
@@ -84,14 +68,16 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
  All in all, learning how to write effective prompts is a key skill to master when using generative AI tools. You can continuously practice by interacting with the AI and adjusting your prompts as you go—you never know, you may just [start a career in prompt engineering](https://www.makeuseof.com/career-in-prompt-engineering/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Trusting Generative AI Tools With Sensitive Information
 
 ![A top secret report](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/top-secret-information.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Similar to other Tech Giants, OpenAI has faced criticism over its data collection practices that put user privacy and security at risk. However, this goes beyond the account information you give when signing up (name, transaction history, payment card information, etc.), as it also includes data from your conversations with the chatbot.
 
@@ -99,12 +85,6 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 
  That said, you should always remain mindful when using these tools and ensure you do not input sensitive or confidential information.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Using Generative AI Tools Unethically
 
  Like most tools out there, AI content generators can be used for good and malicious purposes. For instance, some students have been using AI chatbots to cheat in school, while other malicious actors use them to write phishing emails or create malware.
@@ -112,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
  In addition, it's also good practice to inform clients/readers when using AI-generated content in your work. This is particularly important when it comes to sensitive topics like health, politics, and finance.
 
  Lastly, you also want to keep an eye on the Terms of Use of any AI content generator you use to ensure you're not violating them, as this could result in your account being suspended or banned.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Not Familiarizing Yourself With AI-Powered Tools
 
@@ -121,12 +105,6 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 
  This means adaptability is more vital than ever, so ignoring these AI generative tools is a mistake you want to avoid. While you may have unique skills and talents that artificial intelligence can't replace, there's a huge chance that early adopters will gain an edge over their competition.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Better Results From Generative AI Tools by Avoiding These Mistakes
 
  AI chatbots can enhance your workday in several ways, but like most tools, you need to know how to use them properly to get the best results. By avoiding these mistakes, you'll be able to make the most out of generative AI tools and ensure that your work is of the highest quality.
@@ -137,14 +115,11 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 
  That said, there are a few things to keep in mind to get the best output from AI content generators and ensure you use them ethically. Here, we'll cover some common mistakes to avoid when using AI-generative tools.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,4 +128,22 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mastering-time-plan-and-record-slack-plus-filmora-meetings/"><u>[New] In 2024, Mastering Time Plan & Record Slack + Filmora Meetings</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-jumpstart-your-photo-editing-skills-with-these-must-have-pixlr-tips/"><u>[Updated] In 2024, Jumpstart Your Photo-Editing Skills with These Must-Have Pixlr Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-learn-the-insider-tricks-of-screening-instagram-stories/"><u>2024 Approved Learn the Insider Tricks of Screening Instagram Stories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024-top-picks-for-magsafe-power-solutions-comprehensive-reviews-and-comparisons-by-tech-experts-gizmobank/"><u>2024 Top Picks for MagSafe Power Solutions: Comprehensive Reviews & Comparisons by Tech Experts | GizmoBank</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accelerate-website-development-with-chatgpts-quick-start-guide/"><u>Accelerate Website Development with ChatGPT's Quick-Start Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beat-apple-vision-pro-anxiety-for-less-unveiling-effective-budget-friendly-xr-glasses-zdnet-insights/"><u>Beat Apple Vision Pro Anxiety for Less: Unveiling Effective, Budget-Friendly XR Glasses | ZDNET Insights</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/cutting-edge-guide-to-mastering-windows-11-conferencing-via-zoom-for-2024/"><u>Cutting-Edge Guide to Mastering Windows 11 Conferencing via Zoom for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-smart-connectivity-secrets-could-your-apple-devices-be-controlling-more-than-you-think/"><u>Discovering Smart Connectivity Secrets: Could Your Apple Devices Be Controlling More Than You Think?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-gpt-tags-for-shambot-discovery-in-conversations/"><u>Harnessing GPT Tags for Shambot Discovery in Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/"><u>How to Use Create a GPT to Create a Customized Version of ChatGPT</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-mastering-audio-cut-and-mix-a-comprehensive-guide-to-using-avidemux/"><u>In 2024, Mastering Audio Cut and Mix A Comprehensive Guide to Using Avidemux</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-dialogue-preventing-model-inversion/"><u>Secure Dialogue: Preventing Model Inversion</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-tecno-camon-30-pro-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Tecno Camon 30 Pro 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/transform-your-mobile-into-an-enhanced-nintendo-switch-with-just-one-gadget/"><u>Transform Your Mobile Into an Enhanced Nintendo Switch with Just One Gadget</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-12-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi 12 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

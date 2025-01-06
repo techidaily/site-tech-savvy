@@ -1,7 +1,7 @@
 ---
 title: Wholesome Eating Made Simple by ChatGPT
-date: 2024-12-20T21:17:06.173Z
-updated: 2024-12-27T20:22:54.133Z
+date: 2025-01-04T00:31:37.814Z
+updated: 2025-01-05T21:28:27.111Z
 tags:
   - chatgpt
   - open-ai
@@ -26,15 +26,15 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Get Basic Recipes and Tips on ChatGPT
 
  For the most part, ChatGPT handles basic recipe and cooking questions well. Prompts like “what's a healthy recipe for salmon?” or “how do I make a salad that tastes good?” provide fine responses for starter recipes.
 
 ![ChatGPT salmon recipe part 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-salmon-recipe-part-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In addition, the chatbot can assist with everyday cooking questions, such as providing helpful techniques for preparing eggs in a more nutritious way upon request. With its ability to provide immediate and tailored advice, this feature offers a practical resource for anyone looking to make healthier and more informed cooking choices.
 
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
  Healthier cooking options are just a simple prompt away. If you're already a fan of the [best healthy eating apps](https://www.makeuseof.com/best-healthy-eating-apps/), such as Mealime, then ChatGPT can offer similar recipes and advice. Because you can keep asking ChatGPT to refine its answers or omit any ingredients, however, it's a more interactive option than standard recipe collections.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Refine Your Prompts for Personalized ChatGPT Recipe Selections
@@ -56,14 +56,10 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 
 ![ChatGPT dinner ideas with what you have on hand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-dinner-ideas-with-what-you-have-on-hand.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It can also streamline your grocery shopping process. Prompt it to "please provide a healthy grocery shopping list" or "create a shopping list for a week's worth of lunch salads with plenty of protein." This option is perfect for those days when you don't have the brainpower to think about cooking.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Get ChatGPT to Teach You Cooking Skills in a Variety of Ways
@@ -72,13 +68,13 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 
 ![ChatGPT healthy meal for kids directions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-healthy-meal-for-kids-part-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Meanwhile, the prompt “please provide a healthy vegetable recipe as though you are an upscale professional chef” offers a recipe for Seared Asparagus with Lemon-Herb Gremolata. With plenty of fresh herbs for flavor, it's a delicious addition to any meal. Who knew the chatbot had such elegant taste?
 
  In other words, use your prompts to find recipes that suit your needs and interests. Tailor them to your family's nutritional needs, or try out different types of cuisine from around the world.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Does ChatGPT Provide Useful Nutritional Information?
 
@@ -91,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
  When asked to reveal sources for its nutritional information, the app refers to “dietary guidelines and recommendations from reputable organizations such as the World Health Organization (WHO), the U.S. Department of Agriculture (USDA), and the American Heart Association (AHA),” as well as “peer-reviewed scientific literature on nutrition, health, and wellness from reputable journals and research institutions.”
 
  It also offers the caveat that nutritional science is still evolving and recommends consulting with a registered dietitian or healthcare professional for more personalized information. If you want some additional resources, then check out the [best websites to learn more about healthy eating](https://www.makeuseof.com/best-websites-learn-healthy-eating/), including Nutritionfacts.org and Open Food Facts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Boost Your Healthy Cooking Skills With ChatGPT
 
@@ -113,17 +113,18 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-boosting-facebook-video-performance/"><u>[New] In 2024, Boosting Facebook Video Performance</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-honor-x8b-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Honor X8b without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/academic-writing-gpts-role-and-its-consequences/"><u>Academic Writing : GPT's Role and Its Consequences</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparing-the-top-tech-giants-a-look-at-apple-dell-and-others-on-zdnet/"><u>Comparing the Top Tech Giants : A Look at Apple, Dell, and Others on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-visionos-2-key-takeaways-from-the-wwdc-announcement-that-have-tech-enthusiasts-abuzz/"><u>Deciphering VisionOS 2: Key Takeaways From the WWDC Announcement that Have Tech Enthusiasts Abuzz!</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/dive-into-discoworld-our-top-10-theme-picks/"><u>Dive Into DiscoWorld - Our Top 10 Theme Picks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exclusive-access-to-the-best-laptop-bargains-for-prime-day-hp-apple-razer-among-others-featured-by-zdnet/"><u>Exclusive Access to the Best Laptop Bargains for Prime Day: HP, Apple, Razer Among Others Featured by ZDNET</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-nubia-red-magic-9-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Nubia Red Magic 9 Pro Safely | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlining-gpt-3-interactions-via-folder-management/"><u>Streamlining GPT-3 Interactions via Folder Management</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211388232-9781446312193-the-healing-power-of-sound/"><u>The Healing Power of Sound | Free Book</u></a></li>
-<li><a href="https://win-superb.techidaily.com/the-social-transformation-in-china-during-the-cultural-revolution-insights-from-yl-software/"><u>The Social Transformation in China During the Cultural Revolution - Insights From YL Software</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/why-does-my-pc-shut-down-randomly-uncover-the-reasons-with-yl-computing/"><u>Why Does My PC Shut Down Randomly? Uncover the Reasons with YL Computing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-mastering-mobile-camera-best-android-practices/"><u>[New] Mastering Mobile Camera Best Android Practices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-twist-and-tell-the-art-of-angling-your-videos-for-instagram-audiences-for-2024/"><u>[Updated] Twist & Tell The Art of Angling Your Videos for Instagram Audiences for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-steam-decks-best-friend-emulating-games-via-emudeck/"><u>A Steam Deck's Best Friend: Emulating Games via EmuDeck</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accelerate-website-development-with-chatgpts-quick-start-guide/"><u>Accelerate Website Development with ChatGPT's Quick-Start Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beat-apple-vision-pro-anxiety-for-less-unveiling-effective-budget-friendly-xr-glasses-zdnet-insights/"><u>Beat Apple Vision Pro Anxiety for Less: Unveiling Effective, Budget-Friendly XR Glasses | ZDNET Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-smart-connectivity-secrets-could-your-apple-devices-be-controlling-more-than-you-think/"><u>Discovering Smart Connectivity Secrets: Could Your Apple Devices Be Controlling More Than You Think?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-gadgets-a-dive-into-toms-hardware-findings/"><u>Exploring Advanced Gadgets - A Dive Into Tom's Hardware Findings</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/fast-solutions-to-resolve-greying-issue-during-itunes-sync-on-windows-operating-systems/"><u>Fast Solutions to Resolve Greying Issue During iTunes Sync on Windows Operating Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-gpt-tags-for-shambot-discovery-in-conversations/"><u>Harnessing GPT Tags for Shambot Discovery in Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/"><u>How to Use Create a GPT to Create a Customized Version of ChatGPT</u></a></li>
+<li><a href="https://discover-able.techidaily.com/reason-behind-missing-windows-easy-transfer-option-in-windows-11/"><u>Reason Behind Missing 'Windows Easy Transfer' Option in Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revive-your-missing-iphone-x-crucial-tips-revealed/"><u>Revive Your Missing iPhone X Crucial Tips Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transformative-gaming-journeys-leveraging-chatgpt-for-engaging-and-interactive-roleplay/"><u>Transformative Gaming Journeys: Leveraging ChatGPT for Engaging and Interactive Roleplay</u></a></li>
 </ul></div>
 

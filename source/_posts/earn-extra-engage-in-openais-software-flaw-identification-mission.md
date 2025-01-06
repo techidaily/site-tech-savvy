@@ -1,7 +1,7 @@
 ---
 title: "Earn Extra: Engage in OpenAI's Software Flaw Identification Mission"
-date: 2024-12-22T21:46:13.658Z
-updated: 2024-12-27T17:15:48.233Z
+date: 2024-12-29T20:50:37.245Z
+updated: 2025-01-05T19:12:37.090Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is OpenAI's Bug Bounty Program?
@@ -40,15 +40,15 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
 
 ![Man writing code on a laptop computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/bug-bounty-programs.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  OpenAI promises to protect you from liabilities or penalties if you follow its stated guidelines and will also acknowledge submissions and remedy validated vulnerabilities promptly. Furthermore, OpenAI claims it will publicly recognize your contribution if it is unique and leads to a configuration or code change.
 
  However, you cannot disclose your vulnerability-related findings to the public after submitting them.
 
  This [bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and [AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/). You may report these to [OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
 
@@ -60,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
 
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
@@ -69,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
  With a Bugcrowd account, you can click the "Submit Report" tab on the [Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Here, you must fill in the following information:
 
@@ -88,11 +88,11 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
 
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
- Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the [OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8).
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the [OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8).
 
 ## Which Vulnerabilities Are Eligible for Rewards?
 
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
@@ -131,14 +131,21 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-exclusive-guide-to-the-best-20-incarceration-moments-that-spark-smiles-online/"><u>[New] 2024 Approved Exclusive Guide to the Best 20 Incarceration Moments that Spark Smiles Online</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-dynamic-gimbal-support-for-smooth-captures-anywhere/"><u>[Updated] 2024 Approved Dynamic Gimbal Support for Smooth Captures Anywhere</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/addressing-the-major-oversight-of-the-most-recent-ipad-unveiling-solutions-for-apple-to-rectify-the-situation/"><u>Addressing the Major Oversight of the Most Recent iPad Unveiling – Solutions for Apple to Rectify the Situation</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722970015116-download-gigabytes-premium-sound-management-tools-for-free-today/"><u>Download Gigabyte's Premium Sound Management Tools for Free Today!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-creativity-and-precision-with-ai-enhanced-design-tools/"><u>Enhancing Creativity & Precision with AI-Enhanced Design Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-top-multi-user-platforms-for-effective-talks/"><u>In 2024, Top Multi-User Platforms for Effective Talks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-mobile-shots-ios-11s-camera-innovations-for-2024/"><u>Mastering Mobile Shots IOS 11'S Camera Innovations for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-core-principles-unpacked-by-openai/"><u>The Core Principles Unpacked by OpenAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-verifiers-guide-ensuring-authenticity-of-wellness-info/"><u>The Verifier's Guide: Ensuring Authenticity of Wellness Info</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-resolution-showdown-gopro-vs-polaroids-editing-experience-for-2024/"><u>[New] Resolution Showdown GoPro Vs. Polaroid's Editing Experience for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-speak-with-synthetic-voices-chromebooks-leading-online-text-to-speech-apps/"><u>[New] Speak with Synthetic Voices Chromebook's Leading Online Text-to-Speech Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-checklist-for-video-praise-mastery-for-2024/"><u>[New] The Ultimate Checklist for Video Praise Mastery for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-jokes-aplenty-incorrante-guide-to-snapchats-cartoon-filters/"><u>2024 Approved Jokes Aplenty Incorrante Guide to Snapchat's Cartoon Filters</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-m14-4g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-quality-copy-harnessing-ai-ethically-and-effectively/"><u>Crafting Quality Copy: Harnessing AI, Ethically and Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/doubting-the-faithfulness-of-zerogpt-and-similar-devices/"><u>Doubting the Faithfulness of ZeroGPT and Similar Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-analysis-iphone-15-unveiled-top-picks-for-seasoned-tech-enthusiasts/"><u>Expert Analysis: IPhone 15 Unveiled - Top Picks for Seasoned Tech Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-disjointed-sticky-note-behavior-on-w11-system/"><u>Fixing Disjointed Sticky Note Behavior on W11 System</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-honor-magic-5-pro-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-your-ultimate-guide-to-choosing-vr-headsets-opt-for-easy-steps-with-mobile-or-connected-devices/"><u>In 2024, Your Ultimate Guide to Choosing VR Headsets Opt for Easy Steps with Mobile or Connected Devices?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rising-reports-of-spurious-sensations-on-new-apple-watches-fixes-and-insights/"><u>Rising Reports of Spurious Sensations on New Apple Watches - Fixes and Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tips-for-immediate-gpt-4-adoption-in-chatgpt-usage/"><u>Tips for Immediate GPT-4 Adoption in ChatGPT Usage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-gpts-boundaries-an-overview/"><u>Unlocking GPT's Boundaries: An Overview</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719148914218-ushering-in-a-new-era-of-private-online-discussions-with-end-to-end-encryption-by-facebook/"><u>Ushering in a New Era of Private Online Discussions with End-to-End Encryption by Facebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-youre-missing-out-on-with-online-ai-psychiatry/"><u>What You're Missing Out On with Online AI Psychiatry</u></a></li>
 </ul></div>
 

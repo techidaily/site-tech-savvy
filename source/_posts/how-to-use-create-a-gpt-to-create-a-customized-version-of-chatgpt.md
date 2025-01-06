@@ -1,7 +1,7 @@
 ---
 title: How to Use Create a GPT to Create a Customized Version of ChatGPT
-date: 2024-12-22T21:35:29.642Z
-updated: 2024-12-27T16:01:04.097Z
+date: 2025-01-04T02:53:35.757Z
+updated: 2025-01-06T04:36:27.738Z
 tags:
   - chatgpt
   - open-ai
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/91640d3f48e05abf1077e677bdbbda7bdefb1b3dd
 
  At the time of writing, "Create a GPT" is still in beta. This means not all features are fully online, and the product isn't finished. Bear this in mind while building your GPT and prepare to encounter issues. Also, it's possible that your finished GPT may be erased when a future update comes knocking.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Give Your GPT a Primary Description and a Picture
 
  For the sake of this piece, we'll be demonstrating how to build a Dungeons and Dragons 5th Edition dungeon master.
@@ -49,24 +45,25 @@ thumbnail: https://thmb.techidaily.com/91640d3f48e05abf1077e677bdbbda7bdefb1b3dd
 1. Now that you're in the GPT Builder, the first question you'll get is what you want to make. You can keep this first part short and sweet and input a single sentence. In this case, we said, "Make a Dungeons & Dragons 5e dungeon master who oversees D&D campaigns."  
 ![Primary description for a D&D GPT in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/primary-description-for-a-d-d-gpt-in-gpt-builder.jpg)
 2. Next, give your GPT a name. ChatGPT will suggest one for you, but you can still type in anything you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Once you give your GPT a name, it'll automatically create a profile picture as the next step. Thanks to ChatGPT's DALL-E integration, the images are typically pretty good. Ask it to regenerate more images if you're not happy with it. You can prompt it to create the exact image you want with some guidance.  
 ![Generating a profile picture for a D&D 5e dungeon master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/generating-a-profile-picture-for-a-d-d-5e-dungeon-master-gpt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can manually change the image, name, description, and instructions for your GPT by clicking**Configure** . Click the profile picture to change it, and edit the details in the**Name** **Description** and**Instructions** fields to change them without typing prompts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Establish a Tone and Rules for Your GPT
 
  At this stage, your GPT wants to know how it should address users. Direct it to the tone and style you want it to adopt. Here, we said, "5e Dungeon Master should use a wise, sagely tone. Use language and style commonly used in high-fantasy settings," which fits quite nicely into the fantasy nature of D&D.
 
 ![GPT Builder setting the tone and language for The 5e Dungeon Master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-builder-setting-the-tone-and-language-for-the-5e-dungeon-master-gpt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  But, of course, if you are making a more professional GPT, ensure it uses professional language.
 
@@ -79,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/91640d3f48e05abf1077e677bdbbda7bdefb1b3dd
  For instance, The 5e Dungeon Master is supposed to strictly follow the rules of the D&D guidebook (PHB). Our test below shows how it prevents a payer from maxing out their stats and playing a potentially overpowered non-PHB race.
 
 ![GPT Dungeon Master giving information on how to build a character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-dungeon-master-giving-information-on-how-to-build-a-character.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you find that it's not fulfilling your instructions as well as you want, go back to the**Create** tab and give it further instructions. But remember that new instructions mean you've effectively created a new version of your GPT.
 
@@ -93,16 +94,12 @@ Here's how to upload source documents to your custom GPT:
 3. Click**Upload files** and add files from your computer.  
 ![GPT Knowledge source documents uploading in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-knowledge-source-documents-uploading-in-gpt-builder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for it to finish uploading, and you'll have the documents as a knowledge base for your GPT.
 
  If, for instance, you were trying to make a GPT that is an expert in Florida tax laws, you would get all the Florida tax legal documents you can find and upload them here to form a knowledge base your GPT can work with.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add or Remove Capabilities
@@ -130,7 +127,7 @@ Here's how to upload source documents to your custom GPT:
 5. ![Testing weather API example in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/testing-weather-api-example-in-gpt-builder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Go back when you're finished.
@@ -138,6 +135,10 @@ Go back when you're finished.
  If you don't enter a valid privacy policy, you won't be allowed to share your GPT with the public.
 
  Currently, you seem to be able to add only one action at a time. If you click the**Examples** dropdown menu, you'll see a few examples of schemas OpenAI has added to aid in creating your own schema.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Configure Conversation Starters
 
@@ -157,7 +158,7 @@ You can add more conversation starters as required.
 ![Share dropdown menu in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/share-dropdown-menu-in-gpt-builder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While it won't make any difference, for now, you can choose whether you'd like to publish to the public, via links, or only to yourself. None of the sharing options work, by the way. We have to wait for an update. But, if you want friends to use your AI, return to ChatGPT's home, open the GPT's chat, and copy the URL in your browser's address bar.
@@ -185,19 +186,20 @@ You can add more conversation starters as required.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-from-creation-to-consumption-posting-vids-on-twtplustumb/"><u>[New] From Creation to Consumption Posting Vids on Twt+Tumb</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-high-impact-vectors-discover-the-best-10-websites/"><u>[New] In 2024, High-Impact Vectors Discover the Best 10 Websites</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-the-framework-for-seamless-video-storytelling/"><u>[New] In 2024, The Framework for Seamless Video Storytelling</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-unveiling-profit-potential-the-systematic-triad-technique-for-youtube-earning-analysis/"><u>[New] In 2024, Unveiling Profit Potential The Systematic Triad Technique for YouTube Earning Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-unveils-magical-on-device-ai-artist-replacing-dall-e-see-how-it-transforms-your-imagination-into-visuals-zdnet/"><u>Apple Unveils Magical, On-Device AI Artist Replacing DALL-E: See How It Transforms Your Imagination Into Visuals | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boosting-efficiency-top-6-chatgpt-techniques-for-the-digital-nomad/"><u>Boosting Efficiency: Top 6 ChatGPT Techniques for the Digital Nomad</u></a></li>
-<li><a href="https://win-able.techidaily.com/clownfish-voice-effect-malfunctions-heres-how-to-repair-them/"><u>Clownfish Voice Effect Malfunctions? Here's How to Repair Them</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-seamlessly-enter-the-realm-of-ios-vr-videos/"><u>In 2024, Seamlessly Enter the Realm of IOS VR Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-subscribing-to-exclusive-apple-insights-worth-your-money-experts-predict-charges-as-high-as-20month-zdnet-analysis/"><u>Is Subscribing to Exclusive Apple Insights Worth Your Money? Experts Predict Charges as High as $20/Month - ZDNet Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/memorial-day-bonanza-shop-for-top-tier-gaming-systems-up-to-250-cheaper-featured-by-zdnet/"><u>Memorial Day Bonanza: Shop for Top-Tier Gaming Systems Up to $250 Cheaper, Featured by ZDNet!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prioritizing-elements-selecting-the-right-chatgpt-for-psychological-assistance/"><u>Prioritizing Elements: Selecting the Right ChatGPT for Psychological Assistance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-chatgpt-in-a-multilingual-world/"><u>The Ultimate Guide to ChatGPT in a Multilingual World</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/trend-analysis-through-infographics/"><u>Trend Analysis Through Infographics</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-your-computer-potential-through-toms-hardware-wisdom/"><u>Unleash Your Computer Potential Through Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-navigating-youtubes-seo-landscape-key-techniques/"><u>[New] Navigating YouTube's SEO Landscape Key Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-diving-deep-into-magix-photo-library/"><u>[Updated] 2024 Approved Diving Deep Into MAGIX Photo Library</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-trippy-techniques-secrets-to-excellent-tripod-use-in-vlogging/"><u>[Updated] 2024 Approved Trippy Techniques Secrets to Excellent Tripod Use in Vlogging</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-asuss-high-tech-display-unveiled-the-mg28uq-monitor-insight/"><u>[Updated] ASUS's High Tech Display Unveiled – The MG28UQ Monitor Insight</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/iphonedvddvd/"><u>「IPhoneビデオをDVDへ変換!無料ツール、ショップ、お勧めのDVDバーナー一覧」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enforcing-discretion-in-corporate-ai-interactions/"><u>Enforcing Discretion in Corporate AI Interactions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oppo-a58-4g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Oppo A58 4G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/masterpiece-makers-da-vinci-3-and-the-quest-for-visual-splendor/"><u>Masterpiece Makers: Da Vinci 3 and the Quest for Visual Splendor</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-master-list-of-prime-online-destinations-for-quality-montage-audio-acquisition/"><u>New Master List of Prime Online Destinations for Quality Montage Audio Acquisition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-gpt-interaction-across-borders/"><u>Seamless GPT Interaction Across Borders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-a-budget-friendly-99-apple-watch-series-10-from-best-buy-before-its-gone-order-guide-by-zdnet/"><u>Secure a Budget-Friendly $99 Apple Watch Series 10 From Best Buy Before It's Gone - Order Guide by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-definitive-guide-to-the-ipad-air-with-m2-chip-apple-delivers-the-top-of-the-line-tablet-you-need-as-revealed-by-zdnet/"><u>The Definitive Guide to the iPad Air with M2 Chip: Apple Delivers the Top-of-the-Line Tablet You Need, as Revealed by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/threatened-by-gpts-content-generation/"><u>Threatened by GPT's Content Generation?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-your-potential-transforming-workouts-with-apples-airpods-pro-and-integrated-pulse-monitor-the-next-big-thing-in-fitness-technology/"><u>Unlock Your Potential: Transforming Workouts with Apple's AirPods Pro and Integrated Pulse Monitor - The Next Big Thing in Fitness Technology</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhancing Productivity with Tailored Notification Settings on macOS Monterey
-date: 2024-12-25T19:38:42.681Z
-updated: 2024-12-27T17:49:00.382Z
+date: 2025-01-05T06:12:22.455Z
+updated: 2025-01-06T00:36:09.179Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -37,7 +37,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -49,7 +49,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -61,7 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -81,7 +81,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -140,24 +140,18 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-freedom-with-top-rated-android-editing-apps/"><u>[New] 2024 Approved Harness Freedom with Top-Rated Android Editing Apps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-and-secure-3-ways-to-extract-youtube-music-content-for-2024/"><u>[New] Free and Secure 3 Ways to Extract YouTube Music Content for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-prime-images-storage-centers/"><u>[Updated] In 2024, Prime Images Storage Centers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-visual-sizzle-how-to-make-your-youtube-logo-pop/"><u>[Updated] In 2024, Visual Sizzle How to Make Your YouTube Logo Pop</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-lava-blaze-2-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Lava Blaze 2 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-origins-unveiled-historical-milestones-traced/"><u>AI Origins Unveiled: Historical Milestones Traced</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/blizzard-and-microsoft-alliance-shaping-the-future-of-ai-driven-art-and-language-panel-discussion/"><u>Blizzard & Microsoft Alliance: Shaping the Future of AI-Driven Art and Language [Panel Discussion]</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/conversion-de-fichier-tiff-vers-png-en-ligne-gratuit-via-movavi-une-solution-rapide-et-efficace/"><u>Conversion De Fichier TIFF Vers PNG en Ligne Gratuit via Movavi : Une Solution Rapide Et Efficace !</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/future-crafted-gpt-4-the-game-changer/"><u>Future Crafted: GPT-4, The Game Changer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-fix-chatgpt-when-it-doesnt-save-your-conversations/"><u>How to Fix ChatGPT When It Doesn’t Save Your Conversations</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-vivo-s18-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo S18</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-proven-strategies-to-record-clear-audio-without-a-mic/"><u>In 2024, Proven Strategies to Record Clear Audio Without a Mic</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-modern-life-top-9-tips-from-chatgpt-experts/"><u>Navigating Modern Life: Top 9 Tips From ChatGPT Experts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-microphone-and-sound-card-problems-on-microsofts-latest-windows-systems-win7-win10-and-win11/"><u>Solving Microphone and Sound Card Problems on Microsoft's Latest Windows Systems (Win7, Win10 & Win11)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1727783875959-top-rated-waterproof-smartwatches-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Waterproof Smartwatches : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-gpt-3-features-for-openai-enthusiasts/"><u>Unraveling GPT-3 Features for OpenAI Enthusiasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-wellness-wisdom-effective-fact-checking-methods/"><u>Unraveling Wellness Wisdom: Effective Fact-Checking Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-top-issues-with-iphone-upgrades-to-ios-18-a-consensus-among-users/"><u>Unveiling the Top Issues with iPhone Upgrades to iOS 18 – A Consensus Among Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/win-over-windows-woes-tackling-and-troubleshooting-bsod-error-0xc000021a-in-wndows-10-and-8-fixed/"><u>Win Over Windows' Woes: Tackling and Troubleshooting BSoD (Error 0xC000021A) in Wndows 10 & 8 [Fixed]</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-debunking-youtube-premium-benefits-vs-costs/"><u>[New] In 2024, Debunking YouTube Premium Benefits Vs. Costs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-for-novices-a-primer-on-av1-technology/"><u>[Updated] For Novices A Primer on AV1 Technology</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-content-top-15-download-apps-unveiled/"><u>[Updated] In 2024, Instagram Content Top 15 Download Apps Unveiled</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-navigate-your-net-worth-with-youtube-the-threefold-approach-to-assessing-earnings/"><u>[Updated] Navigate Your Net Worth with YouTube The Threefold Approach to Assessing Earnings</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-rapid-learning-from-images-to-effective-youtube-thumbnails/"><u>[Updated] Rapid Learning From Images To Effective YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-three-streamlined-techniques-for-extracting-youtubes-image-files/"><u>2024 Approved Three Streamlined Techniques for Extracting Youtube’s Image Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-showdown-chatgpt-vs-google-translate-effectiveness/"><u>AI Showdown: ChatGPT Vs. Google Translate Effectiveness</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anticipated-launch-new-features-of-the-latest-ipad-pro-and-air-in-early-may-tech-insights/"><u>Anticipated Launch: New Features of the Latest iPad Pro & Air in Early May – Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-reignites-my-love-for-an-old-favorite-show-a-dazzling-peculiar-viewing-adventure-tech-analysis/"><u>Apple Vision Pro Reignites My Love for an Old Favorite Show - A Dazzling, Peculiar Viewing Adventure | Tech Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-side-hustles-balancing-passion-and-paychecks/"><u>ChatGPT's Side Hustles: Balancing Passion and Paychecks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-palm-2-revolutionizes-googles-bard-the-ultimate-7-point-breakdown/"><u>How PaLM 2 Revolutionizes Google’s BARD: The Ultimate 7-Point Breakdown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/instructive-guide-for-custom-gpt-3-expressions/"><u>Instructive Guide for Custom GPT-3 Expressions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-final-cut-pro-x-a-step-by-step-guide-to-adding-subtitles-and-captions/"><u>New In 2024, Final Cut Pro X A Step-by-Step Guide to Adding Subtitles and Captions</u></a></li>
 </ul></div>
 

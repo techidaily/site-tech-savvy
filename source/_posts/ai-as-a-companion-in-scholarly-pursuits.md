@@ -1,7 +1,7 @@
 ---
 title: AI as a Companion in Scholarly Pursuits
-date: 2024-12-23T18:38:34.972Z
-updated: 2024-12-27T19:21:45.255Z
+date: 2025-01-03T23:19:13.102Z
+updated: 2025-01-06T05:18:22.956Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Draw Your Outline Without ChatGPT
 
 ![Outline of an essay on the history of German Shepherds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/outline-of-an-essay-on-the-history-of-german-shepherds.jpeg)
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
  If you use ChatGPT to prompt an outline for you, it could promote idea laziness, and you will find ChatGPT’s suggestions may have replaced the ones you could have produced on your own. So, get a piece of paper or a blank word processor page and create an outline for your essay.
 
  Also, ChatGPT will avoid controversial topics—even in an outline. Therefore, you might find yourself with an outline missing vital pieces of historical sections if you rely on it. This bias is one of the [major problems with OpenAI’s ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Prompt ChatGPT to Draw a Parallel Outline
 
@@ -64,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 
  Do not just copy and paste the information it generates; the next step is a vital second part of this methodology.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Confirm the Information With a Reputable Source
 
  As you begin to write, you must check if the information you’re getting from ChatGPT is indeed correct. You must do this because [ChatGPT occasionally hallucinates](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/), coming up with its own facts and making up sources when you ask it to direct you to where it got its information. In some cases, it blatantly refuses to tell you at all where it got its data.
@@ -78,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 
  The bottom line is that you should use a reputable source (such as a book from an authority or an official website) to support every important statement you put down. You can also learn how to [use Google to fact-check information](https://www.makeuseof.com/google-fact-check-information/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Use ChatGPT for Examples and Breakdowns
 
  It’s counterproductive to write about ideas that you don’t even understand yourself. When you reach a part of your essay that you don’t properly understand, you should go to ChatGPT and have it broken down for you.
@@ -91,10 +83,14 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 ![ChatGPT explaining German Shepher's hip and elbow dysplasia](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-explaining-german-shepher-s-hip-and-elbow-dysplasia.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here we used ChatGPT to break down hip and elbow dysplasia conditions in a way that is easier to understand. And it used analogies like jigsaw puzzles to paint a clearer image of what it might look like.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Write the Essay Yourself
 
@@ -106,17 +102,21 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 
  Lastly, ChatGPT doesn’t match the nuanced knowledge of a human professional in heavily specialized fields or journals that need up-to-date information. Reading a book or article by an expert, internalizing it, and writing it in your own words will give you far better results than relying on ChatGPT.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Polish the Style and Citation With ChatGPT
 
  After writing, you can paste portions of your essay and ask ChatGPT to shorten, lengthen, or optimize the style. ChatGPT is good at mimicking popular styles, and you can use that to your advantage. If you want your writing to sound a little more professional, it can help rephrase it.
 
 ![ChatGPT showing the user how to add citations to their essay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-showing-the-user-how-to-add-citations-to-their-essay.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re having trouble with citation styles and how to integrate them into your essay, you can present your essay to ChatGPT, give it your sources, and ask it to weld them together for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Is a Tool, Not a Solution
 
@@ -143,16 +143,20 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-capturing-live-streams-on-fb-top-techniques-revealed/"><u>[New] Capturing Live Streams on FB Top Techniques Revealed</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-exclusive-no-fee-fb-visual-content-craftsman/"><u>[Updated] 2024 Approved Exclusive No-Fee FB Visual Content Craftsman</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-make-a-gif-from-vimeo-video/"><u>[Updated] 2024 Approved How to Make a GIF From Vimeo Video</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/1715851846284-2024-approved-how-to-use-snap-camera-on-google-meet/"><u>2024 Approved How to Use Snap Camera on Google Meet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-knowledge-gaps-the-principles-of-ai-transfer-learning/"><u>Bridging Knowledge Gaps: The Principles of AI Transfer Learning</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-install-guide-for-new-hp-pro-477-color-laserjet-multifunctional-printer/"><u>Easy Install Guide for New HP Pro 477 Color LaserJet Multifunctional Printer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficient-site-planning-using-chatgpts-four-tactics/"><u>Efficient Site Planning Using ChatGPT's Four Tactics</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/enhance-conversions-using-smart-capture-solutions-from-cookiebot-technology/"><u>Enhance Conversions Using Smart Capture Solutions From Cookiebot Technology</u></a></li>
-<li><a href="https://solve-help.techidaily.com/exploring-factors-leading-to-excessive-heat-in-graphics-cards-with-yl-software-expertise/"><u>Exploring Factors Leading to Excessive Heat in Graphics Cards with YL Software Expertise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/now-available-8-groundbreaking-ai-assistants-for-you/"><u>Now Available: 8 Groundbreaking AI Assistants for You</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-amazon-bargains-of-september-2024-exclusive-offers-featured-on-zdnet/"><u>Top Rated Amazon Bargains of September 2024 - Exclusive Offers Featured on ZDNet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-produce-persuasive-facecover-videos/"><u>[New] In 2024, Produce Persuasive FACEcover Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-uncover-the-best-free-ultimate-3d-videos-playing-solutions/"><u>[New] In 2024, Uncover the Best Free, Ultimate 3D Videos Playing Solutions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-how-to-get-royalty-free-clip-art-for-2024/"><u>[Updated] How to Get Royalty Free Clip Art for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-twice-the-joy-twice-the-fun-televised-repetition-made-easy/"><u>[Updated] Twice the Joy, Twice the Fun Televised Repetition Made Easy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-macbook-pro-and-macbook-air-expert-tips-on-picking-the-perfect-apple-laptop/"><u>Choosing Between MacBook Pro and MacBook Air: Expert Tips on Picking the Perfect Apple Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-troubleshooting-guide-resolve-unfinished-windows-installations/"><u>Easy Troubleshooting Guide: Resolve Unfinished Windows Installations</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-zte-blade-a73-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass ZTE Blade A73 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-unmatched-hdds-for-enhanced-xbox-experience/"><u>In 2024, Unmatched HDDs for Enhanced Xbox Experience</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-blaze-2-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Blaze 2 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/macbook-air-m1-at-unbeatable-value-secure-yours-for-only-649-exclusive-deal-spotted-by-zdnet/"><u>MacBook Air M1 at Unbeatable Value: Secure Yours for Only $649 – Exclusive Deal Spotted by ZDNet!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-energy-saving-a-guide-to-enabling-low-power-mode-on-macos-monterey-tips-and-tricks/"><u>Mastering Energy Saving: A Guide to Enabling Low Power Mode on macOS Monterey - Tips & Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-frontiers-in-conversation-can-googles-gemini-outshine-chatgpt/"><u>New Frontiers in Conversation: Can Google's Gemini Outshine ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secretive-methods-for-maximizing-ai-potential/"><u>Secretive Methods for Maximizing AI Potential</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/spotlight-on-leading-ai-hardware-technologies-shaping-tomorrow/"><u>Spotlight on Leading AI Hardware Technologies Shaping Tomorrow</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/visual-virtuosity-top-6-video-editing-software-for-big-sur-os-for-2024/"><u>Visual Virtuosity Top 6 Video Editing Software for Big Sur OS for 2024</u></a></li>
 </ul></div>
 

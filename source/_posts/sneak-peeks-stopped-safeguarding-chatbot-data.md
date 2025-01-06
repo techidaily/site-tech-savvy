@@ -1,7 +1,7 @@
 ---
 title: "Sneak Peeks Stopped: Safeguarding Chatbot Data"
-date: 2024-12-22T21:24:34.004Z
-updated: 2024-12-27T21:52:22.016Z
+date: 2025-01-04T21:21:53.043Z
+updated: 2025-01-05T17:17:42.516Z
 tags:
   - chatgpt
   - open-ai
@@ -63,89 +63,97 @@ thumbnail: https://thmb.techidaily.com/bb329675ec6f2f23457017515efa91abef31819e6
  Eventually, insights into the user's activities, preferences, and identity are revealed. Insights that were not meant to be disclosed or made public.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### What Makes It Possible?
-
- Within neural networks, each query and response is a data point. Skilled attackers deploy advanced statistical methods to analyze these data points and seek correlations and patterns imperceptible to human understanding.
-
- Techniques such as regression analysis (examining the relationship between two variables) to predict the values of the input based on the outputs you receive.
-
- Hackers use machine learning algorithms in their own inversion models to refine their predictions. They take the outputs from the chatbot and feed them into their algorithms to train them to approximate the inverse function of the target neural network.
-
- In simplified terms, "inverse function" refers to how the hackers reverse the data flow from output to input. The goal of the attacker is to train their inversion models to perform the opposite task of the original neural network.
-
- In essence, this is how they create a model that, given the output alone, tries to calculate what the input must have been.
-
-## How Inversion Attacks Can Be Used Against You
-
-![A woman caring for her sick child whilst holding a smart phone and taking notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/woman-unwell-child-smartphone.jpg)
-
- Imagine you're using a popular online health assessment tool. You type in your symptoms, previous conditions, dietary habits, and even drug use to get some insight into your well-being.
-
- That's [sensitive and personal information](https://www.makeuseof.com/what-is-personally-identifiable-information/).
-
- With an inversion attack targeting the AI system you're using, a hacker might be able to take the general advice the chatbot gives you and use it to infer your private medical history. For example, a response from the chatbot might be something like this:
-
-> Antinuclear antibody (ANA) can be used to indicate the presence of autoimmune diseases such as Lupus.
-
- The inversion model can predict that the target user was asking questions related to an autoimmune condition. With more information and more responses, the hackers can infer that the target has a serious health condition. Suddenly, the helpful online tool becomes a digital peephole into your personal health.
-
-## What Can Be Done About Inversion Attacks?
-
- Can we [build a fort around our personal data](https://www.makeuseof.com/online-safety-habits-data-privacy/)? Well, it's complicated. Developers of neural networks can make it tougher to carry out inversion model attacks by adding layers of security and obscuring how they operate. Here are some examples of techniques employed to protect users:
-
-* **Differential Privacy:** This ensures that AI outputs are sufficiently "noisy" to mask individual data points. It's a little like whispering in a crowd—your words are lost in the collective chatter of those around you.
-* **Multi-Party Computation:** This technique is like a team working on a confidential project by sharing only the results of their individual tasks, not the sensitive details. It enables multiple systems to process data together without exposing individual user data to the network—or each other.
-* **Federated Learning:** Involves training an AI across multiple devices, all while keeping individual user's data local. It's a little like a choir singing together; you can hear every voice, but no single voice can be isolated or identified.
-
- While these solutions are largely effective, protecting against inversion attacks is a cat-and-mouse game. As defenses improve, so do the techniques to bypass them. The responsibility, then, falls on the companies and developers that collect and store our data, but there are ways you can protect yourself.
-
-## How to Protect Yourself Against Inversion Attacks
-
-![AI neural network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/neural-network.jpg)
-
-Image Credit:Mike MacKenzie/[Flickr](https://www.flickr.com/photos/mikemacmarketing/42271822770/)
-
- Relatively speaking, neural networks and AI technologies are still in their infancy. Until the systems are foolproof, the onus is on the user to be the first line of defense when [protecting your data](https://www.makeuseof.com/how-to-protect-privacy-ai/).
-
- Here are a few tips on how to lower the risk of becoming a victim of an inversion attack:
-
-* **Be a Selective Sharer:** Treat your personal information like a secret family recipe. Be selective about who you share it with, especially when filling out forms online and interacting with chatbots. Question the necessity of every piece of data that is requested of you. If you wouldn't share the information with a stranger, don't share it with a chatbot.
-* **Keep Software Updated:** Updates to front-end software, browsers, and even your operating system are [designed to keep you safe](https://www.makeuseof.com/why-software-updates-help-keep-you-safe/). While developers are busy protecting the neural networks, you can also reduce the risk of data interception by regularly applying patches and updates.
-* **Keep Personal Information Personal:** Whenever an application or chatbot requests personal details, pause and consider the intent. If the requested information seems irrelevant to the service provided, it probably is.
-
- You wouldn't provide sensitive information like health, finances, or identity to a new acquaintance just because they said they required it. Similarly, gauge what information is truly necessary for an application to function and opt out of sharing more.
-
-## Safeguarding Our Personal Information in the Age of AI
-
- Our personal information is our most valuable asset. Guarding it requires vigilance, both in how we choose to share information and in developing security measures for the services we use.
-
- Awareness of these threats and taking steps such as those outlined in this article contributes to a stronger defense against these seemingly invisible attack vectors.
-
- Let's commit to a future where our private information remains just that: private.
-
-**MUO VIDEO OF THE DAY**
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- Imagine you're at a restaurant and just tasted the best cake you've ever eaten. Back at your home, you're determined to recreate this culinary masterpiece. Instead of asking for the recipe, you rely on your taste buds and knowledge to deconstruct the dessert and whip up your own.
-
- Now, what if someone could do that with your personal information? Someone tastes the digital footprint you leave behind and reconstructs your private details.
-
- That's the essence of a neural network model inversion attack, a technique that could turn an AI chatbot into a cyber sleuthing tool.
-
-## Understanding Neural Network Model Inversion Attacks
-
- A [neural network](http://www.makeuseof.com/neural-network-vs-deep-learning-are-they-different/) is the "brain" behind modern artificial intelligence (AI). They're responsible for the impressive functionality behind voice recognition, humanized chatbots, and generative AI.
-
- Neural networks are essentially a series of algorithms designed to recognize patterns, think, and even learn like a human brain. They do so at a scale and speed that far surpasses our organic capabilities.
-
-<!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+### What Makes It Possible?
+
+ Within neural networks, each query and response is a data point. Skilled attackers deploy advanced statistical methods to analyze these data points and seek correlations and patterns imperceptible to human understanding.
+
+ Techniques such as regression analysis (examining the relationship between two variables) to predict the values of the input based on the outputs you receive.
+
+ Hackers use machine learning algorithms in their own inversion models to refine their predictions. They take the outputs from the chatbot and feed them into their algorithms to train them to approximate the inverse function of the target neural network.
+
+ In simplified terms, "inverse function" refers to how the hackers reverse the data flow from output to input. The goal of the attacker is to train their inversion models to perform the opposite task of the original neural network.
+
+ In essence, this is how they create a model that, given the output alone, tries to calculate what the input must have been.
+
+## How Inversion Attacks Can Be Used Against You
+
+![A woman caring for her sick child whilst holding a smart phone and taking notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/woman-unwell-child-smartphone.jpg)
+
+ Imagine you're using a popular online health assessment tool. You type in your symptoms, previous conditions, dietary habits, and even drug use to get some insight into your well-being.
+
+ That's [sensitive and personal information](https://www.makeuseof.com/what-is-personally-identifiable-information/).
+
+ With an inversion attack targeting the AI system you're using, a hacker might be able to take the general advice the chatbot gives you and use it to infer your private medical history. For example, a response from the chatbot might be something like this:
+
+> Antinuclear antibody (ANA) can be used to indicate the presence of autoimmune diseases such as Lupus.
+
+ The inversion model can predict that the target user was asking questions related to an autoimmune condition. With more information and more responses, the hackers can infer that the target has a serious health condition. Suddenly, the helpful online tool becomes a digital peephole into your personal health.
+
+## What Can Be Done About Inversion Attacks?
+
+ Can we [build a fort around our personal data](https://www.makeuseof.com/online-safety-habits-data-privacy/)? Well, it's complicated. Developers of neural networks can make it tougher to carry out inversion model attacks by adding layers of security and obscuring how they operate. Here are some examples of techniques employed to protect users:
+
+* **Differential Privacy:** This ensures that AI outputs are sufficiently "noisy" to mask individual data points. It's a little like whispering in a crowd—your words are lost in the collective chatter of those around you.
+* **Multi-Party Computation:** This technique is like a team working on a confidential project by sharing only the results of their individual tasks, not the sensitive details. It enables multiple systems to process data together without exposing individual user data to the network—or each other.
+* **Federated Learning:** Involves training an AI across multiple devices, all while keeping individual user's data local. It's a little like a choir singing together; you can hear every voice, but no single voice can be isolated or identified.
+
+ While these solutions are largely effective, protecting against inversion attacks is a cat-and-mouse game. As defenses improve, so do the techniques to bypass them. The responsibility, then, falls on the companies and developers that collect and store our data, but there are ways you can protect yourself.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## How to Protect Yourself Against Inversion Attacks
+
+![AI neural network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/neural-network.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Image Credit:Mike MacKenzie/[Flickr](https://www.flickr.com/photos/mikemacmarketing/42271822770/)
+
+ Relatively speaking, neural networks and AI technologies are still in their infancy. Until the systems are foolproof, the onus is on the user to be the first line of defense when [protecting your data](https://www.makeuseof.com/how-to-protect-privacy-ai/).
+
+ Here are a few tips on how to lower the risk of becoming a victim of an inversion attack:
+
+* **Be a Selective Sharer:** Treat your personal information like a secret family recipe. Be selective about who you share it with, especially when filling out forms online and interacting with chatbots. Question the necessity of every piece of data that is requested of you. If you wouldn't share the information with a stranger, don't share it with a chatbot.
+* **Keep Software Updated:** Updates to front-end software, browsers, and even your operating system are [designed to keep you safe](https://www.makeuseof.com/why-software-updates-help-keep-you-safe/). While developers are busy protecting the neural networks, you can also reduce the risk of data interception by regularly applying patches and updates.
+* **Keep Personal Information Personal:** Whenever an application or chatbot requests personal details, pause and consider the intent. If the requested information seems irrelevant to the service provided, it probably is.
+
+ You wouldn't provide sensitive information like health, finances, or identity to a new acquaintance just because they said they required it. Similarly, gauge what information is truly necessary for an application to function and opt out of sharing more.
+
+## Safeguarding Our Personal Information in the Age of AI
+
+ Our personal information is our most valuable asset. Guarding it requires vigilance, both in how we choose to share information and in developing security measures for the services we use.
+
+ Awareness of these threats and taking steps such as those outlined in this article contributes to a stronger defense against these seemingly invisible attack vectors.
+
+ Let's commit to a future where our private information remains just that: private.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Imagine you're at a restaurant and just tasted the best cake you've ever eaten. Back at your home, you're determined to recreate this culinary masterpiece. Instead of asking for the recipe, you rely on your taste buds and knowledge to deconstruct the dessert and whip up your own.
+
+ Now, what if someone could do that with your personal information? Someone tastes the digital footprint you leave behind and reconstructs your private details.
+
+ That's the essence of a neural network model inversion attack, a technique that could turn an AI chatbot into a cyber sleuthing tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Understanding Neural Network Model Inversion Attacks
+
+ A [neural network](http://www.makeuseof.com/neural-network-vs-deep-learning-are-they-different/) is the "brain" behind modern artificial intelligence (AI). They're responsible for the impressive functionality behind voice recognition, humanized chatbots, and generative AI.
+
+ Neural networks are essentially a series of algorithms designed to recognize patterns, think, and even learn like a human brain. They do so at a scale and speed that far surpasses our organic capabilities.
+
 ### AI's Book of Secrets
 
  Just like our human brain, neural networks can hide secrets. These secrets are the data its users have fed them. In a model inversion attack, a hacker uses the outputs of a neural network (like the responses from a chatbot) to [reverse-engineer](https://www.makeuseof.com/reverse-engineering-concepts/) the inputs (the information you've provided).
@@ -217,6 +225,122 @@ Image Credit:Mike MacKenzie/[Flickr](https://www.flickr.com/photos/mikemacmarket
 * **Keep Personal Information Personal:** Whenever an application or chatbot requests personal details, pause and consider the intent. If the requested information seems irrelevant to the service provided, it probably is.
 
  You wouldn't provide sensitive information like health, finances, or identity to a new acquaintance just because they said they required it. Similarly, gauge what information is truly necessary for an application to function and opt out of sharing more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Safeguarding Our Personal Information in the Age of AI
+
+ Our personal information is our most valuable asset. Guarding it requires vigilance, both in how we choose to share information and in developing security measures for the services we use.
+
+ Awareness of these threats and taking steps such as those outlined in this article contributes to a stronger defense against these seemingly invisible attack vectors.
+
+ Let's commit to a future where our private information remains just that: private.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Imagine you're at a restaurant and just tasted the best cake you've ever eaten. Back at your home, you're determined to recreate this culinary masterpiece. Instead of asking for the recipe, you rely on your taste buds and knowledge to deconstruct the dessert and whip up your own.
+
+ Now, what if someone could do that with your personal information? Someone tastes the digital footprint you leave behind and reconstructs your private details.
+
+ That's the essence of a neural network model inversion attack, a technique that could turn an AI chatbot into a cyber sleuthing tool.
+
+## Understanding Neural Network Model Inversion Attacks
+
+ A [neural network](http://www.makeuseof.com/neural-network-vs-deep-learning-are-they-different/) is the "brain" behind modern artificial intelligence (AI). They're responsible for the impressive functionality behind voice recognition, humanized chatbots, and generative AI.
+
+ Neural networks are essentially a series of algorithms designed to recognize patterns, think, and even learn like a human brain. They do so at a scale and speed that far surpasses our organic capabilities.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### AI's Book of Secrets
+
+ Just like our human brain, neural networks can hide secrets. These secrets are the data its users have fed them. In a model inversion attack, a hacker uses the outputs of a neural network (like the responses from a chatbot) to [reverse-engineer](https://www.makeuseof.com/reverse-engineering-concepts/) the inputs (the information you've provided).
+
+ To execute the attack, hackers use their own machine learning model called an "inversion model." This model is designed to be a mirror image of sorts, trained not on the original data but on the outputs generated by the target.
+
+ The purpose of this inversion model is to predict the inputs—the original, often sensitive data that you have fed into the chatbot.
+
+### Creating the Inversion Model
+
+ Creating the inversion can be thought of as reconstructing a shredded document. But instead of piecing together strips of paper, it's piecing together the story told to the target model's responses.
+
+ The inversion model learns the language of the neural network's outputs. It looks for telltale signs that, with time, reveal the nature of the inputs. With each new piece of data and each response it analyzes, it better predicts the information you provide.
+
+ This process is a constant cycle of hypothesis and testing. With enough outputs, the inversion model can accurately infer a detailed profile of you, even from the most innocuous-seeming data.
+
+ The inversion model's process is a game of connecting the dots. Each piece of data leaked through the interaction allows the model to form a profile, and with enough time, the profile it forms is unexpectedly detailed.
+
+ Eventually, insights into the user's activities, preferences, and identity are revealed. Insights that were not meant to be disclosed or made public.
+
+### What Makes It Possible?
+
+ Within neural networks, each query and response is a data point. Skilled attackers deploy advanced statistical methods to analyze these data points and seek correlations and patterns imperceptible to human understanding.
+
+ Techniques such as regression analysis (examining the relationship between two variables) to predict the values of the input based on the outputs you receive.
+
+ Hackers use machine learning algorithms in their own inversion models to refine their predictions. They take the outputs from the chatbot and feed them into their algorithms to train them to approximate the inverse function of the target neural network.
+
+ In simplified terms, "inverse function" refers to how the hackers reverse the data flow from output to input. The goal of the attacker is to train their inversion models to perform the opposite task of the original neural network.
+
+ In essence, this is how they create a model that, given the output alone, tries to calculate what the input must have been.
+
+## How Inversion Attacks Can Be Used Against You
+
+![A woman caring for her sick child whilst holding a smart phone and taking notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/woman-unwell-child-smartphone.jpg)
+
+ Imagine you're using a popular online health assessment tool. You type in your symptoms, previous conditions, dietary habits, and even drug use to get some insight into your well-being.
+
+ That's [sensitive and personal information](https://www.makeuseof.com/what-is-personally-identifiable-information/).
+
+ With an inversion attack targeting the AI system you're using, a hacker might be able to take the general advice the chatbot gives you and use it to infer your private medical history. For example, a response from the chatbot might be something like this:
+
+> Antinuclear antibody (ANA) can be used to indicate the presence of autoimmune diseases such as Lupus.
+
+ The inversion model can predict that the target user was asking questions related to an autoimmune condition. With more information and more responses, the hackers can infer that the target has a serious health condition. Suddenly, the helpful online tool becomes a digital peephole into your personal health.
+
+## What Can Be Done About Inversion Attacks?
+
+ Can we [build a fort around our personal data](https://www.makeuseof.com/online-safety-habits-data-privacy/)? Well, it's complicated. Developers of neural networks can make it tougher to carry out inversion model attacks by adding layers of security and obscuring how they operate. Here are some examples of techniques employed to protect users:
+
+* **Differential Privacy:** This ensures that AI outputs are sufficiently "noisy" to mask individual data points. It's a little like whispering in a crowd—your words are lost in the collective chatter of those around you.
+* **Multi-Party Computation:** This technique is like a team working on a confidential project by sharing only the results of their individual tasks, not the sensitive details. It enables multiple systems to process data together without exposing individual user data to the network—or each other.
+* **Federated Learning:** Involves training an AI across multiple devices, all while keeping individual user's data local. It's a little like a choir singing together; you can hear every voice, but no single voice can be isolated or identified.
+
+ While these solutions are largely effective, protecting against inversion attacks is a cat-and-mouse game. As defenses improve, so do the techniques to bypass them. The responsibility, then, falls on the companies and developers that collect and store our data, but there are ways you can protect yourself.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## How to Protect Yourself Against Inversion Attacks
+
+![AI neural network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/neural-network.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Image Credit:Mike MacKenzie/[Flickr](https://www.flickr.com/photos/mikemacmarketing/42271822770/)
+
+ Relatively speaking, neural networks and AI technologies are still in their infancy. Until the systems are foolproof, the onus is on the user to be the first line of defense when [protecting your data](https://www.makeuseof.com/how-to-protect-privacy-ai/).
+
+ Here are a few tips on how to lower the risk of becoming a victim of an inversion attack:
+
+* **Be a Selective Sharer:** Treat your personal information like a secret family recipe. Be selective about who you share it with, especially when filling out forms online and interacting with chatbots. Question the necessity of every piece of data that is requested of you. If you wouldn't share the information with a stranger, don't share it with a chatbot.
+* **Keep Software Updated:** Updates to front-end software, browsers, and even your operating system are [designed to keep you safe](https://www.makeuseof.com/why-software-updates-help-keep-you-safe/). While developers are busy protecting the neural networks, you can also reduce the risk of data interception by regularly applying patches and updates.
+* **Keep Personal Information Personal:** Whenever an application or chatbot requests personal details, pause and consider the intent. If the requested information seems irrelevant to the service provided, it probably is.
+
+ You wouldn't provide sensitive information like health, finances, or identity to a new acquaintance just because they said they required it. Similarly, gauge what information is truly necessary for an application to function and opt out of sharing more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Safeguarding Our Personal Information in the Age of AI
 
@@ -262,120 +386,8 @@ Image Credit:Mike MacKenzie/[Flickr](https://www.flickr.com/photos/mikemacmarket
 
  Eventually, insights into the user's activities, preferences, and identity are revealed. Insights that were not meant to be disclosed or made public.
 
-### What Makes It Possible?
-
- Within neural networks, each query and response is a data point. Skilled attackers deploy advanced statistical methods to analyze these data points and seek correlations and patterns imperceptible to human understanding.
-
- Techniques such as regression analysis (examining the relationship between two variables) to predict the values of the input based on the outputs you receive.
-
- Hackers use machine learning algorithms in their own inversion models to refine their predictions. They take the outputs from the chatbot and feed them into their algorithms to train them to approximate the inverse function of the target neural network.
-
- In simplified terms, "inverse function" refers to how the hackers reverse the data flow from output to input. The goal of the attacker is to train their inversion models to perform the opposite task of the original neural network.
-
- In essence, this is how they create a model that, given the output alone, tries to calculate what the input must have been.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## How Inversion Attacks Can Be Used Against You
-
-![A woman caring for her sick child whilst holding a smart phone and taking notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/woman-unwell-child-smartphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
- Imagine you're using a popular online health assessment tool. You type in your symptoms, previous conditions, dietary habits, and even drug use to get some insight into your well-being.
-
- That's [sensitive and personal information](https://www.makeuseof.com/what-is-personally-identifiable-information/).
-
- With an inversion attack targeting the AI system you're using, a hacker might be able to take the general advice the chatbot gives you and use it to infer your private medical history. For example, a response from the chatbot might be something like this:
-
-> Antinuclear antibody (ANA) can be used to indicate the presence of autoimmune diseases such as Lupus.
-
- The inversion model can predict that the target user was asking questions related to an autoimmune condition. With more information and more responses, the hackers can infer that the target has a serious health condition. Suddenly, the helpful online tool becomes a digital peephole into your personal health.
-
-## What Can Be Done About Inversion Attacks?
-
- Can we [build a fort around our personal data](https://www.makeuseof.com/online-safety-habits-data-privacy/)? Well, it's complicated. Developers of neural networks can make it tougher to carry out inversion model attacks by adding layers of security and obscuring how they operate. Here are some examples of techniques employed to protect users:
-
-* **Differential Privacy:** This ensures that AI outputs are sufficiently "noisy" to mask individual data points. It's a little like whispering in a crowd—your words are lost in the collective chatter of those around you.
-* **Multi-Party Computation:** This technique is like a team working on a confidential project by sharing only the results of their individual tasks, not the sensitive details. It enables multiple systems to process data together without exposing individual user data to the network—or each other.
-* **Federated Learning:** Involves training an AI across multiple devices, all while keeping individual user's data local. It's a little like a choir singing together; you can hear every voice, but no single voice can be isolated or identified.
-
- While these solutions are largely effective, protecting against inversion attacks is a cat-and-mouse game. As defenses improve, so do the techniques to bypass them. The responsibility, then, falls on the companies and developers that collect and store our data, but there are ways you can protect yourself.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## How to Protect Yourself Against Inversion Attacks
-
-![AI neural network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/neural-network.jpg)
-
-Image Credit:Mike MacKenzie/[Flickr](https://www.flickr.com/photos/mikemacmarketing/42271822770/)
-
- Relatively speaking, neural networks and AI technologies are still in their infancy. Until the systems are foolproof, the onus is on the user to be the first line of defense when [protecting your data](https://www.makeuseof.com/how-to-protect-privacy-ai/).
-
- Here are a few tips on how to lower the risk of becoming a victim of an inversion attack:
-
-* **Be a Selective Sharer:** Treat your personal information like a secret family recipe. Be selective about who you share it with, especially when filling out forms online and interacting with chatbots. Question the necessity of every piece of data that is requested of you. If you wouldn't share the information with a stranger, don't share it with a chatbot.
-* **Keep Software Updated:** Updates to front-end software, browsers, and even your operating system are [designed to keep you safe](https://www.makeuseof.com/why-software-updates-help-keep-you-safe/). While developers are busy protecting the neural networks, you can also reduce the risk of data interception by regularly applying patches and updates.
-* **Keep Personal Information Personal:** Whenever an application or chatbot requests personal details, pause and consider the intent. If the requested information seems irrelevant to the service provided, it probably is.
-
- You wouldn't provide sensitive information like health, finances, or identity to a new acquaintance just because they said they required it. Similarly, gauge what information is truly necessary for an application to function and opt out of sharing more.
-
-## Safeguarding Our Personal Information in the Age of AI
-
- Our personal information is our most valuable asset. Guarding it requires vigilance, both in how we choose to share information and in developing security measures for the services we use.
-
- Awareness of these threats and taking steps such as those outlined in this article contributes to a stronger defense against these seemingly invisible attack vectors.
-
- Let's commit to a future where our private information remains just that: private.
-
-**MUO VIDEO OF THE DAY**
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- Imagine you're at a restaurant and just tasted the best cake you've ever eaten. Back at your home, you're determined to recreate this culinary masterpiece. Instead of asking for the recipe, you rely on your taste buds and knowledge to deconstruct the dessert and whip up your own.
-
- Now, what if someone could do that with your personal information? Someone tastes the digital footprint you leave behind and reconstructs your private details.
-
- That's the essence of a neural network model inversion attack, a technique that could turn an AI chatbot into a cyber sleuthing tool.
-
-## Understanding Neural Network Model Inversion Attacks
-
- A [neural network](http://www.makeuseof.com/neural-network-vs-deep-learning-are-they-different/) is the "brain" behind modern artificial intelligence (AI). They're responsible for the impressive functionality behind voice recognition, humanized chatbots, and generative AI.
-
- Neural networks are essentially a series of algorithms designed to recognize patterns, think, and even learn like a human brain. They do so at a scale and speed that far surpasses our organic capabilities.
-
-### AI's Book of Secrets
-
- Just like our human brain, neural networks can hide secrets. These secrets are the data its users have fed them. In a model inversion attack, a hacker uses the outputs of a neural network (like the responses from a chatbot) to [reverse-engineer](https://www.makeuseof.com/reverse-engineering-concepts/) the inputs (the information you've provided).
-
- To execute the attack, hackers use their own machine learning model called an "inversion model." This model is designed to be a mirror image of sorts, trained not on the original data but on the outputs generated by the target.
-
- The purpose of this inversion model is to predict the inputs—the original, often sensitive data that you have fed into the chatbot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Creating the Inversion Model
-
- Creating the inversion can be thought of as reconstructing a shredded document. But instead of piecing together strips of paper, it's piecing together the story told to the target model's responses.
-
- The inversion model learns the language of the neural network's outputs. It looks for telltale signs that, with time, reveal the nature of the inputs. With each new piece of data and each response it analyzes, it better predicts the information you provide.
-
- This process is a constant cycle of hypothesis and testing. With enough outputs, the inversion model can accurately infer a detailed profile of you, even from the most innocuous-seeming data.
-
- The inversion model's process is a game of connecting the dots. Each piece of data leaked through the interaction allows the model to form a profile, and with enough time, the profile it forms is unexpectedly detailed.
-
- Eventually, insights into the user's activities, preferences, and identity are revealed. Insights that were not meant to be disclosed or made public.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What Makes It Possible?
@@ -393,10 +405,6 @@ Image Credit:Mike MacKenzie/[Flickr](https://www.flickr.com/photos/mikemacmarket
 ## How Inversion Attacks Can Be Used Against You
 
 ![A woman caring for her sick child whilst holding a smart phone and taking notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/woman-unwell-child-smartphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Imagine you're using a popular online health assessment tool. You type in your symptoms, previous conditions, dietary habits, and even drug use to get some insight into your well-being.
 
@@ -422,10 +430,6 @@ Image Credit:Mike MacKenzie/[Flickr](https://www.flickr.com/photos/mikemacmarket
 
 ![AI neural network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/neural-network.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Image Credit:Mike MacKenzie/[Flickr](https://www.flickr.com/photos/mikemacmarketing/42271822770/)
 
  Relatively speaking, neural networks and AI technologies are still in their infancy. Until the systems are foolproof, the onus is on the user to be the first line of defense when [protecting your data](https://www.makeuseof.com/how-to-protect-privacy-ai/).
@@ -437,10 +441,6 @@ Image Credit:Mike MacKenzie/[Flickr](https://www.flickr.com/photos/mikemacmarket
 * **Keep Personal Information Personal:** Whenever an application or chatbot requests personal details, pause and consider the intent. If the requested information seems irrelevant to the service provided, it probably is.
 
  You wouldn't provide sensitive information like health, finances, or identity to a new acquaintance just because they said they required it. Similarly, gauge what information is truly necessary for an application to function and opt out of sharing more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Safeguarding Our Personal Information in the Age of AI
 
@@ -465,20 +465,24 @@ Image Credit:Mike MacKenzie/[Flickr](https://www.flickr.com/photos/mikemacmarket
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-elite-fleet-10-aerial-visionaries-dream-choices/"><u>[New] 2024 Approved Elite Fleet #10 Aerial Visionaries' Dream Choices</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-from-frames-to-frequencies-transforming-instagram-videos/"><u>[New] 2024 Approved From Frames to Frequencies Transforming Instagram Videos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-creative-edge-filmmakers-blueprint-for-captivating-anime-subscribers-filmora/"><u>[New] 2024 Approved The Creative Edge Filmmaker's Blueprint for Captivating Anime Subscribers (Filmora)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/avory-streamers-the-creme-de-la-cuisine/"><u>[New] Savory Streamers The Crème De La Cuisine</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/acid-pro-critique-and-comparable-software/"><u>ACID Pro Critique and Comparable Software</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/caixuns-affordable-75-inch-android-tv-ultra-hd-experience-without-breaking-the-bank-according-to-our-review/"><u>Caixun's Affordable 75-Inch Android TV: Ultra HD Experience Without Breaking the Bank, According to Our Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-be-used-in-malware-creation/"><u>Can ChatGPT Be Used in Malware Creation?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgptvisionexplored-unveiling-the-most-effective-uses-of-visual-ai/"><u>ChaTgPtVisionExplored: Unveiling the Most Effective Uses of Visual AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversational-cars-mercedes-benz-meshes-chatgpt-and-voice-control/"><u>Conversational Cars: Mercedes-Benz Meshes ChatGPT & Voice Control</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-edge-ai-engines-revolutionizing-internet-information-access/"><u>Cutting-Edge AI Engines Revolutionizing Internet Information Access</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-apples-strategic-move-towards-an-ai-enhanced-future-with-newest-buyout-implications-for-the-next-generation-of-iphones-insights/"><u>Exploring Apple's Strategic Move Towards an AI-Enhanced Future with Newest Buyout: Implications for the Next Generation of iPhones - Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamline-your-workflow-with-these-top-file-analysis-tools/"><u>Streamline Your Workflow with These Top File Analysis Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essential-guide-to-altering-nat-settings-on-modern-windows-systems/"><u>The Essential Guide to Altering NAT Settings on Modern Windows Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-airtag-gadgets-and-peripherals-comprehensive-2024-reviews-by-tech-experts/"><u>Top-Rated AirTag Gadgets & Peripherals - Comprehensive 2024 Reviews by Tech Experts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-resolve-issues-with-non-functional-thaumaturge-feature/"><u>Troubleshooting Guide: How to Resolve Issues with Non-Functional Thaumaturge Feature</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-top-5-chrome-plug-ins-for-effortless-facebook-video-downloads/"><u>[New] 2024 Approved Top 5 Chrome Plug-Ins for Effortless Facebook Video Downloads</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-unlocking-the-potential-of-bandicam-your-ultimate-guide/"><u>[New] In 2024, Unlocking the Potential of Bandicam – Your Ultimate Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-reasons-behind-missing-video-on-sony-a6400/"><u>[New] Reasons Behind Missing Video on Sony A6400</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unleash-creative-power-instagrams-top-10-grid-makers-for-2024/"><u>[Updated] Unleash Creative Power Instagram's Top 10 Grid Makers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-assisted-recruitment-discover-the-best-10-ways-to-utilize-gpt-on-linkedin-jobsites/"><u>AI Assisted Recruitment: Discover the Best 10 Ways to Utilize GPT on LinkedIn Jobsites</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/binggpt-crypto-fraud-alerts-detecting-illegitimate-tokens/"><u>BingGPT Crypto Fraud Alerts: Detecting Illegitimate Tokens</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-gap-between-imagination-and-reality-for-dandd-characters/"><u>Bridging Gap Between Imagination and Reality for D&D Characters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-8-chatgpt-tactics-to-cut-down-on-screen-time-distractions/"><u>Essential 8 ChatGPT Tactics to Cut Down on Screen Time Distractions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-transforming-mundane-into-masterpieces-with-canva-for-2024/"><u>Expert Tips Transforming Mundane Into Masterpieces with Canva for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-compreenas-guide-for-efficient-pip-integration-in-edge-browser/"><u>In 2024, A Compreenas Guide for Efficient PIP Integration in Edge Browser</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/innovative-education-networking-event/"><u>Innovative Education Networking Event</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-creativity-anthropics-new-ai-tools/"><u>Mastering Creativity: Anthropic's New AI Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-connection-issues-a-step-by-step-guide-to-repair-your-outlook/"><u>Resolving Connection Issues: A Step-by-Step Guide to Repair Your Outlook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/running-windows-11-on-your-m1-mac-with-parallels-desktop-18-a-practical-guide/"><u>Running Windows 11 on Your M1 Mac with Parallels Desktop 18 - A Practical Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-must-try-artificial-intelligence-narrative-creators/"><u>Top 4 Must-Try Artificial Intelligence Narrative Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transition-from-apples-finewoven-to-high-quality-beats-leather-and-fabric-cases-exclusive-insights-by-zdnet/"><u>Transition From Apple's FineWoven to High-Quality Beats Leather & Fabric Cases | Exclusive Insights by ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-value-metas-latest-offer-on-the-512gb-quest-3-top-virtual-reality-bargain-at-moment/"><u>Unbeatable Value: Meta's Latest Offer on the 512GB Quest 3 - Top Virtual Reality Bargain at Moment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-locked-away-gpt-history/"><u>Unlocking Locked-Away GPT History</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-quintupled-impact-ai-in-criminal-computing/"><u>Unraveling the Quintupled Impact: AI in Criminal Computing</u></a></li>
 </ul></div>
 

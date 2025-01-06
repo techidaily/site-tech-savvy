@@ -1,7 +1,7 @@
 ---
 title: Privacy Protocols in AI Dialogues
-date: 2024-12-21T16:14:53.640Z
-updated: 2024-12-27T20:48:19.959Z
+date: 2025-01-01T04:39:49.450Z
+updated: 2025-01-06T09:18:58.018Z
 tags:
   - chatgpt
   - open-ai
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ![A conversation with ChatGPT in which it says OpenAI keeps some personal data.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-issues-does-openai-keep-private-data.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [ChatGPT’s privacy policy](https://openai.com/policies/privacy-policy) tells us almost everything we need to know about its data retention habits. It gathers its information from three sources:
 
 * Account information that you enter when you sign up or pay for a premium plan.
@@ -52,18 +48,26 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
  If you email the company or reach out to its customer support, it records your name, email address, and the content of your message. Similarly, it records your social media contact details and any personal information you share if you leave a comment on its social pages.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Your Device Information
 
  ChatGPT's service garners some personal information automatically from your device and browser. This includes your IP address, location, browser type, and the date and time that you start using ChatGPT as well as the length of your session. ChatGPT also retrieves your device’s name and operating system.
 
  OpenAI [uses cookies to track your browsing activity](https://www.makeuseof.com/a-beginners-guide-to-cookies/) both in the chat window and on its site. It claims to use this information for analytics and to find out exactly how you interact with ChatGPT.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Information That You Put Into the Chat
 
 ![A conversation with ChatGPT in which it says OpenAI stores the text of conversations.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-issues-does-it-keep-logs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT records and stores transcripts of your conversations. This means any information you put into the chat, including personal information, is logged. It’s easy to fall into the trap of accidentally giving ChatGPT your private details without realizing it until it’s too late, especially if you use it to proofread personal or professional documents.
@@ -73,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
  The privacy policy states that if you intend to enter personal data into the chat, you need to provide the people involved with adequate privacy notices. You also need to obtain their consent, and be able to show OpenAI that you are processing this data within the law. Further, if you’re entering information defined as private [according to GDPR](https://www.makeuseof.com/what-is-gdpr/), you must contact OpenAI to execute its Data Processing Addendum.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does ChatGPT Record Your Conversations?
@@ -86,16 +90,12 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
  In an [OpenAI announcement](https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt) made at the time, it was stated that, when chat history is disabled, the company only retains conversations for 30 days. After 30 days, the conversations are deleted permanently. Conversations are only reviewed when they need to be monitored for abuse and inappropriate behavior.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Who Can See My ChatGPT Data?
 
 ![A conversation with ChatGPT in which it admits AI trainers can see our logs.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-issues-who-can-see-our-conversations-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Your personal information is available to a surprising number of people and entities. In its privacy policy, OpenAI states that it shares this data with:
@@ -153,19 +153,18 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-bridging-twitter-and-fb-with-shared-vids/"><u>[Updated] In 2024, Bridging Twitter and FB with Shared Vids</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unlock-the-power-of-fb-conversation-capture-tools/"><u>[Updated] In 2024, Unlock the Power of FB Conversation Capture Tools</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-initiating-engagement-start-your-live-on-instagram/"><u>[Updated] Initiating Engagement Start Your Live on Instagram</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-which-should-you-choose/"><u>8 - Which Should You Choose?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/t-friendly-methods-for-youtube-card-creation/"><u>Budget-Friendly Methods for YouTube Card Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-everyday-life-benefits-from-ais-progression/"><u>How Everyday Life Benefits From AI's Progression</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-print-driver-update-and-download-instructions-for-windows-11-users/"><u>HP Print Driver Update & Download Instructions for Windows 11 Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-21-edition-breakdown-analyzing-the-revolution-in-vegas-pro-gaming/"><u>In 2024, '21 Edition Breakdown – Analyzing the Revolution in Vegas Pro Gaming</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prime-platforms-3d-models-in-animation/"><u>In 2024, Prime Platforms 3D Models in Animation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/incredible-virtual-films-to-explore-for-2024/"><u>Incredible Virtual Films to Explore for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/parental-guide-to-understanding-ai-futures/"><u>Parental Guide to Understanding AI Futures</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revamping-cars-with-conversational-ai-a-step-by-step-plan/"><u>Revamping Cars with Conversational AI: A Step-by-Step Plan</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sync-your-oura-fitness-insights-with-strava-a-step-by-step-guide-techadvisor/"><u>Sync Your Oura Fitness Insights with Strava: A Step-by-Step Guide | TechAdvisor</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/wide-top-earners-in-the-streaming-sphere/"><u>Worldwide Top Earners in the Streaming Sphere</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-viral-video-explosion-twitters-hot-tiktoks-listed/"><u>[New] 2024 Approved Viral Video Explosion Twitter’s Hot TikToks Listed</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-instagram-and-soundtracks-demystifying-legalities/"><u>[New] In 2024, Instagram & Soundtracks Demystifying Legalities</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-10-outstanding-windows-10-video-capture-solutions-for-2024/"><u>[Updated] 10 Outstanding Windows 10 Video Capture Solutions for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ideal-tools-for-creating-animation-with-models/"><u>[Updated] 2024 Approved Ideal Tools for Creating Animation with Models</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-iphone-screen-capture-with-simplicity/"><u>[Updated] 2024 Approved Mastering iPhone Screen Capture with Simplicity</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-best-video-changer-tools-reviewed-8-of-the-best-for-iphones-and-pcs-for-2024/"><u>[Updated] Best Video Changer Tools Reviewed 8 of the Best for iPhones and PCs for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/agentgpt-deployment-made-a-breeze-for-browser-users/"><u>AgentGPT Deployment Made a Breeze for Browser Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialoguehaltedgpt-seeking-subscription-revival/"><u>DialogueHaltedGPT: Seeking Subscription Revival</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/foremost-ai-solutions-transforming-web-search-experience/"><u>Foremost AI Solutions Transforming Web Search Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insights-into-the-unique-benefits-of-business-focused-gpt/"><u>Insights Into the Unique Benefits of Business-Focused GPT</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-the-art-of-print-preparation-with-photoshop/"><u>Mastering the Art of Print Preparation with Photoshop</u></a></li>
+<li><a href="https://app-tips.techidaily.com/on-the-go-image-and-document-producer-your-iphone-printer-solution/"><u>On-the-Go Image and Document Producer: Your iPhone Printer Solution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-head-produced-by-a-centrifugal-pump-decreases-as-flow-rate-increases-beyond-the-bep-due-to-increased-hydraulic-losses-and-reduced-efficiency/"><u>The Head Produced by a Centrifugal Pump Decreases as Flow Rate Increases Beyond the BEP Due to Increased Hydraulic Losses and Reduced Efficiency.</u></a></li>
 </ul></div>
 

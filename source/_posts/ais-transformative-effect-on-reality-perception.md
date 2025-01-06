@@ -1,7 +1,7 @@
 ---
 title: AI's Transformative Effect on Reality Perception
-date: 2024-12-20T22:15:45.573Z
-updated: 2024-12-27T17:02:51.726Z
+date: 2025-01-01T19:02:14.153Z
+updated: 2025-01-06T10:35:37.815Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,13 @@ thumbnail: https://thmb.techidaily.com/e108c80fe0ffda075f564c0d5802af9b2462fc3f4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Some Treat AI-Generated Personas as Real People
 
 ![AI-Generated Virtual Girlfriend With Asian Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-girl-virtual-gf.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  AI virtual girlfriend/boyfriend apps are becoming more realistic than ever. They simulate romantic relationships through AI-generated personas, which users can customize to their preferences. Some prefer human-like characters with intricate features, while others replicate fictional characters.
 
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/e108c80fe0ffda075f564c0d5802af9b2462fc3f4
  That said, [treating AI chatbots like therapists is dangerous](https://www.makeuseof.com/dangers-using-ai-free-therapist-psychiatrist/). AI can’t empathize with you or understand your situation—it uses NLP to comprehend input and presents the corresponding output based on its datasets. Please see a licensed therapist or psychiatrist if you need mental health advice.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Users Imitate Voices Through Speech Synthesis
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/e108c80fe0ffda075f564c0d5802af9b2462fc3f4
  But don’t underestimate the [security risks of AI voice generators](https://www.makeuseof.com/ai-voice-generators-security-threat/)—crooks are exploiting these tools to spread misinformation and execute social engineering attacks. Even tech-savvy individuals could fall for AI-synthesized voices if they’re careless.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Image and Video Generation Tools Create Entirely New Identities
@@ -73,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/e108c80fe0ffda075f564c0d5802af9b2462fc3f4
  While creating realistic avatars brings society much closer to the metaverse, it also helps scammers perform more sophisticated attacks. They create fake personas for identity theft and [online dating scams](https://www.makeuseof.com/tag/spot-avoid-online-dating-scammer/). And when crooks combine these advanced technologies with psychological manipulation, they deceive a broader range of victims.
 
  What’s worse is that some victims fall into the delusion that they can form genuine connections with AI personas. The desire for companionship gets the best of them. They choose to overlook the fact that the strangers operating these personas couldn’t care less about them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. AI Content Floods SERPs
 
@@ -94,12 +90,16 @@ thumbnail: https://thmb.techidaily.com/e108c80fe0ffda075f564c0d5802af9b2462fc3f4
 
  But not everyone’s as honest as them. Crooks exploit deepfake videos to spread misleading, damaging, and sexually suggestive content. They can manufacture almost any clip with the necessary editing skills and tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Immersive VR/AR Experience Distorts Your Senses
 
 ![Person Scrolling Nonstop on Phone While in Bed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-in-bed-scrolling-phone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  AI models enable [virtual reality (VR) and augmented reality (AR)](https://www.makeuseof.com/tag/augmented-vs-virtual-reality-whats-difference/) technologies to provide a more immersive experience. Their hyper-realistic output thoroughly stimulates the senses. And as high-end VR/AR devices develop, their standard auditory, visual, and haptic cues will also improve.
@@ -143,19 +143,24 @@ thumbnail: https://thmb.techidaily.com/e108c80fe0ffda075f564c0d5802af9b2462fc3f4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-how-burst-mode-enhances-gopro-videos/"><u>[New] In 2024, How Burst Mode Enhances GoPro Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-streamline-your-screens-the-essential-online-record-guide/"><u>[New] Streamline Your Screens The Essential Online Record Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-get-screenshotted-right-best-5-apps-for-chromebook-users-for-2024/"><u>[Updated] Get Screenshotted Right Best 5 Apps for Chromebook Users for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-exclusive-lodging-welcomes-apple-airplay-enhance-your-stay-with-hygienic-media-control/"><u>1. Exclusive Lodging Welcomes Apple AirPlay: Enhance Your Stay with Hygienic Media Control</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-nlps-innovations-bert-vs-gpt-analysis/"><u>Dissecting NLP's Innovations: BERT vs GPT Analysis</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/exclusive-macxdvd-discounts-save-up-to-58-off-for-affiliate-partners/"><u>Exclusive MacXDVD Discounts: Save Up to 58% Off for Affiliate Partners!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-buzz-around-apples-upcoming-ar-spectacles-and-economical-vision-devices-what-we-know-so-far-innovatetech/"><u>Exploring the Buzz Around Apple's Upcoming AR Spectacles & Economical Vision Devices – What We Know So Far | InnovateTech</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-xiaomi-civi-3-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Xiaomi Civi 3 Phone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlining-connectivity-addressing-errors-between-chatgpt-and-plugins/"><u>Streamlining Connectivity: Addressing Errors Between ChatGPT & Plugins</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-how-to-prevent-and-fix-modern-warfare-2-crashes-on-windows/"><u>Ultimate Guide: How to Prevent and Fix Modern Warfare 2 Crashes on Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-list-of-2024s-finest-magsafe-wallets-in-depth-analysis-and-expert-opinions/"><u>Ultimate List of 2024'S Finest MagSafe Wallets: In-Depth Analysis and Expert Opinions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-dialogue-with-chatgpt-now/"><u>Unleash Dialogue with ChatGPT Now</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-power-of-wrist-technology-understanding-smartwatches-and-their-functions/"><u>Unveiling the Power of Wrist Technology: Understanding Smartwatches & Their Functions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-for-stress-management-smart-ways-to-achieve-calmness/"><u>Utilizing ChatGPT for Stress Management: Smart Ways to Achieve Calmness</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-decoding-the-art-of-snaps-a-complete-guide-to-filters/"><u>[Updated] 2024 Approved Decoding the Art of Snaps A Complete Guide to Filters</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-unveiling-top-rated-video-recorders-for-windows/"><u>[Updated] 2024 Approved Unveiling Top-Rated Video Recorders for Windows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-fastest-time-lapse-capturing-system-5-for-2024/"><u>[Updated] Fastest Time-Lapse Capturing System #5 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-approach-to-hdr-portraiture-excellence/"><u>[Updated] Innovative Approach to HDR Portraiture Excellence</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-tailor-made-youtube-url-strategies-an-easier-approach/"><u>[Updated] Tailor-Made YouTube URL Strategies An Easier Approach</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-understanding-youtube-lives-image-language/"><u>2024 Approved Understanding YouTube Live's Image Language</u></a></li>
+<li><a href="https://article-files.techidaily.com/a-closer-look-at-stale-vr-landscapes-what-changes-in-2024/"><u>A Closer Look at Stale VR Landscapes What Changes, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-engineers-secure-operating-system-for-advanced-ai-servers-at-data-centers-insights-revealed/"><u>Apple Engineers Secure Operating System for Advanced AI Servers at Data Centers | Insights Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-chatgpts-corporate-use-cases/"><u>Comparing ChatGPT's Corporate Use Cases</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-compelling-thumbnails-for-your-youtube-content/"><u>Crafting Compelling Thumbnails for Your YouTube Content</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fingerprint-sensor-showdown-unveiling-the-differences-between-ultrasonic-and-optical-technologies/"><u>Fingerprint Sensor Showdown: Unveiling the Differences Between Ultrasonic and Optical Technologies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-your-drone-footage-with-advanced-techniques/"><u>In 2024, Streamlining Your Drone Footage with Advanced Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-anthropics-comprehensible-ai-stores/"><u>Introducing Anthropic's Comprehensible AI Stores</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/purchase-these-three-newly-unveiled-apple-innovations-at-wwdc-available-immediately-find-out-how-on-zdnet/"><u>Purchase These Three Newly Unveiled Apple Innovations at WWDC, Available Immediately - Find Out How on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-employment-with-generative-ai/"><u>Reimagining Employment with Generative AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-major-oversight-in-new-ipad-rollout-and-apples-path-to-remediation/"><u>The Major Oversight in New iPad Rollout and Apple's Path to Remediation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-smartphone-picks-the-devices-chosen-by-experts-at-zdnet/"><u>Top Smartphone Picks: The Devices Chosen by Experts at ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-tablet-reviews-insider-comparisons-and-verdicts/"><u>Top-Rated Tablet Reviews - Insider Comparisons & Verdicts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-integrating-chatgpt-with-add-ons/"><u>Unleashing Potential: Integrating ChatGPT with Add-Ons</u></a></li>
 </ul></div>
 

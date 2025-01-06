@@ -1,7 +1,7 @@
 ---
 title: "Bypassing Bots: The Dangerous Gap"
-date: 2024-12-20T21:11:53.178Z
-updated: 2024-12-27T19:43:01.349Z
+date: 2025-01-04T19:37:56.894Z
+updated: 2025-01-05T18:00:43.792Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do AI Content Detectors Work?
@@ -45,7 +45,7 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
 ![Writer.com's AI content detector, screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-detector-writer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So, writer.com has got it wrong.
@@ -57,7 +57,7 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
  But it's not just educators and teachers who have reason for concern: everyone does. As AI-generated text becomes ubiquitous, being able to differentiate between what's "real" and what isn't, [i.e. actually spotting when something's written by AI](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/), will become more difficult. This will have a massive impact on virtually all industries and areas of society, even personal relationships.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI's Implications for Cybersecurity and Privacy
@@ -75,7 +75,7 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
  If there is indeed an arms race between generative AI and content detectors, the former is winning. What's worse, there seems to be no solution. All we have our half-baked products that don't even work half the time, or can be tricked very easily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Detect AI Content: Potential Solutions
@@ -89,7 +89,7 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
  For the time being, what a regular person can do is rely on their instincts and common sense. If there is something off about the content you're reading—if it feels unnatural, repetitive, unimaginative, banal—it might have been created by software. Of course, you should also verify any information you see online, double-check the source, and stay away from shady websites.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI Revolution Is Underway
@@ -115,18 +115,22 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/eciphering-user-insights-in-youtube-comments-for-2024/"><u>[New] Deciphering User Insights in YouTube Comments for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-best-10-vector-stock-pools/"><u>[New] Navigating the Best 10 Vector Stock Pools</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-amplify-sales-discover-the-leading-15-facebook-monitoring-tools/"><u>[Updated] In 2024, Amplify Sales Discover the Leading 15 Facebook Monitoring Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-ultimate-recording-gear-for-social-media-stars/"><u>[Updated] Ultimate Recording Gear for Social Media Stars</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-ultimate-guide-boosting-efficiency-with-key-productivity-apps-and-techniques-zdnet-insights/"><u>1. Ultimate Guide: Boosting Efficiency with Key Productivity Apps & Techniques - ZDNet Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-perform-a-successful-firmware-update-on-your-apple-studio-monitor-tips-and-tricks/"><u>How to Perform a Successful Firmware Update on Your Apple Studio Monitor - Tips & Tricks</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-craft-your-vision-essential-windows-10-tips-for-future-directors/"><u>In 2024, Craft Your Vision Essential Windows 10 Tips for Future Directors</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-innovative-methods-for-straightforward-ios-screenshots/"><u>In 2024, Innovative Methods for Straightforward IOS Screenshots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leap-into-global-chatgpt-utility-anytime-anywhere/"><u>Leap Into Global ChatGPT Utility, Anytime Anywhere</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-double-edged-sword-of-generative-ai/"><u>The Double-Edged Sword of Generative AI</u></a></li>
-<li><a href="https://article-helps.techidaily.com/top-ranked-text-enhancers-for-after-effects/"><u>Top-Ranked Text Enhancers for After Effects</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-ai-hallucination-and-how-do-you-spot-it/"><u>What Is AI Hallucination, and How Do You Spot It?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-ultimate-iphoneipad-video-and-image-archive/"><u>[New] 2024 Approved The Ultimate iPhone/iPad Video & Image Archive</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aximizing-video-impact-a-comprehensive-guide-to-youtube-popularity-for-2024/"><u>[New] Maximizing Video Impact A Comprehensive Guide to YouTube Popularity for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-no-software-required-youtube-file-retrieval/"><u>[Updated] In 2024, No Software Required YouTube File Retrieval</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-review-the-full-picture-of-facetunes-new-features/"><u>[Updated] In-Depth Review The Full Picture of Facetune's New Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-smartwatch-google-pixel-vs-apple-watch-series-8-a-comprehensive-review/"><u>Choosing the Right Smartwatch: Google Pixel Vs. Apple Watch Series 8 – A Comprehensive Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cleared-twitter-of-checkmarks-linuss-revelations-trojan-analysis-and-ai-shortcom-writes/"><u>Cleared Twitter of Checkmarks, Linus’s Revelations, Trojan Analysis, & AI Shortcom Writes.</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-ai-driven-nvidias-dlss-35-features/"><u>Deciphering AI-Driven Nvidia's DLSS 3.5 Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/macbook-showdown-unraveling-the-differences-between-macbook-air-and-macbook-pro-to-help-you-make-an-informed-decision/"><u>MacBook Showdown: Unraveling the Differences Between MacBook Air & MacBook Pro to Help You Make an Informed Decision</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-iphone-storage-a-step-by-step-guide-to-clearing-clutter-and-gaining-space/"><u>Maximize Your iPhone Storage: A Step-by-Step Guide to Clearing Clutter & Gaining Space</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-training-sessions-leading-7-gpt-additions/"><u>Optimize Training Sessions: Leading 7 GPT Additions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-power-of-language-ai-palm-2-and-gpt-4-faceoff/"><u>The Power of Language AI: PaLM 2 and GPT-4 Faceoff</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tips-for-restoring-fuzzy-cctv-videos/"><u>Tips for Restoring Fuzzy CCTV Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-mac-vpn-services-comprehensive-expert-reviews-and-comparisons-zdnet/"><u>Top Rated Mac VPN Services: Comprehensive Expert Reviews & Comparisons - ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/toshiba-multifunction-printer-driver-software-for-windows-operating-systems/"><u>Toshiba Multifunction Printer Driver Software for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-reason-behind-google-pixel-6s-extended-charge-duration/"><u>Understanding the Reason Behind Google Pixel 6'S Extended Charge Duration</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-color-perfection-in-final-cut-pro-2023-tips-and-techniques/"><u>Updated In 2024, Color Perfection in Final Cut Pro 2023 Tips and Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-picks-the-most-durable-and-stylish-ipad-air-cases-of-2e24-expert-verified/"><u>ZDNet's Picks: The Most Durable and Stylish iPad Air Cases of 2E24 | Expert Verified</u></a></li>
 </ul></div>
 

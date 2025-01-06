@@ -1,7 +1,7 @@
 ---
 title: "Top Places to Preorder iPad Pro, iPad Air & New Apple Pencil Pro: Exclusive Current Offers"
-date: 2024-12-21T17:43:28.216Z
-updated: 2024-12-27T20:21:44.695Z
+date: 2025-01-02T16:31:49.187Z
+updated: 2025-01-05T16:26:29.026Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ You can order all these new iPad models and accessories right now and get them a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPad Air (6th generation)
@@ -39,7 +39,7 @@ For the first time, Apple's lightest iPad model comes in two different sizes: 11
 [PREORDER NOW Apple The iPad Air comes in Space Gray, Blue, Purple, and Starlight. Prices range from $599 for 128GB all the way to $1,299 for 1TB. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Amazon You can preorder both sizes of the new iPad Air model on Amazon. Plus, if you apply and get approved for a Prime Visa, you can receive $100 off the 11-inch model. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J5VFYQ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2075f026-23d9-4bad-b986-b61bf0d6acc6%7Cdtp&dtb=1)[PREORDER NOW Best Buy When you buy either size of the new iPad Air at Best Buy, you can save up to $310 on your new tablet by trading in a similar device. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-11-inch-ipad-air-latest-model-m2-chip-wi-fi-128gb-blue%2F6533554.p%3FskuId%3D6533554&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Adorama The 11-inch and 13-inch iPad Air models are available for preorder on Adorama's website. View at Adorama](https://adorama.rfvk.net/c/159047/51926/1036?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.adorama.com%2Facipa11.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPad Pro (7th generation)
@@ -55,7 +55,7 @@ The new iPad Pro also features an Ultra Retina XDR screen, which Apple called "t
 [PREORDER NOW Apple You can purchase both iPad Pro models on Apple's website in either Silver or Space Black. Storage options range from 256GB to 2TB. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Amazon Preorder both sizes of the iPad Pro on Amazon to receive them by May 15\. You can even add an optional 2- or 4-year protection plan with your purchase. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6L2ZC%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2075f026-23d9-4bad-b986-b61bf0d6acc6%7Cdtp&dtb=1)[PREORDER NOW Best Buy If you preorder the new iPad Pro at Best Buy, you can save up to $600 on your new tablet by trading in a similar device. In addition, you can save an extra $50 with a My Best Buy membership. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-11-inch-ipad-pro-latest-model-m4-chip-wi-fi-256gb-with-oled-space-black%2F5495362.p%3FskuId%3D5495362&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Adorama Preorder the 11-inch and 13-inch iPad Pro M4 models on Adorama's website to get them when they release May 15. View at Adorama](https://adorama.rfvk.net/c/159047/51926/1036?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.adorama.com%2Facipp11.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Magic Keyboard
@@ -67,7 +67,7 @@ There's an all-new Magic Keyboard to go with the new iPad Pro models. It is thin
 [PREORDER NOW Apple The new Apple Magic Keyboard is compatible with the iPad Pro M4 models. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWR43LL%2FA%2Fmagic-keyboard-for-ipad-pro-13%25E2%2580%2591inch-m4-us-english-white&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Both sizes of the new Magic Keyboard are available to preorder on Best Buy's website. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-magic-keyboard-for-ipad-pro-13inch-m4-black%2F6535089.p%3FskuId%3D6535089&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Adorama You can preorder the new Apple Magic Keyboard that is compatible with both the new iPad Air and the new iPad Pro models. View at Adorama](https://adorama.rfvk.net/c/159047/51926/1036?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.adorama.com%2Facmkipp.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Pencil Pro
@@ -110,19 +110,17 @@ Finally, Apple announced a third-generation Apple Pencil that it's dubbing the A
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-highest-rated-video-call-software-not-zoom-for-pcs-and-phones-for-2024/"><u>[New] Highest-Rated Video Call Software (Not Zoom) for PCs & Phones for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-navigating-the-economic-landscape-of-short-video-royalties/"><u>[Updated] 2024 Approved Navigating the Economic Landscape of Short Video Royalties</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-freedomframe-studios-the-future-of-free-game-snapshots-for-2024/"><u>[Updated] FreedomFrame Studios The Future of Free Game Snapshots for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-effortlessly-convert-youtube-audio-top-4-low-cost-apps/"><u>[Updated] In 2024, Effortlessly Convert YouTube Audio - Top 4 Low-Cost Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-apple-unveils-vision-pro-the-new-era-of-ultimate-digital-entertainment-explore/"><u>1. Apple Unveils Vision Pro: The New Era of Ultimate Digital Entertainment - Explore</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-the-new-norm-earnings-in-vlogging/"><u>2024 Approved Navigating the New Norm Earnings in Vlogging</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversational-conjurer-chatbot-aides-in-your-quest-for-the-perfect-dungeon/"><u>Conversational Conjurer: Chatbot Aides in Your Quest for the Perfect Dungeon</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/increase-video-playback-speed-on-instagram-for-2024/"><u>Increase Video Playback Speed on Instagram for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/masterful-notetaking-strategies-using-gpt-technology/"><u>Masterful Notetaking Strategies Using GPT Technology</u></a></li>
-<li><a href="https://extra-information.techidaily.com/step-by-step-process-for-acquiring-moviemaker-6-on-pcs/"><u>Step-by-Step Process for Acquiring Moviemaker 6 on PCs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-major-oversight-in-new-ipad-rollout-and-apples-path-to-remediation-zdnet/"><u>The Major Oversight in New iPad Rollout and Apple's Path to Remediation | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-amazon-discounts-available-in-september-2024-find-the-hottest-offers-on-zdnet/"><u>Top Amazon Discounts Available in September 2024 - Find the Hottest Offers on ZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-when-far-cry-n6-fails-to-load-on-windows-computers/"><u>Troubleshooting Steps for When Far Cry N6 Fails to Load on Windows Computers</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-f14-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy F14 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-hero5-black-vs-yis-new-tech-action-cam-showdown-update/"><u>[New] In 2024, Hero5 Black Vs. Yi's New Tech Action Cam Showdown Update</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-pioneering-eco-friendly-visual-effects-aids/"><u>[New] Pioneering Eco-Friendly Visual Effects Aids</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-become-a-snapchat-pro-securing-and-sharing-screen-videos/"><u>[Updated] 2024 Approved Become a Snapchat Pro Securing & Sharing Screen Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-hp-notebook-efficient-screen-capture-strategies/"><u>[Updated] HP Notebook Efficient Screen Capture Strategies</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-syncopating-stories-a-how-to-for-music-on-instagram-for-2024/"><u>[Updated] Syncopating Stories A How-To for Music on Instagram for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-why-are-instavids-tilted-upside-down-for-2024/"><u>[Updated] Why Are InstaVids Tilted Upside Down for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-news-scam-proof-twitters-verified-journey/"><u>Breaking News! Scam-Proof Twitter's Verified Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dodging-delayed-wow-windows-installation/"><u>Dodging Delayed WoW Windows Installation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-your-android-experience-with-ai-driven-bing/"><u>Optimizing Your Android Experience with AI-Driven Bing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/policy-formulation-for-ai-4-regulatory-pathways-explored/"><u>Policy Formulation for AI: 4 Regulatory Pathways Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-leap-how-apples-realm-tech-surpasses-gpt-with-advanced-on-device-intelligence/"><u>Revolutionary Leap: How Apple's RealM Tech Surpasses GPT-# with Advanced On-Device Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-best-apple-watch-bands-of-2024-expert-ratings-and-in-depth-analysis/"><u>Ultimate Guide to the Best Apple Watch Bands of 2024 - Expert Ratings and In-Depth Analysis</u></a></li>
 </ul></div>
 

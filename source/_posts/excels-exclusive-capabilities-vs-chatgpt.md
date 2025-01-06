@@ -1,7 +1,7 @@
 ---
 title: Excel's Exclusive Capabilities Vs. ChatGPT
-date: 2024-12-24T17:32:10.425Z
-updated: 2024-12-27T18:22:07.098Z
+date: 2025-01-01T08:06:43.508Z
+updated: 2025-01-06T05:18:45.702Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Using Excel for Long-Term Report Storage and Data Entry
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
  While building out a single report can be handy, useful trends are more visible over long periods of time. Building dashboards to [visualize data trends](https://www.makeuseof.com/how-to-use-scatter-plot-predict-data-behavior-microsoft-excel/) and raise red flags immediately when things go wrong is still a highly valuable skill.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Customizable Report Creation in Excel
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 ![A laptop sitting on a desk showing a data dashboard. There are several graphs showing and some other various data on screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/data-dashboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While a single report is simple to create with ChatGPT, a set of data frozen in time isn’t always beneficial. One of the most potent abilities that Excel gives us the ability to create reports that the reader can instantly customize.
@@ -73,16 +73,12 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
  Make your reports more useful by adding some [simple Excel features](https://www.makeuseof.com/essential-excel-functions/). Ensure your reports can pull variable timeframes, highlight potential problems automatically, and sanitize data for long-term storage and flexibility.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Easy-to-Use Forms in Excel
 
 ![Man in black suit sitting in front of a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/pexels-kampus-production-8353777.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Forms are another great Excel option for those looking for value that ChatGPT can’t provide. Entering information manually can be time-consuming and frustrating. Giving end users the option to enter data independently as it arises frees up time and energy better spent analyzing the results.
 
@@ -91,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
  Pairing a little bit of [basic VBA](https://www.makeuseof.com/tag/unlock-hidden-developer-tab-excel/) with Excel’s extensive list of controls allows for creating surprisingly complex forms. Linking different spreadsheets with forms is a straightforward yet valuable skill to master. ChatGPT may be capable of interpreting data, but giving your users a secure way to enter data is still beyond its reach.
 
  For those looking to blend forms and long-term data storage, looking into different ways to export data from Excel is essential. Learning how to take data from an entry form to a SQL database can help insulate your job and keep your work essential.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Isn’t Going to Automate You Out of a Job Yet
 
@@ -119,18 +119,24 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-decode-the-past-comprehensive-tutorial-for-inverting-image-searches-on-instagram-for-2024/"><u>[New] Decode the Past Comprehensive Tutorial for Inverting Image Searches on Instagram for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-unlock-visual-impact-with-these-7-graders-secrets-for-2024/"><u>[New] Unlock Visual Impact with These 7 Graders' Secrets for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pivotal-software-in-shaping-the-future-of-vtuber-audio-identity/"><u>[Updated] Pivotal Software in Shaping the Future of VTuber Audio Identity</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-photography-made-easier-with-these-4-blur-techniques/"><u>2024 Approved IPhone Photography Made Easier with These 4 Blur Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-authenticity-ensuring-ethical-content-generation/"><u>AI Authenticity: Ensuring Ethical Content Generation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-the-app-store-think-twice-for-your-mac-security/"><u>ChatGPT in the App Store? Think Twice for Your Mac Security</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparing-apples-powerhouses-the-mac-mini-and-mac-studio-showdown-is-the-m2-chip-superior-to-the-m1/"><u>Comparing Apple's Powerhouses: The Mac Mini and Mac Studio Showdown - Is the M2 Chip Superior to the M1?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-chatgpts-business-centric-features/"><u>Decoding ChatGPT's Business-Centric Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gaming-retro-building-pc-a-dual-focus/"><u>Gaming Retro, Building PC – A Dual Focus</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-use-playnites-fullscreen-mode-on-your-tv/"><u>How to Use Playnite's Fullscreen Mode on Your TV</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-apple-iphone-7-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On Apple iPhone 7 Smoothly</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/maximizing-your-influence-a-selection-of-expert-instagram-analytics-software/"><u>Maximizing Your Influence A Selection of Expert Instagram Analytics Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-potential-chatgpts-role-in-interview-readiness/"><u>Unlock Potential: ChatGPT's Role in Interview Readiness</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-secrets-of-editing-numerical-data-in-tiktoks/"><u>[New] 2024 Approved The Secrets of Editing Numerical Data in TikToks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2023s-leading-social-media-film-downloads-no-8/"><u>2023'S Leading Social Media Film Downloads - No. 8</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-androids-role-in-virtual-reality-content-consumption/"><u>2024 Approved Android's Role in Virtual Reality Content Consumption</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-behind-the-screen-discovering-samsung-galaxy-s8s-4k-edge/"><u>2024 Approved Behind the Screen Discovering Samsung Galaxy S8's 4K Edge</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-motorola-razr-40-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/captura-avanzada-para-camaras-web-e-incorporacion-de-sonido-con-wrix-video-ai/"><u>Captura Avanzada Para Cámaras Web E Incorporación De Sonido Con Wrix-Vídeo AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dangers-dont-get-a-chatgpt-androidios-app/"><u>Dangers: Don't Get a ChatGPT Android/iOS App</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elon-musks-ambitious-truthgpt-delving-into-the-facts-and-fiction-of-ai-technology/"><u>Elon Musk's Ambitious TruthGPT: Delving Into the Facts and Fiction of AI Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fusing-language-and-creativity-with-chatgpt/"><u>Fusing Language and Creativity with ChatGPT</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/how-to-record-console-gameplay-on-computer-for-2024/"><u>How to Record Console Gameplay on Computer for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-air-8th-gen-vs-ipad-air-9th-gen-is-it-time-to-upgrade-tech-insights/"><u>IPad Air (8Th Gen) vs iPad Air (9Th Gen): Is It Time to Upgrade? | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-every-user-dialogue-a-step-in-chatgpts-evolution/"><u>Is Every User Dialogue a Step in ChatGPT's Evolution?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pattern-masks-privateipsipnage0-privateipsiprange1-if-lenprivateipsiprange-)-1-else/"><u>Pattern, Masks = Private_ips[ip_nage][0], Private_ips[ip_range][1] if Len(private_ips[ip_range]) > 1 Else [</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-day-deals-explore-how-the-apple-watch-series-se-2nd-generation-continues-offering-a-80-discount-insights-from-zdnet/"><u>Prime Day Deals: Explore How the Apple Watch Series SE (2Nd Generation) Continues Offering a $80 Discount - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbelievable-find-iphone-15pro-max-on-amazon-for-only-one-cent-discover-the-secret-deal-inside/"><u>Unbelievable Find! IPhone ˈ15Pro Max on Amazon for Only One Cent – Discover the Secret Deal Inside!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-chatbot-convictions-the-true-vs-myth-narrative/"><u>Unraveling Chatbot Convictions: The True Vs. Myth Narrative</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-flaw-in-apples-latest-theft-prevention-tech-expert-guide-to-patching-up-security-risks/"><u>Unveiling the Flaw in Apple's Latest Theft-Prevention Tech: Expert Guide to Patching Up Security Risks</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-value-video-editing-software-for-your-money/"><u>Updated The Best Value Video Editing Software for Your Money</u></a></li>
 </ul></div>
 

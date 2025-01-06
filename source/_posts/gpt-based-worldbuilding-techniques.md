@@ -1,7 +1,7 @@
 ---
 title: GPT-Based Worldbuilding Techniques
-date: 2024-12-23T18:33:09.165Z
-updated: 2024-12-27T20:04:06.822Z
+date: 2025-01-02T06:33:57.996Z
+updated: 2025-01-06T08:08:16.990Z
 tags:
   - chatgpt
   - open-ai
@@ -50,7 +50,15 @@ thumbnail: https://thmb.techidaily.com/92f2629e0a1f1e2f3516b5bfb12e18e1391be6804
 
 ![Setting the premise of worldbuilding with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-worldbuilding-set-the-premise.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure to open a new chat before starting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Build the Setting
 
@@ -58,7 +66,15 @@ thumbnail: https://thmb.techidaily.com/92f2629e0a1f1e2f3516b5bfb12e18e1391be6804
 
 ![ChatGPT choosing worldbuilding setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-worldbuilding-setting.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT can also figure out the time period. Even if it’s based on ancient times and there’s modern technology, it’s still an important factor to know.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Establish a History
 
@@ -67,10 +83,14 @@ thumbnail: https://thmb.techidaily.com/92f2629e0a1f1e2f3516b5bfb12e18e1391be6804
 ![ChatGPT choosing history for worldbuilding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-worldbuilding-history.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT will give you a breakdown of the fictional world’s history in eras to help you decide how best to incorporate it into your storyline.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Construct the Culture of Society
 
@@ -78,15 +98,7 @@ thumbnail: https://thmb.techidaily.com/92f2629e0a1f1e2f3516b5bfb12e18e1391be6804
 
 ![ChatGPT creating culture for a fictional world](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-worldbuilding-culture-2.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ChatGPT will give you ideas for several cultural aspects of what makes up the fictional society.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Determine Technology and Magic Usage
 
@@ -98,27 +110,15 @@ thumbnail: https://thmb.techidaily.com/92f2629e0a1f1e2f3516b5bfb12e18e1391be6804
 
  Ask ChatGPT if it can produce some ideas about the uses of technology and magic if it’s available in the fictional world. It’ll give you several concepts that you may miss if you weren’t using the AI.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Create the Characters
 
  Asking ChatGPT to create the characters can be tricky because the request has to be highly specific. This is because character types and character races are two different concepts.
 
 ![ChatGPT choosing worldbuilding character types](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-worldbuilding-character-types.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Requesting that it pick out character types will give you several ideas of individual characters. On the other hand, if you ask for character races, you’ll get a list of different character groups that aren’t assigned to one specific person or creature.
 
 ![ChatGPT choosing worldbuilding character races](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-worldbuilding-character-races.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  However, you can ask the AI to create both if you want a more well-rounded understanding.
 
@@ -130,10 +130,6 @@ thumbnail: https://thmb.techidaily.com/92f2629e0a1f1e2f3516b5bfb12e18e1391be6804
 
  However, it’s vital that you consider the setting with the economy. You can’t have an ocean trade route with ships when your setting is on a rocky, waterless planet.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Develop Conflict and Politics
 
  Every story has to have conflict to keep readers engaged, and incorporating conflict based on the fictional world is one of the best ways to do it. If you’ve already got the history figured out, many times conflict and the political system, rivalries included, will stem from that element.
@@ -142,15 +138,15 @@ thumbnail: https://thmb.techidaily.com/92f2629e0a1f1e2f3516b5bfb12e18e1391be6804
 
  When you ask ChatGPT, make sure to state that you’re looking for current conflicts and politics. If not, you’ll end up with a whole history lesson about your fictional world’s past affairs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fabricate Legends and Folklore
 
  Many times, these fantasy-style tales have legends and folklore that help to drive the story. They also help with character development and even history.
 
 ![ChatGPT choosing worldbuilding legend](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-wouldbuilding-legend.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It doesn’t always have to be a driving point in your fictional world, but it does help make it more enthralling for your reader.
 
@@ -166,6 +162,10 @@ thumbnail: https://thmb.techidaily.com/92f2629e0a1f1e2f3516b5bfb12e18e1391be6804
 * **Economy**: The economy is set around natural resources and magical items. There is the trading of these items for money and harvesting of magical resources like crystals and herbs.
 * **Conflict and Politics**: Due to rivalries, the Rift Wars are underway. A powerful force wants to capture the untamed magic still available from the previous eras and break down the barrier between worlds.
 * **Legends and Folklore**: The Legend of the Celestial Nexus is about the origins of the magic within the wilderness.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Check Out the Fictional World ChatGPT Can Create for You
 
@@ -192,19 +192,16 @@ thumbnail: https://thmb.techidaily.com/92f2629e0a1f1e2f3516b5bfb12e18e1391be6804
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-windows-1011-grab-your-desk-view/"><u>[New] 2024 Approved Windows 10/11 Grab Your Desk View</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-best-captures-of-macs-visual-display-under-156-characters/"><u>[New] In 2024, Best Captures of Mac's Visual Display (Under 156 Characters)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-paving-the-way-for-youtube-wealth-reaching-a-threshold-of-500-subs/"><u>[Updated] Paving the Way for YouTube Wealth Reaching a Threshold of 500 Subs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dive-into-openais-core-principles-and-insights/"><u>Dive Into OpenAI's Core Principles and Insights</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oneplus-open-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked OnePlus Open Phone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/launching-your-path-as-a-prompt-craftsman/"><u>Launching Your Path as a Prompt Craftsman</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-selecting-top-online-vhs-image-adjustments-for-2024/"><u>Mastering the Art of Selecting Top Online VHS Image Adjustments for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/nlp-titans-clash-unraveling-the-complexities-of-gpt-and-bert/"><u>NLP Titans Clash: Unraveling the Complexities of GPT & BERT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rising-threats-in-generative-ai-future-security-risks/"><u>Rising Threats in Generative AI: Future Security Risks</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-recovery-6-effective-steps-to-counteract-save-errors/"><u>Speedy Recovery: 6 Effective Steps to Counteract Save Errors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/surprising-apple-announcement-leads-to-steep-revelations-uncovering-the-climb-zdnet/"><u>Surprising Apple Announcement Leads to Steep Revelations: Uncovering the Climb | ZDNet</u></a></li>
-<li><a href="https://article-helps.techidaily.com/top-10-scriptural-ringtone-selections-for-faith-for-2024/"><u>Top 10 Scriptural Ringtone Selections for Faith for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-chatgpt-generative-ais-role-explored/"><u>Unveiling ChatGPT: Generative AI's Role Explored</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/vidverse-app-critique-digest/"><u>VidVerse App Critique Digest</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-charting-the-course-of-creative-conquests-self-vs-competitors-on-youtube-for-2024/"><u>[New] Charting the Course of Creative Conquests Self Vs. Competitors on YouTube for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-expert-tips-for-selecting-the-right-editor-filmora-and-democracy-creator-guide/"><u>[New] In 2024, Expert Tips for Selecting the Right Editor Filmora and Democracy Creator Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-tecno-spark-10-4g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Tecno Spark 10 4G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-next-gen-art-the-essence-of-using-microsofts-copilot/"><u>Crafting Next-Gen Art: The Essence of Using Microsoft's Copilot</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-pc-malfunctions-heres-how-to-resolve-them/"><u>Cyberpunk 2077 PC Malfunctions? Here's How to Resolve Them</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-iphone-savings-for-july-2024-spotlight-on-deals/"><u>Discover the Ultimate iPhone Savings for July 2024 - Spotlight on Deals</u></a></li>
+<li><a href="https://article-posts.techidaily.com/efficiently-design-your-google-image-mosaic-today-for-2024/"><u>Efficiently Design Your Google Image Mosaic Today for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-visual-delight-expertly-ranked-top-8k-televisions-reviewed/"><u>In 2024, Visual Delight Expertly Ranked Top 8K Televisions Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safe-and-smart-the-ultimate-guide-to-choosing-the-perfect-phone-for-your-child-insights-by-zdnet/"><u>Safe and Smart: The Ultimate Guide to Choosing the Perfect Phone for Your Child - Insights by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-meta-quest-3-with-apples-dynamic-3d-videos-tutorial-zdnet-exclusives/"><u>Transform Your Meta Quest 3 with Apples Dynamic 3D Videos - Tutorial | ZDNET Exclusives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-full-spectrum-of-ai-copilots-role-in-turbo-freedom/"><u>Unlocking the Full Spectrum of AI: Copilot's Role in Turbo Freedom</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How iPhone's Journal App Makes Your Device Findable and Why You Should Disable It | ZDNet
-date: 2024-12-20T17:03:35.489Z
-updated: 2024-12-27T18:56:23.402Z
+date: 2025-01-03T22:29:59.742Z
+updated: 2025-01-06T08:45:49.969Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ Let's explore the potential consequences of Apple's antitrust lawsuit and what i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Apple user experience at a crossroads
 
 The success of the lawsuit against Apple could result in an era where users have more choices, including access to alternative app stores and many apps outside of Apple's curated selection. 
@@ -58,6 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Security and privacy implications
 
   
@@ -75,10 +75,6 @@ Sideloading could circumvent iOS's privacy controls, allowing apps to access and
 
 But there is a potential positive side. Allowing sideloading could ensure that Apple's privacy and security practices are not used anti-competitively. This could help maintain genuine user protection, which is crucial to maintaining user trust and safeguarding the platform's integrity.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## App Store changes
 
 Apple's financial model heavily depends on App Store commissions, which may undergo significant changes due to this lawsuit, judgment, or settlement. These changes could lead to a more dynamic market, providing consumers with more competitive pricing and a wider range of innovative app offerings. Fundamentally, it could alter the economic structure of the entire digital marketplace.
@@ -90,7 +86,7 @@ Following antitrust actions, Apple's market dynamics could shift in several ways
 * **Innovative business models:** If Apple's control is broken, it could encourage innovation as developers will have the freedom to explore new app functionalities and business models. They can experiment with alternative monetization strategies beyond the traditional app purchase or subscription model, such as enhanced in-app advertising, freemium models, or blockchain-based transactions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple ecosystem transformation
@@ -108,7 +104,7 @@ The changes could also lead to increased innovation and competition in markets s
 Adjustments to Apple's revenue practices could ensure fairer conditions for developers, leading to a more open and flexible ecosystem. Overall, the changes have the potential to fundamentally alter the economics of the app market, leading to a more competitive and innovative industry.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open standards and protocols and the increase of open-source software on Apple platforms
@@ -121,7 +117,7 @@ With a requirement for sideloading and allowing third-party app stores and a nee
 * **Access to open-source app repositories:** Users might be able to download apps from open-source repositories, offering a wider selection of apps and potentially fostering a community-driven app development ecosystem on Apple devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Regulatory and industry-wide impact
@@ -133,6 +129,10 @@ Apple, of course, is not giving up the fight. Its response to the DOJ lawsuit, i
 > "At Apple, we innovate every day to make technology people love—designing products that work seamlessly together, protect people's privacy and security, and create a magical experience for our users. This lawsuit threatens who we are and the principles that set Apple products apart in fiercely competitive markets. If successful, it would hinder our ability to create the kind of technology people expect from Apple—where hardware, software, and services intersect. It would also set a dangerous precedent, empowering government to take a heavy hand in designing people's technology. We believe this lawsuit is wrong on the facts and the law, and we will vigorously defend against it."
 
 As Apple navigates these legal and market challenges, it must maintain its hallmark of a secure, user-friendly environment while potentially opening up access to more apps and services. This lawsuit's implications are profound, and it will be interesting to see how it unfolds and affects the tech industry in the coming years.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Previous coverage
 
@@ -170,22 +170,18 @@ As Apple navigates these legal and market challenges, it must maintain its hallm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-expert-mac-graphic-collector/"><u>[New] 2024 Approved Expert Mac Graphic Collector</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-sonys-leap-into-4k-with-xperia-xz-premium-insights/"><u>[New] Sony's Leap Into 4K with Xperia XZ Premium Insights</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-choreographing-vids-with-a-musical-twist-in-snapchat/"><u>[Updated] 2024 Approved Choreographing Vids with a Musical Twist in Snapchat</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-get-every-moment-of-fb-lives-top-5-video-capture-apps-for-2024/"><u>[Updated] Get Every Moment of Fb Lives Top 5 Video Capture Apps for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/an-examination-of-the-public-domain-the-free-to-access-digital-information-landscape/"><u>An Examination of the Public Domain: The Free-to-Access Digital Information Landscape</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-massive-ai-learning-initiative-opens-doors-for-countless-learners-and-graduates/"><u>Apple's Massive AI Learning Initiative Opens Doors for Countless Learners & Graduates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-the-perfect-tablet-m1-vs-m2-ipad-pro-find-your-ideal-tech-companion-with-expert-insights/"><u>Choosing the Perfect Tablet: M1 Vs. M2 iPad Pro - Find Your Ideal Tech Companion with Expert Insights</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-word-2023-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature block to Word 2023</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-xiaomi-redmi-k70-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Xiaomi Redmi K70 Pro without App | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-difficult-workplace-dialogue-via-chatgpt/"><u>Navigating Difficult Workplace Dialogue via ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplify-and-individualize-your-macos-sonoma-menu-experience-top-strategies/"><u>Simplify & Individualize Your MacOS Sonoma Menu Experience - Top Strategies</u></a></li>
-<li><a href="https://facebook.techidaily.com/stealth-commentary-tactics-for-facebook-clans/"><u>Stealth Commentary Tactics for Facebook Clans</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-social-stage-this-years-viral-video-vanguards-on-twitter/"><u>The Social Stage This Year's Viral Video Vanguards on Twitter</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformative-power-of-chatgpt-for-modern-professionals/"><u>Transformative Power of ChatGPT for Modern Professionals</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-selection-of-premium-electronic-jotters-thoroughly-assessed-reviews-for-buyers-by-zdnet-gurus/"><u>Ultimate Selection of Premium Electronic Jotters: Thoroughly Assessed Reviews for Buyers - By ZDNet Gurus</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unbeatable-deal-top-non-apple-non-anker-magsafe-wallet-in-testing-now-at-a-steep-discount/"><u>Unbeatable Deal: Top Non-Apple, Non-Anker MagSafe Wallet in Testing Now at a Steep Discount</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/voice-activation-for-chatgpt-android-edition/"><u>Voice Activation for ChatGPT – Android Edition</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-avoiding-youtube-copyright-claims-understanding-the-rules/"><u>[Updated] Avoiding YouTube Copyright Claims Understanding the Rules</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-enhancing-fb-video-content-with-streamlined-captioning-tactics/"><u>[Updated] In 2024, Enhancing FB Video Content with Streamlined Captioning Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-most-advanced-macbook-series-top-picks-and-detailed-analysis-on-zdnet/"><u>2024'S Most Advanced MacBook Series: Top Picks and Detailed Analysis on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beat-the-wait-fast-talk-with-nvidias-rtx-chatbot/"><u>Beat The Wait: Fast Talk with Nvidia's RTX Chatbot</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/coming-soon-to-tesla-the-autonomous-robotaxi-price-estimates-and-specs-inside/"><u>Coming Soon to Tesla: The Autonomous Robotaxi - Price Estimates & Specs Inside!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-15-pro-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 15 Pro After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/navigate-through-windows-11s-best-practices-for-imports-for-2024/"><u>Navigate Through Windows 11'S Best Practices for Imports for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-ai-interactions-is-now-embrace-chromes-gpt-extension/"><u>The Future of AI Interactions Is Now – Embrace Chrome's GPT Extension</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-rise-of-independent-chatgpt/"><u>The Rise of Independent ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-mystery-how-did-crowdstrike-influence-windows-notorious-meltdnothack-event-a-detailed-historical-perspective-from-zdnet/"><u>Unraveling the Mystery: How Did CrowdStrike Influence Windows' Notorious Meltdnothack Event ? A Detailed Historical Perspective From ZDNet</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-video-editing-on-the-go-top-powerdirector-alternatives-for-android-and-ios/"><u>Updated Video Editing on the Go Top PowerDirector Alternatives for Android and iOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visionary-voices-the-new-era-of-chatbots/"><u>Visionary Voices: The New Era of Chatbots</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtubes-monetization-value-per-million-views/"><u>Youtube's Monetization Value per Million Views</u></a></li>
 </ul></div>
 

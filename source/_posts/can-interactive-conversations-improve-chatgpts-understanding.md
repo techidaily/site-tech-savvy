@@ -1,7 +1,7 @@
 ---
 title: Can Interactive Conversations Improve ChatGPT's Understanding?
-date: 2024-09-06T23:32:27.661Z
-updated: 2024-09-07T23:32:27.661Z
+date: 2025-01-04T01:35:45.650Z
+updated: 2025-01-06T04:00:34.012Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Can Interactive Conversations Improve ChatGPT's 
 thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d2162e7b2d2d4b3ce7e2a13800.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Can Interactive Conversations Improve ChatGPT's Understanding?
 
  With millions of ChatGPT users, you might wonder what OpenAI does with all its conversations. Does it constantly analyze the things you talk about with ChatGPT?
@@ -38,47 +32,25 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
 ![Telling ChatGPT About Food Allergies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-allergy-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Here's ChatGPT's safe recipe.
 
 ![ChatGPT Provides a Flour-Free Cake Recipe](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-safe-cake-recipe.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Contextual memory also lets AI execute multi-step tasks. The below image shows ChatGPT staying in character even after feeding it a new prompt.
 
 ![Requesting ChatGPT to Roleplay as Ash from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-roleplay-as-ash.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ChatGPT can remember dozens of instructions within conversations. Its output actually improves in accuracy and precision as you provide more context. Just ensure you explain your instructions explicitly.
 
  You should also manage your expectations because ChatGPT's contextual memory still has limitations.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Conversations Have Limited Memory Capacities
 
  Contextual memory is finite. ChatGPT has limited hardware resources, so it only remembers up to specific points of current conversations. The platform forgets earlier prompts once you hit its memory capacity.
@@ -86,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
  In this conversation, we instructed ChatGPT to roleplay a fictional character named Tomie.
 
 ![Successfully Asking ChatGPT to Portray Manga Character Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-roleplay-as-tomie.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It started answering prompts as Tomie, not ChatGPT.
 
@@ -95,15 +71,13 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
 
 ![ChatGPT Overrides Previous Prompts by Feeding it New Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-override-previous-prompts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  OpenAI has never disclosed ChatGPT's exact limits, but rumors say it can only process 3,000 words at a time. In our experiment, ChatGPT malfunctioned after just 2,800+ words.
 
 ![ChatGPT Sending Errors for Prompts That Are Too Long](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-error-prompt-too-long.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can break down your prompts into two 1,500-word sets, but ChatGPT likely won't retain all your instructions. Just start another chat altogether. Otherwise, you'll have to repeat specific details several times throughout your conversation.
 
@@ -115,32 +89,18 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
 
 ![Trying to Confuse ChatGPT With Different Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/confusing-chatgpt-with-prompts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We kept our combined inputs under 100 words, but ChatGPT still forgot our first instruction. It quickly broke character.
 
 ![ChatGPT Forgets Prompts Trying to Retain Irrelevant Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-forgets-earlier-prompts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Meanwhile, ChatGPT kept roleplaying during this conversation because we only asked topic-relevant questions.
 
 ![ChatGPT Maintains Character Even After Several Questions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-maintaining-character-as-ash.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Ideally, each dialogue must follow a singular theme to maintain accurate, relevant outputs. You can still input several instructions simultaneously. Just ensure they align with the overall topic, or else ChatGPT might drop instructions that it deems irrelevant.
 
 ## Training Instructions Overpower User Input
@@ -163,17 +123,15 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
 
  While ChatGPT freely accesses conversations, [OpenAI's privacy policy](https://openai.com/policies/privacy-policy) prohibits activities that might compromise users. Trainers can only use your data for product research and development.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Developers Look for Loopholes
 
  OpenAI sifts through conversations for loopholes. It analyzes instances wherein ChatGPT demonstrates data biases, produces harmful information, or helps commit illicit activities. The platform's ethical guidelines are constantly revamped.
 
  For instance, the first versions of [ChatGPT openly answered questions about coding malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) or constructing explosives. These incidents made users feel like [OpenAI has no control over ChatGPT](https://www.makeuseof.com/openai-lost-control-chatgpt/). To regain the public's trust, it trained the chatbot to reject any question that might go against its guidelines.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Trainers Collect and Analyze Data
 
@@ -185,12 +143,6 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
 
  Take Microsoft Tay as an example—one of the [times machine learning went wrong](https://www.makeuseof.com/examples-machine-learning-artificial-intelligence-went-wrong/). Since it constantly analyzed tweets without developer guidance, malicious users eventually trained it to spit racist, stereotypical opinions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Developers Constantly Watch Out for Biases
 
  Several [external factors cause biases in AI](http://www.makeuseof.com/what-is-ai-bias/). Unconscious prejudices may arise from differences in training models, dataset errors, and poorly constructed restrictions. You'll spot them in various AI applications.
@@ -199,19 +151,21 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
 
  To resolve these biases, OpenAI prohibited ChatGPT from providing political insights altogether. It can only answer general facts.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Moderators Review ChatGPT's Performance
 
  Users can provide feedback on ChatGPT's output. You'll find the thumbs-up and thumbs-down buttons on the right side of every response. The former indicates a positive reaction. After hitting the like or dislike button, a window will pop up wherein you can send feedback in your own words.
 
 ![Leaving Feedback on ChatGPT Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/providing-feedback-on-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The feedback system is helpful. Just give OpenAI some time to sift through the comments. Millions of users comment on ChatGPT regularly—its developers likely prioritize grave instances of biases and harmful output generation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are Your ChatGPT Conversations Safe?
 
@@ -229,8 +183,6 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -238,4 +190,21 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-infinite-visual-vaults-blend-zero-cost-sky-spaces-with-premium-packages-for-2024/"><u>[New] Infinite Visual Vaults Blend Zero-Cost Sky Spaces With Premium Packages for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-prime-cloud-call-recorder-pros/"><u>[New] Prime Cloud Call Recorder Pros</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-top-15-facebook-videograbber-add-ons-compatible-with-firefox-for-2024/"><u>[New] Top 15 Facebook Videograbber Add-Ons, Compatible with FireFox for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-beginners-ultimate-list-of-must-have-video-tech-for-2024/"><u>[Updated] Beginner's Ultimate List of Must-Have Video Tech for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-premier-6-platforms-for-video-localization-for-2024/"><u>[Updated] Premier 6 Platforms for Video Localization for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/addressing-and-correcting-code-6-disruptions-in-modern-warfare-campaign-pc-version/"><u>Addressing and Correcting Code 6 Disruptions in Modern Warfare Campaign - PC Version</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-transform-your-mpeg4-videos-into-mpeg2-format-for-windows-users/"><u>Easy Steps: Transform Your MPEG4 Videos Into MPEG2 Format for Windows Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oneplus-12r-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change OnePlus 12R IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reasons-to-skip-the-iphone-nx-release-a-deep-dive-into-apples-intelligent-design/"><u>Reasons to Skip the iPhone nX Release: A Deep Dive Into Apple's Intelligent Design</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-your-presentations-an-introduction-to-chatgpt/"><u>Revolutionizing Your Presentations: An Introduction to ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-free-cash-for-school-tech-get-an-extra-150-off-on-your-next-mac-or-ipad-guide-inside/"><u>Score Free Cash for School Tech! Get an Extra $150 Off on Your Next Mac or iPad (Guide Inside)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seasons-change-global-warming-doesnt-follow-suit/"><u>Seasons Change, Global Warming Doesn't Follow Suit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-4-pillars-of-governmental-policy-on-ai-tools/"><u>The 4 Pillars of Governmental Policy on AI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-a-top-tier-iphone-ability-you-might-have-missed-out-on-an-insiders-guide-from-zdnet/"><u>Unveiling a Top-Tier iPhone Ability You Might Have Missed Out On - An Insider's Guide From ZDNET</u></a></li>
+</ul></div>
 

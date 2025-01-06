@@ -1,7 +1,7 @@
 ---
 title: AI Decoded for the Curious Mind
-date: 2024-09-06T23:32:19.667Z
-updated: 2024-09-07T23:32:19.667Z
+date: 2025-01-01T00:11:20.150Z
+updated: 2025-01-06T02:38:45.786Z
 tags:
   - chatgpt
   - open-ai
@@ -13,20 +13,8 @@ excerpt: This Article Describes AI Decoded for the Curious Mind
 thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a22bc00e9feef5b8e8bfa78d1.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI Decoded for the Curious Mind
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [The Simplest Explanation of AI](https://mindmanager.sjv.io/anq2nj)
@@ -48,12 +36,6 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 
  So, let's break down artificial intelligence into its most simple terms. How does AI work, and how is it being used?
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Simplest Explanation of AI
 
  Artificial intelligence is like teaching computers to learn just like humans, therefore simulating how humans think. AI does this by looking at lots of data or examples and then using that to make decisions or predictions.
@@ -62,22 +44,14 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 
  But even with all this, computers still can't fully think or understand like humans. Modern AI systems don't have common sense, emotions, or consciousness.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI in More Detail
 
 ![chatgpt read aloud feature smartphone screen with chatgpt logo blur](https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc79fa36684145aac317075ce9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 
  Artificial intelligence (AI) is a branch of computer science aiming to build machines capable of mimicking human intelligence. It involves creating algorithms that allow computers to learn from and make decisions or predictions based on data rather than following only explicitly programmed instructions.
@@ -87,6 +61,10 @@ Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
  Machine learning (ML), a subset of AI, involves systems that can "learn" from data. These algorithms improve their performance as the number of datasets they learn from increases.
 
  Deep learning, a further subset of machine learning, uses artificial neural networks to make decisions and predictions. It is designed to mimic how a human brain learns and makes decisions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Natural Language Processing (NLP)
 
@@ -113,28 +91,14 @@ Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 
  However, despite many advancements, AI still does not possess the full spectrum of human cognitive abilities, and we are still far from achieving [true artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/). The current AI technologies are task-specific and cannot understand context outside their specific programming.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Is AI Being Used Today?
 
  AI has potential and applications that stretch far beyond the tech realm alone.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Chatbots
 
 ![chatgpt dalle logo creation on smartphone screen](https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc239157d241009df908a14c3.jpg)
@@ -153,6 +117,10 @@ Gavin Phillips/MakeUseOf
 
  AI systems can more effectively detect trends, patterns, and inconsistencies than a typical computer (or human, for that matter). For example, an AI system could more distinctly highlight less obvious user habits or preferences for social media platforms, allowing it to show more personalized advertisements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Production and Design
 
  When designing products, many elements must be considered. The cost of materials, how they're sourced, and how efficiently the product will perform are just a few factors that companies need to keep in mind, and this is where AI can help.
@@ -163,22 +131,24 @@ Gavin Phillips/MakeUseOf
 
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [AI-generated art](https://www.makeuseof.com/ways-ai-generated-art-changing-future-of-art/) took the world by storm in 2022, with products like DALL-E, Stable Diffusion, and Midjourney becoming extremely popular. These AI text-to-image tools [take a text-based prompt and generate an art piece](https://www.makeuseof.com/ai-text-to-art-generators/) based on the request.
 
  For example, if you type "purple sunset on the moon" into DALL-E, you'll get more than one result. Some art generators also let you pick a style for your generated image, such as vintage, hyperrealistic, or anime. DALL-E has evolved a lot since its initial release and is now on its third version, DALL-E 3\. You can [use DALL-E on ChatGPT Plus](https://www.makeuseof.com/how-to-use-dall-e-chatgpt-4-ai-images/) to generate AI images in your chats.
 
 ![microsoft image creator purple sunset on moon example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-image-creator-purple-sunset-on-moon-example.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Microsoft Image Creator/MakeUseOf
 
 [Some artists have rejected AI art generators](https://www.makeuseof.com/can-creatives-protect-art-from-generative-ai/), as they are trained on pre-existing online art to learn how to create their prompted pieces. Artists claim this is a breach of copyright and contributes to the theft of original art, an issue that already spans the web.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Future of AI
 
  AI is already being used to develop new medicines, highlight more sustainable business practices, and even make our day-to-day lives easier by performing mundane tasks like cooking or cleaning.
@@ -203,8 +173,6 @@ Microsoft Image Creator/MakeUseOf
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +180,19 @@ Microsoft Image Creator/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-navigating-the-path-to-wealthy-video-creators-via-vimeos-revenue-streams/"><u>[New] 2024 Approved Navigating the Path to Wealthy Video Creators via Vimeo's Revenue Streams</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-exploring-hidden-realms-a-comprehensive-guide-to-youtubes-unlisted-videos-for-2024/"><u>[New] Exploring Hidden Realms A Comprehensive Guide to YouTube’s ‘Unlisted’ Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-streamline-your-gaming-memories-easy-minecraft-recordings-on-macs/"><u>[Updated] In 2024, Streamline Your Gaming Memories Easy Minecraft Recordings on Macs</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-learn-the-art-of-pairing-captions-with-visuals-for-tiktoks/"><u>2024 Approved Learn the Art of Pairing Captions with Visuals for TikToks</u></a></li>
+<li><a href="https://fox-where.techidaily.com/nvme-ssdwindows-11/"><u>轻松安装NVMe SSD到Windows 지원 11 ——初始化无烦恼指南</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-your-workflow-master-dvd-creation-with-mac-os-x/"><u>Elevate Your Workflow Master DVD Creation with Mac OS X</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-ios-feature-the-chatgpt-app/"><u>Exclusive iOS Feature: The ChatGPT App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-for-enhanced-medical-diagnostics/"><u>Harnessing ChatGPT for Enhanced Medical Diagnostics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-in-ios-18-record-phone-conversations-directly-without-needing-external-apps-insights/"><u>New in iOS 18: Record Phone Conversations Directly Without Needing External Apps - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-innovators-guide-from-text-generation-to-books/"><u>The Innovator's Guide: From Text Generation to Books</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-eus-digital-single-market-and-aichatgpt-impact/"><u>Unraveling the EU's Digital Single Market & AI/ChatGPT Impact</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On OnePlus Ace 2? | Dr.fone</u></a></li>
+</ul></div>
 

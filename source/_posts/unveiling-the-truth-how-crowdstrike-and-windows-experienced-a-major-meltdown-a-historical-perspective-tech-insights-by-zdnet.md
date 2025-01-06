@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Truth: How CrowdStrike and Windows Experienced a Major Meltdown – A Historical Perspective | Tech Insights by ZDNet"
-date: 2024-12-26T21:19:44.200Z
-updated: 2024-12-27T17:02:15.815Z
+date: 2025-01-03T23:48:29.148Z
+updated: 2025-01-05T16:35:35.737Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -176,19 +176,22 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-prime-emulation-tools-sonys-ps1-classics-at-the-fingertips/"><u>[Updated] 2024 Approved Prime Emulation Tools Sony's PS1 Classics at the Fingertips</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-resolve-twitter-vids-playback-issue/"><u>[Updated] Resolve Twitter Vids Playback Issue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/emotional-intelligence-bots-safe-counseling-guidelines/"><u>Emotional Intelligence Bots: Safe Counseling Guidelines</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-gadgets-for-a-cooler-steam-deck-experience/"><u>Essential Gadgets for a Cooler Steam Deck Experience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expertly-crafted-workspace-thrones-the-ultimate-chair-selection-for-2cuary/"><u>Expertly Crafted Workspace Thrones: The Ultimate Chair Selection for 2Cuary</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/first-steps-in-the-ai-world-engage-with-our-top-9-communities/"><u>First Steps in the AI World: Engage With Our Top 9 Communities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/five-innovative-ways-students-can-harness-chatgpt-power/"><u>Five Innovative Ways Students Can Harness ChatGPT Power</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-pdf-document-on-a-flash-drive-by-stellar-guide/"><u>How to Repair PDF Document on a Flash Drive</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-windows-for-videographers-hdr-insights/"><u>In 2024, Windows for Videographers HDR Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/julys-top-discounts-on-apple-products-secure-exclusive-rates-on-iphones-apple-watches-and-ipads-in-depth-reviews-by-zdnet/"><u>July's Top Discounts on Apple Products : Secure Exclusive Rates on iPhones, Apple Watches, and iPads | In-Depth Reviews by ZDNET</u></a></li>
-<li><a href="https://article-helps.techidaily.com/savory-storytelling-in-video-cooking-top-7-insights-for-2024/"><u>Savory Storytelling in Video Cooking - Top 7 Insights for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/start-using-bings-ai-signup-procedure-breakdown/"><u>Start Using Bing’s AI: Signup Procedure Breakdown</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-restoring-your-apple-watch-functionality-techinsights/"><u>Step-by-Step Guide: Restoring Your Apple Watch Functionality | TechInsights</u></a></li>
-<li><a href="https://blog-min.techidaily.com/steps-for-installing-libdvdcss-library-on-both-32-bit-and-64-bit-windows-systems/"><u>Steps for Installing LibDVDCSS Library on Both 32-Bit & 64-Bit Windows Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-diy-digital-footprint-creating-youtube-thumbnails-from-mobile-devices/"><u>[Updated] 2024 Approved DIY Digital Footprint Creating YouTube Thumbnails From Mobile Devices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-learn-iphone-techniques-for-quick-video-reduction/"><u>[Updated] In 2024, Learn iPhone Techniques for Quick Video Reduction</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-streamline-online-interactions-the-simple-science-of-clear-backgrounds-in-google-meet-for-2024/"><u>[Updated] Streamline Online Interactions The Simple Science of Clear Backgrounds in Google Meet for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/access-ios-181-early-release-with-advanced-apple-intelligence-get-started-today-gadgetpundit/"><u>Access IOS 18.1 Early Release with Advanced Apple Intelligence - Get Started Today! | GadgetPundit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/content-connoisseurs-guide-outperforming-ai-writing-tools/"><u>Content Connoisseurs Guide: Outperforming AI Writing Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-realme-c33-2023-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Realme C33 2023</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-lava-agni-2-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-air-4-versus-ipad-air-5-is-it-time-to-upgrade-insights-and-reviews/"><u>IPad Air 4 Versus iPad Air 5: Is It Time to Upgrade? Insights & Reviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protect-your-privacy-a-step-by-step-guide-to-removing-spyware-on-phones-tips-experts/"><u>Protect Your Privacy: A Step-by-Step Guide to Removing Spyware on Phones, Tips Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-service-enrollment-bypassing-phone-numbers-in-apps/"><u>Seamless Service Enrollment: Bypassing Phone Numbers in Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/sonos-era-100-vs-sonos-one-face-off-deciding-on-your-ideal-smart-speaker-buy-cnet/"><u>Sonos Era 100 Vs. Sonos One Face-Off: Deciding on Your Ideal Smart Speaker Buy | CNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ai-speak-deciphering-jargon-for-the-curious-mind/"><u>The AI Speak: Deciphering Jargon for the Curious Mind</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-fine-tuning-windows-11-alerts/"><u>The Art of Fine-Tuning Windows 11 Alerts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-childrens-tablets-endorsed-by-parents-discover-the-ideal-picks/"><u>Top-Rated Children's Tablets Endorsed by Parents – Discover the Ideal Picks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/transform-your-laptop-with-these-8-stylish-skins/"><u>Transform Your Laptop with These 8 Stylish Skins</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-memes-edit-master/"><u>Ultimate Memes Edit Master</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-ultimate-guide-to-the-leading-computers-in-2eight-twenty-four-analyzing-apple-vs-dell-and-beyond/"><u>ZDNet's Ultimate Guide to the Leading Computers in 2Eight-Twenty-Four: Analyzing Apple Vs. Dell & Beyond</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ARM Vs. X86: Can Windows on ARM Outperform the Mac Silicon Revolution? Predicting the Next Computing Landscape | ZDNET"
-date: 2024-12-20T21:26:01.499Z
-updated: 2024-12-27T17:13:32.012Z
+date: 2024-12-29T19:15:37.073Z
+updated: 2025-01-06T05:31:14.379Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
@@ -33,10 +33,6 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 This year, five topics will likely dominate the headlines, dictate the next industry buzzwords, and be in the minds of every consumer. You'll hear a lot more about the "[AI PC](https://www.zdnet.com/article/nvidia-makes-the-case-for-the-ai-pc-at-ces-2024/)", but don't let that name obscure the reality: Our smartphones -- the most personal of computers -- are also receptive to an artificial intelligence makeover.
 
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
 
@@ -53,7 +49,7 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
@@ -73,7 +69,7 @@ Now that the major players have entered the competition, the big question this y
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
@@ -93,7 +89,7 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -113,6 +109,10 @@ Companies like Samsung have long adopted periscope lenses to improve their camer
 As manufacturers continue to figure out ways to shrink and fit better components within the framework of smartphones, expect better, more capable cameras in 2024 and beyond.
 
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
 
@@ -168,14 +168,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-switching-spotify-playlists-transferring-to-youtube-music-format/"><u>2024 Approved Switching Spotify Playlists Transferring to YouTube Music Format</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/deciphering-instagram-highlights-the-stories-guide/"><u>Deciphering Instagram Highlights The Stories Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-ais-impact-on-disinformation/"><u>Dissecting AI’s Impact on Disinformation</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-edge-40-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Edge 40 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-anthropics-ai-for-creative-prowess/"><u>Leveraging Anthropic's AI for Creative Prowess</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-custom-chatbot-development-with-self-data/"><u>Mastering Custom ChatBot Development with Self-Data</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/screenshots-of-success-decoding-post-viewer-demographics/"><u>Screenshots of Success Decoding Post Viewer Demographics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-early-days-of-ai-unraveling-the-past/"><u>The Early Days of AI: Unraveling the Past</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-proven-techniques-to-swarm-thousands-of-videos-from-tiktok/"><u>[Updated] Proven Techniques to Swarm Thousands of Videos From TikTok</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advanced-user-guide-how-the-new-iphone-15-stands-out-in-performance-expert-opinion/"><u>Advanced User Guide: How the New iPhone 15 Stands Out in Performance – Expert Opinion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/automattics-strategic-buyout-of-beeper-future-expansion-plans-unveiled/"><u>Automattic's Strategic Buyout of Beeper: Future Expansion Plans Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-speeds-chatgpt-4s-laggard-legacy-vs-gpt-35/"><u>Comparative Speeds: ChatGPT-4's Laggard Legacy vs GPT-3.5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-apples-latest-key-features-and-upgrades-of-the-new-airpods-series-a-comprehveiw-by-zdnet/"><u>Discovering Apple's Latest: Key Features and Upgrades of the New AirPods Series - A Comprehveiw by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172752956-game-boy-advance-excellence-with-ioss-leading-emulators/"><u>Game Boy Advance Excellence with iOS's Leading Emulators!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-correctly-address-the-fortnite-entry-point-not-detected-problem/"><u>How to Correctly Address the 'Fortnite Entry Point Not Detected' Problem</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-t2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/maximizing-gaming-on-a-budget-with-the-acer-predator-orion-5000-in-depth-review-and-performance-analysis/"><u>Maximizing Gaming on a Budget with the Acer Predator Orion 5000 – In-Depth Review & Performance Analysis</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/resolving-playback-glitches-on-macos-sierra-tips-and-tricks-for-smooth-operation/"><u>Resolving Playback Glitches on MacOS Sierra - Tips and Tricks for Smooth Operation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scrutinizing-6-overrated-chatgpt-extensions/"><u>Scrutinizing 6 Overrated ChatGPT Extensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-airpods-pro-gear-and-add-ons-featured/"><u>Top-Rated AirPods Pro Gear and Add-Ons - Featured</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/ultimate-tutorial-how-to-seamlessly-rip-and-transform-your-dvd-riddick-for-universal-playback-compatibility/"><u>Ultimate Tutorial: How to Seamlessly Rip and Transform Your DVD Riddick for Universal Playback Compatibility</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/versions-of-windows-cuttingediting-programs-for-2024/"><u>Versions of Windows Cutting/Editing Programs for 2024</u></a></li>
 </ul></div>
 

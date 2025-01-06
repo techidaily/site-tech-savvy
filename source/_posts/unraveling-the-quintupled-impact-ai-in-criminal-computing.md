@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Quintupled Impact: AI in Criminal Computing"
-date: 2024-12-20T19:39:28.161Z
-updated: 2024-12-27T16:40:16.196Z
+date: 2025-01-03T10:33:44.175Z
+updated: 2025-01-06T02:00:33.426Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Writing Malware
 
  Artificial intelligence is an advanced type of technology, so some may not find it surprising that it can be used to write malware. Malware is a term for malicious programs used (a portmanteau of the words "malicious" and "software") in hacking, and can come in many forms. But to use malware, it must first be written.
@@ -44,6 +40,10 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
 
  ChatGPT (or at least its latest version) can only write basic, and sometimes buggy, malware programs, rather than sophisticated code that poses severe threats. However, this isn't to say that AI cannot be used to write malware. Given that a current AI chatbot can create basic malicious programs, it may not be long before we see more heinous malware originate from AI systems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Cracking Passwords
 
  Passwords often stand as the one line of data protecting our accounts and devices. So, unsurprisingly, many cybercriminals try to crack passwords in order to gain access to our private data.
@@ -55,7 +55,7 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  These figures show how dangerous AI password cracking can be. With the ability to crack most regular passwords in less than 24 hours, there's no knowing what a cybercriminal could do using such a tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Conducting Social Engineering
@@ -67,7 +67,7 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  In this sense, AI could also help in making malicious communications look more professional and official by ironing out spelling and grammar mistakes. Such errors are often said to be possible signs of malicious activity, so it may help cybercriminals if they can write their social engineering content more cleanly and effectively.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Finding Software Vulnerabilities
@@ -82,7 +82,7 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
 ![Data on Laptop Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/data-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Data is as valuable as gold. Today, [sensitive data is sold on dark web marketplaces](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) on a constant basis, with some malicious actors willing to pay a very high price if the information is useful enough.
@@ -92,7 +92,7 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  Using AI, the process of highlighting valuable information could be streamlined, cutting down the time it takes for a malicious actor to determine what is worth selling, or, on the other hand, directly exploiting by their own hand. Artificial intelligence, at its core, is all about learning, so it could one day become easy to use an AI-powered tool to pick up on valuable sensitive data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI Is Promising but Also Poses Many Threats
@@ -116,17 +116,22 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-top-vlogging-techniques-for-stellar-gopro-content/"><u>[Updated] Top Vlogging Techniques for Stellar GoPro Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-recent-advancements-in-ai-progress-and-future-challenges-explored/"><u>Apple’s Recent Advancements in AI – Progress and Future Challenges Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-the-most-trusted-vpn-apps-for-your-mac-in-depth-analysis-by-tech-pros/"><u>Explore the Most Trusted VPN Apps for Your Mac: In-Depth Analysis by Tech Pros</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-latest-tech-an-insightful-guide-with-toms-hardware/"><u>Exploring the Latest Tech: An Insightful Guide with Tom's Hardware</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guarding-your-digital-footprint-essential-bot-risks-revealed/"><u>Guarding Your Digital Footprint: Essential Bot Risks Revealed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-setting-up-the-crew-sports-extension-in-kodi-version-190-matrix/"><u>Step-by-Step Guide to Setting Up The Crew Sports Extension in Kodi Version 19.0 Matrix</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-lava-agni-2-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Lava Agni 2 5G FRP</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-photos-with-words-how-apples-cutting-edge-artificeintelligence-interprets-text-prompts-to-revamp-images-as-detailed-by-zdnet/"><u>Transform Your Photos with Words: How Apple's Cutting-Edge ArtificeIntelligence Interprets Text Prompts to Revamp Images, as Detailed by ZDNet</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/understanding-the-mechanisms-of-youtubes-cc-license-for-2024/"><u>Understanding the Mechanisms of YouTube's CC License for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-power-of-artificial-intelligence-in-bing-app-for-android-phones/"><u>Unlocking the Power of Artificial Intelligence in Bing App for Android Phones</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-c33-2023-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1726226243872-rmvb-mp4-movavi/"><u>무료 RMVB-MP4 변환기: 웹에서 빠르게 사용하세요 - Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-behind-the-scenes-of-video-studios-xreview-analysis/"><u>[New] Behind the Scenes of Video Studios XReview Analysis</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-step-by-step-guide-through-youtubes-aspect-ratio-landscapes/"><u>[New] In 2024, A Step-by-Step Guide Through YouTube's Aspect Ratio Landscapes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-instant-upload-tiktok-vids-to-your-fb-page-easily/"><u>[Updated] In 2024, Instant Upload TikTok Vids to Your FB Page Easily</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-pro-audio-recording-excellence-with-audacity-for-2024/"><u>[Updated] Pro Audio Recording Excellence with Audacity for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-professionally-recording-every-aspect-of-your-ppt-presentations-for-2024/"><u>[Updated] Professionally Recording Every Aspect of Your PPT Presentations for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-your-guide-to-dream-job-realization/"><u>ChatGPT: Your Guide to Dream Job Realization</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/come-comprimere-i-file-mp4-mantenendo-lottimo-livello-di-qualita-una-guida-essenziale-alla-compressione-effettiva-e-allottimizzazione-dei-video/"><u>Come Comprimere I File MP4 Mantenendo L'ottimo Livello Di Qualità: Una Guida Essenziale Alla Compressione Effettiva E All'ottimizzazione Dei Video</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-functionality-of-hugging-face/"><u>Decoding the Functionality of Hugging Face</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-redmi-a2plus-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Xiaomi Redmi A2+ has native MOV support?</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-poco-x5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-of-siris-intelligence-boosted-by-apples-innovation-significant-revisions-expected-report/"><u>Future of Siri's Intelligence Boosted by Apple’s Innovation; Significant Revisions Expected Report</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-autodoc-strategies-for-microsoft-word-enthusiasts/"><u>Innovative AutoDoc Strategies for Microsoft Word Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-microsofts-copilot-for-unique-ai-art-generation/"><u>Mastering Microsoft's Copilot for Unique AI Art Generation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safeguard-your-health-limits-of-ai-diagnosis/"><u>Safeguard Your Health: Limits of AI Diagnosis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-auto-gpt-journey-start-and-complete/"><u>The Auto-GPT Journey: Start and Complete</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unraveling-the-best-free-srt-translators-your-essential-guidebook-for-2024/"><u>Unraveling the Best Free SRT Translators Your Essential Guidebook for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vital-considerations-before-leveraging-chatgpt-in-mental-health-practices/"><u>Vital Considerations Before Leveraging ChatGPT in Mental Health Practices</u></a></li>
 </ul></div>
 

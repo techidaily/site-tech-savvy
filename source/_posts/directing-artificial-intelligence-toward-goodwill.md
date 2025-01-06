@@ -1,7 +1,7 @@
 ---
 title: Directing Artificial Intelligence Toward Goodwill
-date: 2024-09-06T23:33:08.833Z
-updated: 2024-09-07T23:33:08.833Z
+date: 2024-12-31T01:59:26.120Z
+updated: 2025-01-06T05:22:34.519Z
 tags:
   - chatgpt
   - open-ai
@@ -13,18 +13,6 @@ excerpt: This Article Describes Directing Artificial Intelligence Toward Goodwil
 thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3a23bf93996d4e40618dadce.jpeg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Directing Artificial Intelligence Toward Goodwill
 
  With modern AI language models like ChatGPT and Microsoft's Bing Chat making waves around the world, a number of people are worried about AI taking over the world.
@@ -36,11 +24,9 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
  While we won't be running into SkyNet for the foreseeable future, AI is getting better than humans at several things. That's where the AI control problem comes into play.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The AI Control Problem Explained
 
  The AI control problem is the idea that AI will eventually become better at making decisions than humans. In accordance with this theory, if humans don't set things up correctly beforehand, we won't have a chance to fix things later, meaning AI will have effective control.
@@ -54,11 +40,9 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
  If an AI system were to surpass human intelligence without the proper safeguards, the result could be catastrophic. Such systems could assume control of physical resources as many tasks are achieved better or more efficiently. Since AI systems are designed to achieve maximum efficiency, losing control could lead to severe consequences.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When Does the AI Control Problem Apply?
 
  The main problem is that the better an AI system gets, the harder it is for a human supervisor to monitor the technology to ensure manual control can be taken over easily should the system fail. Additionally, the human tendency to rely on an automated system is higher when the system performs reliably most of the time.
@@ -66,21 +50,17 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
 ![Image of a laptop with AI on the screen and ChatGPT in different fonts in the background](https://thmb.techidaily.com/176a1a151aeb9ebfdcfd4bd623625c32ca353b5d86117d513193a67649a60b72.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  A great example of this is the [Tesla Full-Self Driving (FSD) suite](https://www.makeuseof.com/what-is-tesla-fsd-how-does-it-work/). While the car can drive itself, it requires a human to have their hands on the steering wheel, ready to take control of the car should the system malfunction. However, as these AI systems get more reliable, even the most alert human's attention will begin to vary, and dependency on the autonomous system will increase.
 
  So what happens when cars start driving at speeds humans can't keep up with? We'll end up surrendering control to the car's autonomous systems, meaning an AI system will be in control of your life, at least until you reach your destination.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can the AI Control Problem Be Solved?
 
  There are two answers to whether or not the AI control problem can be solved. First, if we interpret the question literally, the control problem can't be solved. There's nothing we can do that directly targets the human tendency to rely on an automated system when it performs reliably and more efficiently most of the time.
@@ -94,11 +74,9 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
  The DCAF approach always puts a human operator at the helm of an automated system, ensuring that their input controls the most important parts of the system's decision-making process. If a system is engaging enough for a human operator to pay attention constantly, the control problem can be solved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can We Ever Truly Control AI?
 
  As AI systems become more advanced, capable, and reliable, we'll continue offloading more tasks to them. However, the AI control problem can be solved with the right precautions and safeguards.
@@ -109,14 +87,11 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
 
  While we won't be running into SkyNet for the foreseeable future, AI is getting better than humans at several things. That's where the AI control problem comes into play.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -125,4 +100,26 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-understanding-picture-in-picture-how-to-use-it-for-youtube/"><u>[New] 2024 Approved Understanding Picture In Picture How to Use It for YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-first-flight-drones-for-youngsters-and-new-pilots/"><u>[Updated] Best First Flight Drones for Youngsters & New Pilots</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-igtv-to-facebook-distribution-masterclass-approach/"><u>[Updated] In 2024, IGTV to Facebook Distribution Masterclass Approach</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-lustrous-android-video-techniques-for-every-user/"><u>[Updated] Lustrous Android Video Techniques for Every User</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-episodes-your-guide-to-gpodc-mastery/"><u>[Updated] Prime Episodes Your Guide to GPodC Mastery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-unveils-updated-device-security-measures-spotlight-on-vulnerability-and-expert-fixes-securetechguide/"><u>Apple Unveils Updated Device Security Measures - Spotlight on Vulnerability & Expert Fixes | SecureTechGuide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/augmented-reality-explained-simply-for-2024/"><u>Augmented Reality Explained Simply for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-as-a-tool-for-effective-cbt-implementation/"><u>ChatGPT as a Tool for Effective CBT Implementation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-translators-navigating-a-new-era-of-communication/"><u>ChatGPT for Translators: Navigating a New Era of Communication</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/direct-ai-access-from-anywhere-browser-edition-using-agentgpt/"><u>Direct AI Access From Anywhere – Browser Edition, Using AgentGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ethical-boundaries-4-ways-governments-regulate-ai/"><u>Ethical Boundaries: 4 Ways Governments Regulate AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/improving-clarity-in-conversations-how-tvos-18-upgrade-transforms-audio-experience-on-apple-tv/"><u>Improving Clarity in Conversations: How tvOS 18 Upgrade Transforms Audio Experience on Apple TV</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-platforms-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swift-solutions-to-chatgpt-errors-the-essential-fixes-list/"><u>Swift Solutions to ChatGPT Errors: The Essential Fixes List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-anticipated-arrival-of-the-latest-airpods-what-we-know-so-far-and-securing-your-spot-on-waitlists/"><u>The Anticipated Arrival of the Latest AirPods: What We Know So Far and Securing Your Spot on Waitlists</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-role-of-chatgpt-in-streamlining-professional-endeavors/"><u>The Role of ChatGPT in Streamlining Professional Endeavors</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-obs-replacement-software-compared-best-mac-and-windows-options-by-allavsoft/"><u>Top OBS Replacement Software Compared: Best Mac & Windows Options by Allavsoft</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "GPT-Powered Therapy: Ensuring Client Safety"
-date: 2024-12-22T20:54:24.392Z
-updated: 2024-12-27T18:30:45.430Z
+date: 2024-12-31T02:17:16.470Z
+updated: 2025-01-05T19:21:27.433Z
 tags:
   - chatgpt
   - open-ai
@@ -28,11 +28,19 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Designing Your Coach or Mental Health Professional
 
  Three are many [apps that contain chatbots acting as pocket therapists](https://www.makeuseof.com/ai-chatbot-therapist-mobile-apps-pocket/). However, there's no denying ChatGPT's level of sophistication. Just look at its meteoric adoption rate.
 
  No, it doesn't have a framed degree hanging on its wall or years of expensive training from an Ivy League university. However, it can mimic therapeutic techniques based on your prompts. And even though it's not a real person, [ChatGPT can provide reliable health information](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/), if you know how to use it correctly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Art of Prompting for Mental Health Information
 
@@ -45,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
 ![Screenshot of ChatGPT giving advice for managing stress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-08-12-am.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, to mimic a trauma-informed counseling session, you might describe your situation followed by a question such as, "How can I approach managing stress with a trauma-informed perspective?"
@@ -63,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
 ![Screenshot of ChatGPT giving Stoic advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-06-50-am.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  By providing this additional context, you're helping ChatGPT generate more specific, tailored advice. Or, let's say you're struggling with a personal relationship. You could ask, "I had an argument with my friend because of a misunderstanding, and it's causing me a lot of distress. What would a therapist suggest I do to resolve this situation?"
@@ -73,11 +81,7 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
 ![Stoic advice provided by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-04-47-am.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting Healthy Boundaries With Your AI
@@ -91,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
  Next, avoid sharing overly sensitive personal information. Remember, while ChatGPT doesn't store personal data, it's good practice to keep highly personal or sensitive topics offline. You never know where your words will end up.
 
  Also, make sure to balance your use of AI with friends and family and if necessary, other mental health resources. ChatGPT is a supplement, not a substitute. Keep up with your real-world people and never replace them with a chatbot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Know When to Seek Human Help
 
@@ -131,20 +131,17 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-the-art-of-audio-amalgamation-in-vimeo-videos/"><u>[New] The Art of Audio Amalgamation in Vimeo Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-from-visionary-to-victory-channel-command-school-for-2024/"><u>[Updated] From Visionary to Victory Channel Command School for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transformative-techniques-for-capturing-on-iphone/"><u>[Updated] Transformative Techniques for Capturing on iPhone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-asus-proart-pa-329q-in-focus-the-comprehensive-4k-professional-display-analysis/"><u>2024 Approved Asus ProArt PA 329Q in Focus – The Comprehensive 4K Professional Display Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-model-understanding-openais-shape-method/"><u>Discovering Model Understanding: OpenAI's ShapE Method</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-idevice-software-update-problems-a-guide-to-9-effective-solutions/"><u>Fixing iDevice Software Update Problems: A Guide to 9 Effective Solutions</u></a></li>
-<li><a href="https://discover-data.techidaily.com/how-effective-is-mcafee-in-identifying-and-protecting-against-malware-threats-insights-from-malwarefox/"><u>How Effective Is McAfee in Identifying and Protecting Against Malware Threats - Insights From MalwareFox</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-t2-pro-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo T2 Pro 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt-for-evidence-based-therapeutic-practices/"><u>Leveraging GPT for Evidence-Based Therapeutic Practices</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-best-avi-video-joiners-top-10-free-solutions-for-merging-avi-files/"><u>New In 2024, Best AVI Video Joiners Top 10 Free Solutions for Merging AVI Files</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-creativity-ai-in-content-development/"><u>Revolutionizing Creativity: AI in Content Development</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shaping-tomorrows-classrooms-top-8-reasons-for-embracing-ai/"><u>Shaping Tomorrow's Classrooms: Top 8 Reasons for Embracing AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-finest-ai-idea-exchanges-in-the-digital-realm/"><u>The Finest AI Idea Exchanges in the Digital Realm</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-2024s-must-have-magsafe-gadgets-expert-tested-and-reviewed/"><u>Ultimate Guide to 2024'S Must-Have MagSafe Gadgets: Expert Tested and Reviewed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-your-writing-potential-skip-these-pitfalls-with-chatgpt/"><u>Unleashing Your Writing Potential – Skip These Pitfalls with ChatGPT</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-conquer-screen-capture-in-depth-windows-pc-guide-for-live-tv-recording-for-2024/"><u>[Updated] Conquer Screen Capture In-Depth Windows PC Guide for Live TV Recording for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-countering-harshness-maintaining-poise-online-for-2024/"><u>[Updated] Countering Harshness Maintaining Poise Online for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-reality-and-fantasy-ai-driven-worldbuilding/"><u>Bridging Reality and Fantasy: AI-Driven Worldbuilding</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-narzo-n53-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme Narzo N53 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/move-upwards-with-a-64-bit-windows-11-version/"><u>Move Upwards with a 64-Bit Windows 11 Version</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/programming-power-play-github-copilot-vs-chatgpt-showdown/"><u>Programming Power Play: GitHub Copilot Vs. ChatGPT Showdown</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectify-horizontal-line-displacement/"><u>Rectify Horizontal Line Displacement</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/sicheres-backup-und-synchronen-transfer-externer-speicher-auf-windows-11-gratis-optionen-erklart/"><u>Sicheres Backup Und Synchronen Transfer: Externer Speicher Auf Windows 11 – Gratis-Optionen Erklärt</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-issue-of-lag-in-avatar-pandoras-edge-a-comprehensive-guide/"><u>Solving the Issue of Lag in Avatar: Pandora's Edge - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-exposing-deceptive-ai-conversations-via-mentions/"><u>The Art of Exposing Deceptive AI Conversations via Mentions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-non-detected-usb-peripherals-in-windows-11-explained/"><u>Troubleshooting Non-Detected USB Peripherals in Windows 11 Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-chatgpts-role-in-malware-design/"><u>Understanding ChatGPT's Role in Malware Design</u></a></li>
 </ul></div>
 

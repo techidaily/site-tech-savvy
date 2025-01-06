@@ -1,7 +1,7 @@
 ---
 title: Upgrading to the New Standard? A Comprehensive Guide to Choosing Between Apple's Latest iPhones on ZDNET
-date: 2024-12-25T17:16:23.856Z
-updated: 2024-12-27T16:09:52.468Z
+date: 2025-01-03T10:08:39.357Z
+updated: 2025-01-05T19:23:24.710Z
 tags:
   - apple
 categories:
@@ -73,7 +73,7 @@ Cons
 * Speaker could be better
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Boox Note Air 3 C
@@ -107,15 +107,7 @@ Cons
 * Premium Pen upgrade will cost you more
 * Does not support note-taking on magazines or newspapers
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Amazon Kindle Scribe
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best note-taking tablet for reading
 
@@ -146,10 +138,14 @@ Cons
 * Missing apps
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Galaxy Tab S9
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best note-taking tablet for Android users
 
@@ -181,7 +177,7 @@ Cons
 * Important productivity apps are missing
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Amazon Fire Max 11
@@ -201,6 +197,10 @@ Overall, 94% of Best Buy customers would recommend this tablet to others, giving
 **Amazon Fire Max 11 specs: Display**: 11-inch, 2000 x 1200, 410 nits brightness, 213 ppi | **Processor**: MediaTek MT8188J, 2.2Ghz octa-core processor | **Storage**: 64GB or 128GB | **Memory:** 4GB | **Colors**: Gray | **Cameras**: 8MP rear and 8MP front-facing camera | **Weight**: 490 grams | **Dimensions**: 259.1 x 163.7 x 7.50 millimeters | **Connections**: 3.5mm headphone jack, USB-C port | **Battery life:** 14 hours
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best note-taking tablet?
 
@@ -231,7 +231,7 @@ However, if you want a tablet you can use for school and for everyday things lik
 | Amazon Fire Max 11                    | A budget-friendly tablet for under $350\. It is compatible with the Amazon Stylus pen, and you can also attach a keyboard to it.     |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best note-taking tablet
@@ -242,6 +242,10 @@ Before you buy a note-taking tablet, you'll want to consider the following:
 * **Stylus compatibility:** Most people use a stylus when taking notes on a tablet, so consider tablets that either come with a stylus right out of the box or have the option to buy one from the maker separately. It's important to note most universal styluses will also work with these tablets.
 * **Size:** Tablets that you will mainly use for note-taking purposes will have different requirements than tablets you need to replace a laptop with. Smaller size tablets are best for note-taking purposes and are lightweight and portable.
 * **Price:** Tablets will vary in price from $150 all the way up to $1,000 or more, depending on storage capacity, display quality, processors, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test tablets
 
@@ -258,10 +262,6 @@ For a deeper look into our testing process, check out our comprehensive [tablet 
 ## Do I need a stylus for a note-taking tablet?
 
 Using a stylus is totally up to you, but it can definitely help with functionality. Some tablets come with a stylus, while others will have them sold separately. If you're looking at this from a cost perspective, consider the fact that the stylus will often be an added expense, but you may find it worth it for ease of use, especially if you're the type that likes the feeling of writing out your notes rather than typing them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best note-taking apps?
 
@@ -321,22 +321,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/he-producers-playbook-strategies-to-win-over-youtube-viewers/"><u>[New] The Producer's Playbook Strategies to Win Over YouTube Viewers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-earning-a-living-with-social-media-snaps/"><u>[Updated] Earning a Living with Social Media Snaps</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-convert-facebook-hd-videos-to-mp4-720p1080p-no-cost-required/"><u>2024 Approved Convert Facebook HD Videos to MP4, 720P/1080p – No Cost Required</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/behind-the-magic-curtain-the-operation-of-predictive-ai/"><u>Behind the Magic Curtain: The Operation of Predictive AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-complexity-the-functioning-of-ai-black-boxes/"><u>Decoding Complexity: The Functioning of AI Black Boxes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725289471712-digiarty-dvd/"><u>Digiarty製品の専門家ガイド - DVDコピー方法とツール</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt4all-in-detail-comprehensible-explanation/"><u>GPT4All in Detail: Comprehensible Explanation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/healthful-cuisine-unlocked-through-tech-assistance/"><u>Healthful Cuisine Unlocked Through Tech Assistance</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 15 Plus?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-propel-your-youtube-journey-breakthroughs-at-the-500-subscriber-mark/"><u>In 2024, Propel Your YouTube Journey Breakthroughs at the 500-Subscriber Mark</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastery-of-machines-6-ways-to-lead-with-innovative-tech-savvy/"><u>Mastery of Machines: 6 Ways to Lead with Innovative Tech Savvy</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondlys-joint-venture-with-pearson-redefines-buttons/"><u>Mondly's Joint Venture with Pearson Redefines Buttons</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/precision-editing-via-gpt-assistance/"><u>Precision Editing via GPT Assistance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/speaking-tomorrow-advanced-ai-dialogues/"><u>Speaking Tomorrow: Advanced AI Dialogues</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/step-by-step-tutorial-on-making-your-videos-playable-in-mp4-on-mobile-platforms-like-android-and-ios/"><u>Step-by-Step Tutorial on Making Your Videos Playable in MP4 on Mobile Platforms Like Android and iOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-gamers-guide-to-the-5-best-mobile-phones-of-2er-year-insights-from-zdnet/"><u>Ultimate Gamer's Guide to the 5 Best Mobile Phones of 2Er Year - Insights From ZDNET</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/visionary-editing-top-free-enhancement-pages/"><u>Visionary Editing Top Free Enhancement Pages</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-how-to-on-using-voice-input-in-google-docs/"><u>[New] The Ultimate How-To on Using Voice Input in Google Docs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-20-gratis-plus-purchasable-luts-enhance-canon-cams/"><u>[Updated] 20 Gratis + Purchasable LUTs Enhance Canon Cams</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-best-practices-boosting-your-game-videos-with-tags/"><u>[Updated] In 2024, Best Practices Boosting Your Game Videos with Tags</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-networking-solutions-detailed-look-at-the-tp-link-archer-c9/"><u>Budget-Friendly Networking Solutions - Detailed Look at the TP-Link Archer C9</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/confronting-fraudgpts-deception-avoidance-techniques-unveiled/"><u>Confronting FraudGPT's Deception: Avoidance Techniques Unveiled</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-harness-youtubes-creative-commons-in-video-making-for-2024/"><u>How to Harness YouTube's Creative Commons in Video Making for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-vivo-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Vivo Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inside-the-world-of-kinemaster-a-deeper-look-at-gaming/"><u>In 2024, Inside the World of KineMaster A Deeper Look at Gaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insiders-look-at-chatbot-privacy-pitfalls-the-three-most-crucial/"><u>Insider's Look at Chatbot Privacy Pitfalls: The Three Most Crucial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-pro-showdown-deciding-on-the-right-flagship-tablet-for-your-needs-macworld-review/"><u>IPad Pro Showdown: Deciding on the Right Flagship Tablet for Your Needs | MacWorld Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/perfect-playtime-footage-with-nvidia-for-2024/"><u>Perfect Playtime Footage with NVIDIA for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/refine-your-apple-photo-collection-by-correcting-incorrectly-tagged-individuals/"><u>Refine Your Apple Photo Collection by Correcting Incorrectly Tagged Individuals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/staying-one-step-ahead-how-apple-is-fortifying-imessage-defenses-for-tomorrows-challenges-featured-on-zdnet/"><u>Staying One Step Ahead: How Apple Is Fortifying iMessage Defenses for Tomorrow's Challenges, Featured on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-world-of-grok-ai-through-elons-insights-into-its-function-and-cost/"><u>Unveiling the World of Grok AI Through Elon's Insights Into Its Function and Cost</u></a></li>
 </ul></div>
 

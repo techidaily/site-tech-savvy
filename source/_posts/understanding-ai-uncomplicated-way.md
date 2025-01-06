@@ -1,7 +1,7 @@
 ---
 title: Understanding AI, Uncomplicated Way
-date: 2024-09-06T23:33:15.530Z
-updated: 2024-09-07T23:33:15.530Z
+date: 2025-01-01T21:07:21.579Z
+updated: 2025-01-05T22:32:01.968Z
 tags:
   - chatgpt
   - open-ai
@@ -16,11 +16,9 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
 ## Understanding AI, Uncomplicated Way
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [The Simplest Explanation of AI](https://mindmanager.sjv.io/anq2nj)
@@ -51,49 +49,27 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
  But even with all this, computers still can't fully think or understand like humans. Modern AI systems don't have common sense, emotions, or consciousness.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AI in More Detail
 
 ![chatgpt read aloud feature smartphone screen with chatgpt logo blur](https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc79fa36684145aac317075ce9.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 
  Artificial intelligence (AI) is a branch of computer science aiming to build machines capable of mimicking human intelligence. It involves creating algorithms that allow computers to learn from and make decisions or predictions based on data rather than following only explicitly programmed instructions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Machine Learning (ML)
 
  Machine learning (ML), a subset of AI, involves systems that can "learn" from data. These algorithms improve their performance as the number of datasets they learn from increases.
 
  Deep learning, a further subset of machine learning, uses artificial neural networks to make decisions and predictions. It is designed to mimic how a human brain learns and makes decisions.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Natural Language Processing (NLP)
 
  Natural language processing (NLP) is another important aspect of AI, dealing with the interaction between computers and humans using natural language.
@@ -128,11 +104,9 @@ Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 ![chatgpt dalle logo creation on smartphone screen](https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc239157d241009df908a14c3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Gavin Phillips/MakeUseOf
 
  Even if you're not big into tech, you've probably heard the name "ChatGPT." [ChatGPT (short for Chat Generative Pre-transformer)](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) is a generative AI chatbot. But this isn't like the chatbots you may have used in the past. ChatGPT uses artificial intelligence to process natural human language, find data, and provide responses.
@@ -147,12 +121,6 @@ Gavin Phillips/MakeUseOf
 
  AI systems can more effectively detect trends, patterns, and inconsistencies than a typical computer (or human, for that matter). For example, an AI system could more distinctly highlight less obvious user habits or preferences for social media platforms, allowing it to show more personalized advertisements.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Production and Design
 
  When designing products, many elements must be considered. The cost of materials, how they're sourced, and how efficiently the product will perform are just a few factors that companies need to keep in mind, and this is where AI can help.
@@ -163,21 +131,23 @@ Gavin Phillips/MakeUseOf
 
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [AI-generated art](https://www.makeuseof.com/ways-ai-generated-art-changing-future-of-art/) took the world by storm in 2022, with products like DALL-E, Stable Diffusion, and Midjourney becoming extremely popular. These AI text-to-image tools [take a text-based prompt and generate an art piece](https://www.makeuseof.com/ai-text-to-art-generators/) based on the request.
 
  For example, if you type "purple sunset on the moon" into DALL-E, you'll get more than one result. Some art generators also let you pick a style for your generated image, such as vintage, hyperrealistic, or anime. DALL-E has evolved a lot since its initial release and is now on its third version, DALL-E 3\. You can [use DALL-E on ChatGPT Plus](https://www.makeuseof.com/how-to-use-dall-e-chatgpt-4-ai-images/) to generate AI images in your chats.
 
 ![microsoft image creator purple sunset on moon example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-image-creator-purple-sunset-on-moon-example.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Microsoft Image Creator/MakeUseOf
 
 [Some artists have rejected AI art generators](https://www.makeuseof.com/can-creatives-protect-art-from-generative-ai/), as they are trained on pre-existing online art to learn how to create their prompted pieces. Artists claim this is a breach of copyright and contributes to the theft of original art, an issue that already spans the web.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Future of AI
 
@@ -203,8 +173,6 @@ Microsoft Image Creator/MakeUseOf
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +180,21 @@ Microsoft Image Creator/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-frugal-shopping-for-cheap-vr-headsets-china/"><u>[New] In 2024, Frugal Shopping for Cheap VR Headsets (China)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-enhancing-video-tracking-adding-timestamps-in-youtube/"><u>[Updated] Enhancing Video Tracking Adding Timestamps in YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-pro-vs-apple-iphone-13-pro-for-tech-enthusiasts/"><u>6 Pro Vs. Apple iPhone 13 Pro for Tech Enthusiasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/captivate-with-these-14-astonishing-text-animations/"><u>Captivate with These 14 Astonishing Text Animations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-ai-generated-content-ownership/"><u>Dissecting AI-Generated Content Ownership</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-unparalleled-clarity-the-ai-powered-stereo-mode-of-the-iphone-16-pro-delivers-studio-grade-acoustics/"><u>Experience Unparalleled Clarity: The AI-Powered Stereo Mode of the iPhone 16 Pro Delivers Studio-Grade Acoustics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-based-worldbuilding-techniques/"><u>GPT-Based Worldbuilding Techniques</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-game-on-best-free-video-editing-software/"><u>New 2024 Approved Game On! Best Free Video Editing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-8-stop-motion-animation-software-for-mac-and-pc/"><u>New Top 8 Stop Motion Animation Software for Mac and PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-guide-to-ie-driver-setup-on-new-windows/"><u>Quick Guide to IE Driver Setup on New Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/speed-into-windows-11-quick-settings-guide/"><u>Speed Into Windows 11 Quick Settings Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unseen-uses-of-artificial-intelligence-a-chatgpt-case-study/"><u>Unseen Uses of Artificial Intelligence: A ChatGPT Case Study</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1715701203578-utilizing-inbuilt-cameras-for-screen-recording-on-mate-and-p-series-smartphones-mate-10-mate-20-p20-p10/"><u>Utilizing Inbuilt Cameras for Screen Recording on Mate and P Series Smartphones (Mate 10, Mate 20; P20, P10).</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-new-apple-ipad-air-is-your-best-tablet-option-expert-review/"><u>Why the New Apple iPad Air Is Your Best Tablet Option | Expert Review</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Top 4 New iPadOS 18 Updates Unveiled at Apple's WWDC 2024: Compatibility Breakdown for Various iPad Models"
-date: 2024-12-23T21:01:14.255Z
-updated: 2024-12-27T21:14:10.269Z
+date: 2024-12-30T06:13:24.003Z
+updated: 2025-01-06T09:41:48.698Z
 tags:
   - apple
 categories:
@@ -27,13 +27,13 @@ This year, Apple upgraded each of its operating systems significantly, introduci
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best iPadOS 18 features announced at WWDC
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence on the iPad
@@ -55,10 +55,6 @@ Because Siri is also an expert on your device's information, you can ask for an 
 iPad users can also leverage [generative AI](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/) system wide to create text, rewrite, summarize, and make major edits, like changing a tone and proofreading.
 
 Other new Apple Intelligence features on the iPad include redesigning the Photos app, enhanced Siri with gesture control via AirPods Pro, and more. These features will give iPad users a more intuitive tablet with better hands-free control and multitasking capabilities. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. A built-in Calculator for iPad
 
@@ -83,7 +79,7 @@ The Notes app for iPad also has been redesigned, with Smart Script in Notes for 
 Smart Script in Notes also lets users erase portions of notes by scratching them out. This feature also draws from the Calculator on iPad, letting users make calculations and graphs like they would in the Calculator. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. A Passwords app
@@ -97,7 +93,7 @@ Apple is making the new Passwords app available for iOS and iPadOS, giving users
 As a longtime LastPass user and Keychain disdainer, I look forward to testing this app and enjoying centralized password management with an enhanced user interface. I expect the Passwords app for iPad will greatly improve security for many users, making the access and management of passwords more convenient. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What we didn't get: An 'always on' display
@@ -121,6 +117,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which iPads will support iPadOS 18?
 
@@ -163,24 +163,24 @@ Here are the iPad models that will be updated to iPadOS 18 when available:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-premium-cameras-to-capture-the-spirit-of-live-music-in-hd/"><u>[New] 2024 Approved Premium Cameras to Capture the Spirit of Live Music in HD</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-innovating-film-viewing-with-iphone-tricks/"><u>[New] In 2024, Innovating Film Viewing with iPhone Tricks</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-non-proprietary-serene-tunes/"><u>[New] Non-Proprietary Serene Tunes</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-crafting-cinematic-magic-advanced-kinemaster-techniques/"><u>[Updated] Crafting Cinematic Magic Advanced Kinemaster Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pioneers-of-virtual-reality-top-vr-headsets-on-pc/"><u>[Updated] Pioneers of Virtual Reality Top VR Headsets on PC</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-tips-on-how-skip-edgenuity-videos-for-2024/"><u>[Updated] Tips on How Skip Edgenuity Videos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-silence-to-soundscape-step-by-step-in-audition/"><u>2024 Approved From Silence to Soundscape Step-by-Step in Audition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-connoisseurs-challenge-pick-the-prime-language-model/"><u>AI Connoisseurs' Challenge: Pick the Prime Language Model</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-how-ai-transforms-intellectual-property-laws/"><u>Decoding How AI Transforms Intellectual Property Laws</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-easier-iphone-how-apples-latest-phone-outshines-its-ancestors-in-maintenance/"><u>Discover the Easier iPhone 지절리 수리: How Apple's Latest Phone Outshines Its Ancestors in Maintenance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-mobile-gems-real-life-testimonials-editors-on-their-favorite-smartphones/"><u>Discover the Mobile Gems: Real-Life Testimonials Editors on Their Favorite Smartphones</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-to-penning-perfect-steam-game-critiques/"><u>Guide to Penning Perfect Steam Game Critiques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ios-174-update-brings-podcast-transcript-features-latest-emoji-additions-and-major-modifications-to-the-european-apple-app-store-tech-news/"><u>IOS 17.4 Update Brings Podcast Transcript Features, Latest Emoji Additions & Major Modifications to the European Apple App Store | Tech News</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/primary-vernacular-inhabiting-israeli-terrain/"><u>Primary Vernacular Inhabiting Israeli Terrain?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/remote-operations-enhanced-by-chatgpt-discover-the-six/"><u>Remote Operations Enhanced by ChatGPT – Discover the Six</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/satellite-enabled-emergency-messaging-on-the-revolutionary-new-google-pixel-9-a-game-changer-in-crisis-communications/"><u>Satellite-Enabled Emergency Messaging on the Revolutionary New Google Pixel 9: A Game-Changer in Crisis Communications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-extending-hard-drive-size-at-zero-cost-in-windows/"><u>Strategies for Extending Hard Drive Size at Zero Cost in Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-screenplays-with-chatgpt-assisted-youtube-creation/"><u>Transform Your Screenplays with ChatGPT-Assisted YouTube Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transition-from-finewoven-to-beats-how-apple-revamps-accessories-lineup-for-enhanced-audio-experience-cnet/"><u>Transition From FineWoven to Beats: How Apple Revamps Accessories Lineup for Enhanced Audio Experience | CNET</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-commanding-the-screen-top-10-women-gamers-yt/"><u>[Updated] 2024 Approved Commanding the Screen Top 10 Women Gamers YT</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-get-perfect-film-endings-for-your-projects-on-the-house-for-2024/"><u>[Updated] Get Perfect Film Endings for Your Projects - On the House for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-enhancing-visual-experiences-a-deep-dive-into-video-enhancer-22/"><u>[Updated] In 2024, Enhancing Visual Experiences A Deep Dive Into Video Enhancer 2.2</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-optimizing-social-media-for-vimeo-sharing/"><u>[Updated] In 2024, Optimizing Social Media for Vimeo Sharing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-live-broadcast-battlefield-obs-versus-shadowplay/"><u>[Updated] Live Broadcast Battlefield OBS Versus ShadowPlay</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-digital-driving-easily-integrating-your-license-into-the-apple-wallet-on-ios-devices-a-region-specific-guide/"><u>1. Digital Driving: Easily Integrating Your License Into the Apple Wallet on iOS Devices - A Region-Specific Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-4k-odyssey-begins-here-exploring-the-eizo-cg318-4k-monitor/"><u>A 4K Odyssey Begins Here – Exploring the EIZO CG318-4K Monitor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compare-iphone-16-and-iphone-15-key-differences-before-you-switch-to-the-latest-base-model-by-apple-gizmopulse/"><u>Compare iPhone 16 & iPhone 15: Key Differences Before You Switch to the Latest Base Model by Apple | GizmoPulse</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/could-ai-enable-new-ways-to-hack-your-financial-systems/"><u>Could AI Enable New Ways to Hack Your Financial Systems?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-chatgpt-paving-the-way-for-generative-innovations/"><u>Delving Into ChatGPT: Paving the Way for Generative Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-anthropics-ai-creative-suite/"><u>Exploring Anthropic's AI Creative Suite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-videos-from-iphone-15-plus-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Videos from iPhone 15 Plus Without Backup? | Stellar</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-iphone-13-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or iPhone 13 from iCloud</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-ai-throughout-best-5-prompt-geners/"><u>Revolutionizing AI Throughout: Best 5 Prompt Geners</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-to-fix-when-xlivedll-is-not-detected-or-lost-in-windows/"><u>Solutions to Fix When Xlive.dll Is Not Detected or Lost in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-wave-of-risks-in-generative-ai-tech/"><u>The Next Wave of Risks in Generative AI Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-crypto-warning-signs-for-bingchat-token-schemes/"><u>The Ultimate Crypto Warning Signs for BingChat Token Schemes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-places-to-preorder-ipad-pro-ipad-air-and-new-apple-pencil-pro-exclusive-current-offers/"><u>Top Places to Preorder iPad Pro, iPad Air & New Apple Pencil Pro: Exclusive Current Offers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/bes-secret-to-flawless-video-spin-guide-and-tips/"><u>YouTube's Secret to Flawless Video Spin (Guide & Tips)</u></a></li>
 </ul></div>
 

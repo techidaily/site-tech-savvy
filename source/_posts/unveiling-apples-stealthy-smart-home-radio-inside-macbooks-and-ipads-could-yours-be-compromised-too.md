@@ -1,7 +1,7 @@
 ---
 title: Unveiling Apple's Stealthy Smart Home Radio Inside MacBooks and iPads - Could Yours Be Compromised Too?
-date: 2024-12-20T19:59:17.427Z
-updated: 2024-12-27T21:22:59.408Z
+date: 2024-12-30T22:02:36.902Z
+updated: 2025-01-06T09:36:22.610Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ When Apple launched the iPhone 15 lineup last fall, [it announced](https://www.a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPads with a Thread radio:
 
 * [iPad Pro 13-inch Wi-Fi & Cellular (M4)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-13-Inch-Landscape%2Fdp%2FB0D3J6W9TW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C805fde8f-ca67-4679-84b7-c724546e09cc%7Cdtp&dtb=1) \- [_FCC report_](https://fcc.report/FCC-ID/BCGA2926/7226463)
@@ -35,6 +39,10 @@ When Apple launched the iPhone 15 lineup last fall, [it announced](https://www.a
 * [iPad Pro 11-inch Wi-Fi (M4)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6L2ZC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C805fde8f-ca67-4679-84b7-c724546e09cc%7Cdtp&dtb=1) \- [_FCC report_](https://fcc.report/FCC-ID/BCGA2836/7222685)
 * [iPad Air 13-inch Wi-Fi (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J7GPRX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C805fde8f-ca67-4679-84b7-c724546e09cc%7Cdtp&dtb=1) \- [_FCC report_](https://fcc.report/FCC-ID/BCGA2898/7213158)
 * [iPad Air 11-inch Wi-Fi & Cellular (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J61DQ4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C805fde8f-ca67-4679-84b7-c724546e09cc%7Cdtp&dtb=1) \- [_FCC report_](https://fcc.report/FCC-ID/BCGA2898/7213158)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Macs with a Thread radio:
 
@@ -63,7 +71,7 @@ Since the iPad and Mac run Apple's Home app, they could function as Thread borde
 The best way to determine if your device has a Thread radio built-in is to look for evidence of Thread testing in the device's [FCC reports](https://fcc.report/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Find your device's model number or FCC ID
@@ -74,13 +82,13 @@ You can also look for your [iPad](https://support.apple.com/en-us/108043), [MacB
 
 **Also: [The M4 iPad Pro's true potential will be realized at WWDC, and AI will have a lot to do with it](https://www.zdnet.com/article/the-m4-ipad-pros-true-potential-will-be-realized-at-wwdc-and-ai-will-have-a-lot-to-do-with-it/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Access the Apple FCC database
 
 You can access the Apple FCC database by clicking [FCC.Report/company/Apple](https://fcc.report/company/apple). This will bring up a complete list of the company's FCC reports, from the first one in 1981 through today.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Search for your device's model number or FCC ID
 
@@ -92,19 +100,11 @@ Clicking on the device's report will bring up a list of all the reports created 
 
 **Also: [iPad Air (2024) review: Apple's M2 tablet is even better than my $1,200 Android](https://www.zdnet.com/article/ipad-air-2024-review/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Find the Thread testing report
 
 Search for any test reports mentioning "Thread" or "IEEE 802.15.4," which is the technical standard on which Thread is built. 
 
 If a Thread radio exists in that device, you should find a report of its compliance testing since a non-existent feature wouldn't be tested.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -132,10 +132,6 @@ Thread creates a self-healing mesh network, so having more border routers in a s
 
 For example, if you have a Thread smart lock and temperature sensor and a Wi-Fi smart thermostat, a Thread border router like the HomePod mini connects the smart lock and sensor to the Wi-Fi network and enables communication between the sensor and thermostat. It also would allow you to control all three devices through a single app -- in this case, Apple Home -- even if you're not home.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why would Apple give some iPads and Macs Thread radios and not all?
 
 No Thread protocol information was found for the [11-inch M2 Wi-Fi iPad Air](https://fcc.report/FCC-ID/BCGA2902/) or the [13-inch M3 Macbook Air](https://fcc.report/FCC-ID/BCGA3113/). This doesn't guarantee that a Thread radio isn't included in these devices, but Apple likely used a simpler chip for these starter models.
@@ -143,6 +139,10 @@ No Thread protocol information was found for the [11-inch M2 Wi-Fi iPad Air](htt
 **Also: [Google Home pro tip: How to use Gemini to broadcast messages between your Nest devices](https://www.zdnet.com/home-and-office/smart-home/google-home-pro-tip-how-to-use-gemini-to-broadcast-messages-between-your-nest-devices/)**
 
 While Apple hasn't explicitly confirmed this information, the company may have used tri-band radio chips in the iPads and Macs with Thread radios. These integrated circuits support three different frequency bands for wireless communication, combining Wi-Fi, Bluetooth, and Thread into a single chip to make it more energy-efficient and compact. The multi-protocol support helps future-proof devices by supporting emerging wireless protocols.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will iPads and Macs be Thread border routers?
 
@@ -204,20 +204,19 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-step-by-step-srt-manipulation-for-mac-enthusiasts/"><u>[New] 2024 Approved Step-by-Step SRT Manipulation for Mac Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-your-favorite-top-10-youtube-and-facebooks-music-gems/"><u>2024 Approved Your Favorite Top 10 YouTube & Facebook's Music Gems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beware-of-ai-written-content-spotting-fake-texts/"><u>Beware of AI-Written Content: Spotting Fake Texts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-the-future-architect-of-your-smart-home-experience/"><u>ChatGPT: The Future Architect of Your Smart Home Experience</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/continued-protection-for-windows-11-beyond-2025-subscription-required/"><u>Continued Protection for Windows 11 Beyond 2025 – Subscription Required?</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/effortless-system-preparation-with-aomei-image-deploy-for-windows-111087/"><u>Effortless System Preparation with AOMEI Image Deploy for Windows 11/10/8/7</u></a></li>
-<li><a href="https://win-studio.techidaily.com/expert-tips-on-disconnecting-your-gpu-without-risk-yl-softwares-essential-advice/"><u>Expert Tips on Disconnecting Your GPU Without Risk - YL Software's Essential Advice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/intel-cpu-owners-take-note-game-dev-offers-solutions-to-mitigate-crashes-on-13th-and-14th-gen-models-click-for-guide/"><u>Intel CPU Owners, Take Note! Game Dev Offers Solutions to Mitigate Crashes on 13Th & 14Th Gen Models – Click for Guide!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/keeping-your-epson-wf-7720-in-top-shape-with-newest-windows-compatible-drivers/"><u>Keeping Your Epson WF-7720 in Top Shape with Newest Windows Compatible Drivers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/kickstart-your-ai-journey-with-insights-from-9-community-guides/"><u>Kickstart Your AI Journey with Insights From 9 Community Guides</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/nine-considerations-determining-the-viability-of-prompt-crafting-professionals/"><u>Nine Considerations Determining the Viability of Prompt Crafting Professionals</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207162018-pdf-wont-print-try-these-simple-and-effective-tricks-immediately/"><u>PDF Won't Print? Try These Simple and Effective Tricks Immediately.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rediscovering-my-smartphone-after-three-years-an-in-depth-analysis-for-tech-enthusiasts-zdnet-insights/"><u>Rediscovering My Smartphone After Three Years: An In-Depth Analysis for Tech Enthusiasts | ZDNET Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reignite-creativity-top-9-perks-of-upgrading-to-chatgpt-plus/"><u>Reignite Creativity: Top 9 Perks of Upgrading to ChatGPT Plus</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restoring-your-videos-performance-potential/"><u>Restoring Your Video's Performance Potential</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-future-filming-top-15-video-cameras-to-watch/"><u>[Updated] Future Filming – Top 15 Video Cameras to Watch</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-streamlining-access-to-subscriber-information/"><u>[Updated] In 2024, Streamlining Access to Subscriber Information</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/animal-inspired-robotics-insights-from-the-new-breed-a-comprehensive-review-on-non-human-models-in-tech/"><u>Animal-Inspired Robotics: Insights From 'The New Breed' - A Comprehensive Review on Non-Human Models in Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-smart-assistant-premium-subscription-opportunity-at-20month-a-future-prospect/"><u>Apple Smart Assistant: Premium Subscription Opportunity at $20/Month - A Future Prospect</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-language-ai-deciding-between-bing-and-gpt-3/"><u>Choosing the Right Language AI: Deciding Between Bing and GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-ipad-pro-and-macbook-air-finding-the-perfect-match-based-on-user-requirements-featured/"><u>Comparing iPad Pro and MacBook Air: Finding the Perfect Match Based on User Requirements | Featured</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-hidden-acoustic-gems-expertly-crafted-obs-sounds-without-recognition-using-movavi-software/"><u>Discover Hidden Acoustic Gems: Expertly Crafted OBS Sounds without Recognition Using Movavi Software</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-lava-blaze-2-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Blaze 2 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-ultimate-guide-to-vivacut-a-detailed-2024-review/"><u>The Ultimate Guide to VivaCut A Detailed 2024 Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-chatgpt-strategies-for-data-analysis-professionals/"><u>Top 6 ChatGPT Strategies for Data Analysis Professionals</u></a></li>
+<li><a href="https://win-web.techidaily.com/understanding-the-basics-of-cryptocurrency-mining-a-step-by-step-guide-by-yl-computing/"><u>Understanding the Basics of Cryptocurrency Mining: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-effortless-audio-with-sonos-s2s-new-software-yet-be-aware-of-surprises-inside/"><u>Unlock Effortless Audio With Sonos S2's New Software, Yet Be Aware of Surprises Inside</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlock-hidden-potential-boost-productivity-essential-multitasking-tips-for-podcast-lovers/"><u>Unlock Hidden Potential, Boost Productivity Essential Multitasking Tips for Podcast Lovers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-claude-how-it-redefines-modern-business/"><u>Unveiling the Power of Claude: How It Redefines Modern Business</u></a></li>
 </ul></div>
 

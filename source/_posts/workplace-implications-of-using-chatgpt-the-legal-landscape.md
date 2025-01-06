@@ -1,7 +1,7 @@
 ---
 title: "Workplace Implications of Using ChatGPT: The Legal Landscape"
-date: 2024-09-06T23:31:13.460Z
-updated: 2024-09-07T23:31:13.460Z
+date: 2024-12-29T18:56:33.880Z
+updated: 2025-01-06T01:04:10.704Z
 tags:
   - chatgpt
   - open-ai
@@ -24,11 +24,9 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
  Whether or not using AI can lead to termination varies case by case. To help you understand the guidelines, let’s discuss how employers generally see these use cases of ChatGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Publishing ChatGPT-Generated Articles
 
  Considering the accessibility and sophistication of language models, you might consider publishing AI content. Offloading writing tasks to ChatGPT will boost your output. It only needs seconds to generate a coherent, error-free blog on any given topic.
@@ -36,21 +34,13 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
 ![ChatGPT Writing the Intro and Body of an Article About Ai](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-writing-and-article-about-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Although convenient, we advise against submitting AI content. ChatGPT merely scrapes and rephrases information from datasets—its output likely contains plagiarized text. Your employer can fire you for plagiarism if you carelessly use them in your articles.
 
  Explore [responsible ways of writing with AI](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) instead. ChatGPT streamlines non-writing tasks, like researching topics, editing drafts, and analyzing reader personas.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Automating Employee Performance Reviews Through ChatGPT
 
  ChatGPT’s sophisticated [natural language processing](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) (NLP) system understands input and produces corresponding responses. Some employees rely on it for drafting performance reports. They make ChatGPT write customized reviews by submitting their subordinates’ key performance indicators (KPIs).
@@ -61,62 +51,36 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
 
 ![Person Highlighting Parts of a Contract in Green](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/highilighting-parts-of-contract.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [OpenAI](https://openai.com/policies/terms-of-use) states in its terms of use that ChatGPT records and reviews all user conversations. The company uses non-API content for data training. While [ChatGPT doesn’t learn from chats in real-time](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/), its trainers still screen and filter input. You should never divulge company information.
 
  Considering these privacy guidelines, uploading legal paperwork onto ChatGPT violates the non-disclosure agreement between you and your employer. You’ll likely get fired and sued if you get caught.
 
  Moreover, ChatGPT can only customize its output to an extent. Carelessly trusting the generic contracts it drafts might cause legal complications down the road. Run all your paperwork through the appropriate professionals.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Using ChatGPT to Generate Reports and Insights
 
  Only use ChatGPT for research when analyzing reports. AI can help test formulas and answer general knowledge questions, but you should never feed it company insights. Again, OpenAI records all conversations. Your employer might sue you and terminate your employment contract for breaching the NDA.
 
  And make sure you double-check the figures that ChatGPT presents. Blindly trusting AI’s formulas will cause errors in your computations, which might get you into trouble. Employers could also fire you if you consistently submit erroneous data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Making ChatGPT Reply to Messages
 
 ![Copy-Pasting Message from ChatGPT to Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-replying-to-message.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A study by [McKinsey & Company](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-social-economy) shows that employees spend 28 percent of the workweek answering and reading messages. To save time, you might consider automating some responses. ChatGPT can compose customized output based on the messages and instructions you input.
 
  Although you won’t get fired, you should still avoid sending ChatGPT-generated responses. They come across as rude and distant. You’ll elicit more favorable responses if you compose unique, personalized messages.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Composing Emails on ChatGPT
 
  Employees find it harder to write emails than chat messages because of their formal nature. To hasten the writing process, they [compose difficult emails on ChatGPT](https://www.makeuseof.com/use-chatgpt-write-work-emails/).
 
  Like automated AI replies, workers rarely get fired for sending ChatGPT-generated emails. It just makes them look unprofessional. Use AI to generate writing prompts and create outlines, but you should still compose messages yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Doing Research and Analyses on ChatGPT
 
  Many companies encourage using ChatGPT for research purposes. It’s a powerful chatbot that scours vast datasets comprising various subjects. [Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) reports that OpenAI fed the platform 300 billion words, while ChatGPT Plus has access to real-time information online. It can help you explore any topic under the sun.
@@ -133,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
 
  Explore [ethical ways of using ChatGPT in programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/). Most employers are okay with their dev team researching algorithms, generating placeholders, and refracting snippets on AI tools, but you must write and edit codes manually.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Editing Articles and Papers With ChatGPT
 
  ChatGPT can help you edit drafts. Its sophisticated language model detects awkward sentences, grammatical errors, and even incoherent statements. Take the below conversation as an example. We asked for constructive criticism based on our preferred style guide and tonality.
@@ -146,16 +114,18 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
 ![Red and Green Prices on a Financial Chart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/financial-charts-and-scores-on-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  One of [OpenAI’s worst issues with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) is that it gets confused with word and number problems. You can only ask intermediate-level questions. Making ChatGPT analyze complex financial reports would likely produce errors and inaccuracies.
 
  That said, using AI for data analysis won’t automatically lead to termination. Most employers only fire workers who carelessly rely on AI tools and submit figures without verifying them.
 
  You can still offload some tasks to ChatGPT, like drawing charts or writing summaries. Just note that it lacks contextual understanding and takes input at face value—you must perform fact-checking yourself.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use ChatGPT Ethically and Responsibly
 
@@ -167,14 +137,11 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
 
  Whether or not using AI can lead to termination varies case by case. To help you understand the guidelines, let’s discuss how employers generally see these use cases of ChatGPT.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -183,4 +150,22 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-masterful-instagram-storytelling-with-templates-and-hacks-for-2024/"><u>[New] Masterful Instagram Storytelling with Templates & Hacks for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-enhance-your-shots-top-paid-and-free-iphone-photography-apps/"><u>[Updated] 2024 Approved Enhance Your Shots Top Paid and Free iPhone Photography Apps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-broadcasting-facebook-videos-whats-the-future-like-in-2024/"><u>[Updated] Broadcasting Facebook Videos What's the Future Like, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/behind-the-curtain-elon-and-truthgpt/"><u>Behind the Curtain: Elon and TruthGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-titans-of-text-googles-palm-2-and-ais-gpt-4/"><u>Comparing Titans of Text: Google's PaLM 2 & AI's GPT-4</u></a></li>
+<li><a href="https://techtrends.techidaily.com/education-on-demand-a-list-of-9-crucial-tech-tools-every-learner-needs/"><u>Education on Demand: A List of 9 Crucial Tech Tools Every Learner Needs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-impact-of-apples-tandem-oled-technology-in-the-next-generation-ipads-insights-from-zdnet/"><u>Exploring the Impact of Apple's Tandem OLED Technology in the Next Generation iPads: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/extend-apple-watch-lifetime-8-key-setup-adjustments-for-enhanced-battery-efficiency/"><u>Extend Apple Watch Lifetime - 8 Key Setup Adjustments for Enhanced Battery Efficiency.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/galaxy-ai-breakthrough-elevates-samsung-amidst-tech-shakeup-as-google-faces-regulatory-hurdles-in-latest-innovation-rankings-zdnet-insights/"><u>Galaxy AI Breakthrough Elevates Samsung Amidst Tech Shakeup as Google Faces Regulatory Hurdles in Latest Innovation Rankings | ZDNET Insights</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/maximize-your-google-meet-experience-with-effective-use-of-digital-boards-on-any-os-for-2024/"><u>Maximize Your Google Meet Experience with Effective Use of Digital Boards on Any OS for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-smartphone-photography-the-iphone-16-now-features-visual-intelligence-comparable-to-google-lens-tech-news/"><u>Revolutionizing Smartphone Photography: The iPhone 16 Now Features Visual Intelligence Comparable to Google Lens | Tech News</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unbelievable-deal-alert-apple-m2-macbook-air-available-now-for-just-800-before-october-prime-day-shop-at-amazon/"><u>Unbelievable Deal Alert: Apple M2 MacBook Air Available Now for Just $800 Before October Prime Day - Shop at Amazon!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unobtrusive-ways-to-sync-your-airpods-to-the-quest-3-a-guide-for-considerate-tech-enthusiasts/"><u>Unobtrusive Ways to Sync Your AirPods to the Quest 3 – A Guide for Considerate Tech Enthusiasts</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/what-is-talking-avatar/"><u>What Is Talking Avatar?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-apple-vision-pro-offers-the-best-in-store-experience-insights-and-reservation-tips/"><u>Why Apple Vision Pro Offers the Best In-Store Experience: Insights & Reservation Tips</u></a></li>
+</ul></div>
 

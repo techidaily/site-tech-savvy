@@ -1,7 +1,7 @@
 ---
 title: "Simplifying Complexity: Python's Role in GPT-3"
-date: 2024-09-06T23:33:32.591Z
-updated: 2024-09-07T23:33:32.591Z
+date: 2025-01-04T09:34:57.765Z
+updated: 2025-01-06T05:17:47.676Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Simplifying Complexity: Python's Role in GPT-3"
 thumbnail: https://thmb.techidaily.com/ddf4423afddb9cc05befc8c29dab68251d90672059623bcb13035bb3744866c7.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Simplifying Complexity: Python's Role in GPT-3
 
  An AI storm has swept across the world. The release of OpenAI's ChatGPT has sent developers and curious users into a frenzy. OpenAI has gathered a whopping 100 million active users within two months of its launch and people have already started building applications using it.
@@ -40,11 +34,9 @@ thumbnail: https://thmb.techidaily.com/ddf4423afddb9cc05befc8c29dab68251d9067205
  If you're wondering what GPT-3 is capable of, then you can explore some of the [creative uses for GPT-3 in OpenAI Playground](https://www.makeuseof.com/creative-uses-for-gpt-3-openai-playground/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Generating the API Key
 
  To use GPT-3 with Python you need to generate an API key. To view your API key, follow these steps:
@@ -53,26 +45,13 @@ thumbnail: https://thmb.techidaily.com/ddf4423afddb9cc05befc8c29dab68251d9067205
 2. Click on your profile and select the **View API Keys** button.  
 ![View API Key of OpenAI website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/view-api-key-of-openai-website-1.jpg)
 3. Click on **Create new secret key** to generate your API key.  
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Create Secret API Screen of OpenAI website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/create-secret-api-screen-of-openai-website.jpg)
 4. Copy your API key and keep it in a secure location as you won't be able to view it again.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  OpenAI's GPT-3 API charges you based on the number of tokens (words) you use to interact with it. Luckily, OpenAI provides $18 of credit for free for the first three months, so you can explore it and experiment according to your needs.
 
@@ -121,11 +100,9 @@ main()`
  Put it all together and use Artificial Intelligence to answer your questions.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Output of Your GPT-3-Enabled Python Program
 
  When you run the program, it will ask you to enter a question. On entering the prompt, "Write a poem in 5 lines about how Iron Man is the greatest superhero of all time," the program produced the following impressive output:
@@ -133,17 +110,13 @@ main()`
 ![Output of using GPT3 with Python](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/output-of-using-gpt3-with-python.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## GPT-3 Has Many Interesting Applications
 
  You can use GPT-3 to accomplish some pretty amazing feats. You use it as a chatbot that will give you fresh realistic answers on every prompt. You can generate poems, scripts, stories, slogans, essays, headlines, and a lot more. You can even summarize long pieces of text, generate code, converse infinitely, and get conversation based on past prompts as well.
@@ -160,8 +133,6 @@ main()`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +140,21 @@ main()`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-detailed-analysis-of-the-latest-picsart-app-features-for-2024/"><u>[New] Detailed Analysis of the Latest PicsArt App Features for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-expertly-curated-list-of-10-best-windows-cameras/"><u>[New] Expertly Curated List of 10 Best Windows Cameras</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-step-by-step-guide-to-create-engaging-thumbnails-for-your-videos-on-youtube/"><u>[New] In 2024, Step-by-Step Guide to Create Engaging Thumbnails for Your Videos on YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-guide-to-online-image-sharpening/"><u>[Updated] Advanced Guide to Online Image Sharpening</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-no-fuss-streaming-technique-for-podcasts/"><u>[Updated] No-Fuss Streaming Technique for Podcasts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-in-depth-insights-on-preserving-ps4-gaming-history/"><u>2024 Approved In-Depth Insights on Preserving PS4 Gaming History</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-assisted-recruitment-discover-the-best-10-ways-to-utilize-gpt-on-linkedin-jobsites/"><u>AI Assisted Recruitment: Discover the Best 10 Ways to Utilize GPT on LinkedIn Jobsites</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/binggpt-crypto-fraud-alerts-detecting-illegitimate-tokens/"><u>BingGPT Crypto Fraud Alerts: Detecting Illegitimate Tokens</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-creativity-anthropics-new-ai-tools/"><u>Mastering Creativity: Anthropic's New AI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/running-windows-11-on-your-m1-mac-with-parallels-desktop-18-a-practical-guide/"><u>Running Windows 11 on Your M1 Mac with Parallels Desktop 18 - A Practical Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlined-performance-with-solved-r9-windows-10-problems/"><u>Streamlined Performance with Solved R9 Windows 10 Problems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-the-future-of-interactive-entertainment-an-in-depth-look-at-sonys-playstation/"><u>Unboxing the Future of Interactive Entertainment: An In-Depth Look at Sony's PlayStation 지킬</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-locked-away-gpt-history/"><u>Unlocking Locked-Away GPT History</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-quintupled-impact-ai-in-criminal-computing/"><u>Unraveling the Quintupled Impact: AI in Criminal Computing</u></a></li>
+</ul></div>
 

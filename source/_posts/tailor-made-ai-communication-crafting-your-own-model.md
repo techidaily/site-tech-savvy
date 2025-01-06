@@ -1,7 +1,7 @@
 ---
 title: "Tailor-Made AI Communication: Crafting Your Own Model"
-date: 2024-09-06T23:32:25.003Z
-updated: 2024-09-07T23:32:25.003Z
+date: 2025-01-03T17:11:26.740Z
+updated: 2025-01-06T05:35:56.882Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Tailor-Made AI Communication: Crafting Your Own
 thumbnail: https://thmb.techidaily.com/73077bb518e58764d0d667c24acb26e31ce2706dfa4d55a382cb32e354e1f132.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tailor-Made AI Communication: Crafting Your Own Model
 
  Providing GPT technology in a powerful and easy-to-use chatbot, ChatGPT has become the world's most popular AI tool. Many people use ChatGPT to provide engaging conversations, answer queries, offer creative suggestions, and aid in coding and writing. However, ChatGPT is limited as you cannot store your data for long-term personal use, and its September 2021 knowledge data cutoff point.
@@ -29,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/73077bb518e58764d0d667c24acb26e31ce2706df
 
  As a workaround, we can use OpenAI's API and LangChain to provide ChatGPT with custom data and updated info past 2021 to create a custom ChatGPT instance.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Provide ChatGPT with Custom Data?
 
  Feeding ChatGPT with custom data and providing updated information beyond its knowledge cutoff date provides several benefits over just using ChatGPT as usual. Here are a few of them:
@@ -44,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/73077bb518e58764d0d667c24acb26e31ce2706df
 * **Current and Accurate Information:** Access to updated information ensures that ChatGPT stays current with the latest developments and knowledge. It can provide accurate responses based on recent events, news, or research, making it a more reliable source of information.
 
  Now that you understand the importance of providing custom data to ChatGPT, here's a step-by-step on how to do so on your local computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 1: Install and Download Software and Pre-Made Script
 
@@ -63,22 +55,14 @@ thumbnail: https://thmb.techidaily.com/73077bb518e58764d0d667c24acb26e31ce2706df
 
 ![Adding Python to PATH](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/1-download-python.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When Installing Microsoft C++, you'll want to install **Microsoft Visual Studio Build Tools** first. Once installed, you can tick the **Desktop development with C++** option and click **Install** with all the optional tools automatically ticked on the right sidebar.
 
 ![Installing Microsoft C++ through Build Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-install-c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now that you have installed the latest versions of Python3, Git, and Microsoft C++, you can download the Python script to easily query custom local data.
 
 **Download:** [ChatGPT-retrieval script](https://github.com/techleadhd/chatgpt-retrieval) (Free)
@@ -94,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/73077bb518e58764d0d667c24acb26e31ce2706df
  To set up the environment, you'll need to open a terminal in the chatgpt-retrieval-main folder you downloaded. To do that, open **chatgpt-retrieval-main** folder, right-click, and select **Open in Terminal**.
 
 ![Opening terminal on directory folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-open-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the terminal is open, copy and paste this command:
 
@@ -111,13 +99,11 @@ pip install langchain openai chromadb tiktoken unstructured
 
 ![Adding API key as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-api-key.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now that you have successfully set up your virtual environment and added your OpenAI API key as an environment variable. You can now provide your custom data to ChatGPT.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 3: Adding Custom Data
 
@@ -125,20 +111,12 @@ pip install langchain openai chromadb tiktoken unstructured
 
 ![Adding custom data for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-data.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As you can see from the screenshot above, I've added a text file containing a made-up personal schedule, an article I wrote on [AMD's Instinct Accelerators](https://www.makeuseof.com/what-are-amd-instinct-ai-accelerators/), and a PDF document.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 4: Querying ChatGPT Through Terminal
 
  The Python script allows us to query data from the custom data we've added to the data folder and the internet. In other words, you will have access to the usual ChatGPT backend and all the data stored locally in the data folder.
@@ -153,18 +131,16 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 
 ![Testing ChatGPT with custom data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/visit.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It worked! This means ChatGPT was able to read the Personal Sched.txt provided earlier. Now let's see if we have successfully fed ChatGPT with information it does not know due to its knowledge cutoff date.
 
 ![Asking custom ChatGPT about topic outside knowledge cut off data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/m250x.jpg)
 
  As you can see, it correctly described the AMD Instinct MI250x, which was released after ChatGPT -3's knowledge cutoff date.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Limitations of Custom ChatGPT
 
  Although feeding GPT-3.5 with custom data opens more ways to apply and use the LLM, there are a few drawbacks and limitations.
@@ -175,12 +151,6 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 
  Lastly, the only model currently available is GPT-3.5 Turbo. So even if you have access to GPT-4, you won't be able to use it to power your custom ChatGPT instance.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Custom ChatGPT Is Awesome But Limited
 
  Providing custom data to ChatGPT is a powerful way to get more out of the model. Through this method, you can feed the model with any text data you want and prompt it just like regular ChatGPT, albeit with some limitations. However, this will change in the future as it becomes easier to integrate our data with the LLM, along with access to the latest GPT-4 model.
@@ -189,14 +159,11 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 
  As a workaround, we can use OpenAI's API and LangChain to provide ChatGPT with custom data and updated info past 2021 to create a custom ChatGPT instance.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -205,4 +172,22 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-collecting-conquerors-8-tools-every-business-leader-cant-overlook-for-2024/"><u>[Updated] Collecting Conquerors 8 Tools Every Business Leader Can’t Overlook for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-soundscape-starters-best-music-playlists-for-podcast-openings/"><u>[Updated] Soundscape Starters Best Music Playlists for Podcast Openings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-apple-developers-exult-as-advanced-ai-enhancements-revolutionize-their-development-toolkit-zdnet/"><u>1. Apple Developers Exult as Advanced AI Enhancements Revolutionize Their Development Toolkit - ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-nokia-c210-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Nokia C210</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-fixing-ieframedll-errors-on-your-computer-or-device/"><u>Expert Tips: Fixing Ieframe.dll Errors on Your Computer or Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experts-pick-the-ultimate-iphone-16-and-iphone-16-pro-cases-of-2024-in-depth-analysis-zdnet/"><u>Experts Pick the Ultimate iPhone 16 and iPhone 16 Pro Cases of 2024: In-Depth Analysis | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fast-charging-revolution-esr-unveils-its-latest-qi2-magsafe-batch-enabling-rapid-iphone-13-recharge-with-cryoboost-technology/"><u>Fast-Charging Revolution: ESR Unveils Its Latest Qi2 MagSafe Batch, Enabling Rapid iPhone 13 Recharge with CryoBoost Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fend-off-fears-with-gpt-assisted-adventure-tips/"><u>Fend Off Fears with GPT-Assisted Adventure Tips?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hdr-tech-showdown-sns-vs-alternatives/"><u>HDR Tech Showdown SNS vs Alternatives</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-and-tips-for-addressing-dbase-help-dbghelp-dll-not-found-problems/"><u>Solutions and Tips for Addressing dBase Help (Dbghelp) DLL Not Found Problems</u></a></li>
+<li><a href="https://facebook.techidaily.com/sprinkle-life-back-into-your-dead-end-facebook-account/"><u>Sprinkle Life Back Into Your Dead-End Facebook Account</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-communication-chatgpt-and-android/"><u>The Future of Communication - ChatGPT & Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-leading-digital-note-taking-apps-with-artificinas-intelligence/"><u>The Leading Digital Note Taking Apps with Artificinas Intelligence</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tweaking-playback-velocity-on-netflix-devices/"><u>Tweaking Playback Velocity on Netflix Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/umwandlung-von-dvd-discs-in-digitale-dateien-anleitung-zur-konvertierung-auf-windows-11mac/"><u>Umwandlung Von DVD-Discs in Digitale Dateien: Anleitung Zur Konvertierung Auf Windows 11/Mac</u></a></li>
+</ul></div>
 

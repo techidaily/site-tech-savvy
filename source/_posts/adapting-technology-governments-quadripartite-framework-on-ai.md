@@ -1,7 +1,7 @@
 ---
 title: "Adapting Technology: Government's Quadripartite Framework on AI"
-date: 2024-09-12T07:41:04.304Z
-updated: 2024-09-13T07:41:04.304Z
+date: 2024-12-31T23:48:12.683Z
+updated: 2025-01-05T22:46:43.114Z
 tags:
   - chatgpt
   - open-ai
@@ -40,15 +40,16 @@ thumbnail: https://thmb.techidaily.com/25f844691822ba4cb5e360ab99f911dddda24c96d
 
  These questions and a few others formed the crux of [why ChatGPT was temporarily banned in Italy](https://www.makeuseof.com/why-has-italy-banned-chatgpt/). Unless these concerns are addressed, the artificial intelligence space might be a wild west for data privacy, and Italy's ban might turn out to be a template for bans by other countries worldwide.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Development of an Ethical AI Framework
 
 ![binary code background showing a woman face to face with a robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-10-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  AI companies frequently boast about their commitment to ethical guidelines in developing AI systems. At least on paper, they are all proponents of responsible AI development. In the media, Google execs have emphasized how the company takes AI safety and ethics seriously. Similarly, "Safe and ethical AI" is a mantra for OpenAI's CEO, Sam Altman. These are quite applaudable.
@@ -63,22 +64,12 @@ thumbnail: https://thmb.techidaily.com/25f844691822ba4cb5e360ab99f911dddda24c96d
 * That humans retain ultimate control of AI systems and their decision-making transparently.
 * AI systems are intentionally limited in ways that are advantageous to humans.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Dedicated Regulatory Agency
 
 ![engineer monitoring ssh logins on linux](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/engineer_monitoring_ssh_logins.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Owing to its potential impact on human civilization, discussion around AI safety typically draws parallel to the risk of a health crisis or a nuclear disaster. Avoiding potential nuclear incidents necessitates a dedicated agency like the US's NRC (Nuclear Regulatory Commission). Avoiding the risk of dangerous health crises necessitates the establishment of the FDA (Food and Drug Administration)
@@ -93,28 +84,12 @@ thumbnail: https://thmb.techidaily.com/25f844691822ba4cb5e360ab99f911dddda24c96d
 * Collaboration and cross-country cooperation on AI safety and ethics
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Addressing Copyright and Intellectual Property Concerns
 
 ![An illustration of copyright thief](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/copyright-protected-illustration.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Existing copyright laws and legal frameworks crumble in the face of Artificial Intelligence. The way AI tools, especially generative AI tools, are designed makes them seem like a publicly endorsed copyright infringement machine that you can't do anything about.
 
@@ -132,16 +107,7 @@ thumbnail: https://thmb.techidaily.com/25f844691822ba4cb5e360ab99f911dddda24c96d
 * Clear pathways for collaboration with right holders. If AI systems are going to use people's intellectual property anyway, there should be clear pathways or frameworks for AI developers and rights-owners to collaborate, especially in terms of financial compensations, if the derivative work of such intellectual properties is commercialized.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI Regulation Is a Desperately Needed Fix
@@ -165,5 +131,18 @@ thumbnail: https://thmb.techidaily.com/25f844691822ba4cb5e360ab99f911dddda24c96d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-perfectly-pinned-prompts-top-android-and-iphones-instagram-covers-for-2024/"><u>[Updated] Perfectly Pinned Prompts Top Android & iPhones' Instagram Covers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hidden-gems-in-the-world-of-snapchat-ringtones-online/"><u>2024 Approved Hidden Gems in the World of Snapchat Ringtones Online</u></a></li>
+<li><a href="https://extra-information.techidaily.com/aerial-artistry-in-motion-examining-gopro-karma-performance/"><u>Aerial Artistry in Motion Examining GoPro Karma Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-assisted-recruitment-discover-the-best-10-ways-to-utilize-gpt-on-linkedin-jobsites/"><u>AI Assisted Recruitment: Discover the Best 10 Ways to Utilize GPT on LinkedIn Jobsites</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/cutting-edge-screen-time-youtubes-top-movies-list/"><u>Cutting Edge Screen Time YouTube's Top Movies List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-8-chatgpt-tactics-to-cut-down-on-screen-time-distractions/"><u>Essential 8 ChatGPT Tactics to Cut Down on Screen Time Distractions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-insight-and-analysis-by-team-tom/"><u>Pioneering Hardware Insight and Analysis by Team Tom</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/repairing-a-corrupted-driver-file-on-windows-a-step-by-step-guide-yl-tech-solutions/"><u>Repairing a Corrupted Driver File on Windows: A Step-by-Step Guide - YL Tech Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/running-windows-11-on-your-m1-mac-with-parallels-desktop-18-a-practical-guide/"><u>Running Windows 11 on Your M1 Mac with Parallels Desktop 18 - A Practical Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-the-power-of-windows-11s-media-importer-tools/"><u>Unleash the Power of Windows 11'S Media Importer Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-locked-away-gpt-history/"><u>Unlocking Locked-Away GPT History</u></a></li>
+</ul></div>
 

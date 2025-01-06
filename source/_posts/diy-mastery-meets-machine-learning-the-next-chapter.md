@@ -1,7 +1,7 @@
 ---
 title: "DIY Mastery Meets Machine Learning: The Next Chapter"
-date: 2024-12-24T18:53:46.571Z
-updated: 2024-12-27T21:53:37.088Z
+date: 2025-01-01T04:11:39.264Z
+updated: 2025-01-05T16:54:49.741Z
 tags:
   - chatgpt
   - open-ai
@@ -30,12 +30,16 @@ thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Multi-Modal AI and DIY: What Is a Multi-Modal AI?
 
 ![An electric bulb on a black chalkboard with chat bubbles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bulb-on-chalkboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Multi-modal AI refers to AI models that can process and understand different types of data, such as text, images, and videos. Get this, if GPT-4 becomes a multi-modal AI, it will be a game changer for DIY enthusiasts.
@@ -44,15 +48,19 @@ thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988b
 
  It could also provide step-by-step instructions that incorporate both text and visual cues, making it easier for users to follow along. With multi-modal capabilities, GPT-4 could open up a whole new world of possibilities for DIY enthusiasts looking to take on more complex projects.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Will GPT-4 Speed Up DIY Development?
 
 ![Woman working on a circuit board](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/woman-working-on-a-circuit-board.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As the field of NLP continues to evolve, the release of GPT-4 is highly anticipated due to its potential to accelerate DIY development.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Advanced Language Processing Capabilities
 
@@ -68,25 +76,17 @@ thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988b
 
  Integrating algorithms can improve model response relevance and accuracy, leading to personalized DIY recommendations based on user behavior. ML algorithms can recognize DIY-related keywords and tailor user-specific responses, easing the product research and development process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Future of Microcontroller-Based Platforms
 
 ![A white robot assistant with a tablet with user interface attached to the chest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/white-robot-assistant.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microcontroller-based platforms could benefit greatly from advancements in AI models such as ChatGPT4\. Integrating these models can expand the processing power and memory of the platforms, leading to more accurate data analysis from embedded and IoT systems. Speaking of this, we've covered many [Arduino IoT projects](https://www.makeuseof.com/best-arduino-iot-projects/) you can try without waiting for GPT advancements.
 
  Predictive maintenance measures could also be developed using this data. In the future, lightweight AI versions could even be integrated into devices for DIY projects using compression techniques. Generally, DIY partakers will soon be able to efficiently ideate, research, implement, and modify projects.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bringing AI to the DIY World
 
@@ -113,24 +113,24 @@ thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-20-essential-youtube-tips-for-optimal-engagement/"><u>[New] Top 20 Essential YouTube Tips for Optimal Engagement</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-excellence-in-starting-points-for-panzoids/"><u>[Updated] 2024 Approved Excellence in Starting Points for Panzoids</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-recording-success-how-to-grab-phonescreens-with-snapchat-easily/"><u>[Updated] 2024 Approved Recording Success How to Grab Phonescreens with Snapchat Easily</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-synchronizing-mac-writers-flows-efficiently-with-mixer/"><u>[Updated] Synchronizing Mac' Writers' Flows Efficiently With Mixer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-your-productivity-with-swift-macos-finder-shortcuts-insights-from-zdnet/"><u>Boost Your Productivity with Swift MacOS Finder Shortcuts - Insights From ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/collaborative-endeavors-reach-new-heights-with-the-official-release-of-it-takes-two/"><u>Collaborative Endeavors Reach New Heights with the Official Release of 'It Takes Two'</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversion-en-ligne-de-fichiers-vob-a-format-wma-facile-et-gratuit-avec-movavi/"><u>Conversion en Ligne De Fichiers VOB À Format WMA - Facile Et Gratuit Avec Movavi</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210008585-9781000063080-current-controversies-in-philosophy-of-cognitive-science/"><u>Current Controversies in Philosophy of Cognitive Science | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/direct-communication-using-rtx-ai-on-your-device/"><u>Direct Communication: Using RTX AI on Your Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-documentation-with-ai-companions/"><u>Effortless Documentation with AI Companions</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-motorola-moto-g84-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Motorola Moto G84 5G? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 13 Without a Passcode</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-investing-in-an-iphone-16-worth-it-insights-on-apple-smart-technology-zdnet/"><u>Is Investing in an iPhone 16 Worth It? Insights on Apple Smart Technology - ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synthesizing-innovation-exploring-the-six-peaks-of-chatgpts-engineer/"><u>Synthesizing Innovation - Exploring the Six Peaks of ChatGPT's Engineer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-reality-of-prompt-engineering-in-tech-industries/"><u>The Reality of Prompt Engineering in Tech Industries</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unbelievable-iphone-15-pro-max-sale-alert-score-it-for-a-penny-on-amazon-inside-the-promo-code-secrets/"><u>Unbelievable iPhone 15 Pro Max Sale Alert! Score It for a Penny on Amazon - Inside the Promo Code Secrets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unshackled-access-entering-chatgpt-from-anywhere/"><u>Unshackled Access: Entering ChatGPT From Anywhere</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-apples-secure-operating-system-for-advanced-ai-data-center-management-insights-and-developments/"><u>Unveiling Apple's Secure Operating System for Advanced AI Data Center Management: Insights and Developments</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-from-vids-to-dollars-navigating-youtubes-monetization-landscape/"><u>[New] 2024 Approved From Vids to Dollars Navigating YouTube's Monetization Landscape</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-prime-action-cameras-with-superior-mics/"><u>[Updated] 2024 Approved Prime Action Cameras with Superior Mics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-optimal-method-for-integrating-gopro-footage-into-360-degree-films/"><u>[Updated] Optimal Method for Integrating GoPro Footage Into 360-Degree Films</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/affordable-wonders-in-virtual-reality-headsets-from-china/"><u>Affordable Wonders in Virtual Reality Headsets From China</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-value-should-you-switch-to-iphone-16-pro-from-iphone-14-pro-gadget-specs/"><u>Assessing Value: Should You Switch to iPhone 16 Pro From iPhone 14 Pro? | Gadget Specs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/did-you-know-chatgpt-has-an-app-for-ios/"><u>Did You Know ChatGPT Has an App for iOS?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-chatbot-technology-for-mass-appeal/"><u>Dissecting Chatbot Technology for Mass Appeal</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/up-yourself-selecting-prime-lenses-for-successful-vlogging/"><u>Gear Up Yourself Selecting Prime Lenses for Successful Vlogging</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-poco-f5-pro-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Poco F5 Pro 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-apple-watch-series-unveiled-for-2eaf-2024-thoroughly-tested-by-tech-experts/"><u>Innovative Apple Watch Series Unveiled for 2Eaf 2024: Thoroughly Tested by Tech Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inspiring-creativity-gpt-3-in-literary-worlds/"><u>Inspiring Creativity: GPT-3 in Literary Worlds</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/aging-colored-backdrops-for-seamless-edits-for-2024/"><u>Leveraging Colored Backdrops for Seamless Edits for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/officeefficiency-2030-the-future-of-document-management-and-ai/"><u>OfficeEfficiency 2030: The Future of Document Management & AI</u></a></li>
+<li><a href="https://win-popular.techidaily.com/schritt-fur-schritt-anleitung-zum-schutz-einer-externen-speicherungseinheit/"><u>Schritt-Für-Schritt-Anleitung Zum Schutz Einer Externen Speicherungseinheit</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simplified-troubleshooting-refresh-your-macs-internet-connection-settings-today/"><u>Simplified Troubleshooting: Refresh Your Mac's Internet Connection Settings Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stay-connected-embrace-the-chatgpt-android-experience/"><u>Stay Connected: Embrace the ChatGPT-Android Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ta/"><u>TA</u></a></li>
+<li><a href="https://win-updates.techidaily.com/two-techniques-for-bare-metal-recovery-on-windows-server-2008-r2/"><u>Two Techniques for Bare Metal Recovery on Windows Server 2008 R2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-you-shouldnt-trust-chatgpt-to-summarize-your-text/"><u>Why You Shouldn't Trust ChatGPT to Summarize Your Text</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Easing Work Email Woes: Using ChatGPT to Write Clearly"
-date: 2024-09-06T23:33:20.781Z
-updated: 2024-09-07T23:33:20.781Z
+date: 2024-12-30T10:23:24.332Z
+updated: 2025-01-05T18:36:09.332Z
 tags:
   - chatgpt
   - open-ai
@@ -13,18 +13,6 @@ excerpt: "This Article Describes Easing Work Email Woes: Using ChatGPT to Write 
 thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7d797baaa5f46d28ff2d3756.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Easing Work Email Woes: Using ChatGPT to Write Clearly
 
  Writing difficult emails is unavoidable, regardless of what career you’re in. Whether you need to say no to taking on additional projects or ask for time off, it can be anxiety-inducing to write the email; never mind, find the courage to hit send.
@@ -36,21 +24,17 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
  You may have heard ChatGPT can help people write cover letters and resumes, and you’re wondering if it can help you write difficult emails, too. If you provide the AI with adequate information, you can get content to use as a foundation for your email. ChatGPT can help you focus on the message without getting emotions involved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 1: Open an Account With ChatGPT
 
 ![Screenshot of ChatGPT homepage (updated)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-chatgpt-homepage-updated.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The process to open an account with ChatGPT. Go to the website <https://chat.openai.com/>, where you’ll see a prompt to log in or sign up. You can create an account with an email or use your Google account.
 
  Ensure your phone is nearby since you’ll receive a six-digit code to confirm your account. Once you verify your account, you’re ready to get started.
@@ -60,17 +44,9 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
  The cost for GPT-4 is $20 monthly. If you’re curious about the beta features GPT-4 offers, you may be interested in learning about [things you can do with ChatGPT’s code interpreter](https://www.makeuseof.com/chatgpt-code-interpreter-uses/).
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 2: Provide ChatGPT With Custom Instructions
 
  Before you ask ChatGPT to create content for you, you need to provide the platform with custom instructions. There are two questions for you to answer so the AI can provide the responses you want.
@@ -83,12 +59,6 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 
 ![Screenshot of ChatGPT custom instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-chatgpt-custom-instructions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 3: Prompt ChatGPT to Write the Email You Want
 
  Once you’ve let ChatGPT know some information about yourself, where you work, and the tone and length of your responses, you can ask ChatGPT to construct an email for you. Remember, if you don’t like the first version provided, you can always tell ChatGPT to regenerate a response.
@@ -97,61 +67,29 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 
 ![Screenshot of resignation letter generated by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-resignation-letter-generated-by-chatgpt-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Whether you’re excited about the next stage in your career or are quitting because you’re fed up with your current circumstances, writing a resignation email can be difficult. You don’t want to burn any bridges, so you want to leave positively.
 
  Remember that you may need references in the future, and you want to be confident when supplying the names of people you’ve worked with. Refrain from venting about management and vacation policies or complaining about your coworkers; it’s about giving your employer notice.
 
  As you can see above, the request was for a short email letting the board know the author is leaving the job and telling them goodbye. Are you considering resigning from your job? Here are [some financial considerations to prepare for](https://www.makeuseof.com/resign-from-your-job-financial-considerations/ "Want to Resign From Your Job? 4 Financial Considerations to Prepare For").
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Email to Let Your Supervisor Know You’re Not Going to Make the Deadline
 
 ![Screenshot of ChatGPT letter to board advising not going to make deadline](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-chatgpt-letter-to-board-advising-not-going-to-make-deadline.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Don’t let embarrassment stop you from letting management and your team know you’re having difficulty meeting a deadline. When everyone’s aware of the challenges you’re experiencing, they may be able to make adjustments to help you meet the deadline.
 
  You don’t want to be the cause of a bottleneck. Not waiting until the last minute to let management and your team know you won’t make the deadline can help preserve relationships and build trust.
 
  Some people struggle to meet deadlines because they fall into the trap of procrastination. If that sounds like you, you may be interested in learning [the top tips to avoid procrastination and meet deadlines](https://www.makeuseof.com/top-tips-avoid-procrastination-meet-deadlines/).
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Email to Request Emergency Leave
 
 ![Screenshot of emergency leave request generated by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-emergency-leave-request-generated-by-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Emergency leaves can be stressful. The last thing you need to worry about is writing a letter asking for leave on short notice, especially if things are busy at work.
 
@@ -161,9 +99,17 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 
  If you have a senior in your life, you may dread the day you need to take an emergency leave. You may be interested in sharing these [smart gadgets for seniors to maintain good health and wellness](https://www.makeuseof.com/smart-gadgets-seniors-maintain-health-wellness/) with your loved ones.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Email to Say “No” to a Project
 
 ![Screenshot of email saying no to a project generated by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-email-saying-no-to-a-project-generated-by-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While “Are you kidding me?” may be the knee-jerk response to a request to take on another project, you’re better off with a diplomatic reply. You may want to send the email quickly if you have people-pleasing tendencies.
 
@@ -187,18 +133,16 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 
  Once ChatGPT creates an email using your prompt, you should review it and make the necessary edits. Some of the things mentioned in the draft may not apply to you, and the AI may miss critical information that you want to include.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 5: Send the Email
 
 ![Image of woman holding email icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/image-of-woman-holding-email-icon.jpg)
 
  This is probably the most challenging part of writing a difficult email. Stop worrying about the reaction, and send it! Before you hit send, you may want to learn the [mistakes that make a business email look unprofessional](https://www.makeuseof.com/mistakes-make-business-email-unprofessional/ "10 Mistakes That Make a Business Email Look Unprofessional").
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Difficult Emails Have to Be Sent
 
  Sending emails of a negative nature can be challenging, but they need to be done. Avoiding complex topics can cause more problems than addressing them creates. Even though drafting a difficult email may induce anxiety, you’ll feel better once you hit send.
@@ -209,14 +153,11 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
 
  You may have heard ChatGPT can help people write cover letters and resumes, and you’re wondering if it can help you write difficult emails, too. If you provide the AI with adequate information, you can get content to use as a foundation for your email. ChatGPT can help you focus on the message without getting emotions involved.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -225,4 +166,24 @@ thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/astering-youtube-pace-control-top-tips-for-slower-views-48-chars/"><u>[New] Mastering YouTube Pace Control Top Tips for Slower Views (48 Chars)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-efficiently-transfer-vids-from-premiere-to-youtube/"><u>[Updated] 2024 Approved Efficiently Transfer Vids From Premiere to YouTube</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-cutting-through-clutter-standout-techniques-for-tiktok-stars-for-2024/"><u>[Updated] Cutting Through Clutter Standout Techniques for TikTok Stars for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-expert-advice-on-screen-casting-in-google-meet/"><u>2024 Approved Expert Advice on Screen Casting in Google Meet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-osblend-the-vmix-alternative/"><u>2024 Approved OSBlend The VMix Alternative</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-role-in-future-dev-workflows/"><u>AI's Role in Future Dev Workflows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-third-party-chatgpt-apps-and-browser-extensions-safe/"><u>Are Third-Party ChatGPT Apps and Browser Extensions Safe?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-oppo-reno-10-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Oppo Reno 10 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-improve-and-power-your-chatgpt-interaction-top-9-tools/"><u>Enhance, Improve & Power Your ChatGPT Interaction (Top 9 Tools)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-productivity-with-tailored-notification-settings-on-macos-monterey/"><u>Enhancing Productivity with Tailored Notification Settings on macOS Monterey</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-y27s-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Vivo Y27s</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-screen-grab-king-macos-recorder-free/"><u>In 2024, Screen Grab King MacOS Recorder, Free</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-in-the-3d-printing-space/"><u>Leveraging ChatGPT in the 3D Printing Space</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-rainmeter-hiccups-with-easy-fixes/"><u>Mastering Window's Rainmeter Hiccups with Easy Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplifying-tough-professional-communications-with-gpt-3/"><u>Simplifying Tough Professional Communications with GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-almost-perfect-tech-accessory-on-my-arm-score-the-apple-watch-ultra-2-for-100-less-this-labor-day-exclusive-review-by-zdnet/"><u>The Almost Perfect Tech Accessory on My Arm - Score the Apple Watch Ultra 2 for $100 Less This Labor Day | Exclusive Review by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-leading-small-tablet-picks-of-2e24-in-depth-analysis-and-rankings-as-tested-by-industry-authorities-insights-from-zdnet/"><u>Ultimate Guide to the Leading Small Tablet Picks of 2E24: In-Depth Analysis and Rankings as Tested by Industry Authorities | Insights From ZDNET</u></a></li>
+</ul></div>
 

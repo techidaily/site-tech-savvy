@@ -1,7 +1,7 @@
 ---
 title: Beginner’s Companion to AI
-date: 2024-12-23T17:36:59.110Z
-updated: 2024-12-27T17:03:08.025Z
+date: 2025-01-05T09:13:05.514Z
+updated: 2025-01-05T21:26:18.780Z
 tags:
   - chatgpt
   - open-ai
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/0d60a13e95bd2f19c3825589ac3dc780b265ba27c
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -46,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/0d60a13e95bd2f19c3825589ac3dc780b265ba27c
  So, let's break down artificial intelligence into its most simple terms. How does AI work, and how is it being used?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Simplest Explanation of AI
@@ -56,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/0d60a13e95bd2f19c3825589ac3dc780b265ba27c
  Imagine you are learning to ride a bike. After falling a few times, you start understanding how to balance and pedal simultaneously. That's how machine learning, a part of AI, works. It looks at a lot of data and then learns patterns from it. Another part of AI, natural language processing, is similar to teaching computers to understand and speak human language.
 
  But even with all this, computers still can't fully think or understand like humans. Modern AI systems don't have common sense, emotions, or consciousness.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AI in More Detail
 
@@ -70,6 +70,10 @@ Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
  Machine learning (ML), a subset of AI, involves systems that can "learn" from data. These algorithms improve their performance as the number of datasets they learn from increases.
 
  Deep learning, a further subset of machine learning, uses artificial neural networks to make decisions and predictions. It is designed to mimic how a human brain learns and makes decisions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Natural Language Processing (NLP)
 
@@ -96,13 +100,13 @@ Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 
  However, despite many advancements, AI still does not possess the full spectrum of human cognitive abilities, and we are still far from achieving [true artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/). The current AI technologies are task-specific and cannot understand context outside their specific programming.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Is AI Being Used Today?
 
  AI has potential and applications that stretch far beyond the tech realm alone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Chatbots
 
@@ -122,23 +126,19 @@ Gavin Phillips/MakeUseOf
 
  AI systems can more effectively detect trends, patterns, and inconsistencies than a typical computer (or human, for that matter). For example, an AI system could more distinctly highlight less obvious user habits or preferences for social media platforms, allowing it to show more personalized advertisements.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Production and Design
 
  When designing products, many elements must be considered. The cost of materials, how they're sourced, and how efficiently the product will perform are just a few factors that companies need to keep in mind, and this is where AI can help.
 
  Because AI can learn and discover new things based on the information it is given, it can be used to carve out more cost-effective and sustainable materials and production practices for businesses. For instance, an AI system could list more eco-friendly materials that could be used in a product's battery given a comprehensive data set to work from.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Art Creation
 
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [AI-generated art](https://www.makeuseof.com/ways-ai-generated-art-changing-future-of-art/) took the world by storm in 2022, with products like DALL-E, Stable Diffusion, and Midjourney becoming extremely popular. These AI text-to-image tools [take a text-based prompt and generate an art piece](https://www.makeuseof.com/ai-text-to-art-generators/) based on the request.
 
@@ -146,13 +146,13 @@ Gavin Phillips/MakeUseOf
 
 ![microsoft image creator purple sunset on moon example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-image-creator-purple-sunset-on-moon-example.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Microsoft Image Creator/MakeUseOf
 
 [Some artists have rejected AI art generators](https://www.makeuseof.com/can-creatives-protect-art-from-generative-ai/), as they are trained on pre-existing online art to learn how to create their prompted pieces. Artists claim this is a breach of copyright and contributes to the theft of original art, an issue that already spans the web.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Future of AI
 
@@ -187,16 +187,21 @@ Microsoft Image Creator/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-transform-your-videography-using-youtube-to-boost-visual-clarity/"><u>[New] 2024 Approved Transform Your Videography Using YouTube to Boost Visual Clarity</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-unrivaled-5-editors-perfect-for-non-youtube-vids/"><u>[Updated] In 2024, Unrivaled 5 Editors Perfect for Non-YouTube Vids</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723010391893-11-proven-fixes-for-borderlands-3-not-launching/"><u>11 Proven Fixes for 'Borderlands 3 Not Launching'</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-navigating-through-vlcs-recording-options/"><u>2024 Approved Navigating Through VLC's Recording Options</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exposing-fraudgpt-schemes-stay-one-step-ahead/"><u>Exposing FraudGPT Schemes: Stay One Step Ahead</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-gpt-way-pioneering-mindful-living-with-technology/"><u>The GPT Way: Pioneering Mindful Living with Technology</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-access-is-forbidden-problem-on-your-site-403-error/"><u>Troubleshooting the 'Access Is Forbidden' Problem on Your Site (403 Error)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-a-premium-iphone-vpn-proven-performances-and-in-depth-analysis-cnet/"><u>Ultimate Guide to Choosing a Premium iPhone VPN - Proven Performances & In-Depth Analysis | CNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-resilience-how-apples-top-tier-iphone-case-stands-up-to-scrutiny-and-its-revolutionary-safety-aspect-zdnet-exclusive/"><u>Unveiling the Resilience: How Apple’s Top-Tier iPhone Case Stands Up to Scrutiny and Its Revolutionary Safety Aspect | ZDNET Exclusive</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-seamless-spinning-and-stitching-an-android-videographers-handbook/"><u>[New] In 2024, Seamless Spinning & Stitching An Android Videographer's Handbook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-guide-to-utilizing-zero-cost-clocks-for-2024/"><u>[New] The Ultimate Guide to Utilizing Zero-Cost Clocks for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-cutting-edge-techniques-to-elevate-your-tiktok-visual-storytelling-for-2024/"><u>[Updated] Cutting-Edge Techniques to Elevate Your TikTok Visual Storytelling for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/behind-the-curtain-of-machine-learning-black-boxes-analysis/"><u>Behind the Curtain of Machine Learning: Black Boxes Analysis</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-nokia-c32-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Nokia C32 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-improve-and-power-your-chatgpt-interaction-top-9-tools/"><u>Enhance, Improve & Power Your ChatGPT Interaction (Top 9 Tools)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-productivity-with-tailored-notification-settings-on-macos-monterey/"><u>Enhancing Productivity with Tailored Notification Settings on macOS Monterey</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-linguistic-milestones-unveiling-bert-and-gpt/"><u>Exploring Linguistic Milestones: Unveiling BERT and GPT</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-vivo-y36i-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Vivo Y36i Face Lock?</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-bridging-silent-images-and-vocal-melodies/"><u>In 2024, Bridging Silent Images and Vocal Melodies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-in-the-3d-printing-space/"><u>Leveraging ChatGPT in the 3D Printing Space</u></a></li>
+<li><a href="https://fox-place.techidaily.com/practical-techniques-for-isolating-sound-from-visual-media/"><u>Practical Techniques for Isolating Sound From Visual Media</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplifying-tough-professional-communications-with-gpt-3/"><u>Simplifying Tough Professional Communications with GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-almost-perfect-tech-accessory-on-my-arm-score-the-apple-watch-ultra-2-for-100-less-this-labor-day-exclusive-review-by-zdnet/"><u>The Almost Perfect Tech Accessory on My Arm - Score the Apple Watch Ultra 2 for $100 Less This Labor Day | Exclusive Review by ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-selection-smart-glasses/"><u>The Ultimate Selection: Smart Glasses</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unseen-progress-how-the-next-wave-of-ai-will-transform-technology-silently/"><u>Unseen Progress: How the Next Wave of AI Will Transform Technology Silently</u></a></li>
 </ul></div>
 

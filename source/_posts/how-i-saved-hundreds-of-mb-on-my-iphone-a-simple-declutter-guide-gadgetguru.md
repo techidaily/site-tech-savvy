@@ -1,7 +1,7 @@
 ---
 title: How I Saved Hundreds of MB on My iPhone - A Simple Declutter Guide | GadgetGuru
-date: 2024-12-25T17:44:51.672Z
-updated: 2024-12-27T17:33:42.478Z
+date: 2025-01-03T01:00:25.710Z
+updated: 2025-01-06T02:05:53.793Z
 tags:
   - apple
 categories:
@@ -20,6 +20,10 @@ Whether you're trying to demonstrate a bug to a tech support rep or you're demon
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to screen record on any iPhone
 
 * **Materials needed:** Any iPhone running iOS 14.0 or later
@@ -30,7 +34,7 @@ You'll find the necessary setting in the Control Center section of your Settings
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open your Settings app and find "Control Center"
@@ -51,10 +55,6 @@ This is the screen recording button we'll use to start the recording.
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Open your Control Center
 
 Next, you'll want to open Control Center. This can be done from your home screen, or from within the vast majority of iPhone apps. For iPhones without a physical Home Button, you can access it by swiping down from the top-right corner of the display. 
@@ -64,6 +64,10 @@ For iPhones with a physical Home Button, you can access it by swiping up from th
 While recording, your Screen Recording button will look like this (minus the red circle we added)
 
 Michael Gariffo
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Begin screen recording
 
@@ -76,7 +80,7 @@ Your clock will look like this as long as Screen Recording is active.
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 5: Record
@@ -95,19 +99,15 @@ In both cases, the recording you just produced will immediately be saved to your
 
 **Also:** [How to record a call on your iPhone](https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone/)
 
-## FAQs
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQs
 
 ## What does the Screen Recording app actually capture?
 
 It captures everything that goes on across your entire iPhone screen, as well as any sound produced by the iPhone itself while it's recording. This includes any actions you perform, any full-screen videos, and any audio you play via websites, apps, etc. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can I add narration to my captured videos?
 
@@ -153,20 +153,20 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-sold-out-status-or-just-increased-demand-and-shipping-hurdles/"><u>Apple Vision Pro: Sold Out Status or Just Increased Demand & Shipping Hurdles?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/assessing-battery-life-span-in-evs-against-longevity-of-conventional-cars-whats-the-difference/"><u>Assessing Battery Life Span in EVs Against Longevity of Conventional Cars: What's the Difference?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comparative-analysis-of-best-win-driven-art-tools/"><u>Comparative Analysis of Best Win-Driven Art Tools</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/diskpart-un-paso-a-paso-para-deshacerte-de-las-particiones-de-su-computadora-metodos-y-consejos-completos/"><u>Diskpart: Un Paso a Paso Para Deshacerte De Las Particiones De Su Computadora - Métodos Y Consejos Completos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-ai-innovations-for-ios-devices-to-compete-with-androids-features-on-the-iphone/"><u>Essential AI Innovations for iOS Devices to Compete with Android's Features on the iPhone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-mov-saving-strategies-the-six-must-know-tactics-for-windows-11-users/"><u>In 2024, .MOV Saving Strategies - The Six Must-Know Tactics for Windows 11 Users</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-compact-5-listing-visuals-with-accompaniment-recorders/"><u>In 2024, Compact 5 Listing Visuals with Accompaniment Recorders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mac-professionals-reviewed-the-stylish-yet-costly-apple-studio-display-a-27-5k-masterpiece-techinsights/"><u>Mac Professionals Reviewed: The Stylish Yet Costly Apple Studio Display - A 27 5K Masterpiece | TechInsights</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/premium-aerial-choices-for-high-quality-gopro-recordings-for-2024/"><u>Premium Aerial Choices For High-Quality GoPro Recordings for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/schutzen-sie-ihren-computer-wie-man-seine-datentrager-vor-dem-loschen-auf-windows-10-8-oder-7-sichert/"><u>Schützen Sie Ihren Computer: Wie Man Seine Datenträger Vor Dem Löschen Auf Windows 10, 8 Oder 7 Sichert</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-the-netflix-ui-800-3-display-issue/"><u>Solutions for Resolving the Netflix UI-800-3 Display Issue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-ar-glasses-with-apple-vision-pro-must-have-upgrades-discussed-on-zdnet/"><u>The Future of AR Glasses with Apple Vision Pro: Must-Have Upgrades Discussed on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/timely-insights-from-chatgpt-to-everyone/"><u>Timely Insights From ChatGPT to Everyone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-bot-safety-top-3-privacy-issues/"><u>Understanding Bot Safety: Top 3 Privacy Issues</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-choosing-between-vidma-and-rivals/"><u>[New] 2024 Approved The Ultimate Guide to Choosing Between Vidma and Rivals</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instasoul-unleash-your-essence-through-100-dynamic-captions/"><u>[New] In 2024, InstaSoul Unleash Your Essence Through 100 Dynamic Captions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pace-your-panorama-learning-time-lapses-on-samsung-phones/"><u>[New] Pace Your Panorama Learning Time-Lapses on Samsung Phones</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-cross-platform-comparison-iphone-vs-android-youtube-viewing/"><u>[Updated] 2024 Approved Cross-Platform Comparison IPhone vs Android YouTube Viewing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-tackling-the-irritating-quirks-urgent-solutions-apple-must-implement-for-iphone-users-insights-from-zdnet/"><u>1. Tackling the Irritating Quirks: Urgent Solutions Apple Must Implement for iPhone Users - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/assessing-tseries-financial-outcomes-from-youtube-presence-for-2024/"><u>Assessing TSeries’ Financial Outcomes From YouTube Presence for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/codebreakers-challenge-navigate-through-4-cybernetic-puzzles/"><u>Codebreakers' Challenge: Navigate Through 4 Cybernetic Puzzles</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/decoding-inverse-image-retrieval-for-social-networks-focusing-on-fb-for-2024/"><u>Decoding Inverse Image Retrieval for Social Networks, Focusing on FB for 2024</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/discover-the-new-features-in-pcdjs-lyrx-update-v1601-revolutionize-your-karaoke-sessions/"><u>Discover the New Features in PCDJ's LYRX Update v1.6.0.1 – Revolutionize Your Karaoke Sessions!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-tackle-dota-2s-modify-graphics-api-error-message-2024-in-minutes/"><u>How to Tackle Dota 2'S 'Modify Graphics API' Error Message 2024 in Minutes!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/leveraging-connected-networks-fb-to-whatsapp-video-sharing-strategies-for-2024/"><u>Leveraging Connected Networks FB to WhatsApp Video Sharing Strategies for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-feature-alert-for-ios-18-users-airpods-pro-to-include-hearing-aid-mode-no-physical-upgrade-necessary-zdnet-insider-info/"><u>New Feature Alert for iOS 18 Users: AirPods Pro to Include Hearing Aid Mode, No Physical Upgrade Necessary | ZDNET Insider Info</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-your-data-crucial-bot-privacy-alerts-3-way/"><u>Protecting Your Data: Crucial Bot Privacy Alerts, 3-Way</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reviving-the-rumors-homeos-spotted-anew-as-part-of-latest-apple-tvos-developer-preview-what-we-know-so-far/"><u>Reviving the Rumors: HomeOS Spotted Anew as Part of Latest Apple tvOS Developer Preview - What We Know So Far</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-illusory-inkling-of-intelligent-texts-detection-guide/"><u>The Illusory Inkling of Intelligent Texts: Detection Guide</u></a></li>
 </ul></div>
 

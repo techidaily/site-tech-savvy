@@ -1,7 +1,7 @@
 ---
 title: "AI's Wit Workshop: Do Computers Learn to Chuckle?"
-date: 2024-09-12T07:41:27.454Z
-updated: 2024-09-13T07:41:27.454Z
+date: 2025-01-02T09:51:00.507Z
+updated: 2025-01-06T06:18:21.122Z
 tags:
   - chatgpt
   - open-ai
@@ -23,22 +23,13 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
 
  But can it make us laugh? Laughter is a base human response to emotional stimuli. This makes it a perfect test for AIs continuing development. So, let's put AI under the spotlight and see if it can generate more than just words but an emotional response in the form of laughter.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Does ChatGPT Generate Comedy?
 
 ![Screenshot of AI Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-ai-joke.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Laughter is all about fun. So, let's have a little fun as we go. At the end of each section, we will list two jokes. One will be our corny attempt at humor, and the other will be an AI-generated joke. But will you be able to tell the difference?
 
@@ -55,16 +46,13 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
 * **Joke One:** A snake walks into a bar – The barman says to it, "how did you do that?"
 * **Joke Two:** A man walks into a bar with a piece of asphalt under his arm. He says to the bartender, "I'll take a beer and one for the road."
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Can ChatGPT Do?
 
 ![Screenshot of ChatGPT Knock Knock Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-knock-knock-joke.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This is an evolving technology that has limitations. It is unlikely to replace stand-up comedians anytime soon. But is it a useful tool for comedy? Let's discuss some of the ways that AI can be used in comedy.
 
@@ -78,10 +66,7 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
 * **Joke Four:** Knock Knock! _Who's there?_ Boo. _Boo who_? Don't cry, it's just a computer program making jokes!
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Can't ChatGPT Do?
@@ -102,10 +87,7 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
 * **Joke Six:** I saw this advert in a window that said: "Television for sale, $1, volume stuck on full." I thought, "I can't turn that down."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Future of AI In Comedy?
@@ -113,10 +95,7 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
 ![Screenshot AI Joke about the future of AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-ai-joke-about-the-future-of-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are moral and ethical implications to consider here. However, these fall outside the scope of the question that this article poses: Can AI make us laugh?
@@ -131,19 +110,6 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
 
 * **Joke Seven:** There are 10 types of people in the world: Those that understand binary numbers and those that don't!
 * **Joke Eight:** Why did the computer go to the doctor? Because it had a virus!
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Last Laugh
 
@@ -168,5 +134,26 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-defining-the-basics-the-art-of-digital-stories/"><u>[Updated] Defining the Basics The Art of Digital Stories</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-melodic-overlays-on-digital-imagery/"><u>[Updated] Melodic Overlays on Digital Imagery</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-superior-asmr-video-curation-for-2024/"><u>[Updated] Superior ASMR Video Curation for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-become-a-9gag-meme-connoisseur-with-these-simple-steps/"><u>2024 Approved Become a 9GAG Meme Connoisseur with These Simple Steps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-finding-clarity-in-colors-top-5-4k-monitors-showcased/"><u>2024 Approved Finding Clarity in Colors Top 5 4K Monitors Showcased</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-the-delay-chatgpt-4-versus-fast-gpt-35/"><u>Assessing the Delay: ChatGPT-4 Versus Fast GPT-3.5</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/converters-top-8-list-seamless-sub-and-srt-format-switching-for-2024/"><u>Converters' Top 8 List Seamless Sub and SRT Format Switching for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/differentiating-linguistic-analysis-from-machine-algorithms/"><u>Differentiating Linguistic Analysis From Machine Algorithms</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-redmi-note-12t-pro-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Redmi Note 12T Pro.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-all-you-need-to-know-about-podcast-funding/"><u>In 2024, All You Need To Know About Podcast Funding</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-top-10-mobile-photography-tools-for-superior-slo-mo-effects/"><u>In 2024, Exclusive Top 10 Mobile Photography Tools for Superior Slo-Mo Effects</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-navigating-through-channels-aesthetics-with-these-tools/"><u>In 2024, Navigating Through Channels' Aesthetics with These Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/language-logic-loops-le-chat-ai-meets-chatgpt/"><u>Language Logic Loops: Le Chat AI Meets ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reasons-to-dismiss-auto-generated-dialogues/"><u>Reasons to Dismiss Auto-Generated Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/should-you-upgrade-to-iphone-16-pro-or-stick-with-iphone-14-pro-expert-analysis/"><u>Should You Upgrade to iPhone 16 Pro or Stick with iPhone 14 Pro? Expert Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplest-or-enhanced-gpt-interactions-which-fits/"><u>Simplest or Enhanced GPT Interactions, Which Fits?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-iphones-thoroughly-assessed-and-critiqued-by-tech-experts-zdnet/"><u>Top-Ranking iPhones : Thoroughly Assessed & Critiqued by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-concepts-into-online-realities-via-chatgpts-4-keys/"><u>Transforming Concepts Into Online Realities via ChatGPT’s 4 Keys</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-chatgpt-for-text-corrections/"><u>Utilizing ChatGPT for Text Corrections</u></a></li>
+</ul></div>
 

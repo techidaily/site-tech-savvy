@@ -1,7 +1,7 @@
 ---
 title: Shielding Originality with Nightshade Against AI-Generated Images
-date: 2024-12-25T21:20:11.620Z
-updated: 2024-12-27T21:20:20.790Z
+date: 2024-12-30T18:32:55.604Z
+updated: 2025-01-06T09:51:04.577Z
 tags:
   - chatgpt
   - open-ai
@@ -21,17 +21,13 @@ thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
 
 * [What Is AI Poisoning?](https://natural-cycles.sjv.io/vmebmr)
 * [How to Use Nightshade](https://technitya.sjv.io/dkpn02)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f
  Stopping generative AI tools using copyright images to train is difficult, and artists from all walks of life have struggled to protect their work from AI training datasets. But now, that's all changing with the advent of Nightshade, a free AI tool built to poison the output of generative AI tools—and finally let artists take some power back.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is AI Poisoning?
@@ -56,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f
  AI poisoning is the act of "poisoning" the training dataset of an AI algorithm. This is similar to providing wrong information to the AI on purpose, resulting in the trained AI malfunctioning or failing to detect an image. Tools like Nightshade alter the pixels in a digital image in such a manner that it appears to be completely different to the AI training on it, but largely unchanged from the original to the human eye.
 
 ![Robot Hand Holding Paintbrush Over Colorful Canvas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/robot-hand-holding-paintbrush.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-robot-ai-generate-art-mid-2294823599)
 
@@ -70,7 +70,7 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
  Compared to other digital artwork protection tools like Glaze, Nightshade is offensive. [Glaze prevents AI algorithms from mimicking](https://www.makeuseof.com/how-to-use-glaze-protect-art-from-ai/) the style of a particular image, while Nightshade changes the image's appearance to the AI. Both tools are built by Ben Zhao, Professor of Computer Science at the University of Chicago.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use Nightshade
@@ -92,7 +92,7 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 4. Adjust the **Intensity** and **Render Quality** dials according to your preferences. Higher values add stronger poisoning but can also introduce artifacts in the output image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Next, click the **Save As** button under the **Output** section to select a destination for the output file.
@@ -119,14 +119,24 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-banish-silent-tweets-add-volume-to-videos-for-2024/"><u>[New] Banish Silent Tweets Add Volume to Videos for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-customize-your-youtube-experience-with-altered-pace/"><u>[New] In 2024, Customize Your YouTube Experience with Altered Pace</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-best-cloud-storage-deals-prices-to-watch/"><u>[Updated] Best Cloud Storage Deals – Prices to Watch</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-note-50-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme Note 50 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-blood-pressure-monitoring-a-feature-in-apples-next-gen-series-10-watch-unveiling-the-truth/"><u>Is Blood Pressure Monitoring a Feature in Apple's Next-Gen Series 10 Watch? Unveiling the Truth!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/necessary-enhancements-for-an-efficient-chatgpt-plugin-bazaar/"><u>Necessary Enhancements for an Efficient ChatGPT Plugin Bazaar</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/perfecting-video-conferencing-the-ultimate-screen-recorder-list-for-2024/"><u>Perfecting Video Conferencing The Ultimate Screen Recorder List for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/save-more-with-tech-bundle-iphone-ipad-apple-watch-airpods-and-mac-at-vision-pros-value/"><u>Save More with Tech: Bundle iPhone, iPad, Apple Watch, AirPods & Mac at Vision Pro's Value!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-im-not-making-the-leap-to-iphone-16-pro-despite-owning-an-iphone-14-tech-analysis/"><u>Why I'm Not Making the Leap to iPhone 16 Pro Despite Owning an iPhone 14 | Tech Analysis</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-professional-recordings-at-home-10-key-strategies-for-excellence/"><u>[Updated] Professional Recordings at Home 10 Key Strategies for Excellence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anticipated-visionos-improvements-a-look-ahead-to-potential-announcements-from-apples-wwdc-showcase/"><u>Anticipated VisionOS Improvements: A Look Ahead to Potential Announcements From Apple's WWDC Showcase</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-gamers-dream-discover-our-selection-of-under-500-pc-configurations-ideal-for-fortnite-enthusiasts-expert-insights-from-toms-hardware/"><u>Budget-Friendly Gamer's Dream: Discover Our Selection of Under $500 PC Configurations Ideal for Fortnite Enthusiasts - Expert Insights From Tom's Hardware</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/charting-a-course-for-desired-jobs-with-artificial-intelligence/"><u>Charting a Course for Desired Jobs with Artificial Intelligence</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/discover-the-ideal-viewer-writes-for-ultimate-4k-experience-for-2024/"><u>Discover The Ideal Viewer’ Writes for Ultimate 4K Experience for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-math-to-machine-the-birth-of-artificocal-intelligence/"><u>From Math to Machine: The Birth of Artificocal Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-proof-defense-how-apple-bolsters-imessage-safety-against-upcoming-risks/"><u>Future-Proof Defense: How Apple Bolsters iMessage Safety Against Upcoming Risks</u></a></li>
+<li><a href="https://discover-community.techidaily.com/hiearcool-multi-device-7-in-1-usb-c-adapter-analysis-a-daylong-convenience-at-your-fingertips/"><u>Hiearcool Multi-Device 7-in-1 USB-C Adapter Analysis: A Daylong Convenience at Your Fingertips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-application-essays-using-gpt-3/"><u>Mastering Application Essays Using GPT-3</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/movavimpempg/"><u>Movaviで効率的な無料MPEとMPGのスムーズな変換方法 – オンラインツール</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/phony-bot-aid-hijacks-social-network-passwords/"><u>Phony Bot Aid: Hijacks Social Network Passwords</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-oppo-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Oppo has been deleted.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-human-ai-communication-the-top-5-expert-prompt-generators/"><u>Reimagining Human-AI Communication: The Top 5 Expert Prompt Generators</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/save-battery-life-and-enhance-efficiency-with-macos-montereys-power-saving-mode-tips-by-zdnet/"><u>Save Battery Life and Enhance Efficiency with MacOS Monterey's Power Saving Mode - Tips by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-studying-without-dependence-on-chatgpt/"><u>Smart Studying Without Dependence on ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-airpods-pro-gear-and-add-ons-featuring-reviews-from-zdnet/"><u>Top-Rated AirPods Pro Gear & Add-Ons - Featuring Reviews From ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolving-the-leaf-glitch-in-apex-legends-2022-update/"><u>Troubleshooting Tips: Resolving the 'Leaf' Glitch in Apex Legends - 2022 Update</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/understanding-which-file-structures-are-recognized-and-managed/"><u>Understanding Which File Structures Are Recognized and Managed</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-slow-down-your-footage-top-video-editing-software-for-slo-mo-for-2024/"><u>Updated Slow Down Your Footage Top Video Editing Software for Slo-Mo for 2024</u></a></li>
 </ul></div>
 

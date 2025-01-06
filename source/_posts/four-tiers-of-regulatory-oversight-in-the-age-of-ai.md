@@ -1,7 +1,7 @@
 ---
 title: Four Tiers of Regulatory Oversight in the Age of AI
-date: 2024-09-06T23:31:28.792Z
-updated: 2024-09-07T23:31:28.792Z
+date: 2024-12-31T05:05:06.409Z
+updated: 2025-01-06T04:06:41.126Z
 tags:
   - chatgpt
   - open-ai
@@ -13,18 +13,6 @@ excerpt: This Article Describes Four Tiers of Regulatory Oversight in the Age of
 thumbnail: https://thmb.techidaily.com/497e0cf4a494c643d111720df0c9d81e356ffb4889a6eb2b11c281fd2cb5d878.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Four Tiers of Regulatory Oversight in the Age of AI
 
  The idea that AI technologies must be regulated is a common sentiment. Most governments, AI product developers, and even ordinary users of AI products agree on this. Unfortunately, the best way to regulate this rapidly growing field is an unsolved puzzle.
@@ -39,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/497e0cf4a494c643d111720df0c9d81e356ffb488
 
 ![a lock in a blue digital field](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/privacy-lock-mac.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  One of the primary concerns with AI technologies is data privacy and security. Artificial intelligence systems are data-hungry machines. They need data to operate, more data to be efficient, and even more data to improve. While this isn't a problem, the way this data is sourced, the nature of it, and how it is processed and stored is one of the biggest talking points surrounding AI regulations.
 
  Considering this, the logical path to take is to put in place strict data privacy regulations that govern data collection, storage, and processing, as well as the rights of individuals—whose data are being used—to access and control their data. Questions these regulations would likely address are:
@@ -52,16 +44,14 @@ thumbnail: https://thmb.techidaily.com/497e0cf4a494c643d111720df0c9d81e356ffb488
 
  These questions and a few others formed the crux of [why ChatGPT was temporarily banned in Italy](https://www.makeuseof.com/why-has-italy-banned-chatgpt/). Unless these concerns are addressed, the artificial intelligence space might be a wild west for data privacy, and Italy's ban might turn out to be a template for bans by other countries worldwide.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Development of an Ethical AI Framework
 
 ![binary code background showing a woman face to face with a robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-10-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  AI companies frequently boast about their commitment to ethical guidelines in developing AI systems. At least on paper, they are all proponents of responsible AI development. In the media, Google execs have emphasized how the company takes AI safety and ethics seriously. Similarly, "Safe and ethical AI" is a mantra for OpenAI's CEO, Sam Altman. These are quite applaudable.
 
  But who's making the rules? Who decides which AI ethical guidelines are good enough? Who decides what safe AI development looks like? Right now, every AI company seems to have its own spin on responsible and ethical AI development. OpenAI, Anthropic, Google, Meta, Microsoft, everyone. Simply relying on AI companies to do the right thing is dangerous.
@@ -78,12 +68,6 @@ thumbnail: https://thmb.techidaily.com/497e0cf4a494c643d111720df0c9d81e356ffb488
 
 ![engineer monitoring ssh logins on linux](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/engineer_monitoring_ssh_logins.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Owing to its potential impact on human civilization, discussion around AI safety typically draws parallel to the risk of a health crisis or a nuclear disaster. Avoiding potential nuclear incidents necessitates a dedicated agency like the US's NRC (Nuclear Regulatory Commission). Avoiding the risk of dangerous health crises necessitates the establishment of the FDA (Food and Drug Administration)
 
  Similarly, to ensure that things don't go wrong in the AI space, a dedicated agency akin to the FDA and the NRC is necessary as AI continues to make aggressive inroads into all areas of our life. Unfortunately, the issue of in-country AI regulation is a tricky one. The work of any dedicated regulatory agency is likely to be agonizingly hard without cross-border cooperation. Just like the US's NRC (Nuclear Regulatory Commission) needs to work hand in hand with the International Atomic Energy Agency (IAEA) to be at its best, any dedicated in-country AI regulatory agency would also need an international analog.
@@ -96,21 +80,17 @@ thumbnail: https://thmb.techidaily.com/497e0cf4a494c643d111720df0c9d81e356ffb488
 * Collaboration and cross-country cooperation on AI safety and ethics
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Addressing Copyright and Intellectual Property Concerns
 
 ![An illustration of copyright thief](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/copyright-protected-illustration.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Existing copyright laws and legal frameworks crumble in the face of Artificial Intelligence. The way AI tools, especially generative AI tools, are designed makes them seem like a publicly endorsed copyright infringement machine that you can't do anything about.
 
  How? Well, many of today's AI systems are trained using copyrighted materials. You know, copyrighted articles, copyrighted songs, copyrighted images, etc. That's how tools like [ChatGPT, Bing AI, and Google Bard](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/) can do the awesome things they do.
@@ -127,11 +107,9 @@ thumbnail: https://thmb.techidaily.com/497e0cf4a494c643d111720df0c9d81e356ffb488
 * Clear pathways for collaboration with right holders. If AI systems are going to use people's intellectual property anyway, there should be clear pathways or frameworks for AI developers and rights-owners to collaborate, especially in terms of financial compensations, if the derivative work of such intellectual properties is commercialized.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AI Regulation Is a Desperately Needed Fix
 
  While artificial intelligence has emerged as a promising fix to many of our societal problems, AI itself is rapidly becoming a problem needing an urgent fix. It's time to take a step back, reflect, and make the necessary fixes to ensure AI's positive impact on society. We desperately need an urgent recalibration of our approach to building and using AI systems.
@@ -146,8 +124,6 @@ thumbnail: https://thmb.techidaily.com/497e0cf4a494c643d111720df0c9d81e356ffb488
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +131,18 @@ thumbnail: https://thmb.techidaily.com/497e0cf4a494c643d111720df0c9d81e356ffb488
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-ultimate-iphone-slideshow-apps-ranked-6-13-for-2024/"><u>[New] Ultimate iPhone Slideshow Apps Ranked #6-13 for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-navigating-the-world-of-srt-files-on-youtube-and-twitter/"><u>[Updated] Navigating the World of SRT Files on YouTube and Twitter</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-quadcopter-mechanics-decoded-flight-patterns-and-functionality-for-2024/"><u>[Updated] Quadcopter Mechanics Decoded Flight Patterns & Functionality for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-mindful-living-discover-the-top-7-ai-applications/"><u>Boost Mindful Living: Discover the Top 7 AI Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-chatgpt-a-guide-to-10-custom-tweaks/"><u>Elevating ChatGPT: A Guide to 10 Custom Tweaks</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-save-as-mp4-file-on-windows-movie-maker/"><u>In 2024, How to Save As MP4 File on Windows Movie Maker?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-language-understanding-dissecting-gpt-and-bert-differences/"><u>Innovating Language Understanding: Dissecting GPT and BERT Differences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quickly-addressing-common-pitfalls-in-gpt-dialogue/"><u>Quickly Addressing Common Pitfalls in GPT Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-essential-ipad-add-ons-reviewed-by-zdnet/"><u>The Ultimate Guide to Essential iPad Add-Ons Reviewed by ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/tiktoks-stealthy-revenue-siege-on-facebooks-empire/"><u>TikTok's Stealthy Revenue Siege on Facebook’s Empire</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Compre Cookie Cutter Method for Downloading & Installing Llama 2
-date: 2024-12-23T20:22:51.562Z
-updated: 2024-12-27T17:56:03.559Z
+date: 2025-01-03T22:41:44.787Z
+updated: 2025-01-05T17:31:46.084Z
 tags:
   - chatgpt
   - open-ai
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/3e5b59b546c87eb154c3a82ef5392a8a6adfe5198
  With that said, let's begin with the step-by-step guide to installing Llama 2 locally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 1: Install Visual Studio 2019 Build Tool
@@ -48,11 +48,11 @@ thumbnail: https://thmb.techidaily.com/3e5b59b546c87eb154c3a82ef5392a8a6adfe5198
 2. Now install Visual Studio 2019, then open the software. Once opened, tick the box on **Desktop development with C++** and hit install.  
 ![Install-Desktop-Development-With-C++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/2-install-desktop-development-with-c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now that you have Desktop development with C++ installed, it's time to download the Text-Generation-WebUI one-click installer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Install Text-Generation-WebUI
 
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/3e5b59b546c87eb154c3a82ef5392a8a6adfe5198
 3. Your anti-virus might create an alert; this is fine. The prompt is just an [antivirus false positive](https://www.makeuseof.com/what-is-antivirus-false-result/) for running a batch file or script. Click on **Run anyway**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. A terminal will open and start the setup. Early on, the setup will pause and ask you what GPU you are using. Select the appropriate type of GPU installed on your computer and hit enter. For those without a dedicated graphics card, select **None (I want to run models in CPU mode)**. Keep in mind that running on CPU mode is much slower when compared to running the model with a dedicated GPU.  
@@ -112,21 +112,17 @@ thumbnail: https://thmb.techidaily.com/3e5b59b546c87eb154c3a82ef5392a8a6adfe5198
 ![Downloading Llama 2 model of your preference](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/8-download-llama-2-model.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After the download is finished, place the model in **text-generation-webui-main** \> **models**.
 
 ![Placing Llama 2 model to model folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/9-place-model-to-model-folder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now that you have your model downloaded and placed in the model folder, it's time to configure the model loader.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 4: Configure Text-Generation-WebUI
@@ -138,6 +134,11 @@ Now that you have your model downloaded and placed in the model folder, it's tim
 3. Now click on the dropdown menu of the **Model loader** and select **AutoGPTQ** for those using a GTPQ model and **ctransformers** for those using a GGML model. Finally, click on **Load** to load your model.  
 ![Setting model loader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/10-select-model-loader.jpg)
 4. To use the model, open the Chat tab and start testing the model.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Testing Llama 2 locally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/12-testing-llama-2-locally.jpg)
 
  Congratulations, you've successfully loaded Llama2 on your local computer!
@@ -165,21 +166,24 @@ Now that you have your model downloaded and placed in the model folder, it's tim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-speech-to-text-magic-in-your-next-presentation/"><u>[New] 2024 Approved Speech-to-Text Magic in Your Next Presentation</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevating-slideshows-incorporate-youtube-videos/"><u>[New] In 2024, Elevating Slideshows Incorporate YouTube Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-smooth-transition-tips-for-inshot-editors/"><u>[New] Smooth Transition Tips for Inshot Editors</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-20mb-video-seconds-breakdown/"><u>2024 Approved 20MB Video - Seconds Breakdown</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-smart-choice-selecting-the-top-5-webcams-for-clear-audio/"><u>2024 Approved Smart Choice Selecting the Top 5 Webcams for Clear Audio</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-the-benefits-of-co-pilot-in-chatgpt-applications/"><u>Discovering the Benefits of Co-Pilot in ChatGPT Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-spirit-chatgpt-as-a-zen-practice-companion/"><u>Elevate Your Spirit: ChatGPT as a Zen Practice Companion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/human-resources-streamlined-gpt-quick-fixes/"><u>Human Resources Streamlined: GPT Quick Fixes</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-club-chronicles-expertly-picked-dj-videos/"><u>In 2024, Club Chronicles Expertly Picked DJ Videos</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-apples-latest-upgrade-the-new-airpods-pro-revealed-a-detailed-analysis-by-zdnet/"><u>Inside Apple's Latest Upgrade: The New AirPods Pro Revealed - A Detailed Analysis by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-airpod-maintenance-the-right-time-for-a-reset-expert-advice/"><u>Mastering AirPod Maintenance: The Right Time for a Reset | Expert Advice</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/reducing-motion-illusion-in-vr-environments/"><u>Reducing Motion Illusion in VR Environments</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-is-here-chatgpt-launches-vital-updates-and-enhancements/"><u>The Future Is Here: ChatGPT Launches Vital Updates & Enhancements</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-zte-nubia-z60-ultra-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any ZTE Nubia Z60 Ultra Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-the-irritating-issue-with-iphones-a-call-to-apple-for-resolution/"><u>Unraveling the Irritating Issue with iPhones: A Call to Apple for Resolution</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-navigating-novelty-applying-cartoon-lenses-in-snapchat-for-2024/"><u>[Updated] Navigating Novelty Applying Cartoon Lenses in Snapchat for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-ultimate-guide-to-macs-image-file-transformation-for-2024/"><u>[Updated] The Ultimate Guide to Mac's Image File Transformation for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-water-found-inside-iphone-charging-port-choose-your-recovery-path-insights/"><u>1. 'Water Found Inside iPhone Charging Port: Choose Your Recovery Path' - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-cutting-edge-features-make-the-latest-ipad-calculator-worth-investing-in-a-look-at-why-you-may-need-an-apple-pencil/"><u>1. Cutting-Edge Features Make the Latest iPad Calculator Worth Investing In: A Look at Why You May Need an Apple Pencil</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embark-on-the-path-to-cash-rewards-via-bug-bounties-at-openai/"><u>Embark on the Path to Cash Rewards via Bug Bounties at OpenAI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-role-of-vector-databases-in-accelerating-artificial-intelligence/"><u>Exploring the Role of Vector Databases in Accelerating Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-for-enhanced-medical-diagnostics/"><u>Harnessing ChatGPT for Enhanced Medical Diagnostics</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-turn-the-key-on-a-locked-snapchat-account-expert-advice-for-activation/"><u>How To Turn The Key On A Locked Snapchat Account: Expert Advice for Activation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-internet-spots-curated-custom-tones-downloads/"><u>Ideal Internet Spots Curated Custom Tones Downloads</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-visualizer-screen-recorder-3000/"><u>In 2024, Visualizer Screen Recorder 3000</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-magic-interactive-rpg-creation-with-chatgpt/"><u>Making Magic: Interactive RPG Creation with ChatGPT</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/reverse-viewing-crafts-creative-youtube-video-methods-for-2024/"><u>Reverse Viewing Crafts Creative Youtube Video Methods for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-puzzle-of-programmed-passion-can-ai-grasp-the-heartache/"><u>The Puzzle of Programmed Passion: Can AI Grasp the Heartache?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-creative-process-with-microsofts-ai-image-visionary/"><u>Transform Your Creative Process with Microsoft’s AI Image Visionary</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-securing-your-data-by-syncing-iphone-and-mac-with-icloud-tips-from-zdnet/"><u>Ultimate Guide: Securing Your Data by Syncing iPhone & Mac with iCloud - Tips From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-eus-digital-single-market-and-aichatgpt-impact/"><u>Unraveling the EU's Digital Single Market & AI/ChatGPT Impact</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-ai-weak-points-the-art-and-science-of-prompt-injection-attacks/"><u>Unveiling AI Weak Points: The Art and Science of Prompt Injection Attacks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-10-blue-screen-troubles-fix-your-igdkmd64sys-error-today/"><u>Windows 10 Blue Screen Troubles? Fix Your igdkmd64.sys Error Today!</u></a></li>
 </ul></div>
 

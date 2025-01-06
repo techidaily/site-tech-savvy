@@ -1,7 +1,7 @@
 ---
 title: "Top iPad Productivity Apps: Streamline Your Tasks & Enhance Efficiency on the Go - Insights From ZDNet"
-date: 2024-12-25T16:55:49.189Z
-updated: 2024-12-27T18:56:14.641Z
+date: 2024-12-29T17:47:58.413Z
+updated: 2025-01-06T00:50:44.717Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ Before I take you through both the tools and my "process," let me point out that
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -35,6 +35,10 @@ Before I take you through both the tools and my "process," let me point out that
 Today, I coordinate with teams, rather than manage them. I have students rather than employees. I research projects rather than launch products. My daily productivity flow reflects the changes in career as I've evolved from founder to advisor, manager to professor, and publisher to columnist. 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What do I mean by my flow?
 
@@ -47,6 +51,10 @@ In my case, morning to mid-afternoon is that daily productivity time. That's whe
 That whole process is my flow. Over my many various iterations, I've managed to optimize this process so I'm able to get a tremendous amount done in a relatively short amount of time.
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Changes due to the pandemic
 
@@ -61,10 +69,6 @@ In any case, what that means is that instead of my escalating ranking of phones,
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -83,7 +87,7 @@ The boy
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -97,7 +101,7 @@ At this point, I tend to take note of what's in my inbox, but I neither process 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
@@ -115,10 +119,6 @@ The nice part about this is I can easily do this while drinking coffee. I can ge
 By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one or two cups of coffee, and I have a pretty solid feel for both what's going on in my own various domains as well as what's going on in the rest of the world. It's a very good, very quick way to come up to speed while waking up.
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
 
@@ -146,6 +146,10 @@ Rinse, wash, repeat.
 I'm relatively holistic about my morning reading process. I do it until I'm bored or hungry, or feel like switching gears and moving on to managing my email and schedule. 
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Connecting and scheduling
 
@@ -228,10 +232,6 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Blocking out time for my projects
 
 I use Notion for managing the details of my projects, but I visualize them using Google Calendar. I have three special calendars I set up: DG Planner, Planner Tentative, and Project Due.
@@ -275,24 +275,24 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-elevate-your-viewing-unlocking-the-potential-of-netflixs-pip-for-2024/"><u>[New] Elevate Your Viewing Unlocking the Potential of Netflix’s PIP for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-building-a-solid-base-for-higher-instagram-video-view-counts-for-2024/"><u>[Updated] Building a Solid Base for Higher Instagram Video View Counts for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-avi-to-gif-transformation-in-filmora/"><u>2024 Approved Quick AVI to GIF Transformation in Filmora</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/8-people-search-engines-for-finding-anyone/"><u>8 People Search Engines for Finding Anyone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-journey-towards-intelligence-dominance-how-apple-must-evolve-siri-to-outshine-rivals-like-openai-and-google-insight/"><u>Apple's Journey Towards Intelligence Dominance: How Apple Must Evolve Siri to Outshine Rivals Like OpenAI and Google Insight</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-scripted-podcast-chronicles/"><u>ChatGPT-Scripted Podcast Chronicles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-your-next-smartphone-iphone-14-pro-or-14-pro-max-a-comparative-guide-by-zdnet/"><u>Choosing Your Next Smartphone: IPhone 14 Pro or 14 Pro Max - A Comparative Guide by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/compact-powerhouse-is-the-new-mac-mini-with-m4-chip-comparable-to-an-apple-tv-in-size-and-performance/"><u>Compact Powerhouse: Is the New Mac Mini with M4 Chip Comparable to an Apple TV in Size and Performance?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-on-repairing-frequent-usb-disconnection-problems/"><u>Expert Tips on Repairing Frequent USB Disconnection Problems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/imperator-rome-analysis-constructing-dominion-or-facing-demise/"><u>Imperator Rome Analysis: Constructing Dominion or Facing Demise</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-photo-savvy-with-an-iphone-ideal-perspectives-uncovered/"><u>In 2024, Photo Savvy with an iPhone Ideal Perspectives Uncovered</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smooth-sailing-avoiding-pitfalls-in-chatgpt-sign-in/"><u>Smooth Sailing: Avoiding Pitfalls in ChatGPT Sign-In</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-debate-continues-why-apple-says-no-to-iphone-cases-and-whos-taking-notes-zdnet/"><u>The Debate Continues: Why Apple Says No to iPhone Cases and Who's Taking Notes - ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-showdown-how-does-the-new-m3-macbook-air-stack-up-against-the-m2-model-pcmag/"><u>The Ultimate Showdown: How Does the New M3 MacBook Air Stack Up Against the M2 Model? | PCMag</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-veracity-of-virtual-assistants-dispelling-nine-chatbot-claims/"><u>The Veracity of Virtual Assistants: Dispelling Nine Chatbot Claims</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-live-chat-with-woocommerce-your-gateway-to-successful-live-selling/"><u>Updated In 2024, Live Chat With WooCommerce Your Gateway to Successful Live Selling</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/workplace-changes-can-gpt-replace-humans/"><u>Workplace Changes: Can GPT Replace Humans?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-shape-your-story-5-proven-techniques-for-cutting-and-condensing-vimeo-videos-online/"><u>[New] Shape Your Story 5 Proven Techniques for Cutting & Condensing Vimeo Videos Online</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-transforming-storytelling-into-cinematic-art/"><u>[Updated] 2024 Approved Transforming Storytelling Into Cinematic Art</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-correcting-mute-issue-during-obs-recording/"><u>[Updated] In 2024, Correcting Mute Issue During OBS Recording</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-harnessing-instagram-video-potential-crafting-a-strong-marketing-strategy/"><u>[Updated] In 2024, Harnessing Instagram Video Potential Crafting a Strong Marketing Strategy</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-how-to-solve-delayed-or-failed-video-sending-in-facebooks-mobile-messaging-service/"><u>2024 Approved How to Solve Delayed or Failed Video Sending in Facebook's Mobile Messaging Service</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1726028884152-dvddvd/"><u>外付けDVDドライブが機能しない場合、パソコンでDVD再生に必要な対策</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-enthusiasts-urged-to-reject-unverified-chargers-prevent-counterfeit-hazards-zdnet-insight/"><u>Apple Enthusiasts Urged to Reject Unverified Chargers, Prevent Counterfeit Hazards | ZDNET Insight</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/discover-the-ultimate-iphone-notes-recovery-programs-to-revive-your-missing-text-and-reminders/"><u>Discover the Ultimate iPhone Notes Recovery Programs to Revive Your Missing Text and Reminders</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/july-2024s-ultimate-guide-to-discounted-apple-gear-iphones-apple-watches-ipads-at-unbeatable-prices/"><u>July 2024'S Ultimate Guide to Discounted Apple Gear: IPhones, Apple Watches, iPads at Unbeatable Prices</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/master-your-channel-identity-with-smart-naming/"><u>Master Your Channel Identity with Smart Naming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfect-pensmanship-chatgpt-for-academic-notes/"><u>Perfect Pensmanship: ChatGPT for Academic Notes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/spearheading-visual-creation-integrating-chatgpt-4-with-dall-e/"><u>Spearheading Visual Creation: Integrating ChatGPT-4 with DALL-E</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-insiders-guide-to-harnessing-openai-capabilities/"><u>The Insider’s Guide to Harnessing OpenAI Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-stylus-tablets-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Stylus Tablets : In-Depth Analysis & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-deal-top-non-apple-non-anker-magsafe-wallet-grabs-first-place-in-our-rigorous-testing-now-on-sale/"><u>Unbeatable Deal: Top Non-Apple, Non-Anker MagSafe Wallet Grabs First Place in Our Rigorous Testing - Now On Sale!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-novelty-gpt-4-by-openai/"><u>Unveiling Novelty: GPT-4 by OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrading-to-the-new-standard-a-comprehensive-guide-to-choosing-between-apples-latest-iphones-on-zdnet/"><u>Upgrading to the New Standard? A Comprehensive Guide to Choosing Between Apple's Latest iPhones on ZDNET</u></a></li>
 </ul></div>
 

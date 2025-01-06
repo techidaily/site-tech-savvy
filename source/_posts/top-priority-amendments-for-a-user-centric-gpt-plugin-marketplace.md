@@ -1,7 +1,7 @@
 ---
 title: Top Priority Amendments for a User-Centric GPT Plugin Marketplace
-date: 2024-09-12T07:41:52.647Z
-updated: 2024-09-13T07:41:52.647Z
+date: 2025-01-04T17:47:38.577Z
+updated: 2025-01-05T22:11:51.522Z
 tags:
   - chatgpt
   - open-ai
@@ -25,23 +25,9 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
 
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Introduce a Rating System
 
 ![illustration of rating in the chatgpt plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-rating.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The once sparse number of plugins in the ChatGPT plugins store has now grown into the hundreds. However, a vast number of them perform similar functions, although with varying effectiveness. Take PDF reader plugins, for instance. A quick search for "PDF" will turn up a dozen PDF reader options. Some of them work seamlessly, while others sputter and stall. You'll face a similar scenario when searching for link reader plugins. There are a lot of them, but not all work as advertised.
 
@@ -50,15 +36,16 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
  If done right, a ratings and reviews system can help ChatGPT users immediately identify useful plugins and avoid wasting time trying to try out ones that don't work as advertised. It will also be a way for users to provide feedback to plugin developers and help developers understand what's needed and how they can improve their plugins.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Introduce Plugin Categorization
 
 ![Categorization in the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/categories-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Right now, every plugin that makes its way to the plugin store is lumped together in one big mess. It doesn't matter what a plugin does; whether it helps you write code or it helps you summarize YouTube videos, everything is lumped together. There's really no healthy way to tell what a group of plugins does from the other. There's no grouping at all. As the number of plugins in the store keeps growing, this will eventually become a chaotic mess.
 
@@ -67,10 +54,7 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
  It's not just consumers that categorization would help. It would also help developers gain valuable market insights since the number and growth of apps in each category will highlight where demand and opportunities exist. Consequently, developers can better decide which plugins to develop and through which categories they'll need to get them in front of the right audience.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Strict Review Process Before Accepting Plugins
@@ -81,16 +65,13 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
 
  This runs the risk of turning the innovative store into a collection of mediocre plugins, drowning out those that provide immense value to users. A stringent pre-publication review identifies and ensures that low-quality or buggy plugins are rejected, ensuring only stable, functioning plugins that solve a serious problem make it into the store. Overall, a strict review process will help improve user trust for plugins, reduce user risk, and benefit the entire ChatGPT plugin ecosystem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Provide Access to More Advance Development Tools
 
 ![chatgpt logo alongside cogs](https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b14ea9611940de411cb7abe5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While it's tempting to put the entire blame for low-quality plugins on developers, OpenAI isn't entirely exempted from the blame. Developers can only work within the limits of the access they're provided, and so far, the level of access is still superficial in many ways. While privacy and security remain a core concern for OpenAI's willingness to grant deeper access to their underlying AI model, without such access, the kind of plugins developers will be able to build is, unfortunately, quite limited.
 
@@ -99,10 +80,7 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
  The solution? Improved, granular, and lower-level access to ChatGPT's underlying AI models. Granular access will allow developers to build more complex and powerful plugins that can harness the full capabilities of the model in innovative ways. And then maybe we'd be able to have plugins other than PDF readers and link readers everywhere on the plugin store.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OpenAI Should Rectify Early Missteps
@@ -130,5 +108,24 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-comparing-top-free-players-vlc-or-mpc/"><u>[New] 2024 Approved Comparing Top Free Players VLC or MPC?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-transform-video-discoverability-essential-seo-tips-for-yt/"><u>[New] 2024 Approved Transform Video Discoverability Essential SEO Tips for YT</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-freezing-your-gameplay-xbox-one-screenshot-essentials/"><u>[New] Freezing Your Gameplay Xbox One Screenshot Essentials</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-do-i-peruse-all-the-video-and-photo-files-shared-by-friends-in-2024/"><u>[New] How Do I Peruse All the Video and Photo Files Shared by Friends, In 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-twitch-revival-tactics-for-forgotten-sessions/"><u>[New] Twitch Revival Tactics for Forgotten Sessions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-tips-for-applying-onscreen-vhs-effects-and-filters-for-2024/"><u>Advanced Tips for Applying Onscreen VHS Effects and Filters for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compre-cookie-cutter-method-for-downloading-and-installing-llama-2/"><u>Compre Cookie Cutter Method for Downloading & Installing Llama 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-your-books-dialogues-top-gpt-ideas-to-craft-characters/"><u>Elevating Your Book's Dialogues: Top GPT Ideas to Craft Characters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-effortless-iphone-data-protection-using-icloud-and-macos-tips/"><u>Guide: Effortless iPhone Data Protection Using iCloud and macOS - Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-14-examples-of-moving-text-art/"><u>Innovative 14 Examples of Moving Text Art</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-16-gains-enhanced-image-recognition-features-similar-to-google-lens-boosting-mobile-photography-experience/"><u>IPhone 16 Gains Enhanced Image Recognition Features Similar to Google Lens, Boosting Mobile Photography Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m1-vs-m3-macbook-pro-showdown-what-you-need-to-know-before-upgrading-your-apple-laptop-zdnet/"><u>M1 Vs. M3 MacBook Pro Showdown: What You Need to Know Before Upgrading Your Apple Laptop | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-latest-ios-18-features-tailoring-your-iphones-control-center/"><u>Mastering the Latest iOS 18 Features: Tailoring Your iPhone's Control Center</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ize-learning-free-tools-for-online-video-texts/"><u>Maximize Learning Free Tools for Online Video Texts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-creativity-with-these-4-pioneering-ai-tools/"><u>Revolutionizing Creativity with These 4 Pioneering AI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-playlist-transition-between-apple-and-youtube-music-services-how-users-can-switch-over/"><u>Seamless Playlist Transition Between Apple and YouTube Music Services - How Users Can Switch Over</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-restoring-and-rebuilding-windows-store-cache-files/"><u>Step-by-Step Tutorial: Restoring and Rebuilding Windows Store Cache Files</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Deciphering ChatGPT's Built-In Features
-date: 2024-12-22T16:01:53.503Z
-updated: 2024-12-27T22:04:23.752Z
+date: 2025-01-03T23:17:01.801Z
+updated: 2025-01-05T19:50:32.283Z
 tags:
   - chatgpt
   - open-ai
@@ -20,15 +20,15 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Are ChatGPT's Default Plugins?](https://coinrule.sjv.io/rqzonv)
 * [How to Use ChatGPT's Standard Plugins](https://turtlebeachus.sjv.io/vmebyo)
 * [How to Use ChatGPT's Plugins on Mobile](https://getlyla.pxf.io/ek9gkg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Are ChatGPT's Default Plugins?
 
  ChatGPT's three built-in plugins are offered to all ChatGPT Plus users. ChatGPT Plus uses GPT-4, OpenAI's latest LLM version, which comes with the DALL-E 3, Code Interpreter, and Browse with Bing plugins.
@@ -60,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
  When you open your ChatGPT Plus account, each of these plugins will be active by default, meaning you don't need to activate anything manually to use them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use ChatGPT's Standard Plugins
 
  If you don't have a ChatGPT Plus account, you won't be able to access these plugins. So, consider signing up for the $20 monthly premium plan if you want to overcome this barrier.
@@ -70,16 +70,12 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 ![chatgpt search with bing ask question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-search-with-bing-ask-question-jan-2024.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you make the request, you'll be told that GPT is currently searching the web. It may take ten or so seconds to get your results or longer if your connection is patchy, OpenAI's servers are overwhelmed, or your request contains detailed information that takes time to search for.
 
 ![chatgpt search with bing whats the weather jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-search-with-bing-whats-the-weather-jan-2024.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When ChatGPT provides a response based on a web search, the source will always be provided in the bracketed quotation marks (**\["\]**) at the end of the response. You can regenerate the response if you're unhappy with the initial output by clicking on the circular arrow symbol under the response.
@@ -113,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 ![screenshot of ChatGPT python response in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-python-response.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If ChatGPT picks up on any errors in your code, it will notify you and provide a correction.
@@ -130,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
  Make sure you run whatever code is provided through a dedicated Python execution tool before implementing it. ChatGPT can make mistakes, so it's always best to run some checks on any data it gives you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use ChatGPT's Plugins on Mobile
 
  The process of using any of these standard plugins is the same on the [ChatGPT mobile app](https://www.makeuseof.com/how-to-use-chatgpt-on-android-and-ios/) as it is on your desktop. Make your request in your prompt, and as long as you're signed in to your ChatGPT Plus account, the relevant plugin should work automatically.
@@ -137,7 +137,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 ![screenshot of chatgpt web search result in mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-search.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![screenshot of ChatGPT mobile app dall-e response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-dalle.jpg)
@@ -169,24 +169,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-rapid-releases-review-best-quick-gaming-selections/"><u>[New] 2024 Approved Rapid Releases Review Best Quick Gaming Selections</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-charting-the-unknown-visual-facts-from-2017s-youtube-world-for-2024/"><u>[Updated] Charting the Unknown Visual Facts From 2017'S Youtube World for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-which-video-sharing-platform-prevails-analyzing-igtv-vs-youtube-for-2024/"><u>[Updated] Which Video Sharing Platform Prevails? Analyzing IGTV Vs. YouTube for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-motorola-edge-2023-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Motorola Edge 2023 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-mkv-player-for-pc-and-mobile/"><u>Best Mkv Player for PC and Mobile</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-personalized-command-feature-explained/"><u>ChatGPT's Personalized Command Feature Explained</u></a></li>
-<li><a href="https://win-guides.techidaily.com/clear-system-ram-a-comprehensive-guide-to-improving-windows-application-performance-yl-software/"><u>Clear System RAM: A Comprehensive Guide to Improving Window's Application Performance - YL Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparative-analysis-gpt-35s-quickness-vs-chatgpt-4s-sluggishness/"><u>Comparative Analysis: GPT-3.5's Quickness Vs. ChatGPT-4's Sluggishness</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decluttering-made-easy-how-a-single-trick-can-transform-your-inbox-and-eliminate-complexity-zdnet/"><u>Decluttering Made Easy: How a Single Trick Can Transform Your Inbox and Eliminate Complexity | ZDNET</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/discover-iphone-12s-latest-feature-improved-qi-charging-that-works-without-magsafe-zdnet-news/"><u>Discover iPhone 12'S Latest Feature: Improved Qi Charging that Works without MagSafe | ZDNET News</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-the-effects-of-restrictions-in-digital-chat-companions/"><u>Dissecting the Effects of Restrictions in Digital Chat Companions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-y27-4g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo Y27 4G</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-masterful-selection-top-15-accessories-for-gopro-enthusiasts/"><u>In 2024, Masterful Selection Top 15 Accessories for GoPro Enthusiasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/key-blunders-to-steer-clear-of-with-gpt-conversations/"><u>Key Blunders to Steer Clear of with GPT Conversations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/kid-friendly-top-devices-expert-reviews-of-the-safest-and-most-durable-smartphones/"><u>Kid-Friendly Top Devices: Expert Reviews of the Safest & Most Durable Smartphones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-trust-factor-evaluating-chatgpt-and-bards-advice-quality/"><u>The Trust Factor: Evaluating ChatGPT and Bard's Advice Quality</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-honor-x9b-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Honor X9b without backup.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-professional-routines-harnessing-the-potential-of-chatgpt-assistance/"><u>Transforming Professional Routines: Harnessing the Potential of ChatGPT Assistance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-unquestioned-faith-in-ai-is-a-path-we-must-caution-against/"><u>Why Unquestioned Faith in AI Is a Path We Must Caution Against</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixed-after-windows-11-update-no-sound-easily/"><u>[Fixed] After Windows 11 Update No Sound. Easily</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ramefusion-creator/"><u>[New] FrameFusion Creator</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-evaluating-expenditure-on-turning-songs-into-visuals/"><u>2024 Approved Evaluating Expenditure on Turning Songs Into Visuals</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-itel-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Itel FRP Bypass Instantly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-vocab-unveiled-essential-language-for-the-tech-world/"><u>AI Vocab Unveiled: Essential Language for the Tech World</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificayering-academia-with-ai-tools/"><u>Artificayering Academia with AI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clashing-coders-who-will-conquer-the-ai-writes-world/"><u>Clashing Coders: Who Will Conquer the AI Writes World?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-finest-july-2024-promotions-for-your-new-apple-watch-exclusive-deals/"><u>Discover the Finest July 2024 Promotions for Your New Apple Watch – Exclusive Deals!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/exploring-virtual-horizons-with-meaningful-metaverse-sentiments/"><u>Exploring Virtual Horizons with Meaningful Metaverse Sentiments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-powered-text-interaction-for-paper-files/"><u>GPT-Powered Text Interaction for Paper Files</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-13-pro-max-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone 13 Pro Max without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-infinix-smart-8-hd-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Infinix Smart 8 HD</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/laughing-machines-the-genesis-of-laptops-and-advancements-in-vpn-security/"><u>Laughing Machines: The Genesis of Laptops & Advancements in VPN Security</u></a></li>
+<li><a href="https://games-able.techidaily.com/resume-efficiency-in-xbox-series-xands-a-must-have/"><u>Résumé Efficiency in Xbox Series X&S: A Must-Have?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-creative-content-for-presentations-using-chatgpts-ai/"><u>Unleash Creative Content for Presentations Using ChatGPT's AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-apples-innovative-perspective-the-fascinating-appeal-of-wearable-goggles-according-to-top-experts/"><u>Unveiling Apple's Innovative Perspective: The Fascinating Appeal of Wearable Goggles According to Top Experts</u></a></li>
 </ul></div>
 

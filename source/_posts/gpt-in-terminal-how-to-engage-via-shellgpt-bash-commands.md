@@ -1,7 +1,7 @@
 ---
 title: "GPT in Terminal: How to Engage via ShellGPT Bash Commands"
-date: 2024-12-26T17:42:55.297Z
-updated: 2024-12-27T17:02:09.090Z
+date: 2025-01-05T08:50:49.868Z
+updated: 2025-01-06T07:05:33.344Z
 tags:
   - chatgpt
   - open-ai
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s ShellGPT, ChatGPT’s Equivalent Linux Namesake?
@@ -47,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
  What’s the benefit of installing ShellGPT on your machine? It’s simple; you don’t need to type in unnecessary long commands or head to your browser. Instead, you can perform all possible tasks from the comfort of your Linux terminal.
 
  Before installing ShellGPT on your Ubuntu machine, here are a few prerequisites to take care of.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 1: Install Python and PIP on Your Machine
 
@@ -80,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 ![Ubuntu terminal window with code snippets with installation codes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-pip-on-ubuntu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After installation, you can again use the **\--version** command to check if the installation was successful.
@@ -98,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 `sudo apt install python3-venv -y`
 
 ![Ubuntu terminal window code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-virtual-environment-module-in-ubuntu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Set Up the Virtual Environment
 
@@ -126,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 ![Ubuntu terminal window with code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-virtual-environment-for-shellgpt-in-ubuntu-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 3: Generate an OpenAPI Key
@@ -145,9 +145,17 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 
 ![OpenAI's secret key website page with an open dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/generate-api-secret-key.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To establish a connection on your Ubuntu machine, create an environment variable with the **export** command:
 
 `export OPENAI_API_KEY=<paste key details here>`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Add and Verify the API Key Into a Virtual Environment Variable
 
@@ -170,10 +178,6 @@ export OPENAI_API_KEY=<paste key details here>`
 
 ![List of variables in a linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-secret-key-in-env-list.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Your **OPENAI\_API\_KEY** environment variable should be listed in the output.
 
 ## Step 5: Install ShellGPT on Ubuntu
@@ -194,10 +198,6 @@ export OPENAI_API_KEY=<paste key details here>`
 
 ![Ubuntu terminal interface with a query response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shellgpt-query-reponse.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Using ShellGPT for Generating Code
 
  You can use your ShellGPT for generating code as well. You can do it by passing the right command with the **sgpt** command:
@@ -206,11 +206,11 @@ export OPENAI_API_KEY=<paste key details here>`
 
 ![Ubuntu terminal window with code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shellgpt-code-reponse.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The output consists of code you can execute within Python to generate the Fibonacci series.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Using ShellGPT Within Ubuntu’s Terminal
 
@@ -239,22 +239,24 @@ export OPENAI_API_KEY=<paste key details here>`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-end-of-acid-pro-top-software-alternatives-reviewed/"><u>[New] 2024 Approved The End of ACID Pro Top Software Alternatives Reviewed</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-expert-tips-to-enhance-your-live-fb-broadcast-quality-pcmac/"><u>[Updated] 2024 Approved Expert Tips to Enhance Your Live FB Broadcast Quality (PC/Mac)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-comprehensive-but-concise-guide-to-keyers-techniques/"><u>2024 Approved Comprehensive but Concise Guide to Keyers' Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-impact-will-gpt-displace-human-roles/"><u>AI Impact: Will GPT Displace Human Roles?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/arena-of-artificial-intelligence-gpt-vs-bing-conversation-masters/"><u>Arena of Artificial Intelligence: GPT Vs. Bing Conversation Masters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/finding-your-mantra-path-gpts-role-in-meditative-habits/"><u>Finding Your Mantra Path: GPT's Role in Meditative Habits</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/hit-the-jackpot-on-pc-gear-get-your-hands-on-alienware-aurora-with-rtx-4080-and-core-i9-save-500-dollars-now/"><u>Hit the Jackpot on PC Gear! Get Your Hands-On Alienware Aurora with RTX 4080 & Core I9, Save 500 Dollars Now</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-v29-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo V29 Phone Screen?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/"><u>I Used ChatGPT to Script a Podcast: Here's What Happened</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/industry-shift-is-gpt-the-new-workforce-engine/"><u>Industry Shift: Is GPT the New Workforce Engine?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/overriding-character-constraints-in-chatgpt/"><u>Overriding Character Constraints in ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peeking-into-the-world-of-shap-explainer-by-openai/"><u>Peeking Into the World of SHAP Explainer by OpenAI</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/premier-networks-global-gems-with-local-spectacles-2024/"><u>Premier Networks Global Gems with Local Spectacles, 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/rhythmic-resonance-select-sites-for-downloading-tones-for-2024/"><u>Rhythmic Resonance Select Sites for Downloading Tones for 2024</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/the-ultimate-guide-transforming-your-audible-aax-downloads-into-crystal-clear-mp3s/"><u>The Ultimate Guide: Transforming Your Audible AAX Downloads Into Crystal Clear MP3s</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ipad-pro-usb-c-hub-unveiled-by-zdnet-a-must-have-accessory-when-you-need-it-most/"><u>Top iPad Pro USB-C Hub Unveiled by ZDNet: A Must-Have Accessory When You Need It Most</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-ios-15-find-out-eligible-iphone-models-and-begin-your-download-today-zdnet/"><u>Unlocking iOS 15: Find Out Eligible iPhone Models & Begin Your Download Today | ZDNet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-pioneering-strategies-to-escalate-your-channels-popularity/"><u>[New] 2024 Approved Pioneering Strategies to Escalate Your Channel's Popularity</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-transform-your-tiktok-content-with-expert-number-manipulation-for-2024/"><u>[New] Transform Your TikTok Content with Expert Number Manipulation for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-broadcast-without-breaks-2023-guides-to-overcoming-livestream-disruptions-on-fb/"><u>2024 Approved Broadcast Without Breaks 2023 Guides to Overcoming Livestream Disruptions on FB</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-pro-vs-apple-iphone-13-pro-for-tech-enthusiasts/"><u>6 Pro Vs. Apple iPhone 13 Pro for Tech Enthusiasts</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/diy-dynamics-unlock-creative-animation-potential/"><u>DIY Dynamics Unlock Creative Animation Potential</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-the-future-of-communication-on-your-iphone-unveiling-new-features-in-ios-18-thatll-transform-how-you-connect-not-powered-by-ai/"><u>Experience the Future of Communication on Your iPhone! Unveiling New Features in iOS 18 That'll Transform How You Connect (Not Powered by AI)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-expedited-guide-to-distinguishing-genuine-followers-on-instagram/"><u>In 2024, Expedited Guide to Distinguishing Genuine Followers on Instagram</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-zte-axon-40-lite-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From ZTE Axon 40 Lite to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-nuances-of-ai-in-financial-strategy-planning/"><u>Navigating the Nuances of AI in Financial Strategy Planning</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-unleash-your-creative-potential-top-audio-editing-software-for-pros-for-2024/"><u>New Unleash Your Creative Potential Top Audio Editing Software for Pros for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/propelling-progress-the-triumphant-five-in-ai-computing-technology/"><u>Propelling Progress: The Triumphant Five in AI Computing Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reviving-vanished-virtual-voice-tracks/"><u>Reviving Vanished Virtual Voice Tracks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-transfer-of-images-shifting-from-google-photos-to-icloud-with-simple-steps-techguide/"><u>Seamless Transfer of Images: Shifting From Google Photos to iCloud with Simple Steps | TechGuide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-issue-of-an-unresponsive-typing-keyboard-a-step-by-step-guide/"><u>Solving the Issue of an Unresponsive Typing Keyboard: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-travel-bookworms-device-a-thorough-analysis-of-the-kobo-clara-hd-e-reader/"><u>The Ultimate Travel Bookworm's Device: A Thorough Analysis of the Kobo Clara HD E-Reader</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unexpected-delight-the-surprising-performance-of-the-ring-spotlight-cam-pro-a-review/"><u>Unexpected Delight: The Surprising Performance of the Ring Spotlight Cam Pro - A Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unseen-uses-of-artificial-intelligence-a-chatgpt-case-study/"><u>Unseen Uses of Artificial Intelligence: A ChatGPT Case Study</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-new-apple-ipad-air-is-your-best-tablet-option-expert-review/"><u>Why the New Apple iPad Air Is Your Best Tablet Option | Expert Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-were-my-imessages-marked-as-undeliverable-recently-uncover-the-causes-insights/"><u>Why Were My iMessages Marked as 'Undeliverable' Recently? Uncover the Causes - Insights</u></a></li>
 </ul></div>
 

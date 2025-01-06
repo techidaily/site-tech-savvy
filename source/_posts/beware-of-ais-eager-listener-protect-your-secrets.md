@@ -1,7 +1,7 @@
 ---
 title: "Beware of AI's Eager Listener: Protect Your Secrets"
-date: 2024-12-26T20:06:21.135Z
-updated: 2024-12-27T17:22:28.630Z
+date: 2024-12-30T03:44:31.451Z
+updated: 2025-01-05T21:16:23.837Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Leaked Confidential Information Via ChatGPT
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
  There's another layer of risk here, too. If employees use ChatGPT to look for bugs like they did with the Samsung leak, the code they type into the chat box will also be stored on OpenAI's servers. This could lead to breaches that have a massive impact on companies troubleshooting unreleased products and programs. We may even end up seeing information like unreleased business plans, future releases, and prototypes leaked, resulting in huge revenue losses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do ChatGPT Data Leaks Happen?
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 ![ChatGPT logo on dark green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ChatGPT’s privacy policy](https://openai.com/policies/privacy-policy) makes it clear that it records your conversations and shares the logs with other companies and its AI trainers. When someone (for example, a Samsung employee) types confidential information into the dialog box, it’s recorded and saved on ChatGPT’s servers.
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
  For example, if they paste a large contact list into the chat and ask the AI to isolate customers’ phone numbers from the data, ChatGPT then has those names and phone numbers in its records. Your private information is at the mercy of companies you did not share it with, which may not protect it well enough to keep you safe. There are a few things you can do to [keep yourself safe after a data breach](https://www.makeuseof.com/what-to-do-after-data-breach-how-to-protect-yourself/), but businesses should be responsible for preventing leaks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Moral of the Story: Don't Tell ChatGPT Your Secrets
@@ -89,21 +89,24 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-fade-techniques-in-audio-production-with-adobe-tools/"><u>[New] Fade Techniques in Audio Production with Adobe Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-list-mobile-camera-utilities-for-iphone/"><u>A-List Mobile Camera Utilities for iPhone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/anticipated-launch-apple-prepares-new-earbuds-and-headphones-airpods-lite-and-airpods-max-for-later-this-year/"><u>Anticipated Launch: Apple Prepares New Earbuds and Headphones 'AirPods Lite' And AirPods Max for Later This Year</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/californias-bold-move-prohibiting-new-gasoline-vehicle-purchases-by-2035/"><u>California's Bold Move: Prohibiting New Gasoline Vehicle Purchases by 2035</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbot-communication-strategies-for-lifelike-dialogue/"><u>Chatbot Communication Strategies for Lifelike Dialogue</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fast-fix-handling-constant-on-state-of-laptop-fans-mac-expert-advice/"><u>Fast Fix: Handling Constant On-State of Laptop Fans - Mac Expert Advice</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-severe-dev-issue-in-activisions-battlefield-game-series/"><u>How to Resolve Severe Dev Issue in Activision's Battlefield Game Series</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-the-harmony-of-collaboration-brands-and-youtube-unite/"><u>In 2024, The Harmony of Collaboration Brands & YouTube Unite</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/linguistic-boundaries-gpts-processing-edge/"><u>Linguistic Boundaries: GPT's Processing Edge</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-landscape-of-gptzero-and-ai-text/"><u>Navigating the Landscape of GPTZero and AI Text</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-dont-know-which-video-splitter-to-choose-just-check-out-our-list-of-the-5-best-video-software-for-splitting-videos-below/"><u>New 2024 Approved Dont Know Which Video Splitter to Choose? Just Check Out Our List of the 5 Best Video Software for Splitting Videos Below</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-unleash-your-creativity-12-free-animation-apps-for-windows-and-mac-for-2024/"><u>New Unleash Your Creativity 12 Free Animation Apps for Windows and Mac for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailoring-text-generation-making-ai-write-in-a-distinctive-style/"><u>Tailoring Text Generation: Making AI Write in a Distinctive Style</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-10-techniques-for-youtube-to-mpeg-conversion/"><u>Top 10 Techniques for YouTube-to-MPEG Conversion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-iphone-15-in-depth-analysis-and-why-its-a-must-have-even-for-seasoned-professionals-zdnet-insights/"><u>Unveiling the Power of iPhone 15: In-Depth Analysis & Why It's a Must-Have Even for Seasoned Professionals | ZDNET Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/weighing-ais-impact-on-artistic-expression/"><u>Weighing AI's Impact on Artistic Expression</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-how-to-locate-your-youtube-fanbase/"><u>[New] In 2024, How to Locate Your YouTube Fanbase</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-from-base-to-pro-gopro-hero5-blacks-clash-with-hero4-silver/"><u>[Updated] From Base to Pro GoPro Hero5 Black's Clash with Hero4 Silver</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-live-streaming-and-screen-capture-a-comprehensive-obs-analysis/"><u>[Updated] Live Streaming & Screen Capture A Comprehensive OBS Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-reveals-enhanced-airpods-with-cutting-edge-find-my-speaker-functionality-and-usb-c-connectivity-coverage-on-zdnet/"><u>Apple Reveals Enhanced AirPods with Cutting-Edge Find My Speaker Functionality and USB-C Connectivity – Coverage on ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-ms-audio-drivers-now-top-compatible-software-for-windows-systems/"><u>Get Your MS Audio Drivers Now - Top Compatible Software for Windows Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gourmet-guide-mastering-nutritious-recipes-with-ai/"><u>Gourmet Guide: Mastering Nutritious Recipes with AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-prophecy-versus-magazine-zodiac-readings/"><u>GPT's Prophecy Versus Magazine Zodiac Readings</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-claude-taking-over-as-top-chatbot/"><u>Is Claude Taking Over as Top Chatbot?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/latest-footage-released-on-apples-airpower-could-the-tech-giant-be-bringing-back-its-qi-compatible-charger-mat/"><u>Latest Footage Released on Apple's AirPower - Could the Tech Giant Be Bringing Back Its Qi-Compatible Charger Mat?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/mov-to-mp4-conversion-a-step-by-step-guide-for-windows-mac-and-online-methods/"><u>MOV to MP4 Conversion: A Step-by-Step Guide for Windows, Mac & Online Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-ai-solutions-with-chatgpt-technologies/"><u>Pioneering AI Solutions with ChatGPT Technologies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/qualcomm-atheros-ar956x-wireless-adapter-driver-download/"><u>Qualcomm Atheros AR956x Wireless Adapter Driver Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-download-superior-audio-drivers-update/"><u>Quick Download: Superior Audio Drivers Update</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steam-stability-secured-instantly-tackle-frequent-crashes/"><u>Steam Stability Secured - Instantly Tackle Frequent Crashes!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-iphone-16-pro-vs-iphone-max-showdown-how-apple-won-me-over-exclusive-zdnet-review/"><u>The iPhone 16 Pro Vs. IPhone Max Showdown: How Apple Won Me Over - Exclusive ZDNet Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncluttered-inbox-revolutionized-with-one-simple-trick-say-goodbye-to-multiple-accounts-and-complex-rules-zdnet/"><u>Uncluttered Inbox Revolutionized with One Simple Trick - Say Goodbye to Multiple Accounts and Complex Rules | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-turing-test-and-its-beatability/"><u>Understanding The Turing Test & Its Beatability</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Update: A Step-by-Step Guide to Personalizing Your iPhone Control Center"
-date: 2024-12-25T17:53:24.878Z
-updated: 2024-12-27T20:26:22.504Z
+date: 2024-12-31T23:59:41.333Z
+updated: 2025-01-05T23:39:51.135Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -39,10 +39,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,6 +48,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -59,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -69,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,14 +126,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-leading-free-online-screencasting-solutions/"><u>[New] 2024 Approved The Leading Free Online Screencasting Solutions</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/levate-your-channel-studio-upgrade-vs-beta-shift-for-2024/"><u>[New] Elevate Your Channel Studio Upgrade Vs. Beta Shift for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-full-review-of-lgs-high-definition-monitoring-experience/"><u>[New] The Full Review of LG's High Definition Monitoring Experience</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-examining-facebooks-hidden-activity-knowledge-is-power-for-2024/"><u>[Updated] Examining Facebook’s Hidden Activity Knowledge Is Power for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-internet-with-ai-enhanced-bing/"><u>Exploring the Internet with AI-Enhanced Bing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-reno-11-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Oppo Reno 11 5G?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revealing-truth-behind-winchatgpt-extension/"><u>Revealing Truth Behind WinChatGPT Extension</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sham-botnet-swipes-on-facebook-credentials/"><u>Sham Botnet: Swipes on FACEBOOK Credentials</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-latency-ledger-chatgpt-4-versus-its-gpt-35-counterpart/"><u>The Latency Ledger: ChatGPT-4 Versus Its GPT-3.5 Counterpart</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/arning-potential-for-creators-in-youtube-ads-for-2024/"><u>[New] Earning Potential for Creators in YouTube Ads for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-journeying-through-yesteryears-facebook-posts-on-mobilelaptop/"><u>[New] In 2024, Journeying Through Yesteryear's Facebook Posts on Mobile/Laptop</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-sculpting-brilliance-a-deep-dive-into-hdr-in-lightroom/"><u>2024 Approved Sculpting Brilliance A Deep Dive Into HDR in Lightroom</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-itel-a70-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-loyalists-rejoice-newly-upgraded-audio-experience-available-with-no-cost-on-latest-lg-tv-models/"><u>Apple Loyalists Rejoice! Newly Upgraded Audio Experience Available with No Cost on Latest LG TV Models</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-boundary-of-intellectual-property-in-ai/"><u>The Boundary of Intellectual Property in AI</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-complete-zoomers-guide-achieving-exceptional-video-and-audio-recordings-on-zoom-for-2024/"><u>The Complete Zoomer's Guide Achieving Exceptional Video & Audio Recordings on Zoom for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-efficient-office-worker-embracing-gpt-automation-in-word/"><u>The Efficient Office Worker: Embracing GPT Automation in Word</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trio-strategies-enhancing-dialogue-with-chatgpt-and-wolframalpha/"><u>Trio Strategies: Enhancing Dialogue with ChatGPT & WolframAlpha</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-overcome-your-game-installation-woes-with-quick-tips-to-solve-steam-errors/"><u>Troubleshoot & Overcome Your Game Installation Woes with Quick Tips to Solve Steam Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-sets-generative-ai-apart-insights-shared/"><u>What Sets Generative AI Apart? Insights Shared</u></a></li>
 </ul></div>
 

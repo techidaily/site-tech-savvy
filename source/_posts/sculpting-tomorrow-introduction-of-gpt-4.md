@@ -1,7 +1,7 @@
 ---
 title: "Sculpting Tomorrow: Introduction of GPT-4"
-date: 2024-12-22T18:11:52.726Z
-updated: 2024-12-27T18:37:41.732Z
+date: 2025-01-04T16:46:14.950Z
+updated: 2025-01-05T17:25:48.164Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ OpenAI has released GPT-4, an update to the artificial intelligence model that p
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OpenAI Reveals Upgraded GPT-4 Model
@@ -41,7 +41,7 @@ OpenAI has released GPT-4, an update to the artificial intelligence model that p
  OpenAI hasn't mentioned video processing yet, but one must imagine that video processing and analysis are on the horizon—or closer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OpenAI Showcases GPT-4 With Impressive Examples
@@ -53,7 +53,7 @@ OpenAI has released GPT-4, an update to the artificial intelligence model that p
  The live stream focused primarily on how developers can put GPT-4 to use but was also an impressive display of GPT-4's capabilities, which will only continue to improve, especially versus [what you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-4 Is Available Now
@@ -63,7 +63,7 @@ OpenAI has released GPT-4, an update to the artificial intelligence model that p
 ![openai gpt4 model chatgpt upgrade](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-gpt4-model-chatgpt-upgrade.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, OpenAI stressed that although GPT-4 is a significant upgrade, it still has "similar limitations as earlier GPT models." GPT-4 will still lie, make falsehoods, reasoning errors, and "hallucinate facts." But, those moments should be significantly reduced, making GPT-4's outputs significantly more trustworthy and accurate than GPT-3.5\.
@@ -87,24 +87,18 @@ OpenAI has released GPT-4, an update to the artificial intelligence model that p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-peek-into-insta-stories-unseen-by-others/"><u>[Updated] 2024 Approved Peek Into Insta Stories Unseen by Others</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-the-iphone-13-and-15-pro-top-alternatives-for-apple-lovers-zdnet/"><u>Beyond the iPhone 13 & 15 Pro: Top Alternatives for Apple Lovers | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-your-health-journey-the-top-9-tips/"><u>ChatGPT and Your Health Journey: The Top 9 Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deploying-gpt-on-your-windows-machine/"><u>Deploying GPT on Your Windows Machine</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-free-windows-8-graphics-driver-for-amd-radeon-complete-guide/"><u>Download Free Windows 8 Graphics Driver for AMD Radeon: Complete Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-future-of-smart-devices-unveiling-artificial-intelligence-enhancements-in-apples-latest-iphones-macs-and-ipads/"><u>Exploring the Future of Smart Devices: Unveiling Artificial Intelligence Enhancements in Apple's Latest iPhones, Macs, and iPads</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-5-speculations-anticipated-launch-timeline/"><u>GPT-5 Speculations: Anticipated Launch Timeline?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-smart-buying-refurbished-computer-insights-you-need/"><u>Guide to Smart Buying: Refurbished Computer Insights You Need</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-11-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone 11 without Password?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-10c-phone-without-password-by-drfone-android/"><u>How To Unlock Tecno Spark 10C Phone Without Password?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/in-depth-assessment-of-the-new-iphone/"><u>In-Depth Assessment of the New iPhone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/migrating-whatsapp-messages-from-android-device-to-ios-a-comprehensive-guide/"><u>Migrating WhatsApp Messages From Android Device to iOS - A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-and-simple-steps-to-rejuvenate-windows-11-without-a-hitch/"><u>Quick & Simple Steps to Rejuvenate Windows 11 Without a Hitch!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reconnecting-disconnected-network-via-windows-settings/"><u>Reconnecting Disconnected Network via Windows Settings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/spotting-deceptive-chatgpt-sites-immediate-actions-needed/"><u>Spotting Deceptive ChatGPT Sites: Immediate Actions Needed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-rdo-from-freezing-or-crashing-ultimate-fix-guide-for-gamers/"><u>Stop RDO From Freezing or Crashing - Ultimate Fix Guide for Gamers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/value-proposition-investing-in-elite-ai-craftsmanship/"><u>Value Proposition: Investing in Elite AI Craftsmanship?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-streamline-your-social-media-uploading-on-twitter/"><u>[New] 2024 Approved Streamline Your Social Media Uploading on Twitter</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-techniques-to-troubleshoot-silent-obs-sessions/"><u>[Updated] 2024 Approved Techniques to Troubleshoot Silent OBS Sessions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-gear-up-with-our-12-tycoon-titles-your-gaming-passport-to-success-for-2024/"><u>[Updated] Gear Up with Our #12 Tycoon Titles - Your Gaming Passport to Success for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-instagrams-musical-licensing-landscape/"><u>[Updated] Mastering Instagram's Musical Licensing Landscape</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-agrees-to-compensate-eligible-macbook-users-in-landmark-class-action-resolution-details-inside-techcrunch/"><u>Apple Agrees to Compensate Eligible MacBook Users in Landmark Class Action Resolution: Details Inside | TechCrunch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apple-paved-the-way-in-ai-resurgence-potential-and-challenges-explored/"><u>How Apple Paved the Way in AI Resurgence - Potential and Challenges Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ideal-apps-supporting-mac-users-in-their-windows-journey/"><u>Ideal Apps Supporting Mac Users in Their Windows Journey</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-digital-stills-and-snaps-recorder/"><u>In 2024, Digital Stills & Snaps Recorder</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximizing-visibility-do-paid-views-enhance-channels-effectively-in-2024/"><u>Maximizing Visibility Do Paid Views Enhance Channels Effectively, In 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-free-video-trimming-and-merging-tools-for-beginners-2023-update-for-2024/"><u>New Free Video Trimming and Merging Tools for Beginners (2023 Update) for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-risks-of-automated-text-reduction-by-chatbots-like-gpt/"><u>The Risks of Automated Text Reduction by ChatBots Like GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/todays-guide-to-seamless-gpt-4-in-chatgpt-interactions/"><u>Today's Guide to Seamless GPT-4 in ChatGPT Interactions</u></a></li>
 </ul></div>
 

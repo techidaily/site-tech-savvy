@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: How Did CrowdStrike Influence Windows' Notorious Meltdnothack Event ? A Detailed Historical Perspective From ZDNet"
-date: 2024-12-23T19:02:45.599Z
-updated: 2024-12-27T21:05:49.391Z
+date: 2025-01-01T18:43:01.879Z
+updated: 2025-01-06T02:00:08.376Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,18 +176,16 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-decoding-youtubes-srt-download-with-3-methods/"><u>[New] 2024 Approved Decoding YouTube's SRT Download with 3 Methods</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastering-video-upload-your-guide-to-igtv/"><u>[New] 2024 Approved Mastering Video Upload Your Guide to IGTV</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-the-vr-lingo-core-terminology-guide/"><u>[New] Mastering the VR Lingo Core Terminology Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-step-by-step-to-faster-tiktok-videos/"><u>2024 Approved Step-by-Step to Faster TikTok Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-between-macbook-pro-and-macbook-air-a-comprehensive-guide-on-selecting-the-ideal-apple-laptop/"><u>Choosing Between MacBook Pro and MacBook Air: A Comprehensive Guide on Selecting the Ideal Apple Laptop</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-troubleshooting-for-airtag-users-navigating-around-hazardous-battery-security-features/"><u>Essential Troubleshooting for AirTag Users: Navigating Around Hazardous Battery Security Features</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/how-can-i-personalize-my-mouse-configuration-expert-advice-from-yl-computings-top-solutions/"><u>How Can I Personalize My Mouse Configuration? Expert Advice From YL Computing's Top Solutions</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-10-best-powerpoint-to-video-converters-free-and-paid/"><u>In 2024, 10 Best PowerPoint to Video Converters [Free and Paid]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peek-inside-googles-artificial-intelligence-gemini-initiative/"><u>Peek Inside Google's Artificial Intelligence Gemini Initiative</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/prime-10-channel-list-best-history-yt-groups-for-2024/"><u>Prime 10 Channel List Best History YT Groups for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unblocking-your-chatgpt-addressing-four-common-block-issues/"><u>Unblocking Your ChatGPT: Addressing Four Common Block Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upcoming-enhancements-for-selective-apple-airpod-models-in-autumn-a-look-at-3-exciting-new-features/"><u>Upcoming Enhancements for Selective Apple AirPod Models in Autumn: A Look at 3 Exciting New Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-become-a-communication-connoisseur-with-google-meet-for-2024/"><u>[Updated] Become a Communication Connoisseur with Google Meet for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-elevate-your-photos-learn-bg-removal-with-picsart-tools/"><u>[Updated] Elevate Your Photos Learn Bg Removal with Picsart Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comparing-giants-of-digital-engagement-facebook-twitter-instagram-and-youtube/"><u>Comparing Giants of Digital Engagement: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-navigating-through-youtubes-adsense-revenue-understanding-payments-per-thousand-views/"><u>In 2024, Navigating Through Youtube’s AdSense Revenue Understanding Payments per Thousand Views</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-engagement-the-finest-5-ai-prompt-generators-reviewed/"><u>Innovating Engagement: The Finest 5 AI Prompt Generators Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-feature-alert-iphone-users-can-now-record-calls-within-ios-18-without-third-party-tools/"><u>Revolutionary Feature Alert: IPhone Users Can Now Record Calls Within iOS 18 Without Third-Party Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-case-for-and-against-chatgpt-plus/"><u>The Case for & Against ChatGPT Plus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-ultimate-guide-top-19-best-mkv-player-applications-compatible-with-mac-windows-10-ios-and-android/"><u>The Ultimate Guide: Top 19 Best MKV Player Applications Compatible with Mac, Windows 10, iOS, and Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unprecedented-leap-5-pivotal-factors-in-chatgpts-surge/"><u>The Unprecedented Leap: 5 Pivotal Factors in ChatGPT’s Surge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-best-ipad-pro-cases-in-2-expert-insights-and-detailed-comparisons/"><u>Ultimate Guide to Choosing the Best iPad Pro Cases in 2# - Expert Insights and Detailed Comparisons</u></a></li>
 </ul></div>
 

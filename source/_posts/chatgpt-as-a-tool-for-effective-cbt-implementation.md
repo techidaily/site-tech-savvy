@@ -1,7 +1,7 @@
 ---
 title: ChatGPT as a Tool for Effective CBT Implementation
-date: 2024-12-20T16:02:00.708Z
-updated: 2024-12-27T18:12:55.170Z
+date: 2024-12-30T08:07:08.341Z
+updated: 2025-01-06T08:46:25.716Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 
  You can already [use ChatGPT to improve your emotional intelligence](https://www.makeuseof.com/use-chatgpt-develop-emotional-intelligence/), so why not use it with a CBT focus? After all, CBT has emerged in the research as one of, if not the most, effective forms of psychotherapy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Steps to Use ChatGPT for CBT
 
  For a CBT Session You might want to take a few moments to create an environment where you won't be distracted and so that you can focus on the task at hand. Log into ChatGPT on your preferred device. I normally use my PC as I can type more quickly with a full-sized keyboard, but you can [use ChatGPT on Android and iOS](https://www.makeuseof.com/how-to-use-chatgpt-on-android-and-ios/), as well.
@@ -51,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
  At the same time, if something feels off or not quite clicking, you can adjust your questions or simply tell ChatGPT in no uncertain terms that it needs to try a different approach or line of reasoning.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Writing Effective Prompts for CBT Practice
@@ -70,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 
 ![ChatGPT being trained as CBT therapist-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/1-chatgpt-being-trained-as-cbt-therapist-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can tweak the above in a way that works best for you.
 
  After you've prepared ChatGPT to act like a therapist, you can begin to engage. But you'll want to be specific. Instead of "I'm feeling bad," try "I recently started a new job, and I'm worried that I'm in over my head. I've started to think non-stop about whether I'll be successful even when I'm not at work. Reflecting on my situation, can you summarize a CBT approach to overcoming my anxiety?"
@@ -78,20 +86,12 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 
 ![ChatGPT response with advice as CBT therapist](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-chatgpt-response-with-advice-as-cbt-therapist.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And if the information is not specific enough, you can ask ChatGPT to get more specific.
 
 ![ChatGPT response with actions that can be taken today](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-chatgpt-response-with-actions-that-can-be-taken-today.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Precautions and Limitations of Using ChatGPT for CBT
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 * Consider reaching out to a real professional for deep or complex issues since ChatGPT might lack clinical judgment and intuition.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using ChatGPT as a CBT Professional to Improve Mental Well-Being
@@ -131,22 +131,20 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-extracting-youtube-music-three-secure-ways-without-financial-burden/"><u>[New] In 2024, Extracting YouTube Music Three Secure Ways Without Financial Burden</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-perfecting-audio-quality-a-no-mic-approach/"><u>[New] In 2024, Perfecting Audio Quality A No-Mic Approach</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-make-a-channel-trailer/"><u>[Updated] How to Make a Channel Trailer</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-what-are-the-laws-around-youtube-video-capture-for-2024/"><u>[Updated] What Are the Laws Around YouTube Video Capture for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-a-comprehensive-approach-to-mastering-the-art-of-instagram-reels/"><u>2024 Approved A Comprehensive Approach to Mastering the Art of Instagram Reels</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/al-gore-or-misinformation-fact-checking-for-clarity/"><u>Al Gore or Misinformation? Fact-Checking for Clarity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-pencil-showdown-unveiling-the-superior-choice-for-your-ipad-experience-tech-innovations-today/"><u>Apple Pencil Showdown: Unveiling the Superior Choice for Your iPad Experience | Tech Innovations Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparing-intelligence-insights-on-forefront-ai-and-chatgpt/"><u>Comparing Intelligence: Insights on Forefront AI and ChatGPT</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-google-pixel-8-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Google Pixel 8 Pro Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-art-of-connecting-a-deep-dive-into-instagram-live/"><u>In 2024, The Art of Connecting A Deep Dive Into Instagram Live</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/picku-or-better-a-critical-look-at-androids-premier-photo-tool/"><u>PickU or Better? A Critical Look at Android's Premier Photo Tool</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-call-of-duty-warzone-dev-error-6634-comprehensive-guide/"><u>Resolving Call of Duty: Warzone Dev Error 6634 – Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seven-futures-ai-infused-job-market-landscape/"><u>Seven Futures: AI-Infused Job Market Landscape</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ideal-guard-for-iphone-se-unmatched-defense-with-chic-designs-cnet/"><u>The Ideal Guard for iPhone SE : Unmatched Defense with Chic Designs | CNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-latest-in-compute-mini-pcs-asus-nuc-14-features-top-end-intel-and-amd-combination/"><u>The Latest in Compute Mini-PCs: Asus NUC #14 Features Top-End Intel and AMD Combination</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-10-chatgpt-integrations-for-efficient-pdf-management/"><u>Top 10 ChatGPT Integrations for Efficient PDF Management</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-mac-computers-comprehensive-list-and-reviews-zdnet/"><u>Top Rated Mac Computers : Comprehensive List & Reviews - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-water-found-inside-iphone-charging-port-choose-your-recovery-path-insights/"><u>1. 'Water Found Inside iPhone Charging Port: Choose Your Recovery Path' - Insights</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/15-youtube-video-ideas-for-musicians/"><u>15 YouTube Video Ideas for Musicians</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2023s-ultimate-guide-to-choosing-an-apple-watch-screen-protector-top-picks-and-user-ratings-cnet/"><u>2023'S Ultimate Guide to Choosing an Apple Watch Screen Protector: Top Picks and User Ratings | CNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/discover-the-ultimate-5-substitutes-for-makemkv-on-windows-and-macos-convert-your-dvds-into-perfectly-rendered-mkv-files/"><u>Discover the Ultimate 5 Substitutes for MakeMKV on Windows & macOS: Convert Your DVDs Into Perfectly Rendered MKV Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-typewriters-to-ticklers-unveiling-the-past-of-laptops-and-vpns-plus-ais-funny-side/"><u>From Typewriters to Ticklers: Unveiling the Past of Laptops and VPNs, Plus AI's Funny Side</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/highlighting-pivotal-gpt-crypto-discussions/"><u>Highlighting Pivotal GPT-Crypto Discussions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/quicksnap-firefox-enhancements/"><u>QuickSnap Firefox Enhancements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/silent-assistants-securing-bot-discussions/"><u>Silent Assistants: Securing Bot Discussions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/steer-clear-of-macchatgpt-safeguard-your-digital-life/"><u>Steer Clear of MacChatGPT: Safeguard Your Digital Life</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-3-best-free-screen-recorder-apps-for-windows-with-no-watermark-techradar-comparison/"><u>Top 3 Best Free Screen Recorder Apps for Windows (with No Watermark) – TechRadar Comparison</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/ultimate-system-rescue-kit-data-retrieval-for-all-oses/"><u>Ultimate System Rescue Kit - Data Retrieval for All OSes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-bargain-apple-m2-mac-mini-now-just-479-exclusive-insight/"><u>Unbeatable Bargain: Apple M2 Mac Mini Now Just $479 - Exclusive Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ais-shortcomings-the-top-8-issues-with-gpt/"><u>Understanding AI's Shortcomings: The Top 8 Issues with GPT</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-filmmaking-for-all-a-beginners-guide-to-creating-a-movie-for-2024/"><u>Updated Filmmaking for All A Beginners Guide to Creating a Movie for 2024</u></a></li>
 </ul></div>
 

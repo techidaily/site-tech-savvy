@@ -1,7 +1,7 @@
 ---
 title: Apple Enthusiasts Urged to Reject Unverified Chargers, Prevent Counterfeit Hazards | ZDNET Insight
-date: 2024-12-20T19:26:29.729Z
-updated: 2024-12-27T16:33:30.197Z
+date: 2025-01-04T22:05:52.791Z
+updated: 2025-01-05T18:32:34.258Z
 tags:
   - apple
 categories:
@@ -61,7 +61,7 @@ The Sonos S2 firmware, which requires additional memory and relies more on cloud
 It's not hard to imagine that [Play:3, Play:1, Play:5 Gen2, and Sub Gen1 speakers](https://support.sonos.com/en-us/article/sonos-app-version-compatibility) that have been in the wild for more than 10 years will become obsolete in the next year or so when Sonos introduces a revised S2 or S3 firmware. These speakers will likely need to be run [on legacy networks and controlled separately](https://support.sonos.com/en-us/article/set-up-separate-s1-and-s2-sonos-systems), like the S1 components were when Sonos initially rolled out S2 in August 2020.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A lack of competitors
@@ -75,7 +75,7 @@ For Apple (or Amazon or Google) to truly compete with Sonos, the companies will 
 Here's an idea, Apple: Either buy Sonos outright and take over software development, or independently develop HomePod into a true home entertainment solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Apple should do it
@@ -88,6 +88,10 @@ Apple has the resources to make this move, and now is the right time for HomePod
 
 [As reported](https://www.macrumors.com/2024/07/04/leak-confirms-apples-work-on-home-accessory/) in _MacRumors_, a connected "accessory" for Apple TV and HomePod powered by the yet-to-be-released A18 processor (coming in the [iPhone 16](https://www.zdnet.com/article/i-upgrade-my-iphone-every-year-but-iphone-16-worries-me-heres-why/)) may bring the highly awaited Apple Intelligence features to the home entertainment space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Transforming Apple Music with AI
 
 A set-top box, whether an updated Apple TV or a centralized processor unit for Apple TV and HomePod, could be the central control unit for a multiroom and surround sound audio system. In addition to providing the expected [artificial intelligence](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) (AI) features of a more intelligent Siri and orchestrating home automation functions, the unit could transform Apple Music into a highly personalized and interactive experience.
@@ -95,10 +99,6 @@ A set-top box, whether an updated Apple TV or a centralized processor unit for A
 ### Personalized music experiences
 
 Imagine an AI processor with built-in [Apple Foundation Model LLM](https://www.zdnet.com/article/apple-builds-a-slimmed-down-ai-model-using-stanford-google-innovations/) and [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration that offers dynamic playlists tailored to your real-time preferences, activities, and moods. This AI could provide context-aware music suggestions based on your current activity, location in your home, or time of day, seamlessly enhancing your environment whether you're working out, hosting a party, or relaxing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Interactive music discovery
 
@@ -108,16 +108,12 @@ With interactive music discovery, you could converse with Siri to explore new mu
 
 Social and collaborative features could facilitate the creation of collaborative playlists with friends and family, allowing real-time voting on songs and interactive chats about playlist content. Personalized messages generated by the new Apple Intelligence-powered Siri could help with custom recommendations for friends based on shared listening habits.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Smart home integration
 
 Smart home integration could allow voice-controlled music management across HomePod and other devices, setting up multiroom audio experiences with personalized settings for different rooms and family members. Event-based playlists could be automatically generated for scheduled events, syncing with other Apple devices to create immersive audio experiences tailored to specific activities.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Learning and adaptation
@@ -125,6 +121,10 @@ Smart home integration could allow voice-controlled music management across Home
 The AI's adaptive learning capabilities could continuously refine music recommendations based on your interactions. Mood and sentiment analysis could recommend music to match or alter your mood, offering comforting or uplifting tunes as needed. Additionally, integrating with other streaming services and social media platforms could provide a unified music experience, allowing you to import and export playlists and create music-related content.
 
 **Also: [LG TVs are getting a free audio upgrade that Apple users will absolutely love](https://www.zdnet.com/home-and-office/home-entertainment/lg-tvs-are-getting-a-free-audio-upgrade-that-apple-users-will-absolutely-love/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Sonos cooked, and can Apple step in?
 
@@ -160,17 +160,18 @@ The recent missteps by Sonos have left a void in the multiroom audio market, pre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-best-quality-hd-screensaver-recorders/"><u>[New] Best Quality HD Screensaver Recorders</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-a-step-further-elite-video-editing-hacks-for-tiktok/"><u>[Updated] A Step Further Elite Video Editing Hacks for TikTok</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-blueprint-for-obtaining-free-visual-aids/"><u>2024 Approved The Blueprint for Obtaining Free Visual Aids</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choose-the-ultimate-smartwatch-for-your-needs-in-depth-analysis-of-2024s-finest-models-zdnet/"><u>Choose the Ultimate Smartwatch for Your Needs: In-Depth Analysis of 2024'S Finest Models | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/configuring-safaris-auto-close-feature-for-new-macos-catalina-users/"><u>Configuring Safari's Auto-Close Feature for New macOS Catalina Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/examining-italys-sudden-ban-of-the-ai-giant-chatgpt/"><u>Examining Italy's Sudden Ban of the AI Giant, ChatGPT</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-latest-intel-usb-30-drivers-compatible-with-windows-nvme-download-here/"><u>Get Your Latest Intel USB 3.0 Drivers Compatible with Windows Nvme - Download Here!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solo-performance-of-auto-gpt-examined/"><u>Solo Performance of Auto-GPT Examined</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/the-top-3-methods-for-modifying-video-background-settings/"><u>The Top 3 Methods for Modifying Video Background Settings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-value-asmr-gear-premium-sound-affordably-priced/"><u>Top Value ASMR Gear Premium Sound Affordably Priced</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-energy-efficiency-activating-battery-saving-features-on-your-apple-watch-a-guide/"><u>Unlocking Energy Efficiency: Activating Battery Saving Features on Your Apple Watch - A Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-core-kit-video-equipment-every-creator-needs/"><u>[New] The Core Kit Video Equipment Every Creator Needs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-easy-guide-to-tweeting-videos-and-turning-them-into-music/"><u>[Updated] In 2024, Easy Guide to Tweeting Videos & Turning Them Into Music</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-tailor-your-media-auto-scaling-videos-for-instagram-via-macos/"><u>2024 Approved Tailor Your Media Auto-Scaling Videos for Instagram via MacOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-apple-and-tile-exploring-superior-alternatives-for-your-wallet-airtag-needs/"><u>Beyond Apple and Tile: Exploring Superior Alternatives for Your Wallet AirTag Needs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-is-now-free-for-everyone-but-there-are-still-6-reasons-to-keep-using-chatgpt-plus/"><u>GPT-4 Is Now Free for Everyone, but There Are Still 6 Reasons to Keep Using ChatGPT Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-california-drivers-integrate-their-licenses-with-apple-pay-and-google-wallet-the-complete-guide/"><u>How California Drivers Integrate Their Licenses with Apple Pay and Google Wallet - The Complete Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-vpx-film-record-thorough-examination-and-reviews/"><u>In 2024, VPX Film Record Thorough Examination & Reviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-3-a-guide-to-writing-in-your-voice/"><u>Mastering GPT-3: A Guide to Writing in Your Voice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pixel-power-unleashed-choosing-between-the-google-pixel-section-1-advanced-problem-on-electrostatic-energy-storage/"><u>Pixel Power Unleashed: Choosing Between the Google Pixel # Section 1: Advanced Problem on Electrostatic Energy Storage</u></a></li>
+<li><a href="https://article-files.techidaily.com/superior-alert-sound-pick-optimal-websites/"><u>Superior Alert Sound Pick Optimal Websites</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-ultimate-guide-to-box-enthusiasm/"><u>The Ultimate Guide to Box Enthusiasm</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-quality-of-fongos-voip-services-across-canada/"><u>Unveiling the Quality of Fongo's VoIP Services Across Canada</u></a></li>
 </ul></div>
 
