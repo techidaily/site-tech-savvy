@@ -1,7 +1,7 @@
 ---
 title: Tailored Training Regimens Prioritizing Your Well-Being
-date: 2025-01-04T16:57:20.343Z
-updated: 2025-01-06T09:22:00.481Z
+date: 2025-01-09T01:21:33.926Z
+updated: 2025-01-13T01:38:31.888Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is ChatGPT?
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 ![ChatGPT workout plan for beginners prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-workout-plan-for-beginners-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For the first prompt, I asked ChatGPT to create a workout plan for beginners. The basic workout plan it generated allotted time for cardio, resistance training, warm-ups, and cool-downs.
@@ -71,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 ## How ChatGPT Creates Running Plans
 
 ![ChatGPT running plan question screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-running-plan-question-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, I prompted the chatbot to create a running plan. It responded with several questions about my current fitness level, as well as overall training goals, to generate a more detailed response.
 
@@ -107,12 +103,16 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 ![ChatGPT deadlifts prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-deadlifts-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this example, I received detailed instructions on the correct way to do deadlifts. It offered helpful pointers about your stance, grip, and even breathing techniques in order to make the most of this particular exercise.
 
  If you ever need to double-check the way to perform a certain exercise, or simply try out a new series of strength workouts, then ChatGPT is a helpful resource. The simple, straightforward responses and training plans offer a lot of information for beginner and more experienced athletes looking to increase their strength. Just be sure to verify the information with reputable sources before you take ChatGPT's advice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## It's Possible to Use ChatGPT to Help With Your Fitness Goals
 
@@ -137,18 +137,17 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/outube-shorts-description-everything-you-should-know/"><u>[New] YouTube Shorts Description Everything You Should Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/21-optimizing-your-inbox-with-summarize-and-ai-tools/"><u>21 Optimizing Your Inbox With Summarize & AI Tools</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1726222196392-asfmp4-movavi/"><u>網上無需金錢，讓ASF視頻轉化成MP4 - 使用Movavi即時轉檔</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/academic-excellence-reimagined-five-innovative-uses-of-ai-for-student-success/"><u>Academic Excellence Reimagined: Five Innovative Uses of AI for Student Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/academic-excellence-with-ai-assistance-chatgpt/"><u>Academic Excellence with AI Assistance: ChatGPT</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-surprises-during-super-bowl-season-with-top-marketing-campaign-a-non-super-bowl-player-steals-the-spotlight/"><u>Apple Surprises During Super Bowl Season with Top Marketing Campaign: A Non-Super Bowl Player Steals the Spotlight</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/boost-your-connectivity-essential-usb-c-drivers-you-can-download-for-windows-10-computers/"><u>Boost Your Connectivity: Essential USB-C Drivers You Can Download for Windows 10 Computers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dealing-with-the-disappearance-of-openal-groovinto-dll/"><u>Dealing with the Disappearance of openAL Groovin'to DLL</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortless-vision-tech-smart-frames-without-arsocial-features-a-basic-camera-suffices/"><u>Effortless Vision Tech: Smart Frames Without AR/Social Features - A Basic Camera Suffices</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/effortless-visual-enhancement-auto-scaling-videos-for-mac-instagramers-for-2024/"><u>Effortless Visual Enhancement Auto-Scaling Videos for Mac Instagramers for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovative-photography-vertical-vistas-via-mobile-for-2024/"><u>Innovative Photography Vertical Vistas via Mobile for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721412546081-new-milestone-achieved-chatgpts-significant-updates-explored/"><u>New Milestone Achieved: ChatGPT’s Significant Updates Explored</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-se-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone SE Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-how-to-be-a-beauty-guru-on-youtube-beauty-vlogger-set-up/"><u>[Updated] In 2024, How To Be A Beauty Guru on YouTube Beauty Vlogger Set Up</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-malware-navigating-a-new-technological-threat/"><u>ChatGPT & Malware: Navigating a New Technological Threat</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/comprehensive-guide-to-viewing-facebook-videos-on-apple-tv-devices-for-2024/"><u>Comprehensive Guide to Viewing Facebook Videos on Apple TV Devices for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-effective-fitness-plans-with-safe-guidance/"><u>Creating Effective Fitness Plans with Safe Guidance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diving-into-gpts-bespoke-command-potential/"><u>Diving Into GPT's Bespoke Command Potential</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficiently-design-presentations-through-chatgpt-help/"><u>Efficiently Design Presentations Through ChatGPT Help</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-overcoming-frozen-dark-mode-on-pcs/"><u>Essential Tips: Overcoming Frozen Dark Mode on PCs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/frame-by-frame-mastering-video-freeze-frames/"><u>Frame by Frame Mastering Video Freeze Frames</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/la-transformation-ultime-convertir-votre-hdd-en-ssd-sous-windows-10-guide-de-conversion-facile-et-efficace/"><u>La Transformation Ultime : Convertir Votre HDD en SSD Sous Windows 10 - Guide De Conversion Facile Et Efficace</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/lack-of-self-awareness-in-language-models/"><u>Lack of Self-Awareness in Language Models</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leap-into-efficiency-with-quick-srt-to-txt-2023-guide-for-2024/"><u>Leap Into Efficiency with Quick SRT to TXT 2023 Guide for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi</u></a></li>
 </ul></div>
 

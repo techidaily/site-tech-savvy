@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Work Efficiency: The Role of ChatGPT as a Personal Assistant"
-date: 2024-12-30T07:03:21.041Z
-updated: 2025-01-05T16:43:15.776Z
+date: 2025-01-09T20:28:26.414Z
+updated: 2025-01-12T22:56:45.122Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Ask ChatGPT to Manage Your To-Do List
 
  ChatGPT can organize your to-do list and remind you of important deadlines. There are many [ways to use ChatGPT for time management](https://www.makeuseof.com/ways-to-use-chatgpt-time-management/). Asking the AI to prioritize your tasks can save you much time.
@@ -40,15 +44,15 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 
 ![interaction with ChatGPT as a personal assistant for task management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t184655-576.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once we were satisfied with the answer, we gave ChatGPT our task list and asked it to organize this list using the ABCDE method. Remember to specify the importance or urgency of each task to help ChatGPT understand the order in which they should be completed.
 
  ChatGPT quickly listed our tasks in order of importance and urgency. It also gave us short explanations of its thought process, showing why it arranged the list in that particular order.
 
 ![interaction with ChatGPT asking it to arrange tasks via the ABCDE method](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t184949-148.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After asking ChatGPT to help you prioritize tasks, try using these follow-up prompts:
 
@@ -84,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 4. “Give \[number\] synonyms for \[word\]."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Ask ChatGPT to Help With Email-Related Tasks
@@ -96,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
  To show ChatGPT’s ability to summarize emails, we asked it to identify the main points in a rather lengthy but informative email from FourWeekMBA. We used the prompt: “Summarize the main points in this email using bullet points. Use simple language.”
 
 ![chatgpt summary of an email using bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t190106-778.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Other email prompts you can use:
 
@@ -111,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 
 ![conversation with ChatGPT about HIPAA privacy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t190351-135.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As of this writing, ChatGPT can provide information up to its last knowledge update in September 2021\. [Forbes](https://www.forbes.com.au/news/innovation/chatgpt-removes-september-2021-knowledge-cutoff/) reports that Open AI will soon remove the knowledge cut-off restriction for all users. However, the timeline for this update is still unclear.
 
  If you want ChatGPT to help you learn about other topics, here are the prompts you can use:
@@ -123,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 * “Recommend some books to learn about \[topic\].”
 * “I’m trying to understand \[topic\]. Can you provide an overview?”
 * "Can you teach me how to \[skill\]?"
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Ask ChatGPT for Personalized Recommendations
 
@@ -149,7 +149,7 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
  Tip: ChatGPT is designed to understand and respond to natural language queries, so feel free to communicate with it conversationally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Say Hello to Your Personal Assistant, ChatGPT
@@ -177,20 +177,22 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-snap-and-share-the-brief-vlog-age/"><u>[New] In 2024, Snap & Share The Brief Vlog Age</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unlocking-creativity-through-intense-iphone-photos/"><u>[New] Unlocking Creativity Through Intense iPhone Photos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-detailed-guide-youtubes-end-screens-explained/"><u>[Updated] 2024 Approved Detailed Guide YouTube's End Screens Explained</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-path-to-perfect-ps3-game-footage-a-step-by-step-guide/"><u>[Updated] In 2024, The Path to Perfect PS3 Game Footage A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/adapt-or-advance-winning-tactics-in-an-ai-infused-economy/"><u>Adapt or Advance: Winning Tactics in an AI-Infused Economy</u></a></li>
-<li><a href="https://fox-making.techidaily.com/einfache-verschlusselung-von-windows-10-backups-fur-maximalen-datenschutz/"><u>Einfache Verschlüsselung Von Windows-10 Backups Für Maximalen Datenschutz</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-home-cooking-7-ai-inspired-ideas-from-gpt/"><u>Elevate Your Home Cooking: 7 AI-Inspired Ideas From GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-ready-personalized-gpt-shops-opened-by-openai/"><u>Get Ready: Personalized GPT Shops Opened by OpenAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-role-in-developing-risk-aware-exercrances/"><u>GPT's Role in Developing Risk-Aware Exercrances</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/how-to-edit-blur-or-remove-photo-background-for-2024/"><u>How to Edit, Blur or Remove Photo Background for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-v27-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo V27 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-20-open-access-free-pubg-montages/"><u>Top 20 Open Access, Free PUBG Montages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-students-into-notetaking-experts-using-gpt/"><u>Transforming Students Into Notetaking Experts Using GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-the-professional-landscape-for-ai-interaction-experts/"><u>Understanding the Professional Landscape for AI Interaction Experts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/unveiling-the-features-of-the-samsung-galaxy-tab-s7-a-top-choice-for-android-lovers/"><u>Unveiling the Features of the Samsung Galaxy Tab S7: A Top Choice for Android Lovers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-tailored-sound-solutions-ideal-mics-for-educational-gaming-and-blogging-channels-for-2024/"><u>[Updated] Tailored Sound Solutions Ideal Mics For Educational, Gaming & Blogging Channels for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-advances-for-optimal-routine-in-your-homestead/"><u>AI Advances for Optimal Routine in Your Homestead</u></a></li>
+<li><a href="https://win-help.techidaily.com/apple3/"><u>Appleマッキントッシュでのデータ転送方法：一般に好まれる3つのケース</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-gpt-fraudsters-tactics/"><u>Avoiding GPT Fraudsters' Tactics</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-honor-magic-6-lite-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Honor Magic 6 Lite is off? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/challenges-for-ai-advocates-the-8-major-issues-of-chatgpt/"><u>Challenges for AI Advocates: The 8 Major Issues of ChatGPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-official-drivers-for-ricoh-mp-c3003-printers/"><u>Download & Install Official Drivers for Ricoh MP C3003 Printers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-ipad-tricks-and-configuration-advice-for-both-beginners-and-experts-a-comprehensive-guide-zdnet/"><u>Essential iPad Tricks & Configuration Advice for Both Beginners & Experts: A Comprehensive Guide - ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/google-chrome-update-solves-shockwave-flash-compatibility-errors/"><u>Google Chrome Update Solves Shockwave Flash Compatibility Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/human-insight-the-value-lost-in-automated-summary-texts/"><u>Human Insight: The Value Lost in Automated Summary Texts</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hunt-for-the-best-deals-on-apple-devices-this-prime-day/"><u>Hunt for the Best Deals on Apple Devices This Prime Day</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-cloaked-story-crafting-your-ultimate-snapguide-manual/"><u>In 2024, Cloaked Story Crafting Your Ultimate Snapguide Manual</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-world-of-apples-audio-innovation-should-you-opt-for-a-homepod-or-homepod-mini/"><u>Navigating the World of Apple's Audio Innovation: Should You Opt for a HomePod or HomePod Mini?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-running-minecraft-without-internet-on-windows-11-computers/"><u>Step-by-Step Tutorial: Running Minecraft Without Internet on Windows 11 Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-perils-of-leaking-info-to-chatgpt/"><u>The Perils of Leaking Info to ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-three-ais-in-comparison-gpt-and-the-bing-and-bard-face-off/"><u>Top Three AIs in Comparison: GPT and the Bing & Bard Face-Off</u></a></li>
 </ul></div>
 

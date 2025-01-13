@@ -1,7 +1,7 @@
 ---
 title: "Choosing Your Tech Companion: IPad Pro or MacBook Air – A Comprehensive Comparison"
-date: 2025-01-05T01:25:08.797Z
-updated: 2025-01-05T17:28:52.023Z
+date: 2025-01-11T16:29:11.247Z
+updated: 2025-01-12T17:56:49.674Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ All of the watches in this list have at least a certification for 5 ATM and/or a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What is the best waterproof smartwatch right now?
@@ -48,6 +48,10 @@ Pros
 Cons 
 * No offline mapping
 * May be too large for small wrists
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple Watch Ultra 2
 
@@ -110,6 +114,10 @@ Pros
 Cons 
 * Expensive
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Garmin Quatix 7 Pro
 
 ### Best waterproof Garmin smartwatch overall
@@ -140,6 +148,10 @@ Pros
 Cons 
 * Expensive
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Garmin Venu 3S
 
 ### Best waterproof Garmin smartwatch for most people
@@ -168,7 +180,15 @@ Pros
 Cons 
 * Large display is likely to consumer more battery power
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy Watch 6 Classic
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best waterproof Samsung smartwatch
 
@@ -201,10 +221,6 @@ Cons
 
 ## Coros Apex 2 Pro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best waterproof smartwatch for long battery life
 
 Since Coros launched its first GPS sports watch, stellar battery life has been a hallmark of its products, and the Apex 2 Pro continues that trend with an acclaimed 75 hours of battery life (with all GNSS enabled) and 25 hours with multi-band frequency enabled.
@@ -235,11 +251,11 @@ Cons
 * Questionable heart rate readings
 * One size available
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Suunto Race
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best waterproof smartwatch with lap counter
 
@@ -256,7 +272,7 @@ Other data such as sleep tracking, HRV measurements, training load, and recovery
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best waterproof smartwatch?
@@ -274,10 +290,6 @@ If you're an Android user, you may prefer a Samsung Galaxy 6 Classic -- the newe
 | Samsung Galaxy Watch 6 Classic | $400      | 40 hours         | 43mm and 47mm      |
 | Coros Apex 2 Pro               | $450      | 14 days          | 46.1mm             |
 | Suunto Race                    | $450      | 12 days          | 49mm               |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which is the right waterproof smartwatch for you?
 
@@ -297,6 +309,10 @@ However, finding the best waterproof smartwatch for you can be more complicated,
 | Coros Apex 2 Pro               | A watch with a very long battery life that relieves you of any battery anxiety. It is also smaller so less of an issue while swimming, surfing, or paddling.                                                                                                                                     |
 | Suunto Race                    | A powerful watch that tracks your laps, surfing metrics, and has a long battery life. Your sleep and other health metrics are also captured with the AI coach providing guidance for optimal performance.                                                                                        |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when buying a smartwatch
 
 Smartwatches serve as companions to our smartphones, and there are several things to consider as you explore the many options available to you. Several factors will help you quickly narrow down available candidates, so let's take a closer look and help you select the best smartwatch for you.
@@ -305,10 +321,6 @@ Smartwatches serve as companions to our smartphones, and there are several thing
 * **Price:** Most smartwatches are priced in the $400 to $800 range, so price is clearly a consideration for your waterproof smartwatch. Apple offers the high-end Apple Watch Ultra 2, while there are some specialized Google Wear OS and Garmin watches that can cost more than $1,000\.
 * **Battery life:** Expect your Apple or Samsung smartwatch to last a full day and night, so you can track your sleep and then charge it while you get ready for work. Other waterproof watches in this list last for days or even weeks so you have lots of options when it comes to figuring out your desired charging strategy.
 * **Cellular connectivity:** While smartwatches serve as companions to our smartphones, some models support cellular connectivity. If you buy one of these then you will need a watch line with your carrier, but these are typically $10 per month. The Apple Watch Ultra 2 only comes with LTE support, but you are not required to enable cellular service. Cellular capability is great for those who want to leave their phones behind and still remain connected for communications, application usage, and safety.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -325,10 +337,6 @@ Google Wear OS watches used to work with both Android and iPhone devices, but th
 
 Garmin, Coros, and Suunto watches work flawlessly with both Android and iPhone devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can I text from a smartwatch?
 
 You absolutely can! However, most of their screens are too small to type on, so you'll compose messages with speech-to-text or other dictation functions or choose from several generic, auto-generated responses. 
@@ -341,19 +349,11 @@ While you can leave your iPhone at home while you run, go to the store, or strol
 
 After initial setup, a cellular-enabled Samsung Galaxy Watch can act as a stand-alone mobile device. With the latest Galaxy Watch 6 or Watch 5 Pro running Wear OS powered by Samsung, many more apps can be used on the go, so you can leave the phone behind in most cases.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are the hot new features in the latest smartwatches?
 
 Health and fitness tracking have been the areas with the most innovations and improvements in the last few years. While these watches are not medical devices, they have sensors, algorithms, and applications that help you track trends in your heart rate, stress levels, and blood oxygen levels, even allowing you to detect when ovulation occurs. You can use it as a basic ECG to check if further investigation is needed. The latest Galaxy Watch 5 can also measure your body composition; testing indicates it matches other methods reasonably well.
 
 These smartwatches can also serve as capable GPS sports watches to track the details of your outdoor activities. Exercise guidance is provided on the watch with connected health applications on your smartphone so you can keep track of your progress, too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative waterproof smartwatches worth considering?
 
@@ -403,18 +403,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-ice-chase-top-moments-captured-s-olympic-snowboard-race-events/"><u>[Updated] 2024 Approved Ice Chase Top Moments Captured 'S Olympic Snowboard Race Events</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-scrutiny-gear-360s-virtual-reality-capability/"><u>2024 Approved Comprehensive Scrutiny Gear 360'S Virtual Reality Capability</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-strategies-for-effective-ppt-sharing-in-google-meet-sessions/"><u>2024 Approved Strategies for Effective PPT Sharing in Google Meet Sessions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/beat-the-bad-guys-top-kung-fu-action-puzzle-games/"><u>Beat the Bad Guys Top Kung Fu Action Puzzle Games</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-as-a-reliable-source-for-wellbeayer-info/"><u>ChatGPT as a Reliable Source for Wellbeayer Info</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/choosing-the-right-format-boosting-your-youtube-videos-performance-for-2024/"><u>Choosing the Right Format – Boosting Your YouTube Videos’ Performance for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-personalized-screen-time-with-ai-support/"><u>Crafting Personalized Screen Time with AI Support</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-gpts-influence-on-cybercriminal-activities/"><u>Dissecting GPT's Influence on Cybercriminal Activities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-vs-bert-dissecting-modern-nlp-giants-distinctions/"><u>GPT vs BERT: Dissecting Modern NLP Giants' Distinctions</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-spark-20-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-nine-key-approaches-for-storing-mov-in-windows-environments/"><u>In 2024, Nine Key Approaches for Storing .mov in Windows Environments</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reimagining-domestic-functionality-with-chatgpt-innovations/"><u>Reimagining Domestic Functionality with ChatGPT Innovations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-8-smarter-ways-to-approach-writing-tasks/"><u>Top 8 Smarter Ways to Approach Writing Tasks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-whats-trending-on-tiktok-and-twittersphere/"><u>[New] What's Trending on TikTok and Twittersphere</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-classroom-titling-software/"><u>[Updated] Master Classroom Titling Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-ranked-4-places-to-download-skype-tones/"><u>[Updated] Top-Ranked 4 Places to Download Skype Tones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-finding-liquid-within-iphone-charger-port-a-guide-to-fixing-the-issue-on-your-device/"><u>1. 'Finding Liquid Within iPhone Charger Port: A Guide to Fixing the Issue on Your Device'</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-video-aspect-ratio-how-to-adjust-and-customize/"><u>2024 Approved Video Aspect Ratio How to Adjust and Customize</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-ipad-pro-explored-understanding-its-distinct-role-as-a-powerful-device-separate-from-the-macbook-an-in-depth-analysis/"><u>Apple's iPad Pro Explored: Understanding Its Distinct Role as a Powerful Device Separate From the MacBook - An In-Depth Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/challenging-gpt-constraints-implications-for-use/"><u>Challenging GPT Constraints: Implications for Use</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/comment-faciliter-le-transfert-de-donnees-entre-2-pcs-utilisant-windows-10-une-explication-simple-et-pratique/"><u>Comment Faciliter Le Transfert De Données Entre 2 PCs Utilisant Windows 10 - Une Explication Simple Et Pratique</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deconstructing-the-turing-test-can-it-be-bested/"><u>Deconstructing the Turing Test: Can It Be Bested?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hugging-face-unveiled-significance-and-uses/"><u>Hugging Face Unveiled: Significance and Uses</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-unexpected-error-how-to-get-baldurs-gate-3-running-smoothly/"><u>Resolving the Unexpected Error - How to Get Baldur's Gate 3 Running Smoothly</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-list-worlds-finest-computing-compan/"><u>The Ultimate List: World's Finest Computing Compan</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-airtag-accessories-reviewed-by-industry-experts-pcmag/"><u>Top-Rated AirTag Accessories Reviewed by Industry Experts - PCMag</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-new-communication-safety-how-ios-18-brings-essential-messaging-enhancements-to-iphones-without-relying-on-ai-in-depth-coverage-by-zdnet/"><u>Unlocking New Communication Safety: How iOS 18 Brings Essential Messaging Enhancements to iPhones without Relying on AI | In-Depth Coverage by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-the-hazards-of-gpt-phone-apps/"><u>Unpacking the Hazards of GPT Phone Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726028842757-av1/"><u>ハンドブレーカを使用してAV1フォーマットへの変換方法</u></a></li>
 </ul></div>
 

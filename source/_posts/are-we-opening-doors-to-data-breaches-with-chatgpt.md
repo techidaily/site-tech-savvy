@@ -1,7 +1,7 @@
 ---
 title: Are We Opening Doors to Data Breaches With ChatGPT?
-date: 2024-09-06T23:30:19.257Z
-updated: 2024-09-07T23:30:19.257Z
+date: 2025-01-12T01:36:09.522Z
+updated: 2025-01-12T21:56:15.892Z
 tags:
   - chatgpt
   - open-ai
@@ -23,9 +23,17 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
  Let’s take a look at its privacy policy and terms of service to find out what it knows and how much of a privacy risk it poses to you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Information Does ChatGPT Store?
 
 ![A conversation with ChatGPT in which it says OpenAI keeps some personal data.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-issues-does-openai-keep-private-data.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [ChatGPT’s privacy policy](https://openai.com/policies/privacy-policy) tells us almost everything we need to know about its data retention habits. It gathers its information from three sources:
 
@@ -44,45 +52,25 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
  If you email the company or reach out to its customer support, it records your name, email address, and the content of your message. Similarly, it records your social media contact details and any personal information you share if you leave a comment on its social pages.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Your Device Information
 
  ChatGPT's service garners some personal information automatically from your device and browser. This includes your IP address, location, browser type, and the date and time that you start using ChatGPT as well as the length of your session. ChatGPT also retrieves your device’s name and operating system.
 
  OpenAI [uses cookies to track your browsing activity](https://www.makeuseof.com/a-beginners-guide-to-cookies/) both in the chat window and on its site. It claims to use this information for analytics and to find out exactly how you interact with ChatGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Information That You Put Into the Chat
 
 ![A conversation with ChatGPT in which it says OpenAI stores the text of conversations.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-issues-does-it-keep-logs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ChatGPT records and stores transcripts of your conversations. This means any information you put into the chat, including personal information, is logged. It’s easy to fall into the trap of accidentally giving ChatGPT your private details without realizing it until it’s too late, especially if you use it to proofread personal or professional documents.
 
  Using ChatGPT for your work gets a little more dangerous because it will store confidential information that you type in about the company you work for, your employees, and your clients. For example, if you use it to collate feedback and organize it into a report, you might unknowingly give it your customers’ contact details.
 
  The privacy policy states that if you intend to enter personal data into the chat, you need to provide the people involved with adequate privacy notices. You also need to obtain their consent, and be able to show OpenAI that you are processing this data within the law. Further, if you’re entering information defined as private [according to GDPR](https://www.makeuseof.com/what-is-gdpr/), you must contact OpenAI to execute its Data Processing Addendum.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Does ChatGPT Record Your Conversations?
 
  Yes, ChatGPT records everything you type into it. Its privacy policy states that when you use ChatGPT, it may collect personal information from your messages, any files you upload, and any feedback you provide. That makes [ChatGPT a cybersecurity risk too](https://www.makeuseof.com/is-chatgpt-safe-cybersecurity-risks-openai-chatbot/).
@@ -97,12 +85,6 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
 ![A conversation with ChatGPT in which it admits AI trainers can see our logs.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-issues-who-can-see-our-conversations-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Your personal information is available to a surprising number of people and entities. In its privacy policy, OpenAI states that it shares this data with:
 
 * Vendors and service providers.
@@ -119,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
  And finally, OpenAI’s training staff will review your conversations and use them to improve the AI. They also ensure that what you’re saying in your chats complies with the company’s policies. If you enter personal information into the chatbot, the trainers can see it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will Regulatory Pressure Force OpenAI to Take Privacy More Seriously?
 
  In May 2023, [Italy banned ChatGPT](https://www.makeuseof.com/why-has-italy-banned-chatgpt/) for allegedly violating the GDPR. The ban has since been lifted, but regulatory bodies around the world have put pressure on OpenAI, demanding more transparency and accountability.
@@ -132,17 +118,9 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
  It's more than likely that governments across the globe will launch similar investigations into ChatGPT in the future, and it remains to be seen if this will have an impact on OpenAI's approach to user privacy.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT: Friend or Foe?
 
  ChatGPT and OpenAI collect a lot of information about you. Some of the data it collects, like your account details and device information, is pretty normal. Most sites do this.
@@ -161,8 +139,6 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +146,21 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-freelance-warriors-guide-complimentary-psd-treasures/"><u>[New] 2024 Approved Freelance Warriors Guide Complimentary PSD Treasures</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-a-quest-for-collective-ownership-art-without-boundaries/"><u>[Updated] In 2024, A Quest for Collective Ownership Art Without Boundaries</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-integrating-aesthetic-enhancements-into-windows-photos-audio-plus-visuals/"><u>2024 Approved Integrating Aesthetic Enhancements Into Windows Photos Audio + Visuals</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-6s-plus-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone 6s Plus Activation Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciding-between-apples-powerhouses-in-depth-review-of-m3-vs-m2-macbook-air-for-your-tech-upgrade/"><u>Deciding Between Apple’s Powerhouses: In-Depth Review of M3 Vs. M2 MacBook Air for Your Tech Upgrade</u></a></li>
+<li><a href="https://win-updates.techidaily.com/erstellen-sie-einen-bootfahigen-usb-stick-mit-rufus-fur-windows-7/"><u>Erstellen Sie Einen Bootfähigen USB-Stick Mit Rufus Für Windows 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-a-full-apple-ecosystem-for-less-compare-iphone-plus-ipad-plus-watch-plus-airpods-plus-mac-vs-vision-pro-costs-insights/"><u>Get a Full Apple Ecosystem for Less: Compare iPhone + iPad + Watch + AirPods + Mac Vs. Vision Pro Costs Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-ready-for-ios-16-early-access-detailed-guide-on-downloading-new-beta-version-insider-tips-from-zdnet/"><u>Get Ready for iOS 16 Early Access: Detailed Guide on Downloading New Beta Version – Insider Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-your-hands-on-the-new-ipad-pro-at-a-steep-700-off-for-labor-day-shopping-guide/"><u>Get Your Hands on the New iPad Pro at a Steep $700 Off for Labor Day - Shopping Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-a-threat-to-search-engines/"><u>Is ChatGPT a Threat to Search Engines?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-av1-format-with-adobe-premiere-pro-tips-for-efficient-imports-and-exports/"><u>Mastering AV1 Format with Adobe Premiere Pro: Tips for Efficient Imports & Exports</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-is-magix-samplitude-setting-the-benchmark-in-digital-music-production-in-2024/"><u>New Is MAGIX Samplitude Setting the Benchmark in Digital Music Production, In 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/propella-7s-40-review-light-nimble-affordable/"><u>Propella 7S 4.0 Review: Light, Nimble, Affordable</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-gptbot-saga-ai-evolution-and-its-contentious-internet-stance/"><u>The GPTBot Saga - AI Evolution & Its Contentious Internet Stance</u></a></li>
+</ul></div>
 

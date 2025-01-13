@@ -1,7 +1,7 @@
 ---
 title: "Imitation Bot Aid: Filches FB Usernames & Passes"
-date: 2024-09-06T23:30:30.254Z
-updated: 2024-09-07T23:30:30.254Z
+date: 2025-01-09T21:27:34.108Z
+updated: 2025-01-12T19:58:53.887Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Imitation Bot Aid: Filches FB Usernames & Passe
 thumbnail: https://thmb.techidaily.com/b4bf5489aa58d7829034f75f3060e06c6a303902d9f1c209f852264705aa9ec8.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Imitation Bot Aid: Filches FB Usernames & Passes
 
 A malicious Chrome extension using ChatGPT's name is being used to steal users' Facebook logins for malicious advertising.
@@ -28,11 +22,9 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
 **SCROLL TO CONTINUE WITH CONTENT**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A Fake ChatGPT Extension Is Targeting Facebook Users
 
  Facebook and Chrome users are being targeted by a malicious browser extension using the well-known name of the [AI-powered chatbot ChatGPT](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/).
@@ -48,17 +40,9 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably [sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Thousands of Facebook Accounts May Have Been Compromised
 
  In this malicious campaign, thousands of Facebook accounts may have been successfully hijacked. In the aforementioned blog post, it was stated that there are "more than 2000 users installing this extension on a daily basis since its first appearance on 03/03/2023."
@@ -66,35 +50,28 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Malicious App Has Been Removed from Chrome
 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT's Name Is Consistently Used by Scammers
 
  Since ChatGPT's rise to fame, its name has been repeatedly used by cybercriminals to gain the trust of potential victims. Whether its phony ChatGPT-related tokens, or malicious Chat GPT-branded extensions, the popularity of this AI-powered chatbot is undoubtedly being exploited by malicious actors to steal data and money.
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -103,4 +80,22 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/1716069708692-new-2024-approved-embedded-recorder-usage-in-huaweis-mate-series-and-the-p-lineup/"><u>[New] 2024 Approved Embedded Recorder Usage in Huawei's Mate Series and the P Lineup.</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-cinematic-quality-the-leading-10-smartphones-with-outstanding-4k-cameras/"><u>[New] In 2024, Cinematic Quality The Leading 10 Smartphones with Outstanding 4K Cameras</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-top-virtual-reality-development-tools-gamers-for-2024/"><u>[Updated] Top Virtual Reality Development Tools Gamers for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/audiovisual-debut-breakdown/"><u>Audiovisual Debut Breakdown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conveniently-accessible-agents-using-agentgpt/"><u>Conveniently Accessible Agents: Using AgentGPT</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/effortless-installation-of-windows-11-even-without-a-microsoft-id-learn-the-secrets-like-elon-musk/"><u>Effortless Installation of Windows 11 Even Without a Microsoft ID - Learn the Secrets Like Elon Musk!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-upgraded-apple-carplay-experience-with-exclusive-features-unveiled-at-wwdc-2eek-insights-from-zdncom/"><u>Explore the Upgraded Apple CarPlay Experience with Exclusive Features Unveiled at WWDC 2Eek - Insights From ZDN.com</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-custom-gpts-preserving-your-datas-sanctity/"><u>Navigating Custom GPTs: Preserving Your Data's Sanctity</u></a></li>
+<li><a href="https://driver-download.techidaily.com/non-conductive-agents-like-fm-200-are-suitable-for-electrical-fires-but-may-not-be-effective-on-metal-or-cooking-oilgrease-fires/"><u>Non-Conductive Agents Like FM-200 Are Suitable for Electrical Fires but May Not Be Effective on Metal or Cooking Oil/Grease Fires</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-reset-guide-for-iphones-struggling-with-chatgpt-apps/"><u>Quick Reset Guide for iPhones Struggling with ChatGPT Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/screenshot-simplicity-compatible-free-capturing-apps-for-windows-for-2024/"><u>Screenshot Simplicity Compatible Free Capturing Apps for Windows for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surprising-facts-about-apple-watch-battery-longevity-what-you-need-to-know/"><u>Surprising Facts About Apple Watch Battery Longevity - What You Need to Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-solution-to-portable-charger-woes-discover-the-top-rated-20-anker-power-bank-reviewed-by-zdnet/"><u>The Ultimate Solution to Portable Charger Woes: Discover the Top-Rated $20 Anker Power Bank Reviewed by ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-creativity-8-expertly-crafted-prompts-for-dall-e-image-generation/"><u>Unleash Creativity: 8 Expertly Crafted Prompts for DALL-E Image Generation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlock-the-potential-of-your-youtube-videos-with-effective-end-screens-for-2024/"><u>Unlock the Potential of Your YouTube Videos with Effective End Screens for 2024</u></a></li>
+</ul></div>
 

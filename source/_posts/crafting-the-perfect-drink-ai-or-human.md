@@ -1,7 +1,7 @@
 ---
 title: "Crafting the Perfect Drink: AI or Human?"
-date: 2024-12-30T05:45:03.581Z
-updated: 2025-01-06T05:20:44.106Z
+date: 2025-01-10T20:52:57.696Z
+updated: 2025-01-12T18:26:13.238Z
 tags:
   - chatgpt
   - open-ai
@@ -36,13 +36,13 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
  As long as your prompts are sound, the AI chatbot should deliver. So, let's test that theory.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Testing ChatGPT's Abilities as a Bartender
 
  I started out with a simple request before moving on to more difficult requests. And the results were interesting, to say the least. I have paraphrased the prompts used as there was often a back-and-forth needed to get ChatGPT to deliver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Prompt 1: "What Can I Add to an Aperol Spritz Instead of Soda?"
 
@@ -51,11 +51,7 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 ![aperol-spritz-with-lemonade-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/aperol-spritz-with-lemonade-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Prompt 2: "Please Create the Best Version of an Old-Fashioned."
@@ -76,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
 ![pina-colada-with-a-twist-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/pina-colada-with-a-twist-cocktail.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  I also tried adding cinnamon, which also worked well. However, the cinnamon upped the sweetness and overpowered some of the other flavors.
 
 ### Prompt 4: "Please Create a New, Wholly Original Cocktail."
@@ -92,6 +92,14 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
 ![island-serenade-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/island-serenade-chatgpt-cocktail.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Prompt 5: "What Cocktail Should I Make Right Now?"
 
  Last but not least, I wanted to see how well ChatGPT could adapt to specific needs at specific times. So I asked it to suggest a refreshing, satisfying cocktail to drink on a midweek evening after the sun has set. After initially suggesting a simple Mojito followed by a Rum Sour (neither of which I had all the ingredients for), ChatGPT suggested an Orange Blossom (four parts gin, two parts freshly squeezed orange juice, and one part simple syrup).
@@ -99,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
  I had never heard of this cocktail, but a quick Google Search reveals that it's a well-known recipe. In fact, the recipes vary wildly, but the one that ChatGPT offered up made for a tasty cocktail that definitely aligned with the brief I had provided.
 
 ![orange-blossom-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/orange-blossom-chatgpt-cocktail.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## So, Is ChatGPT Good at Making Cocktails?
 
@@ -119,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 * ChatGPT needs a little hand-holding at times, so always strive to be clear in explaining what you want when writing prompts.
 
  The first takeaway doesn't particularly matter (you can always make up a name afterward), and the second should be adjusted to your taste (and tolerance!). But the third is an important note concerning ChatGPT; it's only as good as the prompts it receives.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Who Needs a Mixologist When You Have ChatGPT on Hand?
 
@@ -149,19 +149,22 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-the-basic-route-for-voice-switching-in-your-windows-flipper-edition/"><u>[New] The Basic Route for Voice Switching in Your Windows Flipper Edition</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unparalleled-clarity-a-selection-of-the-best-4k-camera-phones/"><u>[Updated] 2024 Approved Unparalleled Clarity A Selection of the Best 4K Camera Phones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-pro-vs-apple-iphone-13-pro-for-tech-enthusiasts/"><u>6 Pro Vs. Apple iPhone 13 Pro for Tech Enthusiasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experience-the-future-of-communication-on-your-iphone-unveiling-new-features-in-ios-18-thatll-transform-how-you-connect-not-powered-by-ai/"><u>Experience the Future of Communication on Your iPhone! Unveiling New Features in iOS 18 That'll Transform How You Connect (Not Powered by AI)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gamers-pot-review-a-deep-dive-for-2024/"><u>GAMER'S POT REVIEW A Deep Dive for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-based-worldbuilding-techniques/"><u>GPT-Based Worldbuilding Techniques</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/powerdirector-color-grading-unifying-your-video-clips-look/"><u>PowerDirector Color Grading Unifying Your Video Clips Look</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-device-managers-code/"><u>Resolving Device Manager's Code</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reviving-vanished-virtual-voice-tracks/"><u>Reviving Vanished Virtual Voice Tracks</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-zte-nubia-flip-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On ZTE Nubia Flip 5G for Parents | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/troubleshooting-freemake-video-downloader-issues-solutions-for-mac-and-pc/"><u>Troubleshooting Freemake Video Downloader Issues: Solutions for Mac and PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-apple-iphone-6-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile Apple iPhone 6 Before the Plan Expires</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unseen-uses-of-artificial-intelligence-a-chatgpt-case-study/"><u>Unseen Uses of Artificial Intelligence: A ChatGPT Case Study</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-the-new-apple-ipad-air-is-your-best-tablet-option-expert-review/"><u>Why the New Apple iPad Air Is Your Best Tablet Option | Expert Review</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2023s-approach-tweeting-from-tiktok/"><u>[New] 2023'S Approach Tweeting From TikTok</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-defeating-dissidence-a-guide-for-content-makers/"><u>[New] In 2024, Defeating Dissidence A Guide for Content Makers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-the-future-of-movie-watchlist-management/"><u>ChatGPT: The Future of Movie Watchlist Management</u></a></li>
+<li><a href="https://article-helps.techidaily.com/crafting-cinematic-content-with-precision-ratios/"><u>Crafting Cinematic Content with Precision Ratios</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/discover-revolutionary-iphone-apps-for-virtual-reality-gaming/"><u>Discover Revolutionary IPhone Apps for Virtual Reality Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-top-tech-comparing-oled-amoled-and-ips-displays/"><u>Exploring Top Tech: Comparing OLED, AMOLED and IPS Displays</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-oppo-a18-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Oppo A18 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovate-wellness-experiences-top-7-smart-plugins/"><u>Innovate Wellness Experiences: Top 7 Smart Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-chatgpt-my-bots-for-gameplay-visuals-plus-more/"><u>Leverage ChatGPT My Bots for Gameplay, Visuals, Plus More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-support-chatgpt-in-whatsapp-communications/"><u>Leveraging AI for Support: ChatGPT in WhatsApp Communications</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-steam-issues-a-deep-dive-into-fixing-error-code-80/"><u>Mastering Steam Issues: A Deep Dive Into Fixing Error Code 80</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-truth-in-ai-medical-advice-fact-checking-techniques/"><u>Mastering Truth in AI Medical Advice: Fact-Checking Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-artisans-guide-to-podcast-scriptwriting-including-free-samples/"><u>The Artisan's Guide to Podcast Scriptwriting (Including Free Samples)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-dangers-why-relying-solely-on-chatgpt-is-misguided-for-writers/"><u>The Hidden Dangers: Why Relying Solely on ChatGPT Is Misguided for Writers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-medicine-through-conversational-ai/"><u>Transforming Medicine Through Conversational AI</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-39-inch-lg-ultragear-gaming-monitor-with-wqhd-curved-display-now-999-on-amazon/"><u>Unbeatable Deal: 39-Inch LG Ultragear Gaming Monitor with WQHD Curved Display, Now $999 on Amazon!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-language-processing-vs-learning-techniques/"><u>Unpacking Language Processing vs Learning Techniques</u></a></li>
 </ul></div>
 

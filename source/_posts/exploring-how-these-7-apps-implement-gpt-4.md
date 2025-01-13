@@ -1,7 +1,7 @@
 ---
 title: Exploring How These 7 Apps Implement GPT-4
-date: 2025-01-01T20:07:47.118Z
-updated: 2025-01-06T09:00:20.840Z
+date: 2025-01-11T23:34:31.670Z
+updated: 2025-01-12T20:02:03.733Z
 tags:
   - chatgpt
   - open-ai
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Duolingo
 
 ![Picture of Duolingo Max App Logo-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-of-duolingo-max-app-logo-1.jpg)
@@ -51,15 +47,19 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
 
  GPT-4 is being used to create a reactive and responsive learning environment where no two conversations are alike. The first version is restricted to English speakers wanting to learn Spanish or French and is available only on iOS. Duolingo Max is priced at $29.99 monthly or $167.99 for an annual subscription.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Be My Eyes
 
 ![Picture Introducing Virtual Volunteer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-introducing-virtual-volunteer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The use of AI in our lives has been the source of many heated discussions. However, there are some areas where there can be little argument that AI has a positive effect. Be My Eyes is one such example. The app is designed to make the world more accessible for visually impaired people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How Does Be My Eyes Use GPT-4?
 
@@ -69,10 +69,6 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
 
  The Be My Eyes Virtual Volunteer is in beta testing; the company hopes to roll it out to the public soon. It will be available for free to all blind and low-vision members on both Android and iOS platforms.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Khan Academy
 
 ![Screenshot of Khan Academy Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-khan-academy-homepage.jpg)
@@ -80,10 +76,6 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
  On the topic of worthwhile causes, another early adopter of GPT-4 is Khan Academy, a [free online course platform](https://www.khanacademy.org/signup). This non-profit organization's mission statement is to offer free, world-class education to anyone.
 
  Khan Academy sees GPT-4 as a virtual teacher. The roll-out of the app is limited, with the teaching assistant (dubbed Khanmigo) only available to a limited number of users. However, a [Khan Academy waitlist](https://www.khanacademy.org/khan-labs) exists for those wanting to help test the product. Successful applicants are asked to donate $20 per month.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How Does Khan Academy Use GPT-4?
 
@@ -106,10 +98,6 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
 
  The Khan Academy app is free across all platforms; students and teachers can sign up online to join [Khan Academy](https://www.khanacademy.org/signup).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Stripe
 
 ![Screenshot of Stripe Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-stripe-homepage.jpg)
@@ -117,6 +105,10 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
  Stripe is a payment processing platform that allows all types of businesses to accept and send payments online and provides other business management tools.
 
  OpenAI—the brains behind the brains of GPT-4—is already in collaboration with Stripe. Now, Stripe is integrating GPT-4 into its platform. The company already used GPT-3 for simple tasks, but integrating GPT-4 means AI will play a bigger role in the company's processes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How Stripe Intends to Use GPT-4
 
@@ -130,19 +122,23 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
 
  The developers say that the new system will be able to understand users' questions fully. It can also scan support documentation and offer solutions or highlight relevant text within documents.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. ChatSonic
 
 ![Screenshot of ChatSonic homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatsonic-homepage.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: ChatSonic
 
  ChatSonic can be described as a Swiss army knife for business owners, freelancers, writers, content creators, and anyone else really. The list of potential customers for this app is a testament to its versatility.
 
  The app is an upgraded version of WriteSonic, a writing aid based on ChatGPT 3.5\. WriteSonic is the foundation that ChatSonic was built on; GPT-4 adds the extra functionality.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What Can You Do With ChatSonic?
 
@@ -162,11 +158,11 @@ Image Credit: ChatSonic
 
 ![Screenshot of Bing Chat Opening Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-opening-screen.jpg)
 
-![Screenshot of Bing answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-answering-query.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Screenshot of Bing answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-answering-query.jpg)
 
 Close
 
@@ -175,7 +171,7 @@ Close
  The Bing app is representative of the next generation of search engines and, in true ChatGPT style, is capable of far more than just listing relevant results.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What Can You Use the Bing AI App For?
@@ -204,6 +200,10 @@ Image Credit: Petey Assistant
  It should be noted that the standard version of the app prices starts at $4.99, but this doesn't include access to GPT-4, which can be added separately as an in-app purchase.
 
  The most basic tier for GPT-4 is a one-off payment of $3.99 on top of the cost of the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What Can You Do With Petey?
 
@@ -238,19 +238,24 @@ Image Credit: Petey Assistant
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/solved-steam-keeps-crashing-quickly-and-easily/"><u>[SOLVED] Steam Keeps Crashing | Quickly & Easily!</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-flix-fortune-hashtags-for-high-impact-low-length-video-content/"><u>[Updated] 2024 Approved Flix Fortune Hashtags for High Impact, Low-Length Video Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-assisted-dungeons-and-dragons-crafting-memorable-characters-with-the-help-of-chatgpt-and-dall-e-tools/"><u>AI Assisted Dungeons & Dragons: Crafting Memorable Characters with the Help of ChatGPT and DALL-E Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-personalized-secure-fitness-plans/"><u>ChatGPT's Role in Personalized, Secure Fitness Plans</u></a></li>
-<li><a href="https://article-posts.techidaily.com/choosing-your-content-companion-the-future-in-podcasts-or-youtube-for-2024/"><u>Choosing Your Content Companion The Future in Podcasts or YouTube for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-your-path-to-fitness-ai-assisted-strategy/"><u>Crafting Your Path to Fitness: AI-Assisted Strategy</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/framefusion-instagram-photo-fusion-across-oses/"><u>FrameFusion Instagram Photo Fusion Across OSes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-ai-top-8-reasons-educators-should-adapt/"><u>Harnessing the Power of AI: Top 8 Reasons Educators Should Adapt</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-k70-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Redmi K70 Pro to New Android? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/linguistic-legends-ai-translation-faceoff/"><u>Linguistic Legends: AI Translation Faceoff</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/personalized-dialogue-engines-creating-your-own-ai/"><u>Personalized Dialogue Engines: Creating Your Own AI</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-performance-boost-how-to-update-gpu-drivers-on-windows-11-systems/"><u>Seamless Performance Boost: How to Update GPU Drivers on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-steps-implementing-bavarder-on-linux/"><u>Simple Steps: Implementing Bavarder on Linux</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-amplify-your-brands-voice-the-power-of-shaped-videos/"><u>[New] 2024 Approved Amplify Your Brand’s Voice The Power of Shaped Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/irtual-victory-the-leading-ladies-of-gaming/"><u>[New] Virtual Victory The Leading Ladies of Gaming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-making-the-most-of-virtual-reality-space/"><u>[Updated] Making the Most of Virtual Reality Space</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-abbyy-flexicapture-enhances-trn-groups-invoicing-efficiency-through-automation/"><u>1. ABBYY FlexiCapture Enhances TRN Group's Invoicing Efficiency Through Automation</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-poco-c51-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ensure-smooth-play-essential-fixes-to-stop-rocket-league-from-crashing-in-the-new-year/"><u>Ensure Smooth Play: Essential Fixes to Stop 'Rocket League' From Crashing in the New Year</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-of-banking-how-digital-intelligence-shapes-tomorrows-leading-financial-institutions-insights-from-abbyy/"><u>Future of Banking: How Digital Intelligence Shapes Tomorrow's Leading Financial Institutions – Insights From ABBYY</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restoring-system-integrity-on-windows-amo-using-sfc-and-dism-solutions/"><u>Guide to Restoring System Integrity on Windows Amo Using SFC & DISM Solutions</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/how-to-install-and-uninstall-audacity-for-chromebook/"><u>How to Install and Uninstall Audacity for Chromebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/les-plus-performants-outils-dajout-de-sous-titres-sans-depense-en-2024-votre-guide-exclusif/"><u>Les Plus Performants Outils D'Ajout De Sous-Titres Sans Dépense en 2024 - Votre Guide Exclusif</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-cookiebot-technology-for-advanced-website-analytics-and-personalization/"><u>Leverage Cookiebot Technology for Advanced Website Analytics and Personalization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-cookiebot-technology-for-enhanced-search-engine-visibility-and-performance/"><u>Leveraging Cookiebot Technology for Enhanced Search Engine Visibility and Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-era-of-collaboration-as-abbyy-extends-distribution-network-with-sigma-software-ally/"><u>New Era of Collaboration as ABBYY Extends Distribution Network with Sigma Software Ally</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ntt-docomo-endorsed-abbyy-app-with-ocr-technology-for-seamless-multi-language-text-conversion/"><u>NTT DOCOMO Endorsed ABBYY App with OCR Technology for Seamless Multi-Language Text Conversion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-information-retrieval-session-elevating-company-knowledge-with-advanced-mining-methods/"><u>Strategic Information Retrieval Session: Elevating Company Knowledge with Advanced Mining Methods</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/tips-for-optimizing-facebooks-auto-play-videos/"><u>Tips for Optimizing Facebook's Auto-Play Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-paperwork-into-digital-format-using-ocr-ios-solution-by-finereader-pdf-app/"><u>Transform Your Paperwork Into Digital Format Using OCR - iOS Solution by FineReader PDF App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-why-robotic-process-automation-has-ceos-and-c-level-managers-hooked-perspectives-by-abbyy/"><u>Unpacking Why Robotic Process Automation Has CEOs and C-Level Managers Hooked - Perspectives by ABBYY</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/windows-11-10-8-7chronosync/"><u>Windows 11, 10, 8, 7用の優れたバックアップツール：ChronoSyncの代替品</u></a></li>
 </ul></div>
 

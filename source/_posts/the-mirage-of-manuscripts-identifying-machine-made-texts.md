@@ -1,7 +1,7 @@
 ---
 title: "The Mirage of Manuscripts: Identifying Machine Made Texts"
-date: 2024-09-06T23:30:14.229Z
-updated: 2024-09-07T23:30:14.229Z
+date: 2025-01-11T21:58:41.628Z
+updated: 2025-01-12T18:41:06.299Z
 tags:
   - chatgpt
   - open-ai
@@ -26,11 +26,9 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
  From the risk of misinformation to losing your brand voice, there are many dangers associated with using AI to produce content. Here are the top five dangers of using AI to generate written content.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Misinformation
 
  Generating text using AI is easy. You only need to write a prompt, and the AI text generator will add content it believes could logically follow.
@@ -42,17 +40,9 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
  Sharing incorrect information can be particularly detrimental when it comes to topics that have the potential to negatively impact someone's health or finances.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Quality Concerns and Possible Plagiarism
 
  AI-based content generators are essentially web scrapers that can learn from data fed to them and generate new ideas or better-quality content. But they, now and then, fall short of this goal.
@@ -62,11 +52,9 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
  Another drawback of using AI to write is the increased likelihood of unintentional plagiarism.[The Guardian](https://www.theguardian.com/us-news/2023/jan/06/new-york-city-schools-ban-ai-chatbot-chatgpt) reports that one of the reasons schools in New York City banned ChatGPT is the risk of students using it to write assignments and passing them off as their work.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Algorithms Devaluing Your Content
 
  Publishers who use AI to write risk having their site penalized by search engines. According to Google, sites with lots of unhelpful content are less likely to rank well in Search. Google states that its team is constantly working to ensure users see more original, helpful content written by people, for people, in search results.
@@ -97,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
 
 ![Some text illustrating repetition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ai-repetition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Even though GPT-3 can generate coherent sentences, AI writing tools frequently appear to have difficulty producing long-form, high-quality content.
 
  Many users assert that after generating a few high-quality paragraphs on a specific subject, some AI text generators will either start to repeat themselves or spew irrelevant sentences. This is due to the AI tool adding a series of what it thinks are relevant sentences to reach the target word count.
@@ -106,11 +98,9 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
  Also, if an article seems to follow a specific pattern or formula, it may have been generated by AI. This kind of writing often makes content predictable and mind-numbing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Search for Unnatural Transitions and Errors
 
 ![Gibberish text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/gibberish.jpg)
@@ -122,45 +112,19 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
  Unsurprisingly, though, excellent grammar can be a sign of machine-generated text. This is because grammar is rule-based; AI systems are usually better than people at following logic.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Examine Any Fact-Heavy, Dry Texts
 
 ![Some factual, dry texts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bald-eagle-facts.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  An AI writing tool can quickly generate facts and simple sentences but not in-depth commentaries. So if you're reading an article and notice it's heavy on facts and light on opinions, it's likely written by a bot.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Check for the Absence of Emotions or Personal Experiences
 
  One obvious problem with current AI writing tools is their inability to display human emotions and subjective experiences. These things are hard to teach because there are no logical steps explaining how to feel or perceive the world. If you notice an article has a flat tone or emotions that feel forced, a bot may have written it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Use an AI Content Detector Tool
 
  A common way of determining whether you're reading AI-generated text is using software that examines text components like readability, sentence length, and word repetition. Popular AI content detector tools include GPT-2 Output Detector, GLTR (Giant Language Model Test Room), and GPTZero.
@@ -183,8 +147,6 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +154,24 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-facebook-cover-makeovers-the-most-trusted-design-tools-ranked/"><u>[New] 2024 Approved Facebook Cover Makeovers The Most Trusted Design Tools Ranked</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-subscriber-supreme-ranked-global-youtube-personalities-by-numbers/"><u>[New] In 2024, Subscriber Supreme Ranked Global YouTube Personalities by Numbers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unlock-the-power-of-podcasts-15-tips-for-multitasking-and-growth-for-2024/"><u>[New] Unlock the Power of Podcasts 15 Tips for Multitasking and Growth for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-maximize-video-potential-a-complete-guide-to-youtube-thumbnail-dimensions/"><u>2024 Approved Maximize Video Potential A Complete Guide to YouTube Thumbnail Dimensions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-understanding-the-quantum-leap-hdr-innovations/"><u>2024 Approved Understanding the Quantum Leap HDR Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-fantasy-realms-with-language-models/"><u>Building Fantasy Realms with Language Models</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-lenovo-bluetooth-driver-compatible-with-windows-7-and-10-secure-official-version/"><u>Download and Install Lenovo Bluetooth Driver: Compatible with Windows 7 & 10 - Secure, Official Version</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-apple-vision-pro-unveiling-costs-innovative-attributes-and-expert-user-reviews-comprehensive-guide-on-zdnet/"><u>Exploring the Apple Vision Pro: Unveiling Costs, Innovative Attributes & Expert User Reviews - Comprehensive Guide on ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-itel-p55plus-by-drfone-android/"><u>Full Guide to Unlock Your Itel P55+</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-ready-for-ios-16-early-access-detailed-guide-on-downloading-new-beta-version-insider-tips-from-zdnet/"><u>Get Ready for iOS 16 Early Access: Detailed Guide on Downloading New Beta Version – Insider Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-a-threat-to-search-engines/"><u>Is ChatGPT a Threat to Search Engines?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-conversation-with-chatgpt-for-complete-growth/"><u>Mastering Conversation with ChatGPT for Complete Growth</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mobile-mastery-with-these-top-8-ai-enhanced-apps/"><u>Mobile Mastery with These Top 8 AI-Enhanced Apps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/optimize-your-browser-experience-exploring-pip-features-in-microsoft-edge/"><u>Optimize Your Browser Experience Exploring PIP Features in Microsoft Edge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/power-boost-for-your-next-weeks-iphone-purchase-discover-essential-anker-accessories/"><u>Power-Boost for Your Next Week's iPhone Purchase? Discover Essential Anker Accessories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-gptbot-saga-ai-evolution-and-its-contentious-internet-stance/"><u>The GPTBot Saga - AI Evolution & Its Contentious Internet Stance</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-narzo-60-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme Narzo 60 5G Device</u></a></li>
+</ul></div>
 

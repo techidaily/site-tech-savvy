@@ -1,7 +1,7 @@
 ---
 title: "Decoding Data Evolution: Understanding AI's Transfer Learning Processes"
-date: 2024-09-06T23:30:22.992Z
-updated: 2024-09-07T23:30:22.992Z
+date: 2025-01-09T18:38:24.871Z
+updated: 2025-01-12T19:48:23.701Z
 tags:
   - chatgpt
   - open-ai
@@ -23,16 +23,14 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 
  Without transfer learning, training an effective and reliable model will often be a resource-prohibitive endeavor, requiring lots of money, time, and expertise, with ChatGPT developer OpenAI estimated to have spent millions training GPT-3, GPT-3.5, and GPT-4\. With the power of transfer learning, you can train your own model as powerful as the latest GPT model with little resources in a short period.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is AI Transfer Learning?
 
 ![Finetuning pre-trained model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/pre-trained-model.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Transfer learning is the idea of taking a pre-trained model such as BERT or one of the [different GPT models](https://www.makeuseof.com/gpt-models-explained-and-compared/) and training it on a custom dataset to work on tasks it wasn't necessarily trained to tackle.
 
  For example, you can take a pre-trained model for classifying different cat species and train it to classify dogs. Through transfer learning, training your dog-classifying model should take significantly less time and resources to become as reliable as the original cat-classifying model.
@@ -40,11 +38,9 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
  This works since cats and dogs share many traits the pre-trained model can already identify. Since the cat-classifying model can identify the various traits of a cat, such as having four legs, fur coats, and prominent snouts, the dog-classifying model can skip all the training to identify those traits and inherit them from the original model. After inheriting all those neural networks, you then cut off the last layers of the trained model used to identify the more specific traits of a cat and replace them with a dataset specific to dogs.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What AI Models Can You Use for Transfer Learning?
 
  To use transfer learning, you'll need a pre-trained model. A pre-trained model is commonly known as an AI model trained for the purpose of gaining general knowledge on a particular subject or idea. These types of pre-trained models are purposely made for people to fine-tune and make more application-specific models. Some of the most popular pre-trained models are for NLP, like [BERT and GPT](https://www.makeuseof.com/gpt-vs-bert/), and computer vision, such as VGG19 and Inceptionv3\.
@@ -54,11 +50,9 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
  You can get publicly available pre-trained models from places like TensorFlow Hub, Hugging Face, and the OpenAI model marketplace.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Benefits of Using AI Transfer Learning
 
  Transfer learning provides several benefits over training an AI model from scratch.
@@ -69,15 +63,13 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 
  Training an AI model from scratch is possible, but you need greater resources to do so.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Does Transfer Learning Work?
 
 ![Transfer-Learning-Illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/final.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In essence, there are three stages when it comes to transfer learning.
 
@@ -87,18 +79,6 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 
  There is more to it than the three stages, but this outline details roughly how the AI transfer learning process works, with some fine-tuning.
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Limitations to AI Transfer Learning
 
  Although transfer learning is a valuable concept in training effective and reliable models, there are quite a few limitations that you need to know when using transfer learning to train a model.
@@ -110,11 +90,9 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
  So while transfer learning is a handy AI learning technique, limitations exist, and it isn't a silver bullet.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Should You Use Transfer Learning?
 
  Ever since the availability of pre-trained models, transfer learning has always been used to make more specialized models. There's really no reason not to use transfer learning if there's already a pre-trained model relevant to the problems your model will be solving.
@@ -125,14 +103,11 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 
  Without transfer learning, training an effective and reliable model will often be a resource-prohibitive endeavor, requiring lots of money, time, and expertise, with ChatGPT developer OpenAI estimated to have spent millions training GPT-3, GPT-3.5, and GPT-4\. With the power of transfer learning, you can train your own model as powerful as the latest GPT model with little resources in a short period.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -141,4 +116,18 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-slide-into-style-instagrams-secrets-to-upside-down-visual-content/"><u>[Updated] Slide Into Style Instagram's Secrets to Upside-Down Visual Content</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-discover-the-top-3-alternative-video-portals/"><u>2024 Approved Discover the Top 3 Alternative Video Portals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-impact-on-software-development/"><u>AI's Impact on Software Development</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-7-plus-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone 7 Plus Lock Screen</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-linkedin-applications-using-these-10-chatgpt-techniques-for-successful-hiring/"><u>Elevate Your LinkedIn Applications Using These 10 ChatGPT Techniques for Successful Hiring</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-s17-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo S17</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-depth-analysis-of-cleanmymac-x-insights-from-a-zdnet-expert/"><u>In-Depth Analysis of CleanMyMac X: Insights From a ZDNet Expert</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-gpt-techniques-for-android-and-ios-enthusiasts/"><u>Innovative GPT Techniques for Android & iOS Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-guide-to-collab-videos-and-channel-growth-for-2024/"><u>Step-by-Step Guide to Collab Videos & Channel Growth for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-getting-your-mic-up-and-running-on-windows-11/"><u>Step-by-Step Solutions: Getting Your Mic Up and Running on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-wild-adaptations-of-ai-chatbots-like-gpt/"><u>The Wild Adaptations of AI Chatbots Like GPT</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Code Strategies for Effective GPT-3 Usage
-date: 2024-09-06T23:30:19.679Z
-updated: 2024-09-07T23:30:19.679Z
+date: 2025-01-05T23:33:15.267Z
+updated: 2025-01-13T01:26:32.974Z
 tags:
   - chatgpt
   - open-ai
@@ -13,18 +13,6 @@ excerpt: This Article Describes Code Strategies for Effective GPT-3 Usage
 thumbnail: https://thmb.techidaily.com/2d6ac4daab03782e87bc719b2db632da8a61451d4393b505f580f9ee7960f313.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Code Strategies for Effective GPT-3 Usage
 
  An AI storm has swept across the world. The release of OpenAI's ChatGPT has sent developers and curious users into a frenzy. OpenAI has gathered a whopping 100 million active users within two months of its launch and people have already started building applications using it.
@@ -36,11 +24,9 @@ thumbnail: https://thmb.techidaily.com/2d6ac4daab03782e87bc719b2db632da8a61451d4
  CopyAI uses it to generate copywriting content for websites, blogs, advertisements, emails, and social media. Lex uses GPT-3 to answer research questions, Algolia for semantic search, and Replier to create branded replies to customer reviews. Here's how you can use OpenAI's GPT-3 model with Python to get started on building your AI-powered application.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is GPT-3?
 
 [OpenAI's GPT-3](https://www.makeuseof.com/how-to-use-gpt-3-openai-playground/) is the third-generation Generative Pre-trained Transformer. It is a Machine Learning model with over 175 billion parameters, almost the entire internet. This gives it immense capabilities to answer a wide range of questions and perform tasks that would otherwise take a lot of manual effort.
@@ -51,12 +37,6 @@ thumbnail: https://thmb.techidaily.com/2d6ac4daab03782e87bc719b2db632da8a61451d4
 
  If you're wondering what GPT-3 is capable of, then you can explore some of the [creative uses for GPT-3 in OpenAI Playground](https://www.makeuseof.com/creative-uses-for-gpt-3-openai-playground/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Generating the API Key
 
  To use GPT-3 with Python you need to generate an API key. To view your API key, follow these steps:
@@ -71,11 +51,9 @@ thumbnail: https://thmb.techidaily.com/2d6ac4daab03782e87bc719b2db632da8a61451d4
  OpenAI's GPT-3 API charges you based on the number of tokens (words) you use to interact with it. Luckily, OpenAI provides $18 of credit for free for the first three months, so you can explore it and experiment according to your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Building a Python Program to Use the GPT-3 API
 
  You can find the source code of this program in its [GitHub repository](https://github.com/makeuseofcode/GPT-3-With-Python).
@@ -121,11 +99,9 @@ main()`
  Put it all together and use Artificial Intelligence to answer your questions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Output of Your GPT-3-Enabled Python Program
 
  When you run the program, it will ask you to enter a question. On entering the prompt, "Write a poem in 5 lines about how Iron Man is the greatest superhero of all time," the program produced the following impressive output:
@@ -133,11 +109,13 @@ main()`
 ![Output of using GPT3 with Python](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/output-of-using-gpt3-with-python.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## GPT-3 Has Many Interesting Applications
 
  You can use GPT-3 to accomplish some pretty amazing feats. You use it as a chatbot that will give you fresh realistic answers on every prompt. You can generate poems, scripts, stories, slogans, essays, headlines, and a lot more. You can even summarize long pieces of text, generate code, converse infinitely, and get conversation based on past prompts as well.
@@ -154,8 +132,6 @@ main()`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +139,24 @@ main()`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-top-picks-expert-recommended-8-convertors-from-sub-to-srt/"><u>[New] Top Picks Expert-Recommended 8 Convertors From Sub to Srt</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-silence-unwanted-post-suggestions-on-insta/"><u>[Updated] 2024 Approved Silence Unwanted Post Suggestions on Insta</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-rank-the-best-7-android-friendly-adblockers-reviewed/"><u>[Updated] Rank the Best 7 Android-Friendly AdBlockers Reviewed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-definitive-12-tycoon-titles-unmissable-gaming-delights-for-2024/"><u>[Updated] The Definitive 12 Tycoon Titles - Unmissable Gaming Delights for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-displaycast-critique-service/"><u>2024 Approved DisplayCast Critique Service</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-advances-for-optimal-routine-in-your-homestead/"><u>AI Advances for Optimal Routine in Your Homestead</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-gpt-fraudsters-tactics/"><u>Avoiding GPT Fraudsters' Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/challenges-for-ai-advocates-the-8-major-issues-of-chatgpt/"><u>Challenges for AI Advocates: The 8 Major Issues of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-ipad-tricks-and-configuration-advice-for-both-beginners-and-experts-a-comprehensive-guide-zdnet/"><u>Essential iPad Tricks & Configuration Advice for Both Beginners & Experts: A Comprehensive Guide - ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/maisto-remote-control-rock-crawler-evaluation-an-all-age-suitable-rc-vehicle/"><u>Maisto Remote Control Rock Crawler Evaluation: An All-Age Suitable RC Vehicle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-world-of-apples-audio-innovation-should-you-opt-for-a-homepod-or-homepod-mini/"><u>Navigating the World of Apple's Audio Innovation: Should You Opt for a HomePod or HomePod Mini?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-perils-of-leaking-info-to-chatgpt/"><u>The Perils of Leaking Info to ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-three-ais-in-comparison-gpt-and-the-bing-and-bard-face-off/"><u>Top Three AIs in Comparison: GPT and the Bing & Bard Face-Off</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-macbook-peripherals-comprehensive-gadget-guides-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated MacBook Peripherals - Comprehensive Gadget Guides & Reviews by Tech Experts | ZDNET</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transfer-your-apple-music-playlists-seamlessly-to-youtube-music-and-back-again/"><u>Transfer Your Apple Music Playlists Seamlessly to YouTube Music and Back Again</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-how-to-create-marketing-videos-ultimate-guide/"><u>Updated 2024 Approved How to Create Marketing Videos Ultimate Guide</u></a></li>
+</ul></div>
 

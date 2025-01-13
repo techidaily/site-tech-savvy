@@ -1,7 +1,7 @@
 ---
 title: Unpacking the Hazards of GPT Phone Apps
-date: 2025-01-01T00:54:12.878Z
-updated: 2025-01-06T01:12:24.964Z
+date: 2025-01-09T21:06:12.956Z
+updated: 2025-01-12T16:42:53.672Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/5447d4b1d6c26ac1013cfb2d49090f8ec42a2498f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fake ChatGPT Apps Are Flooding App Stores
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/5447d4b1d6c26ac1013cfb2d49090f8ec42a2498f
 ![ChatGPT illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/chatgpt-illustration-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Both the Apple App Store and the Google Play Store have recently seen a significant surge in [AI chatbot apps](https://www.makeuseof.com/ai-chatbot-therapist-mobile-apps-pocket/), most of which only appeared shortly after the launch of ChatGPT in the last quarter of 2022\. Normally, this wouldn't be a problem. Who doesn't love an AI chatbot?
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/5447d4b1d6c26ac1013cfb2d49090f8ec42a2498f
  Although we tried a lot of these apps, there are still hundreds on both app stores we couldn't test. So, if you stumble on one that truly adds extra value, carefully weigh the cost of using your ChatGPT credentials on such apps. The [dark web is flooded with stolen ChatGPT accounts](https://www.makeuseof.com/why-hackers-target-chatgpt-accounts/), and using fraudulent apps is among the methods hackers are using to harvest ChatGPT accounts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are There Legit ChatGPT Apps From Third-Party Developers?
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/5447d4b1d6c26ac1013cfb2d49090f8ec42a2498f
 ![a hand holding a Samsung phone with the Google Play store on it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hand-holding-phone-showing-google-play-store.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While OpenAI doesn't have an official ChatGPT app, it would still be technically possible for third-party developers to create apps using the same technology that runs ChatGPT.
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/5447d4b1d6c26ac1013cfb2d49090f8ec42a2498f
  There are many legitimate mobile apps that use [OpenAI's GPT-3](https://www.makeuseof.com/what-is-gpt-3-and-is-it-really-the-future-of-creative-work/) and GPT-4 APIs which makes it possible to answer questions and perform tasks akin to what ChatGPT would do. However, these apps differ from ChatGPT and are not as powerful or nearly as efficient as ChatGPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Beware of Fake ChatGPT Apps
@@ -97,24 +97,18 @@ thumbnail: https://thmb.techidaily.com/5447d4b1d6c26ac1013cfb2d49090f8ec42a2498f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-comparing-metaverse-to-multiplemetasa-highlighting-their-variance-for-2024/"><u>[New] Comparing Metaverse to MultipleMetasa Highlighting Their Variance for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-proficiency-through-practice-using-ez-grabber-for-2024/"><u>[New] Proficiency Through Practice Using EZ Grabber for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-establishing-a-mac-based-sports-media-outlet/"><u>[Updated] Establishing a Mac-Based Sports Media Outlet</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-guide-to-sustainable-visual-effects-equipment/"><u>[Updated] Ultimate Guide to Sustainable Visual Effects Equipment</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-underwater-photographys-leading-seven-cams/"><u>2024 Approved Underwater Photography's Leading Seven Cams</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-your-site-building-chatgpts-4-techniques-unveiled/"><u>Boost Your Site Building: ChatGPT's 4 Techniques Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bypassing-user-interface-direct-engagement-through-shellgpt/"><u>Bypassing User Interface: Direct Engagement Through ShellGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-the-unseen-co-host-of-my-podcast/"><u>ChatGPT: The Unseen Co-Host of My Podcast</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ensuring-seamless-gotomeeting-experience-with-device-recording-for-2024/"><u>Ensuring Seamless GoToMeeting Experience with Device Recording for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721431815367-free-access-now-however-platinum-plans-6-benefits-are-still-compelling/"><u>Free Access Now! However, Platinum Plan's 6 Benefits Are Still Compelling.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-resolving-nonfunctional-brightness-adjustment-in-windows-11/"><u>Guide to Resolving Nonfunctional Brightness Adjustment in Windows 11</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/hastyhit-freezevidsnapshot/"><u>HastyHit FreezeVidSnapshot</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-6-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 6 When Its Locked Within Seconds</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-an-authoritative-voice-for-medical-insights/"><u>Is ChatGPT an Authoritative Voice for Medical Insights?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sharpen-your-interview-edge-chatgpts-role-in-practice/"><u>Sharpen Your Interview Edge: ChatGPT's Role in Practice</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/study-smarter-not-harder-top-5-student-friendly-chatgpt-applications/"><u>Study Smarter, Not Harder: Top 5 Student-Friendly ChatGPT Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-core-methods-to-implement-gpt-3-in-openai-realm/"><u>The Core Methods to Implement GPT-3 in OpenAI Realm</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-7-extensions-for-supercharged-ai-conversations/"><u>The Ultimate 7 Extensions for Supercharged AI Conversations</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-peeling-back-layers-what-every-snapchat-emoji-hides/"><u>[Updated] In 2024, Peeling Back Layers What Every Snapchat Emoji Hides</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-fitness-watch-examined-the-fitbit-versa-lite-review/"><u>Budget-Friendly Fitness Watch Examined - The Fitbit Versa Lite Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-ai-responses-top-tips-for-writing-effective-chatbot-prompts/"><u>Conquer AI Responses: Top Tips For Writing Effective Chatbot Prompts</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-sfx-creation-in-the-latest-windows/"><u>Conquering SFX Creation in the Latest Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-personalized-nutritional-plans-with-chatai/"><u>Crafting Personalized Nutritional Plans with ChatAI</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/revolutionize-texting-facebook-rolls-out-groundbreought-features-for-apps-like-instagram-and-messenger/"><u>Revolutionize Texting: Facebook Rolls Out Groundbreought Features for Apps Like Instagram and Messenger</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-artifical-tears-and-smiles-might-machines-be-empathetic/"><u>The Artifical Tears and Smiles: Might Machines Be Empathetic?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolution-of-ai-crafting-custom-guidance-in-chatgpt/"><u>The Evolution of AI: Crafting Custom Guidance in ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/theoretical-framework-understanding-the-internet-as-a-costless-and-open-access-information-hub/"><u>Theoretical Framework: Understanding the Internet as a Costless and Open-Access Information Hub</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-nokia-c300-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Nokia C300 Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-8-prompts-for-limiting-social-media-interruptions-via-gpt/"><u>Top 8 Prompts for Limiting Social Media Interruptions via GPT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Google Pixel 8 Pro | Dr.fone</u></a></li>
 </ul></div>
 

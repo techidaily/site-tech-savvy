@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Turing's Evaluation: Chances of Victory?"
-date: 2025-01-01T09:57:46.902Z
-updated: 2025-01-06T01:40:44.966Z
+date: 2025-01-12T00:43:19.846Z
+updated: 2025-01-12T16:07:53.250Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Turing Test?
 
 ![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
@@ -49,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Drawbacks of the Turing Test
 
  Although the Turing Test aims to find if machines can think, there are some drawbacks.
@@ -63,15 +63,19 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the last ten years, there have been two main claims that the Turing Test has been passed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Eugene Goostman
 
@@ -80,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
  Since 2014 there have been many speculations and controversies surrounding the claim. One of the main criticisms against Eugene Goostman was the deceptive lowering of Turing Test criteria. The developers claimed the computer to be a 13-year-old boy who does not natively speak English and lives far enough away from modern society to be ignorant of topics such as geography, pop culture, etc.
 
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Google's LaMBDA
 
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Advancement of Computer Intelligence
@@ -108,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if [AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ChatGPT
@@ -144,20 +144,20 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-essential-knowledge-deploying-azure-speech-to-text/"><u>[New] In 2024, Essential Knowledge Deploying Azure Speech-to-Text</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-mastering-viral-fame-boosting-your-videos-popularity-on-youtube/"><u>[New] Mastering Viral Fame Boosting Your Video's Popularity on YouTube</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-immerse-in-world-heritage-through-vr/"><u>[Updated] In 2024, Immerse in World Heritage Through VR</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/become-a-study-powerhouse-leveraging-chatgpt-for-notes/"><u>Become a Study Powerhouse: Leveraging ChatGPT for Notes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/creating-an-ai-ecosystem-linking-chatgpt-to-whatsapp-helpdesk/"><u>Creating an AI Ecosystem: Linking ChatGPT to WhatsApp Helpdesk</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-realme-c53-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Realme C53? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/employ-subsidized-clone-for-personal-use-on-windows-pc/"><u>Employ Subsidized Clone for Personal Use on Windows PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fraudulent-fauxpas-real-gpt-insights/"><u>Fraudulent Fauxpas: Real GPT Insights</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/how-to-perform-mbr-table-recovery-for-windows-xp-through-win11-comprehensive-guide-and-steps/"><u>How to Perform MBR Table Recovery for Windows XP Through Win11 - Comprehensive Guide and Steps</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-honor-x8b-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Honor X8b to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-unlock-free-content-with-these-top-7-tools-for-instagram-video-editing/"><u>In 2024, Unlock Free Content with These Top 7 Tools for Instagram Video Editing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-camera-balance-gimbals-for-drones-explained/"><u>Mastering Camera Balance Gimbals for Drones Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/multi-channel-earnings-from-tech-tips-to-game-archives/"><u>Multi-Channel Earnings: From Tech Tips to Game Archives</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-repairing-a-nonfunctional-razer-blackshark-v2-mic/"><u>Step-by-Step Guide to Repairing a Nonfunctional Razer BlackShark V2 Mic</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-noise-into-notes-daw-mastery-with-ai-assisted-gpt/"><u>Transforming Noise Into Notes: DAW Mastery with AI-Assisted GPT</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-instagrams-visual-spectacle-with-step-by-step-slow-motion-guide-for-2024/"><u>[New] Mastering Instagram’s Visual Spectacle with Step by Step Slow Motion Guide for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-under-100-laptop-charger-discovered-by-zdnet-surpasses-expectations/"><u>Affordable Under $100 Laptop Charger Discovered by ZDNet - Surpasses Expectations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-exclusions-unveiled-top-titans-absent-from-its-launch-tech-insights/"><u>Apple Vision Pro Exclusions Unveiled - Top Titans Absent From Its Launch | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-empathy-will-machines-master-human-emotions/"><u>Decoding Empathy: Will Machines Master Human Emotions?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/download-hp-laserjet-pro-m428fwd-printer-software-compatible-with-windows-11-10-and-windows-7/"><u>Download HP LaserJet Pro M428fwd Printer Software Compatible with Windows 11, 10 & Windows 7</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-techniques-for-quiet-filming-for-2024/"><u>Essential Techniques for Quiet Filming for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-future-of-apples-tablets-key-enhancements-in-ipados-16-announced-during-wwdc-2024-compatibility-info-for-existing-devices-analysis/"><u>Exploring the Future of Apple's Tablets: Key Enhancements in iPadOS 16 Announced During WWDC 2024, Compatibility Info for Existing Devices Analysis</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-apple-iphone-8-plus-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Apple iPhone 8 Plus Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/memes-unite-reddit-and-twitters-top-twenty-for-2024/"><u>Memes Unite Reddit & Twitter's Top Twenty for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reduce-screen-extension-on-win-10-pc/"><u>Reduce Screen Extension on WIN 10 PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-poco-f5-pro-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Poco F5 Pro 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-essentials-android-must-improve-to-challenge-apples-ios-dominance-insights/"><u>Top 5 Essentials Android Must Improve to Challenge Apple's iOS Dominance: Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-nero-software-resolving-the-advrcntr2dll-absence-issue/"><u>Troubleshooting Nero Software: Resolving the Advrcntr2.dll Absence Issue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/worlds-top-techies-and-their-ai-predictions/"><u>World's Top Techies and Their AI Predictions</u></a></li>
 </ul></div>
 

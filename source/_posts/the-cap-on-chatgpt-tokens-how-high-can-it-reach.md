@@ -1,7 +1,7 @@
 ---
 title: "The Cap on ChatGPT Tokens: How High Can It Reach?"
-date: 2024-09-06T23:30:21.256Z
-updated: 2024-09-07T23:30:21.256Z
+date: 2025-01-09T16:54:20.992Z
+updated: 2025-01-12T22:40:59.708Z
 tags:
   - chatgpt
   - open-ai
@@ -13,18 +13,6 @@ excerpt: "This Article Describes The Cap on ChatGPT Tokens: How High Can It Reac
 thumbnail: https://thmb.techidaily.com/8504b42a17782fb4587372cf2843bf5e6800b5714b57f9dcc9e3ed9d00739ee5.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Cap on ChatGPT Tokens: How High Can It Reach?
 
  ChatGPT has taken the technological world by storm, and there is no shortage of advancements and updates. But despite the use of advanced technology, there are quite a few limiting factors within the current version.
@@ -37,12 +25,6 @@ thumbnail: https://thmb.techidaily.com/8504b42a17782fb4587372cf2843bf5e6800b5714
 
  Let's take a step back and give you an insight into all there is to know about the app's underlying working mechanisms.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What's a ChatGPT Token?
 
  If you go by the app's façade, all you see is a computer language that obeys your commands and gives you the answers you seek. However, the backend is just lots of code, learning every minute, and getting up to speed with the questions it answers.
@@ -77,12 +59,6 @@ thumbnail: https://thmb.techidaily.com/8504b42a17782fb4587372cf2843bf5e6800b5714
 
  A helpful rule of thumb is that one token generally corresponds to \~4 text characters for common English text. This translates to roughly ¾ of a word (100 tokens \~= 75 words).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Free vs. Paid Tokens
 
  To give you a flavor of what's what within the ChatGPT application, OpenAI offers you a free limited token subscription. If you want to experiment with the ChatGPT API, use the free $5 credit, which is valid for three months. Once the limit is exhausted (or the trial period is up), you can pay-as-you-go, which increases the maximum quota to $120\.
@@ -90,11 +66,13 @@ thumbnail: https://thmb.techidaily.com/8504b42a17782fb4587372cf2843bf5e6800b5714
 ![OpenAI dashboard with credit usage graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/token-dashboard-openai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ChatGPT Plus: Is the Paid Subscription Worth It?
 
  To take it up a notch, you can even sign up for the [ChatGPT Plus Offer](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), which sets you back by $20 a month. Given the extensive usage and popularity of the entire AI model, here are the top features of the paid subscription model:
@@ -105,16 +83,14 @@ thumbnail: https://thmb.techidaily.com/8504b42a17782fb4587372cf2843bf5e6800b5714
 
  If you feel these features are entirely worth it and up your alley, you can enroll for the paid subscription and benefit from them immediately.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT Token Pricing Structure
 
 ![Set of black opened envelope and cash dollars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-karolina-grabowska-4386370.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There are a few different application models available, which you can choose based on your requirements:
 
 | Model             | Input Price for 1000 tokens (prompt) | Output Price for 1000 tokens (completion) |
@@ -132,17 +108,9 @@ thumbnail: https://thmb.techidaily.com/8504b42a17782fb4587372cf2843bf5e6800b5714
  Ada is the fastest, while DaVinci is the most powerful model from this list of models. The prompt is the question, while the completion deals with the answers.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Maximum Token Limits
 
  Each model allows you to set the maximum number of tokens within each query. This method controls the maximum number of tokens the application generates in a single call, limiting the output. The max\_token feature is quite useful, especially when you want to control the length of your output while avoiding overusing your token usage and credits. The default length is fixed at 2,048 tokens, while the maximum can be set at 4,096 tokens.
@@ -165,6 +133,10 @@ thumbnail: https://thmb.techidaily.com/8504b42a17782fb4587372cf2843bf5e6800b5714
 
  For example, within the ChatGPT model, the **prompt\_tokens + max\_tokens <= 4096** tokens**.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Learn to Control Your ChatGPT Prompts for Best Results
 
  No matter how you use the AI-driven application, chances are you will have to devise ways to play smartly with your questions and phrases. Depending on your usage patterns, you will likely use ChatGPT extensively for every task.
@@ -177,14 +149,11 @@ thumbnail: https://thmb.techidaily.com/8504b42a17782fb4587372cf2843bf5e6800b5714
 
  Let's take a step back and give you an insight into all there is to know about the app's underlying working mechanisms.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -193,4 +162,18 @@ thumbnail: https://thmb.techidaily.com/8504b42a17782fb4587372cf2843bf5e6800b5714
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/macx-dvd-ripper-pro-windows/"><u>[公式推奨]MacX DVD Ripper Pro - Windows用最新の高速リッピングソフトウェア</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-ultimate-guide-to-creating-hdr-in-photoshop-for-2024/"><u>[New] The Ultimate Guide to Creating HDR in Photoshop for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-designers-delight-incorporating-fonts-into-ae-projects/"><u>[Updated] Designer's Delight Incorporating Fonts Into AE Projects</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-mastering-iphones-ringtone-personalization-for-2024/"><u>[Updated] Mastering iPhone's Ringtone Personalization for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-challenges-leading-web-browser-with-unsettling-marketing-campaign-discover-more-on-zdnet/"><u>Apple Challenges Leading Web Browser with Unsettling Marketing Campaign: Discover More on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-dysons-latest-ontrac-wireless-headphones-pose-a-threat-to-the-dominance-of-airpod-max-reviews/"><u>How Dyson's Latest OnTrac Wireless Headphones Pose a Threat to the Dominance of AirPod Max Reviews</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-building-relationships-one-post-at-a-time-on-fb/"><u>In 2024, Building Relationships One Post at a Time on FB</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862680788-innovative-morse-input-for-laptops-precise-closure-techniques-needed-to-prevent-screen-or-hinge-damage-no-party-favors-included/"><u>Innovative Morse Input for Laptops: Precise Closure Techniques Needed to Prevent Screen or Hinge Damage - No Party Favors Included</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/job-search-revolution-with-chatgpt-insights/"><u>Job Search Revolution with ChatGPT Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/public-bathroom-visit-turns-into-surprising-health-screening-experience-insights/"><u>Public Bathroom Visit Turns Into Surprising Health Screening Experience - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-pros-and-cons-of-chatgpt-plus/"><u>The Pros and Cons of ChatGPT Plus</u></a></li>
+</ul></div>
 

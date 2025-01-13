@@ -1,7 +1,7 @@
 ---
 title: Tailored Training Strategies with AI Innovation
-date: 2025-01-02T20:23:26.955Z
-updated: 2025-01-06T04:36:08.952Z
+date: 2025-01-06T16:52:01.464Z
+updated: 2025-01-12T20:55:37.527Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Input Client’s Goals and Current Fitness Levels
 
  ChatGPT is a [great way to build a custom workout](https://www.makeuseof.com/build-a-custom-workout-generate-exercise-routines-from-experts/) plan if you explain to it exactly what your client aims to achieve. Training intensity may be different for people, depending on sex, age, size, and goals. This is why you must be specific.
@@ -39,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
  Simply inputting the client’s goals and current fitness levels while you ask ChatGPT to create the workout plan is a good starting point. After doing this, you can use other prompts and measures to create a more comprehensive workout plan.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Include Preferences
@@ -48,13 +52,13 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 
 ![Modified workout plan for 25-year-old](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modified-workout-plan-for-25-year-old.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also feed the AI information about other forms of exercise your client wants to engage in, apart from the one predominant in the plan. For instance, the client may be an avid golfer who golfs multiple times a week, even as they're trying to gain muscle mass at the gym.
 
  By considering all these factors, you can create prompts to guide ChatGPT in creating a more personalized workout schedule.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use a Long Prompt
 
@@ -66,11 +70,11 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 
 ![Madi's workout plan by Chat GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/madi-s-workout-plan-by-chat-gpt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Long prompts are great if you have many clients across a wide range of fitness specialties and goals. They save you time because you just have to gather all the client’s special information and feed them to ChatGPT in well-formed sentences. Not providing context is one of the [ChatGPT prompt mistakes](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) that long prompts can help you avoid.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Review the Workout Plan
 
@@ -82,23 +86,19 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 
  So, because you must properly [plan rest days for optimum fitness](https://www.makeuseof.com/plan-workout-rest-days-optimum-fitness/), you may need to adjust the plan based on your client’s schedule. You could instruct ChatGPT to reschedule the rest days or reschedule them yourself while sticking to the AI’s exercise suggestions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tweak the Plan to Make Room for Progress
 
  From time to time, you have to revisit the plan and make changes to accommodate your client’s growth. Based on what you have noticed from your client’s reports on how they feel during and after training or from watching them train, you can instruct ChatGPT to modify the workout plan it has created.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Increase Workout Intensity
 
  If your client is getting used to the current intensity of workouts, you can copy and paste the previous workout plan back into ChatGPT and ask the AI to create a more intense version. Then, you’ll get a whole new workout with ChatGPT, either adding more reps and sets to the exercises or creating more difficult alternatives.
 
 ![Intensified workout plan by Chat GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/intensified-workout-plan-by-chat-gpt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  For example, ChatGPT has modified the 25-year-old man’s home workout plan to make it more intense. From the image below, you’ll see that it has replaced normal push-ups with plyometric push-ups. And instead of planks, it has prescribed planks with shoulder taps.
 
@@ -141,19 +141,16 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-combine-computer-imagery-like-a-pro/"><u>[Updated] Combine Computer Imagery Like a Pro</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-adopting-a-simple-yet-powerful-approach-to-advertising-content/"><u>[Updated] In 2024, Adopting a Simple Yet Powerful Approach to Advertising Content</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/best-of-the-best-top-12-tycoon-games-for-epic-victories/"><u>Best of the Best Top 12 Tycoon Games for Epic Victories</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/charting-the-progress-from-gpt-1-to-gpt-4/"><u>Charting the Progress: From GPT-1 to GPT-4</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/cyber-conference-capture/"><u>Cyber Conference Capture</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-do-ai-chatbots-filter-language-and-what-it-means-for-users/"><u>How Do AI Chatbots Filter Language and What It Means for Users</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-hot-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-install-new-lenovo-camcorder-drivers-on-windows-7/"><u>How to Install New Lenovo Camcorder Drivers on Windows 7</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How To Pause Life360 Location Sharing For Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/luminous-landscapes-mastering-nightscape-portraits-with-precision-for-2024/"><u>Luminous Landscapes Mastering Nightscape Portraits with Precision for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/master-the-process-of-renewing-your-dell-docking-stations-drivers/"><u>Master the Process of Renewing Your DELL Docking Station's Drivers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/preventing-ai-forgery-the-artists-nightshade-approach/"><u>Preventing AI Forgery: The Artist's Nightshade Approach</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seeking-anonymity-for-chatgpt-vpn-applicability/"><u>Seeking Anonymity for ChatGPT: VPN Applicability?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlining-speeches-with-these-7-ai-innovators/"><u>Streamlining Speeches with These 7 AI Innovators</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-discover-the-art-of-youtube-playlist-shuffling/"><u>[Updated] In 2024, Discover the Art of YouTube Playlist Shuffling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/14-for-your-next-purchase-insights-from-zdnet/"><u>14 for Your Next Purchase - Insights From ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-editing-how-to-load-music-in-inshot/"><u>2024 Approved Streamline Editing How to Load Music in InShot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-challenges-leading-web-browser-with-unsettling-marketing-campaign-discover-more-on-zdnet/"><u>Apple Challenges Leading Web Browser with Unsettling Marketing Campaign: Discover More on ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/better-balance-drones-7-leading-gimbals-for-2024/"><u>Better Balance Drone's 7 Leading Gimbals for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-realme-c55-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Realme C55 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-air-features-explored-why-apples-m2-chip-powers-the-ideal-tablet-choice-for-consumers-a-zdnet-analysis/"><u>IPad Air Features Explored: Why Apple's M2 Chip Powers the Ideal Tablet Choice for Consumers - A ZDNet Analysis</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-plans-misalignment-issues-in-windows-11-expert-tips-and-tricks/"><u>Overcoming 'Plans Misalignment' Issues in Windows 11 - Expert Tips and Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-pros-and-cons-of-chatgpt-plus/"><u>The Pros and Cons of ChatGPT Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-typists-into-document-genies-in-word/"><u>Transforming Typists Into Document Genies in Word</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-legal-stewards-of-ai-driven-artistry/"><u>Unveiling Legal Stewards of AI-Driven Artistry</u></a></li>
 </ul></div>
 

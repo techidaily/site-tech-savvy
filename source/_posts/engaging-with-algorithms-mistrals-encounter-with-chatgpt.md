@@ -1,7 +1,7 @@
 ---
 title: "Engaging with Algorithms: Mistral's Encounter With ChatGPT"
-date: 2025-01-05T01:15:01.922Z
-updated: 2025-01-05T22:58:29.019Z
+date: 2025-01-06T00:39:24.269Z
+updated: 2025-01-12T23:34:11.847Z
 tags:
   - chatgpt
   - open-ai
@@ -20,12 +20,20 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Mistral AI's Le Chat?](https://funwhole.sjv.io/9groge)
 * [Le Chat vs. ChatGPT: Creativity](https://bluettius.sjv.io/dkpnv2)
 * [Le Chat vs. ChatGPT: Programming Skills](https://versadesk.pxf.io/xyboxx)
 * [Le Chat vs. ChatGPT: Common Sense and Logical Reasoning](https://ukaidot.sjv.io/daqnoj)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -42,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
  But is this fledgling AI chatbot really worth the title? Is Mistral's Le Chat better than ChatGPT?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Mistral AI's Le Chat?
@@ -57,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
  I've been wondering the same, and to find out, I tested Le Chat extensively to see how it compares to ChatGPT.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Le Chat vs. ChatGPT: Creativity
 
  Creativity is one of the most important metrics for judging the performance of a conversational AI chatbot. Remember, the purpose of an AI chatbot is to replicate or mimic the conversational abilities and creative flair of humans at scale. This makes creativity a very important strength for any AI chatbot. The world has experimented with ChatGPT for over a year, and its creative abilities are undeniable. But how does Le Chat compare? We put both chatbots to a series of creativity tests.
@@ -70,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
  Here's how ChatGPT would describe itself to an artist:
 
 ![ChatGPT describes itself-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-describes-itself-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  And here's how Le Chat would describe itself as well:
 
@@ -86,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
  Here's ChatGPT's response:
 
 ![ChatGPT writes rap about cocumbers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-writes-rap-about-cocumbers.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And here's Le Chat's response:
 
@@ -115,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 ![ChatGPT GPT-4 makes a todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-gpt-4-makes-a-todo-list-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Each time we repeated the prompt, ChatGPT created a functional to-do list app using different styles. In no instance did the generated code fail to work.
 
  When I tried the same prompt with Le Chat, it generated what appeared to be intelligible code, but when we tried running it on a browser, it wasn't functional. After repeating the prompt three times, no instance produced code that could complete the set task. It failed in one of the most basic coding tasks—red flag!
@@ -141,6 +141,10 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 ![Le Chat Mistral logical reasoning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-logical-reasoning.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Both chatbots performed comparably on this test.
 
  Up next, we asked both chatbots a trick question: "**If a spaceship from Mars breaks into two, with one part crashing into the Atlantic Ocean near Brazil and the other into the Pacific Ocean near Japan, where do you bury the survivors?"**
@@ -152,10 +156,6 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
  Le Chat was also able to see through the trickery and responded accordingly as well:
 
 ![Le Chat Mistral answers trick question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-answers-trick-question.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  I tried more trick questions, and it seemed both ChatGPT and Le Chat are quite adept at dealing with commonsense and logical reasoning prompts. However, with more complex logic questions, only ChatGPT could provide the right responses.
 
@@ -180,21 +180,21 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-foremost-video-starters-the-leading-16-youtube-openers/"><u>[New] 2024 Approved Foremost Video Starters The Leading 16 YouTube Openers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-breaking-the-monotony-innovative-yt-playlist-shuffling/"><u>[New] In 2024, Breaking the Monotony Innovative YT Playlist Shuffling</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-reestablishing-iphone-x-trust-restoring-biometric-lock/"><u>2024 Approved Reestablishing iPhone X Trust Restoring Biometric Lock</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-content-creation-mastering-social-media-posts/"><u>AI-Driven Content Creation: Mastering Social Media Posts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-continued-opportunity-building-successful-ventures-with-ai-model-innovations-insights-from-zdnet/"><u>Exploring Continued Opportunity: Building Successful Ventures with AI Model Innovations - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-driven-strategies-for-effortless-home-life/"><u>GPT-Driven Strategies for Effortless Home Life</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/harness-the-power-of-mematic-for-notes/"><u>Harness the Power of Mematic for Notes</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-reno-8t-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 8T 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-xipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone X/iPad GPS Spoofing | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-collaboration-chatgpt-in-google-workspace/"><u>Intelligent Collaboration: ChatGPT in Google Workspace</u></a></li>
-<li><a href="https://fox-http.techidaily.com/iphone-landscape-mastery-tips-that-work-like-magic/"><u>IPhone Landscape Mastery Tips That Work Like Magic</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-tech-woes-chatgpts-repair-manual/"><u>Optimizing Tech Woes - ChatGPT's Repair Manual</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamlessly-switch-between-languages-with-the-power-of-chatgpt/"><u>Seamlessly Switch Between Languages with the Power of ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-accuracy-debate-chatgpt-or-lies/"><u>The Accuracy Debate: ChatGPT or Lies?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-waiting-game-why-is-chatgpt-4-lagging/"><u>The Waiting Game: Why Is ChatGPT-4 Lagging?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-funny-frenzy-top-10-tweets/"><u>[New] In 2024, Funny Frenzy Top 10 Tweets</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-recording-showdown-the-battle-for-the-best-screen-grabber/"><u>[New] In 2024, Recording Showdown The Battle for the Best Screen Grabber</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unlocking-retro-titles-best-pc-emulators-for-ps1-games/"><u>[Updated] In 2024, Unlocking Retro Titles Best PC Emulators for PS1 Games</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-realme-11-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-in-education-why-teachers-should-embrace-change-8-points/"><u>AI in Education: Why Teachers Should Embrace Change (8 Points)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-strategies-for-streamlined-3d-printing-processes/"><u>ChatGPT Strategies for Streamlined 3D Printing Processes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-command-line-access-within-directories-expert-methods-uncovered/"><u>Effortless Command Line Access Within Directories - Expert Methods Uncovered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experts-pick-the-ultimate-collection-of-iphone-16-and-iphone-16-pro-cases-featuring-maximum-durability-and-style-zdnet/"><u>Experts' Pick: The Ultimate Collection of iPhone 16 and iPhone 16 Pro Cases Featuring Maximum Durability & Style | ZDNET</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-samsung-galaxy-m34-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Samsung Galaxy M34 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intuitive-talking-to-ai-try-this-chrome-tool/"><u>Intuitive Talking to AI? Try This Chrome Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/limited-offer-on-presidents-day-save-big-and-score-200-off-the-latest-macbook-pro-with-apple-silicon-m3-pro-chip-exclusive-at-zdnet-shop/"><u>Limited Offer on Presidents' Day: Save Big & Score $200 Off the Latest MacBook Pro with Apple Silicon - M3 Pro Chip Exclusive at ZDNet Shop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-graphic-glitches-a-solution-for-windows-11-and-10-images-issues/"><u>Resolving Graphic Glitches: A Solution for Windows 11 and 10 Images Issues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-key-to-immersive-roleplay-zooming-into-roblox-worlds-for-2024/"><u>The Key to Immersive Roleplay Zooming Into Roblox Worlds for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-the-secrets-behind-alan-wake-2s-postponed-debut/"><u>Unlocking The Secrets Behind Alan Wake 2'S Postponed Debut</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-solution-overcome-the-risky-battery-flaw-in-your-airtags-and-compatible-gadgets-expert-tips/"><u>Unlocking the Solution: Overcome the Risky Battery Flaw in Your AirTags and Compatible Gadgets - Expert Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/voice-enabled-chatgpt-for-your-android-device/"><u>Voice-Enabled ChatGPT for Your Android Device</u></a></li>
 </ul></div>
 

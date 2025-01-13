@@ -1,7 +1,7 @@
 ---
 title: "Analyzing the Art of Machine-Made Dialogues: Le Chat vs GPT-3"
-date: 2024-09-06T23:30:18.907Z
-updated: 2024-09-07T23:30:18.907Z
+date: 2025-01-10T19:56:24.188Z
+updated: 2025-01-12T21:39:55.799Z
 tags:
   - chatgpt
   - open-ai
@@ -16,17 +16,9 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 ## Analyzing the Art of Machine-Made Dialogues: Le Chat vs GPT-3
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Mistral AI's Le Chat?](https://funwhole.sjv.io/9groge)
@@ -47,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
  Mistral's Le Chat has been gaining traction within the AI chatbot community, with some observers tagging it as a potential rival to ChatGPT.
 
  But is this fledgling AI chatbot really worth the title? Is Mistral's Le Chat better than ChatGPT?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is Mistral AI's Le Chat?
 
@@ -75,11 +71,9 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 ![Le Chat Mistral describes itself](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-describes-itself.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Both responses were appropriate in their own unique ways. ChatGPT was more invested in using vivid imagery and metaphors to describe itself, demonstrating creative flair. On the other hand, Le Chat's response is very informational and focused on describing its essence as an AI chatbot. Some may say it lacks the creative flair and artistic approach that ChatGPT's response exhibits. However, I'll go out on a limb to say I prefer Le Chat's easier-to-imagine response to ChatGPT's abstract description.
 
  I then asked ChatGPT and Le Chat to write a rap song about becoming rich from growing cucumbers—a tricky request we've used to test the creativity of other chatbots. How many rap songs can you find about cucumbers on the web?
@@ -89,17 +83,9 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 ![ChatGPT writes rap about cocumbers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-writes-rap-about-cocumbers.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And here's Le Chat's response:
 
 ![Le Chat Mistral writes song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-writes-song.jpg)
@@ -120,12 +106,6 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 
  I tried a few other creative tasks, like poems, article writing, and drafting tricky work emails with the AI chatbots. Despite showing great promise, Le Chat was clearly outdone by ChatGPT in all instances. It's important to point out that one area Le Chat was particularly strong in was crafting articles, although with some tricky prompting styles. However, in terms of all-round creativity, the medal goes to ChatGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Le Chat vs. ChatGPT: Programming Skills
 
  Proficiency in coding has become a key requirement for major AI chatbots. Writing decent code is a baseline skill, but to truly stand out among the elite, an AI chatbot must demonstrate its prowess in crafting code that can effectively solve a diverse array of complex problems. We've previously [built an entire web app from scratch using ChatGPT](https://www.makeuseof.com/chatgpt-how-build-web-app/) which demonstrates its remarkable abilities as a programming tool. But how good is Le Chat at writing code?
@@ -134,12 +114,6 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 
 ![ChatGPT GPT-4 makes a todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-gpt-4-makes-a-todo-list-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Each time we repeated the prompt, ChatGPT created a functional to-do list app using different styles. In no instance did the generated code fail to work.
 
  When I tried the same prompt with Le Chat, it generated what appeared to be intelligible code, but when we tried running it on a browser, it wasn't functional. After repeating the prompt three times, no instance produced code that could complete the set task. It failed in one of the most basic coding tasks—red flag!
@@ -158,12 +132,6 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 
 ![logical and commonsense problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/logical-and-commonsense-problem.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Le Chat tried the same task and was able to solve the problem, although using a different approach.
 
 ![Le Chat Mistral logical reasoning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-logical-reasoning.jpg)
@@ -177,33 +145,13 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 ![ChatGPT Answers Trick Question-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-answers-trick-question-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Le Chat was also able to see through the trickery and responded accordingly as well:
 
 ![Le Chat Mistral answers trick question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-answers-trick-question.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  I tried more trick questions, and it seemed both ChatGPT and Le Chat are quite adept at dealing with commonsense and logical reasoning prompts. However, with more complex logic questions, only ChatGPT could provide the right responses.
 
  While Le Chat has generated some buzz as a potential "ChatGPT killer," our testing shows it still has growing to do before it can truly go toe-to-toe with the heavyweights of the AI chatbot world. Though Le Chat demonstrated impressive capabilities in areas like common sense reasoning, its creative output and coding skills lagged noticeably behind ChatGPT. The French AI upstart certainly shows promise, but the hype machine may be getting a little ahead of itself.
@@ -218,8 +166,6 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +173,20 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-innovate-your-screenshots-unveiling-ezvides-screen-casting-features/"><u>[New] 2024 Approved Innovate Your Screenshots Unveiling EZvide's Screen Casting Features</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-leading-8-ultimate-tripods-for-4k-video-capture/"><u>[New] 2024 Approved Leading 8 Ultimate Tripods for 4K Video Capture</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-elevate-your-tiktok-presence-with-siri-speech-controls/"><u>[New] In 2024, Elevate Your TikTok Presence with Siri Speech Controls</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-iphone-experience-awaits-unveiling-the-budget-friendly-iphone-with-long-lasting-power-and-more/"><u>Affordable iPhone Experience Awaits - Unveiling the Budget-Friendly iPhone with Long-Lasting Power and More!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/cam-problem-solved-operation-normal/"><u>Cam Problem Solved Operation Normal</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-the-role-of-copilot-key-in-your-windows-11-pc/"><u>Deciphering the Role of Copilot Key in Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-inject-gpt-4-into-chatgpt-conversations-now/"><u>How to Inject GPT-4 Into ChatGPT Conversations Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-successfully-navigate-using-an-apple-vision-pro-avoid-common-pitfalls-for-optimal-efficiency/"><u>How to Successfully Navigate Using an Apple Vision Pro: Avoid Common Pitfalls for Optimal Efficiency</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-iphones-finest-leading-cost-free-photo-layout-apps-ranked/"><u>In 2024, IPhone's Finest Leading Cost-Free Photo Layout Apps Ranked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-sound-management-sonos-latest-app-features-and-its-hidden-pitfalls-exclusive-insight-by-zdnet/"><u>Revolutionizing Sound Management: Sonos' Latest App Features and Its Hidden Pitfalls – Exclusive Insight by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-benefits-of-owning-an-apple-watch-insights-from-industry-experts/"><u>Top 6 Benefits of Owning an Apple Watch: Insights From Industry Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-beyond-chatgpts-tokens/"><u>Unlocking Potential Beyond ChatGPT’s Tokens</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+</ul></div>
 

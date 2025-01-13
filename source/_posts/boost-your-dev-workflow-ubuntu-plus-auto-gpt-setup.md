@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Dev Workflow: Ubuntu + Auto-GPT Setup"
-date: 2024-09-06T23:30:50.375Z
-updated: 2024-09-07T23:30:50.375Z
+date: 2025-01-11T21:36:10.390Z
+updated: 2025-01-12T18:24:09.916Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Boost Your Dev Workflow: Ubuntu + Auto-GPT Setu
 thumbnail: https://thmb.techidaily.com/24d9ad97cc4d2914a6f62f8ac9d6325300e284842ea91d53be138fc17a246961.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Boost Your Dev Workflow: Ubuntu + Auto-GPT Setup
 
  Auto-GPT is an open-source project that allows people to create AI assistants that cater to their needs. These AI assistants are capable of thought and self-criticism and can generate their own prompts to reach a particular set of goals and accomplish their role. It uses the same GPT language model used in the already popular ChatGPT.
@@ -64,12 +58,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 `cd Auto-GPT`
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 1: Configure Auto-GPT on Ubuntu
 
  Now that you've correctly set up the environment for Auto-GPT, you need to configure your OpenAI API key as an environment variable.
@@ -83,11 +71,9 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 ![Creating OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-get-api-key.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once copied, paste the key inside the **.env** file. The env file will store all the API keys that you use with Auto-GPT. If you don't need a backend vector database like Pinecone, your OpenAI API key should be enough to use Auto-GPT.
 
  To set your API key, open the **.env** file using nano:
@@ -97,6 +83,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  To locate the OpenAI API key variable, hold **CTRL + W**, search for “**OPEN\_API\_KEY=**”, and then hit **Enter**.
 
 ![Insert API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/paste-api-key.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Replace the placeholder with your API key by pressing **Ctrl +V** and hitting **Ctrl + S** to save. You can exit the nano text editor by pressing **Ctrl + X**.
 
@@ -114,19 +104,21 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Install Auto-GPT requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/5-install-requirements.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, try running Auto-GPT using:
 
 `python3 -m autogpt`
 
 ![Successful Auto-GPT installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-success.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Congratulations! You have successfully installed and set up Auto-GPT on your Ubuntu machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use Auto-GPT on Ubuntu
 
@@ -134,12 +126,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Auto-GPT auto mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-auto.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In manual mode, Auto-GPT will ask you to specify a name, a goal, and up to five goals you want the AI assistant to follow while doing its task. This mode allows you to be in control of how your AI assistant will function.
 
  To use manual mode, use the following command:
@@ -157,17 +143,9 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 ![Input-Commands for Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-input-y.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can approve the AI's next action by typing "**y**" for yes. If you don't want the AI to continue with its plans, you can type "**n**" for no and exit.
 
  If you trust your AI assistant and don't want to continue monitoring all of its thoughts and actions, you can type "**y -(number)**". For example, if you want Auto-GPT to execute its next five actions, you can type "**y -5**". Furthermore, if you want to provide feedback to your AI assistant, you can also type your prompt as input.
@@ -182,12 +160,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
  Success! Our AI assistant gave us a list of active promo codes for the mouse we were looking for.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Limitations of Auto-GPT
 
  Although Auto-GPT gave us some pretty promising results, it still isn't as powerful or useful as it was initially hyped to be. During our testing, any slightly complex task often resulted in the AI assistant looping through the same pattern of thoughts and actions, which eventually failed.
@@ -196,12 +168,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
  So for now, you should only use Auto-GPT as a way to play and experiment with AI assistants.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Auto-GPT Will Keep Getting Better and Better
 
  Auto-GPT is not as powerful as it should be due to its current development stage and the limited access to GPT-4\. However, these wouldn't last long as Auto-GPT is gaining lots of traction and support from people worldwide.
@@ -212,14 +178,11 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
  If you would like to harness the power of GPT in the form of an AI assistant, it might interest you to try out Auto-GPT. Here's how you can install and set up Auto-GPT on Ubuntu.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -228,4 +191,24 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafting-universal-streams-for-youtube-and-beyond-networks/"><u>[New] 2024 Approved Crafting Universal Streams for YouTube & Beyond Networks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-innovative-vertical-video-editing-for-instagrams-igtv-for-2024/"><u>[Updated] Innovative Vertical Video Editing for Instagram's IGTV for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unraveling-lightrooms-potential-on-android-devices/"><u>[Updated] Unraveling Lightroom's Potential on Android Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/4-reasons-why-you-shouldnt-buy-a-ps5/"><u>4 Reasons Why You Shouldn't Buy a PS5</u></a></li>
+<li><a href="https://fox-that.techidaily.com/adjust-inaccurate-person-tags-in-your-apple-photos-with-these-simple-tips/"><u>Adjust Inaccurate Person Tags in Your Apple Photos with These Simple Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-tecno-pova-5-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Tecno Pova 5?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbot-conversation-replication-techniques/"><u>Chatbot Conversation Replication Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easing-the-capacity-load-of-wins-chatgpt/"><u>Easing the Capacity Load of Win's ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ai-conversations-bots-that-captivate-users/"><u>Exploring AI Conversations: Bots that Captivate Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-differences-auto-gpt-versus-chatgpt/"><u>Exploring the Differences: Auto-GPT Versus ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apples-ios-175-brought-back-lost-memories-understanding-the-technology-behind-recovered-images-and-next-steps-for-users/"><u>How Apple's iOS 17.5 Brought Back Lost Memories: Understanding the Technology Behind Recovered Images & Next Steps for Users</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-leading-online-tools-select-your-new-photo-background/"><u>In 2024, Leading Online Tools Select Your New Photo Background</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-lava-blaze-pro-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Lava Blaze Pro 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mitigating-data-disappearance-in-ai-talks/"><u>Mitigating Data Disappearance in AI Talks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/slow-and-steady-why-does-chatgpt-4-pace-slower/"><u>Slow and Steady: Why Does ChatGPT-4 Pace Slower?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-creativity-in-gaming-6-methods-for-using-chatgpt-as-your-co-writer/"><u>Unleashing Creativity in Gaming: 6 Methods for Using ChatGPT as Your Co-Writer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-to-the-new-era-comparing-features-between-iphone-16-and-15-is-it-time-gadgetguru/"><u>Upgrade to the New Era: Comparing Features Between iPhone 16 and 15 - Is It Time? | GadgetGuru</u></a></li>
+</ul></div>
 

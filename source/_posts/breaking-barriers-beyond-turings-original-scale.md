@@ -1,7 +1,7 @@
 ---
 title: "Breaking Barriers: Beyond Turing's Original Scale"
-date: 2024-12-30T19:13:48.233Z
-updated: 2025-01-05T18:13:36.177Z
+date: 2025-01-06T00:13:26.874Z
+updated: 2025-01-13T00:55:53.390Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Turing Test?
 
 ![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
@@ -49,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Drawbacks of the Turing Test
 
  Although the Turing Test aims to find if machines can think, there are some drawbacks.
@@ -60,17 +68,21 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the last ten years, there have been two main claims that the Turing Test has been passed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Eugene Goostman
@@ -91,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Advancement of Computer Intelligence
 
  In recent years, artificial intelligence has seen major advancements. The public spotlight has been focused on ChatGPT since its official launch in November 2022\. Furthermore, [Google introduced its generative AI, Bard](https://www.makeuseof.com/google-bard-first-impressions/). This is currently available to users in the UK and the United States.
@@ -103,19 +111,11 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if [AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### ChatGPT
 
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.
 
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Turing Test Has Not Been Definitively Passed
 
@@ -144,22 +144,16 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-exploring-advanced-techniques-making-a-difference-with-your-slow-motion-images-on-instagram/"><u>[New] 2024 Approved Exploring Advanced Techniques Making a Difference with Your Slow Motion Images on Instagram</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-tricks-for-enhanced-video-quality-via-nvidia-for-2024/"><u>[New] Tricks for Enhanced Video Quality via NVIDIA for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-million-token-breakthrough-in-geminis-saga/"><u>$1 Million Token Breakthrough in Gemini's Saga</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-essential-manual-for-youtube-to-gif-conversion-online/"><u>2024 Approved The Essential Manual for YouTube-to-GIF Conversion Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/31-maximizing-email-potential-with-chatgpt-and-inbox-summarizers/"><u>31 Maximizing Email Potential with ChatGPT & Inbox Summarizers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-ingenious-ways-to-leverage-chatgpt-for-employment/"><u>5 Ingenious Ways to Leverage ChatGPT for Employment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-ai-powered-pdf-tools-unveiled-by-gpt/"><u>6 AI Powered PDF Tools Unveiled by GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-reasons-to-view-snapchats-ai-as-essential-not-extras/"><u>6 Reasons to View Snapchat's AI as Essential, Not Extras</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/7-effective-fixes-for-utorrent-crashing-or-not-responding-issues/"><u>7 Effective Fixes for uTorrent Crashing or Not Responding Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-essential-free-ai-apps-for-email-crafting/"><u>8 Essential Free AI Apps for Email Crafting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-closer-look-at-how-gptzero-detects-non-human-writers/"><u>A Closer Look at How GPTZero Detects Non-Human Writers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-step-by-step-guide-to-utilizing-openais-language-power/"><u>A Step-by-Step Guide to Utilizing OpenAI’s Language Power</u></a></li>
-<li><a href="https://techidaily.com/elevate-whatsapp-conversations-top-tips-for-creative-message-formatting/"><u>Elevate WhatsApp Conversations: Top Tips for Creative Message Formatting</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-common-problems-when-using-iphone-guided-access-mode/"><u>How to Fix Common Problems when Using iPhone Guided Access Mode</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-itel-s23plus-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Itel S23+ by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-silence-a-how-to-for-fixing-pc-microphone-issues-during-zoom-sessions/"><u>Overcoming Silence: A How-To for Fixing PC Microphone Issues During Zoom Sessions</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/reedom-of-filmmaking-top-android-video-editing-apps-for-2024/"><u>The Freedom of Filmmaking Top Android Video Editing Apps for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-master-list-of-leading-free-screen-capture-programs/"><u>[New] Master List of Leading Free Screen Capture Programs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sharpening-zoom-visuals-immediate-upgrades/"><u>[Updated] Sharpening Zoom Visuals Immediate Upgrades</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2022-pc-version-stops-working-troubleshooting-tips-and-solutions/"><u>Football Manager 2022 PC Version Stops Working: Troubleshooting Tips and Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-fix-exodus-for-your-kodi-device-following-the-latest-july-2020-patch/"><u>How to Fix Exodus for Your Kodi Device Following the Latest July 2020 Patch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-fix-the-error-windows-installation-failure-on-non-gpt-drives/"><u>How to Fix the Error: Windows Installation Failure on Non-GPT Drives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-fix-windows-keyboard-keys-that-wont-unstick-a-comprehensive-guide/"><u>How to Fix Windows Keyboard Keys That Won't Unstick: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-link-laptop-and-tv-via-hdmi-a-comprehensive-tutorial-including-visuals/"><u>How to Link Laptop and TV via HDMI – A Comprehensive Tutorial Including Visuals</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-depth-tutorial-on-syncing-beats-audio-with-a-windows-11-pc-problems-solved/"><u>In-Depth Tutorial on Syncing Beats Audio with a Windows 11 PC (Problems Solved)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/transform-your-videos-top-mp4-to-mp3-conversion-tools-for-2024/"><u>Transform Your Videos Top MP4 to MP3 Conversion Tools for 2024</u></a></li>
 </ul></div>
 

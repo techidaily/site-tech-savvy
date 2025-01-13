@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Enhancements Required for Android to Elevate Its Competition with Apple's iOS: Insights From ZDNet"
-date: 2025-01-01T05:40:27.488Z
-updated: 2025-01-06T09:38:30.357Z
+date: 2025-01-10T19:59:43.803Z
+updated: 2025-01-12T16:20:24.374Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,20 +126,22 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-properly-posted-tweets-with-professional-videos/"><u>[New] 2024 Approved Properly Posted Tweets with Professional Videos</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-mastering-youtube-craft-your-ultimate-music-collection/"><u>[New] In 2024, Mastering YouTube Craft Your Ultimate Music Collection</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-comprehensive-introduction-to-openai/"><u>A Comprehensive Introduction to OpenAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-tale-of-three-ais-facing-the-same-crafted-prompts/"><u>A Tale of Three AI's Facing the Same Crafted Prompts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721392929306-cut-the-red-tape-speak-to-chatgpt/"><u>Cut the Red Tape – Speak to ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721373899048-dont-fall-for-the-google-bard-scam-its-dangerous/"><u>Don't Fall for the Google Bard Scam, It's Dangerous!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721416691577-exciting-times-for-everyone-gpt-4-is-now-free-plus-still-shines-with-6-benefits/"><u>Exciting Times for Everyone: GPT-4 Is Now Free; Plus Still Shines with 6 Benefits.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721430217196-gpt-3-unveils-game-changing-upgrades-key-highlights/"><u>GPT-3 Unveils Game-Changing Upgrades: Key Highlights!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y78t-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y78t to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-audio-visual-choreography-for-viral-content/"><u>In 2024, Audio-Visual Choreography for Viral Content</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-key-concepts-of-interactive-storytelling/"><u>In 2024, Key Concepts of Interactive Storytelling</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-editing-movie-maker-on-w11-in-detail/"><u>In 2024, Mastering the Art of Editing Movie Maker on W11 in Detail</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721370727220-mobile-phone-is-50-ransomware-decryption-explained-and-chatgpt-writes-our-podcast/"><u>Mobile Phone Is 50, Ransomware Decryption Explained, and ChatGPT Writes Our Podcast</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-attempted-token-access-error-on-windows-systems/"><u>Resolving Attempted Token Access Error on Windows Systems</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-navigating-to-the-leading-free-accurate-srt-translators-online-for-2024/"><u>[New] Navigating to the Leading Free, Accurate SRT Translators Online for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blitz-photo-screening-for-windows-users/"><u>Blitz Photo Screening for Windows Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-ps4-controller-colors-interpreting-blue-white-red-and-orange-blinks/"><u>Decoding PS4 Controller Colors: Interpreting Blue, White, Red, and Orange Blinks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enhance-your-engagement-on-youtube-with-text-emphasis-techniques-strikethrough-bold-and-italic-methods/"><u>Enhance Your Engagement on YouTube with Text Emphasis Techniques: Strikethrough, Bold, and Italic Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-restart-your-ps4-after-safe-mode-activation-a-comprehensive-guide/"><u>How to Restart Your PS4 After Safe Mode Activation – A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-take-screenshots-on-lenovo-laptop/"><u>How to Take Screenshots on Lenovo Laptop</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x7b-phone-without-password-by-drfone-android/"><u>How To Unlock Honor X7b Phone Without Password?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hp-drivers-for-windows-10-download-easily/"><u>HP Drivers for Windows 10. Download Easily</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-lava-agni-2-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Lava Agni 2 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/latest-features-and-enhancements-in-windows-10-creators-update-insider-preview-version-1503-what-to-expect/"><u>Latest Features and Enhancements in Windows 10 Creator’s Update (Insider Preview Version 1503) - What to Expect</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-the-process-resetting-your-windows-7-machine-fully-formatting-without-external-support/"><u>Master the Process: Resetting Your Windows 7 Machine Fully Formatting Without External Support</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-crash-log-analysis-for-troubleshooting-windows-issues/"><u>Mastering Crash Log Analysis for Troubleshooting Windows Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-minecraft-experience-on-advanced-systems-pro-tips-to-resolve-low-fps-issues-new-guide/"><u>Maximize Your Minecraft Experience on Advanced Systems: Pro Tips to Resolve Low FPS Issues (New Guide)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-excel-at-using-adobe-premiere-pro-software-for-splitting-videos-and-audio-learn-about-splitting-a-video-and-audio-using-dif/"><u>New 2024 Approved Do You Want to Excel at Using Adobe Premiere Pro Software for Splitting Videos and Audio? Learn About Splitting a Video and Audio Using Different Tools and Add a New Skill to Your Skillset with a Step-by-Step Guide in This Article</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-and-simple-methods-for-refreshing-graphics-drivers-on-a-windows-pc/"><u>Quick and Simple Methods for Refreshing Graphics Drivers on a Windows PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/quick-setup-for-hosting-online-seminars-on-pcmac/"><u>Quick Setup for Hosting Online Seminars on PC/Mac</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/1725289193202-winxvideo-ai/"><u>Winxvideo AI로 비디오 향상: 최고의 품질에 도전하세요!</u></a></li>
 </ul></div>
 

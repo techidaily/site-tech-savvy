@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Guide: Setting up Auto-GPT Automation"
-date: 2024-12-30T20:24:37.742Z
-updated: 2025-01-06T04:54:16.049Z
+date: 2025-01-11T19:31:09.581Z
+updated: 2025-01-12T21:19:30.692Z
 tags:
   - chatgpt
   - open-ai
@@ -75,6 +75,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Creating OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-get-api-key.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once copied, paste the key inside the **.env** file. The env file will store all the API keys that you use with Auto-GPT. If you don't need a backend vector database like Pinecone, your OpenAI API key should be enough to use Auto-GPT.
 
  To set your API key, open the **.env** file using nano:
@@ -90,6 +94,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  You must also rename the "**.env.template**" file to only "**.env**". To do so, run:
 
 `sudo mv .env.template .env`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Install Auto-GPT Dependencies on Ubuntu
 
@@ -107,10 +115,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Successful Auto-GPT installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-success.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Congratulations! You have successfully installed and set up Auto-GPT on your Ubuntu machine.
 
 ## How to Use Auto-GPT on Ubuntu
@@ -120,7 +124,7 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 ![Auto-GPT auto mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-auto.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In manual mode, Auto-GPT will ask you to specify a name, a goal, and up to five goals you want the AI assistant to follow while doing its task. This mode allows you to be in control of how your AI assistant will function.
@@ -133,19 +137,11 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Auto-GPT manual mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-manual.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once the name, goals, and role have been provided, your AI assistant will immediately activate and start looping through its thinking and execution process.
 
  Throughout the process, you can view your AI assistant's thoughts, reasoning, plan, criticism, and next action. Its next action will only be executed once you've given your approval.
 
 ![Input-Commands for Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-input-y.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can approve the AI's next action by typing "**y**" for yes. If you don't want the AI to continue with its plans, you can type "**n**" for no and exit.
 
@@ -155,15 +151,19 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Providing human feedback to Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-human-feedback.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once your AI assistant finishes its task, you can view its final output by opening the **/Auto-GPT-x.x.x/autogpt/auto\_gpt\_workspace** directory.
 
 ![Successful Auto-GPT session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/success-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Success! Our AI assistant gave us a list of active promo codes for the mouse we were looking for.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Limitations of Auto-GPT
 
@@ -198,18 +198,22 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-quick-video-recorder-download-and-record-video/"><u>[New] 2024 Approved Quick Video Recorder Download and Record Video</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-ultimate-guide-to-instagram-looping-videos/"><u>[New] In 2024, The Ultimate Guide to Instagram Looping Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-navigating-the-process-of-embedding-vimeo-media-in-ppts/"><u>[New] Navigating the Process of Embedding Vimeo Media in PPTs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveil-images-clearly-10-online-editors-guide/"><u>[Updated] Unveil Images Clearly 10 Online Editors' Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-best-extensions-to-enhance-gpt-and-vs-code/"><u>6 Best Extensions to Enhance GPT and VS Code</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-common-chatgpt-errors-and-their-fixes/"><u>6 Common ChatGPT Errors and Their Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-warnings-for-the-unquestioning-advocate-of-ai/"><u>6 Warnings for the Unquestioning Advocate of AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-innovative-apps-gpt-assisted-file-analysis/"><u>7 Innovative Apps: GPT-Assisted File Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-ways-to-turn-chatgpt-into-a-profitable-business/"><u>8 Ways to Turn ChatGPT Into a Profitable Business</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721425596152-elevate-your-device-experience-smart-ai-search-from-bing/"><u>Elevate Your Device Experience: Smart AI Search From Bing</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-connectivity-with-updated-netgear-a6200-driver/"><u>Enhance Connectivity with Updated Netgear A6200 Driver</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-a56s-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo A56s 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/thrills-and-tires-of-watching-favorite-shows-on-apple-vision-pro-a-surprisingly-glorious-and-odd-encounter-featured/"><u>Thrills and Tires of Watching Favorite Shows on Apple Vision Pro; A Surprisingly Glorious & Odd Encounter, Featured</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-easy-ways-to-add-music-to-imovie-from-youtube/"><u>[New] In 2024, Easy Ways to Add Music to iMovie From YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-focal-point-expose/"><u>[Updated] 2024 Approved Focal Point Exposé</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-professional-mac-gif-recording-top-10-picks/"><u>[Updated] In 2024, Professional Mac GIF Recording Top 10 Picks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-step-by-step-guide-private-yt-content-with-google-login/"><u>[Updated] In 2024, Step-by-Step Guide Private YT Content with Google Login</u></a></li>
+<li><a href="https://discover-able.techidaily.com/effortless-browsing-on-amazons-kindle-step-by-step-instructions-for-viewing-web-content/"><u>Effortless Browsing on Amazon's Kindle: Step-by-Step Instructions for Viewing Web Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-your-approach-harnessing-chatgpt-for-persuasive-proposals/"><u>Elevating Your Approach: Harnessing ChatGPT for Persuasive Proposals</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oneplus-11-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from OnePlus 11 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inclusivity-in-ai-how-gpt-4-becomes-universal/"><u>Inclusivity in AI: How GPT-4 Becomes Universal</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-tech-a-tour-of-toms-hardware-corner/"><u>Navigating the Latest Tech: A Tour of Tom's Hardware Corner</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/no-more-illusions-stop-the-google-bard-fake-news/"><u>No More Illusions: Stop the Google Bard Fake News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/steer-clear-the-risky-google-bard-download-warning/"><u>Steer Clear: The Risky Google Bard Download Warning</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210726699-9781250897855-the-book-of-hermetica/"><u>The Book of Hermetica | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-case-against-why-organizations-banish-chatgpts-services/"><u>The Case Against: Why Organizations Banish ChatGPT's Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-pros-and-cons-of-using-chatgpt-for-creative-writing/"><u>The Pros and Cons of Using ChatGPT for Creative Writing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-secrets-join-the-realm-of-4-ai-powered-mystery-games/"><u>Unlock Secrets: Join the Realm of 4 AI-Powered Mystery Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/updated-information-from-chatgpt-for-mass-audience/"><u>Updated Information From ChatGPT for Mass Audience</u></a></li>
 </ul></div>
 

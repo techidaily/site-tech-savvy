@@ -1,7 +1,7 @@
 ---
 title: Navigating Workflow Changes with AI Tech
-date: 2024-09-06T23:30:18.319Z
-updated: 2024-09-07T23:30:18.319Z
+date: 2025-01-12T01:35:58.863Z
+updated: 2025-01-13T00:23:52.892Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Navigating Workflow Changes with AI Tech
 thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4ec8b02f27cbade364686f12.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Navigating Workflow Changes with AI Tech
 
  The increasing popularity of AI is undeniable, but it raises the question of how significant and relevant AI is to a developer's workflow. To shed light on this topic, Stack Overflow surveyed over 90,000 developers, seeking their views on AI. The survey yielded several noteworthy conclusions, as shown below.
@@ -27,17 +21,15 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Overall Sentiments of Developers Towards AI
 
  As mentioned, AI is growing in popularity among developers. According to the [Stack Overflow 2023 survey](https://survey.stackoverflow.co/2023/), 70% are already using or plan to use AI tools in their development process with 44% already using the tools now and 26% planning to.
 
  The views on AI differ based on the profession and the level of experience of the developer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Profession
 
@@ -51,11 +43,19 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 
  For cloud developers, AI can help optimize infrastructure management by automating processes such as resource allocation, load balancing, monitoring, and performance tuning.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Experience
 
  Developers earlier in their careers and those learning to code are more likely to use AI tools possibly because it improves the speed of learning.
 
  On the other hand, 42.2% of developers with more than 21+ years of experience are less favorable to AI. This may be because they want to see whether the hype surrounding AI will die down before committing to a certain tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Countries
 
@@ -71,15 +71,13 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 
  It’s worth noting that only a few developers are interested in using AI to collaborate with teammates.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Benefits of AI for Developers
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  AI is beneficial to professional developers as well as those learning to code. Overall 33% see an increase in productivity as the most important benefit of using AI. Tools such as GitHub Copilot offer features like code suggestions, auto-completion, and error detection, which can significantly speed up the coding process.
 
@@ -95,12 +93,6 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Stack Overflow surveyed the popularity of various AI tools grouped between AI search tools and AI developer tools. From the data, developers are primarily using two tools, ChatGPT and GitHub Copilot.
 
  Among the AI search tools, ChatGPT is the most popular tool. 79% of developers who use it want to use it again next year. Following closely behind in popularity were Bing AI and Google Bard AI.
@@ -114,41 +106,24 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
  This slow adoption of a wide variety of AI tools can be attributed to skepticism about AI accuracy with only 2.85% of developers highly trusting AI output. This distrust can be attributed to tools like ChatGPT providing incorrect output sometimes. This output, when used, can cause significant damage to an application. When using these tools, it's always a good idea to first verify the output.
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Get Started With AI in Software Development
 
  As a software developer, you can get started with AI by incorporating code generation and editing tools in your development process. [Tools like GitHub Copilot](https://www.makeuseof.com/how-github-copilot-helps-you-code/) and Tabnine suggest code snippets based on the context as you type which can significantly cut down on development time. Additionally, ChatGPT is very useful for generating utility functions, UI components, and debugging code. With the right prompts, you can even [use ChatGPT to create web apps](https://www.makeuseof.com/chatgpt-how-build-web-app/).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Future of AI-Assisted Software Development
 
  Although many developers agree AI is a beneficial tool in their workflow, only a few are ready to fully trust AI tools to code their entire application. However, AI is certainly changing how developers build applications. By leveraging AI tools, developers can streamline different stages of development including writing code, testing, debugging, and code review. As a result, they can significantly optimize the development life cycle.
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,4 +132,21 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/oosted-audio-visual-experience-choose-av1-on-youtube/"><u>[New] Boosted Audio-Visual Experience Choose AV1 on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-extracting-youtube-srt-step-by-step-strategies-for-successful-download/"><u>[New] Extracting YouTube SRT Step-by-Step Strategies for Successful Download</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-achieve-smooth-aquatic-vids-with-these-seven-steps/"><u>[Updated] Achieve Smooth Aquatic Vids with These Seven Steps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-androids-best-artistic-tools-top-10-creative-graphics-apps/"><u>[Updated] Android's Best Artistic Tools Top 10 Creative Graphics Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/behind-the-scenes-how-llms-transform-data/"><u>Behind the Scenes: How LLMs Transform Data</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-functions-7-apps-with-gpt-4/"><u>Demystifying Functions: 7 Apps with GPT-4</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-lexars-ultimate-performance-a-comparative-review-of-the-versatile-sl500-and-pro-sl600-revealed-pushing-limits-at-20-gigabit-speeds/"><u>Exploring Lexar’s Ultimate Performance: A Comparative Review of the Versatile SL500 and Pro SL60^0 Revealed, Pushing Limits at 20 Gigabit Speeds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-high-quality-edge-max-360-vs-hero-11-for-2024/"><u>Exploring the High-Quality Edge Max 360 vs Hero 11 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-standard-to-supreme-mastering-sdr-to-hdr-video-upgrade-for-2024/"><u>From Standard to Supreme Mastering SDR-to-HDR Video Upgrade for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hands-on-review-of-esr-halolock-multipurpose-card-wallet-with-compatible-phone-stand-a-perfect-match-for-your-iphone/"><u>Hands-On Review of ESR HaloLock Multipurpose Card Wallet with Compatible Phone Stand - A Perfect Match for Your iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-depth-review-of-the-new-ipad-air-featuring-apples-advanced-m2-chip-the-ideal-tablet-option-as-endorsed-by-zdnet/"><u>In-Depth Review of the New iPad Air Featuring Apple's Advanced M2 Chip: The Ideal Tablet Option, as Endorsed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-the-future-of-ai-on-your-iphone/"><u>Navigate the Future of AI on Your iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-integration-leading-apps-for-ai-interaction-records/"><u>Seamless Integration - Leading Apps for AI Interaction Records</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-button-mapping-for-controller-gameplay/"><u>Step-by-Step: Button Mapping for Controller Gameplay</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Decision: Which Bot Will Triumph?"
-date: 2024-09-06T23:30:21.791Z
-updated: 2024-09-07T23:30:21.791Z
+date: 2025-01-10T18:40:45.300Z
+updated: 2025-01-12T21:30:28.209Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes The Ultimate Decision: Which Bot Will Triumph?"
 thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5ad463dfb82faf3689dc358c1.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Ultimate Decision: Which Bot Will Triumph?
 
  Most of the credit for the boom in artificial intelligence goes to OpenAI, as it has opened the doors for other companies. Perplexity is based on OpenAI's GPT technology but is trained specifically as a chatbot.
@@ -29,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 
  With that in mind, let's pit the two against each other across various categories (like base technology, response quality, and stability) to determine which is better trained to be your virtual chatting/research assistant.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Technology (GPT-3 vs. GPT-4)
 
  The difference in language models is immediately where things get interesting. ChatGPT's free version gives you access to GPT-3.5, the large language model that most of us are familiar with now. Upgrading to the Plus version gives you access to GPT-4, [a more impressive language model than its predecessor](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/).
@@ -44,11 +32,9 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
  This **Copilot** mode is powered by GPT-4, but you are limited to five prompts every four hours. ChatGPT Plus has a similar restriction, as you are limited to 25 prompts every three hours.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Functionality
 
 ![ChatGPT plugin gallery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugins.jpg)
@@ -59,15 +45,13 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 
 ![Perplexity homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-homepage.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Perplexity AI is more of a search engine that provides suggestions and sources in response to your queries. It is designed to search the web in real-time to provide up-to-date information on various topics. The new GPT-4 powered Copilot feature is also useful as it can guide your search experience with interactive inputs to tailor personalized responses.
 
  Both of them are useful AI tools for entirely different purposes. Perplexity is a great free tool for conducting research, while ChatGPT can help you summarize that research and make it presentable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Pricing
 
@@ -77,27 +61,19 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 
  Then again, [ChatGPT Plus is still well worth the money](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), especially if you want access to GPT-4 and priority access to new features. There's no clear winner here, as Perplexity is also worth trying out, considering it's free.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Responses
 
  To compare the performance in terms of responses, we conducted a series of tests between the two chatbots. We presented the same questions to both language models for a better analysis.
 
 ![ChatGPT 4 response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-4-response.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The tests revealed that ChatGPT Plus consistently outperformed Perplexity by providing detailed and clear responses. In addition, it demonstrated a superior ability to provide well-reasoned and elaborative answers.
 
 ![Perplexity AI response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-response.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Perplexity produced responses of decent quality but lacked the level of clarity and detail exhibited by ChatGPT Plus. However, while the answers might not be elaborate, they are accurate. You'll often find that Perplexity is great at finding sources that help you find the right answers.
 
@@ -117,9 +93,17 @@ Close
 
  The Perplexity app also boasts a voice command feature that allows users to send prompts hands-free. While there are [ways to control ChatGPT Plus with your voice](https://www.makeuseof.com/ways-to-control-chatgpt-with-voice/), there is no official feature that can help you do so.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Speed and Stability
 
 ![ChatGPT Models Speed and Stability](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-models-speed-and-stability.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Perplexity AI is noticeably faster than any other chatbot or AI search engine. The GPT-3 version quickly searches the web and curates a response inspired by different sources. This ability to access real-time information makes it faster than ChatGPT.
 
@@ -127,18 +111,6 @@ Close
 
  Both of these chatbots are also matched in terms of stability. OpenAI gives priority access to Plus subscribers, so you can access the service even during peak usage hours. Perplexity AI has a relatively smaller user base, and stability issues aren't something to worry about.
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Comparison With Bing
 
  Microsoft's investment in OpenAI allowed them to incorporate a version of GPT-4 into Bing. Bing Chat is their newest AI-powered chatbot/search engine, which has been highly impressive. You can use it on the web and phone by downloading the Bing AI app.
@@ -147,12 +119,6 @@ Close
 
  Unfortunately, it still feels like a beta version at the moment. Microsoft is being cautious with its approach, and this means that Bing Chat simply won't respond to prompts it considers "controversial." However, it's still worth trying out as it's free.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Plus vs. Perplexity: Two Impressively Different Chatbots
 
  Both ChatGPT Plus and Perplexity offer unique features and advantages if you want to elevate your writing, coding, or research projects. While ChatGPT Plus is more versatile and outputs better responses, Perplexity is just as useful because it can search the web in real time.
@@ -163,14 +129,11 @@ Close
 
  With that in mind, let's pit the two against each other across various categories (like base technology, response quality, and stability) to determine which is better trained to be your virtual chatting/research assistant.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -179,4 +142,16 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-complete-archive-of-high-quality-online-workshops/"><u>[Updated] 2024 Approved The Complete Archive of High-Quality Online Workshops</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/easy-guide-mastering-the-art-of-creating-an-iso-file-from-a-dvd-using-top-rated-software/"><u>Easy Guide: Mastering the Art of Creating an ISO File From a DVD Using Top-Rated Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-5-leading-chatbot-aid-for-mental-healing/"><u>Exploring 5 Leading ChatBot Aid for Mental Healing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-gpt-3-to-claudio-3-identifying-the-top-4-technological-leaps/"><u>From GPT-3 to Claudio 3: Identifying The Top 4 Technological Leaps</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reveldataxtract-expert-raid-recovery-services/"><u>RevelDataXtract: Expert RAID Recovery Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shop-the-future-of-smartwatches-score-an-apple-watch-series-10-for-just-99-by-preordering-at-best-buy-a-comprehensive-guide/"><u>Shop the Future of Smartwatches: Score an Apple Watch Series 10 for Just $99 by Preordering at Best Buy – A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mlining-song-selection-for-youtube-playlist-curation/"><u>Streamlining Song Selection for YouTube Playlist Curation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-5-essential-vocal-commands-that-maximize-your-ai-interaction/"><u>The 5 Essential Vocal Commands That Maximize Your AI Interaction</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-list-top-frame-addition-services-for-images/"><u>Updated List Top Frame Addition Services for Images</u></a></li>
+</ul></div>
 

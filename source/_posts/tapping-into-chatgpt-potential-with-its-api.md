@@ -1,7 +1,7 @@
 ---
 title: Tapping Into ChatGPT Potential with Its API
-date: 2025-01-04T17:07:32.523Z
-updated: 2025-01-06T10:27:24.993Z
+date: 2025-01-08T18:55:46.467Z
+updated: 2025-01-12T19:59:05.994Z
 tags:
   - chatgpt
   - open-ai
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/dab2ef0415897bd2885169e6ea9bd44d0885cdc86
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -48,7 +44,15 @@ thumbnail: https://thmb.techidaily.com/dab2ef0415897bd2885169e6ea9bd44d0885cdc86
 4. You won't be able to view the API key again, so copy it and store it somewhere safe.  
 ![OpenAI API Key Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/openai-api-key-page.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The code used in this project is available in a [GitHub repository](https://github.com/makeuseofcode/ChatGPT-API-Sample-Code) and is free for you to use under the MIT license.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Setting Up the Development Environment
 
@@ -66,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/dab2ef0415897bd2885169e6ea9bd44d0885cdc86
  Make sure you do not accidentally share your API key via version control. [Add a .gitignore file](https://www.makeuseof.com/what-is-a-gitignore-file-and-how-can-you-make-one/) to your project’s root directory and add ".env" to it to ignore the dotenv file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Making ChatGPT API Requests
@@ -172,7 +176,11 @@ print(response.choices [0].message.content)`
 ![A poem on programmers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a-poem-on-programmers.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT API Pricing
@@ -190,6 +198,10 @@ print(response.choices [0].message.content)`
 | gpt-3.5-turbo-instruct    | $0.0015 / 1K tokens | $0.0020 / 1K tokens |
 
  Note that the pricing may change over time with improvements in the model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Build Next Generation Apps Using the ChatGPT API
 
@@ -217,6 +229,10 @@ print(response.choices [0].message.content)`
 
  The code used in this project is available in a [GitHub repository](https://github.com/makeuseofcode/ChatGPT-API-Sample-Code) and is free for you to use under the MIT license.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Setting Up the Development Environment
 
  You can use the API endpoint directly or take advantage of the **openai** Python/JavaScript library to start building ChatGPT API-powered applications. This guide uses Python and the [openai-python](https://github.com/openai/openai-python) library.
@@ -241,10 +257,6 @@ print(response.choices [0].message.content)`
  The ChatGPT API is primarily optimized for chat but it also works well for text completion tasks. Whether you want to generate code, translate languages, or draft documents, this API can handle it all.
 
  To get access to the GPT-4 API, you need to make a successful payment of $1 or more. Otherwise, you might get an error similar to "The model \`gpt-4\` does not exist or you do not have access to it."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Using the API for Chat Completion
 
@@ -272,10 +284,6 @@ response = client.chat.completions.create(
  The ChatGPT API sends a response in the following format:
 
 ![ChatGPT API output response format](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-api-output-response-format.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can extract the content from the response, as a JSON string, with this code:
 
@@ -358,6 +366,10 @@ print(response.choices [0].message.content)`
 
  Note that the pricing may change over time with improvements in the model.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Build Next Generation Apps Using the ChatGPT API
 
  The ChatGPT API has opened gates for developers around the world to build innovative products with the power of AI.
@@ -398,10 +410,6 @@ print(response.choices [0].message.content)`
 `OPENAI_API_KEY="YOUR_API_KEY"`
 
  Make sure you do not accidentally share your API key via version control. [Add a .gitignore file](https://www.makeuseof.com/what-is-a-gitignore-file-and-how-can-you-make-one/) to your project’s root directory and add ".env" to it to ignore the dotenv file.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Making ChatGPT API Requests
 
@@ -464,10 +472,6 @@ response = client.chat.completions.create(
 
 ![Temperature parameter of ChatGPT API](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/temperature-parameter-of-chatgpt-api-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Like ChatGPT, the API also has a word limit. Use the **max\_tokens** parameter to limit the length of responses. Be aware that setting a lower **max\_tokens** value can cause issues as it may cut off the output mid-way.
 
  At the time of writing, the **gpt-3.5-turbo** model has a token limit of 4,096, while **gpt-4**'s is 8,192\. The latest **gpt-3.5-turbo-0125** and **gpt-4-turbo-preview** models have limits of 16,385 and 128,000 respectively.
@@ -475,10 +479,6 @@ response = client.chat.completions.create(
  After high demand from developers, OpenAI has introduced JSON mode which instructs the model to always return a JSON object. You can enable JSON mode by setting **response\_format** to **{ "type": "json\_object" }**. Currently, this feature is only available to the latest models: gpt-3.5-turbo-0125 and gpt-4-turbo-preview.
 
  You can further configure the model using the other parameters provided by [OpenAI](https://platform.openai.com/docs/api-reference/chat/create).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Using the ChatGPT API for Text Completion
 
@@ -514,7 +514,7 @@ print(response.choices [0].message.content)`
 ![A poem on programmers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a-poem-on-programmers.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT API Pricing
@@ -584,6 +584,10 @@ print(response.choices [0].message.content)`
 
  To get access to the GPT-4 API, you need to make a successful payment of $1 or more. Otherwise, you might get an error similar to "The model \`gpt-4\` does not exist or you do not have access to it."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Using the API for Chat Completion
 
  You need to configure the chat model to get it ready for an API call. Here’s an example:
@@ -610,10 +614,6 @@ response = client.chat.completions.create(
  The ChatGPT API sends a response in the following format:
 
 ![ChatGPT API output response format](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-api-output-response-format.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can extract the content from the response, as a JSON string, with this code:
 
@@ -717,22 +717,16 @@ print(response.choices [0].message.content)`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhanced-engagement-with-effective-youtube-video-outros-strategies/"><u>[New] 2024 Approved Enhanced Engagement with Effective YouTube Video Outros Strategies</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-youtube-banners-makers-10plus-online-tools-to-create-channel-art/"><u>[New] In 2024, Youtube Banners Makers 10+ Online Tools to Create Channel Art</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-treasure-trove-of-premium-youtube-images-from-6-websites/"><u>[Updated] 2024 Approved A Treasure Trove of Premium YouTube Images From 6 Websites</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-2024s-elite-shotters-pick-ranked-1-10-camera-lenses/"><u>[Updated] 2024’S Elite Shotters’ Pick Ranked #1-10 Camera Lenses</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-secrets-to-polished-photo-edits-in-canva/"><u>[Updated] The Secrets to Polished Photo Edits in Canva</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-capturing-motion-spectacle-with-polaroid-camplus-cube/"><u>2024 Approved Capturing Motion Spectacle with Polaroid Cam+ Cube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-selection-of-moving-typefaces/"><u>2024 Approved Premier Selection of Moving Typefaces</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/4-pioneering-ways-ai-elevates-study-habits/"><u>4 Pioneering Ways AI Elevates Study Habits</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-easy-chatgpt-strategies-for-finding-employment/"><u>5 Easy ChatGPT Strategies for Finding Employment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-beginners-guide-to-integrating-latest-chatgpt-add-ons/"><u>A Beginner's Guide to Integrating Latest ChatGPT Add-Ons</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-complete-walkthrough-for-gpt-3s-beta-features/"><u>A Complete Walkthrough for GPT-3's Beta Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-linguistic-enigma-solved-interpreting-chatgpts-programming-puzzle/"><u>A Linguistic Enigma Solved: Interpreting ChatGPT's Programming Puzzle</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-guide-to-full-battery-indicators-in-win-oses/"><u>Advanced Guide to Full Battery Indicators in Win OSes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721421451434-enhanced-accuracy-in-every-click-bings-ai-driven-search-on-devices/"><u>Enhanced Accuracy in Every Click: Bing’s AI-Driven Search on Devices.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721423072362-free-gpt-4-available-to-everyone-dont-overlook-the-6-platinum-perks/"><u>Free GPT-4 Available to Everyone! Don't Overlook the 6 Platinum Perks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721384309754-no-emoji-tweets-ahead-linuss-unveiled-secrets-trojan-analysis-and-chatgpt-shortfalls/"><u>No Emoji Tweets Ahead, Linus's Unveiled Secrets, Trojan Analysis, & ChatGPT Shortfalls.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-infinix-hot-40-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Infinix Hot 40 Pro to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-climb-the-fame-hierarchy-on-instagram-discovering-9-game-changing-tips/"><u>[New] Climb the Fame Hierarchy on Instagram Discovering #9 Game-Changing Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-laugh-out-loud-a-step-by-step-meme-building/"><u>[Updated] 2024 Approved Laugh Out Loud A Step-by-Step Meme Building</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-complete-mobizen-users-handbook-for-screen-capturing/"><u>2024 Approved The Complete Mobizen User's Handbook for Screen Capturing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-vpns-facilitate-chatgpt-engagements/"><u>Can VPNs Facilitate ChatGPT Engagements?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-legal-boundaries-in-ai-tool-deployment-the-job-fear/"><u>Deciphering Legal Boundaries in AI Tool Deployment - The Job Fear</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enterprise-transformation-post-gpt-whisper-apis-launch/"><u>Enterprise Transformation Post GPT, Whisper APIs Launch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/extract-digest-and-understand-4-advanced-tips-for-chatgpt-and-pdfs/"><u>Extract, Digest & Understand: 4 Advanced Tips for ChatGPT and PDFs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oppo-f23-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Oppo F23 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/soothing-evening-flower-imagery-for-desktop-backgrounds-from-yl-software-find-your-zen-with-our-collection/"><u>Soothing Evening Flower Imagery for Desktop Backgrounds From YL Software – Find Your Zen with Our Collection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swift-steps-to-resolve-6-predicaments-in-gpt-communication/"><u>Swift Steps to Resolve 6 Predicaments in GPT Communication</u></a></li>
+<li><a href="https://extra-information.techidaily.com/vives-discomfort-follow-these-motion-sickness-fixes/"><u>Vive's Discomfort? Follow These Motion Sickness Fixes</u></a></li>
 </ul></div>
 

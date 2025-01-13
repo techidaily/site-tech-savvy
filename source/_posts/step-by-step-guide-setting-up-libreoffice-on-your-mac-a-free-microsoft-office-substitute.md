@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting up LibreOffice on Your Mac - A FREE Microsoft Office Substitute!"
-date: 2025-01-04T05:25:05.153Z
-updated: 2025-01-05T19:00:07.217Z
+date: 2025-01-10T00:00:15.220Z
+updated: 2025-01-12T17:46:36.729Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ iTunes is dead. iTunes has been dead since 2019\. Alas, poor iTunes, we knew you
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -40,7 +40,7 @@ But iTunes is dead. Actually, that's not entirely true. Its ghost lingers on. Ap
 Apple Music hasn't been tied to iTunes for account management since 2019\. Now, for those of us who have moved on from our iTunes days, we can cancel an Apple Music subscription either from the web or from iOS device Settings. Let's look at both. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your Web browser
@@ -60,7 +60,7 @@ David Gewirtz/Screenshot
 Once you're on the Manage screen, choose Cancel Subscription. That should do it for you. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your iPhone or iPad
@@ -121,20 +121,18 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enchanting-vistas-thumbnail-visuals/"><u>[New] 2024 Approved Enchanting Vistas Thumbnail Visuals</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-budget-pc-video-capture-tools-assessed/"><u>[New] In 2024, Budget PC Video Capture Tools Assessed</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-owning-your-sound-instagrams-ip-framework-for-2024/"><u>[New] Owning Your Sound Instagram's IP Framework for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-turbocharge-fb-video-speed-selective-extensions-and-apps-guidebook/"><u>[Updated] In 2024, Turbocharge FB Video Speed Selective Extensions & Apps Guidebook</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-is-it-illegal-to-screen-capture-youtube-videos/"><u>[Updated] Is It Illegal to Screen-Capture YouTube Videos?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-transforming-youtube-footage-the-essentials-of-wm-maker-use-for-2024/"><u>[Updated] Transforming YouTube Footage The Essentials of WM Maker Use for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-streaming-success-capturing-dota-2s-epic-battles-2enas/"><u>2024 Approved Streaming Success Capturing Dota 2'S Epic Battles (2Enas)</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/commanding-conversations-innovative-language-programs/"><u>Commanding Conversations: Innovative Language Programs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-edge-assistance-embrace-8-customized-models/"><u>Cutting-Edge Assistance: Embrace 8 Customized Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dont-fall-for-the-google-bard-scam-its-dangerous/"><u>Don't Fall for the Google Bard Scam, It's Dangerous</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-the-mindset-why-hackers-target-gpt-users/"><u>Inside the Mindset: Why Hackers Target GPT Users?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/professionals-guide-discovering-the-6-most-critical-benefits-of-chatgpt/"><u>Professionals' Guide: Discovering the 6 Most Critical Benefits of ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/superior-prompt-quality-vs-expense-a-value-insight/"><u>Superior Prompt Quality vs Expense: A Value Insight?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synergy-in-simplicity-the-most-effective-5-ai-prompts-craftors/"><u>Synergy in Simplicity: The Most Effective 5 AI Prompts Craftors</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/winx-media-convert-pro-top-rated-dvd-to-mp4-ripper-and-converter-for-pc-and-mobile-devices/"><u>WinX Media Convert Pro: Top-Rated DVD to MP4 Ripper & Converter for PC and Mobile Devices</u></a></li>
+<li><a href="https://discover-able.techidaily.com/3-effective-methods-to-restore-deleted-driver-files-on-windows-11/"><u>3 Effective Methods to Restore Deleted Driver Files on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-integration-on-meta-quest-3-outpaces-apples-vision-pro-activate-now-detailed-tutorial/"><u>AI Integration on Meta Quest 3 Outpaces Apple's Vision Pro - Activate Now! Detailed Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-apples-enhanced-airpods-top-4-new-features-unveiled/"><u>Discover Apple's Enhanced AirPods: Top 4 New Features Unveiled!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-guide-why-protecting-your-privacy-with-a-vpn-is-crucial-for-vision-pro-and-similar-xr-devices/"><u>Essential Guide: Why Protecting Your Privacy with a VPN Is Crucial for Vision Pro and Similar XR Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-to-diy-vr-headgear-crafting-a-personalized-google-model-for-2024/"><u>Guide to DIY VR Headgear Crafting a Personalized Google Model for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-snapchat-selfie-aspect-ratios/"><u>In 2024, Snapchat Selfie Aspect Ratios</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-poco-x6-pro-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Poco X6 Pro Users</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-samsung-galaxy-tab-a-2020-identifying-the-critical-omitted-functionality/"><u>In-Depth Analysis of Samsung Galaxy Tab A (2020): Identifying the Critical Omitted Functionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/masterclass-crafting-an-optimized-gaming-pc-that-doubles-as-a-prolific-chia-miner/"><u>Masterclass: Crafting an Optimized Gaming PC That Doubles as a Prolific Chia Miner</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/picking-the-perfect-phone-for-your-child-safe-tech-choices-revealed/"><u>Picking the Perfect Phone for Your Child: Safe Tech Choices Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-powerful-iphone-features-using-secret-voice-triggers-ultimate-guide/"><u>Unleash Powerful iPhone Features Using Secret Voice Triggers - Ultimate Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/witty-wordsmiths-war-chatgpt-vs-the-wise-bard/"><u>Witty Wordsmiths' War: ChatGPT Vs. The Wise Bard</u></a></li>
 </ul></div>
 

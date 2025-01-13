@@ -1,7 +1,7 @@
 ---
 title: Python & GPT-3 Integration Techniques
-date: 2025-01-04T22:43:20.095Z
-updated: 2025-01-06T04:09:53.716Z
+date: 2025-01-07T21:03:41.499Z
+updated: 2025-01-12T19:21:31.599Z
 tags:
   - chatgpt
   - open-ai
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 
  If you're wondering what GPT-3 is capable of, then you can explore some of the [creative uses for GPT-3 in OpenAI Playground](https://www.makeuseof.com/creative-uses-for-gpt-3-openai-playground/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Generating the API Key
 
  To use GPT-3 with Python you need to generate an API key. To view your API key, follow these steps:
@@ -52,16 +48,20 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 3. Click on **Create new secret key** to generate your API key.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Create Secret API Screen of OpenAI website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/create-secret-api-screen-of-openai-website.jpg)
 4. Copy your API key and keep it in a secure location as you won't be able to view it again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  OpenAI's GPT-3 API charges you based on the number of tokens (words) you use to interact with it. Luckily, OpenAI provides $18 of credit for free for the first three months, so you can explore it and experiment according to your needs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Building a Python Program to Use the GPT-3 API
@@ -109,7 +109,7 @@ main()`
  Put it all together and use Artificial Intelligence to answer your questions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Output of Your GPT-3-Enabled Python Program
@@ -119,7 +119,7 @@ main()`
 ![Output of using GPT3 with Python](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/output-of-using-gpt3-with-python.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-3 Has Many Interesting Applications
@@ -147,18 +147,16 @@ main()`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-perfecteraser-premium-bg-erase-software/"><u>[New] PerfectEraser Premium BG Erase Software</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-breakdown-of-steps-perfecting-idevice-video-features-on-youtube/"><u>[Updated] Breakdown of Steps Perfecting iDevice Video Features on YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-expert-picks-the-phones-chosen-editors-for-everyday-use/"><u>1. Expert Picks: The Phones Chosen Editors for Everyday Use</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-urban-pursuit-without-the-need-for-gta/"><u>2024 Approved Urban Pursuit Without the Need for GTA</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-perfection-our-curated-list-of-best-tools-for-prompts/"><u>Artificial Intelligence Perfection: Our Curated List of Best Tools for Prompts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-change-the-user-profile-folder-name-in-windows-11/"><u>How to Change the User Profile Folder Name in Windows 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-install-intel-usb-30-drivers-on-your-windows-10-computer-download-now/"><u>How to Install Intel USB 3.0 Drivers on Your Windows 10 Computer - Download Now</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-samsung-galaxy-a34-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Samsung Galaxy A34 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-research-the-chatgpt-approach/"><u>Optimizing Research: The ChatGPT Approach</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/skip-googles-cleverly-coded-malwarebard-app/"><u>Skip Google’s Cleverly Coded Malware—Bard App</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sneak-peeks-stopped-safeguarding-chatbot-data/"><u>Sneak Peeks Stopped: Safeguarding Chatbot Data</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-essence-of-chatgpt-forging-ai-driven-innovation-pathways/"><u>The Essence of ChatGPT: Forging AI-Driven Innovation Pathways</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-screen-recorder-software-for-youtube-creators-for-2024/"><u>Top Screen Recorder Software For YouTube Creators for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-comprehensive-review-of-ios-free-video-editing-apps/"><u>[Updated] In 2024, Comprehensive Review of iOS Free Video Editing Apps</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-vivid-twitter-visuals-the-journey-to-full-hd-viewing-for-2024/"><u>[Updated] Vivid Twitter Visuals The Journey to Full HD Viewing for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-driven-success-enhancing-your-sites-visibility/"><u>Cookiebot-Driven Success: Enhancing Your Site's Visibility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-fueled-success-enhancing-your-websites-performance/"><u>Cookiebot-Fueled Success: Enhancing Your Website's Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-elevating-website-engagement-through-smart-cookies-and-ai-driven-insights/"><u>Cookiebot: Elevating Website Engagement Through Smart Cookies & AI-Driven Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/drive-more-traffic-with-advanced-personalization-powered-by-the-leading-cookiebot-technology/"><u>Drive More Traffic with Advanced Personalization: Powered by the Leading Cookiebot Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-audience-engagement-through-intelligent-conversational-agents/"><u>Enhanced Audience Engagement Through Intelligent Conversational Agents</u></a></li>
+<li><a href="https://games-able.techidaily.com/linking-headphones-to-ps5-via-bluetooth/"><u>Linking Headphones to PS5 via Bluetooth</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-updating-your-facebook-login-credentials/"><u>Step-by-Step Guide: Updating Your Facebook Login Credentials</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-your-ebooks-step-by-step-tutorial-on-removing-amazons-drm-for-universal-reading-access/"><u>Unlock Your eBooks: Step-by-Step Tutorial on Removing Amazon's DRM for Universal Reading Access</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-mkv-trimmer-software-top-picks/"><u>Updated Free MKV Trimmer Software Top Picks</u></a></li>
 </ul></div>
 

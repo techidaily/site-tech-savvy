@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest and Greatest: Unveiling iOS 18'S Best New Additions - Spotlight"
-date: 2024-12-30T01:06:31.083Z
-updated: 2025-01-05T18:10:35.644Z
+date: 2025-01-07T20:53:58.394Z
+updated: 2025-01-13T01:13:55.972Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,22 +146,22 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-what-you-need-to-know-about-macos-big-sur/"><u>[New] 2024 Approved What You Need to Know About MacOS Big Sur</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-quickening-vimeo-media-load-times/"><u>[New] In 2024, Quickening Vimeo Media Load Times</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-enhancing-obs-on-a-thrifty-computer/"><u>[Updated] Enhancing OBS on a Thrifty Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/20-efficient-applications-for-auto-gpt/"><u>20 Efficient Applications for Auto-GPT</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-premium-sound-selection-optimal-websites-list/"><u>2024 Approved Premium Sound Selection Optimal Websites List</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-unify-instagram-and-facebook-a-step-by-step-guide/"><u>2024 Approved Unify Instagram and Facebook A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-inhibitions-to-gpts-role-in-blockchain-evaluation/"><u>5 Inhibitions to GPT's Role in Blockchain Evaluation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-new-conversational-ai-tools-to-consider-over-openais-chatgpt/"><u>7 New Conversational AI Tools to Consider Over OpenAI’s ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-techniques-to-mitigate-gpt-transmission-glitches/"><u>7 Techniques to Mitigate GPT Transmission Glitches</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-custom-gpts-you-can-start-using-right-now/"><u>8 Custom GPTs You Can Start Using Right Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-closer-look-at-ai-and-its-disinformation-risks/"><u>A Closer Look at AI and Its Disinformation Risks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-comprehensive-look-at-gpt-3-in-openai-playspace/"><u>A Comprehensive Look at GPT-3 in OpenAI Playspace</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-for-hiding-screen-brightness-adjustment/"><u>Expert Tips for Hiding Screen Brightness Adjustment</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/harnessing-the-power-of-metai-strategies-for-enhanced-engagement-on-instagram/"><u>Harnessing the Power of MetAI: Strategies for Enhanced Engagement on Instagram</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/st-digital-revenue-prognosticator/"><u>No-Cost Digital Revenue Prognosticator</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/non-profit-gaming-audio-archive-downloadable-for-2024/"><u>Non-Profit Gaming Audio Archive Downloadable for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721431154450-twitters-smileless-tweets-linuss-discoveries-unveiled-trojan-explanation-and-gpt-limitations-showcased/"><u>Twitters Smileless Tweets, Linus’s Discoveries Unveiled, Trojan Explanation, & GPT Limitations Showcased</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-elite-4k-recording-units-our-favorites-of-18-for-2024/"><u>[New] Elite 4K Recording Units Our Favorites of 18 for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nveiling-truth-understanding-youtubes-seo-keywords/"><u>[New] Unveiling Truth Understanding YouTube's SEO Keywords</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-banner-bliss-get-a-peek-at-our-library-of-50-free-youtube-banners/"><u>[Updated] 2024 Approved Banner Bliss Get a Peek at Our Library of 50 Free YouTube Banners</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialogue-dynamics-and-emotional-depth-via-gpts-novel-writing-tips/"><u>Dialogue Dynamics and Emotional Depth via GPT’s Novel-Writing Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-a-new-dimension-of-search-with-bing-on-all-platforms/"><u>Discover a New Dimension of Search with Bing on All Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-a-wiser-way-to-web-search-with-bings-new-ai-feature/"><u>Discover a Wiser Way to Web Search with Bing’s New AI Feature.</u></a></li>
+<li><a href="https://win-hot.techidaily.com/geautomatiseerde-migraties-4-effektieve-strategieen-om-je-pc-te-laad-na-de-cloud-under-win-10-of-11-zo-bent-doel/"><u>Geautomatiseerde Migraties: 4 Effektieve Strategieën Om Je PC Te Laad Na De Cloud Under Win 10 of 11 Zo Bent Doel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/groundbreaking-github-guides-to-optimal-chatgpt-use/"><u>Groundbreaking GitHub Guides to Optimal ChatGPT Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gym-enhancements-with-top-7-intelligent-plugins/"><u>Gym Enhancements with Top 7 Intelligent Plugins</u></a></li>
+<li><a href="https://win-able.techidaily.com/hogwarts-legacy-performance-optimization-6-crucial-tips-to-stop-stuttering/"><u>Hogwarts Legacy Performance Optimization: 6 Crucial Tips to Stop Stuttering</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-sync-obs-with-facebook/"><u>In 2024, The Ultimate Guide to Sync OBS with Facebook</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/real-time-ai-conversation-chatgpts-enhanced-interaction/"><u>Real-Time AI Conversation: ChatGPT's Enhanced Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revamping-ai-with-bard-the-seven-advances-launched-at-google-io-2023/"><u>Revamping AI with Bard - The Seven Advances Launched at Google I/O 2023</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-ai-potentials-gpt-3python/"><u>Unlocking AI Potentials: GPT-3/Python</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-experience-final-cut-pro-for-free-90-day-trial-offer-for-2024/"><u>Updated Experience Final Cut Pro for Free 90-Day Trial Offer for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Turing Test Breakdown: Is It Irreversible?"
-date: 2025-01-03T16:23:52.532Z
-updated: 2025-01-06T06:20:31.691Z
+date: 2025-01-10T23:56:35.565Z
+updated: 2025-01-13T00:18:18.144Z
 tags:
   - chatgpt
   - open-ai
@@ -29,12 +29,16 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Turing Test?
 
 ![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Originally called "The Imitation Game," the Turing Test was developed by Alan Turing. Despite its name, the Turing Test is not a true test—at least, not in the common sense of the word. It's more of a thought experiment. Nevertheless, Alan Turing was a highly influential mathematician who formalized many concepts that led to the birth of computer science.
 
@@ -54,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Drawbacks of the Turing Test
@@ -73,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Eugene Goostman
 
  In June 2014, a chatbot named Eugene Goostman claimed to have passed the Turing Test for the first time. Developed by a team of Ukranian programmers, the chatbot posed as a 13-year-old Ukranian boy and managed to convince 33% of a panel consisting of 30 human participants in a series of five-minute conversations.
@@ -84,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
  Since 2014 there have been many speculations and controversies surrounding the claim. One of the main criticisms against Eugene Goostman was the deceptive lowering of Turing Test criteria. The developers claimed the computer to be a 13-year-old boy who does not natively speak English and lives far enough away from modern society to be ignorant of topics such as geography, pop culture, etc.
 
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Google's LaMBDA
 
@@ -104,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if [AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ChatGPT
@@ -112,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.
 
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Turing Test Has Not Been Definitively Passed
 
@@ -144,24 +144,20 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-fraps-to-video-an-evaluation-review/"><u>[New] 2024 Approved Fraps to Video An Evaluation Review</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-newcomers-elite-entryway-list-for-zooids/"><u>[New] In 2024, Newcomers’ Elite Entryway List for Zooids</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-detailed-strategies-for-altering-facial-gender-display-in-digital-media/"><u>[Updated] In 2024, Detailed Strategies for Altering Facial Gender Display in Digital Media</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/12-essential-applications-of-chatgpt-in-commercial-settings/"><u>12 Essential Applications of ChatGPT in Commercial Settings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-core-reasons-chatgpt-is-inadequate-for-professional-writing-roles/"><u>5 Core Reasons ChatGPT Is Inadequate for Professional Writing Roles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-free-artificial-intelligence-services-similar-to-sora/"><u>6 Free Artificial Intelligence Services Similar to Sora</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-practical-steps-for-fixing-live-chatgpt-disruptions/"><u>7 Practical Steps for Fixing Live ChatGPT Disruptions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-smart-alternatives-to-chatgpt-apps-for-smartphones/"><u>7 Smart Alternatives to ChatGPT Apps for Smartphones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/9-ways-chatgpt-can-help-you-write-a-novel/"><u>9 Ways ChatGPT Can Help You Write a Novel</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721423315897-beware-phony-chatgpt-programs-potential-threats-ahead/"><u>Beware Phony ChatGPT Programs - Potential Threats Ahead</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-12-pro-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 12 Pro Max After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721412828656-clear-twitters-of-checkmarks-linuss-truths-uncovered-trojan-clarified-and-ai-bots-faults-exposed/"><u>Clear Twitters of Checkmarks, Linus’s Truths Uncovered, Trojan Clarified, & AI Bots' Faults Exposed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721416987624-enhanced-mobile-experience-with-bings-ai-search-feature/"><u>Enhanced Mobile Experience with Bing's AI Search Feature.</u></a></li>
-<li><a href="https://win-info.techidaily.com/ensename-como-activar-el-almacenamiento-en-nube-automatizado-mediante-onedrive-en-mi-sistema-windows-nova-version-11/"><u>Enséñame Cómo Activar El Almacenamiento en Nube Automatizado Mediante OneDrive en Mi Sistema Windows Nova: Versión 11</u></a></li>
-<li><a href="https://fox-access.techidaily.com/free-top-6-best-apps-to-remove-objects-from-photo-on-iphone/"><u>FREE Top 6 Best Apps to Remove Objects From Photo on iPhone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-vivo-s17-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo S17 Lock Screen Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-a05-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy A05 Phone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-humor-image-tinkerer-for-2024/"><u>Top Humor Image Tinkerer for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/wood-species-and-external-drying-conditions-can-significantly-influence-the-thermal-behavior-of-wood-during-processing/"><u>Wood Species and External Drying Conditions Can Significantly Influence the Thermal Behavior of Wood During Processing.</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-efficiently-coordinating-group-activities-via-zoom-for-2024/"><u>[New] Efficiently Coordinating Group Activities via Zoom for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-perfecting-hp-screen-capture-top-4-methods-unveiled/"><u>[New] In 2024, Perfecting HP Screen Capture Top 4 Methods Unveiled</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-complete-manual-for-expert-use-of-screen-recorder-by-zd-soft/"><u>[Updated] Complete Manual for Expert Use of Screen Recorder by ZD Soft</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-iconic-anime-intros-the-ultimate-collection/"><u>2024 Approved Iconic Anime Intros The Ultimate Collection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-extra-expenses-on-elite-ai-worthwhile/"><u>Are Extra Expenses on Elite AI Worthwhile?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exit-strategy-securing-your-data-against-chatgpt/"><u>Exit Strategy: Securing Your Data Against ChatGPT</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/guide-to-modify-comment-accessibility-on-youtube/"><u>Guide to Modify Comment Accessibility on YouTube</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-12-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 12</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/innovative-approaches-for-rising-through-the-rankings/"><u>Innovative Approaches for Rising Through the Rankings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-6-plus-5-ways-to-get-into-a-locked-apple-iphone-6-plus-by-drfone-ios/"><u>Locked Out of Apple iPhone 6 Plus? 5 Ways to get into a Locked Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-quora-network-for-llm-and-bot-entry/"><u>Navigating the Quora Network for LLM & Bot Entry</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-20-best-chatgpt-prompts-on-github/"><u>The 20 Best ChatGPT Prompts on GitHub</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-talks-ais-most-prominent-assistants/"><u>The Future of Talks: AI's Most Prominent Assistants</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-an-ai-prompt-injection-attack-and-how-does-it-work/"><u>What Is an AI Prompt Injection Attack and How Does It Work?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-the-turing-test-and-its-prospect-for-a-champion/"><u>What Is the Turing Test and Its Prospect for a Champion?</u></a></li>
 </ul></div>
 

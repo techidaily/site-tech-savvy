@@ -1,7 +1,7 @@
 ---
 title: "Access Immediately: Explore 8 Specially Designed AIs"
-date: 2024-12-29T16:01:07.722Z
-updated: 2025-01-06T04:22:34.150Z
+date: 2025-01-11T00:28:48.383Z
+updated: 2025-01-13T00:51:03.970Z
 tags:
   - chatgpt
   - open-ai
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
  Here's a guide on [how to create your first custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/) if you're not sure how to.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Translation Tool
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 ![Custom chatgpt screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It is no news that [ChatGPT can write code](https://www.makeuseof.com/chatgpt-programming-practical-uses/). It could write code since the days of GPT-3.5 and has improved significantly with the arrival of GPT-4 and the GPT-4 Turbo. However, although the chatbot is quite adept at solving programming problems, it doesn't perform particularly well within the context of a single project since it has a limited context window and cannot soak up all the details of a project to provide a context-specific solution.
@@ -77,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
  Of course, I built a custom K-Drama GPT by uploading several lists and reviews of the best Korean TV shows online. I also uploaded a small text file of what I love to see in Korean TV shows. When queried, this tailored GPT provided targeted drama suggestions that precisely matched my request—complex power dynamics, royal intrigue, bold heroes, and military conflicts. The difference was night and day. If historical K-dramas are your favorite genre, you can try out my K-Drama GPT.
 
 **Try this GPT**: [K-Drama Hero](https://chat.openai.com/g/g-WhObLzfn5-k-drama-hero).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Interactive Text and Image Games
 
@@ -101,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 ![Custom GPT for Abstract math tutoring](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-abstract-math-tutoring.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Custom GPT models offer exciting new ways to accelerate learning and preparation, whether you're a student prepping for exams, a professional gearing up for interviews, or anyone looking to upskill rapidly. Leveraging GPT-4's vast context window, you can create specialized GPTs that serve as expert tutors on specific subjects. Feed them textbooks, course materials, flashcards, and other learning resources from the field you want to master.
@@ -112,9 +108,17 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
 **Try this GPT**: [Abstract Math Genius](https://chat.openai.com/g/g-wFmBbvdm0-abstract-math-genius).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Niche Tools for Work
 
 ![Custom GPT for Work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-work.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Could custom GPTs improve your workflow or automate tasks in your job? For many roles, the answer is yes. Consider your typical work responsibilities and identify repetitive or time-consuming areas that could benefit from AI assistance.
 
@@ -123,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 **Try this GPT**: [Colorful Creations](https://chat.openai.com/g/g-e7klUPLGp-colorful-creations).
 
  Another example I tried was building a GPT for interior design. After teaching the GPT the kind of designs I liked, prompting the GPT to provide interior design ideas based on certain parameters was quite easy. With custom GPTs, there are many angles to explore; it all boils down to what you do and how creative you get. The possibilities to leverage GPTs are vast across professions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Custom GPTs: Endless Possibilities for Work and Fun
 
@@ -155,20 +155,17 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-capture-clarity-selecting-best-gimbals-for-your-camera/"><u>[Updated] 2024 Approved Capture Clarity Selecting Best Gimbals for Your Camera</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-epic-imagery-crafting-inspiring-instagram-posts-top20/"><u>[Updated] In 2024, Epic Imagery Crafting Inspiring Instagram Posts #Top20</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-a18-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo A18 FRP Bypass Instantly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/addressing-excessive-load-warning-windows-chatgpt/"><u>Addressing Excessive Load Warning: Windows ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-illustration-journey-merging-dall-e-and-gpt-4-capabilities/"><u>AI Illustration Journey: Merging DALL-E & GPT-4 Capabilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-we-trust-cgp-for-health-insights/"><u>Can We Trust CGP for Health Insights?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-predictive-ai-insights-into-its-operation/"><u>Deciphering Predictive AI: Insights Into Its Operation</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-realme-v30t-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Realme V30T to Mac? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/instant-ft232r-driver-installation-fast-free-and-secure-download-options/"><u>Instant FT232R Driver Installation - Fast, Free, and Secure Download Options</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96489609-9781578594139-real-nightmares-book-5/"><u>Real Nightmares (Book 5) | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reliable-recognition-validating-chatgpt-apps-on-itunes/"><u>Reliable Recognition: Validating ChatGPT Apps on iTunes</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-7-best-ai-prompt-marketplaces/"><u>The 7 Best AI Prompt Marketplaces</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-impact-of-artificial-intelligence-on-modern-gaming-dynamics/"><u>The Impact of Artificial Intelligence on Modern Gaming Dynamics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-premier-ios-tools-mimicking-playstation-2-experience/"><u>[Updated] In 2024, Premier IOS Tools Mimicking PlayStation 2 Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017055257-black-ops-cold-war-sound-glitch-on-pc-heres-how-to-solve-it/"><u>Black Ops: Cold War Sound Glitch on PC? Here's How to Solve It</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-most-affordable-and-eco-friendly-apple-airtag-substitutes-with-recharging-capabilities-insights/"><u>Discover the Most Affordable & Eco-Friendly Apple AirTag Substitutes with Recharging Capabilities Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emotional-algorithmics-unveiling-the-future-of-sentiment-analysis/"><u>Emotional Algorithmics: Unveiling the Future of Sentiment Analysis</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Infinix Smart 7 HD? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-tecno-pova-5-pro-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Tecno Pova 5 Pro Phone? Unlock It Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/macbook-pro-vs-macbook-air-a-comprehensive-guide-to-selecting-your-ideal-apple-laptop-based-on-usage-tech-advisor/"><u>MacBook Pro Vs. MacBook Air: A Comprehensive Guide to Selecting Your Ideal Apple Laptop Based on Usage | Tech Advisor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-driven-survival-strategies-from-chatgpt/"><u>Tech-Driven Survival Strategies From ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-six-exceptional-dietary-monitoring-mobile-apps/"><u>The Ultimate List: Six Exceptional Dietary Monitoring Mobile Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-selecting-an-adequate-surge-protector-for-your-electronic-equipment/"><u>Ultimate Guide: Selecting an Adequate Surge Protector for Your Electronic Equipment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-next-level-math-discover-how-the-latest-ipad-calculator-app-prompts-you-towards-an-apple-pencil-investment-techtalkzdnet/"><u>Unlocking Next-Level Math: Discover How the Latest iPad Calculator App Prompts You Towards an Apple Pencil Investment | TechTalkZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategy-against-xbox-game-pass-error-code-0-in-windows-11/"><u>Winning Strategy Against Xbox Game Pass Error Code 0 in Windows 11</u></a></li>
 </ul></div>
 

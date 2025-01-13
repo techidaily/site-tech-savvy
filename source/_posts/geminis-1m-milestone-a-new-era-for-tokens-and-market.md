@@ -1,7 +1,7 @@
 ---
 title: Gemini’s $1M Milestone - A New Era for Tokens and Market
-date: 2024-09-06T23:30:20.486Z
-updated: 2024-09-07T23:30:20.486Z
+date: 2025-01-06T21:05:13.231Z
+updated: 2025-01-13T01:02:28.942Z
 tags:
   - chatgpt
   - open-ai
@@ -13,25 +13,17 @@ excerpt: This Article Describes Gemini’s $1M Milestone - A New Era for Tokens 
 thumbnail: https://thmb.techidaily.com/75f2f8c580c180a2b2853a51a56b59840e62a47f848cf8becd199a47e930b0cb.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Gemini’s $1M Milestone - A New Era for Tokens and Market
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is a Context Window?](https://united.elfm.net/zqobdx)
 * [Why Gemini 1.5's Context Window Is a Big Deal](https://homestyler.sjv.io/y209g3)
 * [Will Gemini 1.5 Live Up to Expectations?](https://uperfect.sjv.io/g1jgba)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -48,11 +40,9 @@ thumbnail: https://thmb.techidaily.com/75f2f8c580c180a2b2853a51a56b59840e62a47f8
  It sounds like a massive upgrade and could set Gemini apart. It's a little difficult to grasp its full extent—but Gemini's enormous context window could be a game changer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is a Context Window?
 
  While responding to your queries, like explaining a concept or summarizing a text, AI models have a limit on how much data they can consider to generate a response. The limit on the text size it can consider is called a context window.
@@ -62,27 +52,17 @@ thumbnail: https://thmb.techidaily.com/75f2f8c580c180a2b2853a51a56b59840e62a47f8
  At the time of writing, Anthropic's Claude 2.1's 200k context window is the largest context window of any generally available AI model. This is followed by GPT-4 Turbo with a 128k context window. Google Gemini 1.5 is bringing a one million context window, four times larger than anything in the market. This leads to the big question: what's the big deal with a one million token context window?
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Gemini 1.5's Context Window Is a Big Deal
 
 ![Gemini app running on an Android phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gemini-app-running-on-an-android-phone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Smartmockups](https://smartmockups.com/mockup/oiB7aZ8XtYS)
 
  To put it in a clearer perspective, Claude AI's 200k context window means it can digest a book of around 150,000 words and provide answers to it. That's massive. But Google's Gemini 1.5 would be able to digest 700,000 words at a go!
@@ -104,17 +84,9 @@ thumbnail: https://thmb.techidaily.com/75f2f8c580c180a2b2853a51a56b59840e62a47f8
 ![gemini advanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gemini-advanced.PNG)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If everything goes as planned, Gemini 1.5 could potentially outperform [the best AI models in the market](https://www.makeuseof.com/best-large-language-models/). However, considering Google's many failures at building a stable AI model, it's important to err on the side of caution. Bumping up the context window of a model alone doesn't automatically make the model better.
 
  I've used Claude 2.1's 200k context window for months since its release, and one thing is clear to me—a larger context window can indeed improve context sensitivity, but problems with the core model performance can make larger context a problem of its own.
@@ -131,8 +103,6 @@ thumbnail: https://thmb.techidaily.com/75f2f8c580c180a2b2853a51a56b59840e62a47f8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +110,22 @@ thumbnail: https://thmb.techidaily.com/75f2f8c580c180a2b2853a51a56b59840e62a47f8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-decoding-ad-revenue-distribution-in-youtubes-economic-model/"><u>[New] In 2024, Decoding Ad Revenue Distribution in YouTube's Economic Model</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-simplify-your-schedule-using-free-clocks-wisely/"><u>[New] In 2024, Simplify Your Schedule Using FREE Clocks Wisely</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-exclusive-free-mcb-visual-tools/"><u>2024 Approved Exclusive Free MCB Visual Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ahead-of-the-curve-5-critical-ai-innovations-for-entrepreneurs/"><u>Ahead of the Curve: 5 Critical AI Innovations for Entrepreneurs</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/all-about-flv-files-unveiling-the-basics-and-steps-to-access-your-flash-video-content/"><u>All About FLV Files: Unveiling the Basics and Steps to Access Your Flash Video Content</u></a></li>
+<li><a href="https://win-studio.techidaily.com/bitcoin-etf-hits-15-billion-milestone-trails-behind-discounted-gbtc-as-bitcoin-soars-to-69k-insights-by-yl-computing-and-yl-software/"><u>Bitcoin ETF Hits $1.5 Billion Milestone, Trails Behind 'Discounted' GBTC as Bitcoin Soars to $69K - Insights by YL Computing & YL Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatxt-enhancements-for-elevated-storytelling/"><u>ChaTxt Enhancements for Elevated Storytelling</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/1723084558975-expert-picks-leading-steam-deck-video-games-in-2-cuffs-that-you-should-play-now/"><u>Expert Picks: Leading Steam Deck Video Games in 2 Cuffs that You Should Play Now!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-the-cat-s42-durable-phone-solid-defense-meets-moderate-velocity/"><u>In-Depth Review of the CAT S42 Durable Phone: Solid Defense Meets Moderate Velocity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/launch-date-rumors-apples-new-lineup-with-macbook-air-ipad-pro-and-ipad-air-set-for-march-debut-zdnet-coverage/"><u>Launch Date Rumors: Apple's New Lineup with MacBook Air, iPad Pro, and iPad Air Set for March Debut - ZDNet Coverage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simplify-your-experience-expert-advice-on-file-explorer-for-windows-10-users/"><u>Simplify Your Experience: Expert Advice on File Explorer for Windows 10 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-titans-tussle-ai-mastery-in-the-making-of-words/"><u>Tech Titans Tussle: AI Mastery in the Making of Words</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-kid-friendly-smartphones-comprehensive-guide/"><u>Top Kid-Friendly Smartphones: Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-iphone-13-protective-cases-featuring-magsafe-tech-stylish-aesthetic-and-enhanced-durability-by-zdnet-experts/"><u>Top Rated Apple iPhone 13 Protective Cases Featuring MagSafe Tech, Stylish Aesthetic, and Enhanced Durability by ZDNET Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-ai-wonders-tentative-date-for-gpt-5s-unveiling/"><u>Upcoming AI Wonders: Tentative Date for GPT-5's Unveiling?</u></a></li>
+</ul></div>
 

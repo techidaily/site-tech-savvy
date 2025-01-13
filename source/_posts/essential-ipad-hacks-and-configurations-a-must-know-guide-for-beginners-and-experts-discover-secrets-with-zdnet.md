@@ -1,7 +1,7 @@
 ---
 title: "Essential iPad Hacks & Configurations: A Must-Know Guide for Beginners & Experts - Discover Secrets with ZDNet"
-date: 2025-01-04T20:41:37.530Z
-updated: 2025-01-05T20:53:30.805Z
+date: 2025-01-05T22:21:02.678Z
+updated: 2025-01-12T16:57:20.867Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Customize your lock screen
 
 Max Buondonno/ZDNET
@@ -35,10 +39,6 @@ Max Buondonno/ZDNET
 In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and it's one of the easiest ways to help the tablet reflect your personal style. You can alter the font, the wallpaper, and even add a few widgets to keep important information available at a glance. Personally, I have a nice serif font on my iPad with a weather widget and my to-do list, as well as an ocean background from Nomad (because I can't go a day without looking at the water).
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Configure your focus settings
 
@@ -57,10 +57,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
@@ -82,6 +78,10 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Low Power Mode can quickly become your best friend
 
 There's no doubt that iPads (especially some of the more recent models) have great battery life. My iPad cruises easily through a full day of use before conking out at bedtime. But that's only true if you limit the amount of heavy lifting you put your iPad through. If you're editing photos or videos, playing lots of games, or using it on a spotty Wi-Fi network for very long, it's going to die sooner than you expect.
@@ -93,7 +93,7 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Hide your notifications from prying eyes
@@ -101,6 +101,10 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -116,6 +120,10 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -124,10 +132,6 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Tweak the Control Center
 
 Max Buondonno/ZDNET
@@ -135,10 +139,6 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -180,19 +180,15 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-ultimate-strategy-for-superior-videos-with-vce-22/"><u>[Updated] In 2024, The Ultimate Strategy for Superior Videos with VCE 2.2</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-speech-to-text-for-media/"><u>[Updated] Speech to Text for Media</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unlock-hdri-magic-compreranial-sdr-to-high-dynamic-range-upgrade-for-2024/"><u>[Updated] Unlock HDRI Magic Compreranial SDR to High Dynamic Range Upgrade for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-revolutionizing-office-writing-the-new-norm-in-word/"><u>ChatGPT Revolutionizing Office Writing: The New Norm in Word</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/detailed-insight-into-the-operation-of-shared-chatgpt-links/"><u>Detailed Insight Into the Operation of Shared ChatGPT Links</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/framemorph-editor-for-2024/"><u>FrameMorph Editor for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/galactic-game-guide-the-top-10-affordable-mmo-titles-for-2024/"><u>Galactic Game Guide The Top 10 Affordable MMO Titles for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-analyzing-channels-monetization-status-at-a-glance/"><u>In 2024, Analyzing Channels Monetization Status at a Glance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-interaction-tomorrows-ai-evolution/"><u>Innovating Interaction: Tomorrow's AI Evolution</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/midi-mastery-with-dj-software-a-comprehensive-feature-guide-by-pioneer/"><u>MIDI Mastery with DJ Software: A Comprehensive Feature Guide by Pioneer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/perfecting-persuasion-the-smart-way-to-write-convincing-proposals-using-ai/"><u>Perfecting Persuasion: The Smart Way to Write Convincing Proposals Using AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-service-access-how-to-use-chatgpt-without-numbers/"><u>Quick Service Access: How to Use ChatGPT without Numbers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/rise-to-editing-greatness-with-our-top-10-youtube-tips-for-2024/"><u>Rise to Editing Greatness with Our Top 10 YouTube Tips for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/vanguard-dialogues-how-gemini-meets-plus-gpt/"><u>Vanguard Dialogues: How Gemini Meets Plus-GPT</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-5-dynamic-fitness-series-ideas-to-enhance-viewer-retention/"><u>[New] 2024 Approved 5 Dynamic Fitness Series Ideas to Enhance Viewer Retention</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-from-mpeg-4-to-multifarious-formats-a-guide-using-vlc/"><u>[New] From MPEG-4 to Multifarious Formats A Guide Using VLC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-skillful-conversion-of-youtube-videos-to-interactive-gif-artistry/"><u>[New] In 2024, Skillful Conversion of YouTube Videos to Interactive GIF Artistry</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ultimate-techniques-streaming-hulu-on-win-mac-and-mobile/"><u>[Updated] In 2024, Ultimate Techniques Streaming Hulu on Win, Mac, and Mobile</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/global-ai-dialogue-what-experts-say/"><u>Global AI Dialogue: What Experts Say</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-novice-to-pro-your-step-by-step-guide-to-youtube-live-images/"><u>In 2024, From Novice to Pro Your Step-by-Step Guide to YouTube Live Images</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-openais-dominance-over-gpt-fading/"><u>Is OpenAI's Dominance Over GPT Fading?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rediscovering-lost-ai-conversations/"><u>Rediscovering Lost AI Conversations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-transformation-of-m4a-tracks-into-high-quality-aac-format/"><u>Seamless Transformation of M4A Tracks Into High-Quality AAC Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solution-ptfe-or-rubber-with-specific-resistance-to-acids-such-as-epdm-ethylene-propylene-diene-monomer-would-be-suitable-liners/"><u>Solution: PTFE or Rubber with Specific Resistance to Acids, Such as EPDM (Ethylene Propylene Diene Monomer), Would Be Suitable Liners.</u></a></li>
 </ul></div>
 

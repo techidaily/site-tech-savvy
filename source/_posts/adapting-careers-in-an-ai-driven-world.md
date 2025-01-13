@@ -1,7 +1,7 @@
 ---
 title: Adapting Careers in an AI-Driven World
-date: 2024-09-06T23:30:20.136Z
-updated: 2024-09-07T23:30:20.136Z
+date: 2025-01-06T18:10:01.767Z
+updated: 2025-01-12T20:36:00.452Z
 tags:
   - chatgpt
   - open-ai
@@ -28,17 +28,9 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 ![](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-featured.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The rise of generative AI tools has given birth to a new skill: prompt engineering. The idea behind it is simple: since the responses you get from an AI tool are heavily dependent on how well you describe your query, it has become important to [learn how to write good prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/).
 
  As a prompt engineer, your job is to optimize the large language model of an AI tool by crafting prompts that elicit specific responses, while identifying errors and untapped capabilities.
@@ -46,55 +38,31 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
  Ultimately, the goal here is to make the AI tool smarter, faster, more intuitive, more creative, more accurate, more conversational, and less likely to hallucinate when talking to a user. If you're interested, you can [start your career in prompt engineering](https://www.makeuseof.com/career-in-prompt-engineering/) today to be future-ready.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Fact-Checking Will Become a Major Career
 
 ![a magnifying glass on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/research-job-market.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  One of the biggest problems with text-based generative AI tools such as ChatGPT is inaccuracy. When you talk to ChatGPT, you instinctively trust what it is saying. However, keep in mind that these AI tools don't actually know if what they are saying is true and simply present information in a way that seems human-like and is therefore perceived as trustworthy.
 
  In other words, there is a clear gap that needs to be solved. To fill that gap is the job of fact-checkers. And as these AI tools become mainstream, we will require an increasing number of fact-checkers working behind the scenes to make sure the bots give reliable and accurate information and limit the spread of misinformation.
 
  To do this, we envision companies like Google and Microsoft hiring massive teams of fact-checkers in the near future to train their [AI-powered search engines](https://www.makeuseof.com/ways-ai-search-engines-change-internet/) like Bard and Bing Chat.
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Productivity Will Skyrocket for White-Collar Workers
 
 ![Man Working on a Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/man-techie.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We saw how Google is integrating [generative AI in Google Workspace apps](https://www.makeuseof.com/google-workspace-generative-ai/) such as Gmail, Docs, Sheets, Slides, and more. Microsoft is doing the same with its Office 365 suite of productivity apps. Many more companies are implementing the tech on their own products too.
 
  Since these generative AI capabilities in workspace apps are still in testing and haven't been fully rolled out yet, you might dismiss them as a fad. But that would be a huge mistake. Once developed and available to everyone, these AI tools will help skyrocket productivity for white-collar workers around the world.
@@ -103,18 +71,6 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 
  For some, this might be alarming, as they fear they might lose their jobs. And though that is a valid fear, you may find reassurance in knowing the [reasons AI can't replace humans at work](https://www.makeuseof.com/reasons-artificial-intelligence-cant-replace-humans/). What's perhaps more likely is that AI will simply remove the drudgery out of office work and allow more room for planning and creative thought.
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Creative Jobs Will Become Much Easier
 
 ![Two women looking at a computer and iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creative-activities-that-boost-your-mental-health.jpg)
@@ -137,12 +93,6 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 
  All you'll need to do, as a social media manager, is simply type your requirements along with contextual specifics such as company history, product description, target audience, tonality, and the timeline of the campaign. The tool will take care of the rest; it'll create designs, schedule posts, put up stories, and respond to comments on your behalf.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Automation Will Lead to Shorter Workdays
 
 ![A clock and a calendar with stationery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Reminders-Notion-Feature-1.jpg)
@@ -160,17 +110,9 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
  Generative AI can easily learn the patterns of a desk job and produce useful results, but all of those capabilities are limited to software. This is not to say that AI isn't used in some blue-collar jobs, as it is, but software alone can't fix a leaky toilet, plow land, build a house, perform pest control, remove dents from your car, or repair a broken air conditioner.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Adapt and Work With AI
 
  The trends we've listed above may not happen instantly, but given the rate at which generative AI is improving, it would be foolish to think that it won't affect the job market and your place in it.
@@ -181,14 +123,11 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 
  Like most cases, the truth is probably somewhere in the middle. To help you know what to expect and better prepare yourself, we're listing down some of our top predictions on how generative AI will change the job market in the next few years.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -197,4 +136,22 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-optimizing-windows-media-players-audio-operations-from-cds/"><u>[New] The Art of Optimizing Windows Media Player's Audio Operations From Cds</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-sky-high-selfies-and-beyond-an-insightful-analysis-of-dji-spark/"><u>[Updated] 2024 Approved Sky High Selfies and Beyond An Insightful Analysis of DJI Spark</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-cementing-climactic-conclusions/"><u>[Updated] In 2024, Cementing Climactic Conclusions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-step-by-step-guide-recording-audio-on-the-internet-today/"><u>[Updated] In 2024, Step-by-Step Guide Recording Audio on the Internet Today</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unveiling-ffmpegs-potential-for-original-formatted-audio-retrieval/"><u>[Updated] Unveiling FFmpeg's Potential for Original Formatted Audio Retrieval</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-practices-for-effective-chatgpt-interactions-from-github/"><u>Best Practices for Effective ChatGPT Interactions From Github</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-serenity-daily-grounding-techniques-via-ai/"><u>Building Serenity: Daily Grounding Techniques via AI</u></a></li>
+<li><a href="https://extra-information.techidaily.com/corpse-comic-connoisseur/"><u>Corpse Comic Connoisseur</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-finest-festive-savings-7-prime-airpods-bargains-for-holiday-shoppers-spotlighted/"><u>Discover the Finest Festive Savings: 7 Prime AirPods Bargains for Holiday Shoppers - Spotlighted</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/elite-hd-video-preservation-devices/"><u>Elite HD Video Preservation Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-decision-making-with-top-5-artificial-intelligence-tools/"><u>Enhancing Decision-Making with Top 5 Artificial Intelligence Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safeguarding-corporate-data-in-chatai-exchanges/"><u>Safeguarding Corporate Data in ChatAI Exchanges</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-integration-free-hp-driver-download-and-setup-guide/"><u>Seamless Integration: Free HP Driver Download & Setup Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/self-esteem-in-study-habits-not-leaning-on-chatgpt/"><u>Self-Esteem in Study Habits: Not Leaning on ChatGPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-acer-monitor-driver-software-free-downloads-available/"><u>Updated Acer Monitor Driver Software - Free Downloads Available</u></a></li>
+</ul></div>
 

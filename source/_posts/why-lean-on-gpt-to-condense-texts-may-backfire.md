@@ -1,7 +1,7 @@
 ---
 title: Why Lean on GPT to Condense Texts May Backfire?
-date: 2024-09-06T23:30:17.381Z
-updated: 2024-09-07T23:30:17.381Z
+date: 2025-01-06T23:35:55.038Z
+updated: 2025-01-12T17:34:12.278Z
 tags:
   - chatgpt
   - open-ai
@@ -13,32 +13,12 @@ excerpt: This Article Describes Why Lean on GPT to Condense Texts May Backfire?
 thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cbaa69a714d4a27725179f8ad.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Lean on GPT to Condense Texts May Backfire?
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [ChatGPT Can Ignore or Misunderstand Your Prompt](https://dreoaffiliateprogram.pxf.io/k0ezjl)
@@ -59,12 +39,6 @@ thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cb
 
  There are limits to what ChatGPT knows. And its programming forces it to deliver what you ask for, even if the result is wrong. This means ChatGPT makes mistakes, and moreover, there are some common mistakes it makes, especially when it’s summarizing information and you’re not paying attention.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Can Ignore or Misunderstand Your Prompt
 
  If you give the chatbot lots of data to sort through, even a complex prompt, it’s likely to deviate from your instructions and follow its own interpretation of them.
@@ -76,11 +50,9 @@ thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cb
 ![ChatGPT Misintepreting a Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-misintepreting-a-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The chatbot merged both answers into one paragraph. A follow-up prompt with clearer instructions asked it to dip into its knowledge pool, too.
 
 ![ChatGPT Breaking Down Information as Instructed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-breaking-down-information-as-instructed.jpg)
@@ -88,11 +60,9 @@ thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cb
  This is why you should keep your instructions precise, provide context when necessary, and keep an eye on ChatGPT’s results. If you flag up any mistake immediately, the chatbot can produce something more accurate.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Can Omit Information You Provide
 
  ChatGPT is smart, but it’s not a good idea to bombard it with details about a particular topic without specifying what is or isn’t important.
@@ -122,17 +92,9 @@ thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cb
  Company names, books, awards, research links, and other elements can disappear or be altered in the chatbot’s summary. To avoid major mistakes, be aware of [ChatGPT’s content creation limits](https://www.makeuseof.com/mistakes-to-avoid-using-chatgpt-content-creation/) .
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Can Get Facts Wrong
 
  It’s important to learn all you can about [how to avoid mistakes with generative AI tools](https://www.makeuseof.com/mistakes-generative-ai-tools/) . As the example above demonstrates, one of the biggest problems with ChatGPT is that it lacks certain facts or has learned them wrong. This can then affect any text it produces.
@@ -143,18 +105,16 @@ thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cb
 
 ![ChatGPT Creating a Summary of TikTok Trends](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-creating-a-summary-of-tiktok-trends.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Most of the explanations were slightly wrong or lacked specifics about what posters must do. The description of the UMG Music trend was especially misleading. The trend changed after the catalogue’s removal from TikTok, and users now post videos to criticize, not support UMG, something which ChatGPT doesn’t know.
 
 ![ChatGPT Explaining a TikTok Trend Wrong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-explaining-a-tiktok-trend-wrong.jpg)
 
  The best solution is to not blindly trust AI chatbots with your text. Even if ChatGPT compiled information you provided yourself, make sure you edit everything it produces, check its descriptions and claims, and make a note of any facts it gets wrong. Then, you’ll know how to structure your prompts for the best results.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Can Get Word or Character Limits Wrong
 
  As much as [OpenAI enhances ChatGPT with new features](https://www.makeuseof.com/chatgpt-new-features-spring-update/) , it still seems to struggle with basic instructions, such as sticking to a specific word or character limit.
@@ -163,12 +123,6 @@ thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cb
 
 ![ChatGPT Trying to Stick to Word Count Instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-trying-to-stick-to-word-count-instructions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It’s not the worst mistake to expect from ChatGPT. But it’s one more factor to consider when proofreading the summaries it creates.
 
  Be specific about how long you want the content to be. You may need to add or delete some words here and there. It’s worth the effort if you’re dealing with projects with strict word count rules.
@@ -183,8 +137,6 @@ thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +144,22 @@ thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/approved-transforming-your-videos-for-igtv-excellence-3-methods/"><u>2024 Approved Transforming Your Videos for IGTV Excellence (3 Methods)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/computer-comedy-past-present-and-protective-web-ventures/"><u>Computer Comedy: Past, Present, and Protective Web Ventures</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-the-metrics-for-youtube-video-hierarchy-for-2024/"><u>Decoding the Metrics for YouTube Video Hierarchy for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-latest-intel-software-raid-drivers-for-windows-11-10-8-and-7/"><u>Download and Install Latest Intel Software RAID Drivers for Windows 11, 10, 8, and 7</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/flickerframe-repository-review-for-2024/"><u>FlickerFrame Repository Review for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-tiktok-bios-adding-linktree-seamlessly/"><u>In 2024, Mastering TikTok Bios Adding Linktree Seamlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/journey-upgrade-unlock-pro-features-of-copilot/"><u>Journey Upgrade - Unlock Pro Features of Copilot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pixel-9-the-trailblazer-in-android-phones-with-new-life-saving-satellite-emergency-features-exclusively-on-googles-latest-device-tech-news/"><u>Pixel 9: The Trailblazer in Android Phones with New Life-Saving Satellite Emergency Features, Exclusively on Google's Latest Device | Tech News</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-the-audio-step-by-step-guide-to-restoring-sound-on-an-acer-notebook/"><u>Revive the Audio: Step-by-Step Guide to Restoring Sound on an Acer Notebook</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamlessly-move-icloud-pictures-across-various-gadgets-with-these-easy-steps/"><u>Seamlessly Move iCloud Pictures Across Various Gadgets with These Easy Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-seamless-guide-to-implementing-auto-gpt/"><u>The Seamless Guide to Implementing Auto-GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-mp3-audio-devices-expert-review/"><u>Top Rated MP3 Audio Devices - Expert Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-solving-the-issue-of-windows-11-failing-to-power-off/"><u>Ultimate Guide: Solving the Issue of Windows 11 Failing to Power Off</u></a></li>
+<li><a href="https://extra-information.techidaily.com/yearly-insider-list-the-most-exciting-unboxers-on-youtube/"><u>Yearly Insider List The Most Exciting Unboxers on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/your-guide-to-understanding-openai-impact/"><u>Your Guide to Understanding OpenAI Impact</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: My Podcast Journey with AI Texting
-date: 2024-09-06T23:30:23.401Z
-updated: 2024-09-07T23:30:23.401Z
+date: 2025-01-07T21:43:37.242Z
+updated: 2025-01-12T18:15:41.804Z
 tags:
   - chatgpt
   - open-ai
@@ -24,11 +24,9 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
  But can AI write a podcast? What happens when you ask ChatGPT to create a podcast script? To find out, MakeUseOf’s podcast team agreed to use ChatGPT to script an episode of the show.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why We Used ChatGPT for a Podcast Script
 
  Since the launch of ChatGPT 3.5, generative AI has become a popular topic. MakeUseOf’s [Really Useful Podcast](https://www.makeuseof.com/tag/rup/) has regularly discussed ChatGPT and other forms of AI, so it made sense to find a new way of approaching the topic.
@@ -39,12 +37,6 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 
  So, to frame a fresh discussion of ChatGPT, the podcast team (that’s me Christian Cawley, site editor-in-chief Ben Stegner, and Tech Explained editor Gavin Phillips) decided that it might be interesting to use the technology to script a podcast.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Integrating ChatGPT Into the Really Useful Podcast Format
 
  The Really Useful Podcast is a weekly mix of tech news that affects everyone (e.g. changes to social media, online security issues, new iPhone or Android updates, etc.), explainers, tips and tricks, and finally recommendations.
@@ -56,34 +48,28 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
  This risked making the end product sound very different to every other show, but it was worth it to find something to add to the list of [things to do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/).
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3 Limitations With ChatGPT’s Scriptwriting Abilities
 
 ![Script by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-script.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Finding ways to pose the instructions that would create a usable script revealed various limitations to ChatGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Topical Writing Isn’t Possible
 
  ChatGPT 3.5 is unsuitable for topical writing. It has been [trained on a dataset that contains material up to September 2021](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/), so the shortcoming here is obvious.
 
  For the Really Useful Podcast, this meant that the show’s news section would remain conversational. Instead, the introduction to the section would be created with ChatGPT.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. ChatGPT Doesn’t Quite Understand
 
@@ -103,12 +89,6 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 
  Variations were attempted, but all resulted in largely the same response. Unperturbed, the recorded podcast featured a shortened version of this “script.”
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How the ChatGPT-Scripted Podcast Turned Out
 
  Recording our AI-created edition of the Really Useful Podcast required both participants (myself and Ben Stegner) to have a copy of the script. This was created by copying responses from ChatGPT into a shared Google Doc.
@@ -141,18 +121,16 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 
 ![ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-news.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For the show’s middle section (explainers, tips, and tricks) the intro prompt was:
 
 > _Write an introduction to discussion about decrypting ransomware, games not working on Windows 11, and why you shouldn't pay to use Microsoft Word_
 
 ![ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-chatgpt-podcast-tips.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Finally, ChatGPT was asked to script a section on tech recommendations:
 
 > _Introduce a podcast section on recommending technology_
@@ -179,14 +157,11 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 
  But can AI write a podcast? What happens when you ask ChatGPT to create a podcast script? To find out, MakeUseOf’s podcast team agreed to use ChatGPT to script an episode of the show.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -195,4 +170,20 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-crafting-distinctive-video-stream-names-tips-for-filmora-users/"><u>[New] 2024 Approved Crafting Distinctive Video Stream Names Tips for Filmora Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-a-practical-approach-to-hymnal-phone-tones/"><u>[Updated] 2024 Approved A Practical Approach to Hymnal Phone Tones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-5-simplified-steps-for-sequential-youtube-video-viewing-free-for-2024/"><u>[Updated] 5 Simplified Steps for Sequential YouTube Video Viewing (Free) for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-current-and-future-drone-use-cases-unveiled-for-2024/"><u>[Updated] Current & Future Drone Use Cases Unveiled for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ultrawide-vs-uhd-4k-monitors-which-to-choose/"><u>[Updated] UltraWide VS UHD 4K Monitors Which to Choose</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-transforming-passion-into-a-fulfilling-design-career/"><u>2024 Approved Transforming Passion Into a Fulfilling Design Career</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-quality-audio-discover-how-beats-latest-solo-buds-compete-with-apples-sub-100-dollar-airpods-according-to-zdnet/"><u>Affordable Quality Audio: Discover How Beats' Latest Solo Buds Compete with Apple's Sub-100 Dollar AirPods, According to ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-bot-excellence-gpt-plus-versus-perplexity/"><u>Exploring Bot Excellence: GPT Plus versus Perplexity</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-world-of-yakuza-a-comprehebale-reveal-on-like-a-dragon-the-must-have-jrpg-title/"><u>Exploring the World of Yakuza: A Comprehebale Reveal on 'Like a Dragon': The Must-Have JRPG Title</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-multiversus-crash-issues-discover-the-eight-most-effective-methods/"><u>Fixing MultiVersus Crash Issues – Discover the Eight Most Effective Methods</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-tecno-phantom-v-flip-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Phantom V Flip Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/set-clear-boundaries-and-expectations/"><u>Set Clear Boundaries and Expectations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-iphone-15-deserves-a-spot-in-the-professional-lineup-expert-review/"><u>Why iPhone 15 Deserves a Spot in the 'Professional' Lineup | Expert Review</u></a></li>
+</ul></div>
 

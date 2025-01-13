@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Academic Writing: ChatGPT's Role"
-date: 2025-01-02T19:17:12.467Z
-updated: 2025-01-06T01:05:04.517Z
+date: 2025-01-10T23:14:57.522Z
+updated: 2025-01-12T20:04:41.743Z
 tags:
   - chatgpt
   - open-ai
@@ -28,23 +28,19 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Draw Your Outline Without ChatGPT
 
 ![Outline of an essay on the history of German Shepherds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/outline-of-an-essay-on-the-history-of-german-shepherds.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Assuming you already have an idea for your project, the first thing you should do before you hop on ChatGPT’s website is to prepare your thesis and outline without using AI. It’s a vital step to making sure the core of your essay actually comes from you.
 
  If you use ChatGPT to prompt an outline for you, it could promote idea laziness, and you will find ChatGPT’s suggestions may have replaced the ones you could have produced on your own. So, get a piece of paper or a blank word processor page and create an outline for your essay.
 
  Also, ChatGPT will avoid controversial topics—even in an outline. Therefore, you might find yourself with an outline missing vital pieces of historical sections if you rely on it. This bias is one of the [major problems with OpenAI’s ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Prompt ChatGPT to Draw a Parallel Outline
 
@@ -55,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 `Create a detailed outline for an essay on <insert your essay topic here>.`
 
 ![ChatGPT's outline on the essay on the history of German Shepherds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-s-outline-on-the-essay-on-the-history-of-german-shepherds.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ChatGPT’s result is far more detailed than our outline. Here, you should adopt the parts of ChatGPT’s outline you would like to integrate into your own. Combine the best of the two and flesh out an outline that will guide you best as you write.
 
@@ -78,13 +70,13 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 
 ![ChatGPT refusing to cite its sources for its information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-refusing-to-cite-its-sources-for-its-information.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The free version of ChatGPT is not actively connected to the internet and cannot fetch information after September 2021\. If you need this functionality, then it could be time to [upgrade to ChatGPT Plus](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/)—especially if this is a tool you will be using heavily for work or school.
 
  The bottom line is that you should use a reputable source (such as a book from an authority or an official website) to support every important statement you put down. You can also learn how to [use Google to fact-check information](https://www.makeuseof.com/google-fact-check-information/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Use ChatGPT for Examples and Breakdowns
 
@@ -93,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
  That’s really the one thing you can count on ChatGPT to do in this process. It has good skill in crafting useful examples and explaining complicated ideas in a form you can easily understand. A popular way of phrasing a prompt to make ChatGPT explain something complicated is adding “explain like I’m five” to your prompt.
 
 ![ChatGPT explaining German Shepher's hip and elbow dysplasia](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-explaining-german-shepher-s-hip-and-elbow-dysplasia.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here we used ChatGPT to break down hip and elbow dysplasia conditions in a way that is easier to understand. And it used analogies like jigsaw puzzles to paint a clearer image of what it might look like.
 
@@ -106,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 
  Lastly, ChatGPT doesn’t match the nuanced knowledge of a human professional in heavily specialized fields or journals that need up-to-date information. Reading a book or article by an expert, internalizing it, and writing it in your own words will give you far better results than relying on ChatGPT.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Polish the Style and Citation With ChatGPT
 
  After writing, you can paste portions of your essay and ask ChatGPT to shorten, lengthen, or optimize the style. ChatGPT is good at mimicking popular styles, and you can use that to your advantage. If you want your writing to sound a little more professional, it can help rephrase it.
@@ -115,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
  If you’re having trouble with citation styles and how to integrate them into your essay, you can present your essay to ChatGPT, give it your sources, and ask it to weld them together for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Is a Tool, Not a Solution
@@ -143,20 +143,19 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-ken-burns-motion-in-camtasa/"><u>[Updated] 2024 Approved Unveiling the Secrets of Ken Burns Motion in Camtasa</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-crafting-content-that-captivates-the-square-video-formula-on-fb/"><u>[Updated] Crafting Content That Captivates The Square Video Formula on FB</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-navigating-ppt-presentations-successfully-in-google-meet/"><u>2024 Approved Navigating PPT Presentations Successfully in Google Meet</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-using-laptopsmobile-for-google-meet-join/"><u>2024 Approved Using Laptops/Mobile for Google Meet Join</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723062407540-discover-why-the-newly-released-apple-mac-mini-with-m1-chip-is-dominating-the-market/"><u>Discover Why the Newly Released Apple Mac Mini with M1 Chip Is Dominating the Market!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-pitfalls-crafting-perfect-text-with-chatgpt/"><u>Essential Pitfalls: Crafting Perfect Text with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-chatbots-are-crafting-tomorrows-media-landscape/"><u>How Chatbots Are Crafting Tomorrow's Media Landscape</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-do-chatbots-simulate-conversations-with-people/"><u>How Do Chatbots Simulate Conversations With People?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/identifying-suspicious-chatgpt-websites-safely/"><u>Identifying Suspicious ChatGPT Websites Safely</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-imgur-meme-generator/"><u>In 2024, Imgur Meme Generator</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prove-your-worth-in-the-world-of-photography-essential-pixlr-skills/"><u>In 2024, Prove Your Worth in the World of Photography Essential Pixlr Skills</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-transformative-tactics-for-impeccable-hue-correction/"><u>In 2024, Transformative Tactics for Impeccable Hue Correction</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/key-aspects-of-how-shared-links-function-with-chatgpt/"><u>Key Aspects of How Shared Links Function with ChatGPT</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-creme-de-la-creme-of-vr-development-talent/"><u>The Crème De La Crème of VR Development Talent</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-your-potential-with-troubleshootable-chatgpt-issues/"><u>Unleashing Your Potential with Troubleshootable ChatGPT Issues</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-guide-to-delivering-engaging-ppt-in-google-meet-mobiledesktop/"><u>[New] 2024 Approved Guide to Delivering Engaging PPT in Google Meet (Mobile/Desktop)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-video-quality-editing-tips-for-published-content-for-2024/"><u>[New] Enhancing Video Quality Editing Tips for Published Content for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-how-to-change-video-speed-on-instagram-stories/"><u>[New] How to Change Video Speed on Instagram Stories?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-going-unseen-during-instagram-live-events/"><u>[New] The Art of Going Unseen During Instagram Live Events</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-crafting-memorable-content-the-essentials-of-20-intriguing-tiktok-captions/"><u>[Updated] Crafting Memorable Content The Essentials of 20 Intriguing TikTok Captions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exemplary-6-online-communities-for-corporate-growth/"><u>[Updated] Exemplary 6 Online Communities for Corporate Growth</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-clumped-up-windows-11-icon-grouping/"><u>Adjusting Clumped-Up Windows 11 Icon Grouping</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-influence-on-coding-efficiency/"><u>AI's Influence on Coding Efficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/android-access-welcome-chatgpt/"><u>Android Access: Welcome, ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-approved-must-have-iphone-and-ipad-apps-cnet-reviews/"><u>Apple-Approved Must-Have iPhone & iPad Apps | CNET Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-user-experience-with-advanced-cookiebot-technology/"><u>Enhanced User Experience with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-ai-decoded-principles-simplified/"><u>Generative AI Decoded: Principles Simplified</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-codec-clash-determining-the-leader-in-video-quality/"><u>In 2024, Codec Clash Determining the Leader in Video Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quoras-poe-a-step-toward-ai-engagement/"><u>Quora's POE: A Step Toward AI Engagement</u></a></li>
 </ul></div>
 

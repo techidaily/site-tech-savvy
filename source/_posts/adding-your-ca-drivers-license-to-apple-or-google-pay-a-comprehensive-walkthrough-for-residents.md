@@ -1,7 +1,7 @@
 ---
 title: "Adding Your CA Driver’s License to Apple or Google Pay: A Comprehensive Walkthrough for Residents"
-date: 2025-01-01T22:54:53.219Z
-updated: 2025-01-06T05:24:02.844Z
+date: 2025-01-09T22:56:20.641Z
+updated: 2025-01-12T23:57:52.048Z
 tags:
   - apple
 categories:
@@ -28,9 +28,17 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use Apple Pay online and in stores
 
 **What you need:** iPhone, banking information
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Set up Apple Pay in the Wallet app
 
@@ -62,6 +70,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -77,10 +89,6 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -98,10 +106,6 @@ That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.)
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I set up Apple Pay from my iPhone Settings?
 
 To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
@@ -111,21 +115,17 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -137,10 +137,6 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Apple Cash?
 
 [Apple Cash](https://www.zdnet.com/article/how-to-use-apple-cash-family-to-help-kids-develop-good-money-habits/) is a digital card in your Apple Wallet that you can use to send or receive money through the Messages app. Similar to [Venmo](https://www.zdnet.com/article/paypal-vs-venmo/) or [Cash App](https://www.zdnet.com/finance/what-is-cash-app-and-how-does-it-work-a-comprehensive-guide/), you can use Apple Cash to send a friend money to reimburse them for a meal, for example, and that friend can check out with their accumulated Apple Cash at merchants that support Apple Pay.
@@ -148,6 +144,10 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 **Also: [Have you used Cash App in the last 6 years? You might be eligible for $2,500](https://www.zdnet.com/article/have-you-used-cash-app-within-the-past-six-years-you-might-be-eligible-for-2500/)**
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
 
@@ -197,24 +197,21 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-transforming-srt-a-complete-reference-guide-for-conversion/"><u>[New] 2024 Approved Transforming SRT A Complete Reference Guide for Conversion</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-breath-of-ice-the-winter-olympics-in-china-2022/"><u>[New] In 2024, Breath of Ice The Winter Olympics in China 2022</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-leading-microphones-selection-for-uncompromised-4k-clarity/"><u>[New] Leading Microphones Selection for Uncompromised 4K Clarity</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-mastering-video-reversal-on-ios-devices/"><u>[New] Mastering Video Reversal on iOS Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-masterclass-emulation-best-ps3-clones-on-your-computer/"><u>[Updated] Masterclass Emulation Best PS3 Clones on Your Computer</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-mastering-audio-capture-from-skype-for-mp3-for-2024/"><u>[Updated] Mastering Audio Capture From Skype for MP3 for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unraveling-the-purpose-behind-facebooks-blue-icon/"><u>2024 Approved Unraveling the Purpose Behind Facebook's Blue Icon</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-transformation-career-threats-by-chatgpt/"><u>AI Transformation: Career Threats by ChatGPT?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-samsung-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Samsung</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deleting-gpt-3-complete-step-guide/"><u>Deleting GPT-3: Complete Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-failures-in-attempted-gpt-alteration/"><u>Dissecting Failures in Attempted GPT Alteration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engaging-with-gpt-4-on-current-chatgpt-platforms/"><u>Engaging With GPT-4 on Current ChatGPT Platforms</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-13-mini-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 13 mini Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/parents-resource-mastering-chatgpt-and-ai-generation/"><u>Parents' Resource: Mastering ChatGPT and AI Generation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/postpone-pruning-saving-chatgpt-talks/"><u>Postpone Pruning: Saving ChatGPT Talks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-9-plug-ins-elevating-personal-training-with-ai/"><u>Top 9 Plug-Ins Elevating Personal Training with AI</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/argain-video-snippets-grab-youtube-images-without-cost/"><u>Top Bargain Video Snippets - Grab YouTube Images Without Cost</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-untouched-understandings-in-ml-mastery/"><u>Unveiling Untouched Understandings in ML Mastery</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-the-truthgpt-that-elon-musk-claims-to-be-working-on/"><u>What Is the TruthGPT That Elon Musk Claims to Be Working On?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-enjoy-a-stream-of-nine-complete-christmas-capsules-on-youtube/"><u>[Updated] In 2024, Enjoy a Stream of Nine Complete Christmas Capsules on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-proven-film-edits-that-enhance-visual-storytelling/"><u>[Updated] Proven Film Edits That Enhance Visual Storytelling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beware-deceptions-uncover-the-truth-about-scam-ridden-mac-app-store/"><u>Beware Deceptions: Uncover the Truth About Scam-Ridden Mac App Store</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/conversione-mov-a-3g2-online-e-gratuita-con-movavi/"><u>Conversione MOV a 3G2 Online E Gratuita Con Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-apples-hidden-gem-in-the-latest-iphone-software-update/"><u>Discovering Apple's Hidden Gem in the Latest iPhone Software Update</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/easily-organize-your-windows-ablenotifications-with-our-expert-tips-from-yl-computing-the-ultimate-how-to-guide/"><u>Easily Organize Your Windows Ablenotifications with Our Expert Tips From YL Computing – The Ultimate How-To Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exciting-gpt-enhancements-essential-new-features-announced/"><u>Exciting GPT Enhancements: Essential New Features Announced</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-how-to-easily-replace-or-remove-a-protective-layer-from-mobile-devices/"><u>Expert Advice: How to Easily Replace or Remove a Protective Layer From Mobile Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keep-apple-devices-powered-and-cool-at-the-same-time-discover-our-latest-3-in-1-magsafe-dockstation/"><u>Keep Apple Devices Powered and Cool at the Same Time - Discover Our Latest 3-in-1 MagSafe DockStation!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-magsafe-battery-pack-sleek-design-and-rapid-charge/"><u>Revolutionary MagSafe Battery Pack: Sleek Design & Rapid Charge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stop-the-storage-how-to-disable-chatgpts-memory-tracker/"><u>Stop the Storage: How to Disable ChatGPT’s Memory Tracker</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-rise-of-intelligent-entertainment-through-ai-innovation/"><u>The Rise of Intelligent Entertainment Through AI Innovation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-claude-pro-insights-into-its-functionality/"><u>Unveiling Claude Pro: Insights Into Its Functionality</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-top-list-best-5-tools-for-creating-talking-avatars/"><u>Updated Top List Best 5 Tools for Creating Talking Avatars</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-multilingual-chatgpt-effectively/"><u>Utilizing Multilingual ChatGPT Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/whisking-together-a-perfect-dough-base/"><u>Whisking Together a Perfect Dough Base</u></a></li>
 </ul></div>
 

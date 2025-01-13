@@ -1,7 +1,7 @@
 ---
 title: "Interactive Bots & Your Rights: Understanding the Top 3 Concerns"
-date: 2024-09-06T23:30:22.246Z
-updated: 2024-09-07T23:30:22.246Z
+date: 2025-01-07T18:22:33.094Z
+updated: 2025-01-13T00:55:29.201Z
 tags:
   - chatgpt
   - open-ai
@@ -13,18 +13,6 @@ excerpt: "This Article Describes Interactive Bots & Your Rights: Understanding t
 thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a663fa0800cea00c3335313c9.png
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Interactive Bots & Your Rights: Understanding the Top 3 Concerns
 
 ![A padlock with keyboard keys scattered around](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/cybersecurity-1.jpg)
@@ -37,12 +25,6 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
  Millions of people now use AI chatbots worldwide, but there are some important privacy risks and concerns to keep in mind if you want to try out one of these tools.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Data Collection
 
  Most people don't use chatbots just to say hi. Modern chatbots are designed to process and respond to complex questions and requests, with users often including a lot of information in their prompts. Even if you're only asking a simple question, you don't really want it to go beyond your conversation.
@@ -56,11 +38,9 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
  But the concerns don't stop here.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How Does ChatGPT Learn?
 
  In order to provide information, large language models are trained with huge amounts of data. According to [Science Focus](https://www.sciencefocus.com/future-technology/gpt-3), ChatGPT-4 alone was fed 300 billion words of information during its training period. This isn't taken straight from a few encyclopedias. Rather, chatbot developers use masses of information from the internet to train their models. This can include data from books, movies, articles, Wikipedia entries, blog posts, comments, and even review sites.
@@ -74,11 +54,9 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 ![screenshot of chatgpt-3.5 conversation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-3-5-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Rather, it was trained using "a diverse range of text from the internet, including websites, books, articles, and other publicly available written material up until September 2021."
 
  But is the case the same for GPT-4?
@@ -98,17 +76,9 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
  ChatGPT may be the biggest AI chatbot today, but chatbot privacy issues don't start and end with this provider. If you're using a shady chatbot with a lackluster privacy policy, your conversations may be misused, or highly sensitive information may be used in its training data.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Data Theft
 
  Like any online tool or platform, chatbots are vulnerable to cybercrime. Even if a chatbot did all it could to protect users and their data, there's always a chance that a savvy hacker will manage to infiltrate its internal systems.
@@ -121,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
  In March 2023, MUO reported on a [fake ChatGPT Chrome extension stealing Facebook logins](https://www.makeuseof.com/fake-chatgpt-chrome-extension-steals-facebook-logins/). The plugin could exploit a Facebook backdoor to hack high-profile accounts and steal user cookies. This is just one example of numerous phony ChatGPT services designed to con unknowing victims.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Malware Infection
 
  If you're using a shady chatbot without realizing it, you may find the chatbot providing you with links to malicious websites. Maybe the chatbot has alerted you of a tempting giveaway, or provided a source for one of its statements. If the operators of the service have illicit intentions, the entire point of the platform may be to spread malware and scams via malicious links.
@@ -132,11 +106,9 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
  Additionally, you should never install any chatbot plugins and extensions without verifying their legitimacy first. Do a little research around the app to see if it's been well-reviewed, and also run a search of the app's developer to see if you find anything shady.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Chatbots Aren't Impervious to Privacy Issues
 
  Like most online tools nowadays, chatbots have been repeatedly criticized for their possible security and privacy pitfalls. Whether it's a chatbot provider cutting corners when it comes to user safety, or the ongoing risks of cyberattacks and scams, it's crucial that you know what your chatbot service is collecting on you, and whether it's employed adequate security measures.
@@ -149,14 +121,11 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
  Millions of people now use AI chatbots worldwide, but there are some important privacy risks and concerns to keep in mind if you want to try out one of these tools.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -165,4 +134,19 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-leading-8-linux-programs-for-screenshots/"><u>[New] In 2024, The Leading 8 Linux Programs for Screenshots</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-creating-cohesive-content-with-soundtracks-on-instagram/"><u>[Updated] 2024 Approved Creating Cohesive Content with Soundtracks on Instagram</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-finding-liquid-within-iphone-charger-port-a-guide-to-fixing-the-issue-on-your-device/"><u>1. 'Finding Liquid Within iPhone Charger Port: A Guide to Fixing the Issue on Your Device'</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-equipment-breakdown-and-advice-from-tech-virtuoso-tom/"><u>Advanced Equipment Breakdown & Advice From Tech Virtuoso, Tom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deconstructing-the-turing-test-can-it-be-bested/"><u>Deconstructing the Turing Test: Can It Be Bested?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-windows-11-7-or-8-devices-ready-download-the-latest-zexmo-bluetooth-adapter-drivers/"><u>Get Your Windows 11, 7 or 8 Devices Ready: Download the Latest Zexmo Bluetooth Adapter Drivers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hugging-face-unveiled-significance-and-uses/"><u>Hugging Face Unveiled: Significance and Uses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mac-and-ai-synergy-the-definitive-techniques-for-utilizing-chatgpt-efficiently/"><u>Mac and AI Synergy: The Definitive Techniques for Utilizing ChatGPT Efficiently</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transforming-audio-to-text-on-slides-for-ppt/"><u>Transforming Audio to Text on Slides for PPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-academic-potential-effective-note-taking-and-chatgpt/"><u>Unlock Academic Potential: Effective Note Taking & ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-the-hazards-of-gpt-phone-apps/"><u>Unpacking the Hazards of GPT Phone Apps</u></a></li>
+</ul></div>
 

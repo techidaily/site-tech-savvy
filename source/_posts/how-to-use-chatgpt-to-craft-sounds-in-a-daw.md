@@ -1,7 +1,7 @@
 ---
 title: How to Use ChatGPT to Craft Sounds in a DAW
-date: 2024-09-06T23:30:20.613Z
-updated: 2024-09-07T23:30:20.613Z
+date: 2025-01-05T17:02:58.860Z
+updated: 2025-01-12T22:17:42.727Z
 tags:
   - chatgpt
   - open-ai
@@ -23,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
  Instead of turning knobs and moving sliders at random hoping to get a sound you like, you can use ChatGPT to suggest values to start experimenting with. It also provides a handy resource for learning more about the wide range of audio effect parameters you come across in a DAW.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT in Music Production
 
  Working with ChatGPT in your music production workflow presents an interesting use case. Since it was trained on an enormous trove of text from across the internet, it understands the expressions we use to describe music, as well as the technical speak used to describe effects plugins in DAWs.
@@ -61,12 +55,6 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
  Keep in mind that every plugin is unique and will have different types of controls with various names. So fill in the blank part of the prompt with a list of parameters that matches the plugin you are using.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Applying the Settings to Your Plugin
 
  If you use the prompt format from the previous step, ChatGPT will produce a neatly ordered table with the plugin parameters listed in the left column, and the recommended values given in the right column.
@@ -77,18 +65,6 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
 ![Table of audio settings produced by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-logicpro-plugin-settings-results.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you input ChatGPT's suggested settings, listen to the results and see what you think. Here is the result of the prompt we tried above:
 
  Generally, ChatGPT will list values with a small range, so you have some wiggle room to play with the suggestion. Of course, you aren't beholden to these suggestions by any means, so feel free to use them as a starting point and adjust as needed.
@@ -99,15 +75,13 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
  It may be tiring to hear, but nonetheless true.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tips and Tricks
 
  In addition to the basic prompt format that we've outlined, there are a few extra things you can experiment with. These tips and tricks will help you play with, or expand on, ChatGPT's responses.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Ask for an Explanation
 
@@ -115,32 +89,36 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
 ![A table produced by ChatGPT including recommended audio settings plus explanations.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-logicpro-table-explanation.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Follow-Up Questions
 
  Sometimes the explanations can be hit or miss, so if there is a parameter you want more information about, ask ChatGPT a follow-up question. You can treat the AI chatbot like you would a person and ask it to explain something in depth. If it starts to use too much jargon, ask it to write the answer in simple terms or use a metaphor.
 
  There are several [prompting techniques for ChatGPT](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) that can help you distill the information you're looking for.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Get Variations
 
  A good way to get a different result is to have ChatGPT regenerate its response to your prompt. The **Regenerate response** button sits just above the text box, and you can click it to get a slightly different answer.
 
 ![Screenshot of ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-logicpro-variations.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Additionally, look for a couple of arrows near the top left-hand side of ChatGPT's response. You can use them to move back and forth between the different results.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT: An Unsuspecting Music Production Tool
 
  Pairing ChatGPT with music production in this way is both constructive and instructive, serving as an unlikely tool for learning the ways of crafting sound effects. Starting with a prompt format, you can use ChatGPT to give ballpark values for distortion, chorus, or delay plugins, among others.
@@ -151,14 +129,11 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
  Instead of turning knobs and moving sliders at random hoping to get a sound you like, you can use ChatGPT to suggest values to start experimenting with. It also provides a handy resource for learning more about the wide range of audio effect parameters you come across in a DAW.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -167,4 +142,21 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-investment-alert-avoid-the-trap-of-artificial-youtube-engagement/"><u>[New] 2024 Approved Investment Alert Avoid the Trap of Artificial YouTube Engagement</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-transform-your-editing-master-the-fade-effect/"><u>[New] In 2024, Transform Your Editing Master the Fade Effect</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-amps-up-artificial-intelligence-initiatives-exploring-capabilities-of-its-latest-ai-models-insights/"><u>Apple Amps Up Artificial Intelligence Initiatives: Exploring Capabilities of Its Latest AI Models - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-memories-safely-store-em/"><u>ChatGPT Memories, Safely Store 'Em!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-through-the-mullvad-myth/"><u>Cutting Through the Mullvad Myth</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ovie-making-youtubes-boutique-method-for-2024/"><u>DIY Movie Making YouTube's Boutique Method for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/examining-the-purpose-of-chatgpt-extras/"><u>Examining the Purpose of ChatGPT Extras</u></a></li>
+<li><a href="https://win11.techidaily.com/harmonizing-gmail-and-outlook-on-pc-simple-steps/"><u>Harmonizing Gmail & Outlook on PC: Simple Steps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-goofy-flick-an-analysis-of-the-goofy-movie/"><u>In 2024, Goofy Flick An Analysis of 'The Goofy Movie'</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-picart-anonymizer-swiftly-hide-identities/"><u>In 2024, PicArt Anonymizer Swiftly Hide Identities</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-powerpoint-recording-on-camera-for-professionals/"><u>Mastering PowerPoint Recording on Camera for Professionals</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/minecraft-bildschirmfotos-speichern-and-wiederherstellen-losungen-fur-verlorene-snapshots/"><u>Minecraft Bildschirmfotos: Speichern & Wiederherstellen – Lösungen Für Verlorene Snapshots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionized-search-microsofts-ai-infused-bing/"><u>Revolutionized Search: Microsoft's AI-Infused Bing</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-20-stability-issues-how-to-prevent-frequent-pc-crashes/"><u>Warzone 2.0 Stability Issues - How to Prevent Frequent PC Crashes</u></a></li>
+</ul></div>
 

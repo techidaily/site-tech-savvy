@@ -1,7 +1,7 @@
 ---
 title: "Enhancing User Experience: Building a Web App with GPT-3"
-date: 2024-09-06T23:30:22.844Z
-updated: 2024-09-07T23:30:22.844Z
+date: 2025-01-07T17:33:12.740Z
+updated: 2025-01-12T16:41:03.969Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Enhancing User Experience: Building a Web App w
 thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f38856a330aa448f0606df3e468d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enhancing User Experience: Building a Web App with GPT-3
 
  One of the biggest claims of the hype surrounding ChatGPT is that it can be an effective programming tool. The idea goes as follows: you describe what you want in natural language; the chatbot generates code that does just that. But how good actually is ChatGPT at doing this?
@@ -29,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
 
  What better way to find out than putting it to the test? We asked ChatGPT to build a simple web app from scratch. Here's the result of our test and the steps you can use to build a website from scratch using ChatGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 1: Generating the Blueprint for Your Web App
 
  Just like you'd do when building a web app with any tool, you'd need to lay out the blueprint of what you want your app to look like and the steps you'll need to build it before letting ChatGPT run the show.
@@ -47,18 +35,16 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
 
 ![Flowchart or blueprint of web app developed by chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/flowchart-or-blueprint-of-web-app-developed-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'd need to have the "Show Me" plugin enabled on your ChatGPT account to generate a flowchart like ours above. You can [install and use ChatGPT plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) in just a few steps, although you will need a premium subscription.
 
  Without the plugin, you'll get a text-based blueprint or an ASCII-art flowchart. That's still okay. Even without the plugin, ChatGPT should still provide a clear blueprint of the app like the example below.
 
 ![text-based breakdown of web app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/text-based-breakdown-of-web-app-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 2: Splitting the Blueprint Into Smaller Modules
 
  Now that we have the big picture laid out, we asked ChatGPT for help in splitting the app into smaller components that we can develop separately and then integrate to form the complete web app. ChatGPT suggested breaking it into three components:
@@ -75,19 +61,21 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
 
 ![Prompt for building the registration component](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-for-building-the-registration-component.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And here's the result:
 
 ![Algorithm for user registration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/algorithm-for-user-registration.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Up next, we prompted ChatGPT to build the registration component.
 
 ![prompt to generate the registration component](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-to-generate-the-registration-component-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Although we didn't include the password field as part of the registration process, ChatGPT made the right call by including it in the generated HTML code. We copied the code without any modifications, and here's how it looks on a browser.
 
@@ -103,12 +91,6 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
 
 ![Generated SQL code for the creating database by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/generated-sql-code-for-the-creating-database-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And here's the table created by executing the SQL:
 
 ![Database created by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/database-created-by-chatgpt.jpg)
@@ -116,29 +98,29 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
  With the database set up, we tried our first registration, and it worked without any errors.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Building the Login Component
 
  With the registration component out of the way, we took on the Login component. Surprisingly, it was the easiest to build despite the additional logic of session management.
 
 ![Prompt to generate login script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/prompt-to-generate-login-script.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here's the generated login page. A key highlight is that it uses the same color options as the registration page.
 
 ![ChatGPT-generated login page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-generated-login-page.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After creating a "server.login.php" file as instructed by ChatGPT and adding the generated PHP script, we made our first successful login without any modifications or debugging.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Building the Chat Component
 
  Building the chat component was the final—and probably toughest part—of our little experiment. At first, we simply asked ChatGPT to write out the code for the chat component. Needless to say, it was a colossal failure. For more complex components of anything you want to create, you'll need to split it up into smaller components and tackle them one after another.
@@ -152,11 +134,9 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
  When ChatGPT suggests a file name, using a different name in your project might inadvertently cause problems as the chatbot will reference the same name in all the code it creates throughout the project. We found out the hard way. Don't make the same mistake.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Creating the Chat.php Page
 
  To start, we gave ChatGPT detailed instructions on how we wanted the chat interface to look.
@@ -164,21 +144,13 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
 ![ChatGPT prompt to generate HTML for the Chat interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompt-to-generate-html-for-the-chat-interface.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After running the generated HTML code, we had a chat interface without a message input box. To fix this, we simply prompted ChatGPT to "**rewrite the code to include a message input box and a send button.**" Here's how the generated code looks on a browser on the second trial.
 
 ![sample chat interface generated by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sample-chat-interface-generated-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Whenever generated code fails to give the desired results or omits an important component, simply prompt ChatGPT to rewrite the last code. Tell it to include the component or do whatever wasn't done in the initial code. Here are [some tips on how to use ChatGPT for programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/).
 
 ### Creating the "send-messages.php" and "Fetch-messages" Page
@@ -187,12 +159,6 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
 
 ![SQL to create chat messages table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sql-to-create-chat-messages-table.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After generating an SQL code, we asked the chatbot to generate a PHP script to handle the messaging logic.
 
 ![ChatGPT prompts to send and receive messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompts-to-send-and-receive-messages.jpg)
@@ -221,8 +187,6 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -230,4 +194,21 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-elevating-efficiency-with-best-heavy-haulers-drone/"><u>[New] Elevating Efficiency with Best Heavy Haulers Drone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-full-exploration-screenflow-v4-on-the-mac-platform-for-2024/"><u>[New] Full Exploration ScreenFlow v4 on the Mac Platform for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unlock-the-potential-of-youtube-videos-the-ultimate-chapter-addition-technique/"><u>[Updated] 2024 Approved Unlock the Potential of YouTube Videos The Ultimate Chapter Addition Technique</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-overcoming-uneven-sound-in-fb-video-playback-for-2024/"><u>[Updated] Overcoming Uneven Sound in FB Video Playback for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-create-logos-via-free-logo-template-customize-and-download-for-free/"><u>2024 Approved Create Logos via Free Logo Template Customize and Download for Free</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-toolkit-analyzing-gpts-learning-efficacy/"><u>AI Toolkit: Analyzing GPT's Learning Efficacy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bringing-back-lost-digital-discussions/"><u>Bringing Back Lost Digital Discussions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-apples-latest-visionos-enhancement-profile-overhaul-and-additional-features/"><u>Exploring Apple's Latest VisionOS Enhancement: Profile Overhaul & Additional Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-future-foresight-outshining-magazine-astrology/"><u>GPT's Future Foresight: Outshining Magazine Astrology?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/innovative-techniques-for-backward-video-editing-in-snapchat-apps/"><u>Innovative Techniques for Backward Video Editing in Snapchat Apps</u></a></li>
+<li><a href="https://win-info.techidaily.com/losungen-fur-das-update-problem-warum-sie-in-ios-16-keine-anderungen-sehen-konnen-erkenntnisse-durch-fonetool/"><u>Lösungen Für Das Update-Problem: Warum Sie in iOS 16 Keine Änderungen Sehen Können – Erkenntnisse Durch FoneTool</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mastering-zoom-meetings-with-ease-integrating-skype-functions/"><u>Mastering Zoom Meetings with Ease Integrating Skype Functions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-data-management-hurdles-excel-plus-chatgpt/"><u>Overcoming Data Management Hurdles: Excel + ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-vanishing-mouse-cursors-under-windows-11-step-by-step-instructions/"><u>The Ultimate Fix for Vanishing Mouse Cursors Under Windows 11 - Step-by-Step Instructions</u></a></li>
+</ul></div>
 

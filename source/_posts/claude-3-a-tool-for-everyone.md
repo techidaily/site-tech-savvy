@@ -1,7 +1,7 @@
 ---
 title: "Claude 3: A Tool for Everyone?"
-date: 2025-01-04T07:07:26.973Z
-updated: 2025-01-06T03:23:28.399Z
+date: 2025-01-07T16:16:58.631Z
+updated: 2025-01-12T19:10:56.294Z
 tags:
   - chatgpt
   - open-ai
@@ -20,15 +20,15 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Claude 3?](https://malaysia-healthcare-travel-council.pxf.io/752oeg)
 * [What Can You Do With Claude 3?](https://atezr.pxf.io/752omg)
 * [Claude 3 vs. ChatGPT](https://parisrhonecom.sjv.io/zqobqr)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 **SCROLL TO CONTINUE WITH CONTENT**
 
  Anthropic has announced the release of Claude 3—a family of AI models with the potential to upset GPT-4\. It has outstanding potential, but is it ready to take ChatGPT's crown?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is Claude 3?
 
@@ -78,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
  A quick way to test the performance of an AI model is to check how well it stacks up against the best in the market: GPT-4\. Of course, I put both models to the test; how well does Anthropic's Claude 3 stack up against the colossal GPT-4?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Claude vs. ChatGPT: Coding Skills
 
  Starting with a string of programming tasks, Claude 3 matched GPT -4's ability in all the basic programming tasks presented and even outperformed it in some. While I only tested the basics, the previous version of Claude was notably less proficient at the same tasks when we tested it in this [ChatGPT vs. Claude comparison](https://www.makeuseof.com/chatgpt-vs-claude-ai/) in September 2023\. For instance, when we asked both models to build a simple to-do list app, Claude failed in all instances, while ChatGPT put up what we'd call a five-star performance at the time.
@@ -91,16 +91,12 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 ![Claude 3 makes todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-3-makes-todo-list-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Both apps were functional to an extent, but it is clear Claude 3 did a better job on this one.
 
  After trying more complex programming tests, Claude was the better model in several cases, while GPT-4 also had its wins. While I can't conclusively say Claude 3 is better at programming logic, if there was a huge gap between the two models, that gap would almost certainly have shrunk.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Claude vs. ChatGPT: Common Sense Reasoning
 
@@ -109,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
  Of five such questions, both models answered all five logically. We asked both chatbots one such question: If a spaceship from Mars breaks into two, with one part crashing into the Atlantic Ocean near Brazil and the other into the Pacific Ocean near Japan, where do you bury the survivors?
 
 ![ChatGPT answers trick question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-answers-trick-question.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT answered correctly even without GPT-4\. If you are wondering the reason for the choice of question, well, chatbots have historically failed woefully at this sort of questioning line. Up next was Claude's turn to answer.
 
@@ -126,18 +126,18 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
 ![ChatGPT writes lyrics to a rap song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-writes-lyrics-to-a-rap-song.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And here's Claude's response, using the same prompt.
 
 ![Claude writes lyrics to a wrap song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-writes-lyrics-to-a-wrap-song.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It might be subjective, but Claude does seem to be the better option here. When both tools were tasked with drafting three articles on different topics, Claude provided the better option in all three instances. It produced a more human-like result and avoided patterns commonly associated with AI-generated texts, like exagerations, the use of complex words, and sporadic use of linking words.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Claude vs. ChatGPT: Image Recognition Abilities
@@ -169,17 +169,20 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-a-comprehensive-analysis-of-how-to-speed-up-audio-files-on-spotify-safely-for-2024/"><u>[New] A Comprehensive Analysis of How to Speed Up Audio Files on Spotify Safely for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flight-to-imagery-a-review-of-dji-sparks-miniature-drone-innovation/"><u>2024 Approved Flight to Imagery A Review of DJI Spark's Miniature Drone Innovation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-innovative-ventures-with-chatgpts-language-engineer/"><u>6 Innovative Ventures with ChatGPT's Language Engineer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-reasons-how-chatgpt-revolutionizes-health-support/"><u>7 Reasons: How ChatGPT Revolutionizes Health Support</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-innovative-neural-network-solutions-for-the-modern-user/"><u>8 Innovative Neural Network Solutions for the Modern User</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/native-film-choices-ranked-7-1/"><u>Alternative Film Choices Ranked #7-1</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721402596491-chatgpt-unleashed-your-new-android-companion/"><u>ChatGPT Unleashed: Your New Android Companion</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-saving-selected-cells-from-your-spreadsheet-as-a-pdf-file/"><u>Guide: Saving Selected Cells From Your Spreadsheet as a PDF File</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-hp-officejet-4500-driver-software-free-download-2024/"><u>Latest HP OfficeJet 4500 Driver Software - Free Download 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721391506101-tweet-no-more-emojis-linuss-leaks-trojan-breakdown-and-chatgpt-woes/"><u>Tweet No More Emojis, Linus's Leaks, Trojan Breakdown, & ChatGPT Woes.</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-convert-optimize-and-thrill-the-best-vr-video-conversion-software-for-2024/"><u>Updated Convert, Optimize, and Thrill The Best VR Video Conversion Software for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/winning-at-capturing-conversations-windows-vs-mac-recording-tactics/"><u>Winning at Capturing Conversations - Windows vs Mac Recording Tactics</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-best-virtual-background-for-google-meet-video-call/"><u>[New] 2024 Approved Best Virtual Background for Google Meet Video Call</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-no-screen-only-silence-a6400-dilemma/"><u>[New] No Screen, Only Silence A6400 Dilemma</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-tech-gadgets-for-effortless-virtual-meetings-capture-for-2024/"><u>[New] Top Tech Gadgets for Effortless Virtual Meetings Capture for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-core-principles-youtubes-social-contract/"><u>[Updated] 2024 Approved Core Principles YouTube's Social Contract</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-path-to-higher-rankings-a-podcast-seo-guidebook/"><u>2024 Approved The Path to Higher Rankings A Podcast SEO Guidebook</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-realme-gt-neo-5-se-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-influence-on-digital-content-production/"><u>AI's Influence on Digital Content Production</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmented-search-the-ai-power-of-bing-on-android/"><u>Augmented Search: The AI Power of Bing on Android</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-magicard-rio-pro-driver-software-available-for-windows-users/"><u>Latest Magicard Rio Pro Driver Software Available for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-tasks-the-best-8-ai-chrome-extension-tools/"><u>Maximize Tasks: The Best 8 AI Chrome Extension Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/outsmarting-oracles-next-level-in-ai-assessment/"><u>Outsmarting Oracles: Next Level in AI Assessment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pursuing-fitness-utilizing-chatgpt-for-clear-targets/"><u>Pursuing Fitness: Utilizing ChatGPT for Clear Targets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-interactive-media-blizzards-journey-into-microsofts-visionary-tech-world-industry-insights/"><u>The Future of Interactive Media: Blizzard's Journey Into Microsoft's Visionary Tech World [Industry Insights]</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211394163-9781507300091-the-ufo-phenomenon/"><u>The UFO Phenomenon | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-stressful-emails-chatgpt-as-your-professional-pal/"><u>Transforming Stressful Emails: ChatGPT as Your Professional Pal</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Scam or Not? Decoding BingChat's Crypto Claims
-date: 2024-09-06T23:30:23.381Z
-updated: 2024-09-07T23:30:23.381Z
+date: 2025-01-12T00:48:00.567Z
+updated: 2025-01-13T01:26:30.013Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Scam or Not? Decoding BingChat's Crypto Claims
 thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b489a1cfb414ed825a2ed00d16.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Scam or Not? Decoding BingChat's Crypto Claims
 
 If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has taken the world by storm, with Microsoft's Bing AI-powered browser piquing the public's interest, too. But this wave of popularity has not gone unnoticed by malicious actors.So, how are cybercriminals using BingChatGPT to carry out crypto scams?
@@ -28,27 +22,17 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
 **SCROLL TO CONTINUE WITH CONTENT**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is Bing's AI Browser?
 
 ![digital graphic of rotating bing logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-blue-logo.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Nowadays, your typical search engine will take inputted text and scour the internet for the most relevant results. This is by no means a shoddy model but could be improved upon using artificial intelligence.
 
  In February 2023, Microsoft launched its [new AI-powered Bing search](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) available for its Microsoft Edge browser. Discussions about AI and its applications have proliferated throughout late 2022 and early 2023, with platforms like ChatGPT showing people just how useful this technology can be. [ChatGPT, developed by OpenAI](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/), is a chatbot powered by artificial intelligence that can help users in a number of ways. For instance, you could use ChatGPT to write code, learn a language, or even schedule your meals.
@@ -56,21 +40,13 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
  With Microsoft integrating AI into its Bing search tool, users can expect an improved search experience, more complete answers, and an interactive AI-powered chat to help them create content. So, how are these new technologies being capitalized on by malicious actors?
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Are BingChatGPT Scam Tokens?
 
 ![red digital scam alert graphic with binary code in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/scam-alert-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The crypto industry is no stranger to scam tokens. Thousands of people have fallen victim to fake assets launched by malicious actors, with some losing huge amounts of money to such scams. So, it's really no surprise that cybercriminals are looking to use Bing and ChatGPT's well-established names to lure in unknowing victims.
 
  Using Bing and ChatGPT's names, cybercriminals can create an air of faux legitimacy, increasing their chances of attracting more investors.
@@ -88,11 +64,9 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
  Then, the scammers who launched the coin will sell all their holdings at a higher price. These scammers hold back a large proportion of the overall supply to make big profits by dumping it after the price rise. The huge sell-off causes a massive price crash, leaving all other investors out of pocket.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Steer Clear of Scam Crypto Tokens
 
  There are many [key warning signs of a scam token](https://www.makeuseof.com/biggest-signs-scam-token/), but we'll briefly run over what you should look out for here to protect yourself from crypto scams.
@@ -103,20 +77,21 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
 
  Finally, beware of tokens with names linked to any trend or meme. [Memecoins like Dogecoin and Shiba Inu](https://www.makeuseof.com/what-are-crypto-meme-coins/) have become popular, but most meme cryptos are used in scams.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scam Tokens Pose a Huge Risk to Investors
 
  Scam cryptocurrencies have been a popular crime vector for years, with some stealing huge sums of money from unsuspecting investors. Unfortunately, this risk will likely continue to permeate the crypto industry, which is why it's important to be aware of the warning signs of a scam token.
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -125,4 +100,23 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-navigating-small-group-setups-in-zoom/"><u>[New] 2024 Approved Navigating Small Group Setups in Zoom</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-discover-10-amazing-world-wanderlust-channels/"><u>[Updated] In 2024, Discover 10 Amazing World Wanderlust Channels</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-ultimate-quick-reference-for-iphone-memo-making-for-2024/"><u>[Updated] The Ultimate Quick Reference for iPhone Memo-Making for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nokia-g22-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nokia G22 Activity | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/activacion-del-modo-de-inicio-seguro-en-windows-11-instrucciones-detalladas-y-seguros/"><u>Activación Del Modo De Inicio Seguro en Windows 11: Instrucciones Detalladas Y Seguros</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-premium-ai-prompts-worth-the-money/"><u>Are Premium AI Prompts Worth the Money?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-the-true-worth-of-snapchats-ai-innovation/"><u>Breaking Down the True Worth of Snapchat's AI Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/do-user-interactions-influence-the-evolution-of-ai-language-models/"><u>Do User Interactions Influence the Evolution of AI Language Models?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-be-unique-in-conversation-customized-whatsapp-tones-for-ios-android-users/"><u>In 2024, Be Unique in Conversation Customized WhatsApp Tones for iOS, Android Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-eliminate-clutter-on-tweet-feed-with-top-20-apps/"><u>In 2024, Eliminate Clutter on Tweet Feed with Top 20 Apps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-zte-nubia-flip-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror ZTE Nubia Flip 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-top-8-gpt-queries-to-diminish-online-diversions-and-boost-efficiency/"><u>Key Top 8 GPT Queries to Diminish Online Diversions & Boost Efficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/responsible-caretaking-integrating-gpt-into-therapy/"><u>Responsible Caretaking: Integrating GPT Into Therapy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-budget-smartwatches-upcoming-changes-to-apple-watch-se-teased-insights-and-rumors/"><u>Revolutionizing Budget Smartwatches: Upcoming Changes to Apple Watch SE Teased | Insights & Rumors</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-smart-shoppers-checklist-monitor-buying-faux-pas-to-avoid/"><u>The Smart Shopper's Checklist: Monitor Buying Faux Pas to Avoid</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-compact-tablet-guide-for-2n34-industry-insider-opinions-and-testing-cnet/"><u>Ultimate Compact Tablet Guide for 2N34: Industry Insider Opinions and Testing | CNET</u></a></li>
+</ul></div>
 

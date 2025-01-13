@@ -1,7 +1,7 @@
 ---
 title: Vital Upgrades to Revolutionize the GPT Plugin Registry
-date: 2024-09-06T23:30:20.275Z
-updated: 2024-09-07T23:30:20.275Z
+date: 2025-01-09T22:17:53.979Z
+updated: 2025-01-12T17:44:54.035Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Vital Upgrades to Revolutionize the GPT Plugin R
 thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7d068192b7f160e6562e70f2.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Vital Upgrades to Revolutionize the GPT Plugin Registry
 
  The introduction of ChatGPT plugins is one of the best things to happen to ChatGPT. Plugins have given ChatGPT users a way to extend the functionalities of the AI chatbot, achieving a lot of what would normally be impossible to do with ChatGPT.
@@ -32,14 +26,16 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Introduce a Rating System
 
 ![illustration of rating in the chatgpt plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-rating.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The once sparse number of plugins in the ChatGPT plugins store has now grown into the hundreds. However, a vast number of them perform similar functions, although with varying effectiveness. Take PDF reader plugins, for instance. A quick search for "PDF" will turn up a dozen PDF reader options. Some of them work seamlessly, while others sputter and stall. You'll face a similar scenario when searching for link reader plugins. There are a lot of them, but not all work as advertised.
 
@@ -47,15 +43,13 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
 
  If done right, a ratings and reviews system can help ChatGPT users immediately identify useful plugins and avoid wasting time trying to try out ones that don't work as advertised. It will also be a way for users to provide feedback to plugin developers and help developers understand what's needed and how they can improve their plugins.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Introduce Plugin Categorization
 
 ![Categorization in the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/categories-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Right now, every plugin that makes its way to the plugin store is lumped together in one big mess. It doesn't matter what a plugin does; whether it helps you write code or it helps you summarize YouTube videos, everything is lumped together. There's really no healthy way to tell what a group of plugins does from the other. There's no grouping at all. As the number of plugins in the store keeps growing, this will eventually become a chaotic mess.
 
@@ -63,26 +57,22 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
 
  It's not just consumers that categorization would help. It would also help developers gain valuable market insights since the number and growth of apps in each category will highlight where demand and opportunities exist. Consequently, developers can better decide which plugins to develop and through which categories they'll need to get them in front of the right audience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Strict Review Process Before Accepting Plugins
 
 ![lens with sparkles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/lens-with-sparkles.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While the rapid increase in the number of plugins in the ChatGPT plugin store is commendable, there's no argument for a bloated plugin store if the quality of plugins is poor. When we explored the plugin store to find the [best ChatGPT plugins](https://www.makeuseof.com/best-chatgpt-plugins/), we ran into many duds and gimmicks that had no business being there. Right now, it seems whatever plugin a developer throws at OpenAI is accepted, making us wonder whether there's even any form of review process in place.
 
  This runs the risk of turning the innovative store into a collection of mediocre plugins, drowning out those that provide immense value to users. A stringent pre-publication review identifies and ensures that low-quality or buggy plugins are rejected, ensuring only stable, functioning plugins that solve a serious problem make it into the store. Overall, a strict review process will help improve user trust for plugins, reduce user risk, and benefit the entire ChatGPT plugin ecosystem.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Provide Access to More Advance Development Tools
 
 ![chatgpt logo alongside cogs](https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b14ea9611940de411cb7abe5.jpg)
@@ -93,18 +83,6 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
 
  The solution? Improved, granular, and lower-level access to ChatGPT's underlying AI models. Granular access will allow developers to build more complex and powerful plugins that can harness the full capabilities of the model in innovative ways. And then maybe we'd be able to have plugins other than PDF readers and link readers everywhere on the plugin store.
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## OpenAI Should Rectify Early Missteps
 
  The ChatGPT plugin ecosystem holds tremendous potential, but realizing its full capabilities requires addressing a few pain points. Implementing more transparent rating systems, robust testing protocols, and advanced discovery tools would greatly improve the user experience. The store can become an even more vibrant marketplace with sound policies and smart design choices.
@@ -117,14 +95,11 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
 
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,4 +108,18 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-economical-path-to-skype-calls-as-mp3-files/"><u>[New] 2024 Approved The Economical Path to Skype Calls as MP3 Files</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-guide-to-resolving-civilization-vi-performance-hiccups/"><u>Comprehensive Guide to Resolving Civilization VI Performance Hiccups</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/crafting-seamless-layouts-an-expert-guide-to-the-edit-pattern-box/"><u>Crafting Seamless Layouts: An Expert Guide to the Edit Pattern Box</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effortless-migration-of-existing-files-and-systems-from-old-hard-drives-to-new-ssdshdds-no-reinstallation-necessary/"><u>Effortless Migration of Existing Files and Systems From Old Hard Drives to New SSDs/HDDs: No Reinstallation Necessary</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-harness-the-power-of-google-maps-for-discovering-ev-charging-facilities-near-you/"><u>How to Harness the Power of Google Maps for Discovering EV Charging Facilities Near You</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-excellence-exchange-global-creators/"><u>In 2024, Excellence Exchange Global Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-gen-coding-tools-alternatives-to-chatgpt-leading-the-way/"><u>Next-Gen Coding Tools: Alternatives to ChatGPT Leading the Way</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rapid-bavarder-configuration-guide-for-linux/"><u>Rapid Bavarder Configuration Guide for Linux</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/selective-movie-tease-treasury-for-2024/"><u>Selective Movie Tease Treasury for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-enhancements-required-for-android-to-elevate-its-competition-with-apples-ios-insights-from-zdnet/"><u>Top 5 Enhancements Required for Android to Elevate Its Competition with Apple's iOS: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-resetting-your-airpods-effortlessly-and-understanding-when-its-necessary/"><u>Ultimate Guide: Resetting Your AirPods Effortlessly & Understanding When It's Necessary</u></a></li>
+</ul></div>
 

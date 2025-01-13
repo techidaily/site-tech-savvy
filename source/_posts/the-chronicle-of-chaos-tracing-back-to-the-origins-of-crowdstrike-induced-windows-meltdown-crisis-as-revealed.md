@@ -1,7 +1,7 @@
 ---
 title: "The Chronicle of Chaos: Tracing Back to the Origins of CrowdStrike-Induced Windows Meltdown Crisis , as Revealed"
-date: 2025-01-03T18:07:18.463Z
-updated: 2025-01-05T20:49:15.827Z
+date: 2025-01-06T21:42:10.521Z
+updated: 2025-01-13T00:37:20.909Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,24 +176,17 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-apple-podcasts-a-quick-download-method/"><u>[New] 2024 Approved Apple Podcasts A Quick Download Method</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-becoming-an-instagram-editor-extraordinaire/"><u>[New] 2024 Approved Becoming an Instagram Editor Extraordinaire</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-essential-guide-for-cost-free-google-meet-management/"><u>[New] In 2024, The Essential Guide for Cost-Free Google Meet Management</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-quicktime-stop-screen-recording-guide-for-2024/"><u>[Updated] Quicktime Stop Screen Recording (Guide) for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-ultimate-list-low-cost-high-definition-cameras/"><u>[Updated] Ultimate List Low-Cost, High Definition Cameras</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-happy-enrollment-and-logout-flowchart/"><u>2024 Approved Happy Enrollment & Logout Flowchart</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nokia-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Nokia</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/biodiversity-losses-linked-to-climate-or-just-a-coincidence/"><u>Biodiversity Losses Linked to Climate, or Just a Coincidence?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-refining-home-task-management/"><u>ChatGPT's Role in Refining Home Task Management</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/generating-conversational-genius-who-will-excel/"><u>Generating Conversational Genius - Who Will Excel?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oneplus-nord-3-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on OnePlus Nord 3 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-edge-presentation-crafting-via-advanced-chatgpt-techniques/"><u>Leading-Edge Presentation Crafting via Advanced ChatGPT Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-future-of-ai-linguistics-introducing-palm-2/"><u>Navigating the Future of AI Linguistics: Introducing PaLM 2</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-capabilities-on-a-windows-ebox-with-windows-7-os/"><u>Restoring Audio Capabilities on a Windows Ebox with Windows 7 OS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailoring-essays-with-ai-assistance-gpt-methods/"><u>Tailoring Essays with AI Assistance: GPT Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-the-potential-of-written-expression/"><u>Unleash the Potential of Written Expression</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-generative-ai-its-impact-and-promise/"><u>Unraveling Generative AI: Its Impact and Promise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unreliable-summings-think-twice-before-using-gpt-powered-bots/"><u>Unreliable Summings: Think Twice Before Using GPT-Powered Bots</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-editorxperience-deep-dive-complete-look-at-androvids-features-for-2024/"><u>[New] EditorXperience Deep Dive – Complete Look at AndroVid's Features for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-affordable-subscriber-boost-buy-and-sell-youtube-views/"><u>[Updated] Affordable Subscriber Boost Buy & Sell YouTube Views</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-transform-stories-in-a-flash-free-extensions-and-mobile-magic/"><u>2024 Approved Transform Stories in a Flash – Free Extensions & Mobile Magic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-high-quality-discover-how-apples-sub-100-airpods-counterpart-might-revolutionize-your-audio-experience/"><u>Affordable High-Quality: Discover How Apple's Sub-$100 AirPods Counterpart Might Revolutionize Your Audio Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-microsoft-surface-pro-8-evaluation-the-ultimate-device-for-professionals-analysis-on-zdnet/"><u>Comprehensive Microsoft Surface Pro 8 Evaluation: The Ultimate Device for Professionals? - Analysis on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engaging-with-algorithms-mistrals-encounter-with-chatgpt/"><u>Engaging with Algorithms: Mistral's Encounter With ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/healthy-eating-strategies-using-gpt-assist/"><u>Healthy Eating Strategies Using GPT-Assist</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-12-mini-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your iPhone 12 mini</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-slow-motion-capture-with-android-a-beginners-guide/"><u>In 2024, Mastering Slow-Motion Capture with Android A Beginner's Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/safe-and-smart-the-ultimate-guide-to-choosing-the-perfect-phone-for-your-child-insights/"><u>Safe and Smart: The Ultimate Guide to Choosing the Perfect Phone for Your Child - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-everyone-should-use-apple-pages-a-breakdown-of-its-5-essential-features-and-advantages/"><u>Why Everyone Should Use Apple Pages: A Breakdown of Its 5 Essential Features and Advantages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wrist-worn-wonders-compared-a-detailed-breakdown-of-google-pixel-watch-and-apple-watch-series-nine-for-savvy-consumers-zdnet/"><u>Wrist-Worn Wonders Compared: A Detailed Breakdown of Google Pixel Watch and Apple Watch Series Nine for Savvy Consumers | ZDNET</u></a></li>
 </ul></div>
 

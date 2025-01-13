@@ -1,7 +1,7 @@
 ---
 title: "Google's PaLM 2 Meets OpenAI's GPT-4: What Sets Them Aside?"
-date: 2024-12-31T23:08:58.267Z
-updated: 2025-01-05T20:38:21.424Z
+date: 2025-01-08T00:58:39.889Z
+updated: 2025-01-13T00:15:15.662Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## PaLM 2 vs. GPT-4: Performance Overview
 
 [PaLM 2 is packed with new and improved capabilities](https://www.makeuseof.com/what-is-google-palm-2/) over its predecessor. One of the unique advantages PaLM 2 has over GPT-4 is that it's available in smaller sizes specific to certain applications that do not have as much onboard processing power.
@@ -41,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
 ![Neon Pink Brain Image on a Black Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/neon-pink-brain-image-on-a-black-background.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Google also claims an improvement in reasoning capabilities over GPT-4 in WinoGrande and DROP, with the former pulling a narrow margin in ARC-C. However, there's significant improvement across the board regarding PaLM and SOTA.
@@ -57,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
  Another obvious performance advantage that PaLM 2 carries over GPT-4 is its availability in different sizes. This means that different versions of the model, Gecko, for instance, can run on mobile devices, even without an internet connection, and provide onboard AI capabilities—something we're yet to see from GPT-4\. This kind of on-device processing gives PaLM 2 an edge over GPT-4 when it comes to accessibility and deployment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Differences in GPT-4 and PaLM 2 Training Data
@@ -95,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
 ![A screenshot of Microsoft's Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's not to say that developers won't be switching to or at least trying out PaLM 2, but Google still has to play catch-up with OpenAI on that front. The fact that PaLM 2 is open-source, instead of being locked behind a paid API, means it has the potential to be more widely adopted than GPT-4\.
@@ -104,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
 
  You also get the option of double-checking Bard's responses with Google searches. However, on the performance front, the model still takes longer to generate responses as compared to the GPT-4 powered ChatGPT or Bing Chat.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can PaLM 2 Take on GPT-4?
 
  PaLM 2 is still very new, so the answer to whether or not it can take on GPT-4 remains to be answered. However, with everything that Google is promising and the aggressive manner it has decided to use to propagate it, it does look like PaLM 2 can give GPT-4 a run for its money. With Google's ongoing development of a multimodal AI model called Gemini also in the works, it's about time for OpenAI to get on its toes.
@@ -111,7 +111,7 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
  However, GPT-4 is still quite a capable model and, as mentioned before, beats PaLM 2 in quite a few comparisons. That said, PaLM 2's multiple smaller models give it an irrefutable edge. Gecko itself is so lightweight that it can work on mobile devices, even when offline. This means that PaLM 2 can support an entirely different class of products and devices that might struggle to use GPT-4\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI Race Is Heating Up
@@ -137,20 +137,19 @@ thumbnail: https://thmb.techidaily.com/128a52db05a06f83263e58b5a6a26485493e4674a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-dial-up-beats-easy-audio-posting-to-youtubes/"><u>[Updated] 2024 Approved Dial-Up Beats Easy Audio Posting to YouTubes</u></a></li>
-<li><a href="https://solve-info.techidaily.com/ascend-as-a-cryptocurrency-connoisseur-with-insights-from-yl-softwares-ultimate-playbook/"><u>Ascend as a Cryptocurrency Connoisseur with Insights From YL Software's Ultimate Playbook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-ios-application-launched/"><u>ChatGPT's iOS Application Launched</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/critical-list-of-leading-artificial-intelligence-apps-for-notetaking/"><u>Critical List of Leading Artificial Intelligence Apps for Notetaking</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/daily-task-champions-claude-vs-gpt-showdown/"><u>Daily Task Champions: Claude Vs. GPT Showdown</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-techniques-for-downloading-the-essential-software-for-your-dell-mouse/"><u>Effortless Techniques for Downloading the Essential Software for Your Dell Mouse</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-ready-to-have-a-blast-6-top-notch-chatgpt-games-awaiting-you/"><u>Get Ready to Have a Blast: 6 Top-Notch ChatGPT Games Awaiting You</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-poco-c65-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Poco C65 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-the-ultimate-guide-to-finding-your-ideal-recorder-macos/"><u>In 2024, The Ultimate Guide to Finding Your Ideal Recorder (MacOS)</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/miniaturized-marvel-comprehensive-analysis-of-the-third-generation-echo-dot-and-alexa-features/"><u>Miniaturized Marvel: Comprehensive Analysis of the Third Generation Echo Dot & Alexa Features</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gaming-fix-how-to-keep-your-marvels-avengers-adventure-running-smoothly/"><u>PC Gaming Fix: How to Keep Your Marvel's Avengers Adventure Running Smoothly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/primer-8-chatgpt-dialogues-to-enhance-attention-span/"><u>Primer 8 ChatGPT Dialogues to Enhance Attention Span</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-dark-mode-a-step-by-step-guide-to-fixing-black-screen-problems-in-windows-11/"><u>Resolving the Dark Mode: A Step-by-Step Guide to Fixing Black Screen Problems in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-the-spike-in-gpt-hacks/"><u>Understanding the Spike in GPT Hacks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/your-key-to-individualized-ai-openais-custom-gpt-solutions/"><u>Your Key to Individualized AI: OpenAI's Custom GPT Solutions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-experts-choice-best-hdmi-21-display-models-evaluated-for-2024/"><u>[New] Expert's Choice Best HDMI 2.1 Display Models Evaluated for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-tailoring-melodies-for-youtube-personalized-list-creation/"><u>[New] In 2024, Tailoring Melodies for YouTube Personalized List Creation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-maximizing-shot-stability-on-drones-a-comprehensible-guide-for-2024/"><u>[New] Maximizing Shot Stability on Drones A Comprehensible Guide for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-galaxy-m54-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Galaxy M54 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-chatgpt-understanding-its-interpreter-functionality/"><u>Decoding ChatGPT: Understanding Its Interpreter Functionality</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Where Is the Best Place to Catch Dratini On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-for-superior-tabletop-role-playing-via-gpt-utilization/"><u>Strategies for Superior Tabletop Role-Playing via GPT Utilization</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-ipad-air-protection-gear-of-2024-verified-reviews-by-tech-experts/"><u>Top-Rated iPad Air Protection Gear of 2024 - Verified Reviews by Tech Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unfreeze-your-iphones-chatgpt-with-these-efficient-steps/"><u>Unfreeze Your iPhone's ChatGPT with These Efficient Steps</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/unveiling-the-best-budget-friendly-wi-fi-expansion-gadget-tp-link-re200-reviewed/"><u>Unveiling the Best Budget-Friendly Wi-Fi Expansion Gadget - TP-Link RE200 Reviewed!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/was-it-worth-the-delay-a-comprehensive-review-of-airpods-pro-vs-airpods-pro-2-insights/"><u>Was It Worth the Delay? A Comprehensive Review of AirPods Pro Vs. AirPods Pro 2 Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/winxpxo11-how-to-prevent-closed-folders-double-clicked/"><u>WinXP/XO11 - How to Prevent Closed Folders, Double-Clicked</u></a></li>
 </ul></div>
 

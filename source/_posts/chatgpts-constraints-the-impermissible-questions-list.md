@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's Constraints: The Impermissible Questions List"
-date: 2024-09-06T23:30:14.712Z
-updated: 2024-09-07T23:30:14.712Z
+date: 2025-01-08T23:25:25.785Z
+updated: 2025-01-12T23:47:20.975Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
  So, let's discuss what ChatGPT can't do.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT's Code of Ethics
 
  ChatGPT follows a strict code of ethics to keep users and others safe. When we asked ChatGPT to provide its code of ethics, we received the response below.
@@ -30,11 +34,9 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 ![chatgpt chat response listing code of ethics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-ethics-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This code of ethics includes...
 
 * No harm to other users
@@ -47,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
  Evidently, there are some boundaries that ChatGPT is designed not to cross. But how do these boundaries affect your experience? What questions and topics does ChatGPT avoid, and what can it not do?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Provide Recent Information
 
  ChatGPT was trained on huge amounts of data, but this data only led up to September 2021\. ChatGPT has no access to information beyond this point in time, meaning it cannot answer questions on events that took place in recent years.
@@ -57,12 +63,6 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
  If you're looking for recent news, weather updates, and other real-time data, ChatGPT won't be of much use. [Other AI chatbots like Claude](https://www.makeuseof.com/what-is-claude-ai-why-use-it/) have been trained with more recent information, but you still won't be able to access data less than a few months old.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Give Criminal Advice
 
  ChatGPT follows a strict ethical code, part of which prevents the chatbot from providing criminal advice. You can't ask ChatGPT how to commit a crime, conceal evidence, lie to law enforcement, or conduct any other criminal activities. On top of this, ChatGPT won't engage with any prompts about illegal drugs.
@@ -72,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
  Since this story emerged, others have tried using ChatGPT to write malware, sometimes successfully. This fact alone has raised concerns about how AI can be abused for malicious purposes.
 
  However, the current versions of ChatGPT only seem to be able to write simple malware programs, which can also be buggy at times. But regardless of this, [the chatbot can be exploited for malware creation](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Invade Personal Privacy or Security
 
@@ -94,11 +98,9 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
  It's better to consult dedicated websites or professionals if you're looking for solid predictions, be it in finance, politics, or sports.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Answer Bigoted or Hateful Questions
 
  As you may have guessed, ChatGPT is strictly against engaging with bigoted or hateful prompts. Racism, misogyny, homophobia, ableism, and transphobia are all a no-go for ChatGPT.
@@ -109,12 +111,6 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
  Additionally, ChatGPT will not engage with any prompts that promote harm to the user or others.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Provide Its Own Opinion
 
  While ChatGPT does use artificial intelligence, it is not a sentient being. Because of this, ChatGPT cannot provide its own opinion on any topic or event.
@@ -125,12 +121,6 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
 ![chatgpt opinion request screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-opinion-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  One day, we may see AI chatbots able to form reasonable opinions. But for now, that's a luxury reserved for human beings.
 
 ## 7\. Look Up Web Results
@@ -143,12 +133,6 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
  At the time of writing, ChatGPT's browsing feature is disabled but is expected to return in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Isn't an All-in-One Solution
 
  There's a lot you can do with ChatGPT, and it's this versatility that has made the chatbot so popular. But it's important to keep ChatGPT's limitations in mind so that you don't end up using it for the wrong reasons.
@@ -163,8 +147,6 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +154,18 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-demystifying-data-a-beginners-guide-to-facebook-insights/"><u>2024 Approved Demystifying Data A Beginner's Guide to Facebook Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-revolutionary-ai-powered-m3-macbook-air-review-how-its-changing-computing-for-all-featured-in-zdnet/"><u>Apple's Revolutionary AI-Powered M3 MacBook Air Review | How It's Changing Computing for All, Featured in ZDNet.</u></a></li>
+<li><a href="https://fox-access.techidaily.com/broadcast-like-a-ghost-anonymous-instagram-strategies/"><u>Broadcast Like a Ghost Anonymous Instagram Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-to-leading-ai-notetakers/"><u>Comprehensive Guide to Leading AI Notetakers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essay-excellence-on-the-verge-gpts-influence-in-academia/"><u>Essay Excellence on the Verge? GPT’s Influence in Academia</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eu-levies-2b-penalty-on-apple-for-monopolistic-practices-in-app-store-business-insight-from-zdnet/"><u>EU Levies $2B Penalty on Apple for Monopolistic Practices in App Store Business - Insight From ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-infinix-smart-8-hd-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Infinix Smart 8 HD? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-utilizing-b-roll-in-video-production-effectively/"><u>In 2024, Utilizing B-Roll in Video Production Effectively</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/macbook-air-at-an-unbeatable-price-just-280-on-amazon-learn-more/"><u>MacBook Air at an Unbeatable Price: Just $280 on Amazon! [Learn More]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-budget-friendly-tablets-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Budget-Friendly Tablets : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723047629609-unveiling-the-sealocs-sleek-and-resilient-55-inch-4k-outdoor-tv-a-perfect-blend-of-style-performance-and-weather-resistance-our-in-depth-review/"><u>Unveiling the Sealoc's Sleek & Resilient 55-Inch 4K Outdoor TV: A Perfect Blend of Style, Performance & Weather Resistance - Our In-Depth Review</u></a></li>
+</ul></div>
 

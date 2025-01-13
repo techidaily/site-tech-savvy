@@ -1,7 +1,7 @@
 ---
 title: "AI's Comedy Craft: Journey From Portable Computers to Secure Internet Connections"
-date: 2024-09-06T23:30:17.607Z
-updated: 2024-09-07T23:30:17.607Z
+date: 2025-01-07T17:56:40.854Z
+updated: 2025-01-12T17:18:29.121Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes AI's Comedy Craft: Journey From Portable Comput
 thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6e8803f065c62fd751a91e70.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI's Comedy Craft: Journey From Portable Computers to Secure Internet Connections
 
  This week's podcast brings you a collection of in-depth explainers, which will show you how AI can (or cannot) create jokes, a look at the earliest portable computers, and the ways in which VPNs have evolved and improved.
@@ -30,11 +24,9 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we bring you the following tech explainers, tips, and tricks:
@@ -50,17 +42,9 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we bring you the following tech explainers, tips, and tricks:
@@ -76,11 +60,9 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we bring you the following tech explainers, tips, and tricks:
@@ -96,11 +78,9 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we bring you the following tech explainers, tips, and tricks:
@@ -110,15 +90,12 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 * [How VPNs Have Evolved](https://www.makeuseof.com/vpn-evolution-ways-vpns-have-become-even-more-private/)
 
  Christian Cawley, Gavin Phillips, and Ben Stegner host this week's podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey), [@gavinspavin](https://twitter.com/gavinspavin), and [@stegnersaurus](https://twitter.com/stegnersaurus), with your suggestions for future topics.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +104,24 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-farm-tastic-gaming-best-trio-of-agricultural-games/"><u>[New] 2024 Approved Farm-Tastic Gaming Best Trio of Agricultural Games</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-stream-video-freely-on-any-os-no-cost-video-player/"><u>[New] 2024 Approved Stream Video Freely on Any OS No-Cost VIDEO Player</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-mastering-iphones-vr-video-viewing/"><u>[Updated] 2024 Approved Mastering iPhone's VR Video Viewing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-what-are-the-different-versions-of-windows-movie-maker-for-2024/"><u>[Updated] What Are the Different Versions of Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/1728495739662-uefi/"><u>怎麼樣才能在UEFI中切換到老版本的操作方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-watch-series-9-vs-google-pixel-watch-2-a-detailed-review-for-tech-enthusiasts-zdnet-insight/"><u>Apple Watch Series 9 Vs. Google Pixel Watch 2: A Detailed Review for Tech Enthusiasts | ZDNET Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-why-snapchats-my-ai-is-more-than-playful-tech/"><u>Exploring Why Snapchat’s My AI Is More Than Playful Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-advancement-the-5-pivotal-shifts-from-gpt-35/"><u>GPT-4 Advancement: The 5 Pivotal Shifts From GPT-3.5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010189071-gta-5-stability-improvements-no-more-game-crashes/"><u>GTA 5 Stability Improvements - No More Game Crashes!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-move-apple-music-playlists-tofrom-youtube-music-for-a-unified-listening-experience-zdnet-guidance/"><u>How to Move Apple Music Playlists To/From YouTube Music for a Unified Listening Experience | ZDNET Guidance</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/is-photoshops-stabilization-feature-aiding-creativity/"><u>Is Photoshop's Stabilization Feature Aiding Creativity?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-gpt-interactions-for-physical-training/"><u>Optimize GPT Interactions for Physical Training</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-11-best-chatgpt-prompts-to-develop-characters-for-your-books/"><u>The 11 Best ChatGPT Prompts to Develop Characters for Your Books</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-rise-of-artificial-intelligence-in-apple-devices-comprehensive-guide-to-innovative-features-for-your-iphone-mac-and-ipad-zdnet-insight/"><u>The Rise of Artificial Intelligence in Apple Devices: Comprehensive Guide to Innovative Features for Your iPhone, Mac, and iPad | ZDNet Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-true-value-proposition-of-advanced-gpt/"><u>The True Value Proposition of Advanced GPT</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/transforming-tiktok-videos-with-effortless-text-enhancement-techniques-for-2024/"><u>Transforming TikTok Videos with Effortless Text Enhancement Techniques for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations-for-2024/"><u>Updated Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations for 2024</u></a></li>
+</ul></div>
 

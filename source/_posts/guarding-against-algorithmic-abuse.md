@@ -1,7 +1,7 @@
 ---
 title: Guarding Against Algorithmic Abuse
-date: 2024-09-06T23:30:18.303Z
-updated: 2024-09-07T23:30:18.303Z
+date: 2025-01-08T20:31:13.606Z
+updated: 2025-01-12T23:17:55.783Z
 tags:
   - chatgpt
   - open-ai
@@ -13,20 +13,12 @@ excerpt: This Article Describes Guarding Against Algorithmic Abuse
 thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a0ff9dab5d25b004c909ef6a.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Guarding Against Algorithmic Abuse
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * AI needs stricter monitoring, as cybersecurity vulnerabilities and privacy concerns continue to emerge.
@@ -43,12 +35,6 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
  So, who should regulate AI?
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Government Bodies
 
 ![White Government Institution Building With High Stairs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/government-institution-building.jpg)
@@ -59,28 +45,10 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
  However, one major issue with the government regulating AI is that it might inadvertently stifle innovation. AI is a complex, evolving technology. Unless the officials overseeing deployment, development, and training guidelines understand how AI works, they might make premature, inefficient judgments.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI Developers, Tech Companies, and Laboratories
 
 ![Male and Female Researchers Training White Robot Arm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/two-researchers-training-robot-arm.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Considering the potential roadblocks that might arise from the government monitoring AI, many would rather have tech companies spearhead regulation. They believe developers should be responsible for the tech they release. Self-regulation enables them to drive innovation and focus on advancing these systems efficiently.
 
  Moreover, their in-depth understanding of AI will help them make fair, informed guidelines prioritizing user safety without compromising functionality. As with any technology, industry expertise streamlines monitoring. Assigning untrained officials to regulate technologies they barely understand might present more problems than benefits.
@@ -89,12 +57,6 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
  However, the main issue with tech companies regulating themselves is that shady corporations might abuse their power. With no intervening third party, they’re basically free to do whatever they want.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## End Users
 
 ![Using Mobile ChatGPT App and Placing it in Hand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mobile-chatgpt-app.jpg)
@@ -131,22 +93,10 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
  The difference, however, is that they often have ties to private companies. Their members still do solicitations, but they’ll usually get enough funding from their parent organizations as long as they deliver results.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Academic Institutions
 
 ![School University Large Classroom With Brown Tables and Chairs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/school-university-large-classroom.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Although AI comes with several risks, it is inherently neutral. All biases, privacy issues, security errors, and potential cybercrime activities stem from humans, so AI by itself isn’t something to fear.
 
  But very few already understand how modern AI models work. Misconceptions skew people’s perception of AI, perpetuating baseless fears like AI taking over humanity or stealing jobs.
@@ -176,20 +126,16 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
  So, who should regulate AI?
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Government Bodies
 
 ![White Government Institution Building With High Stairs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/government-institution-building.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Various people, from consumers to [tech leaders, hope the government will regulate AI](https://www.makeuseof.com/what-global-tech-leaders-think-about-ai/). Publicly funded institutions have the resources to do so. Even Elon Musk and Sam Altman, two main drivers of the AI race, believe that some [privacy concerns surrounding AI](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) are too dangerous for governing bodies to overlook.
 
@@ -197,15 +143,13 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
  However, one major issue with the government regulating AI is that it might inadvertently stifle innovation. AI is a complex, evolving technology. Unless the officials overseeing deployment, development, and training guidelines understand how AI works, they might make premature, inefficient judgments.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI Developers, Tech Companies, and Laboratories
 
 ![Male and Female Researchers Training White Robot Arm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/two-researchers-training-robot-arm.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Considering the potential roadblocks that might arise from the government monitoring AI, many would rather have tech companies spearhead regulation. They believe developers should be responsible for the tech they release. Self-regulation enables them to drive innovation and focus on advancing these systems efficiently.
 
@@ -216,11 +160,9 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
  However, the main issue with tech companies regulating themselves is that shady corporations might abuse their power. With no intervening third party, they’re basically free to do whatever they want.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## End Users
 
 ![Using Mobile ChatGPT App and Placing it in Hand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mobile-chatgpt-app.jpg)
@@ -233,18 +175,6 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
  It’s also short-sighted to remove proprietary models from the market. The proliferation of [open-source AI models has several positive and negative impacts](https://www.makeuseof.com/positive-negative-impacts-open-source-ai-language-models/); for some, the cons outweigh the pros.
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Other Entities That Play a Role in the Regulation of AI
 
  Although major entities will spearhead the regulation of AI, there are bodies that play significant roles:
@@ -269,22 +199,10 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
  The difference, however, is that they often have ties to private companies. Their members still do solicitations, but they’ll usually get enough funding from their parent organizations as long as they deliver results.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Academic Institutions
 
 ![School University Large Classroom With Brown Tables and Chairs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/school-university-large-classroom.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Although AI comes with several risks, it is inherently neutral. All biases, privacy issues, security errors, and potential cybercrime activities stem from humans, so AI by itself isn’t something to fear.
 
  But very few already understand how modern AI models work. Misconceptions skew people’s perception of AI, perpetuating baseless fears like AI taking over humanity or stealing jobs.
@@ -292,11 +210,9 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
  Academic institutions could fill these educational gaps through accessible resources. There aren’t too many scholarly works on modern LLMs and NLP systems yet. The public can use AI more responsibly and combat cybercrimes if they wholly understand how it works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Law Enforcement Agencies
 
  Law enforcement agencies should expect to encounter more [AI-enabled cyberattacks](https://www.makeuseof.com/ways-ai-can-help-cybercriminals/). With the proliferation of generative models, crooks can quickly synthesize voices, generate deepfake images, scrape [personally identifiable information](https://www.makeuseof.com/what-is-personally-identifiable-information/) (PII), and even create entirely new personas.
@@ -341,12 +257,6 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
  However, the main issue with tech companies regulating themselves is that shady corporations might abuse their power. With no intervening third party, they’re basically free to do whatever they want.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## End Users
 
 ![Using Mobile ChatGPT App and Placing it in Hand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mobile-chatgpt-app.jpg)
@@ -364,11 +274,9 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
  Although major entities will spearhead the regulation of AI, there are bodies that play significant roles:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Media Outlets
 
 ![Media News Reporter Interviewing Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/media-news-reporter.jpg)
@@ -399,24 +307,12 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
  Academic institutions could fill these educational gaps through accessible resources. There aren’t too many scholarly works on modern LLMs and NLP systems yet. The public can use AI more responsibly and combat cybercrimes if they wholly understand how it works.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Law Enforcement Agencies
 
  Law enforcement agencies should expect to encounter more [AI-enabled cyberattacks](https://www.makeuseof.com/ways-ai-can-help-cybercriminals/). With the proliferation of generative models, crooks can quickly synthesize voices, generate deepfake images, scrape [personally identifiable information](https://www.makeuseof.com/what-is-personally-identifiable-information/) (PII), and even create entirely new personas.
 
  Most agencies aren’t equipped to handle these crimes. They should invest in new systems and train their officers on modern cybercrimes; otherwise, they’ll have trouble catching these crooks.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Future of AI Regulation
 
  Considering AI’s fast-paced nature, it’s unlikely for a single governing body to control it. Yes, tech leaders will hold more power than consumers, but various entities must cooperate to manage AI risks without impeding advancements. It’s best to set control measures now while artificial general intelligence (AGI) is still a distant goal.
@@ -437,40 +333,16 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
 ![White Government Institution Building With High Stairs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/government-institution-building.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Various people, from consumers to [tech leaders, hope the government will regulate AI](https://www.makeuseof.com/what-global-tech-leaders-think-about-ai/). Publicly funded institutions have the resources to do so. Even Elon Musk and Sam Altman, two main drivers of the AI race, believe that some [privacy concerns surrounding AI](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) are too dangerous for governing bodies to overlook.
 
  The government should focus on protecting its constituents’ privacy and civil liberties if it takes over AI regulation. Cybercriminals keep finding ways to exploit AI systems in their schemes. Individuals not well-versed in AI might easily get fooled by synthesized voices, deepfake videos, and bot-operated online profiles.
 
  However, one major issue with the government regulating AI is that it might inadvertently stifle innovation. AI is a complex, evolving technology. Unless the officials overseeing deployment, development, and training guidelines understand how AI works, they might make premature, inefficient judgments.
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI Developers, Tech Companies, and Laboratories
 
 ![Male and Female Researchers Training White Robot Arm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/two-researchers-training-robot-arm.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Considering the potential roadblocks that might arise from the government monitoring AI, many would rather have tech companies spearhead regulation. They believe developers should be responsible for the tech they release. Self-regulation enables them to drive innovation and focus on advancing these systems efficiently.
 
  Moreover, their in-depth understanding of AI will help them make fair, informed guidelines prioritizing user safety without compromising functionality. As with any technology, industry expertise streamlines monitoring. Assigning untrained officials to regulate technologies they barely understand might present more problems than benefits.
@@ -479,12 +351,6 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
  However, the main issue with tech companies regulating themselves is that shady corporations might abuse their power. With no intervening third party, they’re basically free to do whatever they want.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## End Users
 
 ![Using Mobile ChatGPT App and Placing it in Hand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mobile-chatgpt-app.jpg)
@@ -501,26 +367,18 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
  Although major entities will spearhead the regulation of AI, there are bodies that play significant roles:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Media Outlets
 
 ![Media News Reporter Interviewing Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/media-news-reporter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Media outlets play a critical role in shaping the public’s perception of AI. They report industry developments, share new tools, bring awareness to the harmful uses of AI, and interview experts about relevant concerns.
 
  Most of the facts end users know about AI basically come from media outlets. Publishing false data, whether on purpose or not, will cause irreversible damage—you can’t underestimate how fast misinformation spreads.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Non-Governmental Organizations
 
  Several non-profit organizations are centered around protecting AI users’ privacy and civil liberties. They educate the public through free resources, advocate for new policies, cooperate with government officials, and voice out overlooked concerns.
@@ -533,15 +391,13 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
  The difference, however, is that they often have ties to private companies. Their members still do solicitations, but they’ll usually get enough funding from their parent organizations as long as they deliver results.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Academic Institutions
 
 ![School University Large Classroom With Brown Tables and Chairs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/school-university-large-classroom.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Although AI comes with several risks, it is inherently neutral. All biases, privacy issues, security errors, and potential cybercrime activities stem from humans, so AI by itself isn’t something to fear.
 
@@ -549,18 +405,6 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
  Academic institutions could fill these educational gaps through accessible resources. There aren’t too many scholarly works on modern LLMs and NLP systems yet. The public can use AI more responsibly and combat cybercrimes if they wholly understand how it works.
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Law Enforcement Agencies
 
  Law enforcement agencies should expect to encounter more [AI-enabled cyberattacks](https://www.makeuseof.com/ways-ai-can-help-cybercriminals/). With the proliferation of generative models, crooks can quickly synthesize voices, generate deepfake images, scrape [personally identifiable information](https://www.makeuseof.com/what-is-personally-identifiable-information/) (PII), and even create entirely new personas.
@@ -568,17 +412,9 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
  Most agencies aren’t equipped to handle these crimes. They should invest in new systems and train their officers on modern cybercrimes; otherwise, they’ll have trouble catching these crooks.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Future of AI Regulation
 
  Considering AI’s fast-paced nature, it’s unlikely for a single governing body to control it. Yes, tech leaders will hold more power than consumers, but various entities must cooperate to manage AI risks without impeding advancements. It’s best to set control measures now while artificial general intelligence (AGI) is still a distant goal.
@@ -591,8 +427,6 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -600,4 +434,22 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-efficient-practices-for-ps3-video-capture-setup/"><u>[New] 2024 Approved Efficient Practices for PS3 Video Capture Setup</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/harting-financial-horizons-the-threefold-technique-for-analyzing-youtube-earning-data-for-2024/"><u>[New] Charting Financial Horizons The Threefold Technique for Analyzing YouTube Earning Data for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-step-into-editing-excellence-with-youtube-studio-toolset/"><u>[Updated] 2024 Approved Step Into Editing Excellence with YouTube Studio Toolset</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-step-by-step-guide-to-optimizing-fb-in-stream-advertising/"><u>[Updated] Step-by-Step Guide to Optimizing FB In-Stream Advertising</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-your-date-game-with-ai-innovation/"><u>Enhancing Your Date Game with AI Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-3-customization-techniques-for-authentic-writing/"><u>GPT-3 Customization Techniques for Authentic Writing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-samsung-galaxy-f54-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Samsung Galaxy F54 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-vivo-v27e-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Vivo V27e</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-16-pro-vs-iphone-14-pro-showdown-assessing-if-the-new-features-justify-an-upgrade-zdnet/"><u>IPhone 16 Pro vs iPhone 14 Pro Showdown: Assessing if the New Features Justify an Upgrade - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-20-chatgpt-conversations-on-github-examples/"><u>Leading 20 ChatGPT Conversations on GitHub Examples</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-language-learning-with-chatgptplus-features/"><u>Maximizing Language Learning with ChatGPT+ Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigate-with-ease-discover-the-8-accessibility-tools-in-ios-devices-for-low-vision-users/"><u>Navigate with Ease: Discover the 8 Accessibility Tools in iOS Devices for Low Vision Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-steadicam-devices-for-drones-in-filmmaking/"><u>Prime Steadicam Devices for Drones in Filmmaking</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/showdown-of-streamers-assessing-the-best-for-you-obs-vs-twitch-studio-for-2024/"><u>Showdown of Streamers Assessing the Best for You - OBS vs Twitch Studio for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-zoom-integration-with-vision-pro-headsets-prepare-for-unusual-virtual-encounters/"><u>Unveiling Zoom Integration with Vision Pro Headsets: Prepare for Unusual Virtual Encounters!</u></a></li>
+</ul></div>
 

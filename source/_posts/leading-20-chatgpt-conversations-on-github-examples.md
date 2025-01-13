@@ -1,7 +1,7 @@
 ---
 title: Leading 20 ChatGPT Conversations on GitHub Examples
-date: 2025-01-04T06:00:50.381Z
-updated: 2025-01-06T04:20:57.839Z
+date: 2025-01-10T22:48:30.981Z
+updated: 2025-01-12T17:53:53.005Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Summarize Self-Help Books
 
  Turn ChatGPT into a personalized life coach. You can modify its responses by inputting the titles and authors of [the best self-help books](https://www.makeuseof.com/tag/best-self-help-books-self-improvement/). Choose resources that align with your goals.
@@ -52,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
  As for accuracy, [ChatGPT holds its own against Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/). It pulls relevant information from its datasets to ensure the translated text doesn't lose meaning—literal translations are confusing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Seek Medical Information
 
 ![ChatGPT Pretending to be a Doctor and Giving Medical Advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-pretend-doctor-1.jpg)
@@ -64,19 +64,11 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
 ![ChatGPT Writing Codes as a Frontend Developer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-as-frontend-developer-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Programming has a steep learning curve. You have to master debugging strategies, coding languages, and functionality implementation. New programmers might find the process overwhelming.
 
  To understand how specific software components work, ask ChatGPT for sample code snippets. They might not function as-is. However, analyzing examples is far less intimidating than staring at a blank screen. Use them as your starting point.
 
 ![ChatGPT Writing Code Snippets for Pokemon App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-code-snippet.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Generate Text-to-Image Prompts
 
@@ -87,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 ![Asking ChatGPT to Write Specific AI Art Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-specific-ai-art-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're lost for words, generate prompts with ChatGPT. It can suggest precise, vivid alternatives. You'll find it quicker and easier than running every word in your prompt through a thesaurus.
@@ -134,19 +126,11 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
 ![ChatGPT Providing Emergency Response Tips for Senior Having a Seizure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-providing-emergency-response-tips.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Sorting Google results during crises is inefficient. You'll waste several minutes waiting for web pages to load and reading resources.
 
  If you need answers quickly, consider using ChatGPT. While it can't provide medical advice, it summarizes emergency preparedness and response tips from various datasets.
 
  Double-check the output later. Your top priority should be to ensure the safety and survival of everyone involved in the incident.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Refactor Code
 
@@ -180,9 +164,17 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
  Just don't expect accurate answers. While this prompt bypasses certain restrictions, it also forces ChatGPT to present unverified, inaccurate information.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 13\. Check Chemical Reactions
 
 ![Requesting ChatGPT to Act as Chemical Reaction Vessel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-as-chemical-reaction-vessel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT can simulate chemical reaction vessels. It demonstrates how different properties and substances change when you mix them. For accuracy, the residue from previous mixes also alters results.
 
@@ -199,12 +191,16 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 ![ChatGPT Making a Sample Travel Itinerary List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-making-travel-itinerary.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you find the output hard to read, ask ChatGPT to follow specific layouts. For instance, the below image shows a table format.
 
 ![ChatGPT Listing Travel Plan in Table Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/travel-itinerary-in-table-form.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 15\. Literary Analysis
 
@@ -220,14 +216,6 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
 ![ChatGPT Continuing Literary Analysis of The Old Pond](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-literary-analysis-continuation.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 16\. Friendly Emotional Support
 
  ChatGPT can help you cope with loneliness. For instance, this prompt instructs ChatGPT to talk like a human friend providing emotional support. It removes the typical disclaimers and explanations that AI chatbots say.
@@ -235,6 +223,10 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
  We talked about financial problems in the below conversation. ChatGPT would normally list debt elimination strategies, but because of this custom prompt, it focused on providing emotional support.
 
 ![ChatGPT Providing Friendly Advice and Emotional Support](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-providing-friendly-support.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Be careful when using [ChatGPT as a mental health coach](https://www.makeuseof.com/how-use-chatgpt-safely-mental-health-coach/). AI merely scrapes information from its training datasets and presents them in natural language—it can't empathize with you.
 
@@ -252,10 +244,6 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
 ![ChatGPT Creating Key Arguments and Counterarguments for AI Environmental Impact](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-key-arguments-and-counterarguments.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 18\. Playlist Generator
 
  If you feel too lazy to make a playlist, ask ChatGPT for music recommendations. It can analyze your reference track and provide songs with a similar beat, theme, and genre. Take this sample playlist as an example.
@@ -270,15 +258,27 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
 ![ChatGPT Writing Song Lyrics for Original Rap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-song-lyrics.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can customize this prompt's theme, genre, and message based on your style. Strive to write explicit, detailed instructions for more unique results.
 
  You can't publish AI-generated lyrics as is. Chatbots scrape data from third-party sources—its output might contain copyright-protected lyrics. Only take inspiration from ChatGPT's suggestions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 20\. Title Generator
 
  Use ChatGPT to generate better article titles. Catchy, attention-grabbing headlines summarizing your topics and resonating with your target audience could boost your clickthrough rates. They're the first thing readers see, after all.
 
 ![ChatGPT Creating Title for Article About ChatGPT Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-title-for-articles.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To get unique results, customize this prompt based on your writing style. Specify your preferred phrasing and tone so that ChatGPT knows how to structure title suggestions appropriately.
 
@@ -307,15 +307,14 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-navigating-instagrams-video-limit-regulations/"><u>[Updated] 2024 Approved Navigating Instagram's Video Limit Regulations</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-react-and-relate-harness-the-power-of-alternate-perspectives-for-compelling-youtube-vids-2-pov-method/"><u>[Updated] In 2024, React and Relate - Harness the Power of Alternate Perspectives for Compelling YouTube Vids (2 POV Method)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/certified-msi-z890-and-b86-motherboard-lineup-supporting-the-new-intel-arrow-lake-s-processor-exclusive-preview-before-computex-2024/"><u>Certified MSI Z890 & B86) Motherboard Lineup Supporting the New Intel Arrow Lake-S Processor - Exclusive Preview Before Computex 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/charting-the-past-the-inception-of-ai/"><u>Charting the Past: The Inception of AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-a-well-balanced-meal-plan-via-ai-insights/"><u>Crafting a Well-Balanced Meal Plan via AI Insights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-enable-dynamic-hdr-in-windows-11/"><u>In 2024, Guide to Enable Dynamic HDR in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/perfecting-your-novels-cast-the-most-effective-gpt-techniques/"><u>Perfecting Your Novel's Cast: The Most Effective GPT Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/rediscovering-the-classics-msn-gamespy-winamp-and-more-memorable-tech-relics/"><u>Rediscovering the Classics: MSN, GameSpy, Winamp & More Memorable Tech Relics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/talk-tech-titles-exploring-the-distinctions-between-gpt-and-bings-bot-dialogues/"><u>Talk Tech Titles: Exploring the Distinctions Between GPT & Bing's Bot Dialogues</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-budget-friendly-laptops-in-depth-analysis-and-reviews-by-tech-experts/"><u>Top Budget-Friendly Laptops : In-Depth Analysis & Reviews by Tech Experts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-the-art-of-insta-top-gadgets-for-success/"><u>[Updated] 2024 Approved Mastering the Art of Insta Top Gadgets for Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bing-evolves-integrating-microsofts-artificial-intelligence/"><u>Bing Evolves: Integrating Microsoft’s Artificial Intelligence</u></a></li>
+<li><a href="https://win11.techidaily.com/break-free-from-100mbps-wired-internet-limit-in-windows/"><u>Break Free From 100Mbps Wired Internet Limit in Windows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-screenshot-secrets-for-windows-pros/"><u>In 2024, Screenshot Secrets for Windows Pros</u></a></li>
+<li><a href="https://extra-support.techidaily.com/instant-insight-method-for-punctuation-of-timelines-in-images-for-2024/"><u>Instant Insight Method for Punctuation of Timelines in Images for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sendingreceiving-imessages-via-windows-discover-the-tricks-at-zdnet/"><u>Sending/Receiving iMessages via Windows? Discover the Tricks at ZDNet!</u></a></li>
+<li><a href="https://win11.techidaily.com/uncomplicate-your-computing-win11s-directories-guide/"><u>Uncomplicate Your Computing: Win11's Directories Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-artificial-mind/"><u>Unraveling the Artificial Mind</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-ios-takes-the-lead-for-your-next-chatgpt-session/"><u>Why iOS Takes the Lead for Your Next ChatGPT Session</u></a></li>
 </ul></div>
 

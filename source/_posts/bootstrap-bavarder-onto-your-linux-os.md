@@ -1,7 +1,7 @@
 ---
 title: Bootstrap Bavarder Onto Your Linux OS
-date: 2024-12-30T07:25:44.349Z
-updated: 2025-01-05T22:06:18.866Z
+date: 2025-01-08T20:51:15.367Z
+updated: 2025-01-12T21:52:45.048Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is ChatGPT?
@@ -40,13 +40,13 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
 
  ChatGPT's intelligence comes from the large language model that it learns from. ChatGPT was originally based on OpenAI's GPT 3.5 model, though this is no longer the newest version. GPT stands for "generative pre-trained transformer" and refers to this particular type of large language model.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Bavarder?
 
 ![The Linux Bavarder chatbot desktop app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/linux-bavarder-chatbot-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Bavarder is an app that enables you to "chit-chat" with artificial intelligence. Bavarder is built specifically for GNOME, [the most widely-used interface on Linux PCs](https://www.makeuseof.com/ways-gnome-is-best-linux-desktop/). But Bavarder works on other desktop environments as well.
 
@@ -56,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
 
  Some of the providers utilize the same learning models as ChatGPT, but that doesn't mean you can expect them to generate the same results as ChatGPT would. But to the average person, BAI Chat probably comes off as close enough to the same thing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Download Bavarder
 
  Bavarder is available in [a universal package format known as flatpak](https://www.makeuseof.com/flatpak-for-beginners/) that works across most versions of Linux. You can download Bavarder from Flathub.
@@ -67,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
 **Download:**[Bavarder](http://flathub.org/apps/io.github.Bavarder.Bavarder)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use Bavarder on Linux
@@ -80,12 +76,16 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
 
 ![Selecting a provider in the Bavarder Linux chatbot app.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bavarder-linux-chatbot-providers.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The app may seem to load for quite a while before providing a response. If you were to use BAI chat via [chatbot.theb.ai](http://chatbot.theb.ai/#/chat) in a browser, you would see your answer arrive a few words at a time as though the chatbot were typing.
 
  Bavarder only delivers the answer all at once, so you have to wait for the AI to finish "thinking" rather than watch it think in real time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Use Bavarder on Linux?
@@ -113,15 +113,22 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-a-step-by-step-manual-for-capturing-vr-playthroughs/"><u>[Updated] In 2024, A Step-by-Step Manual for Capturing VR Playthroughs</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-asian-themed-mini-mansions-for-creative-builders/"><u>[Updated] In 2024, Asian Themed Mini Mansions for Creative Builders</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-personalized-branding-craft-your-logo-from-free-designs/"><u>[Updated] Personalized Branding Craft Your Logo From Free Designs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/brainpower-battlegrounds-gpt-and-google-bard-collide/"><u>Brainpower Battlegrounds: GPT & Google Bard Collide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-an-emerging-seo-hurdle/"><u>ChatGPT: An Emerging SEO Hurdle?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-13-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 13 when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/labor-landscapes-altered-by-ais-advances/"><u>Labor Landscapes Altered by AI's Advances</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protecting-originality-openais-gpt-output-detector/"><u>Protecting Originality: OpenAI's GPT Output Detector</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/soft-sonata-reducing-volume-in-os-for-2024/"><u>Soft Sonata Reducing Volume in OS for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-chromecast-compatibility-how-to-stream-videos-in-any-format/"><u>Updated Chromecast Compatibility How to Stream Videos in Any Format</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-brainy-brigade-top-11-quiz-channels/"><u>[New] In 2024, Brainy Brigade Top 11 Quiz Channels</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-elevating-your-vlogs-a-list-of-the-top-12-professional-cameras/"><u>[Updated] 2024 Approved Elevating Your Vlogs A List of the Top 12 Professional Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-spectrum-of-virtuality-from-meta-to-omniverse-explored/"><u>2024 Approved The Spectrum of Virtuality From Meta to Omniverse Explored</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amplify-visuals-windows-10-plus-hp-graphics-update/"><u>Amplify Visuals: Windows 10 + HP Graphics Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-barriers-beyond-turings-original-scale/"><u>Breaking Barriers: Beyond Turing's Original Scale</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/contrasting-the-linguistic-giants-gpt-1-gpt-3-and-gpt-4/"><u>Contrasting the Linguistic Giants: GPT-1, GPT-3 & GPT-4</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-100-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor 100 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-picks-for-the-most-advanced-mp3-players-available-in-202-latest-innovations-and-comparison-chart-cnet/"><u>Expert Picks for the Most Advanced MP3 Players Available in 202 # - Latest Innovations and Comparison Chart | CNET</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-xiaomi-redmi-note-12-pro-4gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Xiaomi Redmi Note 12 Pro 4GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insight-chatgpts-built-in-functionalities/"><u>Insight: ChatGPT's Built-In Functionalities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-relationships-with-gpt-inspired-skills/"><u>Navigating Relationships with GPT-Inspired Skills</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-horizon-for-iphone-chatgpt-app/"><u>New Horizon for iPhone: ChatGPT App</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-from-concept-to-reality-10-best-music-video-making-platforms/"><u>New In 2024, From Concept to Reality 10 Best Music Video Making Platforms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pixel-fold-2-sneak-peek-expected-price-tag-launch-date-and-features-what-to-know-now/"><u>Pixel Fold 2 Sneak Peek: Expected Price Tag, Launch Date & Features - What to Know Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-work-processes-with-gpt-3-knowledge/"><u>Streamlining Work Processes with GPT-3 Knowledge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-top-6-reasons-ios-dominance-over-webchatgpt/"><u>The Top 6 Reasons: IOS Dominance over WebchatGPT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-the-power-of-time-lapse-with-gopro-hero5-for-2024/"><u>Unlock the Power of Time-Lapse with GoPro Hero5 for 2024</u></a></li>
 </ul></div>
 

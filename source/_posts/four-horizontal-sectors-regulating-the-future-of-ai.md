@@ -1,7 +1,7 @@
 ---
 title: Four Horizontal Sectors Regulating the Future of AI
-date: 2024-09-06T23:30:22.508Z
-updated: 2024-09-07T23:30:22.508Z
+date: 2025-01-11T16:07:23.883Z
+updated: 2025-01-12T23:02:15.081Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/177db7c45381f8f94f304fef5764a3ae21d49762f
 
  If left unchecked, AI technologies can negatively disrupt our way of life and threaten our existence. But how can governments navigate the labyrinth of challenges that comes with this rapidly evolving field?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Data Privacy and Protection Regulations
 
 ![a lock in a blue digital field](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/privacy-lock-mac.jpg)
@@ -40,15 +44,13 @@ thumbnail: https://thmb.techidaily.com/177db7c45381f8f94f304fef5764a3ae21d49762f
 
  These questions and a few others formed the crux of [why ChatGPT was temporarily banned in Italy](https://www.makeuseof.com/why-has-italy-banned-chatgpt/). Unless these concerns are addressed, the artificial intelligence space might be a wild west for data privacy, and Italy's ban might turn out to be a template for bans by other countries worldwide.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Development of an Ethical AI Framework
 
 ![binary code background showing a woman face to face with a robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-10-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  AI companies frequently boast about their commitment to ethical guidelines in developing AI systems. At least on paper, they are all proponents of responsible AI development. In the media, Google execs have emphasized how the company takes AI safety and ethics seriously. Similarly, "Safe and ethical AI" is a mantra for OpenAI's CEO, Sam Altman. These are quite applaudable.
 
@@ -63,27 +65,17 @@ thumbnail: https://thmb.techidaily.com/177db7c45381f8f94f304fef5764a3ae21d49762f
 * AI systems are intentionally limited in ways that are advantageous to humans.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Dedicated Regulatory Agency
 
 ![engineer monitoring ssh logins on linux](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/engineer_monitoring_ssh_logins.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Owing to its potential impact on human civilization, discussion around AI safety typically draws parallel to the risk of a health crisis or a nuclear disaster. Avoiding potential nuclear incidents necessitates a dedicated agency like the US's NRC (Nuclear Regulatory Commission). Avoiding the risk of dangerous health crises necessitates the establishment of the FDA (Food and Drug Administration)
 
  Similarly, to ensure that things don't go wrong in the AI space, a dedicated agency akin to the FDA and the NRC is necessary as AI continues to make aggressive inroads into all areas of our life. Unfortunately, the issue of in-country AI regulation is a tricky one. The work of any dedicated regulatory agency is likely to be agonizingly hard without cross-border cooperation. Just like the US's NRC (Nuclear Regulatory Commission) needs to work hand in hand with the International Atomic Energy Agency (IAEA) to be at its best, any dedicated in-country AI regulatory agency would also need an international analog.
@@ -95,34 +87,14 @@ thumbnail: https://thmb.techidaily.com/177db7c45381f8f94f304fef5764a3ae21d49762f
 * Overseeing the ethical review process of AI projects
 * Collaboration and cross-country cooperation on AI safety and ethics
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Addressing Copyright and Intellectual Property Concerns
 
 ![An illustration of copyright thief](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/copyright-protected-illustration.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Existing copyright laws and legal frameworks crumble in the face of Artificial Intelligence. The way AI tools, especially generative AI tools, are designed makes them seem like a publicly endorsed copyright infringement machine that you can't do anything about.
 
  How? Well, many of today's AI systems are trained using copyrighted materials. You know, copyrighted articles, copyrighted songs, copyrighted images, etc. That's how tools like [ChatGPT, Bing AI, and Google Bard](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/) can do the awesome things they do.
@@ -138,12 +110,6 @@ thumbnail: https://thmb.techidaily.com/177db7c45381f8f94f304fef5764a3ae21d49762f
 * To ensure innovation in the AI space while safeguarding the rights of original creators, AI regulations should redefine the concepts of fair use and transformative work in the context of AI-generated content. Clearer definitions and guidelines are needed to ensure that AI space can continue to improve while respecting copyright boundaries. It is essential to strike a balance between innovation and preserving the rights of content creators.
 * Clear pathways for collaboration with right holders. If AI systems are going to use people's intellectual property anyway, there should be clear pathways or frameworks for AI developers and rights-owners to collaborate, especially in terms of financial compensations, if the derivative work of such intellectual properties is commercialized.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI Regulation Is a Desperately Needed Fix
 
  While artificial intelligence has emerged as a promising fix to many of our societal problems, AI itself is rapidly becoming a problem needing an urgent fix. It's time to take a step back, reflect, and make the necessary fixes to ensure AI's positive impact on society. We desperately need an urgent recalibration of our approach to building and using AI systems.
@@ -158,8 +124,6 @@ thumbnail: https://thmb.techidaily.com/177db7c45381f8f94f304fef5764a3ae21d49762f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +131,20 @@ thumbnail: https://thmb.techidaily.com/177db7c45381f8f94f304fef5764a3ae21d49762f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-the-oculus-quest-2-affordable-high-quality-vr-gaming/"><u>Comprehensive Review of the Oculus Quest 2: Affordable High-Quality VR Gaming</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ding-your-videos-against-youtube-copyright-strikes-for-2024/"><u>Defending Your Videos Against YouTube Copyright Strikes for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-latest-and-greatest-unveiling-ios-18s-best-new-additions-spotlight/"><u>Discover the Latest and Greatest: Unveiling iOS 18'S Best New Additions - Spotlight</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enabling-privacy-in-mozilla-thunderbird-with-dnt-a-step-by-step-guide/"><u>Enabling Privacy in Mozilla Thunderbird with DNT - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-motorola-razr-40-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-deactivating-speaking-directions-for-visually-impaired-on-samsung-televisions/"><u>Guide: Deactivating Speaking Directions for Visually Impaired on Samsung Televisions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/healed-printer-communication-link/"><u>Healed Printer Communication Link</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-become-an-fcp-virtuoso-with-this-guide/"><u>In 2024, Become an FCP Virtuoso with This Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insight-into-massive-computational-linguistics/"><u>Insight Into Massive Computational Linguistics</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/subtitle-edit-for-mac-download-alternatives-for-2024/"><u>Subtitle Edit for Mac Download Alternatives for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tutorial-activate-gpts-beta-browser-and-plugin-functionality/"><u>Tutorial: Activate GPT's Beta Browser & Plugin Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-iphone-se-cases-in-2e-the-best-protective-covers-for-your-device-gizmodo/"><u>Ultimate Guide to iPhone SE Cases in 2E!: The Best Protective Covers for Your Device | Gizmodo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-best-live-stream-tools-for-gamers-for-2024/"><u>Unveiling Best Live-Stream Tools for Gamers for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Examining the Purpose of ChatGPT Extras
-date: 2025-01-02T05:20:39.250Z
-updated: 2025-01-06T10:05:16.849Z
+date: 2025-01-05T19:08:43.057Z
+updated: 2025-01-12T20:15:06.853Z
 tags:
   - chatgpt
   - open-ai
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -66,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 
 ![chatgpt search with bing ask question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-search-with-bing-ask-question-jan-2024.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you make the request, you'll be told that GPT is currently searching the web. It may take ten or so seconds to get your results or longer if your connection is patchy, OpenAI's servers are overwhelmed, or your request contains detailed information that takes time to search for.
 
 ![chatgpt search with bing whats the weather jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-search-with-bing-whats-the-weather-jan-2024.jpg)
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
  It's likely that ChatGPT won't conduct a web search for data it already has access to, such as historical facts. If searching the web is necessary, make that known in your prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. DALL-E
@@ -92,16 +92,12 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 
 ![chatgpt-dalle output mouse next to river](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-dalle-output-mouse-next-to-river.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, we ask for changes.
 
 ![chatgpt-dalle mouse next to river changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-dalle-mouse-next-to-river-changed-colour.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Though we asked ChatGPT to keep the image identical aside from one change, it made the change but also changed almost everything else about the image. Keep this downside in mind when using this plugin.
@@ -124,7 +120,15 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 
 ![Screenshot of ChatGPT python code excerpt response in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-python-excerpt.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure you run whatever code is provided through a dedicated Python execution tool before implementing it. ChatGPT can make mistakes, so it's always best to run some checks on any data it gives you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use ChatGPT's Plugins on Mobile
 
@@ -132,17 +136,13 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 
 ![screenshot of chatgpt web search result in mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-search.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![screenshot of ChatGPT mobile app dall-e response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-dalle.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Screenshot of ChatGPT python interpreter in mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-python.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -169,20 +169,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-animtech-full-audit-24-summary-for-2024/"><u>[New] AnimTech Full Audit '24 Summary for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-from-clueless-to-confident-configuring-zoom-made-simple/"><u>[New] In 2024, From Clueless to Confident Configuring Zoom Made Simple</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-one-airpod-not-working-how-to-fix-it/"><u>[New] One Airpod Not Working How to Fix It</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-discover-the-top-10-text-tricks-in-filmmaking/"><u>[Updated] 2024 Approved Discover the Top 10 Text Tricks in Filmmaking</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-your-complete-reference-to-durecorders-features/"><u>[Updated] In 2024, Your Complete Reference to DuRecorder’s Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-foundations-of-langchain/"><u>Exploring the Foundations of LangChain</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-comprehensive-screencast-insights-for-creators/"><u>In 2024, Comprehensive Screencast Insights for Creators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ios-adoption-unleashing-chatgpt-app/"><u>IOS Adoption: Unleashing ChatGPT App</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-best-free-vob-video-editing-software-for-beginners/"><u>New Best Free VOB Video Editing Software for Beginners</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protecting-and-archiving-your-conversations/"><u>Protecting and Archiving Your Conversations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-data-analysis-in-excel-with-chatgpt/"><u>Revolutionizing Data Analysis in Excel with ChatGPT</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-guide-fixing-your-lol-lag-problems/"><u>Solution Guide: Fixing Your LoL Lag Problems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stepping-up-from-chatgpt-top-innovations/"><u>Stepping Up From ChatGPT: Top Innovations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamline-typing-with-bings-ai-integration-on-your-android-mobile-device/"><u>Streamline Typing with Bing's AI Integration on Your Android Mobile Device</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/upgrading-your-display-amd-driver-revision-for-microsoft-windows-platforms/"><u>Upgrading Your Display: AMD Driver Revision for Microsoft Windows Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-propel-promotions-with-select-words-and-phrases/"><u>[New] In 2024, Propel Promotions with Select Words and Phrases</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-discovering-facebooks-quintessential-updates/"><u>[Updated] In 2024, Discovering Facebook's Quintessential Updates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-strategies-for-addressing-sensitive-business-issues/"><u>AI-Driven Strategies for Addressing Sensitive Business Issues</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bring-your-chat-home-mondly-on-huawei/"><u>Bring Your Chat Home: Mondly on Huawei</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-realme-gt-neo-5-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme GT Neo 5 Without Password | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-kitchen-chronicles-filming-every-bite/"><u>In 2024, Kitchen Chronicles Filming Every Bite</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/master-your-peripherals-configuring-mice-and-keyboards-with-expert-advice-from-yl-software/"><u>Master Your Peripherals: Configuring Mice & Keyboards with Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/navigating-the-law-key-considerations-for-cryptocurrency-investments-with-yl-software/"><u>Navigating the Law: Key Considerations for Cryptocurrency Investments with YL Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/note-taking-evolution-embracing-obsidian-canvas/"><u>Note-Taking Evolution: Embracing Obsidian Canvas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/skyrocketing-results-with-7-innovative-ai-methods/"><u>Skyrocketing Results with 7 Innovative AI Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/subscribersilence-eager-for-gpt-access-restoration/"><u>SubscriberSilence: Eager for GPT Access Restoration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-3-essential-gadgets-to-maintain-the-pristine-appearance-of-your-iphone-13-tech-insights/"><u>Top 3 Essential Gadgets to Maintain the Pristine Appearance of Your iPhone 13 | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/water-found-in-iphone-charger-port-how-to-fix-it-or-deal-with-the-issue/"><u>Water Found in iPhone Charger Port: How to Fix It or Deal with the Issue</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Safeguarding Corporate Data in ChatAI Exchanges
-date: 2025-01-03T23:00:42.624Z
-updated: 2025-01-05T16:27:08.122Z
+date: 2025-01-07T23:40:12.219Z
+updated: 2025-01-12T18:56:36.389Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Don’t Save Your Chat History
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 ![ChatGPT showing options to disable chat history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-32.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that [OpenAI](https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt) says that even with this setting enabled, conversations are retained for 30 days with the option for moderators to review them for abuse before permanent deletion. Still, disabling chat history is one of the best things you can do if you want to continue using ChatGPT.
@@ -67,10 +67,14 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 
 ![ChatGPT showing options to clear all chats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-33.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another option is to select each conversation and delete it. This method is helpful if you still want to keep some of your chats. On the list of conversations, click the chat you want to delete. Select the trash icon to remove the data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Don’t Feed ChatGPT Sensitive Work Information
@@ -82,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
  The massive ChatGPT data leak from June 2022 to May 2023 illustrates how important this point is. [Search Engine Journal](https://www.searchenginejournal.com/massive-leak-of-chatgpt-credentials-over-100000-accounts-affected/489801/#close) reports that over 100,000 ChatGPT account credentials were compromised and sold on dark web marketplaces because of the incident.
 
  Limit interactions with ChatGPT to non-confidential queries and avoid sharing proprietary details. Moreover, apply good password hygiene and enable two-factor authentication to prevent compromising your account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Use Data Anonymization Techniques
 
@@ -103,19 +111,11 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 
  Additionally, implement access controls to safeguard your company’s data. For instance, role-based access control (RBAC) gives authorized employees access to only the necessary data to perform their jobs. You can also conduct regular access reviews to ensure that access controls are effective. Don’t forget to revoke access for employees who change roles or leave the company.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Be Wary of Third-Party Apps
 
 [Whether third-party ChatGPT apps and browser extensions are safe](https://www.makeuseof.com/third-party-chatgpt-apps-browser-extensions-safe/) is an important question to ask. Before using any of these apps for work, carefully vet and scrutinize them. Make sure that they’re not collecting and retaining information for questionable purposes.
 
  Don’t install shady apps that ask for random permissions on your phone. Verify their data handling practices to check if they align with your organization’s privacy standards.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use ChatGPT Responsibly for Work
 
@@ -140,22 +140,19 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-lens-legends-a-deep-dive-into-snapchats-transformative-tools/"><u>[New] Lens Legends A Deep Dive Into Snapchat's Transformative Tools</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-to-a-perfectly-arranged-youtube-queue/"><u>[New] Step-by-Step to a Perfectly Arranged YouTube Queue</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-tutorial-on-designing-dynamic-facebook-slides-for-2024/"><u>[Updated] The Ultimate Tutorial on Designing Dynamic Facebook Slides for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-report-dji-inspire-1-reviewed/"><u>2024 Approved Comprehensive Report DJI Inspire 1 Reviewed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-groundbreaking-ai-programs-for-emotional-balance/"><u>5 Groundbreaking AI Programs for Emotional Balance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-offbeat-uses-for-language-models/"><u>5 Offbeat Uses for Language Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-ways-to-use-chatgpt-as-a-video-game-scriptwriter/"><u>6 Ways to Use ChatGPT as a Video Game Scriptwriter</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-prompting-techniques-to-improve-your-chatgpt-responses/"><u>7 Prompting Techniques to Improve Your ChatGPT Responses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-powerful-strategies-boosting-daily-efficiency-with-gpt/"><u>8 Powerful Strategies: Boosting Daily Efficiency with GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721415794912-go-mobile-bings-intelligent-search-for-your-devices-now/"><u>Go Mobile: Bing’s Intelligent Search for Your Devices Now</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo Reno 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-motorola-edge-40-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Motorola Edge 40 FRP Bypass</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-solution-to-overcome-modern-warfares-dev-error-6034-on-pc-and-xbox/"><u>Step-by-Step Solution to Overcome Modern Warfare's Dev Error ✖️6034 on PC and Xbox</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721406388661-the-era-of-individual-ai-openais-personalized-gpt-shops/"><u>The Era of Individual AI: OpenAI's Personalized GPT Shops!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721404782548-transform-how-you-search-bings-ai-ready-for-mobile-devices/"><u>Transform How You Search: Bing’s AI Ready for Mobile Devices</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-microsoft-video-editor-for-dummies-a-step-by-step-guide-for-2024/"><u>Updated Microsoft Video Editor for Dummies A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-comprehensive-guide-to-premier-gratis-web-design-suites-on-pc/"><u>Your Comprehensive Guide to Premier Gratis Web Design Suites on PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-amazon-primes-social-standings-top-watchers-and-likers-twitter-2023/"><u>[New] 2024 Approved Amazon Prime's Social Standings - Top Watchers and Likers Twitter, 2023</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-engaging-sims-4-experience-through-recording/"><u>[Updated] 2024 Approved Engaging Sims 4 Experience Through Recording</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-narratives-with-these-effective-chatbot-triggers-for-memorable-characters/"><u>Enhance Your Narratives with These Effective Chatbot Triggers for Memorable Characters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fake-detection-unveiled-openais-counter-to-gpt-dupes/"><u>Fake Detection Unveiled: OpenAI's Counter to GPT Dupes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/honest-discoveries-in-vpn-crackdown/"><u>Honest Discoveries in VPN Crackdown</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/how-to-identify-and-troubleshoot-your-gpu-issues-top-tools-explained/"><u>How to Identify and Troubleshoot Your GPU Issues: Top Tools Explained</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-realme-narzo-60-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Realme Narzo 60 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/insert-audio-files-into-powerpoint-sequences/"><u>Insert Audio Files Into PowerPoint Sequences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-modern-chatgpt-with-gpt-4-techniques/"><u>Mastering Modern ChatGPT with GPT-4 Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/microsofts-bing-transformed-with-cutting-edge-ai/"><u>Microsoft's Bing Transformed with Cutting-Edge AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/procedures-for-removing-outdated-conversations-on-gpt/"><u>Procedures for Removing Outdated Conversations on GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scam-perception-of-truthgpt-cryptocurrency/"><u>Scam Perception of TruthGPT Cryptocurrency</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-save-netflix-videos-onto-your-laptop/"><u>Step-by-Step: Save Netflix Videos Onto Your Laptop</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Enigma of CodeGPT: Writing Codes without Humans?"
-date: 2024-09-06T23:30:23.467Z
-updated: 2024-09-07T23:30:23.467Z
+date: 2025-01-08T00:19:19.245Z
+updated: 2025-01-12T23:55:19.695Z
 tags:
   - chatgpt
   - open-ai
@@ -13,26 +13,12 @@ excerpt: "This Article Describes The Enigma of CodeGPT: Writing Codes without Hu
 thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6661b79a6595a67d8bfbaed5.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Enigma of CodeGPT: Writing Codes without Humans?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is CodeGPT?](https://zonlipartnershipprogram.pxf.io/b0rbxy)
@@ -40,11 +26,9 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
 * [Can CodeGPT Really Write Code?](https://sentrypc.7eer.net/dkpkgn)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * CodeGPT is an AI-powered coding assistant that helps programmers write and fix code, with features like auto-completion and code explanation.
@@ -58,11 +42,9 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
  If you're looking for an AI-powered assistant to help you write code, chances are you've encountered CodeGPT. It's one of many AI-powered tools you can use to assist you when programming. But can CodeGPT actually write code?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is CodeGPT?
 
  CodeGPT is a dedicated extension that uses different artificial intelligence (AI) models to help programmers write and fix code. It includes various features geared towards faster and easier programming, including auto-completion, code explanation, refactoring, documentation, unit testing, error-checking, and bug-fixing. It also has a ChatGPT-like interface you can access from your code editor.
@@ -72,17 +54,9 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
  While there are several [code editors for Linux](https://www.makeuseof.com/best-ide-code-editors-for-linux/), macOS, and Windows, CodeGPT is only available in two. Today, you can either [install and use CodeGPT in VS Code](https://www.makeuseof.com/install-use-codegpt-in-vs-code/) or in Cursor, which is a fork of VS Code.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Much Does CodeGPT Cost?
 
  You can download and install CodeGPT for free, but using the extension comes at a cost. CodeGPT offers various subscription packages that you can pay for if you need unlimited access.
@@ -92,17 +66,9 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
  Bear in mind that you'll need to pay for unlimited usage of third-party AI models like OpenAI's GPT-4 model, for example. Although you can [access Open AI's GPT-4 model for free](https://www.makeuseof.com/ways-access-gpt-4-free/), you cannot do so from within VS Code or Cursor.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can CodeGPT Really Write Code?
 
  To evaluate this, we'll use the extension to help us generate two different code samples in Python.
@@ -193,8 +159,6 @@ with open('output.csv', 'w', newline='') as output_file:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +166,26 @@ with open('output.csv', 'w', newline='') as output_file:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ust-have-filmmaking-tools-for-aspiring-youtubers-for-2024/"><u>[New] Must-Have Filmmaking Tools for Aspiring YouTubers for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-tailored-macos-tutorials-for-editing-srt-files/"><u>[Updated] 2024 Approved Tailored macOS Tutorials for Editing SRT Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/14-for-your-next-purchase-insights-from-zdnet/"><u>14 for Your Next Purchase - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-challenges-leading-web-browser-with-unsettling-marketing-campaign-discover-more-on-zdnet/"><u>Apple Challenges Leading Web Browser with Unsettling Marketing Campaign: Discover More on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-your-smartwatch-a-comprehensive-guide-comparing-the-google-pixel-watch-and-apple-watch-series-8/"><u>Choosing Your Smartwatch: A Comprehensive Guide Comparing the Google Pixel Watch and Apple Watch Series 8</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-x90s-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo X90S in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-computer-screen-discoloration-and-distortion-effective-solutions-inside/"><u>Fixing Computer Screen Discoloration and Distortion – Effective Solutions Inside</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/free-high-quality-passport-pictures-download-and-print-in-seconds/"><u>Free High-Quality Passport Pictures - Download & Print in Seconds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-dysons-latest-ontrac-wireless-headphones-pose-a-threat-to-the-dominance-of-airpod-max-reviews/"><u>How Dyson's Latest OnTrac Wireless Headphones Pose a Threat to the Dominance of AirPod Max Reviews</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-x50iplus-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my X50i+</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/job-search-revolution-with-chatgpt-insights/"><u>Job Search Revolution with ChatGPT Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-uses-of-llama-2-for-maximum-efficiency/"><u>Mastering the Uses of Llama 2 for Maximum Efficiency</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/pre-release-film-recording-critique-with-secondary-choices-for-2024/"><u>Pre-Release Film Recording Critique with Secondary Choices for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/pre-upgrade-knowledge-key-elements-explained/"><u>Pre-Upgrade Knowledge Key Elements Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/public-bathroom-visit-turns-into-surprising-health-screening-experience-insights/"><u>Public Bathroom Visit Turns Into Surprising Health Screening Experience - Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revolutionary-hacks-to-optimize-your-minecraft-experience-on-pc/"><u>Revolutionary Hacks to Optimize Your Minecraft Experience on PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-pros-and-cons-of-chatgpt-plus/"><u>The Pros and Cons of ChatGPT Plus</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-checklist-for-successful-onestream-live-streaming/"><u>The Ultimate Checklist for Successful OneStream Live Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-typists-into-document-genies-in-word/"><u>Transforming Typists Into Document Genies in Word</u></a></li>
+</ul></div>
 

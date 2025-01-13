@@ -1,7 +1,7 @@
 ---
 title: Assessing Chatbot Security in Digital Age
-date: 2024-09-06T23:30:21.401Z
-updated: 2024-09-07T23:30:21.401Z
+date: 2025-01-10T22:04:30.845Z
+updated: 2025-01-13T00:52:18.496Z
 tags:
   - chatgpt
   - open-ai
@@ -23,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 
  AI chatbots aren’t perfect, but you don’t have to avoid them altogether. Here’s everything you should know about how crooks abuse ChatGPT and what you can do to stop them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Will ChatGPT Compromise Your Personal Information?
 
  Most front-end security concerns about ChatGPT stem from speculations and unverified reports. The platform only launched in November 2022, after all. It’s natural for new users to have misconceptions about the privacy and security of unfamiliar tools.
@@ -36,11 +30,9 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
  According to [OpenAI’s terms of use](https://openai.com/policies/terms-of-use), here’s how ChatGPT handles the following data:
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Personally Identifiable Information
 
  Rumors say that ChatGPT sells [personally identifiable information](https://www.makeuseof.com/what-is-personally-identifiable-information/) (PII).
@@ -49,40 +41,16 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 
  Moreover, ChatGPT asks for minimal information. You can create an account with just your name and email address.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conversations
 
  OpenAI keeps ChatGPT conversations secure, but it reserves the right to monitor them. AI trainers continuously look for areas of improvement. Since the platform comprises vast yet limited datasets, resolving errors, bugs, and vulnerabilities requires system-wide updates.
 
  However, OpenAI can only monitor convos for research purposes. Distributing or selling them to third parties violates its own terms of use.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Public Information
 
  According to the [BBC](https://www.sciencefocus.com/future-technology/gpt-3/), OpenAI trained ChaGPT on 300 billion words. It collects data from public web pages, like social media platforms, business websites, and comment sections. Unless you’ve gone off the grid and erased your digital footprint, ChatGPT likely has your information.
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Security Risks Does ChatGPT Present?
 
  While ChatGPT isn’t inherently dangerous, the platform still presents security risks. Crooks can bypass restrictions to execute various cyberattacks.
@@ -97,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 
  Learn to spot hacking attempts. Although email providers filter spam messages, some crafty ones could fall through the cracks. You should still know what phishing messages look like.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Data Theft
 
  ChatGPT uses an open-source LLM, which anyone can modify. Coders proficient in large language models (LLM) and machine learning often integrate pre-trained AI models into their legacy systems. Training AI on new datasets alters functionality. For instance, ChatGPT becomes a pseudo-fitness expert if you feed it recipes and exercise routines.
@@ -105,16 +77,18 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 
  Remember: you have no control over how crooks operate. The best approach is to contact the Federal Trade Commission (FTC) once you notice [signs of identity theft](https://www.makeuseof.com/what-is-identity-theft/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Malware Production
 
 ![Lines of Codes With Different Colors on a Black Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/lines-of-code-on-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  ChatGPT writes usable code snippets in different programming languages. Most samples require minimal modifications to function properly, especially if you structure a concise prompt. You could leverage this feature to develop apps and sites.
 
  Since ChatGPT was trained on billions of datasets, it also knows illicit practices, like developing malware and viruses. OpenAI prohibits chatbots from writing malicious codes. But crooks bypass these restrictions by restructuring prompts and asking precise questions.
@@ -123,12 +97,6 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 
 ![ChatGPT Refusing to Write Code for the Trojan Virus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-on-trojan-virus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Meanwhile, the below photo shows that ChatGPT will give you harmful information if you phrase your prompts correctly.
 
 ![ChatGPT Writing a Code Snippet for Viruses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-code-snippet.jpg)
@@ -142,17 +110,9 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 ![ChatGPT Paraphrasing Text to Avoid Plagiarism](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-paraphrasing.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Of course, spinning still classifies as plagiarism. Paraphrased AI articles sometimes rank by chance, but Google generally prefers original content from reputable sources. Cheap tricks and SEO hacks can’t beat high-quality, evergreen writing.
 
  Also, Google releases multiple core updates annually. It will soon focus on removing lazy, unoriginal AI-generated pieces from SERPs.
@@ -170,21 +130,17 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
  The good news is [OpenAI hasn’t lost control of ChatGPT](https://www.makeuseof.com/openai-lost-control-chatgpt/). Its ongoing efforts in tightening restrictions stop ChatGPT from producing unethical responses, regardless of user input. Jailbreaking won’t be as easy moving forward.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Quid Pro Quo
 
 ![Searching ChatGPT on Play Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-on-play-store.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The rapid growth of new, unfamiliar technologies like ChatGPT creates opportunities for quid pro quo attacks. They’re social engineering tactics wherein crooks lure victims with fake offers.
 
  Most people haven’t explored ChatGPT yet. And hackers exploit the confusion by spreading misleading promotions, emails, and announcements.
@@ -205,14 +161,11 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 
  AI chatbots aren’t perfect, but you don’t have to avoid them altogether. Here’s everything you should know about how crooks abuse ChatGPT and what you can do to stop them.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -221,4 +174,24 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-how-to-turn-off-suggested-posts-on-instagram/"><u>[New] In 2024, How to Turn Off Suggested Posts on Instagram?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-quick-and-painless-podcast-go-live-technique/"><u>[Updated] 2024 Approved The Quick and Painless Podcast Go Live Technique</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-zte-nubia-flip-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your ZTE Nubia Flip 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-silicon-series-explained-understanding-rosetta-m1-to-m3-impact-on-choosing-a-computer-zdnet/"><u>Apple Silicon Series Explained: Understanding Rosetta, M1 to M3 Impact on Choosing a Computer | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-tutorial-refreshing-your-ati-radeon-graphics-driver-for-optimal-performance-on-windows/"><u>Complete Tutorial: Refreshing Your ATI Radeon Graphics Driver for Optimal Performance on Windows</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-driven-website-optimization-boosting-traffic-and-conversions/"><u>Cookiebot-Driven Website Optimization: Boosting Traffic and Conversions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-installation-and-operation-of-microsoft-copilot-on-macos/"><u>Effortless Installation and Operation of Microsoft Copilot on macOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-review-non-apple-non-tile-brand-emerges-as-top-contender-in-wallet-airtag-market-insights/"><u>Exclusive Review: Non-Apple, Non-Tile Brand Emerges as Top Contender in Wallet AirTag Market - Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hdr-review-luminances-creation-capability/"><u>In 2024, HDR Review Luminance's Creation Capability</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Spoofing Life360 How to Do it on Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prioritized-revamps-for-the-gpt-plugins-stores-functionality/"><u>Prioritized Revamps for the GPT Plugins Store's Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revitalize-your-writers-block-with-5-ai-generators/"><u>Revitalize Your Writer's Block with 5 AI Generators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-a-deal-grab-your-new-ipad-for-only-199-at-amazons-labor-day-discount-extravaganza-featured/"><u>Score a Deal: Grab Your New iPad for Only $199 at Amazon's Labor Day Discount Extravaganza – Featured !</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-cycling-adventures-with-photochromic-smart-glasses-and-interactive-heads-up-display-insights-from-zdnet/"><u>Transforming Cycling Adventures with Photochromic Smart Glasses and Interactive Heads-Up Display - Insights From ZDNet</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/unveiling-top-tier-electronics-a-journey-through-toms-circuitry-advice/"><u>Unveiling Top-Tier Electronics – A Journey Through Tom's Circuitry Advice</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/which-is-better-for-vloggers-on-facebook-vertical-or-horizontal-in-2024/"><u>Which Is Better for Vloggers on Facebook Vertical or Horizontal, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-wont-apples-latest-ai-innovations-upgrade-your-iphone-the-high-price-tag-explained-insights/"><u>Why Won't Apple's Latest AI Innovations Upgrade Your iPhone? The High Price Tag Explained | Insights</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Fallacy of Faithfulness in ChatGPT's Summaries
-date: 2024-09-06T23:30:17.762Z
-updated: 2024-09-07T23:30:17.762Z
+date: 2025-01-10T23:52:09.701Z
+updated: 2025-01-13T00:29:40.269Z
 tags:
   - chatgpt
   - open-ai
@@ -35,12 +35,6 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
  There are limits to what ChatGPT knows. And its programming forces it to deliver what you ask for, even if the result is wrong. This means ChatGPT makes mistakes, and moreover, there are some common mistakes it makes, especially when it’s summarizing information and you’re not paying attention.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Can Ignore or Misunderstand Your Prompt
 
  If you give the chatbot lots of data to sort through, even a complex prompt, it’s likely to deviate from your instructions and follow its own interpretation of them.
@@ -52,28 +46,18 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 ![ChatGPT Misintepreting a Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-misintepreting-a-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The chatbot merged both answers into one paragraph. A follow-up prompt with clearer instructions asked it to dip into its knowledge pool, too.
 
 ![ChatGPT Breaking Down Information as Instructed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-breaking-down-information-as-instructed.jpg)
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This is why you should keep your instructions precise, provide context when necessary, and keep an eye on ChatGPT’s results. If you flag up any mistake immediately, the chatbot can produce something more accurate.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Can Omit Information You Provide
 
@@ -85,30 +69,12 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
 ![ChatGPT Summarizing Holiday Destinations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-summarizing-holiday-destinations.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When asked if it omitted details, it admitted that, yes, it left certain information out, such as specific attractions and transportation options. Conciseness was its goal.
 
 ![ChatGPT Omitting Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-omitting-information.jpg)
 
  If left to its own devices, there’s no guarantee that ChatGPT will use the details you expect. So, plan and phrase your prompts carefully to ensure the chatbot’s summary is spot on.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Can Use Wrong or False Alternatives
 
  OpenAI has updated GPT-4o with data available up to October 2023, while GPT-4 Turbo's cut-off is December of the same year. However, the algorithm’s knowledge isn’t infinite or reliable with real-time facts—it doesn’t know everything about the world. Furthermore, it won’t always reveal that it lacks data on a particular subject unless you ask it directly.
@@ -119,20 +85,8 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
 ![ChatGPT Getting a Name Wrong While Translating](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-getting-a-name-wrong-while-translating.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Company names, books, awards, research links, and other elements can disappear or be altered in the chatbot’s summary. To avoid major mistakes, be aware of [ChatGPT’s content creation limits](https://www.makeuseof.com/mistakes-to-avoid-using-chatgpt-content-creation/) .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Can Get Facts Wrong
 
  It’s important to learn all you can about [how to avoid mistakes with generative AI tools](https://www.makeuseof.com/mistakes-generative-ai-tools/) . As the example above demonstrates, one of the biggest problems with ChatGPT is that it lacks certain facts or has learned them wrong. This can then affect any text it produces.
@@ -144,14 +98,16 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 ![ChatGPT Creating a Summary of TikTok Trends](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-creating-a-summary-of-tiktok-trends.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Most of the explanations were slightly wrong or lacked specifics about what posters must do. The description of the UMG Music trend was especially misleading. The trend changed after the catalogue’s removal from TikTok, and users now post videos to criticize, not support UMG, something which ChatGPT doesn’t know.
 
 ![ChatGPT Explaining a TikTok Trend Wrong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-explaining-a-tiktok-trend-wrong.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The best solution is to not blindly trust AI chatbots with your text. Even if ChatGPT compiled information you provided yourself, make sure you edit everything it produces, check its descriptions and claims, and make a note of any facts it gets wrong. Then, you’ll know how to structure your prompts for the best results.
 
@@ -162,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
  The test below shows ChatGPT needing several prompts. It still either fell short or exceeded the word count needed.
 
 ![ChatGPT Trying to Stick to Word Count Instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-trying-to-stick-to-word-count-instructions.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’s not the worst mistake to expect from ChatGPT. But it’s one more factor to consider when proofreading the summaries it creates.
 
@@ -177,8 +137,6 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +144,26 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-savvy.techidaily.com/authenticity-and-authorship-why-writers-dont-rely-on-ais/"><u>Authenticity and Authorship: Why Writers Don't Rely on AIs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-arlo-doorbell-with-video-and-security-system-evaluation/"><u>Comprehensive Arlo Doorbell with Video & Security System Evaluation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-codegpt-prospects-in-automated-programming/"><u>Decoding CodeGPT: Prospects in Automated Programming</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719271997711-enable-high-contrast-mode-go-to-ease-of-access-settings-and-enable-high-contrast-mode-if-it-improves-visibility/"><u>Enable High Contrast Mode: Go to 'Ease of Access' Settings and Enable High Contrast Mode if It Improves Visibility.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-black-myth-wukong-fps-drops-and-lags-on-pc/"><u>Fix Black Myth Wukong FPS Drops & Lags on PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-honor-x50iplus-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Honor X50i+ to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-investing-in-advanced-apple-insights-worth-your-money-experts-say-it-could-be-under-20month-insights-from-zdnet/"><u>Is Investing in Advanced Apple Insights Worth Your Money? Experts Say It Could Be Under $20/Month - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimal-visual-experience-pondering-ultrawide-vs-uhd-4k-monitors/"><u>Optimal Visual Experience Pondering UltraWide vs UHD 4K Monitors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamlessly-syncing-apple-music-with-youtube-music-the-ultimate-transfer-strategy-for-subscribers-insights/"><u>Seamlessly Syncing Apple Music with YouTube Music: The Ultimate Transfer Strategy for Subscribers - Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-creating-stunning-portraits-with-iphones-ios-16-cutout-feature/"><u>Step-by-Step Instructions for Creating Stunning Portraits with iPhone's iOS 16 Cutout Feature</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tackling-iphone-irritations-head-on-essential-changes-for-a-seamless-apple-experience/"><u>Tackling iPhone Irritations Head-On: Essential Changes for a Seamless Apple Experience</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-art-of-engineering-discovering-the-well-designed-wonders-of-samsung-galaxy-watch-inside-and-out/"><u>The Art of Engineering: Discovering the Well-Designed Wonders of Samsung Galaxy Watch, Inside and Out</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-chill-of-tech-a-deep-dive-into-winter-energy-battles-among-data-facilities-featured-on-zdnet/"><u>The Chill of Tech: A Deep Dive Into Winter Energy Battles Among Data Facilities – Featured on ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-stuck-or-broken-letters-on-your-windows-1011-keyboard/"><u>Troubleshooting Stuck or Broken Letters on Your Windows 10/11 Keyboard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/turing-test-breakdown-is-it-irreversible/"><u>Turing Test Breakdown: Is It Irreversible?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ai-openai-uncovered/"><u>Understanding AI: OpenAI Uncovered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-the-full-potential-of-your-chatbot-masterful-prompt-design/"><u>Unleash The Full Potential Of Your ChatBot: Masterful Prompt Design</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-future-selecting-superior-ai-prompts-craftors/"><u>Unveiling the Future: Selecting Superior AI Prompts Craftors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-razer-naga-software-a-step-by-step-guide-for-windows-users/"><u>Update Razer Naga Software: A Step-by-Step Guide for Windows Users</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Essential iPad Tricks & Configuration Advice for Both Beginners & Experts: A Comprehensive Guide - ZDNet"
-date: 2025-01-05T02:15:44.767Z
-updated: 2025-01-06T05:37:22.806Z
+date: 2025-01-07T18:59:19.399Z
+updated: 2025-01-12T21:53:04.151Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Customize your lock screen
@@ -39,10 +39,6 @@ Max Buondonno/ZDNET
 In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and it's one of the easiest ways to help the tablet reflect your personal style. You can alter the font, the wallpaper, and even add a few widgets to keep important information available at a glance. Personally, I have a nice serif font on my iPad with a weather widget and my to-do list, as well as an ocean background from Nomad (because I can't go a day without looking at the water).
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Configure your focus settings
 
@@ -74,10 +70,6 @@ You can customize the size of the window, bring up secondary apps in the same vi
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Save your eyes at night with Night Shift
 
 Yes, I realize this setting doesn't _actually_ protect your eyesight in the long run, nor is it a life-changing hack that everyone should use. But Night Shift on the iPad does make staring at your screen a bit easier when it's dark out, especially if you have to spend a lot of time staring at a text field (like me). I've felt less eye strain while using the setting at night; it helps to relax my mind a bit since all the colors are much warmer. It's worth giving a shot if you like to use your iPad at night.
@@ -87,7 +79,7 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
@@ -100,11 +92,19 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -129,7 +129,7 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
@@ -180,19 +180,17 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-mastering-the-art-of-monochrome-modification/"><u>[New] 2024 Approved Mastering the Art of Monochrome Modification</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/aximizing-profits-the-guide-to-gainful-youtube-endeavors-sans-ads/"><u>[New] Maximizing Profits The Guide to Gainful YouTube Endeavors Sans Ads</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-clarity-champions-top-10-smartphones-with-high-res-4k-cameras/"><u>[Updated] Clarity Champions Top 10 Smartphones with High-Res 4K Cameras</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-eight-powerful-devices-for-prospective-filmora-alternatives-for-2024/"><u>[Updated] Eight Powerful Devices for Prospective Filmora Alternatives for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-jesters-playground-newest-tiktok-comedians/"><u>2024 Approved Jester's Playground Newest TikTok Comedians</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-role-in-future-dev-workflows/"><u>AI's Role in Future Dev Workflows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/are-third-party-chatgpt-apps-and-browser-extensions-safe/"><u>Are Third-Party ChatGPT Apps and Browser Extensions Safe?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-information-access-with-advanced-perplexity-ai/"><u>Elevate Information Access with Advanced Perplexity AI</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-shockwave-flash-issues-on-google-chrome/"><u>How to Repair Shockwave Flash Issues on Google Chrome</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/quick-and-easy-guide-to-lossless-dvd-backup-within-5-minutes/"><u>Quick and Easy Guide to Lossless DVD Backup Within 5 Minutes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-consequences-of-content-control-by-artificinaset-algorithms/"><u>The Consequences of Content Control by Artificinaset Algorithms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-evolution-of-windows-11-with-the-latest-moment-update/"><u>The Evolution of Windows 11 with the Latest Moment Update</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-of-the-line-laptops-faceoff-how-the-samsung-galaxy-book-3-ultra-stacks-up-against-the-macbook-pro-insights-by-zdnet/"><u>Top-of-the-Line Laptops Faceoff: How the Samsung Galaxy Book 3 Ultra Stacks Up Against the MacBook Pro | Insights by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-leading-small-tablet-picks-of-2e24-in-depth-analysis-and-rankings-as-tested-by-industry-authorities-insights-from-zdnet/"><u>Ultimate Guide to the Leading Small Tablet Picks of 2E24: In-Depth Analysis and Rankings as Tested by Industry Authorities | Insights From ZDNET</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-ultimate-guide-to-making-money-on-youtube-average-required-views-for-2024/"><u>[New] The Ultimate Guide to Making Money on YouTube Average Required Views for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-honor-magic-vs-2-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/block-unauthorized-openai-access/"><u>Block Unauthorized OpenAI Access</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/do-you-need-to-be-polite-to-ai-like-chatgpt-alexa-and-siri/"><u>Do You Need to Be Polite to AI Like ChatGPT, Alexa, and Siri?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-to-know-chatgpt-now-on-android/"><u>Get to Know ChatGPT - Now on Android</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/learn-the-best-practices-for-capturing-instagram-live-feeds/"><u>Learn the Best Practices for Capturing Instagram Live Feeds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quit-side-by-side-tech-showdown-ai-differences-explored/"><u>Quit Side-by-Side Tech Showdown: AI Differences Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-smooth-file-transfers-tips-and-tricks-for-windows-users/"><u>Securing Smooth File Transfers: Tips & Tricks for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-discover-the-sleek-and-fast-charging-non-brick-magsafe-battery-packs/"><u>Ultimate Guide: Discover the Sleek & Fast-Charging Non-Brick MagSafe Battery Packs!</u></a></li>
+<li><a href="https://facebook.techidaily.com/unleash-potential-skyrocket-your-fb-groups-appeal/"><u>Unleash Potential: Skyrocket Your FB Group's Appeal</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-ais-frailty-the-process-and-implications-of-prompt-injection-attacks/"><u>Unraveling AI's Frailty - The Process and Implications of Prompt Injection Attacks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209681309-9781468308693-whisperers/"><u>Whisperers | Free Book</u></a></li>
 </ul></div>
 

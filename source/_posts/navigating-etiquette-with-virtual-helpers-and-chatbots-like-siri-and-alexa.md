@@ -1,7 +1,7 @@
 ---
 title: Navigating Etiquette With Virtual Helpers & Chatbots Like Siri and Alexa
-date: 2025-01-04T01:19:53.163Z
-updated: 2025-01-05T18:08:15.702Z
+date: 2025-01-09T19:07:56.318Z
+updated: 2025-01-12T18:51:47.110Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Be Polite to AI like ChatGPT, Alexa, and Siri?
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It doesn't make a difference if you're polite to AI. This is because AI like ChatGPT, Alexa, or Siri cannot process emotions like humans, and it won't be offended if you're not polite.
@@ -49,10 +49,14 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
 ![chatgpt no feelings or emotions text march 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-no-feelings-or-emotions-text.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For instance, if you use derogatory words when addressing [Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/), it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should You Teach Children to Be Polite Using AI?
 
@@ -65,16 +69,12 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can AI Be Rude to You?
 
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
 
@@ -109,22 +109,19 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-improve-office-productivity-with-speech-to-text-conversion-in-microsoft-word-for-2024/"><u>[New] Improve Office Productivity with Speech to Text Conversion in Microsoft Word for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-comprehensive-understanding-leveraging-adobe-cloud-and-finding-alternatives/"><u>[Updated] Comprehensive Understanding Leveraging Adobe Cloud and Finding Alternatives</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-in-depth-look-at-high-quality-minecraft-recordings/"><u>2024 Approved In-Depth Look at High-Quality Minecraft Recordings</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-innovative-tech-for-your-instant-sharing-needs-on-facebook/"><u>2024 Approved Innovative Tech for Your Instant Sharing Needs on Facebook</u></a></li>
-<li><a href="https://extra-information.techidaily.com/breakthrough-media-tools-to-complement-xsplit/"><u>Breakthrough Media Tools to Complement XSplit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-excel-conquer-your-data-fears/"><u>ChatGPT in Excel: Conquer Your Data Fears</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/digital-storytelling-with-facebook-slideshow-creation/"><u>Digital Storytelling with Facebook SlideShow Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essays-in-the-digital-age-is-ai-overruling-student-effort/"><u>Essays in the Digital Age: Is AI Overruling Student Effort?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/expert-tips-for-captivate-based-demos/"><u>Expert Tips for Captivate-Based Demos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-quoras-poe-to-access-ai-chatbots-and-llms/"><u>How to Use Quora's Poe to Access AI Chatbots and LLMs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/retain-gpt-conversations-easily/"><u>Retain GPT Conversations Easily</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-mods-elevating-your-interaction-with-chatgpt-and-vs-code/"><u>Top 6 Mods: Elevating Your Interaction with ChatGPT & VS Code</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-reasons-ios-outshines-chatgpt-website/"><u>Top 6 Reasons: IOS Outshines ChatGPT Website</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-the-paperclip-predicament-ties-to-ai/"><u>Unraveling the Paperclip Predicament: Ties to AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-human-touch-matters-in-therapy-more-than-computerized-care/"><u>Why Human Touch Matters in Therapy, More Than Computerized Care</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-blueprint-for-youtube-video-success/"><u>[New] 2024 Approved The Blueprint for YouTube Video Success</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-streamlined-techniques-for-recording-gotomeetings-for-2024/"><u>[New] Streamlined Techniques for Recording GoToMeetings for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-understanding-vr-limitations/"><u>[New] Understanding VR Limitations</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-encompassing-gyroscopic-vr-tests/"><u>[Updated] In 2024, Encompassing Gyroscopic VR Tests</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-screen-streaming-showdown-whos-the-champion-obs-or-shadowgl/"><u>2024 Approved Screen Streaming Showdown Who's the Champion? OBS or ShadowGL?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808343429-accelerate-windows-10-or-11-boot-times-with-these-simple-fixes-read-now/"><u>Accelerate Windows 10 or 11 Boot Times with These Simple Fixes – Read Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808085555-fast-track-anonymity-master-the-art-of-hiding-your-internet-identity-today/"><u>Fast Track Anonymity: Master the Art of Hiding Your Internet Identity Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808116177-how-to-update-video-drivers-in-windows-10-easily/"><u>How to Update Video Drivers in Windows 10. Easily!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-instant-video-link-up-using-whatsapp-desktop-for-pc-calls/"><u>In 2024, Instant Video Link-Up Using WhatsApp Desktop for PC Calls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-find-feature-in-windows-11-taskbar-activation-guide/"><u>Instant Find Feature in Windows 11 Taskbar – Activation Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revitalize-typing-speed-address-and-correct-keyboard-stutter-in-windows-10-systems/"><u>Revitalize Typing Speed: Address and Correct Keyboard Stutter in Windows 10 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows-10-high-cpu-usage-troubleshooting-the-module-installer/"><u>Windows 10 High CPU Usage: Troubleshooting the Module Installer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows-11-creators-updates-kb4103429-and-kb4013418/"><u>Windows 11 Creators Updates: KB4103429 and KB4013418</u></a></li>
 </ul></div>
 

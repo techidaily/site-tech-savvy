@@ -1,7 +1,7 @@
 ---
 title: "Cutting-Edge Counseling From AI: Unveiling 5 New Bots"
-date: 2024-09-06T23:30:23.294Z
-updated: 2024-09-07T23:30:23.294Z
+date: 2025-01-12T00:43:00.649Z
+updated: 2025-01-12T18:37:42.789Z
 tags:
   - chatgpt
   - open-ai
@@ -24,27 +24,17 @@ thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0
 **Important:** These apps are not replacements for mental health professionals, and if you are in distress, it's best to seek help. These apps offer temporary or base-level methods to tackle negative thoughts and get you through a bad mood.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Thought Coach
 
 ![Thought Coach uses ChatGPT AI to identify cognitive distortions in your statements and emotions, to overcome your irrationality](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/best-online-ai-chatgpt-chat-bot-therapists-mental-health-thought-coach.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Cognitive distortions are among the most common psychological issues that many of us have to tackle regularly. These are irrational, exaggerated, or unhelpful thought patterns that cloud our view of situations. But AI is surprisingly good at identifying these cognitive distortions, as we have seen while exploring [how to overcome stress with ChatGPT](https://www.makeuseof.com/overcome-stress-with-chatgpt/).
 
  Thought Coach uses this ability to help you reframe and rephrase your thoughts. The algorithm is trained on common cognitive distortions, such as overgeneralization, all-or-nothing thinking, emotional reasoning, jumping to conclusions, mind reading, etc. When you're ready to start, type in all the details about the event that led to your negative emotions and thoughts. Then, in the next box, add all the negative thoughts you're experiencing about it.
@@ -52,11 +42,9 @@ thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0
  After processing the data, Thought Coach will show you an analysis of the cognitive distortions it has observed in your statements. It highlights sentences in your initial input and gives examples of what was reality and what you took away from it. It's simple and effective when you want to search the internet for advice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. SommerAI
 
 ![SommerAI is trained on CBT and SFBT models of psychological treatment to provide mental health through a chat bot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/best-online-ai-chatgpt-chat-bot-therapists-mental-health-sommer-ai.jpg)
@@ -71,12 +59,6 @@ thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0
 
 ![Mindsum AI is a chat therapist tool to find out more information about mental health theories and practices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/best-online-ai-chatgpt-chat-bot-therapists-mental-health-mindsum.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Mindsum is a UK-based non-profit organization aimed at distributing mental health information and tools through technology. It has recently created an AI chatbot called Mindsum Bot, which can give anyone the correct information about any mental health questions and guide them in seeking professional help.
 
  Mindsum says the bot was built on GPT technology and layered with their own AI models. It is trained on three evidence-based clinically-tested therapeutic practices: CBT, IPT, and DBT. Interpersonal Therapy (IPT) is a short-term depression treatment focusing on social interactions. Dialectical Behavior Therapy (DBT) is a modified type of CBT that teaches how to regulate emotions, develop coping mechanisms, and be more mindful.
@@ -84,11 +66,9 @@ thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0
  This training and backing of an established mental health organization makes Mindsum Bot much more reliable than other therapy chatbots. It's not restricted to UK users, as anyone worldwide can use it. The makers recommend using it as a place to vent your thoughts when you don't have someone to listen to them, and Mindsum Bot will even help you identify the right time to seek professional advice if needed.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. JungGPT
 
 ![JungGPT is an empathetic therapist chatbot that feels like you're talking to a friend](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/best-online-ai-chatgpt-chat-bot-therapists-mental-health-junggpt.jpg)
@@ -98,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0
  JungGPT has been trained on several texts and a language model that facilitates emotional understanding. The makers at Ventura UX are quick to point this out. "While JungGPT does have a 'form' of empathy, it does not feel empathy itself, but understands it based on its training to do so and through analyzing text in different context."
 
  When we signed up and tested JungGPT, it was as simple as using any ChatGPT-like AI chatbot. The site notes that the free plan has limited messaging, but we didn't hit those restrictions in our usage. The premium plan costs $7 per month for unlimited messaging.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Lotus
 
@@ -109,12 +93,6 @@ thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0
 
  This way, you can revisit Lotus and quickly go through the main parts of the previous conversation. It also serves as a quick reminder of your goals, and Lotus will use those in any follow-up conversations you have.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI Helps But Isn't a Replacement for Therapy
 
  While we stated this at the start of this article, it's worth reiterating that these AI chatbots cannot substitute for a qualified professional mental health counselor. All the above apps explicitly state that and encourage you to seek help if you're dealing with severe mental health problems. These ChatGPT apps are better suited for instant, short-term, or minor issues and resolutions.
@@ -129,8 +107,6 @@ thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +114,24 @@ thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-cloud-solutions-highest-rated-reviewed/"><u>[New] Pinnacle Cloud Solutions Highest-Rated Reviewed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-overcoming-obs-blank-screens-in-gaming-recording/"><u>[Updated] Overcoming OBS Blank Screens in Gaming Recording</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-simplify-broadcasting-merge-obs-and-streamlabs-mac/"><u>[Updated] Simplify Broadcasting Merge OBS and Streamlabs (Mac)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-intelligent-volume-modulation-strategies/"><u>2024 Approved Intelligent Volume Modulation Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-evolved-2023-samsung-bd-j5900-a-deep-dive/"><u>2024 Approved The Evolved 2023 Samsung BD-J5900 A Deep Dive</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-insiders-guide-to-watermark-free-images/"><u>2024 Approved The Insider's Guide to Watermark-Free Images</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/access-immediately-explore-8-specially-designed-ais/"><u>Access Immediately: Explore 8 Specially Designed AIs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-unveiled-the-power-of-10-customizations-for-better-dialogue/"><u>ChatGPT Unveiled: The Power of 10 Customizations for Better Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ai-advantage-with-bing-get-started-guide/"><u>Discover the AI Advantage with Bing: Get Started Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/dive-into-tiktoks-freshest-and-quirkiest-trends-for-2024/"><u>Dive Into TikTok’s Freshest and Quirkiest Trends for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-realme-narzo-60-pro-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Realme Narzo 60 Pro 5G Without PUK Codes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-response-engine-chatgpts-voice-emerges/"><u>Intelligent Response Engine: ChatGPT's Voice Emerges</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-desktop-cpu-choices-for-high-performance-workstation-setups-2eplusto3d4/"><u>Leading Desktop CPU Choices for High-Performance Workstation Setups, 2E+to3d4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-spaces-for-ai-inspired-artistry/"><u>Leading Spaces for AI-Inspired Artistry</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strengthening-student-outcomes-with-ai-5-essential-uses-of-chatgpt-in-school/"><u>Strengthening Student Outcomes with AI: 5 Essential Uses of ChatGPT in School</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-role-of-cutting-edge-ai-technology-from-apple-in-shaping-the-future-of-the-iphone-16-insights/"><u>The Role of Cutting-Edge AI Technology From Apple in Shaping the Future of the iPhone 16 - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-using-two-monitors-with-your-new-m3-macbook-pro-tips-and-tricks-on-zdnet/"><u>The Ultimate Guide to Using Two Monitors with Your New M3 MacBook Pro | Tips and Tricks on ZDNET</u></a></li>
+</ul></div>
 

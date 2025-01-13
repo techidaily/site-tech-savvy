@@ -1,7 +1,7 @@
 ---
 title: "Challenges for AI Advocates: The 8 Major Issues of ChatGPT"
-date: 2025-01-03T23:48:10.876Z
-updated: 2025-01-05T18:39:15.134Z
+date: 2025-01-11T16:33:12.240Z
+updated: 2025-01-13T00:57:56.987Z
 tags:
   - chatgpt
   - open-ai
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
  You might not think that you would share your personal details so easily, but we're all susceptible to a slip of the tongue, and a good example of this is how a [Samsung employee shared company information with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Concerns Over ChatGPT Training and Privacy Issues
@@ -79,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 ## 3\. ChatGPT Generates Wrong Answers
 
 ![A sheep in front of a blackboard with a wrong math equation displayed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wrong-math-answer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It fails at basic math, can't seem to answer simple logic questions, and will even go as far as to argue completely incorrect facts. As people across social media will attest, ChatGPT can get it wrong multiple times.
 
@@ -112,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 
  By contrast, a similar AI chatbot called Sparrow—owned by Google's parent company, Alphabet—was released in September 2022\. However, it was purposely kept behind closed doors because of similar safety concerns. Around the same time, Facebook released an AI language model called Galactica, intended to help with academic research. However, it was rapidly recalled after many people criticized it for outputting wrong and biased results related to scientific research.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. ChatGPT Might Take Jobs From Humans
 
 ![litlte girl holding hands with robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/litlte-girl-holding-hands-with-robot.jpg)
@@ -127,7 +127,7 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
  Technological advancements have always resulted in jobs being lost, but the speed of AI advancements means multiple industries are facing rapid change. A huge cross-section of human jobs are seeing AI filtering into the workplace. Some jobs may find menial tasks being completed with the help of AI tools, while other positions may cease to exist in the future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. ChatGPT Is Challenging Education
@@ -138,15 +138,15 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 
 ![ChatGPT explains the themes in the novel Neuromancer by William Gobson](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-ai-chat-gpt-books-themes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That begs the question: if ChatGPT can write for us, will students need to learn this skill in the future? It might seem like an existential question, but since students have started using ChatGPT to help write their essays, educators will soon have to face reality.
 
  Unsurprisingly, students are already experimenting with AI. [The Stanford Daily](https://stanforddaily.com/2023/01/22/scores-of-stanford-students-used-chatgpt-on-final-exams-survey-suggests/) reports that early surveys show a significant number of students have used AI to assist with assignments and exams.
 
  In the short term, schools and universities are updating their policies and ruling whether students can or cannot use AI to help them with an assignment. It's not only English-based subjects that are at risk either; ChatGPT can help with any task involving brainstorming, summarizing, or drawing analytical conclusions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. ChatGPT Can Cause Real-World Harm
 
@@ -164,6 +164,10 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 
  The spread of fake information is a serious concern, too. The scale at which ChatGPT can produce text, coupled with the ability to make even incorrect information sound convincingly right, makes everything on the internet questionable. It's a critical combination that amplifies [the dangers of deepfake technology](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. OpenAI Holds All the Power
 
  With great power comes great responsibility, and OpenAI holds a fair share of it. It's one of the first AI companies to truly shake up the world with not one but multiple generative AI models, including Dall-E 2, GPT-3, and GPT-4\.
@@ -175,16 +179,12 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 ![ChatGPT explains whether AI code should be made open source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-ai-chat-gpt-open-source.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While OpenAI considers safety a high priority, there is a lot that we don't know about how the models themselves work, for better or worse. At the end of the day, the only choice we have is to unquestioningly trust that OpenAI will research, develop, and use ChatGPT responsibly.
 
  Whether we agree with its methods or not, it's worth remembering that OpenAI is a private company that will continue developing ChatGPT according to its own goals and ethical standards.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tackling AI's Biggest Problems
 
@@ -217,19 +217,24 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-laughterlink-join-now-and-start-your-journey/"><u>[New] LaughterLink Join Now & Start Your Journey</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premier-sites-for-digital-type-innovation/"><u>[New] Premier Sites for Digital Type Innovation</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-dissecting-the-quietude-fb-lacks-video-recommendations/"><u>[Updated] 2024 Approved Dissecting the Quietude FB Lacks Video Recommendations</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-realme-11x-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme 11X 5G FRP</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/achieve-more-chromes-top-8-productivity-enhancers-powered-by-ai/"><u>Achieve More: Chrome's Top 8 Productivity Enhancers Powered by AI</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-virtual-reality-lgs-360-degree-experience-for-2024/"><u>Exploring Virtual Reality LG's 360-Degree Experience for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/funny-robots-unveiling-pc-history-and-virtual-network-protection/"><u>Funny Robots: Unveiling PC History and Virtual Network Protection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-iphones-journal-app-makes-your-device-findable-and-why-you-should-disable-it-zdnet/"><u>How iPhone's Journal App Makes Your Device Findable and Why You Should Disable It | ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-sony-xperia-10-v-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Sony Xperia 10 V Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/perfect-playmates-childs-drone-selection-guide-for-2024/"><u>Perfect Playmates Child's Drone Selection Guide for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-black-screen-issue-in-lol-top-2024-guides-and-solutions/"><u>Resolving the Black Screen Issue in LoL: Top 2024 Guides & Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-the-importance-of-using-a-vpn-with-vision-pro-and-similar-xr-devices-a-detailed-guide-tech-insights/"><u>Understanding the Importance of Using a VPN with Vision Pro and Similar XR Devices: A Detailed Guide | Tech Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-mobile-communication-with-bing-ai-chat-for-android-users/"><u>Unlocking Mobile Communication with Bing AI Chat for Android Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zdnets-guide-to-staying-in-touch-managing-contacts-and-messages-on-your-apple-watch/"><u>ZDNet's Guide to Staying in Touch: Managing Contacts and Messages on Your Apple Watch</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-av1-versus-vp9-the-ultimate-codec-showdown/"><u>[New] 2024 Approved AV1 Versus VP9 The Ultimate Codec Showdown</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-capture-every-moment-on-mac-free-in-2024/"><u>[New] Capture Every Moment on Mac, FREE, In 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-practices-selecting-among-top-9-free-logo-designers/"><u>[New] In 2024, Best Practices Selecting Among Top 9 Free Logo Designers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-prime-strategies-for-constructing-mcc-homes/"><u>[New] Prime Strategies for Constructing MCC Homes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-free-yourself-from-video-edges-on-youtube/"><u>[Updated] In 2024, Free Yourself From Video Edges on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-the-next-level-for-bing/"><u>Artificial Intelligence: The Next Level for Bing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-special-role-in-enterprise-settings/"><u>ChatGPT's Special Role in Enterprise Settings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/directive-design-mastery-top-7-online-learning-resources/"><u>Directive Design Mastery: Top 7 Online Learning Resources</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-your-podcast-potential-advanced-techniques-for-idevice-audio-recording/"><u>In 2024, Unlock Your Podcast Potential Advanced Techniques for iDevice Audio Recording</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/infographic-roundup-yts-shocking-reality-of-17-for-2024/"><u>Infographic Roundup YT's Shocking Reality of '17 for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-points-deciding-on-chatgpts-effectiveness-in-mental-health/"><u>Key Points: Deciding on ChatGPT's Effectiveness in Mental Health</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-y470-usb-win7-compatibility/"><u>Lenovo Y470 USB-Win7 Compatibility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/llama-2-simplified-making-complex-tasks-manageable/"><u>Llama 2 Simplified: Making Complex Tasks Manageable</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimized-ai-dialogues-chatgpt-for-mac-enthusiasts/"><u>Optimized AI Dialogues: ChatGPT for Mac Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shaping-future-intelligence-the-birth-of-gpt-4/"><u>Shaping Future Intelligence: The Birth of GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-for-effective-chatgpt-utilization-in-freelance-writing/"><u>Strategies for Effective ChatGPT Utilization in Freelance Writing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-potential-of-siri-solutions-for-when-suggestions-fail-to-appear/"><u>Unlock the Potential of Siri: Solutions for When Suggestions Fail to Appear</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/vollstandige-anleitung-fur-die-sicherung-und-das-zurucksetzen-deines-iphone-5-auflage-einfuhrung-in-die-klimaforschung-die-zukunft-des-eises-implikationen-d269/"><u>Vollständige Anleitung Für Die Sicherung Und Das Zurücksetzen Deines iPhone 5. Auflage - Einführung in Die Klimaforschung'', ''Die Zukunft Des Eises – Implikationen Der Globalen Erwärmung'' Und ''Biodiversität Im Wandel: Anpassungen an Den Klimawandel''.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-claude-3-surpasses-chatgpt-an-exploration-into-four-aspects/"><u>Why Claude 3 Surpasses ChatGPT: An Exploration Into Four Aspects</u></a></li>
 </ul></div>
 

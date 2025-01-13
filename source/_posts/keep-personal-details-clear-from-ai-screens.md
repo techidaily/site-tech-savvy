@@ -1,7 +1,7 @@
 ---
 title: Keep Personal Details Clear From AI Screens
-date: 2024-12-31T06:13:15.365Z
-updated: 2025-01-06T01:20:26.026Z
+date: 2025-01-06T16:12:58.272Z
+updated: 2025-01-12T16:31:00.024Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Leaked Confidential Information Via ChatGPT
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
  There's another layer of risk here, too. If employees use ChatGPT to look for bugs like they did with the Samsung leak, the code they type into the chat box will also be stored on OpenAI's servers. This could lead to breaches that have a massive impact on companies troubleshooting unreleased products and programs. We may even end up seeing information like unreleased business plans, future releases, and prototypes leaked, resulting in huge revenue losses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do ChatGPT Data Leaks Happen?
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 ![ChatGPT logo on dark green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ChatGPT’s privacy policy](https://openai.com/policies/privacy-policy) makes it clear that it records your conversations and shares the logs with other companies and its AI trainers. When someone (for example, a Samsung employee) types confidential information into the dialog box, it’s recorded and saved on ChatGPT’s servers.
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
  For example, if they paste a large contact list into the chat and ask the AI to isolate customers’ phone numbers from the data, ChatGPT then has those names and phone numbers in its records. Your private information is at the mercy of companies you did not share it with, which may not protect it well enough to keep you safe. There are a few things you can do to [keep yourself safe after a data breach](https://www.makeuseof.com/what-to-do-after-data-breach-how-to-protect-yourself/), but businesses should be responsible for preventing leaks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Moral of the Story: Don't Tell ChatGPT Your Secrets
@@ -89,21 +89,15 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-the-essential-role-of-voice-in-visual-content-for-2024/"><u>[New] The Essential Role of Voice in Visual Content for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-command-skills-essential-online-training/"><u>AI Command Skills: Essential Online Training</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/complete-guide-to-recording-live-tv-on-your-windows-pc-for-2024/"><u>Complete Guide to Recording Live TV on Your Windows PC for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demarcating-natural-speech-and-text-algorithms/"><u>Demarcating Natural Speech and Text Algorithms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discrediting-myths-win-chatgpt-fake-and-dangerous/"><u>Discrediting Myths: 'Win ChatGPT' - Fake and Dangerous?</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-recurring-freezing-glitches-of-deathloop-on-computer-and-ps5-platforms/"><u>Fixing the Recurring Freezing Glitches of Deathloop on Computer & PS5 Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/halt-contrasting-siri-and-chatgpt-divergent-functions/"><u>Halt Contrasting Siri and ChatGPT: Divergent Functions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-employers-might-react-to-chatgpt-use-and-potential-consequences/"><u>How Employers Might React to ChatGPT Use and Potential Consequences</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-actors-insight-crafting-engaging-online-reactions-on-youtube-3-pro-tips/"><u>In 2024, Actor's Insight Crafting Engaging Online Reactions on YouTube (3 Pro Tips)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-high-quality-sound-capture-top-10-for-spotify-lovers/"><u>In 2024, High-Quality Sound Capture Top 10 for Spotify Lovers</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/mastering-zoom-enhancing-your-skype-experience/"><u>Mastering Zoom Enhancing Your Skype Experience</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210285697-9781098073923-the-ghost-and-mrs-b/"><u>The Ghost and Mrs. B | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/triumph-of-thought-three-bots-with-singular-inspiration/"><u>Triumph of Thought: Three Bots with Singular Inspiration</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-solve-windows-11-bluetooth-not-detected-issue-effectively/"><u>Troubleshoot and Solve Windows 11 Bluetooth Not Detected Issue Effectively</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-spots-for-ai-fueled-innovation/"><u>Ultimate Spots for AI-Fueled Innovation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-comprehensive-guide-to-top-ae-extensions/"><u>[Updated] Comprehensive Guide to Top AE Extensions</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-turings-evaluation-chances-of-victory/"><u>Demystifying Turing's Evaluation: Chances of Victory?</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-windows-restore-failures-error-code-0x80042306-guide/"><u>Eradicating Windows Restore Failures: Error Code 0X80042306 Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-latest-innovations-in-apples-airpods-4-series-a-comparison-of-each-model/"><u>Exploring the Latest Innovations in Apple's AirPods 4 Series - A Comparison of Each Model</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-and-repair-a-missing-mscorwksdll-error/"><u>How to Correctly Address and Repair a Missing Mscorwks.dll Error</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-13-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 13</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-exciting-innovations-in-the-new-iphone-16-pro-a-tech-lovers-dream-come-true-zdnet/"><u>Top 5 Exciting Innovations in the New iPhone 16 Pro: A Tech Lover's Dream Come True! - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-airtag-wallet-picks-reviewed-by-experts-find-your-perfect-match/"><u>Top-Rated AirTag Wallet Picks Reviewed by Experts - Find Your Perfect Match!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforming-reality-with-ai-unleashing-a-new-era/"><u>Transforming Reality with AI: Unleashing a New Era</u></a></li>
 </ul></div>
 

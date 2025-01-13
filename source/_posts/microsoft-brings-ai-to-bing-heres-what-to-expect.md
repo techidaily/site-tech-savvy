@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Brings AI to Bing: Here's What to Expect"
-date: 2024-12-31T04:11:55.669Z
-updated: 2025-01-06T05:47:34.687Z
+date: 2025-01-05T23:34:40.787Z
+updated: 2025-01-12T16:02:51.883Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s OpenAI Got to Do With the New AI-Powered Bing?
@@ -38,16 +38,12 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
 ![openai logo on code background feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/openai-logo-on-code-background-feature.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Microsoft recently invested nearly 10 billion dollars into OpenAI, and Bing’s new AI prowess is just the start of this long-term strategic partnership.
 
  According to [Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) , Bing will be powered by the latest next-gen natural language AI model specifically trained for web searching. The AI model behind Microsoft Bing relies on improvements made on ChatGPT and GPT-3.5, making it much faster and more reliable.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's New in Bing?
@@ -55,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
  Remember when searching was underwhelming and lousy using Bing? Thanks to the new AI web search companion, those days are far behind. Bing will now use AI at its core to deliver enhanced search results that are precisely relevant, allow you to generate content, and, best of all, integrate a brand new chat experience specialized to answering complex queries.
 
 ![AI powered chat feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chat-new.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ` Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
@@ -64,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's New in Microsoft Edge?
 
  Over the past few years, Microsoft has significantly improved Edge with incredible features that have allowed it to compete directly against Google Chrome. With the latest capabilities of Bing + AI, Microsoft has made Edge even more potent with new AI features and an updated look.
@@ -72,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
 ![compose text with Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-ai-compose-new.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ` Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
  Building on the content-generation capabilities of ChatGPT,**Compose** within Microsoft Edge will let you generate content that customizes to the required tone, format, and length. You can compose emails to your coworkers, write about your new job in a post on LinkedIn, and even convert financial information into tables; the possibilities are limitless.
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
  You can use the**Chat** feature to answer complex queries, get detailed financial information on a company, figure out the best way to grill a steak, decide the best framework for your web application, and more.**Chat** relies on your prompts to comprehensively provide you with the best possible answers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Bing Reinvents Web Searching
@@ -105,22 +105,22 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-mini-2-and-air-2s-luts-free-trial-then-paid-upgrade/"><u>[Updated] 2024 Approved Mini 2 & Air 2S LUTS - Free Trial, Then Paid Upgrade</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-creative-cache-premium-free-after-effects-tools/"><u>[Updated] Creative Cache Premium, Free After Effects Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-snipperpro-suite/"><u>[Updated] SnipperPro Suite</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bing-transformed-with-microsofts-artificial-intelligence/"><u>Bing Transformed with Microsoft’s Artificial Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/constructing-a-daily-sanctuary-through-ai-guided-reflection/"><u>Constructing a Daily Sanctuary Through AI-Guided Reflection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/delving-into-ai-prompt-design-professional-trajectory-analysis/"><u>Delving Into AI Prompt Design: Professional Trajectory Analysis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-solution-for-an-unresponsive-usb-connection-in-your-hp-notebook/"><u>DIY Solution for an Unresponsive USB Connection in Your HP Notebook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficiency-leap-ai-in-dev-workflow/"><u>Efficiency Leap: AI in Dev Workflow</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empowering-therapists-with-ai-driven-cbt-techniques/"><u>Empowering Therapists with AI-Driven CBT Techniques</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to Android? | Dr.fone</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/is-your-gpus-drivers-current-a-comprehensive-guide-by-yl-computing/"><u>Is Your GPU's Drivers Current? A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/protect-yourself-while-downloading-on-pirate-bay-a-step-by-step-tutorial/"><u>Protect Yourself While Downloading on Pirate Bay: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://facebook.techidaily.com/reignite-real-connections-without-politics/"><u>Reignite Real Connections Without Politics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-perils-of-using-ai-for-obtaining-windows-11-keys/"><u>The Perils of Using AI for Obtaining Windows 11 Keys</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/theoretical-inquiry-into-comparative-models-of-accessibility-in-digital-knowledge-bases-the-case-of-the-internet/"><u>Theoretical Inquiry Into Comparative Models of Accessibility in Digital Knowledge Bases: The Case of the Internet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-the-future-the-leading-5-hardware-advancements-in-ai-sector/"><u>Transforming the Future: The Leading 5 Hardware Advancements in AI Sector</u></a></li>
-<li><a href="https://driver-install.techidaily.com/updating-hardware-drivers-on-windows-xp-manually/"><u>Updating Hardware Drivers On Windows XP Manually</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-fb-video-frame-ratio-classifications/"><u>[New] 2024 Approved FB Video Frame Ratio Classifications</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-quick-path-to-virtual-self-building-metaverse-profiles-for-2024/"><u>[Updated] Quick Path to Virtual Self Building Metaverse Profiles for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/8-free-video-conferencing-software-for-windows-and-mac-for-2024/"><u>8 Free Video Conferencing Software for Windows and Mac for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-camon-20-pro-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Camon 20 Pro 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ai-advantage-with-bing-get-started-guide/"><u>Discover the AI Advantage with Bing: Get Started Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-best-8-ai-enhanced-chrome-plug-ins/"><u>Discover the Best 8 AI-Enhanced Chrome Plug-Ins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-beyond-openais-bounds-with-gpt/"><u>Exploring Beyond OpenAI's Bounds with GPT</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-did-the-mighty-great-wall-influence-key-events-and-transitions-throughout-chinese-history-an-analysis-by-yl-software-solutions/"><u>How Did the Mighty Great Wall Influence Key Events and Transitions Throughout Chinese History? – An Analysis by YL Software Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-response-engine-chatgpts-voice-emerges/"><u>Intelligent Response Engine: ChatGPT's Voice Emerges</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keep-personal-details-clear-from-ai-screens/"><u>Keep Personal Details Clear From AI Screens</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/mobile-media-upload-share-videos-on-twitter-without-retweeting/"><u>Mobile Media Upload Share Videos on Twitter Without Retweeting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-future-without-iphone-13-and-15-pro-top-alternatives-to-consider/"><u>Navigating the Future without iPhone 13 and 15 Pro - Top Alternatives to Consider</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-practices-for-detaching-soundtracks-in-film-clips/"><u>New In 2024, Practices for Detaching Soundtracks in Film Clips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/next-level-splitting-tools-beyond-xsplit-for-2024/"><u>Next-Level Splitting Tools Beyond Xsplit for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safeguarding-against-unsaved-ai-dialogues/"><u>Safeguarding Against Unsaved AI Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strengthening-student-outcomes-with-ai-5-essential-uses-of-chatgpt-in-school/"><u>Strengthening Student Outcomes with AI: 5 Essential Uses of ChatGPT in School</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-final-cut-professionals-guide-to-top-10-plug-ins/"><u>The Final Cut Professional's Guide to Top 10 Plug-Ins</u></a></li>
 </ul></div>
 

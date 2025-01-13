@@ -1,7 +1,7 @@
 ---
 title: "Transforming Replies with AI: Merging GPT-3 and WhatsApp Help"
-date: 2024-09-06T23:30:17.438Z
-updated: 2024-09-07T23:30:17.438Z
+date: 2025-01-08T17:26:21.312Z
+updated: 2025-01-12T18:19:42.669Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Transforming Replies with AI: Merging GPT-3 and
 thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b967ba6821cf8991af471fa5a.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Transforming Replies with AI: Merging GPT-3 and WhatsApp Help
 
  Today’s businesses embrace messaging apps like WhatsApp to communicate with customers. This results in a surge in the automation of business customer interactions using chatbots.
@@ -30,11 +24,9 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
  Such a chatbot is ChatGPT, a large language model by OpenAI that you can integrate with WhatsApp to automate customer interactions by providing fast and accurate responses to customer queries.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Understanding and Accessing the ChatGPT API
 
  Before integrating with WhatsApp, it is essential to get a [basic understanding of ChatGPT and ChatGPT API](https://www.makeuseof.com/chatgpt-api-complete-guide/). ChatGPT is a [generative large language model](https://www.makeuseof.com/what-is-generative-ai/) that receives text-based queries and returns human-like responses. OpenAI provides a simple API interface for developers to access and use ChatGPT’s GPT-3.5 and GPT-4 models.
@@ -43,48 +35,22 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
 ![OpenAI API homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-homepage.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, click the **Create new secret key** button to create a new API key.
 
 ![OpenAI API keys creation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-key.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Enter the requested details, i.e., the **name** of the key.
 
 ![OpenAI API key naming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-key-name.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A secret key will prompt.
 
 ![OpenAI API key generated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-key-prompt.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Copy and store the key in a secure place for future use.
 
 ## Setting Up a WhatsApp Business Account
@@ -94,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
  The full source code is available in a [GitHub repository](https://github.com/makeuseofcode/WhatsApp-ChatGPT-integration).
 
  You can use a third-party service like Kommunicate, a WhatsApp chatbot, or a Python script to integrate ChatGPT with WhatsApp. This tutorial’s focus will be on integrating ChatGPT using a Python script. It will then give you an overview of integration using a WhatsApp chatbot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Using Python Script to Integrate WhatsApp With ChatGPT API
 
@@ -177,6 +147,10 @@ python manage.py runserver`
 
 ![API endpoint test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-endpoint.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, install [Go](https://go.dev/doc/install) if it is not already installed on your machine.
 
  Clone the **Whatsmeow** client using the command below:
@@ -212,6 +186,10 @@ python manage.py runserver`
 
 ![Output of integrating chatgpt and WhatsApp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-output.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Using WhatsApp Chatbot to Integrate WhatsApp With ChatGPT API
 
  Another way to integrate ChatGPT into WhatsApp messages is by using a WhatsApp chatbot.
@@ -226,16 +204,14 @@ python manage.py runserver`
 
  Though this method is easier if you already have a chatbot, you should only opt for it once you’re comfortable with the risks involved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Configuring Automated Responses
 
  To get better customer service, configure automated responses to provide fast and accurate responses to customer messages. These responses will personalize the customer by name and provide relevant responses to customer queries.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Testing Your WhatsApp Chatbot
 
  Like all AI API systems, testing is key before you deploy your WhatsApp chatbot. This is to ensure that it works as expected. API testing tools like Postman and Curl can help to test your chatbot’s responses.
@@ -246,18 +222,6 @@ python manage.py runserver`
 
  Once your WhatsApp chatbot is in deployment, it is crucial to measure its success and usage over time. This will help with fine-tuning it accordingly. Analytics tools like OpenDialog and Rasa can help to track metrics such as response time, retention rate, and customer satisfaction.
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Streamline Customer Support on WhatsApp With ChatGPT Integration
 
  OpenAI’s GPT-3.5 or GPT-4 models can handle large volumes of inquiries, provide instant responses, and use advanced language processing, making it a better solution for customer service interactions. By integrating ChatGPT with WhatsApp, you can save time, improve customer satisfaction, and streamline communication. Several other large language models could also improve your chatbot’s performance.
@@ -272,8 +236,6 @@ python manage.py runserver`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -281,4 +243,26 @@ python manage.py runserver`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-exclusive-insiders-list-of-20-storage-services-unlimited-upload/"><u>[New] 2024 Approved Exclusive Insider's List of 20 Storage Services, Unlimited Upload</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-crafting-connections-the-art-and-science-of-personalized-facebook-profiles/"><u>[New] In 2024, Crafting Connections The Art and Science of Personalized Facebook Profiles</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-winning-approach-to-saving-twitters-humor-for-2024/"><u>[New] Winning Approach to Saving Twitter's Humor for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-charting-the-course-from-scale-to-submillions-in-youtube/"><u>[Updated] Charting the Course From Scale to Submillions in Youtube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-import-in-windows-10-photo-space/"><u>[Updated] Mastering the Art of Import in Windows 10 Photo Space</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-revolutionary-ai-powered-m3-macbook-air-review-how-its-changing-computing-for-all-featured-in-zdnet/"><u>Apple's Revolutionary AI-Powered M3 MacBook Air Review | How It's Changing Computing for All, Featured in ZDNet.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-google-pixel-watch-and-apple-watch-series-9-is-it-worth-upgrading-expert-insights-from-zdnet/"><u>Comparing Google Pixel Watch and Apple Watch Series 9 – Is It Worth Upgrading? Expert Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-to-leading-ai-notetakers/"><u>Comprehensive Guide to Leading AI Notetakers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialogue-engine-differences-10-highlights-of-ai-discrepanrances/"><u>Dialogue Engine Differences: 10 Highlights of AI Discrepanrances</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/digital-diaspora-mixing-music-and-memory-images/"><u>Digital Diaspora Mixing Music and Memory Images</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-iphone-experience-must-have-anker-charger-additions-coming-soon-zdnet/"><u>Elevate Your iPhone Experience: Must-Have Anker Charger Additions Coming Soon - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eu-levies-2b-penalty-on-apple-for-monopolistic-practices-in-app-store-business-insight-from-zdnet/"><u>EU Levies $2B Penalty on Apple for Monopolistic Practices in App Store Business - Insight From ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/meta-vs-apple-in-the-vr-arena-exploring-metas-secret-tech-advantage-with-zdnets-in-depth-analysis/"><u>Meta Vs. Apple in the VR Arena: Exploring Meta's Secret Tech Advantage with ZDNet's In-Depth Analysis</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/monoprices-economical-masterpiece-a-detailed-review-of-its-pro-artist-features-without-breaking-the-bank/"><u>Monoprice's Economical Masterpiece: A Detailed Review of Its Pro Artist Features Without Breaking the Bank</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/redefining-cinematic-exploration-via-vr-for-2024/"><u>Redefining Cinematic Exploration via VR for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-3-key-oversights-with-ml-algorithms/"><u>Top 3 Key Oversights with ML Algorithms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-budget-friendly-tablets-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Budget-Friendly Tablets : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncover-the-truth-how-to-determine-if-someones-using-an-airtag-to-locate-you/"><u>Uncover the Truth: How to Determine If Someone's Using an AirTag to Locate You</u></a></li>
+</ul></div>
 

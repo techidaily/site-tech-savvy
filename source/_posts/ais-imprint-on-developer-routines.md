@@ -1,7 +1,7 @@
 ---
 title: AI's Imprint on Developer Routines
-date: 2025-01-04T21:35:33.701Z
-updated: 2025-01-06T02:39:04.264Z
+date: 2025-01-08T18:16:53.326Z
+updated: 2025-01-12T21:57:11.176Z
 tags:
   - chatgpt
   - open-ai
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
  For cloud developers, AI can help optimize infrastructure management by automating processes such as resource allocation, load balancing, monitoring, and performance tuning.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Experience
@@ -54,16 +54,12 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
  On the other hand, 42.2% of developers with more than 21+ years of experience are less favorable to AI. This may be because they want to see whether the hype surrounding AI will die down before committing to a certain tool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Countries
 
  Professional developers from India (83%), Brazil (78%), and Poland (70%) are among the developers using or planning to use AI tools in the future. This is probably because of the high growth of young developers from these countries. Developers from the United Kingdom, France, and Germany are less likely to use AI tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are the Tasks Developers Are Using AI For?
@@ -77,12 +73,16 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
  It’s worth noting that only a few developers are interested in using AI to collaborate with teammates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Benefits of AI for Developers
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  AI is beneficial to professional developers as well as those learning to code. Overall 33% see an increase in productivity as the most important benefit of using AI. Tools such as GitHub Copilot offer features like code suggestions, auto-completion, and error detection, which can significantly speed up the coding process.
 
@@ -94,13 +94,13 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
  The survey further categorized these benefits across different developer types. Increased productivity was a constant among all developer types.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Popular AI Tools That Developers Are Using in 2023
 
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Stack Overflow surveyed the popularity of various AI tools grouped between AI search tools and AI developer tools. From the data, developers are primarily using two tools, ChatGPT and GitHub Copilot.
 
@@ -139,20 +139,22 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-navigating-through-premium-hdr-camera-options-for-2024/"><u>[New] Navigating Through Premium HDR Camera Options for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-essential-8-android-group-calls-over-4-users/"><u>[Updated] 2024 Approved Essential 8 Android Group Calls Over 4 Users</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-eye-catching-video-ad-campaigns-top-creators-exposed/"><u>[Updated] 2024 Approved Eye-Catching Video Ad Campaigns Top Creators Exposed</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-mastering-audacity-pro-audio-capture-guide/"><u>[Updated] 2024 Approved Mastering Audacity Pro Audio Capture Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engage-like-never-before-discover-the-revolutionary-changes-to-chatgpt/"><u>Engage Like Never Before: Discover the Revolutionary Changes to ChatGPT</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95841434-9781683253839-feng-shui-y-el-poder-de-la-piramide/"><u>Feng Shui y El Poder de La Piramide | Free Book</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-securely-download-the-latest-drivers-for-your-epson-scanning-equipment/"><u>How to Securely Download the Latest Drivers for Your Epson Scanning Equipment</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-xiaomi-redmi-a2plus-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Xiaomi Redmi A2+ Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mimicry-ai-extension-hijacks-social-network-credentials/"><u>Mimicry AI Extension: Hijacks Social Network Credentials</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-video-snapshots-made-easy-top-10-converters-for-converting-videos-to-images/"><u>New In 2024, Video Snapshots Made Easy Top 10 Converters for Converting Videos to Images</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sculpting-images-creative-distortion-with-adobe-ph/"><u>Sculpting Images Creative Distortion with Adobe PH</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-into-intelligent-search-with-bing-quick-registration/"><u>Step Into Intelligent Search with Bing: Quick Registration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tech-titans-meet-ms-bzs-merger-explored-with-ais-role-in-creativity-podcast/"><u>Tech Titans Meet: MS, BZ's Merger Explored with AI's Role in Creativity [Podcast]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-difficult-discussions-into-clear-professional-emails/"><u>Transforming Difficult Discussions Into Clear, Professional Emails</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/visionary-leader-what-is-your-ai-quest/"><u>Visionary Leader, What Is Your AI Quest?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-update-short-form-video-coverage/"><u>[New] In 2024, Update Short-Form Video Coverage</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-record-screen-on-huawei-mate-10p10-using-a-built-in-recorder/"><u>[Updated] How to Record Screen On Huawei Mate 10/P10 Using a Built-In Recorder</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-launchpad-for-newcomers-creating-a-successful-product-evaluation-vlog-for-2024/"><u>[Updated] Launchpad for Newcomers Creating a Successful Product Evaluation Vlog for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/amd-claims-epyc-cpu-outperforms-nvidias-arm-based-grace-superchip-by-double-in-various-tests/"><u>AMD Claims EPYC CPU Outperforms NVIDIA's ARM-Based Grace Superchip by Double in Various Tests</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-productivity-hacks-streamlining-your-everyday-tasks-with-proven-techniques-zdnet/"><u>Essential Productivity Hacks: Streamlining Your Everyday Tasks with Proven Techniques | ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/get-the-no-cost-videoaudio-format-changer-now-seamlessly-switch-your-files-from-any-source-to-mp4-and-save-mp3s/"><u>Get the No-Cost Video/Audio Format Changer Now – Seamlessly Switch Your Files From Any Source to MP4 and Save MP3s</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/hosting-charismatic-chats-keeping-audiences-hooked-live/"><u>Hosting Charismatic Chats Keeping Audiences Hooked Live</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-steelseries-arctis-5-microphone-issue-a-comprehensive-guide/"><u>How to Fix the SteelSeries Arctis 5 Microphone Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-api-integration-essentials/"><u>Mastering ChatGPT: API Integration Essentials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/migrate-pictures-with-ease-mastering-the-move-from-google-photos-to-icloud-in-a-step-by-step-process/"><u>Migrate Pictures with Ease: Mastering the Move From Google Photos to iCloud in a Step-by-Step Process</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-rated-online-tools-for-converting-images-to-videos/"><u>New 2024 Approved Top-Rated Online Tools for Converting Images to Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/retrieving-ransacked-chatgpt-records/"><u>Retrieving Ransacked ChatGPT Records</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revision-imperatives-a-fresh-look-at-the-chatgpt-plugin-shop/"><u>Revision Imperatives: A Fresh Look at the ChatGPT Plugin Shop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-gpt-primer-for-parent-guardians/"><u>The GPT Primer for Parent Guardians</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-new-frontier-of-ai-claudians-distinct-advantages-over-chatgpts-capabilities/"><u>The New Frontier of AI: Claudians' Distinct Advantages Over ChatGPT’s Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-reviewed-non-apple-non-tile-wallet-airtag-offers-superior-tracking-in-depth-analysis/"><u>Top Reviewed Non-Apple, Non-Tile Wallet AirTag Offers Superior Tracking: In-Depth Analysis</u></a></li>
 </ul></div>
 

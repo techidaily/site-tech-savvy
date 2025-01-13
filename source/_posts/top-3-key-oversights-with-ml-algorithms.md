@@ -1,7 +1,7 @@
 ---
 title: Top 3 Key Oversights with ML Algorithms
-date: 2025-01-02T17:07:41.240Z
-updated: 2025-01-05T19:08:02.182Z
+date: 2025-01-11T21:49:16.549Z
+updated: 2025-01-12T23:11:05.505Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Not Understanding How Generative AI Tools Work
 
 ![ChatGPT screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/how-chatgpt-works.jpg)
@@ -50,12 +46,16 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
 
  In addition, these tools may have been fed with biased information and could also generate biased responses. So, you should always ensure you review and edit the generated content before using it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Over-Relying on Generative AI Tools for Your Writing Tasks
 
 ![A woman using a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ai-tools-writing.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Although these AI writing tools can help you write entire articles for online publishers or write your school essays from scratch, developing an over-reliance on them is a huge mistake. There are [several reasons why content writers should not rely on AI chatbots](https://www.makeuseof.com/why-content-writers-cant-rely-ai-chatbots/) for their daily writing tasks.
@@ -63,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
  First, as we have covered, these tools don't guarantee accuracy and may contain factual errors or biased content. In addition, these AI writing tools typically generate bland, generic, formulaic content that lacks sufficient depth and creativity. Lastly, an over-dependence on these tools will kill your creativity and make you lazy.
 
  This is not to say you shouldn't use them at all, as there are [several responsible ways to use AI as a content writer](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/), including brainstorming titles or content ideas, researching, crafting catchy headlines, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Failing to Write Good Prompts
 
@@ -76,11 +80,19 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
 
 ![A top secret report](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/top-secret-information.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Similar to other Tech Giants, OpenAI has faced criticism over its data collection practices that put user privacy and security at risk. However, this goes beyond the account information you give when signing up (name, transaction history, payment card information, etc.), as it also includes data from your conversations with the chatbot.
 
  This includes everything you type into the chatbot field or file uploads. That said, [you shouldn't trust ChatGPT with confidential information](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/) because it could end up in the wrong hands. This is a serious concern, as countries like [Italy have already banned ChatGPT](https://www.makeuseof.com/why-has-italy-banned-chatgpt/), and it's safe to assume that other AI generative tools have similar data collection practices.
 
  That said, you should always remain mindful when using these tools and ensure you do not input sensitive or confidential information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Using Generative AI Tools Unethically
 
@@ -90,25 +102,13 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
 
  Lastly, you also want to keep an eye on the Terms of Use of any AI content generator you use to ensure you're not violating them, as this could result in your account being suspended or banned.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Not Familiarizing Yourself With AI-Powered Tools
 
 ![A close up view of a computer with "ChatGPT Prompts" written on it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-prompt-ai.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A lot has been said about artificial intelligence recently, and several predictions have been made as well. Whether you believe that these tools will take your job or not, what's certain is that [AI will change the job market](https://www.makeuseof.com/ways-ai-change-job-market/), and it's here to stay.
 
  This means adaptability is more vital than ever, so ignoring these AI generative tools is a mistake you want to avoid. While you may have unique skills and talents that artificial intelligence can't replace, there's a huge chance that early adopters will gain an edge over their competition.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Better Results From Generative AI Tools by Avoiding These Mistakes
 
@@ -135,24 +135,18 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-economical-entrance-to-youtube-ecosystem-affiliate-assistance-for-small-sets/"><u>[New] Economical Entrance to YouTube Ecosystem Affiliate Assistance for Small Sets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-latest-camera-upgrade-the-innovative-camera-button-on-iphone-16-models-explained/"><u>Discover the Latest Camera Upgrade: The Innovative Camera Button on iPhone 16 Models Explained!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diy-mastery-meets-machine-learning-the-next-chapter/"><u>DIY Mastery Meets Machine Learning: The Next Chapter</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-the-apple-studio-display-an-exquisite-expensive-choice-for-the-dedicated-mac-creators-workspace-insights-from-zdnet/"><u>Evaluating the Apple Studio Display: An Exquisite, Expensive Choice for the Dedicated Mac Creator's Workspace - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experiencing-better-interactions-with-chatgpt-discovering-the-co-pilot-extension/"><u>Experiencing Better Interactions With ChatGPT: Discovering the Co-Pilot Extension</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-samsung-galaxy-s23-tactical-edition-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Samsung Galaxy S23 Tactical Edition?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-the-future-of-gaming-leading-vr-game-engines/"><u>In 2024, The Future of Gaming Leading VR Game Engines</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-hidden-strategies-in-canvas-image-design-toolkit/"><u>In 2024, Top 10 Hidden Strategies in Canva's Image Design Toolkit</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-undo-livestream-progress-with-twitch-tricks/"><u>In 2024, Undo Livestream Progress with Twitch Tricks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-your-digital-companion-chatgpt-functional/"><u>Is Your Digital Companion, ChatGPT, Functional?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-serenity-in-chaos/"><u>Leveraging AI for Serenity in Chaos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt-for-modern-cognitive-behavioral-strategies/"><u>Leveraging GPT for Modern Cognitive Behavioral Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reviving-visionpro-three-crucial-steps-for-apples-success-techinsights/"><u>Reviving VisionPro: Three Crucial Steps for Apple's Success | TechInsights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smart-studying-without-dependence-on-chatgpt/"><u>Smart Studying Without Dependence on ChatGPT</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tailoring-your-presents-10-leading-e-commerce-platforms-unveiled-for-2024/"><u>Tailoring Your Presents 10 Leading E-Commerce Platforms Unveiled for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-12-complimentary-disk-defragmentation-applications-july-2024-edition/"><u>Top 12 Complimentary Disk Defragmentation Applications - July 2024 Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-mp3-players-expert-reviews-and-comparisons/"><u>Top-Rated MP3 Players : Expert Reviews & Comparisons</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unified-media-playback-on-youtube-flv-files-tutorial-for-2024/"><u>Unified Media Playback on YouTube FLV Files Tutorial for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-from-ordinary-to-amazing-the-ultimate-video-enhancement-tool/"><u>Updated From Ordinary to Amazing The Ultimate Video Enhancement Tool</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-enhancing-worker-engagement-through-thoughtful-space-configuration/"><u>[New] 2024 Approved Enhancing Worker Engagement Through Thoughtful Space Configuration</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/captivating-captions-writing-copy-that-drives-engagement-and-views-for-2024/"><u>Captivating Captions Writing Copy That Drives Engagement and Views for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-personalization-tailoring-user-experience-with-smart-data-tracking/"><u>Cookiebot-Enabled Personalization: Tailoring User Experience with Smart Data Tracking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-optimizing-your-site-with-advanced-tracking-technology/"><u>Cookiebot-Enabled: Optimizing Your Site with Advanced Tracking Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-optimizing-your-site-with-cutting-edge-technology/"><u>Cookiebot-Enabled: Optimizing Your Site with Cutting-Edge Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-enhanced-boost-your-websites-performance-with-cutting-edge-technology/"><u>Cookiebot-Enhanced: Boost Your Website's Performance with Cutting-Edge Technology</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-infinix-note-30-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Infinix Note 30 Phones with/without a PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-samsung-galaxy-f15-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Samsung Galaxy F15 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-compelling-proposal-writing-using-chatgpt/"><u>Mastering the Art of Compelling Proposal Writing Using ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-policy-settings-with-three-perspectives/"><u>Mastering Windows Policy Settings with Three Perspectives</u></a></li>
+<li><a href="https://win-bits.techidaily.com/resolving-the-error-1000203-during-a-system-restore-on-windows-10-a-step-by-step-guide/"><u>Resolving the 'Error 1000203' During a System Restore on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/secure-your-outlook-dateien-auf-einfache-weise-unter-windows-10-keine-datenverluste-garantiert/"><u>Secure Your Outlook Dateien Auf Einfache Weise Unter Windows 10 - Keine Datenverluste Garantiert!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/webs-finest-vertical-video-editors-for-online-creators/"><u>Webs Finest Vertical Video Editors for Online Creators</u></a></li>
 </ul></div>
 

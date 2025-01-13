@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to CodeGPT in VS Code
-date: 2024-12-31T00:21:39.661Z
-updated: 2025-01-06T05:47:52.337Z
+date: 2025-01-10T00:47:26.821Z
+updated: 2025-01-12T17:49:19.072Z
 tags:
   - chatgpt
   - open-ai
@@ -40,13 +40,13 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 
 ![OpenAI API service selection page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-api-homepage.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will take you to the API homepage. In the top right corner, click on your profile and select the **View API keys** option.
 
 ![OpenAI API homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-api-key-view.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now, you will be directed to the **API keys** page. Click on the **Create new secret key** option. Then, name and generate your secret key.
 
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 ![CodeGPT configuration page in VSCode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-codegpt-configuration.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From this page, you can configure how CodeGPT interacts with the large language model. You can choose your **AI Provider**, **Max Tokens** for each request, and the **Model** to use. Also, when you scroll further down you can also set the **Temperature** value.
@@ -72,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 
  Click on it and paste your API key on the prompt that appears. Save it by pressing **Enter**. Finally, reload VS Code to start using CodeGPT.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Generating Code With CodeGPT
 
  To demonstrate the CodeGPT code generation feature, you will create a calculator app using Python.
@@ -84,19 +80,23 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 
 ![CodeGPT generating code from a comment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-comment-code-generation.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can then copy and paste the code into your script. This method is not tidy as the response has text on it.
 
  To generate code by chatting with CodeGPT, click on the CodeGPT chat icon on the left sidebar. This will open a chat window.
 
 ![CodeGPT chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-chat.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then input your request and click **Send**. In this case, the request is for a simple calculator. CodeGPT will process your request and generate your code in the chat window.
 
 ![CodeGPT code generation in the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-code-generation-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click on the "insert code" arrow to automatically paste the code into your script. As you can see, this method is more tidy. The generated code is as shown below:
 
@@ -139,15 +139,15 @@ else:
 
  CodeGPT will generate new code that implements the requested refactoring.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Explaining Your Code With CodeGPT
 
  To explain your code, select the code that you want CodeGPT to explain. Then right-click on the highlighted code and select the **Explain CodeGPT** option.
 
 ![CodeGPT code explanation on the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-codegpt-explanation.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  CodeGPT will explain what the code does on the chat window.
 
@@ -178,7 +178,7 @@ def divide(x, y):
  These are clear and correct inline comments.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Understanding How Generative AI Works
@@ -204,18 +204,22 @@ def divide(x, y):
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-digital-domination-worlds-top-10-video-content-kings-and-queens/"><u>[New] In 2024, Digital Domination World's Top 10 Video Content Kings & Queens</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-activating-grid-view-in-google-meet-webinars-a-step-by-step-guide/"><u>[Updated] 2024 Approved Activating Grid View in Google Meet Webinars A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-innovative-approaches-to-achieve-stunning-gopro-time-lapse/"><u>[Updated] 2024 Approved Innovative Approaches to Achieve Stunning GoPro Time Lapse</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-diy-football-viewing-watch-record-cut-on-the-cheap/"><u>[Updated] In 2024, DIY Football Viewing Watch, Record, Cut on the Cheap</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-best-streamers-unveiled-an-all-round-comparison-guide/"><u>2024 Approved Best Streamers Unveiled An All-Round Comparison Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/efficiently-organizing-your-digital-memories-via-google-photos/"><u>Efficiently Organizing Your Digital Memories via Google Photos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-email-errors-steps-to-counteract-0x80072746/"><u>Eliminating Email Errors: Steps to Counteract 0X80072746</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-effectively-set-health-goals-with-chatgpt/"><u>How to Effectively Set Health Goals With ChatGPT</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-pc-performance-ai-assistance-at-hand/"><u>Pioneering PC Performance: AI Assistance at Hand</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/side-hustles-with-chatai-and-upgrading-your-system/"><u>Side Hustles with ChatAI & Upgrading Your System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/silicon-sense-and-cyber-shields-telling-techs-jestful-journey/"><u>Silicon Sense & Cyber Shields: Telling Tech's Jestful Journey</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/smooth-operation-file-transfer-between-different-os-phones/"><u>Smooth Operation File Transfer Between Different OS Phones</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-examining-youtubers-monthly-revenue-strategies/"><u>[New] 2024 Approved Examining YouTubers' Monthly Revenue Strategies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-guide-best-screencasting-apps-at-no-cost/"><u>[New] Essential Guide Best Screencasting Apps at No Cost</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-streamline-your-zoom-talks-with-camera-snaps/"><u>[New] Streamline Your Zoom Talks with Camera Snaps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-cutting-edge-image-vault-websites/"><u>[Updated] Cutting-Edge Image Vault Websites</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/access-immediately-explore-8-specially-designed-ais/"><u>Access Immediately: Explore 8 Specially Designed AIs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-unveiled-the-power-of-10-customizations-for-better-dialogue/"><u>ChatGPT Unveiled: The Power of 10 Customizations for Better Dialogue</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convert-and-save-your-dvds-efficiently-using-winx-dvd-copy-pro-ultimate-guide/"><u>Convert and Save Your DVDs Efficiently Using WinX DVD Copy Pro - Ultimate Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ai-advantage-with-bing-get-started-guide/"><u>Discover the AI Advantage with Bing: Get Started Guide</u></a></li>
+<li><a href="https://win-studio.techidaily.com/fixing-non-responsive-printers-a-step-by-step-guide-by-yl-computing/"><u>Fixing Non-Responsive Printers: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/impact-of-major-contract-terminations-forces-asetek-to-halt-revenue-estimates/"><u>Impact of Major Contract Terminations Forces Asetek to Halt Revenue Estimates</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-a15-4g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-stories-secrets-for-success-for-2024/"><u>Instagram Stories Secrets for Success for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-spaces-for-ai-inspired-artistry/"><u>Leading Spaces for AI-Inspired Artistry</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strengthening-student-outcomes-with-ai-5-essential-uses-of-chatgpt-in-school/"><u>Strengthening Student Outcomes with AI: 5 Essential Uses of ChatGPT in School</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-role-of-cutting-edge-ai-technology-from-apple-in-shaping-the-future-of-the-iphone-16-insights/"><u>The Role of Cutting-Edge AI Technology From Apple in Shaping the Future of the iPhone 16 - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-using-two-monitors-with-your-new-m3-macbook-pro-tips-and-tricks-on-zdnet/"><u>The Ultimate Guide to Using Two Monitors with Your New M3 MacBook Pro | Tips and Tricks on ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-3-essential-accessories-to-maintain-the-pristine-look-of-your-iphone-13-tips-from-zdnet/"><u>Top 3 Essential Accessories to Maintain the Pristine Look of Your iPhone 13 - Tips From ZDNet</u></a></li>
 </ul></div>
 

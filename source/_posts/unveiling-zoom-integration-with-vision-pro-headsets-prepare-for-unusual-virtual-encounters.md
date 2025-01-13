@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Zoom Integration with Vision Pro Headsets: Prepare for Unusual Virtual Encounters!"
-date: 2024-12-29T20:09:22.806Z
-updated: 2025-01-06T05:00:08.783Z
+date: 2025-01-05T18:25:30.946Z
+updated: 2025-01-12T18:37:47.533Z
 tags:
   - apple
 categories:
@@ -39,10 +39,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Airplane Mode
 
@@ -94,13 +90,13 @@ As mentioned above, Travel Mode and Airplane Mode are independent settings. That
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Planes, trains, automobiles - and boats
 
 While I have no intention of taking my Vision Pro out and about, I have had a chance to review the experiences shared by others online. Here are some thoughts for each of the vehicle types you're likely to be traveling in -- _as a passenger_. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Airplanes
 
@@ -113,7 +109,7 @@ You'll need to account for where the battery goes, where your [travel case](http
 That said, as long as you have enough battery power (or [spare batteries](https://www.apple.com/shop/product/MW283LL/A/apple-vision-pro-battery)), your experience on a plane should be fairly straightforward as this was a use case Apple clearly designed for. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Trains
@@ -123,6 +119,10 @@ ZDNET's [Matthew Miller has used the Vision Pro while commuting](https://www.zdn
 **Also: [I used the Apple Vision Pro for my 8-hour work day, and it left me wanting more](https://www.zdnet.com/article/i-used-the-apple-vision-pro-for-my-8-hour-work-day-and-it-left-me-wanting-more/)**
 
 He also found that the lenses tended to fog up. While not necessarily a deal-killer, lens issues can be a serious problem when using the device, especially in a humid environment. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Automobiles
 
@@ -135,7 +135,7 @@ Highway travel, particularly on long stretches of the national highway system in
 Travel mode will certainly help, but expect it to blink in and out depending on what's going on outside the vehicle. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Shipboard travel
@@ -153,7 +153,7 @@ I've also lived through devastating earthquakes. The [Loma Prieta earthquake](ht
 If you're sailing and the vessel is rolling or heaving, give up on the entertainment, and do your best not to hurl your lunch. In fact, try not to eat any lunch. Just hang in there until it's over. There will be time to watch _Avatar: The Way of Water_ in 3D another day, when the seas are calm and so is your stomach lining. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Situational awareness
@@ -211,19 +211,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-free-video-editing-apps-for-iphonesipads/"><u>[Updated] In 2024, Essential Free Video Editing Apps for iPhones/iPads</u></a></li>
-<li><a href="https://win-community.techidaily.com/44cm56m25qw144ks44kk44oj77ya5lia55uu556t54s244gq44k44kk44og44op44ox44k55yuv55s76ko95l2c5oml6acg44cn/"><u>「究極ガイド：一目瞭然なタイムラプス動画製作手順」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chaos-in-communication-why-hackers-love-gpt/"><u>Chaos in Communication: Why Hackers Love GPT</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/enhance-tiktok-velocity-with-these-hacks-for-2024/"><u>Enhance TikTok Velocity with These Hacks for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/hosting-and-joining-google-meet-your-free-comprehensive-guidebook-for-2024/"><u>Hosting and Joining Google Meet Your Free, Comprehensive Guidebook for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-nokia-c12-plus-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Nokia C12 Plus online without jailbreak</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mislead-no-more-recognize-real-and-rigged-chatgpt-apps/"><u>Mislead No More: Recognize Real and Rigged ChatGPT Apps!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/neural-networks-defended-against-inversion/"><u>Neural Networks Defended Against Inversion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-your-speeches-top-7-ai-assistants/"><u>Optimize Your Speeches: Top 7 AI Assistants</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peeking-behind-ais-curtain-black-box-dynamics/"><u>Peeking Behind AI's Curtain: Black Box Dynamics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-bottom-line-on-chatgpt-as-an-earnings-engine/"><u>The Bottom Line on ChatGPT as an Earnings Engine</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-selecting-superior-video-editors-we-reveal-the-best-5-picks/"><u>The Ultimate Guide to Selecting Superior Video Editors: We Reveal the Best 5 Picks</u></a></li>
-<li><a href="https://fox-making.techidaily.com/yl-computing-guide-effective-techniques-for-removing-unneeded-files/"><u>YL Computing Guide: Effective Techniques for Removing Unneeded Files</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-expert-tutorials-on-precision-digital-video-capture-for-2024/"><u>[New] Expert Tutorials on Precision Digital Video Capture for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-budget-breakdown-funding-the-art-of-song-capture/"><u>[New] In 2024, Budget Breakdown Funding The Art of Song Capture</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-pick-for-smartphone-ai-the-top-8-ios-and-android-apps/"><u>Best Pick for Smartphone AI: The Top 8 iOS and Android Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-mastery-for-effective-essay-writing/"><u>ChatGPT Mastery for Effective Essay Writing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-enhancements-in-lenovos-newly-revamped-thinkpad-x1-notebook-insights-from-zdnet/"><u>Discover the Enhancements in Lenovo's Newly Revamped ThinkPad X1 Notebook - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-common-ground-with-assisted-conversations/"><u>Discovering Common Ground with Assisted Conversations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/edge-it-right-a-list-of-top-borders-in-social-media-photography/"><u>Edge It Right A List of Top Borders in Social Media Photography</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embracing-ai-assisted-advice-with-top-7-reasons/"><u>Embracing AI-Assisted Advice with Top 7 Reasons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-virtual-mixology-expertise-of-ai/"><u>Evaluating Virtual Mixology Expertise of AI</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harness-the-power-of-on-the-go-visual-adjustments-for-2024/"><u>Harness the Power of On-the-Go Visual Adjustments for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-does-unlimited-metro-by-t-mobile-facilitate-seamless-network-roaming/"><u>How Does Unlimited Metro by T-Mobile Facilitate Seamless Network Roaming?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-create-engaging-visual-hooks-a-guide-to-video-thumbnail-making/"><u>How to Create Engaging Visual Hooks A Guide to Video Thumbnail Making</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hurricanes-or-just-bad-weather-understanding-the-difference/"><u>Hurricanes or Just Bad Weather?: Understanding the Difference</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-data-interactions-with-gpt-enhanced-tools/"><u>Master Data Interactions with GPT-Enhanced Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-market-maze-gpt-for-trading-triumphs/"><u>Navigating the Market Maze: GPT for Trading Triumphs</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-unlock-mac-video-editing-potential-vn-video-editor-and-more/"><u>New Unlock Mac Video Editing Potential VN Video Editor and More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-hidden-gem-a-surprising-revelation-of-a-349-ipad-at-apples-exciting-event-featured-on-zdnet/"><u>Unveiling the Hidden Gem: A Surprising Revelation of a $349 iPad at Apple's Exciting Event | Featured on ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tom's Tech Gear - Comprehensive Hardware Reviews
-date: 2024-09-06T23:30:20.038Z
-updated: 2024-09-07T23:30:20.038Z
+date: 2025-01-10T17:51:21.001Z
+updated: 2025-01-12T21:05:05.257Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/WkbLxXYF3pLCXzKrFTM2VE-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Innovation Hub: The Inside Scoop From Tom's Hardware for Gadget Lovers
 
 Mini PC specialist Minisforum has launched a new device, claiming several firsts. The new[AtomMan X7 Ti](https://www.minisforum.com/page/x7ti/index.html?lang=en) becomes the first in the firm's AtomMan line, described as a high-end cutting-edge marque by Minisforum. It is also claimed to be the “first Intel Ultra 9 AI Mini PC with a 4-inch Touchscreen.” With the rising popularity of[extra screens in PCs](https://www.tomshardware.com/pc-components/cooling/hands-on-lian-lis-lcd-screen-fans-turn-heads-and-are-surprisingly-affordable-but-not-as-configurable-as-id-like) , integrating one into a compact desktop might be a popular idea.
@@ -27,32 +21,14 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  Moving inside, the star of the show is the new Intel Core Ultra 9 processor[185H](https://www.intel.com/content/www/us/en/products/sku/236849/intel-core-ultra-9-processor-185h-24m-cache-up-to-5-10-ghz/specifications.html) with a 16C/22T CPU running at up to 5.1 GHz, and onboard Arc GPU with eight Xe cores running at up to 2.35 GHz. This[Meteor Lake](https://www.tomshardware.com/news/intel-details-core-ultra-meteor-lake-architecture-launches-december-14) chip is cooled by the new Cold Wave cooling system featuring a large diameter fan, 3 copper heatpipes, and a phase-change module.
@@ -66,11 +42,9 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -79,14 +53,11 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -95,4 +66,23 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-elite-silent-input-transcription-suites/"><u>[New] 2024 Approved Elite Silent Input Transcription Suites</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-unleashing-potential-the-art-of-youtube-seo-keywords/"><u>[New] 2024 Approved Unleashing Potential The Art of YouTube SEO Keywords</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-from-good-to-great-elevate-your-tiktok-edits/"><u>[New] From Good to Great Elevate Your TikTok Edits</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-pathway-to-popular-youtube-thumbnails-mac-edition/"><u>[New] The Pathway to Popular Youtube Thumbnails Mac Edition</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211011051-9798885408479-achieving-spem-health-spiritual-physical-emotional-mental-its-up-to-youtm/"><u>Achieving SPEM Health Spiritual Physical Emotional Mental (It’s Up to You!)TM | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chaos-and-creativity-how-gpt-assists-in-building-dungeon-worlds/"><u>Chaos and Creativity: How GPT Assists in Building Dungeon Worlds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-errors-in-managing-apple-vision-pro-steer-clear-or-risk-losing-it-all/"><u>Critical Errors in Managing Apple Vision Pro: Steer Clear or Risk Losing It All</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dia-a-dia-aprendiendo-los-dias-de-la-semana-en-espanol/"><u>Día a Día: Aprendiendo Los Días De La Semana en Español</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-steps-to-download-and-upgrade-your-canon-mp560-printing-drivers/"><u>Easy Steps to Download & Upgrade Your Canon MP560 Printing Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-pos-solutions-not-offered-by-openais-chatgpt/"><u>Essential POS Solutions Not Offered by OpenAI’s ChatGPT</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-15-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 15 With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pondering-over-the-role-of-ai-in-financial-health/"><u>Pondering Over the Role of AI in Financial Health</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-to-harness-chatgpt-in-multiple-languages/"><u>Strategies to Harness ChatGPT in Multiple Languages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-in-car-tech-explore-apples-improved-carplay-features-revealed-during-the-wwdc-2024-keynote/"><u>The Future of In-Car Tech: Explore Apple's Improved CarPlay Features Revealed During the WWDC 2024 Keynote</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-six-essential-qualities-that-set-snapchats-my-ai-apart/"><u>The Six Essential Qualities That Set Snapchat's My AI Apart</u></a></li>
+</ul></div>
 

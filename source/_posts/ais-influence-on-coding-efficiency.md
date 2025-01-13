@@ -1,7 +1,7 @@
 ---
 title: AI's Influence on Coding Efficiency
-date: 2025-01-03T21:02:26.659Z
-updated: 2025-01-06T03:20:45.884Z
+date: 2025-01-09T22:24:29.274Z
+updated: 2025-01-12T21:24:02.931Z
 tags:
   - chatgpt
   - open-ai
@@ -26,19 +26,11 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Overall Sentiments of Developers Towards AI
 
  As mentioned, AI is growing in popularity among developers. According to the [Stack Overflow 2023 survey](https://survey.stackoverflow.co/2023/), 70% are already using or plan to use AI tools in their development process with 44% already using the tools now and 26% planning to.
 
  The views on AI differ based on the profession and the level of experience of the developer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Profession
 
@@ -52,18 +44,26 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 
  For cloud developers, AI can help optimize infrastructure management by automating processes such as resource allocation, load balancing, monitoring, and performance tuning.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Experience
 
  Developers earlier in their careers and those learning to code are more likely to use AI tools possibly because it improves the speed of learning.
 
  On the other hand, 42.2% of developers with more than 21+ years of experience are less favorable to AI. This may be because they want to see whether the hype surrounding AI will die down before committing to a certain tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Countries
 
  Professional developers from India (83%), Brazil (78%), and Poland (70%) are among the developers using or planning to use AI tools in the future. This is probably because of the high growth of young developers from these countries. Developers from the United Kingdom, France, and Germany are less likely to use AI tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are the Tasks Developers Are Using AI For?
@@ -80,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  AI is beneficial to professional developers as well as those learning to code. Overall 33% see an increase in productivity as the most important benefit of using AI. Tools such as GitHub Copilot offer features like code suggestions, auto-completion, and error detection, which can significantly speed up the coding process.
 
  Professional developers saw improved productivity (37.4%) as the main benefit with greater efficiency (27.9%) and speed of learning (27.4%) being secondary.
@@ -94,13 +90,13 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 
  The survey further categorized these benefits across different developer types. Increased productivity was a constant among all developer types.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Popular AI Tools That Developers Are Using in 2023
 
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Stack Overflow surveyed the popularity of various AI tools grouped between AI search tools and AI developer tools. From the data, developers are primarily using two tools, ChatGPT and GitHub Copilot.
 
@@ -117,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 ## How to Get Started With AI in Software Development
 
  As a software developer, you can get started with AI by incorporating code generation and editing tools in your development process. [Tools like GitHub Copilot](https://www.makeuseof.com/how-github-copilot-helps-you-code/) and Tabnine suggest code snippets based on the context as you type which can significantly cut down on development time. Additionally, ChatGPT is very useful for generating utility functions, UI components, and debugging code. With the right prompts, you can even [use ChatGPT to create web apps](https://www.makeuseof.com/chatgpt-how-build-web-app/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Future of AI-Assisted Software Development
 
@@ -139,17 +139,22 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-elite-economical-countdown-companions-for-2024/"><u>[New] Elite Economical Countdown Companions for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premier-platforms-for-game-casting/"><u>[New] Premier Platforms for Game Casting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claude-vs-chatgpt-the-4-innovative-improvements-that-redefine-interaction/"><u>Claude vs ChatGPT: The 4 Innovative Improvements that Redefine Interaction</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/compact-your-content-explore-the-most-admirable-33-video-reducers-for-2024/"><u>Compact Your Content Explore the Most Admirable 33 Video Reducers for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/delving-into-claude-2-its-mechanisms-purpose/"><u>Delving Into Claude 2: Its Mechanisms, Purpose</u></a></li>
-<li><a href="https://win-docs.techidaily.com/dropboxs-intelligent-synchronization-malfunctioning-discover-these-6-reliable-workarounds/"><u>Dropbox's Intelligent Synchronization Malfunctioning? Discover These 6 Reliable Workarounds!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-abodes-productivity-with-chatgpt-techniques/"><u>Elevate Your Abode's Productivity with ChatGPT Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-failed-to-reset-pc-error-on-windows-10-a-step-by-step-guide/"><u>How to Overcome 'Failed to Reset PC' Error on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mitigating-pressure-chatgpt-techniques/"><u>Mitigating Pressure: ChatGPT Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-consequences-of-content-control-by-artificinaset-algorithms/"><u>The Consequences of Content Control by Artificinaset Algorithms</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-the-notorious-windows-code-31-error/"><u>Troubleshooting the Notorious Windows 'Code 31' Error</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-advanced-ai-dialogues-in-chrome-here-are-7-must-haves/"><u>Unlock Advanced AI Dialogues in Chrome: Here Are 7 Must-Haves</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-lyric-video-creation-secrets-unveiled-by-lyric-video-maker/"><u>[New] In 2024, Lyric Video Creation Secrets Unveiled by Lyric Video Maker</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unlock-your-devices-sound-identity-with-a-customized-whatsapp-ringtone-for-2024/"><u>[New] Unlock Your Device's Sound Identity with a Customized WhatsApp Ringtone for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-essential-tips-for-restoring-message-functionality-on-an-iphone-stuck-in-limbo/"><u>7 Essential Tips for Restoring Message Functionality on an iPhone Stuck in Limbo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-cookiebot-technology-for-optimized-engagement/"><u>Harnessing the Power of Cookiebot Technology for Optimized Engagement</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-s23-tactical-edition-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy S23 Tactical Edition for Streaming | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-potential-an-in-depth-look-at-vivocut-editing/"><u>In 2024, Unlocking Potential An In-Depth Look at VivoCut Editing</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-asus-zenwifi-xt8-ax6600-mastering-your-wi-fi-with-power-and-precision/"><u>In-Depth Analysis of the ASUS ZenWiFi XT8 AX6600: Mastering Your Wi-Fi with Power and Precision</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-data-extraction-the-role-of-retrieval-augmented-generation-in-abbyys-technology-suite/"><u>Innovating Data Extraction: The Role of Retrieval-Augmented Generation in ABBYY's Technology Suite</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-guide-logitech-driving-force-gt-controller-on-windows-7-11-pcs/"><u>Install Guide: Logitech Driving Force GT Controller on Windows 7-11 PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-document-scanning-and-conversion-utilize-finereader-pdfs-ocr-for-precise-pdfjpg-book-digitization/"><u>IPhone Document Scanning & Conversion: Utilize FineReader PDF's OCR for Precise PDF/JPG Book Digitization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/james-ritter-named-abbyys-next-chief-financial-officer-in-latest-leadership-update/"><u>James Ritter Named ABBYY's Next Chief Financial Officer in Latest Leadership Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-advanced-analytics-and-tracking-solutions-powered-by-cookiebot-innovation/"><u>Leverage Advanced Analytics & Tracking: Solutions Powered by Cookiebot Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-cookiebot-technology-for-enhanced-web-analytics-and-seo-success/"><u>Leverage Cookiebot Technology for Enhanced Web Analytics and SEO Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-future-security-with-digital-intellect-insights-from-abbyy-industry-leaders/"><u>Navigating Future Security with Digital Intellect Insights From ABBYY Industry Leaders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-online-engagement-with-advanced-cookiebot-technology/"><u>Optimizing Online Engagement with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://discover-able.techidaily.com/step-by-step-guide-access-and-open-files-on-your-pc-with-windows-yl-computing/"><u>Step-by-Step Guide: Access and Open Files on Your PC with Windows - YL Computing</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/top-18-procesu-konverzace-video-mp4-na-dvd-windows-mac-a-online-preference/"><u>Top 18 Procesů Konverzace Video MP4 Na DVD - Windows, Mac a Online Preference</u></a></li>
 </ul></div>
 

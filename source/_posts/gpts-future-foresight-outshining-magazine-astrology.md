@@ -1,7 +1,7 @@
 ---
 title: "GPT's Future Foresight: Outshining Magazine Astrology?"
-date: 2024-12-30T08:29:03.660Z
-updated: 2025-01-05T16:22:17.436Z
+date: 2025-01-11T17:26:43.071Z
+updated: 2025-01-12T21:03:32.241Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Customize Your ChatGPT Fortune-Teller…
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 ![Hands Over Fortune Telling Crystal Ball](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hands-over-fortune-telling-crystal-ball.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortune-tellers have a particular mystique about them, which you'll instantly recognize from the movies.
@@ -50,16 +50,12 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 
  Generating this persona was simplicity itself, prompting ChatGPT to "Respond the following as if you are a wise fortune teller."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Choose Your ChatGPT Fortune Telling Questions Wisely
 
 ![Fortune Teller doing a Reading for a Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fortune-teller-doing-a-reading-for-a-client-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another thing we've learned from movies is that knowing the future is a dangerous thing. As a large language model which has already ingested and digested most of the internet, ChatGPT, or Agnes, as she now calls herself, could possibly make reliable predictions of when and how you're going to die. You probably don't want to know, so don't ask.
@@ -113,7 +109,11 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 ![chatgpt fortune transcript](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-fortune-transcript.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Predicted the Future as Well as Any Magazine Horoscope
@@ -143,17 +143,15 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/boosting-output-quality-large-scale-creation-via-canva-plus-chatgpt/"><u>Boosting Output Quality: Large-Scale Creation via Canva + ChatGPT</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/comprehensive-guide-to-handling-your-installed-applications-yl-computing-solutions/"><u>Comprehensive Guide to Handling Your Installed Applications - YL Computing Solutions</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/vering-top-10-must-watch-business-video-hubs-for-2024/"><u>Discovering Top 10 Must-Watch Business Video Hubs for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-80-pro-straight-screen-edition-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor 80 Pro Straight Screen Edition Phone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-real-time-ai-voice-changer-revolutionizing-communication/"><u>In 2024, Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mastering-hibernate-a-comprehensive-guide-for-windows-8-users/"><u>Mastering Hibernate: A Comprehensive Guide for Windows 8 Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pivotal-ai-solutions-to-transform-your-enterprise-strategy/"><u>Pivotal AI Solutions to Transform Your Enterprise Strategy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-service-chatgpts-role-in-whatsapp-assistance/"><u>Seamless Service: ChatGPT's Role in WhatsApp Assistance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-typing-to-text-into-word-masterpieces/"><u>Transform Your Typing to Text Into Word Masterpieces</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-others-chatgpts-role-in-ei/"><u>Understanding Others: ChatGPT's Role in EI</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/wie-sie-ihr-macbook-perfekt-mit-dem-amazon-cloud-drive-synchronisieren-ein-kompletter-leitfaden/"><u>Wie Sie Ihr MacBook Perfekt Mit Dem Amazon Cloud Drive Synchronisieren - Ein Kompletter Leitfaden</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unparalleled-viewing-premium-hdmi-21-gaming-monitors-ps5/"><u>[New] 2024 Approved Unparalleled Viewing Premium HDMI 2.1 Gaming Monitors [PS5]</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-win-friendly-art-programs-all-free-and-subscription-options/"><u>[New] Top Win-Friendly Art Programs All-Free & Subscription Options</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-vimeo-vs-youtube-the-differentiators-analysis/"><u>[New] Vimeo V/S YouTube The Differentiator's Analysis</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-next-level-content-workshop/"><u>[Updated] In 2024, Next Level Content Workshop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-unveils-new-media-player-apps-on-windows-as-itunes-bids-farewell-insights-from-zdnet/"><u>Apple Unveils New Media Player Apps on Windows as iTunes Bids Farewell - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excel-dominates-data-handling-where-gpt-falls-short/"><u>Excel Dominates Data Handling, Where GPT Falls Short</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-alerts-from-slack-directly-on-your-apple-watch-a-step-by-step-guide/"><u>Get Alerts From Slack Directly on Your Apple Watch - A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-oppo-a38-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Oppo A38 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/the-ultimate-strategy-to-restore-lost-data-on-your-ios-device-follow-these-essential-steps/"><u>The Ultimate Strategy to Restore Lost Data on Your iOS Device - Follow These Essential Steps!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-revolutionary-iphone-16-pro-innovations-that-tech-lovers-cant-wait-to-try-insights-by-zdnet/"><u>Top 5 Revolutionary iPhone 16 Pro Innovations That Tech Lovers Can't Wait To Try - Insights by ZDNet</u></a></li>
 </ul></div>
 

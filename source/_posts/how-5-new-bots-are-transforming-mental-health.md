@@ -1,7 +1,7 @@
 ---
 title: How 5 New Bots Are Transforming Mental Health
-date: 2024-09-06T23:30:23.606Z
-updated: 2024-09-07T23:30:23.606Z
+date: 2025-01-05T22:50:47.696Z
+updated: 2025-01-13T00:53:48.433Z
 tags:
   - chatgpt
   - open-ai
@@ -24,21 +24,17 @@ thumbnail: https://thmb.techidaily.com/91120e952f9d1d6546a20efeacf0c17a6bf03fb18
 **Important:** These apps are not replacements for mental health professionals, and if you are in distress, it's best to seek help. These apps offer temporary or base-level methods to tackle negative thoughts and get you through a bad mood.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Thought Coach
 
 ![Thought Coach uses ChatGPT AI to identify cognitive distortions in your statements and emotions, to overcome your irrationality](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/best-online-ai-chatgpt-chat-bot-therapists-mental-health-thought-coach.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Cognitive distortions are among the most common psychological issues that many of us have to tackle regularly. These are irrational, exaggerated, or unhelpful thought patterns that cloud our view of situations. But AI is surprisingly good at identifying these cognitive distortions, as we have seen while exploring [how to overcome stress with ChatGPT](https://www.makeuseof.com/overcome-stress-with-chatgpt/).
 
  Thought Coach uses this ability to help you reframe and rephrase your thoughts. The algorithm is trained on common cognitive distortions, such as overgeneralization, all-or-nothing thinking, emotional reasoning, jumping to conclusions, mind reading, etc. When you're ready to start, type in all the details about the event that led to your negative emotions and thoughts. Then, in the next box, add all the negative thoughts you're experiencing about it.
@@ -56,21 +52,17 @@ thumbnail: https://thmb.techidaily.com/91120e952f9d1d6546a20efeacf0c17a6bf03fb18
  Apart from these two main chat therapy bots, SommerAI also offers **Healthy Nuggets**. These small actions, habits, or exercises will boost your mental health.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Mindsum Bot
 
 ![Mindsum AI is a chat therapist tool to find out more information about mental health theories and practices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/best-online-ai-chatgpt-chat-bot-therapists-mental-health-mindsum.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Mindsum is a UK-based non-profit organization aimed at distributing mental health information and tools through technology. It has recently created an AI chatbot called Mindsum Bot, which can give anyone the correct information about any mental health questions and guide them in seeking professional help.
 
  Mindsum says the bot was built on GPT technology and layered with their own AI models. It is trained on three evidence-based clinically-tested therapeutic practices: CBT, IPT, and DBT. Interpersonal Therapy (IPT) is a short-term depression treatment focusing on social interactions. Dialectical Behavior Therapy (DBT) is a modified type of CBT that teaches how to regulate emotions, develop coping mechanisms, and be more mindful.
@@ -88,17 +80,9 @@ thumbnail: https://thmb.techidaily.com/91120e952f9d1d6546a20efeacf0c17a6bf03fb18
  When we signed up and tested JungGPT, it was as simple as using any ChatGPT-like AI chatbot. The site notes that the free plan has limited messaging, but we didn't hit those restrictions in our usage. The premium plan costs $7 per month for unlimited messaging.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Lotus
 
 ![Lotus is a therapist chatbot that also includes a journal and a goal-tracker, to save notes and suggestions from previous chats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/best-online-ai-chatgpt-chat-bot-therapists-mental-health-lotus.jpg)
@@ -109,12 +93,6 @@ thumbnail: https://thmb.techidaily.com/91120e952f9d1d6546a20efeacf0c17a6bf03fb18
 
  This way, you can revisit Lotus and quickly go through the main parts of the previous conversation. It also serves as a quick reminder of your goals, and Lotus will use those in any follow-up conversations you have.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI Helps But Isn't a Replacement for Therapy
 
  While we stated this at the start of this article, it's worth reiterating that these AI chatbots cannot substitute for a qualified professional mental health counselor. All the above apps explicitly state that and encourage you to seek help if you're dealing with severe mental health problems. These ChatGPT apps are better suited for instant, short-term, or minor issues and resolutions.
@@ -129,8 +107,6 @@ thumbnail: https://thmb.techidaily.com/91120e952f9d1d6546a20efeacf0c17a6bf03fb18
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +114,19 @@ thumbnail: https://thmb.techidaily.com/91120e952f9d1d6546a20efeacf0c17a6bf03fb18
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-converting-moments-into-memorable-gifs/"><u>[New] Converting Moments Into Memorable GIFs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-eco-conscious-screen-tech-guide/"><u>[Updated] Eco-Conscious Screen Tech Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-unique-workout-plans-through-gpt/"><u>Creating Unique Workout Plans Through GPT</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-solutions-fixing-and-preventing-your-ark-software-from-crashing/"><u>Expert Solutions: Fixing and Preventing Your Ark Software From Crashing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-googles-ai-initiative-the-gemini-project-details-and-focuses/"><u>Exploring Google's AI Initiative - The Gemini Project Details and Focuses</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000138720-heterotrophs-including-decomposers-like-bacteria-and-detritivores-like-earthworms-help-break-down-organic-matter-and-recycle-nutrients-back-into-the-soil/"><u>Heterotrophs, Including Decomposers Like Bacteria and Detritivores Like Earthworms, Help Break Down Organic Matter and Recycle Nutrients Back Into the Soil</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-asus-rog-phone-7-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Asus ROG Phone 7 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719242997504-navigate-past-chrome-hiccups-fixes-for-w11-users/"><u>Navigate Past Chrome Hiccups: Fixes for W11 Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-netgear-wna3100-driver-downloads-and-updates-at-your-fingertips/"><u>Seamless Netgear WNA3100 Driver Downloads and Updates at Your Fingertips</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/step-by-step-tutorial-on-restoring-deleted-webm-media-content/"><u>Step-by-Step Tutorial on Restoring Deleted WebM Media Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synthesizing-the-future-using-chatgpt-in-digital-music-production/"><u>Synthesizing the Future: Using ChatGPT in Digital Music Production</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-to-the-latest-iphone-discover-top-anker-chargers-tailored-for-new-models-tech-insights-from-zdnet/"><u>Upgrade to the Latest iPhone? Discover Top Anker Chargers Tailored for New Models | Tech Insights From ZDNET</u></a></li>
+</ul></div>
 

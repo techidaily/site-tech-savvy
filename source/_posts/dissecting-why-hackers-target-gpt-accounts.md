@@ -1,7 +1,7 @@
 ---
 title: Dissecting Why Hackers Target GPT Accounts
-date: 2025-01-01T18:11:20.592Z
-updated: 2025-01-06T10:29:08.487Z
+date: 2025-01-12T00:06:01.777Z
+updated: 2025-01-13T01:29:37.936Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Are ChatGPT Accounts Being Hacked?
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 
 ![Person Wearing a Mask Sitting on Chair while Using a Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pexels-tima-miroshnichenko-5380605.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  At first, losing your ChatGPT account doesn’t seem like something you should be worried about. But it is. Sure, if you lose a free account, you can create another within a few minutes. But what about the data it contains?
 
  Remember that time you asked ChatGPT to suggest a strong password for your Gmail account? Or that time you used ChatGPT to process a confidential work document? How about the numerous times that you’ve asked the chatbot personal questions that can reveal a lot about your identity?
@@ -53,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
  ChatGPT accounts may contain sensitive information that could be dangerous in the hands of malicious actors. As the chatbot becomes intricately woven into almost every aspect of our digital life, it becomes much more of a gold mine of personal data. This is one of the reasons hackers are gunning for as many of them as they can get their hands on. At the very least, this could lead to phishing attacks; it could lead to more serious issues, however, like identity theft.
 
  Aware of such threats, companies like Google and Samsung—as well as Microsoft, a major backer of OpenAI—have all either warned or explicitly banned their staff from sharing company data with the AI chatbot. The fact that these companies are issuing such warnings means that mistakes might already be happening.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Reselling ChatGPT Accounts
 
@@ -67,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
  Since ChatGPT accounts have become a prime target for hackers, how can you protect your ChatGPT account? Here are two ways to stay safe.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Set Up Two-Factor Authentication (2FA) on Your Account
@@ -77,12 +69,21 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 1. Tap your account name in the bottom right of your ChatGPT chat interface.  
 ![how to set up multifactor authentication on chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/setting-up-2fa-on-chatgpt.jpg)
 2. Tap **Settings > Data controls** and then **Enable** beside **Enable two-factor authentication** to turn on the feature for your account  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![how to set up multifactor authentication on chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-on-2fa-on-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Unfortunately, at the time of writing, the 2FA feature has been temporarily disabled. If you can access the feature at the time of reading this, turn it on. If not, check back and turn it on whenever OpenAI restores this vital feature.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Clear Your ChatGPT Conversations
@@ -115,20 +116,20 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-step-by-step-selection-of-top-10-no-cost-conference-software/"><u>[New] In 2024, Step-By-Step Selection of Top 10 No-Cost Conference Software</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-how-to-convert-youtube-videos-to-mp3-songs-on-mac-2023-update/"><u>[Updated] How to Convert YouTube Videos to MP3 Songs on Mac-2023 Update</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-time-efficient-ways-to-wipe-out-ssgnature-backdrops/"><u>2024 Approved Time-Efficient Ways to Wipe Out Ssgnature Backdrops</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-ai-magic-with-dall-e-3-on-microsoft-bing-free/"><u>Discover AI Magic with DALL-E 3 on Microsoft Bing (Free)</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/duplicate-file-removal-guide-simplified-steps-on-windows-yl-computing/"><u>Duplicate File Removal Guide: Simplified Steps on Windows - YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficiently-navigate-away-from-dead-end-gpt-tools/"><u>Efficiently Navigate Away From Dead-End GPT Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-networking-how-chatgpt-boosts-your-chance-for-linkedin-employment/"><u>Enhancing Networking: How ChatGPT Boosts Your Chance for LinkedIn Employment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/freelancing-edge-6-innovative-ways-to-utilize-chatgpt/"><u>Freelancing Edge: 6 Innovative Ways to Utilize ChatGPT</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-14-pro-max-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 14 Pro Max to SIM? | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-crowded-online-spaces-offering-no-cost-guitar-song-lines-and-artwork/"><u>New In 2024, Crowded Online Spaces Offering No-Cost Guitar Song Lines and Artwork</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openais-linguistic-titans-understanding-gpt-14/"><u>OpenAI’s Linguistic Titans: Understanding GPT-1–4</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/professional-streaming-boost-unveiling-best-9-live-stream-filters-for-2024/"><u>Professional Streaming Boost Unveiling Best 9 Live-Stream Filters for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailoring-twitter-threads-for-maximum-impact-chatgpt/"><u>Tailoring Twitter Threads for Maximum Impact (ChatGPT)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-z-flip-5-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-copywriting-hurdles-how-to-easily-avoid-with-chatgpts-help/"><u>Top Copywriting Hurdles: How to Easily Avoid With ChatGPT's Help</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-mac-microphone-tools-selecting-leading-recorders-for-2024/"><u>[New] Essential Mac Microphone Tools Selecting Leading Recorders for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-master-list-of-leading-free-screen-capture-programs/"><u>[Updated] 2024 Approved Master List of Leading Free Screen Capture Programs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-youtube-to-mpeg-format-change/"><u>[Updated] Mastering YouTube to MPEG Format Change</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-5-best-4k-monitors-for-color-grading/"><u>[Updated] Top 5 Best 4K Monitors for Color Grading</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/busting-the-bottleneck-managing-excessive-disk-load-on-windows-11-pcs/"><u>Busting the Bottleneck: Managing Excessive Disk Load on Windows 11 PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cant-launch-your-pc-into-windows-10-mode-here-are-quick-repair-tips/"><u>Can't Launch Your PC Into Windows 10 Mode? Here Are Quick Repair Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-tutorial-for-turning-on-adobe-flash-player-support-in-popular-web-browsers-such-as-chrome-firefox-opera-and-edge/"><u>Complete Tutorial for Turning On Adobe Flash Player Support in Popular Web Browsers Such as Chrome, Firefox, Opera, and Edge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-keeping-your-pcs-drivers-current-on-windows-1011-platforms/"><u>Comprehensive Guide: Keeping Your PC's Drivers Current on Windows 10/11 Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/create-a-zip-file-easily-for-windows-7-and-windows-10/"><u>Create a ZIP File Easily for Windows 7 & Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808153847-enhance-visual-experience-resetting-the-gpu-driver-across-various-windows-operating-systems/"><u>Enhance Visual Experience: Resetting the GPU Driver Across Various Windows Operating Systems.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gameplay-initiates-pc-reboot/"><u>Gameplay Initiates PC Reboot</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-x90s-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo X90S Phone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-the-essentials-of-adding-siri-speech-features-to-tiktok-sharing/"><u>In 2024, The Essentials of Adding Siri Speech Features to TikTok Sharing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-todays-drones-tomorrows-promise/"><u>Unveiling Today's Drones Tomorrow's Promise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808341447-usb-tethering-on-windows-11-easily/"><u>USB Tethering on Windows 11 Easily!</u></a></li>
 </ul></div>
 

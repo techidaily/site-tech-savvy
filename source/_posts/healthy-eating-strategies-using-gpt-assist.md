@@ -1,7 +1,7 @@
 ---
 title: Healthy Eating Strategies Using GPT-Assist
-date: 2025-01-02T11:15:34.133Z
-updated: 2025-01-05T23:09:04.668Z
+date: 2025-01-10T23:18:35.920Z
+updated: 2025-01-12T16:28:45.481Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,13 @@ thumbnail: https://thmb.techidaily.com/d5d5810dfb5162fe3838fd5a512ce840bf5c9c8c5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Know About ChatGPT Before You Start
 
  ChatGPT can indeed help you create a healthy meal plan. In fact, it can help you create anything you’d like, even an unhealthy meal plan. But before you use ChatGPT to help you build your meal plan, there are several factors of your meal plan you need to figure out first.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Meal Plan Preferences
 
@@ -57,12 +57,16 @@ thumbnail: https://thmb.techidaily.com/d5d5810dfb5162fe3838fd5a512ce840bf5c9c8c5
 ![ChatGPT AI chatbot online tool TDEE BMR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-tdee-bmr.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve decided on those particulars of your healthy meal plan, you can use ChatGPT to help with your basal metabolic rate (BMR) and total daily energy expenditure (TDEE)—if you don't already know. TDEE is an estimate of your total calories burned daily.
 
  BMR is the energy your body uses while at rest. Knowing these numbers is important to your particular goals. All you have to do is type "**How do I calculate my TDEE and BMR?**" into ChatGPT, and it automatically generates the needed equations and formulas.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use ChatGPT to Create a Healthy Meal Plan
 
@@ -98,11 +102,11 @@ thumbnail: https://thmb.techidaily.com/d5d5810dfb5162fe3838fd5a512ce840bf5c9c8c5
 
 ![SideChef meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-meal-plan-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![SideChef preferences mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-preferences.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -119,14 +123,10 @@ Close
 ![Eat this much meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-meal-plan.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Eat this much planner mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-planner.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -155,18 +155,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-guide-to-selecting-the-perfect-4k-camera-lens/"><u>[Updated] Guide to Selecting the Perfect 4K Camera Lens</u></a></li>
-<li><a href="https://fox-place.techidaily.com/5a6m5pw05pwz56il77ya5aac5l2v5oy95zue5yplusx5o2f55qe5yplusw5byp5py65zkm56yu6k6w5pys55s16isr56gs56kfic0g5q2l6aqk5oyh5y2x/"><u>完整教程：如何挽回受损的台式机和笔记本电脑硬碟 - 步骤指南</u></a></li>
-<li><a href="https://win-dash.techidaily.com/a-decision-must-cause-harm-to-someone/"><u>A Decision Must Cause Harm to Someone.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-watch-series-8-unveiled-detailed-look-at-features-launch-timeline-pricing-and-latest-updates/"><u>Apple Watch Series 8 Unveiled: Detailed Look at Features, Launch Timeline, Pricing & Latest Updates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-winning-cover-letters-using-chatgpt-techniques/"><u>Crafting Winning Cover Letters Using ChatGPT Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/eliminating-error-barriers-between-chatgpt-and-third-party-services/"><u>Eliminating Error Barriers Between ChatGPT & Third-Party Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-peer-relationships-with-assisted-conversation-tools/"><u>Enhancing Peer Relationships with Assisted Conversation Tools</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/enregistrer-des-photos-sur-iphone-a-laide-dun-hdd-extern-au-sous-windows-11-ou-10-guide-complet/"><u>Enregistrer Des Photos Sur iPhone À L'aide D'un HDD Extern Au Sous Windows 11 Ou 10 - Guide Complet</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-design-dope-dabs-with-giphy-tools/"><u>In 2024, Design Dope Dabs with Giphy Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/talk-titans-duo-comparing-gpt-and-bings-virtual-voices/"><u>Talk Titans Duo: Comparing GPT & Bing's Virtual Voices</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ideo-creators-guide-to-copyright-compliance-on-youtube/"><u>The Video Creator's Guide to Copyright Compliance on YouTube</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-steamdll-issues-methods-for-restoration-and-prevention/"><u>Troubleshooting Steam.dll Issues: Methods for Restoration and Prevention</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-claude-3-and-what-can-you-do-with-it/"><u>What Is Claude 3 and What Can You Do With It?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-keeping-content-copyright-compliant-with-instra-watermarking-for-2024/"><u>[New] Keeping Content Copyright-Compliant with Instra Watermarking for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-craft-stellar-channels-best-10-apps-for-artistic-banner-design/"><u>[Updated] 2024 Approved Craft Stellar Channels Best 10 Apps for Artistic Banner Design</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-the-next-big-thing-in-short-form-videos-wholl-take-the-lead-likes-or-tiktok/"><u>[Updated] 2024 Approved The Next Big Thing in Short Form Videos Who'll Take the Lead, Likes or TikTok?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-quickedit-videotool-for-2024/"><u>[Updated] QuickEdit VideoTool for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-comprehensive-guide-access-apple-device-manuals-technical-specifications-and-diy-repair-tips-centralized-source/"><u>1. Comprehensive Guide: Access Apple Device Manuals, Technical Specifications, and DIY Repair Tips - Centralized Source!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-4-simple-ways-to-reverse-a-youtube-playlist/"><u>2024 Approved 4 Simple Ways to Reverse a YouTube Playlist</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-apples-airpods-pro-released-still-worth-your-investment-a-comprehensive-analysis/"><u>Are Apple's AirPods Pro, Released , Still Worth Your Investment? A Comprehensive Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/confirming-genuine-dolby-atmos-experience-is-it-what-you-expect/"><u>Confirming Genuine Dolby Atmos Experience – Is It What You Expect?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-vs-gpt-35-5-key-differences-explained/"><u>GPT-4 Vs. GPT-3.5: 5 Key Differences Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-ensure-the-integrity-of-ios-ai-apps/"><u>How to Ensure the Integrity of iOS AI Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-showdown-unveiling-differences-between-iphone-16-pro-and-14-pro-worth-your-upgrade/"><u>IPhone Showdown : Unveiling Differences Between iPhone 16 Pro and 14 Pro - Worth Your Upgrade?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-cultivating-daily-mindfulness-practice/"><u>Mastering ChatGPT: Cultivating Daily Mindfulness Practice</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-troubleshooting-steps-when-vanguard-doesnt-initialize-in-valorant/"><u>Resolved: Troubleshooting Steps When Vanguard Doesn't Initialize in Valorant</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-top-tier-electronics-at-toms-review-sphere/"><u>The Ultimate Guide to Top-Tier Electronics at Tom's Review Sphere</u></a></li>
 </ul></div>
 

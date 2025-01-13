@@ -1,7 +1,7 @@
 ---
 title: "The Seventh Wave: AI's Role in Workforce Change"
-date: 2024-09-06T23:30:16.227Z
-updated: 2024-09-07T23:30:16.227Z
+date: 2025-01-06T18:02:24.403Z
+updated: 2025-01-12T22:19:18.465Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes The Seventh Wave: AI's Role in Workforce Change
 thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686720a91de941d4b85521ee34.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Seventh Wave: AI's Role in Workforce Change
 
  It's 2023, and generative AI tools are taking the world by storm. And while enthusiasts are excited to witness the rapid development of the technology and discover all the ways it can prove to be useful, many also fear that it will lead to mass unemployment.
@@ -30,20 +24,16 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
  Like most cases, the truth is probably somewhere in the middle. To help you know what to expect and better prepare yourself, we're listing down some of our top predictions on how generative AI will change the job market in the next few years.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. AI Prompt Engineering Will Be a Desired Skill
 
 ![](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-featured.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The rise of generative AI tools has given birth to a new skill: prompt engineering. The idea behind it is simple: since the responses you get from an AI tool are heavily dependent on how well you describe your query, it has become important to [learn how to write good prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/).
 
@@ -51,27 +41,19 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
 
  Ultimately, the goal here is to make the AI tool smarter, faster, more intuitive, more creative, more accurate, more conversational, and less likely to hallucinate when talking to a user. If you're interested, you can [start your career in prompt engineering](https://www.makeuseof.com/career-in-prompt-engineering/) today to be future-ready.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Fact-Checking Will Become a Major Career
 
 ![a magnifying glass on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/research-job-market.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  One of the biggest problems with text-based generative AI tools such as ChatGPT is inaccuracy. When you talk to ChatGPT, you instinctively trust what it is saying. However, keep in mind that these AI tools don't actually know if what they are saying is true and simply present information in a way that seems human-like and is therefore perceived as trustworthy.
 
  In other words, there is a clear gap that needs to be solved. To fill that gap is the job of fact-checkers. And as these AI tools become mainstream, we will require an increasing number of fact-checkers working behind the scenes to make sure the bots give reliable and accurate information and limit the spread of misinformation.
 
  To do this, we envision companies like Google and Microsoft hiring massive teams of fact-checkers in the near future to train their [AI-powered search engines](https://www.makeuseof.com/ways-ai-search-engines-change-internet/) like Bard and Bing Chat.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Productivity Will Skyrocket for White-Collar Workers
 
@@ -89,12 +71,6 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
 
 ![Two women looking at a computer and iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creative-activities-that-boost-your-mental-health.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Speaking of creativity, creative AI tools like DALL-E and Midjourney have taken the art world by storm. We won't get into how many artists are protesting against the use of such tools, as they deem it unfair to have them use their copyrighted artwork for reference.
 
  On a more practical note, creative AI tools will allow artists, graphic designers, interior designers, fashion designers, and product designers to work and come up with new ideas much faster. By having the AI create a rough first draft for you, it allows you the flexibility to quickly make tweaks and adjustments later on to churn out original content faster.
@@ -118,11 +94,9 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
 ![A clock and a calendar with stationery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Reminders-Notion-Feature-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Given how generative AI will allow many of us to work much faster than before, it's fair to assume that some jobs will see a decline in the number of hours required, leading to shorter workdays.
 
  Since [human capital will become less necessary](https://www.makeuseof.com/types-of-jobs-risk-ai/) going forward, companies will increasingly embrace automation in white-collar jobs. But since some level of human intervention will still be required, employees in some industries will be asked to work fewer hours.
@@ -132,33 +106,13 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
 ![Feature cover of a happy construction worker behind his desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/feature-cover-of-a-happy-construction-worker-behind-his-desk.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Blue-collar jobs such as farmer, plumber, electrician, mechanic, construction worker, and more are likely to become far more lucrative than ever before in history—perhaps even more than some white-collar jobs. Why? Because unlike white-collar work, many blue-collar jobs require manual labor and cannot be easily automated.
 
  Generative AI can easily learn the patterns of a desk job and produce useful results, but all of those capabilities are limited to software. This is not to say that AI isn't used in some blue-collar jobs, as it is, but software alone can't fix a leaky toilet, plow land, build a house, perform pest control, remove dents from your car, or repair a broken air conditioner.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Adapt and Work With AI
 
  The trends we've listed above may not happen instantly, but given the rate at which generative AI is improving, it would be foolish to think that it won't affect the job market and your place in it.
@@ -169,14 +123,11 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
 
  Like most cases, the truth is probably somewhere in the middle. To help you know what to expect and better prepare yourself, we're listing down some of our top predictions on how generative AI will change the job market in the next few years.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -185,4 +136,22 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-untangling-veiled-feedback-mechanisms-in-video-sites/"><u>[New] Untangling Veiled Feedback Mechanisms in Video Sites</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-best-10-free-recording-apps-for-slack-chats-for-2024/"><u>[Updated] Best 10 Free Recording Apps for Slack Chats for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1-user-terms-and-conditions-crypto-balance-verification-app-by-yl-computing/"><u>1. User Terms and Conditions: Crypto Balance Verification App by YL Computing</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abbyy-permet-a-journal-de-la-next-gen-dutiliser-finereader-pour-partager-des-infos-precise-et-mises-a-jour-avec-les-visiteurs/"><u>ABBYY Permet À Journal De La Next-Gen D'Utiliser FineReader Pour Partager Des Infos Précise Et Mises À Jour Avec Les Visiteurs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-unveils-new-media-player-apps-on-windows-as-itunes-bids-farewell-insights-from-zdnet/"><u>Apple Unveils New Media Player Apps on Windows as iTunes Bids Farewell - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-place.techidaily.com/como-fazer-seu-proprio-disco-de-instalacao-bootable-para-windows-pre-installed-environment-linux-ou-iso-formatos-usbdvd/"><u>Como Fazer Seu Próprio Disco De Instalação Bootable Para Windows Pre-Installed Environment, Linux Ou ISO Formatos USB/DVD</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excel-dominates-data-handling-where-gpt-falls-short/"><u>Excel Dominates Data Handling, Where GPT Falls Short</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-nokia-c300-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Nokia C300? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p40-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P40 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-16-upgrade-apple-enhances-camera-with-cutting-edge-visual-recognition-similar-to-google-lens-tech-news-from-zdnet/"><u>IPhone 16 Upgrade: Apple Enhances Camera with Cutting-Edge Visual Recognition Similar to Google Lens – Tech News From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-online-spaces-using-gpts-essential-techniques/"><u>Pioneering Online Spaces Using GPT's Essential Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stepping-up-your-game-gpt-3-and-openai-tools/"><u>Stepping Up Your Game: GPT-3 and OpenAI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-revolutionary-iphone-16-pro-innovations-that-tech-lovers-cant-wait-to-try-insights-by-zdnet/"><u>Top 5 Revolutionary iPhone 16 Pro Innovations That Tech Lovers Can't Wait To Try - Insights by ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+</ul></div>
 

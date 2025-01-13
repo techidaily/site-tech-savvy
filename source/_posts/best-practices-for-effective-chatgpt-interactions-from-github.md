@@ -1,7 +1,7 @@
 ---
 title: Best Practices for Effective ChatGPT Interactions From Github
-date: 2024-12-30T20:53:07.208Z
-updated: 2025-01-06T04:16:52.057Z
+date: 2025-01-05T19:03:36.661Z
+updated: 2025-01-12T17:52:38.487Z
 tags:
   - chatgpt
   - open-ai
@@ -44,17 +44,9 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
 ![ChatGPT Translating Tagalog Text to English](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-tagalog-to-english-translation.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  OpenAI trained ChatGPT on datasets in different languages. It can translate thousands of foreign words into English and vice versa within seconds. You could even ask the platform to correct spelling errors.
 
  As for accuracy, [ChatGPT holds its own against Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/). It pulls relevant information from its datasets to ensure the translated text doesn't lose meaning—literal translations are confusing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Seek Medical Information
 
@@ -64,9 +56,17 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
  Just note that [ChatGPT carries limited health information](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/); only medical professionals should administer treatment options. Remember, self-diagnosis is never beneficial. As with other online medical resources, only use ChatGPT as a learning tool to research various health issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Write Code Snippets
 
 ![ChatGPT Writing Codes as a Frontend Developer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-as-frontend-developer-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Programming has a steep learning curve. You have to master debugging strategies, coding languages, and functionality implementation. New programmers might find the process overwhelming.
 
@@ -82,18 +82,26 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
 ![Asking ChatGPT to Write Specific AI Art Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-specific-ai-art-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're lost for words, generate prompts with ChatGPT. It can suggest precise, vivid alternatives. You'll find it quicker and easier than running every word in your prompt through a thesaurus.
 
 ## 6\. Explain Complex Algorithms
 
 ![ChatGPT Explaining Algorithm Binary Search Simple Way](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-explaining-algorithms.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  New programmers can use ChatGPT to explain algorithms. It simplifies complex, challenging topics, making them easy to understand for beginners. The platform can also write sample code snippets.
 
 ![ChatGPT Writing Sample Code for Binary Search Algorithm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-sample-code-for-algorithm.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that this ChatGPT prompt doesn't replace educational resources on programming. Instead, it acts as an introduction. With thousands of codes available for programmers, some might not know where to start their research. This is where ChatGPT can play a crucial role.
@@ -106,11 +114,11 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
 ![The Last Part of an AI-Generated Contract](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-finishing-legal-contracts.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Although ChatGPT can draw up entire contracts, you should still run them by legal professionals. Arrangements vary on a case-by-case basis. You'll likely jeopardize your party if you use AI-generated contracts as is.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Portray Fictional Characters
 
@@ -120,15 +128,15 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
 ![ChatGPT Answering Queries as Ash from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-roleplaying-ash-from-pokemon.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The prompt generally helps writers make realistic dialogues. But what makes it interesting is that it bypasses restrictions by portraying immoral characters.
 
  In the below photo, we asked ChatGPT to imitate Tomie, an evil, manipulative character from the manga Tomie.
 
 ![ChatGPT Answering as Tomie from Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-as-tomie-from-tomie.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You'll see that "Tomie" doesn't hesitate to answer restricted questions.
 
@@ -144,10 +152,6 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
  Double-check the output later. Your top priority should be to ensure the safety and survival of everyone involved in the incident.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10\. Refactor Code
 
 ![Requesting ChatGPT to Refractor Code Samples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-request-to-refractor-code.jpg)
@@ -155,6 +159,10 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
  ChatGPT helps simplify poorly written code. It organizes functions, spots duplicates, and suggests simpler alternatives, making programs more manageable.
 
 ![ChatGPT Providing Clean and Refractored Sample Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-refractoring-dirty-sample-code.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Just make sure you test the restructured codes.
 
@@ -184,6 +192,10 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
 ![Requesting ChatGPT to Act as Chemical Reaction Vessel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-as-chemical-reaction-vessel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT can simulate chemical reaction vessels. It demonstrates how different properties and substances change when you mix them. For accuracy, the residue from previous mixes also alters results.
 
 ![ChatGPT Providing Sample Chemical Reactions After Mixing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-chemical-formula-reactions.jpg)
@@ -212,13 +224,13 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
 ![ChatGPT Analyzing The Old Poem Japanese Haiku](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-literary-analysis.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And for a more relevant take, it also considers the historical and cultural context of the poem.
 
 ![ChatGPT Continuing Literary Analysis of The Old Pond](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-literary-analysis-continuation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 16\. Friendly Emotional Support
 
@@ -244,19 +256,11 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
 ![ChatGPT Creating Key Arguments and Counterarguments for AI Environmental Impact](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-key-arguments-and-counterarguments.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 18\. Playlist Generator
 
  If you feel too lazy to make a playlist, ask ChatGPT for music recommendations. It can analyze your reference track and provide songs with a similar beat, theme, and genre. Take this sample playlist as an example.
 
 ![ChatGPT Making Pop Playlist Based on Dalla Dalla Itzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-making-playlist.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Free ChatGPT users can only reference songs released before the platform's knowledge cut-off date: September 2021\. For a more sophisticated playlist generator, consider [Spotify's AI DJ](https://www.makeuseof.com/how-to-access-spotifys-ai-dj/).
 
@@ -269,10 +273,6 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
  You can customize this prompt's theme, genre, and message based on your style. Strive to write explicit, detailed instructions for more unique results.
 
  You can't publish AI-generated lyrics as is. Chatbots scrape data from third-party sources—its output might contain copyright-protected lyrics. Only take inspiration from ChatGPT's suggestions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 20\. Title Generator
 
@@ -307,20 +307,18 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-mastering-youtube-traffic-for-new-content-creators/"><u>[New] 2024 Approved Mastering YouTube Traffic for New Content Creators</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-exciting-possibilities-the-best-12-clickers-for-pc-gamers-for-2024/"><u>[New] Exciting Possibilities The Best 12 Clickers for PC Gamers for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-maximizing-your-potential-is-a-joined-force-right-for-you/"><u>[Updated] Maximizing Your Potential Is a Joined Force Right for You?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-jestjunction-tap-into-the-world-of-meme-magic/"><u>2024 Approved JestJunction Tap Into the World of Meme Magic</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-ultimate-list-of-free-video-meeting-tools-for-professionals-and-educators/"><u>2024 Approved The Ultimate List of Free Video Meeting Tools for Professionals & Educators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-reasons-gpt-lacks-specialized-cryptanalysis-skills/"><u>5 Reasons GPT Lacks Specialized Cryptanalysis Skills</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-ai-powered-creativity-and-industry-applications/"><u>A Deep Dive Into AI-Powered Creativity & Industry Applications</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-poco-x5-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Poco X5 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721415915142-dont-install-macchatgpt-uncovered-risks/"><u>Don't Install MacChatGPT: Uncovered Risks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721424507679-explore-the-future-of-web-search-bings-ai-on-android-and-ios/"><u>Explore the Future of Web Search: Bing's AI on Android & iOS.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721406916382-no-subscriptions-for-gpt-4-however-select-plus-membership-retains-its-unique-6-features/"><u>No Subscriptions for GPT-4: However, Select Plus Membership Retains Its Unique 6 Features</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revive-your-internet-connection-the-ultimate-guide-to-mac-network-resets/"><u>Revive Your Internet Connection: The Ultimate Guide to Mac Network Resets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721433871004-seamless-search-technology-meets-you-bings-ai-powered-android-and-ios/"><u>Seamless Search Technology Meets You - Bing's AI-Powered Android & iOS.</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/steps-to-set-up-commenting-in-windows-10-on-solid-state-drives-ssd/"><u>Steps to Set Up Commenting in Windows 10 on Solid State Drives (SSD)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721427783456-your-personal-gpt-buddy-talk-to-it/"><u>Your Personal GPT Buddy – Talk to It</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-digital-dominance-10-screen-capture-software-ranked-for-2024/"><u>[New] Digital Dominance #10 Screen Capture Software Ranked for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rom-watcher-to-writer-how-to-set-up-a-sports-channel-on-macos-for-2024/"><u>[New] From Watcher to Writer How to Set Up a Sports Channel on macOS for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-engaging-audiences-with-smart-instavideo-marketing-tactics-for-2024/"><u>[Updated] Engaging Audiences with Smart InstaVideo Marketing Tactics for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-richest-resource-of-zero-price-ae-templates/"><u>[Updated] In 2024, The Richest Resource of Zero-Price AE Templates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-gpt-app-addons-reliable-for-safe-use/"><u>Are GPT App Addons Reliable for Safe Use?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-androids-typing-efficiency-with-bing-ai-chat-functionality/"><u>Boost Your Android's Typing Efficiency with Bing AI Chat Functionality</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-personalized-ais-crafting-your-own-chatgpt/"><u>Pioneering Personalized AIs: Crafting Your Own ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sculpt-individualized-language-models/"><u>Sculpt Individualized Language Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-gateway-to-gpt-4-opening-the-door-for-everyone/"><u>The Gateway to GPT-4: Opening the Door for Everyone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-5-best-video-editing-software-picks/"><u>The Ultimate List: 5 Best Video Editing Software Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/why-excel-fails-to-open-in-windows-notepad/"><u>Why Excel Fails to Open in Windows Notepad?</u></a></li>
 </ul></div>
 

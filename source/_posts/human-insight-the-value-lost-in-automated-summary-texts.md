@@ -1,7 +1,7 @@
 ---
 title: "Human Insight: The Value Lost in Automated Summary Texts"
-date: 2025-01-02T07:43:16.196Z
-updated: 2025-01-06T05:55:51.869Z
+date: 2025-01-11T18:13:29.233Z
+updated: 2025-01-13T00:37:29.219Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
 
  There are limits to what ChatGPT knows. And its programming forces it to deliver what you ask for, even if the result is wrong. This means ChatGPT makes mistakes, and moreover, there are some common mistakes it makes, especially when it’s summarizing information and you’re not paying attention.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ChatGPT Can Ignore or Misunderstand Your Prompt
 
  If you give the chatbot lots of data to sort through, even a complex prompt, it’s likely to deviate from your instructions and follow its own interpretation of them.
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
 ![ChatGPT Misintepreting a Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-misintepreting-a-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The chatbot merged both answers into one paragraph. A follow-up prompt with clearer instructions asked it to dip into its knowledge pool, too.
@@ -67,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
 ![ChatGPT Breaking Down Information as Instructed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-breaking-down-information-as-instructed.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This is why you should keep your instructions precise, provide context when necessary, and keep an eye on ChatGPT’s results. If you flag up any mistake immediately, the chatbot can produce something more accurate.
@@ -82,15 +78,15 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
 
 ![ChatGPT Summarizing Holiday Destinations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-summarizing-holiday-destinations.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When asked if it omitted details, it admitted that, yes, it left certain information out, such as specific attractions and transportation options. Conciseness was its goal.
 
 ![ChatGPT Omitting Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-omitting-information.jpg)
 
  If left to its own devices, there’s no guarantee that ChatGPT will use the details you expect. So, plan and phrase your prompts carefully to ensure the chatbot’s summary is spot on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Can Use Wrong or False Alternatives
 
@@ -117,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
  Most of the explanations were slightly wrong or lacked specifics about what posters must do. The description of the UMG Music trend was especially misleading. The trend changed after the catalogue’s removal from TikTok, and users now post videos to criticize, not support UMG, something which ChatGPT doesn’t know.
 
 ![ChatGPT Explaining a TikTok Trend Wrong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-explaining-a-tiktok-trend-wrong.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The best solution is to not blindly trust AI chatbots with your text. Even if ChatGPT compiled information you provided yourself, make sure you edit everything it produces, check its descriptions and claims, and make a note of any facts it gets wrong. Then, you’ll know how to structure your prompts for the best results.
 
@@ -151,21 +151,17 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/dding-clear-timestamps-to-your-youtube-channels-live-streams/"><u>[New] Adding Clear Timestamps to Your YouTube Channel's Live Streams</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-aligning-content-quality-with-instagrams-user-base-for-2024/"><u>[New] Aligning Content Quality with Instagram's User Base for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-painting-with-light-advanced-color-techniques/"><u>2024 Approved Painting with Light Advanced Color Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/720p1080p/"><u>動画品質向上ガイド - 720Pから1080pへの変換法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/babel-brigade-choosing-the-ultimate-translation-tool/"><u>Babel Brigade: Choosing the Ultimate Translation Tool</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-fear-why-modern-educators-must-embrace-ai-8-insights/"><u>Beyond Fear: Why Modern Educators Must Embrace AI (8 Insights)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dreams-and-data-how-ai-redefines-fantasy/"><u>Dreams and Data: How AI Redefines Fantasy</u></a></li>
-<li><a href="https://network-issues.techidaily.com/end-of-nvidiaintel-switchable-graphics-confusion-on-windows-10/"><u>End of NVIDIA/Intel Switchable Graphics Confusion on Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-the-iphone-16-outshines-previous-versions-with-enhanced-ease-of-repair-tech-news/"><u>How the iPhone 16 Outshines Previous Versions with Enhanced Ease of Repair | Tech News</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-motorola-razr-40-ultra-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Motorola Razr 40 Ultra Location | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-windows-movie-maker-for-animated-clips-for-2024/"><u>Mastering Windows Movie Maker for Animated Clips for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mp3aacogg-wma-movavi/"><u>MP3/AAC/OGG 等多樣文件型式直接在線上轉換成 WMA - 簡便電子影音編輯器 Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-point-of-sale-software-excluding-gpt/"><u>The Ultimate Guide to Point-of-Sale Software, Excluding GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-dialogue-titans-clash-gemini-ultimate-vs-plus-gpt/"><u>Top Dialogue Titans Clash: Gemini Ultimate V/S Plus-GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-mac-maintenance-software-of-2022-expertly-reviewed-and-recommended-options-from-zdnet/"><u>Top Rated Mac Maintenance Software of 2022: Expertly Reviewed and Recommended Options From ZDNet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-guide-to-bordering-instagram-footage/"><u>[New] Step-by-Step Guide to Bordering Instagram Footage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-2024-breakdown-of-powerdirectors-features/"><u>[Updated] The Complete 2024 Breakdown of PowerDirector's Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-heirloom-next-level-ai-conversations/"><u>ChatGPT's Heirloom: Next-Level AI Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-genre-to-plot-gpts-top-9-writing-guidance-for-books/"><u>From Genre to Plot: GPT's Top 9 Writing Guidance for Books</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-pictures-to-possibilities-8-ways-chatgpt-shines-visually/"><u>From Pictures to Possibilities: 8 Ways ChatGPT Shines Visually</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-malfunctioning-laptop-keyboard-on-pc-tips-for-win7win8win10-users/"><u>How to Repair a Malfunctioning Laptop Keyboard on PC: Tips for Win7/Win8/Win10 Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-art-of-lights-for-youtube-vlogging/"><u>In 2024, The Art of Lights for YouTube Vlogging</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/managing-who-can-do-what-on-your-pc-with-windows-advanced-access-control-configuration-by-yl-software-experts/"><u>Managing Who Can Do What on Your PC with Windows - Advanced Access Control Configuration by YL Software Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-4-immediate-chatgpt-integration-tips/"><u>Mastering GPT-4: Immediate ChatGPT Integration Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/new-arm-compatible-startup-the-start11-alternative-launches/"><u>New Arm-Compatible Startup: The Start11 Alternative Launches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-apis-explained-actions-and-applications/"><u>OpenAI APIs Explained: Actions and Applications</u></a></li>
 </ul></div>
 

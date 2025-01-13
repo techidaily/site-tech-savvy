@@ -1,7 +1,7 @@
 ---
 title: Sifting Through Scam Rumors About TruthCoin
-date: 2024-12-30T04:32:26.267Z
-updated: 2025-01-05T21:01:13.542Z
+date: 2025-01-10T23:11:39.347Z
+updated: 2025-01-12T18:50:58.522Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is TruthGPT Coin? Why Are There Two TruthGPT Coins?
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc1
 ![truthgpt home page-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/truthgpt-home-page-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The first project claims to be powered by an AI model developed in-house called Elon Musk AI. The TruthGPT website is full of images of Musk, poor-quality digital images, fake endorsements, and more (along with other prominent crypto figures, such as Binance's Changpeng Zhao). After signing up, you can ask the "AI" questions, but the responses are extremely slow and look to me to be hand-written in places. You'll also find fake accounts for big names in crypto, like Elon Musk, Satoshi Nakamoto, and Michael Saylor.
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc1
 
 ![truthgpt example account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/truthgpt-example-account.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  The project whitepaper is vague, contains no information on tokenomics, doesn't give any information on who is running the project, and raises [several other scam project red flags](https://www.makeuseof.com/biggest-signs-scam-token/).
@@ -55,13 +59,13 @@ Close
 ![second truthgpt coin website home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/second-truthgpt-coin-website-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, the second TruthGPT Coin has linked itself to [Elon Musk's TruthGPT AI project](https://www.makeuseof.com/what-is-truthgpt/) to gain a semblance of legitimacy, though it notes that TruthGPT Coin is a community effort and isn't affiliated with Musk. It doesn't feature any Musk imagery but talks about him throughout the site and claims to use artificial intelligence to "seek out and evaluate information in order to arrive at the most accurate and reliable understanding of the world."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is TruthGPT Coin a Scam?
@@ -77,10 +81,6 @@ Close
  According to [Decrypt](https://decrypt.co/138785/texas-cease-and-desist-ai-scams-fake-elon-musk-truthgpt-coin), other state regulators are backing Texas' cease and desist order, including the Alabama Securities Commission, the Montana State Auditor, the Kentucky Department of Financial Institutions, and the New Jersey Securities Bureau.
 
  The TruthGPT Coin entry on [CoinMarketCap](https://coinmarketcap.com/currencies/truthgpt/) also suggests something fishy is going on. It currently displays a banner informing would-be users that, "According to [Gopluslabs](https://gopluslabs.io/token-security/1/0xaf75d880b3128981d1fed3292fc02e3fb37acd53), the smart contract of the following asset can be modified by the contract creator (for example: disable selling, change fees, mint new tokens, or transfer tokens). Please exercise caution before taking any action and DYOR."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Watch Out for Scam Tokens Involving ChatGPT, AI, and Elon Musk
 
@@ -109,24 +109,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-guide-about-voice-memo/"><u>[Updated] 2024 Approved Ultimate Guide About Voice Memo</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-ai-for-mental-support-and-resilience-building/"><u>Assessing AI for Mental Support and Resilience Building</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/connect-and-learn-new-android-app-chatgpt/"><u>Connect and Learn: New Android App, ChatGPT!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-advice-on-enhancing-vhs-images-using-technology/"><u>Expert Advice on Enhancing VHS Images Using Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-corsair-rmx-power-supply-units-featuring-unique-side-connector-modular-designs/"><u>Exploring Corsair RMx Power Supply Units Featuring Unique Side-Connector Modular Designs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-12-pro-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme 12 Pro 5G To Phone | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/human-insight-triumphs-outsmarting-algorithmic-writing-tools/"><u>Human Insight Triumphs: Outsmarting Algorithmic Writing Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ifying-10-quick-growth-youtube-blogs-that-encourage/"><u>Identifying 10 Quick-Growth YouTube Blogs that Encourage</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-digital-talk-initiator/"><u>In 2024, Ideal Digital Talk Initiator</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-strategies-and-costs-promoting-videos-effectively/"><u>In 2024, Strategies and Costs Promoting Videos Effectively</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-persuasive-business-proposals/"><u>Leveraging ChatGPT for Persuasive Business Proposals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-your-workflows-10-essential-chatgpt-integrations-in-vs-code/"><u>Optimize Your Workflows: 10 Essential ChatGPT Integrations in VS Code</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/personalize-gpts-dialogue-power/"><u>Personalize GPT's Dialogue Power</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-download-effortless-installation-of-the-lexar-usb-drivers/"><u>Quick Download: Effortless Installation of the Lexar USB Drivers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sports-enthusiasts-guide-to-gpt-3-efficiency/"><u>Sports Enthusiasts' Guide to GPT-3 Efficiency</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-process-behind-gpt4all-functioning/"><u>The Process Behind GPT4All Functioning</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-idt-hd-audio-codec-issues-on-windows-11-systems/"><u>Troubleshooting and Fixing IDT HD Audio Codec Issues on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unearth-chatgpts-most-engaging-game-collection/"><u>Unearth ChatGPT's Most Engaging Game Collection</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-optimal-gaming-performance-on-nvidias-gtx-1660-ti-with-driver-upgrades/"><u>Unlock Optimal Gaming Performance on NVIDIA's GTX 1660 Ti with Driver Upgrades</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/acking-the-process-instant-deletion-on-youtube-for-2024/"><u>[New] Hacking the Process Instant Deletion on Youtube for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-conquer-youtubes-realms-a-step-by-step-video-uploading-guidebook-for-2024/"><u>[Updated] Conquer YouTube's Realms A Step-by-Step Video Uploading Guidebook for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-harnessing-potential-how-to-excel-on-spotify-ads-for-2024/"><u>[Updated] Harnessing Potential How to Excel on Spotify Ads for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-how-to-record-your-iphone-or-ipad-screen-for-youtube-for-2024/"><u>[Updated] How to Record Your iPhone or iPad Screen for YouTube for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-honor-play-8t-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Honor Play 8T FRP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/banishing-email-overload-effortlessly-discover-the-one-trick-solution-for-a-neat-inbox/"><u>Banishing Email Overload Effortlessly: Discover the One-Trick Solution for a Neat Inbox</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-codegpt-prospects-in-automated-programming/"><u>Decoding CodeGPT: Prospects in Automated Programming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-future-of-interactive-ai-platforms-in-europe-the-eus-ai-act-and-its-impact-on-gpt-like-systems/"><u>Decoding the Future of Interactive AI Platforms in Europe - The EU's AI Act and Its Impact on GPT-Like Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-latest-and-greatest-unveiling-ios-18s-best-new-additions-spotlight/"><u>Discover the Latest and Greatest: Unveiling iOS 18'S Best New Additions - Spotlight</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/find-out-the-lost-code-for-your-vehicles-in-car-entertainment-unit-easily/"><u>Find Out the Lost Code for Your Vehicle's In-Car Entertainment Unit Easily!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-adding-an-extra-monitor-on-your-pc-running-windows-7-10/"><u>Guide to Adding an Extra Monitor on Your PC Running Windows 7-10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oppo-find-x7-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Oppo Find X7 Pattern Lock Screen</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-s23-tactical-edition-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy S23 Tactical Edition FRP Locks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-quizzical-quests-top-trivia-video-platforms/"><u>In 2024, Quizzical Quests Top Trivia Video Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insight-into-massive-computational-linguistics/"><u>Insight Into Massive Computational Linguistics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tackling-iphone-irritations-head-on-essential-changes-for-a-seamless-apple-experience/"><u>Tackling iPhone Irritations Head-On: Essential Changes for a Seamless Apple Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tutorial-activate-gpts-beta-browser-and-plugin-functionality/"><u>Tutorial: Activate GPT's Beta Browser & Plugin Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-iphone-se-cases-in-2e-the-best-protective-covers-for-your-device-gizmodo/"><u>Ultimate Guide to iPhone SE Cases in 2E!: The Best Protective Covers for Your Device | Gizmodo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-the-full-potential-of-your-chatbot-masterful-prompt-design/"><u>Unleash The Full Potential Of Your ChatBot: Masterful Prompt Design</u></a></li>
 </ul></div>
 

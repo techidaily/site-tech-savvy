@@ -1,7 +1,7 @@
 ---
 title: Decoding the Artifice in AI Text Generation
-date: 2024-09-06T23:30:20.535Z
-updated: 2024-09-07T23:30:20.535Z
+date: 2025-01-11T19:58:21.827Z
+updated: 2025-01-12T20:05:34.923Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Decoding the Artifice in AI Text Generation
 thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497dd6ac900e046b6637a6b7e0e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Decoding the Artifice in AI Text Generation
 
  AI programs are here, and one of their missions is to take over the writing space.Large language models like ChatGPT are some of the latest-to-arrive AI programs that can generate a variety of texts. After consuming billions of words from the internet, including sources like websites, articles, and Reddit discussions, the language models can now produce human-like text.Individuals and companies are already using AI text generators to churn out thematically relevant essays, press releases, and even songs! But there are risks.
@@ -31,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
 
  From the risk of misinformation to losing your brand voice, there are many dangers associated with using AI to produce content. Here are the top five dangers of using AI to generate written content.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Misinformation
 
  Generating text using AI is easy. You only need to write a prompt, and the AI text generator will add content it believes could logically follow.
@@ -41,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
 
  Sharing incorrect information can be particularly detrimental when it comes to topics that have the potential to negatively impact someone's health or finances.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Quality Concerns and Possible Plagiarism
 
  AI-based content generators are essentially web scrapers that can learn from data fed to them and generate new ideas or better-quality content. But they, now and then, fall short of this goal.
@@ -49,11 +51,19 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
 
  Another drawback of using AI to write is the increased likelihood of unintentional plagiarism.[The Guardian](https://www.theguardian.com/us-news/2023/jan/06/new-york-city-schools-ban-ai-chatbot-chatgpt) reports that one of the reasons schools in New York City banned ChatGPT is the risk of students using it to write assignments and passing them off as their work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Algorithms Devaluing Your Content
 
  Publishers who use AI to write risk having their site penalized by search engines. According to Google, sites with lots of unhelpful content are less likely to rank well in Search. Google states that its team is constantly working to ensure users see more original, helpful content written by people, for people, in search results.
 
  As previously stated, AI-written text may be incoherent and contain factual inconsistencies, making it unhelpful. This means if your site relied on AI content and took a hit after [Google's helpful content update](https://www.makeuseof.com/tips-to-write-for-google-helpful-content-update/) , it could be because the search engine found the content unhelpful or lacking in accuracy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Lack of Original Ideas, Creativity, and Personalization
 
@@ -75,22 +85,10 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
 
  Do you want to know if a human or AI wrote what you're reading? Being able to spot AI-generated text can help you evaluate its credibility. Here are a few ways to spot AI-generated text.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Look for Repetition of Words and Phrases
 
 ![Some text illustrating repetition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ai-repetition.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Even though GPT-3 can generate coherent sentences, AI writing tools frequently appear to have difficulty producing long-form, high-quality content.
 
  Many users assert that after generating a few high-quality paragraphs on a specific subject, some AI text generators will either start to repeat themselves or spew irrelevant sentences. This is due to the AI tool adding a series of what it thinks are relevant sentences to reach the target word count.
@@ -99,56 +97,34 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
 
  Also, if an article seems to follow a specific pattern or formula, it may have been generated by AI. This kind of writing often makes content predictable and mind-numbing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Search for Unnatural Transitions and Errors
 
 ![Gibberish text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/gibberish.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  AI tools may be incapable of correctly interpreting the context of a piece of writing. This could lead to content that lacks the coherence and logical flow of human-written content.
 
  AI-generated content is sometimes characterized by grammatical mistakes, punctuation errors, and even paragraphs with a disjointed structure.
 
  Unsurprisingly, though, excellent grammar can be a sign of machine-generated text. This is because grammar is rule-based; AI systems are usually better than people at following logic.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Examine Any Fact-Heavy, Dry Texts
 
 ![Some factual, dry texts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bald-eagle-facts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  An AI writing tool can quickly generate facts and simple sentences but not in-depth commentaries. So if you're reading an article and notice it's heavy on facts and light on opinions, it's likely written by a bot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Check for the Absence of Emotions or Personal Experiences
 
  One obvious problem with current AI writing tools is their inability to display human emotions and subjective experiences. These things are hard to teach because there are no logical steps explaining how to feel or perceive the world. If you notice an article has a flat tone or emotions that feel forced, a bot may have written it.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Use an AI Content Detector Tool
 
  A common way of determining whether you're reading AI-generated text is using software that examines text components like readability, sentence length, and word repetition. Popular AI content detector tools include GPT-2 Output Detector, GLTR (Giant Language Model Test Room), and GPTZero.
@@ -171,8 +147,6 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +154,20 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-building-a-youtube-subscription-direct-link/"><u>[New] 2024 Approved Building a YouTube Subscription Direct Link</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-navigating-the-art-of-online-photo-trimming-for-2024/"><u>[New] Navigating the Art of Online Photo Trimming for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-visionupgrade-pro-universal-platform-edition-for-2024/"><u>[New] VisionUpgrade Pro – Universal Platform Edition for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-budget-friendly-top-7-tiktok-edits-for-macos/"><u>[Updated] 2024 Approved Budget-Friendly Top 7 TikTok Edits for MacOS</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-ultimate-list-of-ae-title-enhancement-methods/"><u>2024 Approved Ultimate List of AE Title Enhancement Methods</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/1728494830735-macaomei-backupper/"><u>详解在mac上使用AOMEI Backupper进行有效的镜像同步技巧</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beginning-moment-try-out-8-personal-gpt-creations/"><u>Beginning Moment: Try Out 8 Personal GPT Creations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cautionary-voice-the-dangers-of-chatgpt-data-exchanges/"><u>Cautionary Voice: The Dangers of ChatGPT Data Exchanges</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/esrs-latest-innovation-in-fast-charging-technology-with-cryoboost-for-iphone-n-series-learn-how-it-beats-heat-and-speed-limitations-on-zdnet/"><u>ESR's Latest Innovation in Fast Charging Technology with CryoBoost for iPhone N-Series | Learn How It Beats Heat and Speed Limitations on ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-the-marvel-universe-firsthand-with-apple-vision-pro-discover-more-on-may-30/"><u>Experience the Marvel Universe Firsthand with Apple Vision Pro: Discover More on May 30</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-streamline-your-seminars-economical-tech-tips/"><u>In 2024, Streamline Your Seminars Economical Tech Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-bright-outlook-for-apples-upcoming-product-a-firsthand-account-from-pre-ordering-the-vision-pro-an-analysis/"><u>The Bright Outlook for Apple's Upcoming Product: A Firsthand Account From Pre-Ordering the Vision Pro - An Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-destinations-for-purchasing-mobile-devices/"><u>Top Destinations for Purchasing Mobile Devices</u></a></li>
+</ul></div>
 

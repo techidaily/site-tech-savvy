@@ -1,7 +1,7 @@
 ---
 title: "Guiding Kids Through AI Dialogues Safely: The Top 5 Advice"
-date: 2024-09-06T23:30:23.537Z
-updated: 2024-09-07T23:30:23.537Z
+date: 2025-01-09T21:57:50.667Z
+updated: 2025-01-12T16:38:14.973Z
 tags:
   - chatgpt
   - open-ai
@@ -33,12 +33,6 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 
  There are risks, yes, but with adult supervision and OpenAI's safety measures, kids should be able to use ChatGPT safely.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 Practical Ways Kids Can Use ChatGPT
 
  If you're concerned that your kids might misuse ChatGPT, here are some useful ways to encourage them to use the technology.
@@ -49,12 +43,6 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 
  ChatGPT can help children rapidly pick up and learn dozens of languages, even those not available in popular language learning apps like Duolingo and Memrise.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Asks Hard and Awkward Questions
 
  Kids are big on asking questions. Childhood is typically a period of inquisitiveness and curiosity. So while parents may run out of creative replies for the unique questions that their kids may have, ChatGPT is purpose-built for dealing with all sorts of questions.
@@ -62,12 +50,14 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 ![Explanation of Why Grandma died by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/why-grandma-died.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For all those "Why did Grandma die? What is the purpose of life? Why was I born?" deep and hard-to-answer questions, ChatGPT can save you the awkward silence by producing creative replies in seconds.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Help With School Work
 
@@ -76,11 +66,9 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 ![ChatGPT can help kids with schoolwork](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-can-help-kids-with-schoolwork.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Playing Games
 
  Video games are cool, but ChatGPT represents an opportunity to offer your kids an innovative way to play entertaining games while still learning. Think of any word-based games that can be played by providing typed replies and prompt ChatGPT to start the game.
@@ -91,26 +79,18 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 
 ![kid-freindly games to learn new words](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/kid-freindly-games-to-learn-new-words.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Stories and Kid-Friendly Literature
 
  Younger kids enjoy a good bedtime story, and ChatGPT has an endless supply. But it's not just bedtime stories. You can get ChatGPT to come up with any story to teach any kind of morals. ChatGPT can also generate kid-friendly literature for any niche for kids. All you need is a simple prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Help Kids Use ChatGPT Safely
 
  If you let kids use ChatGPT, being proactive about their safety is important. Here are some practical ways to ensure kids use ChatGPT safely.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Avoid Sharing Personal Information
 
  Kids are more likely to share personal information during their interaction with ChatGPT. When using the AI chatbot, it is important to educate them to avoid sharing data like their full name, home address, or any personally identifying information.
@@ -122,11 +102,9 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
  A jailbroken instance of ChatGPT can produce unexpected replies, including replies encouraging kids to engage in harmful practices like curse words or bullying. It can also produce NSFW content that's not suitable for kids. So set and enforce strict rules against any form of jailbreak and explain to kids the dangers that come with it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Set Strict Rules Against Sarcastic Content
 
  A popular use for ChatGPT among younger audiences is for creating sarcastic content. While sarcastic replies might be understood as sarcasm by older audiences, kids can take them at face value.
@@ -134,11 +112,9 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
  Worse, just like jailbreaks, prompting ChatGPT to reply in a sarcastic way or any variations of sarcasm allows the chatbot to break out of its limitations and reply in ways it would typically not do. This could include using anything like curse words and dishing out logical-sounding advice that is actually harmful.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Frequently Review ChatGPT Chat Logs
 
  OpenAI keeps a record of conversations that you have with ChatGPT. You can access this log on the left sidebar of the ChatGPT interface. Review your kid's chat logs regularly and monitor their conversations with the chatbot.
@@ -149,12 +125,6 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 
  This should automatically filter the type of replies that ChatGPT produces for prompts. For instance, a normal ChatGPT instance would normally answer questions about sex education-related content. However, after prompting ChatGPT to use strict, kid-friendly replies, ChatGPT would either refuse to answer those questions or provide a significantly censored reply.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Is ChatGPT Safe for Kids?
 
  Although ChatGPT is an immensely useful resource, without proper supervision by parents or caregivers, it could pose a serious risk to children and vulnerable individuals. While ChatGPT has been programmed to provide informative and helpful responses to a wide range of inquiries, it is important to remember that it is still an AI system and may generate dangerous responses if taken at face value by kids.
@@ -163,14 +133,11 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 
  Consequently, several questions come to mind. Should kids be allowed to use ChatGPT? What are some useful ways kids can use ChatGPT safely? How can parents and caregivers ensure that kids use ChatGPT safely?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -179,4 +146,21 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-streaming-google-meet-a-step-by-step-youtube-tutorial/"><u>[New] In 2024, Streaming Google Meet A Step-By-Step YouTube Tutorial</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-convenient-steps-upside-down-video-via-vlc-application/"><u>[Updated] Convenient Steps Upside Down Video via VLC Application</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-youtube-video-wizardry-top-conversion-techniques-to-mp4mpeg/"><u>[Updated] In 2024, YouTube Video Wizardry Top Conversion Techniques to MP4/MPEG</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-podcasters-handbook-writing-strategies-and-sample-scripts-available-free/"><u>[Updated] The Podcaster's Handbook Writing Strategies & Sample Scripts Available Free</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deconstructing-ais-complexity-upsides-and-downfalls/"><u>Deconstructing AI's Complexity: Upsides and Downfalls</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embarking-on-a-mission-becoming-an-ai-conversation-maestro/"><u>Embarking on a Mission: Becoming an AI Conversation Maestro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-workforce-how-ai-revolutionizes-employment/"><u>Future Workforce: How AI Revolutionizes Employment</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-pop-8-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Pop 8 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-chatgpt-on-your-android-device/"><u>Introducing ChatGPT on Your Android Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-online-communication-chatgpt-and-vpns/"><u>Navigating Online Communication: ChatGPT and VPNs?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-tech-assistance-on-your-iphone-with-apples-official-support-application/"><u>Navigating Tech Assistance on Your iPhone with Apple's Official Support Application</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-fixing-black-ops-cold-war-silent-issue-in-pc-game/"><u>Solution Found: Fixing Black Ops Cold War Silent Issue in PC Game</u></a></li>
+</ul></div>
 

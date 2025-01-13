@@ -1,7 +1,7 @@
 ---
 title: Decoding the Future of Interactive AI Platforms in Europe - The EU's AI Act and Its Impact on GPT-Like Systems
-date: 2025-01-02T02:14:43.152Z
-updated: 2025-01-06T02:31:51.975Z
+date: 2025-01-06T17:55:09.043Z
+updated: 2025-01-12T19:35:43.617Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/fb4a67269b09db2a7f2f5849b8bae34d180258d63
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the EU AI Act?
@@ -48,12 +48,16 @@ thumbnail: https://thmb.techidaily.com/fb4a67269b09db2a7f2f5849b8bae34d180258d63
 
  While the EU AI Act has several objectives, its main aim is to somewhat reign in AI. This will be done by assessing the risk levels of AI systems, ensuring they follow EU laws, and enforcing transparency requirements for AI systems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Who Will Be Affected by the EU AI Act?
 
 ![wooden court hammer on white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/court-hammer-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While the EU AI Act is still in the works, there are concerns over how it will affect AI researchers, developers, and users within the EU.
@@ -69,16 +73,12 @@ thumbnail: https://thmb.techidaily.com/fb4a67269b09db2a7f2f5849b8bae34d180258d63
 
  Evidently, the scope is large, spanning the AI industry. Thousands of AI organizations may be affected by this act, including ChatGPT creator, OpenAI. This has led to contention between the EU and OpenAI CEO Sam Altman. In fact, Altman has threatened to pull OpenAI, and therefore ChatGPT, out of the EU because of it. So, why has he made such a striking statement?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Is Sam Altman Threatening to Pull ChatGPT From the EU?
 
 ![sam altman sitting on stage talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sam-altman-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838377432/in/)
@@ -92,7 +92,7 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  Interestingly, this threat came shortly after [Altman advocated for further AI regulation within the US](https://www.makeuseof.com/why-openai-ceo-calling-for-more-ai-regulation/) to mitigate the risks of AI development. We'll leave how that looks up to you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The EU's AI Act Could Alter AI Development
@@ -116,14 +116,20 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-best-youtube-thumbnail-size-how-to-make-a-thumbnail-for-youtube-for-2024/"><u>[Updated] Best YouTube Thumbnail Size How to Make a Thumbnail for YouTube for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-discover-the-elite-live-streaming-platforms-for-2024/"><u>[Updated] Discover the Elite Live Streaming Platforms for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-elevating-audio-rates-on-youtube-dual-device-approach/"><u>[Updated] Elevating Audio Rates on YouTube Dual Device Approach</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-cutting-edge-replacements-for-the-conversational-gpt-bot/"><u>7 Cutting-Edge Replacements for the Conversational GPT Bot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-techniques-employing-chatgpt-for-video-game-dialogue-creation/"><u>7 Techniques: Employing ChatGPT for Video Game Dialogue Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-comprehensive-guide-to-claude-3-features/"><u>A Comprehensive Guide to Claude 3 Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/academic-excellence-through-innovation-top-five-applications-of-chatgpt-for-students/"><u>Academic Excellence Through Innovation: Top Five Applications of ChatGPT for Students</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722892287552-expert-advice-on-maintaining-a-reliable-skype-connection-top-10-tips/"><u>Expert Advice on Maintaining a Reliable Skype Connection – Top 10 Tips!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-s24-ultra-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy S24 Ultra to PC? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-enhancing-your-android-and-iphone-snaps/"><u>[New] In 2024, The Ultimate Guide to Enhancing Your Android & iPhone Snaps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagrams-essential-quick-tutorial-for-chat-for-2024/"><u>[New] Instagram's Essential Quick Tutorial for Chat for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-m1-computation-face-off-lightweight-vs-robust-designs-for-2024/"><u>[New] M1 Computation Face-Off Lightweight vs Robust Designs for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-hassle-free-hd-video-on-your-device/"><u>[Updated] 2024 Approved Hassle-Free HD Video on Your Device</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-achieve-fluent-fb-video-posting-windows-linux-ios-and-android-tips-for-2024/"><u>[Updated] Achieve Fluent FB Video Posting Windows, Linux, iOS & Android Tips for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-computers-decipher-difficult-equations/"><u>Can Computers Decipher Difficult Equations?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/do-ai-output-sizes-have-a-predefined-character-limit/"><u>Do AI Output Sizes Have a Predefined Character Limit?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/identifying-false-chatgpt-sites-guidelines-for-safety/"><u>Identifying False ChatGPT Sites: Guidelines for Safety</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-spark-go-2024withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Spark Go (2024)with/without a PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/no-deterioration-in-chatgpt-ai-says-openai/"><u>No Deterioration in ChatGPT AI, Says OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-futures-here-with-gpt-4-but-dont-miss-the-platinum-plans-6-distinguished-benefits/"><u>The Future's Here with GPT-4; But Don't Miss the Platinum Plan’s 6 Distinguished Benefits</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-rated-tools-for-fixing-damaged-photographs/"><u>Top Rated Tools for Fixing Damaged Photographs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transcending-the-turing-test-in-modern-ai-scrutiny/"><u>Transcending the Turing Test in Modern AI Scrutiny</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-writers-shouldnt-panic-the-5-limits-of-ai-in-publishing-field/"><u>Why Writers Shouldn't Panic: The 5 Limits of AI in Publishing Field</u></a></li>
 </ul></div>
 

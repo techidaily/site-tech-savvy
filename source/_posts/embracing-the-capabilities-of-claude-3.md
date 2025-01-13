@@ -1,7 +1,7 @@
 ---
 title: Embracing the Capabilities of Claude 3
-date: 2025-01-05T11:16:05.739Z
-updated: 2025-01-06T10:45:31.603Z
+date: 2025-01-08T18:18:17.910Z
+updated: 2025-01-12T16:00:15.420Z
 tags:
   - chatgpt
   - open-ai
@@ -20,15 +20,15 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Claude 3?](https://malaysia-healthcare-travel-council.pxf.io/752oeg)
 * [What Can You Do With Claude 3?](https://atezr.pxf.io/752omg)
 * [Claude 3 vs. ChatGPT](https://parisrhonecom.sjv.io/zqobqr)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -56,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
  All three issues have now been completely or at least partly addressed with the release of Claude 3\.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Can You Do With Claude 3?
 
 ![Claude AI chatbot interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-image-1.jpg)
@@ -72,19 +68,11 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
  So, Claude 3 lets you do most of the things you can do with Gemini and GPT-4 (minus image generation) without having to pay the $20 subscription fee for ChatGPT premium.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Claude 3 vs. ChatGPT
 
 ![ChatGPT vs Claude AI logos](https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae116eaf3e790989364bc8da0ce.jpg)
 
  A quick way to test the performance of an AI model is to check how well it stacks up against the best in the market: GPT-4\. Of course, I put both models to the test; how well does Anthropic's Claude 3 stack up against the colossal GPT-4?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Claude vs. ChatGPT: Coding Skills
 
@@ -97,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
  And here is Claude 3's result when asked to do the same.
 
 ![Claude 3 makes todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-3-makes-todo-list-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Both apps were functional to an extent, but it is clear Claude 3 did a better job on this one.
 
@@ -115,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 ![testing Claude 3 on commonsense reasoning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/testing-claude-3-on-commonsense-reasoning.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Claude's response wasn't exactly a definitive answer, but it was able to identify the key information; you don't bury survivors. It's important to note that the last time we asked Claude 2 the same question, it wasn't able to see through the common sense trap.
@@ -130,9 +122,17 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![ChatGPT writes lyrics to a rap song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-writes-lyrics-to-a-rap-song.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And here's Claude's response, using the same prompt.
 
 ![Claude writes lyrics to a wrap song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-writes-lyrics-to-a-wrap-song.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It might be subjective, but Claude does seem to be the better option here. When both tools were tasked with drafting three articles on different topics, Claude provided the better option in all three instances. It produced a more human-like result and avoided patterns commonly associated with AI-generated texts, like exagerations, the use of complex words, and sporadic use of linking words.
 
@@ -145,7 +145,7 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 ![Empire state building identified by Claude 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/empire-state-building-identified-by-claude-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT is clearly better at this, but considering Claude 3 is Anthropic's first attempt at building a multimodal AI model, it wasn't a bad outing.
@@ -169,19 +169,18 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/5ycl5lq65oof5acx5lplusd6k235zplus65rqw44gr44gk44ge44gm44gu57s55lul44gz44klic0g44gc44gq44gf44gu5a6j5ywo44ks5a6i44kl44gf44kb44gu56eb44gf44gh44gu5pa56yed/"><u>個人情報保護基準についてご紹介する - あなたの安全を守るための私たちの方針</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/a-visual-revolution-how-to-upgrade-your-snapchat-photos/"><u>A Visual Revolution How to Upgrade Your Snapchat Photos</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-gaps-between-data-units-in-windows-11/"><u>Bridging Gaps Between Data Units in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-simple-ai-to-sophisticated-gpt-4/"><u>From Simple AI to Sophisticated GPT-4</u></a></li>
-<li><a href="https://win11.techidaily.com/has-windows-subsystem-for-linux-helped-linux-gain-desktop-market-share/"><u>Has Windows Subsystem for Linux Helped Linux Gain Desktop Market Share?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-list-for-seeking-no-cost-high-quality-vector-imagery/"><u>In 2024, The Ultimate List for Seeking No-Cost High-Quality Vector Imagery</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rethink-ai-six-reasons-to-approach-with-skepticism/"><u>Rethink AI: Six Reasons to Approach with Skepticism</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/squashing-hp-printers-mistake-oxc4eb827f/"><u>Squashing HP Printer's Mistake: OXC4EB827F</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-transforming-wmv-files-into-avi-format/"><u>Step-by-Step Guide: Transforming WMV Files Into AVI Format</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-correct-sound-hiccup-in-audacity-on-windows-11/"><u>Strategies to Correct Sound Hiccup in Audacity on Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/talking-bots-face-off-which-one-triumphs-more/"><u>Talking Bots Face-Off: Which One Triumphs More?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-7-hidden-traps-of-ai-text-synthesis/"><u>Top 7 Hidden Traps of AI Text Synthesis</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-and-solving-iphone-heat-up-a-comprehensive-guide/"><u>Understanding and Solving iPhone Heat-Up: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-paperclip-potential-through-ai-interaction-and-analysis/"><u>Unleashing Paperclip Potential Through AI Interaction and Analysis</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-seamlessly-scaling-photos-and-videos-via-iphone-features/"><u>[New] In 2024, Seamlessly Scaling Photos & Videos via iPhone Features</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-professional-video-file-preservation-six-essential-steps-for-windows-11-for-2024/"><u>[New] Professional Video File Preservation Six Essential Steps for Windows 11 for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solved-obs-dropping-frames-2024-tips/"><u>[Solved] OBS Dropping Frames - 2024 Tips</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-guide-seamless-facebook-live-integration-for-web-pages/"><u>2024 Approved Guide Seamless Facebook Live Integration for Web Pages</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/end-to-end-camera-rotation-explained/"><u>End-to-End Camera Rotation Explained</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/facil-transferencia-de-archivos-entre-dos-computadoras-una-guia-paso-a-paso/"><u>Fácil Transferencia De Archivos Entre Dos Computadoras: Una Guía Paso a Paso</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-codenotarys-sbom-solution-for-kubernetes-ensuring-security-and-compliance/"><u>Introducing Codenotary's SBOM Solution for Kubernetes - Ensuring Security and Compliance</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/move-your-iphone-data-directly-to-another-iphone-bypassing-icloud/"><u>Move Your iPhone Data Directly to Another iPhone, Bypassing iCloud</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-securing-your-online-privacy-with-a-vpn-on-the-opera-browser/"><u>Step-by-Step Guide: Securing Your Online Privacy with a VPN on the Opera Browser</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-switching-your-laptop-display-orientation/"><u>Step-by-Step Guide: Switching Your Laptop Display Orientation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-thawing-out-a-locked-windows-10-system/"><u>Step-by-Step Tutorial: Thawing Out A Locked Windows 10 System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essentials-of-vpns-why-they-matter-and-their-functioning-explained/"><u>The Essentials of VPNs: Why They Matter and Their Functioning Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-and-resolving-issues-with-your-lagging-and-stuttering-computer-system/"><u>Troubleshooting and Resolving Issues with Your Lagging and Stuttering Computer System</u></a></li>
 </ul></div>
 

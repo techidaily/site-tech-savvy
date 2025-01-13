@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity Beyond Auto-Generated Texts
-date: 2024-09-06T23:30:16.372Z
-updated: 2024-09-07T23:30:16.372Z
+date: 2025-01-05T16:06:33.366Z
+updated: 2025-01-12T17:21:32.458Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Academic Integrity Beyond Auto-Generated Texts
 thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410ddebad9670bd4cad45f7263474.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Academic Integrity Beyond Auto-Generated Texts
 
  OpenAI’s ChatGPT has made a splash in the world of chatbots. Although it is relatively new (ChatGPT was launched in late 2022), this freakishly capable tool has been embraced by millions of students across the world. While the AI-powered chatbot is undoubtedly groundbreaking, there’s a lot of controversy and ethical dilemmas surrounding the tool.
@@ -29,15 +23,13 @@ thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410dde
 
  ChatGPT’s ability to write logically sound essays in a matter of seconds and analyze problems in a very human manner can tempt students to rely too heavily on it, potentially hindering independent learning skills and critical thinking. If you’re a student, here’s how you shouldn’t be using the AI tool to avoid running into trouble.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Don't Rely on ChatGPT for Facts
 
 ![ChatGPT shares a factually incorrect answer.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-shares-a-factually-incorrect-answer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While ChatGPT is certainly impressive when it comes to generating convincing responses, it’s important that you [don’t rely on it for factual information](https://www.makeuseof.com/does-chatgpt-lie/). Thanks to its impressive language capabilities, you may assume you can trust the accuracy of ChatGPT’s responses.
 
@@ -46,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410dde
  What’s more, the current free-to-use version of ChatGPT does not have access to real-time news and updates. It may draw a blank or provide flawed responses for questions involving recent events and discoveries.
 
  So, while ChatGPT is a valuable tool when it comes to brainstorming ideas or engaging in thought-provoking discussions, it’s best to verify data in its responses for potential inaccuracies before you cite them anywhere.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Don't Use ChatGPT to Proofread Homework
 
@@ -59,16 +55,18 @@ thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410dde
 
 ![A frustrated student stares into her laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-frustrated-student-stares-into-her-laptop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While ChatGPT is certainly helpful to students, it should never be used as a replacement for traditional learning experiences. Challenging assignments allow students to develop critical thinking abilities, problem-solving skills, and an enhanced understanding of the subject. If you rely solely on ChatGPT to overcome roadblocks, you will miss out on valuable learning experiences.
 
  So, instead, when facing challenges while studying, try to collaborate with your peers, seek clarification from teachers, and break down complex concepts. By actively taking part in the learning progress, you can develop a comprehensive knowledge base.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Avoid Using ChatGPT for College Essays
 
  Your college essay is meant to serve as an opportunity for you to express your motivations and personalize your application by offering a look into who you are as an individual beyond your grades and academic achievements. It isn’t just a collection of facts or a generic write-up about you.
@@ -77,22 +75,14 @@ thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410dde
 
  Instead, spend some time crafting and refining your personal story. There are also several [online tools that can make the essay-writing process easier](http://makeuseof.com/tag/writing-college-admissions-essay/). Finally, make sure to review your essay multiple times and have someone else read your piece and share their feedback as well.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Don't Plagiarize ChatGPT-Generated Content
 
 ![ChatGPT generates content about NYC on a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-generates-content-about-nyc-on-a-smartphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  While content generated by ChatGPT isn’t usually flagged by plagiarism tools, keep in mind that AI-generated text can be detected. In fact, OpenAI, the company that developed ChatGPT, released its own AI classifier that can detect AI-written content. While [these tools may not yet be completely accurate](https://www.makeuseof.com/ai-content-detectors-dont-work/), it’s safe to assume that they will become more reliable over time.
 
  Given this, it’s pretty likely that universities and schools will be able to use these tools to distinguish between AI-written and human-written text. That doesn’t, however, mean you should stop using ChatGPT entirely. Instead of plagiarizing the content generated by the tool, you can use it to ideate, explore different perspectives, or seek feedback on your work.
@@ -103,18 +93,6 @@ thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410dde
 
  Instead, seek guidance from subject-matter experts or academic advisors to weigh out the pros and cons of your options. Speaking to reputable sources, engaging in discussions with your peers, and collecting diverse perspectives can help you holistically approach decision-making.
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Don’t Ignore Your School’s AI-Usage Guidelines
 
  Your school or university may have certain dos and don’ts for using AI technology. For instance, your school may permit students to use AI for research purposes and idea generation. However, students may not be allowed to use these tools to complete their assignments or pass assessments.
@@ -129,14 +107,11 @@ thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410dde
 
  ChatGPT’s ability to write logically sound essays in a matter of seconds and analyze problems in a very human manner can tempt students to rely too heavily on it, potentially hindering independent learning skills and critical thinking. If you’re a student, here’s how you shouldn’t be using the AI tool to avoid running into trouble.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -145,4 +120,24 @@ thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410dde
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-paving-the-path-for-creativity-turning-gifs-to-stickers-on-all-social-platforms/"><u>[Updated] 2024 Approved Paving the Path for Creativity Turning GIFS to Stickers on All Social Platforms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-captivating-chronicles-the-worlds-best-schools-top-8/"><u>[Updated] Crafting Captivating Chronicles The World's Best Schools (Top 8)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastermind-your-marketing-surge-to-1000-insta-supporters-each-month/"><u>[Updated] Mastermind Your Marketing Surge to 1,000 Insta Supporters Each Month</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-maximize-your-apple-watchs-endurance-top-8-configurations-that-prolong-battery-life-insights/"><u>1. Maximize Your Apple Watch's Endurance: Top 8 Configurations That Prolong Battery Life - Insights</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-pictureweaversierra-blending-apple-media-artfully/"><u>2024 Approved PictureWeaverSierra Blending Apple Media Artfully</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rney-beyond-top-10-global-explorer-channels/"><u>A Journey Beyond Top 10 Global Explorer Channels</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-your-tech-companion-ipad-pro-or-macbook-air-a-comprehensive-comparison/"><u>Choosing Your Tech Companion: IPad Pro or MacBook Air – A Comprehensive Comparison</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/clear-cinematic-vision-top-camera-stabilizers-reviewed/"><u>Clear Cinematic Vision - Top Camera Stabilizers Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-microsoft-surface-pro-8-evaluation-the-ultimate-device-for-professionals-analysis-on-zdnet/"><u>Comprehensive Microsoft Surface Pro 8 Evaluation: The Ultimate Device for Professionals? - Analysis on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engaging-with-algorithms-mistrals-encounter-with-chatgpt/"><u>Engaging with Algorithms: Mistral's Encounter With ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/healthy-eating-strategies-using-gpt-assist/"><u>Healthy Eating Strategies Using GPT-Assist</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-ios-172-resolves-iphone-connectivity-and-slow-wi-fi-woes-expected-launch-date-insights/"><u>How iOS 17.2 Resolves iPhone Connectivity and Slow Wi-Fi Woes – Expected Launch Date Insights</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-social-sphere-strategies-for-facebook-twitter-instagram-and-youtube-presence/"><u>Mastering the Social Sphere: Strategies for Facebook, Twitter, Instagram & YouTube Presence</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/scouting-the-superior-18-video-recorders-for-seamless-streams/"><u>Scouting the Superior 18 Video Recorders for Seamless Streams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-everyone-should-use-apple-pages-a-breakdown-of-its-5-essential-features-and-advantages/"><u>Why Everyone Should Use Apple Pages: A Breakdown of Its 5 Essential Features and Advantages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wrist-worn-wonders-compared-a-detailed-breakdown-of-google-pixel-watch-and-apple-watch-series-nine-for-savvy-consumers-zdnet/"><u>Wrist-Worn Wonders Compared: A Detailed Breakdown of Google Pixel Watch and Apple Watch Series Nine for Savvy Consumers | ZDNET</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/writing-powerful-endings-techniques-and-real-world-examples/"><u>Writing Powerful Endings Techniques & Real-World Examples</u></a></li>
+</ul></div>
 

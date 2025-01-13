@@ -1,7 +1,7 @@
 ---
 title: Exclusive Labor Day Savings! Get Your 2Nd Gen Apple Pencil for Just $95 Today Deal
-date: 2025-01-02T18:59:08.003Z
-updated: 2025-01-05T18:39:53.298Z
+date: 2025-01-09T01:25:40.710Z
+updated: 2025-01-12T17:39:33.978Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,21 +71,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-unparalleled-selection-best-of-the-10-vimeo-download-sites/"><u>[New] Unparalleled Selection Best of the 10 Vimeo Download Sites</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-comprehensive-tutorial-adding-timer-functionality-to-obs/"><u>2024 Approved Comprehensive Tutorial Adding Timer Functionality to OBS</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-how-to-stream-on-mixer-macos/"><u>2024 Approved How to Stream on Mixer MacOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-made-simple-a-users-manual/"><u>ChatGPT Made Simple: A User's Manual</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-googles-latest-chrome-update-supercharged-performance-on-windows-yet-beware-of-surprising-trade-offs-zdnet/"><u>Discover Google's Latest Chrome Update: Supercharged Performance on Windows, Yet Beware of Surprising Trade-Offs | ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experience-ai-artistry-for-free-with-dall-e-3-and-microsoft-bing/"><u>Experience AI Artistry for Free with DALL-E 3 & Microsoft Bing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/how-to-quickly-modify-your-voice-for-gameplay-advantage/"><u>How to Quickly Modify Your Voice for Gameplay Advantage</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-picture-in-picture-mode-with-confidence-using-microsoft-edge/"><u>In 2024, Navigating Picture-In-Picture Mode with Confidence Using Microsoft Edge</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-selection-of-android-and-ios-wedding-timer-apps-reviewed/"><u>In 2024, Ultimate Selection of Android and iOS Wedding Timer Apps Reviewed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interactive-ai-blending-python-and-gpt-3/"><u>Interactive AI: Blending Python and GPT-3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-safe-6-cybersecurity-risks-of-openais-chatbot/"><u>Is ChatGPT Safe? 6 Cybersecurity Risks of OpenAI's Chatbot</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionizing-enterprise-productivity-top-5-companies-embrace-apple-vision-pros-game-changing-features-insights-from-zdnet/"><u>Revolutionizing Enterprise Productivity: Top 5 Companies Embrace Apple Vision Pro's Game-Changing Features - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-planning-how-chatgpt-can-revolutionize-your-timeline-management/"><u>The Future of Planning: How ChatGPT Can Revolutionize Your Timeline Management</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-nlp-frontier-gpt-vs-bert-a-detailed-analysis/"><u>The NLP Frontier: GPT Vs. BERT - A Detailed Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truthgpt-crypto-a-mirage-or-a-milestone/"><u>TruthGPT Crypto: A Mirage or a Milestone?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-itel-a60-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hack-the-youtube-timeline-increase-or-decrease-sound-for-2024/"><u>[New] Hack the YouTube Timeline Increase or Decrease Sound for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-free-guide-to-premium-mp4-screen-recorders/"><u>[New] In 2024, Free Guide to Premium MP4 Screen Recorders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-step-by-step-guide-changing-your-username-in-windows-11/"><u>A Step-by-Step Guide: Changing Your Username in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-the-bugs-fixing-fallout-3-crashes-when-played-on-windows-11-systems/"><u>Banish the Bugs: Fixing Fallout 3 Crashes When Played on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-tutorial-hard-resetting-windows-11-systems-using-startup-keys/"><u>Complete Tutorial: Hard Resetting Windows 11 Systems Using Startup Keys</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-understanding-miracast-support-on-windows-7/"><u>Comprehensive Guide: Understanding Miracast Support on Windows 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/directx-setup-for-windows-1110-users-effortless-download-and-install/"><u>DirectX Setup for Windows 11/10 Users: Effortless Download and Install</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/easy-underwater-shooting-set-safe-gear-for-youngsters/"><u>Easy Underwater Shooting Set - Safe Gear for Youngsters</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-propel-your-youtube-presence-via-advanced-creator-studio-techniques/"><u>In 2024, Propel Your Youtube Presence via Advanced Creator Studio Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/iphoneandroid-screen-capture-for-google-meet-participants/"><u>IPhone/Android Screen Capture for Google Meet Participants</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-initialization-hurdle-in-d3d/"><u>Overcoming Initialization Hurdle in D3D</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-aftermath-of-leaving-ps-plus-service/"><u>The Aftermath of Leaving PS Plus Service</u></a></li>
 </ul></div>
 

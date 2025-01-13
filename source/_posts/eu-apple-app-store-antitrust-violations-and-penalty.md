@@ -1,7 +1,7 @@
 ---
 title: EU, Apple, App Store, Antitrust Violations, and Penalty.
-date: 2024-12-31T10:34:32.996Z
-updated: 2025-01-06T06:05:46.903Z
+date: 2025-01-10T19:52:05.466Z
+updated: 2025-01-12T22:08:56.397Z
 tags:
   - apple
 categories:
@@ -65,10 +65,14 @@ When searching for a trail, the app considers all your needs, including whether 
 
 Then, once you select a route, it helps you stay on course with your planned course. The app also has fitness tracking and community-building elements to encourage meeting your fitness goals. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **iPad App of the Year**:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Prêt-à-Makeup](https://apps.apple.com/us/app/pr%C3%AAt-%C3%A0-makeup/id1434594204) from Prêt-à-Template
@@ -88,15 +92,7 @@ Another standout feature is that the sketch's lighting responds to the screen's 
 
 The app is free to download but requires a subscription fee of $8.99 per month or $63.99 per year for unlimited access. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Mac App of the Year**:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Photomator](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fphotomator-by-pixelmator-team%2Fid1444636541&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899517522%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=DMpWpBcuhJZbtbR8P5%2FANu2dbiat6%2FS5pgtbjBwZ6Cs%3D&reserved=0) from UAB Pixelmator Team
 
@@ -112,10 +108,14 @@ The app also features [generative AI](https://www.zdnet.com/article/what-is-gene
 The app is free to download but requires a subscription of $4.99 per month or $29.99 yearly to use. If you are interested in trying the app out before subscribing, as a new user, you get three edits for free that you can use to test it out. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Apple TV App of the Year:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [MUBI](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fmubi-stream-great-cinema%2Fid626148774&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899523596%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Jr%2FmQO5EZnS7Mz0NnjMOG36CJubqrWZdSMtDgZTMCEs%3D&reserved=0) from MUBI, Inc.
 
@@ -137,7 +137,7 @@ Another standout feature from MUBI is that, unlike other popular streaming platf
 The film selection is vast, ranging from rare indie films to classics. Although the app is free to download, a subscription fee starting at $12.99 a month is required to start streaming. If interested in trying the app, there is a seven-day free trial. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Apple Watch App of the Year:**
@@ -158,7 +158,7 @@ The app is free to download, but the free version only gets you access to two ro
 ## **iPhone Game of the Year:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Honkai: Star Rail](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fhonkai-star-rail%2Fid1599719154&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899536411%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=b23p3w1sKl9J7JMGfbD3gOHrKMcnd%2Btvn5Lnzala6Sg%3D&reserved=0) from COGNOSPHERE PTE. LTD.
@@ -187,10 +187,6 @@ Lost in Play is a free game following the storyline of a brother and sister on a
 
 While playing, users will help them get home by solving unique puzzles and mini-games. The hand-crafted cartoon style of the gameplay, similar to animated shows from childhood, makes it a game for people of all ages, invoking nostalgia for adults and entertainment for children. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Mac Game of the Year:**
 
 ### [Lies of P](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Flies-of-p%2Fid6459738231%3Fmt%3D12&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899548181%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=vK%2FJQ7BraKmUU550%2Bcggsy8CfE%2BvSbodTk3LppI7prU%3D&reserved=0), from NEOWIZ
@@ -205,7 +201,7 @@ Lies of P is a roleplaying game in which the user plays a puppet created by Gepe
 Apple originally spotlighted Lies of P for the game's smooth gameplay and the storyline's dark, alternative twist on the classic childhood tale The Adventures of Pinocchio. To play the game, you have to pay the full game cost upfront of $59.99\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Apple Arcade Game of the Year:**
@@ -223,10 +219,6 @@ Throughout the gameplay, players will be able to explore a gorgeous world with a
 
 The game is free to download if you have an Apple Arcade subscription, which costs $6.99 monthly and grants unlimited access to over 200 games. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Cultural Impact Winners**
 
 ### [**Pok Pok**](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fpok-pok-montessori-preschool%2Fid1550204730&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899559082%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=x8lQuriLApASDzIajnVAxoDSzHljqkM5RoLJ9FkErx8%3D&reserved=0) **from Pok Pok**
@@ -243,6 +235,10 @@ To ease parents' other concerns, the app doesn't have any paywalls or advertisem
 
 It is free to download; however, it requires a subscription after the seven-day trial ends. The subscription cost is $6.99 per month or $45.99 a year. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [**Proloquo**](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fproloquo%2Fid1521978238&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899565260%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=kIkjMFhZ77sZscxfA2SkKM6fyDJ5HHUGhvLJnoNfzg0%3D&reserved=0) **from AssistiveWare**
 
 Sabrina Ortiz/ZDNET
@@ -252,6 +248,10 @@ The Proloquo app is an Augmentative and Alternative Communication (AAC) app, mea
 The app is free to download but requires a subscription once the one-month free trial expires. The cost of the subscription is $9.99 a month or $99.99 a year and includes access to Proloquo Coach, which helps families and educators support the student's learning with tools and in-app support. 
 
 Another perk of the subscription is that it only has to be paid once for the user and accessible to their network. Family members, educators, Speech Pathologists, and other active members of the users' lives can sync to the app at no extra cost. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [**Too Good To Go**](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fca%2Fapp%2Ftoo-good-to-go-end-food-waste%2Fid1060683933&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899570753%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=JF8gRk7LNWVpS5KfyoN77aDG%2FZwdXWYeavX4YV8x3ZI%3D&reserved=0) **from Too Good To Go**
 
@@ -335,18 +335,16 @@ To highlight the trend of the year, App Store Editors highlighted a collection o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-ultimate-handbook-for-swapping-music-libraries/"><u>[Updated] 2024 Approved The Ultimate Handbook for Swapping Music Libraries</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-stay-ahead-of-the-curve-top-task-filled-ideas-for-maximizing-your-podcast-experience/"><u>[Updated] Stay Ahead of the Curve Top Task-Filled Ideas for Maximizing Your Podcast Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-digital-worlds-6-chatgpt-based-techniques-for-video-games/"><u>Crafting Digital Worlds: 6 ChatGPT-Based Techniques for Video Games</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-converter-transform-mp4-to-3gp-format-with-movavis-online-tool/"><u>Free Converter: Transform MP4 to 3GP Format with Movavi's Online Tool</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-realme-narzo-60x-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Realme Narzo 60x 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/integrating-apple-homepod-sound-into-your-hdtv-viewing-experience/"><u>Integrating Apple HomePod Sound Into Your HDTV Viewing Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-new-web-capabilities-in-gpt-3s-beta-update/"><u>Navigating New Web Capabilities in GPT-3's Beta Update</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pseudo-agent-program-snaffles-facebook-sign-ins/"><u>Pseudo-Agent Program: Snaffles Facebook Sign-Ins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-writing-the-leading-5-ai-inspirational-tools/"><u>Revolutionize Writing: The Leading 5 AI Inspirational Tools</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-fixes-to-overcome-directx-problems-in-fifa-19-easily/"><u>Step-by-Step Fixes to Overcome DirectX Problems in FIFA 19 Easily</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oppo-reno-11-pro-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Oppo Reno 11 Pro 5G Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-your-guide-to-hardware-excellence/"><u>Tom's Tech Insights: Your Guide to Hardware Excellence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-career-potentials-with-these-6-reasons-to-learn-chatgpt/"><u>Unlock Career Potentials with These 6 Reasons to Learn ChatGPT</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-platform-faceoff-twitchs-challenge-to-youtube/"><u>[New] The Platform Faceoff Twitch's Challenge to YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-filmmakers-approach-to-youtube-splitscreen-videos/"><u>[Updated] 2024 Approved A Filmmaker's Approach to YouTube Splitscreen Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-easy-guide-to-entering-google-meet-on-devices/"><u>[Updated] 2024 Approved Easy Guide to Entering Google Meet on Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-note-50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-bluetooth-fm-transmitter-2023-reviews-car-compatibility-and-performance/"><u>Best Bluetooth FM Transmitter (2023 Reviews) - Car Compatibility & Performance</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-130-music-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia 130 Music to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-poco-x6-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Poco X6 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-miracast-technology-in-windows-1011-setup-instructions-and-troubleshooting-hacks-for-smooth-streaming/"><u>Mastering Miracast Technology in Windows 10/11: Setup Instructions & Troubleshooting Hacks for Smooth Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-youtube-audio-removal-2-proven-strategies/"><u>Mastering the Art of YouTube Audio Removal - 2 Proven Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-trouble-free-streaming-solving-not-responsive-errors-with-spotify-on-windows/"><u>Mastering Trouble-Free Streaming: Solving 'Not Responsive' Errors with Spotify on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-and-simple-tips-for-driver-update-across-windows-881-windows-7-and-windows-nx/"><u>Quick and Simple Tips for Driver Update Across Windows 8/8.1, Windows 7 & Windows nX</u></a></li>
 </ul></div>
 

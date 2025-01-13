@@ -1,7 +1,7 @@
 ---
 title: Navigating Relationships with GPT-Inspired Skills
-date: 2025-01-05T01:38:56.717Z
-updated: 2025-01-05T23:55:07.813Z
+date: 2025-01-08T22:38:20.643Z
+updated: 2025-01-13T01:33:17.972Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Understanding Emotional Intelligence
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
  There are [plenty of reasons to use ChatGPT for health advice](https://www.makeuseof.com/reasons-consider-using-chatgpt-health-advice/) and to provide reliable health information, so there's no reason why you can't use it to develop your EQ. EQ is about managing and leveraging your emotions effectively. It encompasses things like self-awareness, self-management, social awareness, and relationship management.
 
  Those with high EQ can identify how they are feeling, control their emotions, understand others' feelings, and interact harmoniously with other people. ChatGPT can be used as a playground to experiment with different types of social interactions, It can help you practice delicate conversations and sharpen your understanding of appropriate responses.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Learning EQ With ChatGPT
 
@@ -61,10 +57,14 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
 ![Screenshot of ChatGPT providing EQ advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-16-at-8-50-37-am.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Suddenly, you're not just "feeling bad." You've got a more acute description of how you're feeling: tension and guilt. This articulation is the first step towards understanding and managing your emotions, which are crucial parts of EQ.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enhancing Empathy
 
@@ -74,23 +74,19 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
 
  This exercise of considering diverse emotional perspectives doesn't just help in understanding others better—it's also a fantastic way to nurture empathy. Each time you do this, your EQ will get a little boost.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Practicing Emotional Self-Regulation
 
  Consider this scenario: You're frustrated because your ideas are being dismissed. You could kick a hole in the wall (not recommended), or you could turn to ChatGPT and ask, "I feel frustrated when my ideas are dismissed. Give me some examples of how I can communicate this effectively."
 
 ![Screenshot of ChatGPT providing advice to develop EQ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-16-at-8-52-45-am.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ChatGPT might offer something like, "You could say, 'I value our collaborative spirit and feel frustrated when my ideas aren't considered. Could we discuss how to ensure everyone's thoughts are taken into account?'"
 
  And with a simple AI interaction, you've just taken a feeling of frustration and crafted a constructive response—one that is not reactive or overly emotional. That is emotional self-regulation at its finest.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT and Relationship Skills
 
@@ -111,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
 * "What might I be feeling if I'm anxious about an upcoming presentation?" With this one, you're diving deep into self-awareness.
 
 ![Screenshot of ChatGPT providing follow up response regarding anxiety](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/3-2-anxiety-preso.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also ask follow-up questions for advice on how to regulate your anxiety. For example, ask, "How can I respond constructively when I'm criticized?" This prompt is like having a personal tutor for dealing with criticism—a key aspect of emotional self-regulation. Of course, you can always learn [how to write your own effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/).
 
@@ -141,18 +141,19 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-efficient-techniques-for-personalizing-and-updating-social-media-coverage-for-2024/"><u>[New] Efficient Techniques for Personalizing and Updating Social Media Coverage for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-prime-pc-webcams-10-best-windows-recording-tools/"><u>[New] Prime PC Webcams 10 Best Windows Recording Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-brilliant-setups-top-17-gear-for-online-videographers-for-2024/"><u>[Updated] Brilliant Setups Top 17 Gear for Online Videographers for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-compelling-justifications-for-snapchat-ais-significance/"><u>7 Compelling Justifications for Snapchat AI's Significance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-key-approaches-to-elevate-chatgpt-interactions/"><u>7 Key Approaches to Elevate ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-comprehensible-explanation-of-gpt-3-shared-link-utilization/"><u>A Comprehensible Explanation of GPT-3 Shared Link Utilization</u></a></li>
-<li><a href="https://games-able.techidaily.com/charting-a-course-from-average-to-elite-discs/"><u>Charting a Course: From Average to Elite Discs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721432610928-false-chatbots-spotted-potential-hackers-lurk-in-disguise/"><u>False ChatBots Spotted: Potential Hackers Lurk in Disguise!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-xr-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone XR After Forgetting the Passcode?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721435409647-reinvigorate-your-iphones-mindfulness-with-these-fixes-to-try/"><u>Reinvigorate Your iPhone's Mindfulness with These Fixes to Try!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/secure-your-audio-get-the-latest-m-audio-fast-track-driver-for-windows-107881/"><u>Secure Your Audio - Get the Latest M-Audio Fast Track Driver for Windows (10/7/8/8.1)</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/virtuachatter-engaging-with-new-languages-in-vr/"><u>VirtuaChatter: Engaging with New Languages in VR</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726028940921-mp43/"><u>ショートクリップ化：MP4ファイル長さを変更する3つの方法</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-iphone-night-pics-101-enhancing-dark-images/"><u>[New] 2024 Approved IPhone Night Pics 101 Enhancing Dark Images</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-best-imagery-capturing-drones-in-10-selection-for-2024/"><u>[Updated] Best Imagery-Capturing Drones in #10 Selection for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-6-plus-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 6 Plus & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-nokia-c300-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/restored-my-desktop-icons-learn-how-to-solve-the-mystery-of-lost-icons-in-windows-10/"><u>Restored My Desktop Icons! Learn How to Solve the Mystery of Lost Icons in Windows 10</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-m54-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M54 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/say-goodbye-to-windows-11s-troublesome-error-0x80-grog-your-ultimate-fix-guide/"><u>Say Goodbye to Windows 11'S Troublesome Error 0X80 Grog - Your Ultimate Fix Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sd-card-not-showing-up-discover-easy-fixes-to-restore-access/"><u>SD Card Not Showing Up? Discover Easy Fixes to Restore Access</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-print-connection-on-windows-10-a-comprehensive-tutorial/"><u>Seamless Print Connection on Windows 10 - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-steps-to-reset-your-snapchat-passkey-in-a-flash/"><u>Simple Steps to Reset Your Snapchat Passkey in a Flash</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-monitoring-your-macbooks-heat-levels/"><u>Step-by-Step Guide to Monitoring Your MacBook's Heat Levels</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-11-must-have-tools-and-utilities-for-windowsmac-users-featured-on-zdnet/"><u>Top 11 Must-Have Tools & Utilities for Windows/Mac Users - Featured on ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-peak-performance-for-gamers-essential-tweaks-for-windows-11-systems/"><u>Unlocking Peak Performance for Gamers: Essential Tweaks for Windows 11 Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/blu-ray-macbook/"><u>ステップバイステップブルーレイリッピングの解説: マックで効果的なコピー方法とツール紹介 - Blu-Ray MacBookダウンロードガイド</u></a></li>
 </ul></div>
 

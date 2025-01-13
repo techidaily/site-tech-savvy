@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Instructions Tinkering: 7 Web-Based Tools"
-date: 2024-09-06T23:30:16.207Z
-updated: 2024-09-07T23:30:16.207Z
+date: 2025-01-07T18:00:16.506Z
+updated: 2025-01-12T18:02:42.504Z
 tags:
   - chatgpt
   - open-ai
@@ -28,11 +28,9 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 ![Generating Results on OpenAI Playground Different GPT-3 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-playground-gpt-models.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Avoid recycling prompts when testing multiple AI systems. Since they use different language models and datasets, they might not yield the same results. Blindly copy-pasting prompts will only cause inconsistencies.
 
  To understand how AI models react, try your prompts on OpenAI Playground. It’s a customizable AI bot. Unlike the more popular ChatGPT, it lets you adjust the key parameters that affect output generation, including:
@@ -41,9 +39,17 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 * **Temperature:** This parameter dictates the randomness of the AI model's output. Systems with low temperatures are less likely to sample multiple sources. You’ll get the exact, fine-tuned output even if you regenerate responses several times.
 * **Stop Sequences:** AI stops generating tokens once it hits your predetermined stop sequences. Open-ended instructions produce lengthy outputs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Playground AI
 
 ![Generating an Image of a Dog Eating Hotdogs on Playground AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/playground-ai-generating-images.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Although Midjourney is a reliable text-to-image generator, it’s quite pricey. Aspiring prompt engineers might not want to buy tools they’ll rarely use.
 
@@ -64,27 +70,13 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
  Since lengthy reports might take days to track, organize them properly. [Create an OpenAI account](https://www.makeuseof.com/openai-api-guide-what-can-you-do/), generate API keys, and sort them according to their project types.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. PromptBase
 
 ![Searching for AI Prompts on Promptbase Marketplace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/promptbase-marketplace-all-results.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  AI has significantly advanced over the past years, but the industry is still evolving. Global tech leaders have just started releasing AI-driven tools. Aspiring prompt engineers might not find many openings yet, especially among smaller tech startups.
 
  To make extra money writing prompts, sign up for PromptBase. It’s one of the most established prompt marketplaces online—you’ll find hundreds of thousands of paid prompts. You can start selling after making an account.
@@ -93,34 +85,20 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 
  Also, sell prompts that solve problems. Identify what AI users commonly complain about, create ways to overcome these roadblocks, then market the prompts online.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. GitHub
 
 ![Searching Github Repositories for ChatGPT Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/github-repositories-for-chatgpt-prompts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Anyone interested in AI needs a GitHub account. It features a massive database of LLMs, programming, coding, and prompt engineering resources. You’ll find infinite repositories discussing these topics.
 
  You can expand your knowledge of AI by studying various resources, but you could also focus on writing prompts. In fact, there are several [unique, effective ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/). Search whatever task you want—you’ll likely find a few formulas showing you how to execute it.
 
  To further improve your skills, collaborate with other users. Free accounts get about 2,000 minutes of Actions and 120 core hours of Codespaces a month. Play around with the site a bit. You can consider upgrading to a Pro account as you take on bigger projects.
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Find Anything
 
 ![Searching for Dog Pictures on Google With Find Anything Extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/find-anything-extension-on-google-images.jpg)
@@ -133,22 +111,10 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 
  Or better yet, solely use Find Anything for art inspiration. Running it requires less technical know-how than Midjourney—beginners can practice testing text-to-image prompts here.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Eye for AI
 
 ![Generating Skull and Flower Image on EyeforAi Image Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/eyeforai-image-generator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you need an affordable Midjourney alternative, try Eye for AI. It uses the Stable Diffusion 1.5 model by default, and you can start generating images right from the get-go. Just input your text prompts. You could also select helpful descriptors to improve output accuracy.
 
  Although convenient, we discourage running text-to-image prompts on Eye for AI’s default settings. Otherwise, you’ll generate distorted, inaccurate images. Train the platform yourself to maximize its full potential.
@@ -157,18 +123,6 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 
  Please use AI image generators responsibly. Creating deepfakes to spread misinformation and damage a person’s reputation has legal consequences.
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Write Better Prompts With the Right Tools
 
  Prompt engineering is an art and a science. Good communication skills help you convey vague, ambiguous ideas clearly, but you can’t solely rely on them. Coming up with great prompt ideas takes time. If you hit a creative block, keep the process going by studying language models, reading other prompts, and testing various AI platforms.
@@ -185,8 +139,6 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +146,21 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-groupview-downloader-for-fb-streams/"><u>[New] 2024 Approved GroupView Downloader for FB Streams</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-parrots-next-gen-ar-drone-evaluation/"><u>[New] 2024 Approved Parrot's Next-Gen AR Drone Evaluation</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-crosslinked-content-strategy-instagram-plus-tiktok-collaboration/"><u>[New] In 2024, Crosslinked Content Strategy Instagram + TikTok Collaboration</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-essential-steps-for-effective-online-engagement/"><u>2024 Approved Essential Steps for Effective Online Engagement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-digital-interactions-with-these-powerful-prompt-crafting-methods/"><u>Elevate Your Digital Interactions with These Powerful Prompt-Crafting Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-diy-endeavors-with-next-gen-ai/"><u>Enhancing DIY Endeavors with Next-Gen AI</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-resolve-iphones-refusal-of-creditdebit-cards-a-step-by-step-guide/"><u>How to Resolve iPhone's Refusal of Credit/Debit Cards – A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-the-perfect-soundscape-with-googles-ringtone/"><u>In 2024, Crafting the Perfect Soundscape with Google's Ringtone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/lossless-dvd-transfer-with-winx-dvd-copy-pro-back-up-your-discs-and-save-them-to-hdddvd/"><u>Lossless DVD Transfer with WinX DVD Copy Pro: Back Up Your Discs & Save Them to HDD/DVD</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/microsoft-brings-ai-to-bing-heres-what-to-expect/"><u>Microsoft Brings AI to Bing: Here's What to Expect</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-smartly-away-from-unhelpful-gpt-extensions/"><u>Navigate Smartly Away From Unhelpful GPT Extensions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sifting-through-inshots-features-for-best-edits/"><u>Sifting Through InShot's Features for Best Edits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/simplified-guide-to-switching-clownfish-voices-on-win-for-2024/"><u>Simplified Guide to Switching Clownfish Voices on Win for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-airtag-wallet-reviews-and-picks-tech-advisor-insights/"><u>Top-Rated AirTag Wallet Reviews & Picks - Tech Advisor Insights</u></a></li>
+</ul></div>
 

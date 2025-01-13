@@ -1,7 +1,7 @@
 ---
 title: "From Code to Conversation: AI' Written Tales"
-date: 2024-09-06T23:30:20.210Z
-updated: 2024-09-07T23:30:20.210Z
+date: 2025-01-05T19:21:18.473Z
+updated: 2025-01-12T22:43:49.740Z
 tags:
   - chatgpt
   - open-ai
@@ -16,11 +16,9 @@ thumbnail: https://thmb.techidaily.com/ffbb96c8d953d28715e16575f4499f83aab0539bb
 ## From Code to Conversation: AI' Written Tales
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Mistral AI's Le Chat?](https://funwhole.sjv.io/9groge)
@@ -65,21 +63,13 @@ thumbnail: https://thmb.techidaily.com/ffbb96c8d953d28715e16575f4499f83aab0539bb
 ![ChatGPT describes itself-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-describes-itself-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And here's how Le Chat would describe itself as well:
 
 ![Le Chat Mistral describes itself](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-describes-itself.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Both responses were appropriate in their own unique ways. ChatGPT was more invested in using vivid imagery and metaphors to describe itself, demonstrating creative flair. On the other hand, Le Chat's response is very informational and focused on describing its essence as an AI chatbot. Some may say it lacks the creative flair and artistic approach that ChatGPT's response exhibits. However, I'll go out on a limb to say I prefer Le Chat's easier-to-imagine response to ChatGPT's abstract description.
 
  I then asked ChatGPT and Le Chat to write a rap song about becoming rich from growing cucumbers—a tricky request we've used to test the creativity of other chatbots. How many rap songs can you find about cucumbers on the web?
@@ -93,11 +83,9 @@ thumbnail: https://thmb.techidaily.com/ffbb96c8d953d28715e16575f4499f83aab0539bb
 ![Le Chat Mistral writes song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-writes-song.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  It might be a subjective issue, but ChatGPT's response seemed like the better option here. Le Chat's lyrics seemed quite wordy and didn't really read like something a rapper would put out. To test how both lyrics would sound if they were to be made into music, we used [Suno AI music generator to generate music](https://www.makeuseof.com/suno-ai-make-music-from-text-prompt/) from the lyrics. Three out of three trials, ChatGPT's lyrics sounded way better. Below are two samples from both AI chatbots, you can be the judge of which chatbot did better.
 
 **Samples Generated From ChatGPT's Lyrics**
@@ -115,17 +103,9 @@ thumbnail: https://thmb.techidaily.com/ffbb96c8d953d28715e16575f4499f83aab0539bb
  I tried a few other creative tasks, like poems, article writing, and drafting tricky work emails with the AI chatbots. Despite showing great promise, Le Chat was clearly outdone by ChatGPT in all instances. It's important to point out that one area Le Chat was particularly strong in was crafting articles, although with some tricky prompting styles. However, in terms of all-round creativity, the medal goes to ChatGPT.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Le Chat vs. ChatGPT: Programming Skills
 
  Proficiency in coding has become a key requirement for major AI chatbots. Writing decent code is a baseline skill, but to truly stand out among the elite, an AI chatbot must demonstrate its prowess in crafting code that can effectively solve a diverse array of complex problems. We've previously [built an entire web app from scratch using ChatGPT](https://www.makeuseof.com/chatgpt-how-build-web-app/) which demonstrates its remarkable abilities as a programming tool. But how good is Le Chat at writing code?
@@ -152,22 +132,10 @@ thumbnail: https://thmb.techidaily.com/ffbb96c8d953d28715e16575f4499f83aab0539bb
 
 ![logical and commonsense problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/logical-and-commonsense-problem.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Le Chat tried the same task and was able to solve the problem, although using a different approach.
 
 ![Le Chat Mistral logical reasoning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-logical-reasoning.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Both chatbots performed comparably on this test.
 
  Up next, we asked both chatbots a trick question: "**If a spaceship from Mars breaks into two, with one part crashing into the Atlantic Ocean near Brazil and the other into the Pacific Ocean near Japan, where do you bury the survivors?"**
@@ -181,11 +149,9 @@ thumbnail: https://thmb.techidaily.com/ffbb96c8d953d28715e16575f4499f83aab0539bb
 ![Le Chat Mistral answers trick question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-answers-trick-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  I tried more trick questions, and it seemed both ChatGPT and Le Chat are quite adept at dealing with commonsense and logical reasoning prompts. However, with more complex logic questions, only ChatGPT could provide the right responses.
 
  While Le Chat has generated some buzz as a potential "ChatGPT killer," our testing shows it still has growing to do before it can truly go toe-to-toe with the heavyweights of the AI chatbot world. Though Le Chat demonstrated impressive capabilities in areas like common sense reasoning, its creative output and coding skills lagged noticeably behind ChatGPT. The French AI upstart certainly shows promise, but the hype machine may be getting a little ahead of itself.
@@ -200,8 +166,6 @@ thumbnail: https://thmb.techidaily.com/ffbb96c8d953d28715e16575f4499f83aab0539bb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,4 +173,16 @@ thumbnail: https://thmb.techidaily.com/ffbb96c8d953d28715e16575f4499f83aab0539bb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-playtime-to-profits-ryan-kajis-youtube-cash-crusade-for-2024/"><u>[New] From Playtime to Profits Ryan Kaji's YouTube Cash Crusade for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-digital-chronicling-of-live-audio-content-on-the-net-for-2024/"><u>[Updated] Digital Chronicling of Live Audio Content on the Net for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-poco-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Poco FRP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-security-notice-for-iphone-owners-apple-warns-of-advanced-spyware-threats-by-rogue-agents-is-it-time-to-get-concerned/"><u>Critical Security Notice for iPhone Owners: Apple Warns of Advanced Spyware Threats by Rogue Agents – Is It Time to Get Concerned?</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/mastering-windows-security-with-firewall-settings-guidance-from-proficient-developer-yl-software-team/"><u>Mastering Windows Security with Firewall Settings: Guidance From Proficient Developer YL Software Team</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-homes-ai-managed-chatgpts-capabilities/"><u>Smart Homes, AI-Managed: ChatGPT's Capabilities</u></a></li>
+<li><a href="https://fox-links.techidaily.com/step-by-step-srt-manipulation-for-mac-enthusiasts-for-2024/"><u>Step-by-Step SRT Manipulation for Mac Enthusiasts for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tapping-into-chatgpt-potential-with-its-api/"><u>Tapping Into ChatGPT Potential with Its API</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-conversations-androidits-voice-activated-gpt/"><u>The Future of Conversations: Android’its Voice Activated GPT</u></a></li>
+</ul></div>
 

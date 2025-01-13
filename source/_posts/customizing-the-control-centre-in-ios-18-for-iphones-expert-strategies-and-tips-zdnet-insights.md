@@ -1,7 +1,7 @@
 ---
 title: "Customizing the Control Centre in iOS 18 for iPhones: Expert Strategies and Tips | ZDNet Insights"
-date: 2024-12-31T02:31:57.312Z
-updated: 2025-01-06T10:56:01.993Z
+date: 2025-01-05T20:24:20.656Z
+updated: 2025-01-12T17:22:09.600Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,21 +146,18 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-gradual-volume-lessening-in-music-creation-garageband/"><u>[New] 2024 Approved Gradual Volume Lessening in Music Creation (Garageband)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchats-artistry-a-compreayer-of-the-ultimate-boomerang-method/"><u>[New] In 2024, Snapchat's Artistry A Compreayer of the Ultimate Boomerang Method</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/op-film-artist-fusion-of-footage-and-tunes-for-2024/"><u>[New] Top Film Artist Fusion of Footage & Tunes for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-rethinking-windows-photo-viewer-usage-on-modern-os/"><u>[Updated] 2024 Approved Rethinking Windows Photo Viewer Usage on Modern OS</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-pro-photographers-choices-ranking-the-top-6-4k-dslrs/"><u>[Updated] Pro Photographers’ Choices Ranking the Top 6 4K DSLRs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-users-influence-chatgpts-learning-process/"><u>Can Users Influence ChatGPT's Learning Process?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interactive-guide-to-chatgpts-shared-link-system/"><u>Interactive Guide to ChatGPT's Shared Link System</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/laptop-reviews-the-ultimate-durable-machine-with-stunning-visuals-a-comprehensive-review/"><u>Laptop Reviews: The Ultimate Durable Machine with Stunning Visuals – A Comprehensive Review</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/make-a-splash-on-social-media-adding-animated-text-to-instagram-stories/"><u>Make a Splash on Social Media Adding Animated Text to Instagram Stories</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-world-of-public-gpt-conversations/"><u>Navigating the World of Public GPT Conversations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pushing-boundaries-in-conversational-tech/"><u>Pushing Boundaries in Conversational Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/securing-conversations-with-ai-tech/"><u>Securing Conversations with AI Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-language-model-arena-gpt-vs-bert-explained/"><u>The Language Model Arena: GPT Vs. BERT Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-artificial-intelligence-systems-for-online-researchers/"><u>Top Artificial Intelligence Systems for Online Researchers</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/ultimate-high-quality-video-extractor-tool-for-pcs-running-on-windows-10-no-cost/"><u>Ultimate High-Quality Video Extractor Tool for PCs Running on Windows 10, No Cost!</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/be-gems-celebrating-the-best-music-playback-2023/"><u>YouTube Gems Celebrating the Best Music Playback, 2023</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-expert-tips-for-youtube-channel-aesthetics-finding-optimal-sizes/"><u>[New] 2024 Approved Expert Tips for YouTube Channel Aesthetics Finding Optimal Sizes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-epic-moments-in-gameplay-with-casters-for-2024/"><u>[New] Epic Moments in Gameplay with Casters for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-how-to-record-twitch-live-stream/"><u>[New] In 2024, How to Record Twitch Live Stream</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-save-your-screencasts-on-pc-with-free-tools/"><u>[New] Save Your Screencasts on PC with Free Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cultivating-daily-zen-with-ai-your-guide-to-using-chatgpt-for-meditation-practices/"><u>Cultivating Daily Zen with AI: Your Guide to Using ChatGPT for Meditation Practices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-personalization-with-cutting-edge-cookiebot-technology/"><u>Enhanced Personalization with Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-energy-providers-effectiveness-with-abbyy-powered-automatic-invoice-management-solutions/"><u>Enhancing Energy Providers' Effectiveness with ABBYY Powered Automatic Invoice Management Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/erkampfen-sie-den-informationszugriff-wie-texthelp-and-abbyy-lese-schreibbehinderungen-uberwindet/"><u>Erkämpfen Sie Den Informationszugriff: Wie Texthelp & ABBYY Lese-/Schreibbehinderungen Überwindet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-bespoke-engagement-with-our-cookiebot-technology-integration/"><u>Experience Bespoke Engagement with Our Cookiebot Technology Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-insights-navigating-digital-shifts-in-the-insurance-sector-with-abbyy/"><u>Expert Insights: Navigating Digital Shifts in the Insurance Sector with ABBYY</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-cookiebot-fuels-tailored-website-engagement-strategies/"><u>How Cookiebot Fuels Tailored Website Engagement Strategies</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-step-by-step-screen-recording-snapshots-on-mobile/"><u>In 2024, Step-by-Step Screen Recording Snapshots on Mobile</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-persona-4-golden-crashing-issues/"><u>Solved: Persona 4 Golden Crashing Issues</u></a></li>
 </ul></div>
 

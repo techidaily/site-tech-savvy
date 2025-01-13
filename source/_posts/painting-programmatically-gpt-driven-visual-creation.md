@@ -1,7 +1,7 @@
 ---
 title: "Painting Programmatically: GPT-Driven Visual Creation"
-date: 2024-09-06T23:30:21.163Z
-updated: 2024-09-07T23:30:21.163Z
+date: 2025-01-08T21:19:13.419Z
+updated: 2025-01-12T17:25:16.762Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Painting Programmatically: GPT-Driven Visual Cr
 thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b667ceffd517edd2d97f1e6e4.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Painting Programmatically: GPT-Driven Visual Creation
 
  ChatGPT is renowned for its ability to generate human-like responses to various prompts. This ability makes it a helpful assistant for writing tasks like email drafts or even for breaking down complex topics into more simplified language.
@@ -30,11 +24,9 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
  However, the technology’s potential doesn’t just stop there. ChatGPT can also help in AI image generation. Read on to see how.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Understanding How ChatGPT Works
 
 ![Computer on desk with ChatGPT on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-computer.jpg)
@@ -47,24 +39,20 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 
  The short answer is no. ChatGPT is not an image generation system and cannot directly output images. However, it can help create text-based descriptions of images that can then be used as input into other image generation systems.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Workarounds for Generating AI Images With ChatGPT
 
 ![chatgpt as a prompt generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-as-a-prompt-generator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There are two main ways to generate AI images using ChatGPT: using it as a prompt generator for your favorite AI image generator, and using OpenAI's DALL-E.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Use ChatGPT as a Prompt Generator
 
 [AI image generators](https://www.makeuseof.com/ai-text-to-art-generators/), like Midjourney and RunwayML, require a prompt to generate a corresponding image. You can use ChatGPT as a prompt generator by asking it to act as a prompt generator, just provide it with a short description of the image you want to generate.
@@ -86,27 +74,17 @@ Create an image of a tranquil beach scene at sunset. The sun is just touching th
  Similar to ChatGPT, DALL-E is accessible for free through OpenAI's website. If you need help fine-tuning your prompts for DALL-E, you can also use ChatGPT to generate variations of your initial prompt.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Would ChatGPT Ever Be Able to Create Images Directly?
 
  ChatGPT is not currently able to generate images directly, and it is unlikely that this capability will be added soon. The telltale sign of this is the existence of DALL-E, which provides this ability. For the foreseeable future, it is best to think of ChatGPT as a tool for generating text and use other models like DALL-E for image generation.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Creating Better Image Generation Prompts With ChatGPT
 
  ChatGPT can help you create AI images by providing prompts that can be used as input in other image-generation systems. With its natural language processing capabilities, it can generate highly-detailed and nuanced prompts with ease.
@@ -117,14 +95,11 @@ Create an image of a tranquil beach scene at sunset. The sun is just touching th
 
  However, the technology’s potential doesn’t just stop there. ChatGPT can also help in AI image generation. Read on to see how.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,4 +108,20 @@ Create an image of a tranquil beach scene at sunset. The sun is just touching th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-laughter-and-tears-connected-10-memes-that-resonate-on-ig/"><u>[New] 2024 Approved Laughter and Tears Connected 10 Memes That Resonate On IG</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-detailed-breakdown-of-fbm-transcription-techniques/"><u>[Updated] 2024 Approved The Detailed Breakdown of FBM Transcription Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-tips-to-improve-profile-cover-videos/"><u>[Updated] 2024 Approved Tips to Improve Profile Cover Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/webwmawmv-movavi/"><u>安心です!無料WEB上でWMAとWMVを簡単に変換します - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-purpose-and-application-of-hugging-face-in-ai/"><u>Decoding the Purpose and Application of Hugging Face in AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-latest-features-top-5-must-try-innovations-on-the-new-ios-18-preview/"><u>Explore the Latest Features: Top 5 Must-Try Innovations on the New iOS 18 Preview</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-a-deep-dive-into-the-fundamentals-of-youtube-shorts/"><u>In 2024, A Deep Dive Into The Fundamentals of YouTube Shorts</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-tailored-for-tech-savvy-audiences-unveil-the-youtuber-who-resonates-with-you-through-six-quizzes/"><u>In 2024, Tailored for Tech-Savvy Audiences Unveil the YouTuber Who Resonates with You Through Six Quizzes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-for-total-life-enhancement/"><u>Mastering ChatGPT for Total Life Enhancement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/privacy-alert-how-to-disengage-from-chatgpt/"><u>Privacy Alert! How to Disengage From ChatGPT</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/securing-your-audio-library-the-top-5-steps-for-internet-radio-storage/"><u>Securing Your Audio Library The Top 5 Steps for Internet Radio Storage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-to-camouflage-and-save-chatgpt-talks/"><u>Strategies to Camouflage and Save ChatGPT Talks</u></a></li>
+</ul></div>
 

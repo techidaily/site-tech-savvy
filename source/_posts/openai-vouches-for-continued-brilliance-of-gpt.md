@@ -1,7 +1,7 @@
 ---
 title: OpenAI Vouches for Continued Brilliance of GPT
-date: 2024-09-06T23:30:16.258Z
-updated: 2024-09-07T23:30:16.258Z
+date: 2025-01-08T00:01:53.320Z
+updated: 2025-01-12T18:47:56.765Z
 tags:
   - chatgpt
   - open-ai
@@ -22,11 +22,9 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
 **SCROLL TO CONTINUE WITH CONTENT**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is ChatGPT Getting Worse?
 
  It's something many ChatGPT users have wondered: is ChatGPT getting dumber? OpenAI releases frequent updates to ChatGPT designed to tweak its responses, safety, and more, [using user feedback](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/), prompts, and user data to inform its direction.
@@ -38,17 +36,9 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
  Responses requiring specific outputs, like those involving coding and math, are likely easiest to compare directly.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stanford Study Suggests ChatGPT Drop Off
 
  A combined Stanford University and UC Berkley research group believes those feelings that ChatGPT is changing could be right. Lingjiao Chen, Matei Zaharia, and James Zou's paper [How Is ChatGPT's Behavior Changing over Time?](https://arxiv.org/pdf/2307.09009.pdf) \[PDF\] is one of the first in-depth studies into ChatGPT's changing capabilities.
@@ -62,27 +52,17 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
 ![chatgpt study answers changing chart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
 ![chatgpt study answers changing chart explanations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart-explanations.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
  The charts suggest ChatGPT's responses are drifting, further emphasized by the report.
@@ -92,11 +72,9 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
  The report explains that ChatGPT's large language model chain of thought "did not work" when presented with the questions in June. Conversation drift has always been a notable issue with LLMs, but the extreme variance in responses suggests performance issues and changes to ChatGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is ChatGPT Getting Worse? OpenAI Says No
 
  Is it just a coincidence that both casual and prolific ChatGPT users are noticing ChatGPT's changing quality?
@@ -107,12 +85,6 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
  Still, that didn't stop numerous responses to his tweet detailing how users have found ChatGPT's responses wanting, with many taking the time to annotate prompts and responses.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Can OpenAI Restore ChatGPT to Its Original State?
 
  The early days of ChatGPT seem long in the distance now; November 2022 is a hazy memory, and the world of AI moves fast.
@@ -123,14 +95,11 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -139,4 +108,26 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unlocking-seamless-ocean-footage-with-these-7-hacks/"><u>[New] 2024 Approved Unlocking Seamless Ocean Footage with These 7 Hacks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-excellent-spots-for-tamil-ringtones-acquisition-guide/"><u>[Updated] Excellent Spots for Tamil Ringtones Acquisition Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-thumbnails-demystified-mac-edition/"><u>[Updated] In 2024, YouTube Thumbnails Demystified - Mac Edition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-10-tips-recording-your-youtube-livestreams/"><u>[Updated] Top 10 Tips Recording Your Youtube Livestreams</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/p-tier-cameras-that-will-transform-your-vlogging-experience-for-2024/"><u>12 Top-Tier Cameras That Will Transform Your Vlogging Experience for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/access-immediately-explore-8-specially-designed-ais/"><u>Access Immediately: Explore 8 Specially Designed AIs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-oppo-find-n3-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Oppo Find N3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ai-advantage-with-bing-get-started-guide/"><u>Discover the AI Advantage with Bing: Get Started Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-best-8-ai-enhanced-chrome-plug-ins/"><u>Discover the Best 8 AI-Enhanced Chrome Plug-Ins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-beyond-openais-bounds-with-gpt/"><u>Exploring Beyond OpenAI's Bounds with GPT</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-simple-tale-creation-guide/"><u>In 2024, Simple Tale Creation Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-response-engine-chatgpts-voice-emerges/"><u>Intelligent Response Engine: ChatGPT's Voice Emerges</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keep-personal-details-clear-from-ai-screens/"><u>Keep Personal Details Clear From AI Screens</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/labor-day-sale-alert-save-big-on-dell-tech-gear-monitors-pcs-perfect-for-back-to-school-exclusive-deals/"><u>Labor Day Sale Alert: Save Big on Dell Tech Gear (Monitors, PCs) Perfect for Back to School Exclusive Deals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-future-without-iphone-13-and-15-pro-top-alternatives-to-consider/"><u>Navigating the Future without iPhone 13 and 15 Pro - Top Alternatives to Consider</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safeguarding-against-unsaved-ai-dialogues/"><u>Safeguarding Against Unsaved AI Dialogues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/scout-out-best-spots-for-vr-experiences-for-2024/"><u>Scout Out Best Spots for VR Experiences for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strengthening-student-outcomes-with-ai-5-essential-uses-of-chatgpt-in-school/"><u>Strengthening Student Outcomes with AI: 5 Essential Uses of ChatGPT in School</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-hidden-perils-the-downside-of-ai-based-online-therapy-and-psychiatry/"><u>Unveiling the Hidden Perils: The Downside of AI-Based Online Therapy and Psychiatry</u></a></li>
+</ul></div>
 

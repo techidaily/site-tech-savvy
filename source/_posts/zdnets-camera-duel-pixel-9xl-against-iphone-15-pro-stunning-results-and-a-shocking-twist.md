@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Camera Duel: Pixel 9XL Against iPhone 15 Pro - Stunning Results & a Shocking Twist!"
-date: 2025-01-03T04:52:54.124Z
-updated: 2025-01-06T09:17:49.540Z
+date: 2025-01-07T17:19:31.567Z
+updated: 2025-01-12T23:39:38.396Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ The Google Pixel 9 Pro and 9 Pro XL come equipped with a 50MP primary camera, a 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pixel gets skin tones right
@@ -81,7 +81,7 @@ I use the ultrawide camera to take architecture shots or group photos. While I d
 I would prefer the iPhone shot for this particular image, but I can see myself using the wider FoV and fisheye effect on the Pixel 9 Pro when I'm traveling. The Google phone also fared better in low light with the ultrawide camera. That being said, the colors were consistent across three lenses on both phones.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A clear winner in night time
@@ -111,7 +111,7 @@ The iPhone 15 Pro holds up well in indoor and artificial lighting conditions but
 The iPhone 15 Pro shot looks bad, despite the dog not moving, while the Pixel 9 Pro XL was able to capture the subject when it was about to move by the time the shutter was processed. I would pick the new Google phone for night shots unless the iPhone 16 Pro comes with better Night Mode algorithms. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL gets good at selfies
@@ -125,7 +125,7 @@ I like the selfie shooter on the iPhone 15 Pro and have found it better than And
 I like the Pixel 9 Pro XL selfie here but the iPhone was able to get more details around the hair. But you can see areas around my forehead and cheeks where the highlights are blown out. However, both look social media worthy and I'm impressed by the selfie camera on the Pixel 9 Pro. It does a better job than the iPhone when the light source is behind you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL vs iPhone 15 Pro camera: Which one is better?
@@ -170,17 +170,16 @@ I expect the iPhone 16 Pro to do better in the aspects where the iPhone 15 Pro l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-perfecting-your-sound-palette-with-audacity-crossfading/"><u>[New] In 2024, Perfecting Your Sound Palette with Audacity Crossfading</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-elevating-video-branding-the-art-and-science-of-youtube-image-designs/"><u>[Updated] In 2024, Elevating Video Branding The Art and Science of Youtube Image Designs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/authentic-learning-experiences-not-easy-chatgpt-replies/"><u>Authentic Learning Experiences, Not Easy ChatGPT Replies</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-mac-based-software-top-3-tools-for-transforming-videos-into-mp3-files/"><u>Best Mac-Based Software: Top 3 Tools for Transforming Videos Into MP3 Files</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-characters-and-plots-with-ai-aided-insight-from-chatgpt/"><u>Crafting Characters and Plots with AI-Aided Insight From ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-eras-dollars-gaming-past-and-pc-building-now/"><u>Digital Era's Dollars: Gaming Past & PC Building Now</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/exploring-the-latest-in-instagram-filters-for-stunning-visuals-for-2024/"><u>Exploring the Latest in Instagram Filters for Stunning Visuals for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-chip-revolution-editing-videos-flawlessly-with-m1/"><u>In 2024, Chip Revolution Editing Videos Flawlessly with M1</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-idea-to-airtime-crafting-compelling-content-live/"><u>In 2024, From Idea to Airtime Crafting Compelling Content Live</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ingenious-illusions-unveiling-ais-artistic-potential-with-dall-e-iii/"><u>Ingenious Illusions: Unveiling AI's Artistic Potential with DALL-E III</u></a></li>
-<li><a href="https://extra-support.techidaily.com/proven-picks-the-top-5-online-title-makers-you-need-to-know-for-2024/"><u>Proven Picks The Top 5 Online Title Makers You Need to Know for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stanzas-stand-off-artisanal-verse-vs-chatbot-alpaca-herds/"><u>Stanzas Stand Off: Artisanal Verse vs ChatBot Alpaca Herds</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-maximizing-impact-on-insta-story-with-multiple-images/"><u>[New] 2024 Approved Maximizing Impact on Insta Story with Multiple Images</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-how-to-brighten-a-video-on-android-step-by-step-explained/"><u>[Updated] How To Brighten A Video On Android – Step By Step Explained</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-finding-the-perfect-pair-matching-mics-with-every-type-of-youtubers-style/"><u>[Updated] In 2024, Finding the Perfect Pair Matching Mics with Every Type of YouTuber's Style</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/8-top-video-screen-grabbers-for-2024/"><u>8 Top Video Screen Grabbers for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-understanding-av1-a-first-step-for-beginners/"><u>In 2024, Understanding AV1 A First Step for Beginners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-16-gains-enhanced-image-recognition-features-similar-to-google-lens-boosting-mobile-photography-experience-zdnet/"><u>IPhone 16 Gains Enhanced Image Recognition Features Similar to Google Lens, Boosting Mobile Photography Experience - ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maximum-video-stowage-on-a-single-64gb-unit-for-2024/"><u>Maximum Video Stowage on a Single 64Gb Unit for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/minstrels-versus-chatgpt-and-real-alpacas-top-llms-battle/"><u>Minstrels Versus ChatGPT & Real Alpacas: Top LLMs Battle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-paperclips-with-ai-driven-maximization-techniques/"><u>Reimagining Paperclips with AI-Driven Maximization Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-for-working-around-gpt-cap/"><u>Strategies for Working Around GPT Cap</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-llama-2-effectively-in-various-fields/"><u>Utilizing Llama 2 Effectively in Various Fields</u></a></li>
 </ul></div>
 

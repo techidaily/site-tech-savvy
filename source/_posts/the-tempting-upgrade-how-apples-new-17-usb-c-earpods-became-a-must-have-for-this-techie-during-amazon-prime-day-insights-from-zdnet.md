@@ -1,7 +1,7 @@
 ---
 title: "The Tempting Upgrade: How Apple's New $17 USB-C EarPods Became a Must-Have for This Techie During Amazon Prime Day - Insights From ZDNet"
-date: 2024-12-29T17:17:55.602Z
-updated: 2025-01-05T18:17:30.516Z
+date: 2025-01-06T18:29:22.358Z
+updated: 2025-01-13T01:38:06.472Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ Secondly, the microphone quality on Apple's wired EarPods is some of the best I'
 It should come as no surprise that I quickly bought another pair of USB-C [Apple EarPods](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-EarPods-Headphones-Built-Control%2Fdp%2FB0CHXC5ZDX%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6e09774b-02af-40f2-b15d-688a67e89fc7%7Cdtp&dtb=1) when they finally went on sale this morning. You can bet I'll be bringing them along for more plane rides and commutes throughout the summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,18 +71,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/irect-music-upload-top-tools-for-turning-spotify-into-youtube-listings-for-2024/"><u>[New] Direct Music Upload Top Tools for Turning Spotify Into YouTube Listings for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-androidiphone-mastery-discover-the-ultimate-top-8-app-set/"><u>[New] In 2024, Android/iPhone Mastery Discover the Ultimate Top 8 App Set</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-how-to-add-music-to-facebook-story/"><u>[Updated] 2024 Approved How to Add Music to Facebook Story?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-prime-8-the-elite-select-for-facebook-movies-in-23/"><u>[Updated] Prime 8 The Elite Select for Facebook Movies in '23</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-overhaul-seo-threats-and-opportunities/"><u>AI Overhaul: SEO Threats and Opportunities</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/audio-essentials-latest-speakers/"><u>Audio Essentials Latest Speakers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/brilliant-barrage-essential-gadgets-for-clips/"><u>Brilliant Barrage Essential Gadgets for Clips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-flexible-ais-for-practical-use-beyond-sora/"><u>Free, Flexible AIs for Practical Use: Beyond Sora</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/39239419-in-2024-mastering-the-download-of-your-youtube-playlist-today/"><u>In 2024, Mastering the Download of Your YouTube Playlist Today!</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/mastering-startup-drives-how-to-execute-run-stop-chkdsk-in-windows-a-comprehensive-tutorial/"><u>Mastering Startup Drives: How to Execute Run | Stop Chkdsk in Windows – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-nonresponsive-dialogues-for-ais/"><u>Navigating Nonresponsive Dialogues for AIs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimal-vs-code-mods-for-gpt-utilization/"><u>Optimal VS Code Mods for GPT Utilization</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-uninstalling-quick-setting-widgets-on-your-android-device/"><u>Step-by-Step Guide: Uninstalling Quick Setting Widgets on Your Android Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-srt-essentials-decoded-for-easy-understanding/"><u>[New] SRT Essentials Decoded for Easy Understanding</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-2023-best-facebook-video-downloader-and-addons-for-firefox/"><u>[Updated] 2024 Approved 2023 | Best Facebook Video Downloader And Addons for Firefox</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-periscope-user-manual/"><u>[Updated] The Ultimate Periscope User Manual</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-finding-liquid-within-iphone-charger-port-a-guide-to-fixing-the-issue-on-your-device/"><u>1. 'Finding Liquid Within iPhone Charger Port: A Guide to Fixing the Issue on Your Device'</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ballads-battleground-chatgpt-vs-shepherds-alpacas-unite/"><u>Ballads Battleground: ChatGPT vs Shepherds, Alpacas Unite!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-the-top-ai-conversationalist-chatgpt-microsofts-bing-and-googles-bard-compared/"><u>Choosing the Top AI Conversationalist: ChatGPT, Microsoft's Bing, and Google's Bard Compared</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deconstructing-the-turing-test-can-it-be-bested/"><u>Deconstructing the Turing Test: Can It Be Bested?</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/download-the-latest-karaoki-beta-release-june-5th-launch-on-pc-dj-platforms/"><u>Download the Latest Karaoki Beta Release: June 5Th Launch on PC DJ Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-long-does-your-apple-watch-battery-last-discover-the-unexpected-facts/"><u>How Long Does Your Apple Watch Battery Last? Discover the Unexpected Facts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-magic-6-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor Magic 6 Pro Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-os-18-unveiled-at-worldwide-developers-conference-202n4-exclusive-sneak-peek-of-key-features-and-eligible-devices-gadgetguru-blog/"><u>IPad OS 18 Unveiled at Worldwide Developers Conference 202N4 – Exclusive Sneak Peek of Key Features & Eligible Devices | GadgetGuru Blog</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-choosing-a-wi-fi-mesh-network-justified-by-its-benefits/"><u>Is Choosing a Wi-Fi Mesh Network Justified by Its Benefits?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-ios-18-causing-issues-with-your-ipad-essential-info-and-tips-pre-installation-insights-from-zdnet/"><u>Is iOS 18 Causing Issues with Your iPad? Essential Info & Tips Pre-Installation - Insights From ZDNet</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/pcdj-dex-3204-release-featuring-extended-support-for-latest-pioneer-dj-controllers-and-improved-functionality/"><u>PCDJ DEX 3.20.4 Release Featuring Extended Support for Latest Pioneer DJ Controllers and Improved Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premium-areas-for-collaborative-ai-creativity/"><u>Premium Areas for Collaborative AI Creativity</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/looper-mastery-app-for-2024/"><u>Tape Looper Mastery App for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-deal-macbook-air-with-m1-chip-at-an-all-time-low-of-649-exclusive-offer-from-zdnet/"><u>Unbeatable Deal: MacBook Air with M1 Chip at an All-Time Low of $649 – Exclusive Offer From ZDNet!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-academic-potential-effective-note-taking-and-chatgpt/"><u>Unlock Academic Potential: Effective Note Taking & ChatGPT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-video-quality-with-apple-music-addition-for-2024/"><u>Unlock Video Quality with Apple Music Addition for 2024</u></a></li>
 </ul></div>
 

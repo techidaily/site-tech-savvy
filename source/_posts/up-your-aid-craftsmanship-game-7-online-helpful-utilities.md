@@ -1,7 +1,7 @@
 ---
 title: "Up Your Aid Craftsmanship Game: 7 Online Helpful Utilities"
-date: 2025-01-02T06:39:52.199Z
-updated: 2025-01-05T19:28:33.161Z
+date: 2025-01-07T16:29:53.823Z
+updated: 2025-01-12T22:00:37.068Z
 tags:
   - chatgpt
   - open-ai
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 
  Playground AI is in no way related to the OpenAI Playground. Please don’t confuse the two.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. GPTtools
 
 ![Using GPTtools Comparison Tool to Compare Q&A on LLMs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gpttools-comparison-tool.jpg)
@@ -61,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
  The difference between the two is that Comparison Tool lets you review multiple outputs side by side. It’s a small change. However, you’ll find it very useful when analyzing dozens of responses. The platform even lets you turn them into Excel sheets.
 
  Since lengthy reports might take days to track, organize them properly. [Create an OpenAI account](https://www.makeuseof.com/openai-api-guide-what-can-you-do/), generate API keys, and sort them according to their project types.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. PromptBase
 
@@ -78,9 +78,17 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 
  Also, sell prompts that solve problems. Identify what AI users commonly complain about, create ways to overcome these roadblocks, then market the prompts online.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. GitHub
 
 ![Searching Github Repositories for ChatGPT Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/github-repositories-for-chatgpt-prompts.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Anyone interested in AI needs a GitHub account. It features a massive database of LLMs, programming, coding, and prompt engineering resources. You’ll find infinite repositories discussing these topics.
 
@@ -88,17 +96,9 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 
  To further improve your skills, collaborate with other users. Free accounts get about 2,000 minutes of Actions and 120 core hours of Codespaces a month. Play around with the site a bit. You can consider upgrading to a Pro account as you take on bigger projects.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Find Anything
 
 ![Searching for Dog Pictures on Google With Find Anything Extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/find-anything-extension-on-google-images.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Text-to-image generators](https://www.makeuseof.com/ai-text-to-art-generators/) help you visualize concepts, but their output doesn’t follow standard copyright laws. You can’t [claim ownership of AI-generated art](https://www.makeuseof.com/copyright-rules-ai-art/). AI tools pull elements from existing content, many of which might be copyright-protected.
 
@@ -108,12 +108,16 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 
  Or better yet, solely use Find Anything for art inspiration. Running it requires less technical know-how than Midjourney—beginners can practice testing text-to-image prompts here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Eye for AI
 
 ![Generating Skull and Flower Image on EyeforAi Image Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/eyeforai-image-generator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need an affordable Midjourney alternative, try Eye for AI. It uses the Stable Diffusion 1.5 model by default, and you can start generating images right from the get-go. Just input your text prompts. You could also select helpful descriptors to improve output accuracy.
@@ -123,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
  Upload relevant images of the person or object you want to portray—make sure you show the subject from various angles. And if possible, set your preferred diffusion model. Free accounts get 24 credits. You can purchase an extra 300 credits for just $13 if you find the Eye for AI useful.
 
  Please use AI image generators responsibly. Creating deepfakes to spread misinformation and damage a person’s reputation has legal consequences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Write Better Prompts With the Right Tools
 
@@ -153,24 +153,24 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-cutting-down-curated-content-how-to-delete-fb-story-pc-and-phone/"><u>[New] Cutting Down Curated Content How to Delete FB Story (PC & Phone)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-unlocking-advanced-functionalities-of-zoom-on-windows-10/"><u>[New] In 2024, Unlocking Advanced Functionalities of Zoom on Windows 10</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-ae-integrating-custom-typefaces/"><u>[New] Mastering AE Integrating Custom Typefaces</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-and-quirky-meme-mastery-generator-junction/"><u>[New] Quick & Quirky Meme Mastery Generator Junction</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/12-perfekt-mp4-playerer-du-alskar-optimerade-tillatna-pl-windows-11-8-7-och-macos/"><u>12 Perfekt MP4 Playerer Du Älskar – Optimerade Tillåtna Pĺ Windows 11, 8, 7 Och macOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-challenges-can-gpt-enhance-your-side-hustle/"><u>8 Challenges: Can GPT Enhance Your Side Hustle?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridge-to-everywheres-chatgpt-with-ease/"><u>Bridge to Everywhere's ChatGPT with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-tech-and-treatment-gpt-for-effective-cognitive-strategies/"><u>Bridging Tech and Treatment: GPT for Effective Cognitive Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-nlp-mastery-comparing-gpt-and-bert-systems/"><u>Demystifying NLP Mastery: Comparing GPT and BERT Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engaging-with-rtx-ai-on-pc-a-step-by-step-guide/"><u>Engaging with RTX AI on PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/find-your-dream-free-vfx-alternative-top-30-sites-explored-deeply/"><u>Find Your Dream Free VFX Alternative - Top 30 Sites Explored Deeply</u></a></li>
-<li><a href="https://media-tips.techidaily.com/hassle-free-guide-converting-media-files-for-android-touchscreen-gadgets/"><u>Hassle-Free Guide: Converting Media Files for Android Touchscreen Gadgets</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-13-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-claude-pro-a-deep-dive-into-its-capabilities/"><u>Introducing Claude Pro: A Deep Dive Into Its Capabilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionary-ai-tools-transforming-online-information-hunts/"><u>Revolutionary AI Tools Transforming Online Information Hunts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-connecting-your-printer-for-multi-device-access/"><u>Step-by-Step Guide: Connecting Your Printer for Multi-Device Access</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/talk-your-way-through-ai-mastering-chatgpt-via-vocal-commands/"><u>Talk Your Way Through AI: Mastering ChatGPT via Vocal Commands</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-remote-professionals-guide-maximizing-ai-in-work-life/"><u>The Remote Professional's Guide: Maximizing AI in Work Life</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oneplus-open-by-drfone-android/"><u>Three Ways to Sim Unlock OnePlus Open</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-top-youtube-spots-for-video-marketing-success/"><u>[New] In 2024, Top YouTube Spots for Video Marketing Success</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-best-smile-generator-for-memes/"><u>[Updated] Best Smile Generator for Memes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-ready-for-a-revolution-apples-touchscreen-macbook-dive-into-rumored-pricing-launch-date-and-tech-specs/"><u>Get Ready For a Revolution: Apple's Touchscreen MacBook – Dive Into Rumored Pricing, Launch Date & Tech Specs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-madden-nfl-22-persistent-loading-screen-issue/"><u>How to Resolve Madden NFL 22 Persistent Loading Screen Issue</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-13-pro-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone 13 Pro</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-unlocking-the-full-potential-of-high-dynamic-range-photos-using-lightroom/"><u>In 2024, Unlocking the Full Potential of High Dynamic Range Photos Using Lightroom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-cookiebot-technology-for-superior-user-tracking-and-insights/"><u>Leverage Cookiebot Technology for Superior User Tracking & Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-the-power-of-cookiebot-for-advanced-user-engagement-and-analytics/"><u>Leverage the Power of Cookiebot for Advanced User Engagement and Analytics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-cookiebot-technology-for-personalized-engagement/"><u>Leveraging Cookiebot Technology for Personalized Engagement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-cookiebots-powerful-capabilities-for-advanced-website-analytics/"><u>Leveraging Cookiebot's Powerful Capabilities for Advanced Website Analytics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-conversion-with-the-advanced-tracking-of-cookiebot-integration/"><u>Maximize Conversion with the Advanced Tracking of Cookiebot Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-enterprise-growth-with-digital-twin-technology-and-enhanced-process-mapping/"><u>Maximizing Enterprise Growth with Digital Twin Technology & Enhanced Process Mapping</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-web-insights-with-cookiebot-technology-advanced-user-engagement-tools/"><u>Optimize Web Insights with Cookiebot Technology – Advanced User Engagement Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-with-cookiebot-technology-advanced-tailoring-for-digital-engagement/"><u>Optimize with Cookiebot Technology: Advanced Tailoring for Digital Engagement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-care-quality-at-athenahealth-with-cutting-edge-ehr-technologies-expert-advice-on-patient-contentment-from-abbyy-blog/"><u>Optimizing Care Quality at Athenahealth with Cutting-Edge EHR Technologies | Expert Advice on Patient Contentment From ABBYY Blog</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionary-ai-hardware-developments-to-watch-in-current-year/"><u>Revolutionary AI Hardware Developments to Watch in [Current Year]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-to-upgrade-lenovo-thinkpad-t420-with-current-windows-drivers/"><u>Step-by-Step Instructions to Upgrade Lenovo ThinkPad T420 with Current Windows Drivers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-samsung-galaxy-m54-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Samsung Galaxy M54 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

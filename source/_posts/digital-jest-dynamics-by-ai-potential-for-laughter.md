@@ -1,7 +1,7 @@
 ---
 title: "Digital Jest Dynamics by AI: Potential for Laughter?"
-date: 2024-09-06T23:30:23.626Z
-updated: 2024-09-07T23:30:23.626Z
+date: 2025-01-10T21:21:26.841Z
+updated: 2025-01-12T17:26:51.728Z
 tags:
   - chatgpt
   - open-ai
@@ -23,22 +23,14 @@ thumbnail: https://thmb.techidaily.com/6063dc83bc10f2ac67f5a169d3251f5108aeff047
 
  But can it make us laugh? Laughter is a base human response to emotional stimuli. This makes it a perfect test for AIs continuing development. So, let's put AI under the spotlight and see if it can generate more than just words but an emotional response in the form of laughter.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Does ChatGPT Generate Comedy?
 
 ![Screenshot of AI Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-ai-joke.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Laughter is all about fun. So, let's have a little fun as we go. At the end of each section, we will list two jokes. One will be our corny attempt at humor, and the other will be an AI-generated joke. But will you be able to tell the difference?
 
  At the end of the article, all will be revealed.
@@ -55,11 +47,9 @@ thumbnail: https://thmb.techidaily.com/6063dc83bc10f2ac67f5a169d3251f5108aeff047
 * **Joke Two:** A man walks into a bar with a piece of asphalt under his arm. He says to the bartender, "I'll take a beer and one for the road."
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Can ChatGPT Do?
 
 ![Screenshot of ChatGPT Knock Knock Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-knock-knock-joke.jpg)
@@ -76,11 +66,9 @@ thumbnail: https://thmb.techidaily.com/6063dc83bc10f2ac67f5a169d3251f5108aeff047
 * **Joke Four:** Knock Knock! _Who's there?_ Boo. _Boo who_? Don't cry, it's just a computer program making jokes!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Can't ChatGPT Do?
 
 ![Screenshot ChatGPT Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-chatgpt-joke.jpg)
@@ -98,15 +86,13 @@ thumbnail: https://thmb.techidaily.com/6063dc83bc10f2ac67f5a169d3251f5108aeff047
 * **Joke Five:** Why don't scientists trust atoms? Because they make up everything!
 * **Joke Six:** I saw this advert in a window that said: "Television for sale, $1, volume stuck on full." I thought, "I can't turn that down."
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is the Future of AI In Comedy?
 
 ![Screenshot AI Joke about the future of AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-ai-joke-about-the-future-of-ai.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are moral and ethical implications to consider here. However, these fall outside the scope of the question that this article poses: Can AI make us laugh?
 
@@ -122,17 +108,9 @@ thumbnail: https://thmb.techidaily.com/6063dc83bc10f2ac67f5a169d3251f5108aeff047
 * **Joke Eight:** Why did the computer go to the doctor? Because it had a virus!
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Last Laugh
 
  AI is many things, but we struggled to get it to make us laugh. Getting it to generate jokes was no laughing matter! The humor was flat without the subtlety at the heart of much great comedy. For the record, joke numbers one, three, six, and seven were human-generated, and the others were AI-generated.
@@ -149,8 +127,6 @@ thumbnail: https://thmb.techidaily.com/6063dc83bc10f2ac67f5a169d3251f5108aeff047
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +134,24 @@ thumbnail: https://thmb.techidaily.com/6063dc83bc10f2ac67f5a169d3251f5108aeff047
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-crafting-unique-ps3-gameplay-presentations-with-screen-recordings/"><u>[New] Crafting Unique PS3 Gameplay Presentations with Screen Recordings</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-sound-syncing-simplified-for-inshot-edits-for-2024/"><u>[New] Sound Syncing Simplified for InShot Edits for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-gradual-volume-curve-of-audio-reduction-in-fl-studio/"><u>[Updated] The Gradual Volume Curve of Audio Reduction in FL Studio</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-influencing-audiences-with-short-form-videos/"><u>2024 Approved Influencing Audiences with Short-Form Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-verse-with-chatgpts-ai-assistance/"><u>Crafting Verse with ChatGPT's AI Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-claude-pro-and-its-place-among-gpt-enhancements/"><u>Decoding Claude Pro and Its Place Among GPT Enhancements</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207289788-eliminate-windows-directory-and-file-access-issues-today/"><u>Eliminate Windows Directory and File Access Issues Today</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-expertly-curated-windows-video-editors-guide/"><u>In 2024, Expertly Curated Windows Video Editors Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-navigating-the-world-of-youtube-live-visuals/"><u>In 2024, Navigating the World of YouTube Live Visuals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/limited-time-offer-snag-the-new-apple-pencil-2nd-generation-at-only-95-this-labor-day-shop-now-on-zdnet/"><u>Limited Time Offer: Snag the New Apple Pencil (2Nd Generation) at Only $95 This Labor Day – Shop Now on ZDNet!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protect-website-from-openais-crawlers/"><u>Protect Website From OpenAI's Crawlers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/terminal-talk-2023-interfacing-chatgpt-using-shellgpt/"><u>Terminal Talk 2023: Interfacing ChatGPT Using ShellGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-35-prime-day-tablet-bargains-exclusive-offers-that-are-still-available-insights/"><u>Top 35 Prime Day Tablet Bargains : Exclusive Offers That Are Still Available - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-picks-for-the-ultimate-2024-ipad-guide-in-depth-comparisons-and-reviews-tech-insights-by-zdnet/"><u>Top Picks for the Ultimate 2024 iPad Guide: In-Depth Comparisons & Reviews - Tech Insights by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-overview-of-the-newest-ai-powered-chatbots-integrating-gpt-and-astrology/"><u>Top Rated Overview of the Newest AI-Powered Chatbots: Integrating GPT and Astrology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/turing-test-explained-and-future-competitors/"><u>Turing Test Explained & Future Competitors?</u></a></li>
+</ul></div>
 

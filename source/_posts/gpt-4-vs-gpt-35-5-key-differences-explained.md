@@ -1,7 +1,7 @@
 ---
 title: "GPT-4 Vs. GPT-3.5: 5 Key Differences Explained"
-date: 2024-12-29T22:17:53.426Z
-updated: 2025-01-05T19:45:51.097Z
+date: 2025-01-09T22:45:03.120Z
+updated: 2025-01-12T22:42:20.664Z
 tags:
   - chatgpt
   - open-ai
@@ -38,13 +38,13 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 
  For example, if you ask both models to complete a creative task like writing a poem using both English and French on each line of the poem, [ChatGPT powered by the latest GPT-4 model](https://www.makeuseof.com/how-to-use-gpt4/) will deliver better results. While GPT-4's response would use both languages on every line, GPT-3.5 would alternate between both languages instead, with each line using one language and the next using the other.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. GPT-4 vs. GPT-3.5: Image or Visual Inputs
 
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  While GPT-3.5 can only accept text prompts, GPT-4 is multi-modal and can accept both text and visual inputs. To be clear, when we say visual inputs, the image doesn't have to be an image of a typed prompt—it can be an image of anything. So from an image of a handwritten math problem to Reddit memes, GPT-4 can understand and describe almost any image.
 
@@ -52,29 +52,25 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 
  During the GPT-4 announcement live stream, an OpenAI engineer fed the model with a screenshot of a Discord server. GPT-4 could describe every detail on it, including the names of users online at the time. An image of a hand-drawn mockup of a joke website was also fed to the model with instructions to turn it into a website, and amazingly, GPT-4 provided a working code for a website that matched the image.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. GPT-4 vs. GPT-3.5: Safer Responses
 
 ![Image of Shield Representing Cybersecurity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/behavior-based-safety-tips-featured-image.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While GPT-4 is not perfect, the measures it adopts to ensure safer responses are a welcomed upgrade from that of the GPT-3.5 model. With GPT-3.5, OpenAI took a more moderation-based approach to safety. In other words, some of the safety measures were more of an afterthought. OpenAI monitored what users did and the questions they asked, identified flaws, and tried to fix them on the go.
 
  With GPT-4, most safety measures are already baked into the system at the model level. To understand the difference, it's like building a house with robust materials from the get-go versus using anything that goes and then trying to patch things as faults emerge. According to [OpenAI's GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf) \[PDF\], GPT-4 produces toxic responses only 0.73% of the time compared to GPT-3.5's 6.48% of toxic replies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. GPT-4 vs. GPT-3.5: Factuality of Response
 
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  One of GPT-3.5's flaws is its tendency to produce nonsensical and untruthful information confidently. In AI lingo, this is called "AI hallucination" and can cause distrust of AI-generated information.
 
@@ -83,12 +79,16 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
  In GPT-4, hallucination is still a problem. However, according to the GPT-4 technical report, the new model is 19% to 29% less likely to hallucinate when compared to the GPT-3.5 model. But this isn't just about the technical report. Responses from the GPT-4 model on ChatGPT are noticeably more factual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. GPT-4 vs. GPT-3.5: Context Window
 
 ![A pair of programmers sitting in an office reviewing some code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/two-programmers-reviewing-code-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A less talked about difference between GPT-4 and GPT-3.5 is the context window and context size. A context window is how much data a model can retain in its "memory" during a chat session and for how long. GPT-4 has a significantly better context size and window than its predecessor model.
 
@@ -121,14 +121,22 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/automated-prose-perfection-the-hix-way/"><u>Automated Prose Perfection: The HIX Way</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-the-ai-thats-revolutionizing-video-content-crafting/"><u>ChatGPT: The AI That's Revolutionizing Video Content Crafting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/creating-characters-crafting-chronicles-gpts-sixfold-strategy/"><u>Creating Characters, Crafting Chronicles: GPT's Sixfold Strategy</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-infinix-zero-30-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Infinix Zero 30 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-hardware-emporium-in-depth-product-guides-and-comparisons/"><u>Inside Tom's Hardware Emporium: In-Depth Product Guides and Comparisons</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-to-streamline-corporate-operations-and-strategy/"><u>Leveraging ChatGPT to Streamline Corporate Operations and Strategy</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamped-acer-compatibility-in-windows-11-release/"><u>Revamped Acer Compatibility in Windows 11 Release</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-budget-conscious-video-modification-sites-explored-and-rated-for-2024/"><u>Top Budget-Conscious Video Modification Sites Explored and Rated for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/content-design-breakthroughs-via-chatxt-influence/"><u>Content Design Breakthroughs via ChaTxt Influence</u></a></li>
+<li><a href="https://facebook.techidaily.com/decrease-personalized-promotions-on-social-platforms/"><u>Decrease Personalized Promotions on Social Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-youtube-videos-the-chatgpt-scriptwriting-technique/"><u>Elevate Your YouTube Videos: The ChatGPT Scriptwriting Technique</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/fast-track-french-lingo-for-painters/"><u>Fast-Track French Lingo for Painters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-based-audacity-crash-code-9999/"><u>Fixing Windows-Based Audacity Crash Code 9999</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-a-trustworthy-ally-or-a-questionable-consultant-in-healthcare/"><u>GPT: A Trustworthy Ally or a Questionable Consultant in Healthcare?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-critically-acclaimed-phone-and-desktop-video-calls-list/"><u>In 2024, Critically Acclaimed Phone and Desktop Video Calls List</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/losung-fur-das-langsame-starten-ihres-lenovo-laptops-mit-windows-10/"><u>Lösung Für Das Langsame Starten Ihres Lenovo Laptops Mit Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-tasks-top-7-chatgpt-techniques-for-peak-output/"><u>Master Your Tasks: Top 7 ChatGPT Techniques for Peak Output</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/masterful-use-of-chatgpt-cutting-out-inefficient-tools/"><u>Masterful Use of ChatGPT: Cutting Out Inefficient Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-convertir-archivos-mka-a-aac-online-sin-gastar-un-centavo/"><u>Movavi - Convertir Archivos MKA a AAC Online Sin Gastar Un Centavo</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mastering-wax-a-step-by-step-guide-to-free-video-editing/"><u>New 2024 Approved Mastering Wax A Step-by-Step Guide to Free Video Editing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-gen-writing-technology-hixplusgpt-4-duo/"><u>Next-Gen Writing Technology: HIX+GPT-4 Duo</u></a></li>
+<li><a href="https://common-error.techidaily.com/oculus-troubleshooting-mastery-correcting-hardware-mishaps/"><u>Oculus Troubleshooting Mastery: Correcting Hardware Mishaps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rumors-surrounding-new-google-pixel-buds-pro-2-price-availability-and-hardware-insights/"><u>Rumors Surrounding New Google Pixel Buds Pro 2 – Price, Availability & Hardware Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-trades-with-ai-optimizing-your-crypto-approach/"><u>Smart Trades with AI: Optimizing Your Crypto Approach</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-ai-prompt-engineering-and-is-it-a-stable-career-path/"><u>What Is AI Prompt Engineering, and Is It a Stable Career Path?</u></a></li>
 </ul></div>
 

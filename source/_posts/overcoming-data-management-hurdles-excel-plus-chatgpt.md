@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Data Management Hurdles: Excel + ChatGPT"
-date: 2025-01-02T16:44:54.623Z
-updated: 2025-01-06T08:53:21.914Z
+date: 2025-01-05T17:38:42.239Z
+updated: 2025-01-12T18:24:48.212Z
 tags:
   - chatgpt
   - open-ai
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
  Here are some examples of common ChatGPT prompts and code that can be useful while working with Excel.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Rounding Numbers
@@ -64,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 
 ![ChatGPT showing the formula to calculate the average of cells on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-average.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Sorting and Filtering Data
 
  You can also use ChatGPT to create macros that sort and filter data. For example, you could ask, "Can you create a macro that sorts data in ascending order?", and ChatGPT will respond with the suitable VBA code:
@@ -75,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 ![ChatGPT showing an example macro for the sort filter on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-sort-filter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. More Advanced Examples
@@ -85,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 ![ChatGPT showing the macro to create filters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-macro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can ask “Create a macro that copies filtered data to a new worksheet”, ChatGPT will respond with:
@@ -96,11 +92,19 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 
 ![ChatGPT showing the formula for the SUMPRODUCT function for weighted average on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-weighted-average.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, ChatGPT can provide you with the prompts and code examples you need to use Excel more effectively. Just ask ChatGPT in plain English, and it will respond with the necessary information.
 
 ## The Best Practices of Using ChatGPT With Excel
 
  While ChatGPT can be a powerful tool for working with Excel, it's essential to use it correctly to get the best results. Here are some best practices for using ChatGPT with Excel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Use Clear and Concise Prompts
 
@@ -115,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
  When using ChatGPT to generate a macro, review the code carefully and check for syntax errors or logical inconsistencies. Testing the macro with sample data can also help ensure it functions as expected.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Start With More Straightforward Problems
@@ -123,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
  If you're new to using ChatGPT with Excel, starting with more specific and straightforward issues is a good idea to understand how the tool works. For example, you can begin by asking for formulas to [sort and filter data in Excel](https://www.makeuseof.com/excel-macros-for-sorting-data/) or create a pivot table.
 
  As you become more comfortable using ChatGPT with Excel, you can move on to more complex problems, such as creating custom functions or automating repetitive tasks with macros.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Make the Best of ChatGPT and Excel
 
@@ -153,18 +153,18 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-streaming-wars-the-digital-platform-showdown/"><u>[New] In 2024, Streaming Wars The Digital Platform Showdown</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-unveiling-the-secrets-detailed-guide-on-capturing-screens-with-zd/"><u>[New] Unveiling the Secrets Detailed Guide on Capturing Screens with ZD</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-enhance-your-social-presence-with-easy-fb-video-upload-pc-and-android-for-2024/"><u>[Updated] Enhance Your Social Presence with Easy FB Video Upload, PC & Android for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-asmrs-upside-exploring-its-health-impacts/"><u>[Updated] In 2024, ASMR's Upside Exploring Its Health Impacts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-majestic-celestial-images-at-your-command/"><u>[Updated] Majestic Celestial Images at Your Command</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-browser-screen-capturing-software/"><u>2024 Approved The Ultimate Guide to Browser Screen Capturing Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-drops-top-ranking-ad-during-super-bowl-break-steals-the-show/"><u>Apple Drops Top-Ranking Ad During Super Bowl Break, Steals the Show !</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-logic-lines-can-silicon-seek-out-sorrow-and-joy/"><u>Beyond Logic Lines: Can Silicon Seek Out Sorrow and Joy?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/eliminating-streaming-glitches-on-chatgpt-platform/"><u>Eliminating Streaming Glitches on ChatGPT Platform</u></a></li>
-<li><a href="https://fox-search.techidaily.com/struggling-with-driver-software-setup-in-windows-expert-advice-from-yl-computing/"><u>Struggling with Driver Software Setup in Windows? Expert Advice From YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ai-journey-simplified-edition/"><u>The AI Journey, Simplified Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-parents-guide-to-chatgpt-and-generative-ai/"><u>The Parents Guide to ChatGPT and Generative AI</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-strategies-how-to-fix-a-non-responsive-rust-application/"><u>Top Strategies: How To Fix a Non-Responsive Rust Application</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-start-guide-easy-steps-for-effective-video-calling-on-zoom/"><u>[New] Quick Start Guide Easy Steps for Effective Video Calling on Zoom</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-social-media-synergy-linking-instagram-with-tiktok/"><u>[New] Social Media Synergy Linking Instagram with TikTok</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-expert-review-ricoh-theta-s-unveiled-in-detail/"><u>[Updated] 2024 Approved Expert Review Ricoh Theta S Unveiled in Detail</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-holistic-iphone-use-images-and-videos-fused-together/"><u>[Updated] 2024 Approved Holistic iPhone Use Images & Videos Fused Together</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-hastening-vimeo-media-transmission/"><u>[Updated] In 2024, Hastening Vimeo Media Transmission</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-marvel-universe-with-apple-vision-pro-the-future-of-ar-glasses-revealed-on-may-30th/"><u>Discover the Marvel Universe with Apple Vision Pro: The Future of AR Glasses Revealed on May 30Th</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/from-idea-to-execution-creating-youtube-trailers-in-filmora/"><u>From Idea to Execution Creating YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-lava-yuva-3-pro-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-potential-with-the-powerful-polaroid-xs-100i/"><u>In 2024, Unleashing Potential with the Powerful Polaroid XS 100I</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-non-openai-pos-applications-for-modern-businesses/"><u>Innovative Non-OpenAI POS Applications for Modern Businesses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-smart-choice-avoid-investing-in-the-iphone-16-if-you-value-cutting-edge-apple-tech-insights/"><u>The Smart Choice: Avoid Investing in the iPhone 16 if You Value Cutting-Edge Apple Tech - Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-d3derrnotavailable-error-expert-tips-and-solutions/"><u>Troubleshooting the D3DERR_NOTAVAILABLE Error: Expert Tips & Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-nlp-marvels-contrasting-gpt-and-bert-models/"><u>Unveiling NLP Marvels: Contrasting GPT & BERT Models</u></a></li>
 </ul></div>
 

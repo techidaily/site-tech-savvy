@@ -1,7 +1,7 @@
 ---
 title: "Transforming Photography: The Remarkable Advancements in Smartphone Camera Technology Powered by Artificial Intelligence for an Impressive Tomorrow | ZDNet"
-date: 2025-01-01T01:16:09.761Z
-updated: 2025-01-06T05:21:01.596Z
+date: 2025-01-11T17:19:45.013Z
+updated: 2025-01-13T00:33:48.960Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,14 +126,22 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-pursuit-of-riches-terrarias-quintessential-map-rankings/"><u>[Updated] Pursuit of Riches Terraria’s Quintessential Map Rankings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cryptocurrency-crusaders-guide-top-5-ai-trading-tips/"><u>Cryptocurrency Crusaders' Guide: Top 5 AI Trading Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-conversations-with-your-computers-nvidia-bot/"><u>Effortless Conversations with Your Computer's Nvidia Bot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embracing-ai-the-ultimate-guide-for-teachers-8-reasons/"><u>Embracing AI: The Ultimate Guide for Teachers (8 Reasons)</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211107461-9781667460208-gestion-du-stress/"><u>Gestion du stress | Free Book</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-professional-stability-systems-for-youtube-filmmakers/"><u>In 2024, Professional Stability Systems for YouTube Filmmakers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/transform-your-igtv-videos-tips-for-impactful-titles-and-summaries-for-2024/"><u>Transform Your IGTV Videos Tips for Impactful Titles & Summaries for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/your-ai-education-begins-here-engage-with-our-top-9-groups/"><u>Your AI Education Begins Here: Engage With Our Top 9 Groups</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-securing-your-gaming-moments-with-windows-11/"><u>[New] 2024 Approved Securing Your Gaming Moments with Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamline-conversion-selecting-the-top-10-free-tools/"><u>[New] Streamline Conversion Selecting the Top 10 Free Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-ultimate-guide-to-fb-timing-and-free-tools/"><u>[Updated] In 2024, The Ultimate Guide to FB Timing & Free Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-youtube-video-creation-secrets-of-the-professionals-unveiled/"><u>[Updated] In 2024, YouTube Video Creation Secrets of the Professionals Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-screens-sole-contender-software-or-hardware-triumph/"><u>[Updated] The Screen's Sole Contender Software or Hardware Triumph?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-video-sounds-with-canvas-audio-tools/"><u>Enhancing Video Sounds with Canva's Audio Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/everspace-2-pc-glitch-no-more-a-step-by-step-guide-to-restoring-game-performance/"><u>Everspace 2 PC Glitch No More: A Step-by-Step Guide to Restoring Game Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-activating-and-deactivating-the-sleep-feature-in-windows-11-systems/"><u>Guide: Activating and Deactivating the Sleep Feature in Windows 11 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-fix-a-missing-network-adapter-driver-issue-on-your-windows-11-pc-step-by-step-guide/"><u>How to Fix a 'Missing Network Adapter Driver' Issue on Your Windows 11 PC: Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-fix-computer-starting-but-showing-no-image-on-monitors/"><u>How to Fix Computer Starting but Showing No Image on Monitors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-make-google-my-homepage-quickly-and-easily/"><u>How to Make Google My Homepage | Quickly & Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keyboard-keys-sticking-on-windows-solved/"><u>Keyboard Keys Sticking on Windows [Solved]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-pc-game-playthroughs-expert-tips-for-accelerating-load-times-and-frame-rates/"><u>Maximize PC Game Playthroughs: Expert Tips for Accelerating Load Times and Frame Rates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/playing-fallout-3-seamlessly-on-windows-10-a-step-by-step-guide/"><u>Playing Fallout 3 Seamlessly on Windows 10 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-performance-with-precaution-how-to-accurately-assess-cpu-heat-on-your-windows-11-pc/"><u>Protecting Performance with Precaution: How to Accurately Assess CPU Heat on Your Windows 11 PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/streamlined-ourlink-u631-usb-wi-fi-adapter-compact-design-robust-signal-strength/"><u>Streamlined Ourlink U631 USB Wi-Fi Adapter - Compact Design, Robust Signal Strength</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-tecno-spark-20s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Tecno Spark 20s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

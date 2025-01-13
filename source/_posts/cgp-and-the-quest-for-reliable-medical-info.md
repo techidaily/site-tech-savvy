@@ -1,7 +1,7 @@
 ---
 title: CGP and the Quest for Reliable Medical Info
-date: 2025-01-04T18:27:51.247Z
-updated: 2025-01-05T23:08:23.232Z
+date: 2025-01-11T01:28:07.021Z
+updated: 2025-01-12T18:10:33.914Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ChatGPT's Potential for Improving Wellness
 
  When it comes to wellness information, there are several benefits of using an AI tool, such as ChatGPT:
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 * ChatGPT is easy to use. If you can think and type, you can use ChatGPT. Eventually, as tech companies integrate these systems into voice assistants, you might not even need to do the typing! This makes ChatGPT accessible to people of varying ages and technical abilities.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Examples of How ChatGPT Can Be Used for Health and Fitness Advice
@@ -52,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 ![Screenshot of ChatGPT giving health advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-2023-02-09-at-1-48-14-pm.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It can also be used to generate advice on weekly meal plans based on your body type, sex, activity level, age, food preferences, and health goals (whether you want to lose weight, gain muscle, or something else).
@@ -64,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
  You could also use ChatGPT to provide information on how to maintain a healthy lifestyle, including how to protect yourself from illness. Or you can ask it to make recommendations for cancer screenings based on your factors (e.g. age, sex, and family history).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Limitations of Relying on ChatGPT for Health and Fitness Advice
@@ -78,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
  If you're going to use ChatGPT as one source of health and fitness advice, there are some tips and tricks you can follow to improve the quality of information you receive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips and Tricks for Improving Relevance of Health and Fitness Recommendations
@@ -89,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 * **Consider the context** . Because health and fitness advice can vary so much between individuals, you will want to provide the model with as much personal information as possible, including your health history, goals, and current circumstances, before asking it to generate a response.
 * **Ask for clarification** . If the information provided by ChatGPT seems unclear or incomplete, ask it for additional information. You can even ask ChatGPT to ask you questions to better understand your individual needs before providing you with a response.
 * **Be specific** . The information provided by ChatGPT will be as specific as you ask it to be. For instance, if you ask it simple, single-sentence questions such as, "How can I lose weight?" you'll get general responses. However, if you figure out how to focus the model with parameters and guidelines, it is more likely to provide the advice you can use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can You Use ChatGPT to Get Trustworthy Health Information?
 
@@ -113,24 +113,18 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-plotting-prime-promotional-summaries/"><u>[New] Plotting Prime Promotional Summaries</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-transforming-standard-tweets-into-hd-spectacles/"><u>[Updated] 2024 Approved Transforming Standard Tweets Into HD Spectacles</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-your-quick-reference-guide-to-sharing-smiles-with-9gag/"><u>[Updated] 2024 Approved Your Quick Reference Guide to Sharing Smiles with 9GAG</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-expert-analysis-on-slomo-video-softwares-performance/"><u>[Updated] Expert Analysis on SloMo Video Software's Performance</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-subaquatic-spectacites-tips-to-enrich-underwater-videos-using-gopro/"><u>[Updated] In 2024, Subaquatic Spectacites Tips to Enrich Underwater Videos Using GoPro</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/anti-impersonation-device-openais-ai-to-spot-gpt-text-tricks/"><u>Anti-Impersonation Device: OpenAI's AI to Spot GPT Text Tricks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/charting-a-new-path-with-text-and-talk/"><u>Charting a New Path with Text and Talk</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/customize-and-explore-openais-new-gpt-shopping-experience/"><u>Customize and Explore: OpenAI's New GPT Shopping Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/educators-digital-guide-4-essential-gpt-validation-tools/"><u>Educator’s Digital Guide: 4 Essential GPT Validation Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-samsung-galaxy-a25-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy A25 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-protect-your-privacy-when-using-chatgpt-for-work/"><u>How to Protect Your Privacy When Using ChatGPT for Work</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-asus-rog-phone-8-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Asus ROG Phone 8 Pro Lock Screen Password?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-the-era-of-traditional-se-ending-with-ai-innovations/"><u>Is the Era of Traditional SE Ending with AI Innovations?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openais-gpt-unpacking-cybersecurity-issues/"><u>OpenAI's GPT: Unpacking Cybersecurity Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tech-and-trek-will-gpt-help-in-uncharted-territories/"><u>Tech & Trek: Will GPT Help in Uncharted Territories?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ai-tussle-continues-decide-between-snapchats-myai-and-gpt/"><u>The AI Tussle Continues: Decide Between Snapchat's MyAI & GPT</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-managing-deletion-alerts-in-windows-os/"><u>Tips for Managing Deletion Alerts in Windows OS</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transforming-titles-best-ai-powered-podcast-name-makers-for-2024/"><u>Transforming Titles Best AI-Powered Podcast Name Makers for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-how-to-increase-followers-on-instagram-ultimate-guide/"><u>[New] 2024 Approved How to Increase Followers on Instagram - Ultimate Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-record-and-save-your-workscreen-on-windows-8/"><u>[New] How to Record and Save Your Workscreen on Windows 8</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-penning-powerful-film-prospectus/"><u>[New] Penning Powerful Film Prospectus</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/iconic-scenes-from-tarantinos-cinema-background-graphics-and-decor-by-yl-softworks/"><u>Iconic Scenes From Tarantino's Cinema: Background Graphics & Decor by YL Softworks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-the-potential-of-ifunnys-meme-application/"><u>In 2024, Unleash the Potential of iFunny’s Meme Application</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-the-art-of-reviving-classic-dvd-films-for-your-latest-apple-m-series-mac-tips-and-tricks-experts/"><u>Master the Art of Reviving Classic DVD Films for Your Latest Apple M-Series Mac - Tips & Tricks Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolving-itunes-error-invalid-device-responses-preventing-iphone-connections/"><u>Resolving iTunes Error: Invalid Device Responses Preventing iPhone Connections</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamlessly-connect-your-ps4-controller-step-by-step-tutorial/"><u>Seamlessly Connect Your PS4 Controller: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-solution-correcting-realtek-hd-sound-card-driver-malfunction/"><u>Simple Solution: Correcting Realtek HD Sound Card Driver Malfunction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-steps-to-disable-windows-11-updates-a-beginners-guide/"><u>Simple Steps to Disable Windows 11 Updates: A Beginner's Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-techniques-for-taking-easy-screenshots-on-pcs-and-laptops/"><u>Simple Techniques for Taking Easy Screenshots on PCs and Laptops</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-how-to-maintain-excellent-clarity-when-uploading-videos-from-your-desktop-to-instagram/"><u>Step-by-Step Guide: How to Maintain Excellent Clarity When Uploading Videos From Your Desktop to Instagram</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-samsung-galaxy-m54-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Samsung Galaxy M54 5G without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
 

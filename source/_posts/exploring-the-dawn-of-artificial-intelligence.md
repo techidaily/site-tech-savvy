@@ -1,7 +1,7 @@
 ---
 title: Exploring the Dawn of Artificial Intelligence
-date: 2024-09-06T23:30:19.497Z
-updated: 2024-09-07T23:30:19.497Z
+date: 2025-01-09T23:17:36.953Z
+updated: 2025-01-12T23:58:41.858Z
 tags:
   - chatgpt
   - open-ai
@@ -13,18 +13,6 @@ excerpt: This Article Describes Exploring the Dawn of Artificial Intelligence
 thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e159a549922c8c259267eab9e9.png
 ---
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Exploring the Dawn of Artificial Intelligence
 
  While the AI race only recently started, artificial intelligence and machine learning have been around longer than consumers realize. AI technologies play a crucial role in various industries. They accelerate research and development in healthcare, national security, logistics, finance, and retail, among other sectors.
@@ -35,15 +23,13 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 
  AI has a rich, complex history. Here are some of the most notable breakthroughs that shape today's most sophisticated AI models.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1300-1900: Tracing the Roots of AI
 
 ![Old, Ancient Books in Dirt and With Yellow Pages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/old-books-yellow-pages.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Computers emerged in the mid-70s](https://www.makeuseof.com/who-built-the-first-personal-computer-and-how-does-it-compare-with-your-pc-or-laptop/), but historians trace the earliest references to AI back to the late middle ages. Scholars often wondered about future innovations. Of course, they lacked the technological resources and skills to materialize ideas.
 
@@ -58,12 +44,6 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 
 ![Scribbles of Math Problems on Old Notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/math-problems-old-notebook-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Technological developments accelerated during this period. The accessibility of IT resources enabled researchers to materialize theories, imagined concepts, and speculations. They were laying the foundation for cybernetics.
 
 * **1914:** Spanish civil engineer Leonardo Torres y Quevedo created El Ajedrecista, which translates to The Chess Player in English. It's an early use of automation. The Chess Player performed an endgame move using its rook and king to checkmate an opposing player.
@@ -74,20 +54,16 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
  The dawn of modern AI fitting accumulates with Alan Turing's paper and the [Turing Test, which attempts to answer the question](https://www.makeuseof.com/tag/what-is-turing-test-ever-beaten/), "Can machines think?"
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1951-2000: Exploring the Applications of AI Technologies
 
 ![An Old and Large Supercomputer Display at the Museum](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/old-super-computer-display.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:CDC%5F6600%5F-%5FComputer%5FHistory%5FMuseum%5F%2830614723650%29.jpg)
 
@@ -103,6 +79,10 @@ Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:C
 
 ![The Black First Generation iPhone on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/original-iphone-first-gen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IPhone%5FFirst%5FGeneration%5F8GB%5F%283680455198%29.jpg)
 
  Consumers gained access to innovative, groundbreaking technologies that made their lives more convenient. They slowly adopted these new gadgets. The iPod replaced the Sony Walkman, gaming consoles put arcades out of business, and Wikipedia beat Encyclopædia Britannica.
@@ -116,27 +96,13 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
  Interestingly, despite this period featuring some of the most iconic tech from recent decades, AI wasn't fully on the radar for most consumers, with personal and home assistant tools like Siri and Alexa only appearing in the next period.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2011-2020: The Spread and Development of AI-Driven Applications
 
 ![Camera, Smartphone, Keyboard, an Laptop on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/various-gadgets-on-table.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Companies began developing stable AI-driven solutions during this period. They integrate AI into various software and hardware systems, like virtual assistants, grammar checkers, laptops, smartphones, and [augmented reality apps](https://www.makeuseof.com/tag/best-augmented-reality-apps-android/).
 
 * **2011:** IBM developed Watson, a question-answering computer system. The company pitted it against two former champions in Jeopardy to demonstrate its capabilities—Watson the computer won.
@@ -147,12 +113,6 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
  During this period, consumers were likely to use AI applications without even realizing it, even though visual and voice recognition tools (for most consumers) were still young. Towards the end of the decade, AI development kicked up a notch, but still not as dramatically as what was to come.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2021-Present: Global Tech Leaders Kick off the Great AI Race
 
 ![openai logo on black screen](https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882cc06bf2431577eb2dc90df03.jpg)
@@ -174,14 +134,11 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
  AI has a rich, complex history. Here are some of the most notable breakthroughs that shape today's most sophisticated AI models.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -190,4 +147,24 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-craft-excellence-top-10-free-drawing-tools-for-mac/"><u>[New] Craft Excellence Top 10 Free Drawing Tools for Mac</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-lg-bp350-evaluation-size-resolution-and-connectivity/"><u>[New] In 2024, LG BP350 Evaluation - Size, Resolution, and Connectivity</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-high-fidelity-transformation-choosing-the-best-video-converters-for-2024/"><u>[Updated] High Fidelity Transformation Choosing the Best Video Converters for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/20-anker-charger-the-ultimate-solution-to-portable-battery-woes-discover-how/"><u>$20 Anker Charger: The Ultimate Solution to Portable Battery Woes - Discover How</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-budding-entrepreneurs-guide-mastering-the-art-of-social-media-advertising/"><u>2024 Approved Budding Entrepreneurs Guide Mastering the Art of Social Media Advertising</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-infinix-note-30-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-rainbow-six-siege-error-detailed-strategies-for-resolving-code-e3-0x0001000b/"><u>Conquer Rainbow Six Siege Error: Detailed Strategies for Resolving Code E3-0X0001000b</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-android-with-the-advanced-ai-features-of-bing/"><u>Empowering Android with the Advanced AI Features of Bing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/head-to-head-comparison-google-pixel-watch-against-the-apple-series-8-making-the-right-pick-for-you/"><u>Head-to-Head Comparison: Google Pixel Watch Against the Apple Series 8 – Making the Right Pick for You!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-mobile-search-bings-ai-for-everyday-use/"><u>Innovative Mobile Search - Bing’s AI for Everyday Use.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-openais-dominion-over-gpt-dwindling/"><u>Is OpenAI's Dominion Over GPT Dwindling?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/leading-transformation-software-spectrashift-series-for-2024/"><u>Leading Transformation Software SpectraShift Series for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/risks-galore-why-not-to-trust-ai-in-medicine/"><u>Risks Galore: Why Not to Trust AI in Medicine</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-finest-places-to-source-high-quality-vectors/"><u>The Finest Places to Source High-Quality Vectors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-the-full-potential-of-your-iphone-using-secret-siri-shortcuts-discover-how/"><u>Unleash the Full Potential of Your iPhone Using Secret Siri Shortcuts - Discover How</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-you-cant-get-the-latest-apple-ai-on-your-old-iphone-the-pricey-reasons-unveiled/"><u>Why You Can't Get the Latest Apple AI on Your Old iPhone: The Pricey Reasons Unveiled</u></a></li>
+</ul></div>
 

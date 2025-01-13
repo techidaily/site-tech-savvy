@@ -1,7 +1,7 @@
 ---
 title: Seamless Integration of Microsoft Copilot Into Your Mac
-date: 2025-01-02T22:39:47.097Z
-updated: 2025-01-05T20:02:29.471Z
+date: 2025-01-09T01:22:58.618Z
+updated: 2025-01-12T20:29:46.012Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 * [Install Microsoft Copilot as a Web App on Your Mac](https://arkmc.pxf.io/znergr)
 * [Getting Started With Microsoft Copilot on Your Mac](https://imp.i357552.net/jzg4rq)
 * [The Benefits of Using Copilot Over ChatGPT](https://modlily.sjv.io/aw92wr)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -63,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
  Double-click its icon to start using Copilot right away. Jump to the **Getting Started** section below to get acquainted with the app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Launch Copilot on Mac With a Keyboard Shortcut
@@ -75,16 +71,21 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 ![Adding a new shortcut in macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/adding-a-new-shortcut-in-macos.jpg)
 3. Drag the **Open App** action from the right sidebar to the empty space on the left.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click the blue **App** field and use the search bar to find and select **Copilot**.  
 ![Creating a simple Open app shortcut to quickly open Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/creating-a-simple-open-app-shortcut-to-quickly-open-copilot.jpg)
 5. Next, switch to the **Info (i)** tab of the sidebar and click **Add Keyboard Shortcut**.  
 ![Assigning a custom keyboard shortcut to launch Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-launch-copilot.jpg)
 6. Now, enter a key combination you like, but make sure it doesn't overlap with any other [useful Mac keyboard shortcuts](https://www.makeuseof.com/tag/useful-mac-osx-shortcuts-pdf/). Then, hit the **Return** key.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Assigning a custom keyboard shortcut to run Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-run-copilot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can now exit the Shortcuts app and enter the keyboard shortcut you added to quickly launch Microsoft Copilot on your Mac, no matter what you're doing.
 
@@ -99,11 +100,11 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 
 ![Adding Copilot web app to the Dock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/adding-copilot-web-app-to-the-dock.jpg)
 
- You'll find the Copilot web app on your Dock immediately. Launch it to begin.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You'll find the Copilot web app on your Dock immediately. Launch it to begin.
 
 ## Getting Started With Microsoft Copilot on Your Mac
 
@@ -121,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
  You can clear your Copilot search history by heading to the app's privacy settings menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Benefits of Using Copilot Over ChatGPT
@@ -149,19 +150,18 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-pixelpartition-review/"><u>[Updated] PixelPartition Review</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/windows-pc2/"><u>無料救出ガイド：Windows PC上、消えてしまった画像を2通りの方法で完全に取り戻せる</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/are-user-feedback-valuable-for-ai-learning-processes/"><u>Are User Feedback Valuable for AI Learning Processes?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/big-brains-discussing-tomorrows-artificial-intelligence/"><u>Big Brains Discussing Tomorrow’s Artificial Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/command-chatgpt-the-ultimate-voice-guide-5-methods/"><u>Command ChatGPT: The Ultimate Voice Guide (5 Methods)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/disabling-automated-podcast-recommendations-on-spotify-for-2024/"><u>Disabling Automated Podcast Recommendations on Spotify for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-power-of-wax-a-free-video-editor-tutorial-for-2024/"><u>Discover the Power of Wax A Free Video Editor Tutorial for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-chatbot-prompts-to-podcast-echoes/"><u>From ChatBot Prompts to Podcast Echoes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-magic-6-lite-video-recovery-recover-deleted-videos-from-honor-magic-6-lite-by-fonelab-android-recover-video/"><u>Honor Magic 6 Lite Video Recovery - Recover Deleted Videos from Honor Magic 6 Lite</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premium-15-groundbreaking-film-processors-for-gopro-cinematography/"><u>In 2024, Premium 15 Groundbreaking Film Processors for GoPro Cinematography</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/spotting-distinctions-nlp-tech-versus-ml-framework/"><u>Spotting Distinctions: NLP Tech Versus ML Framework</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-next-big-step-in-ai-googles-unveiling-of-palm-2-model/"><u>The Next Big Step in AI: Google's Unveiling of PaLM 2 Model</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-strategies-in-drone-filmmaking-for-2024/"><u>Top Strategies in Drone Filmmaking for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-uncover-the-causes-behind-non-functional-car-speakers/"><u>Troubleshooting Guide: Uncover the Causes Behind Non-Functional Car Speakers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unhindered-video-streaming-with-chromes-performance-fixes/"><u>[Updated] 2024 Approved Unhindered Video Streaming with Chrome's Performance Fixes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-curveball-mastering-gopro-lens-distortion/"><u>[Updated] Navigating the Curveball Mastering GoPro Lens Distortion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-five-pillars-of-chatgpts-phenomenal-growth-trajectory-a-deep-dive-into-its-swift-rise/"><u>Exploring the Five Pillars of ChatGPT's Phenomenal Growth Trajectory: A Deep Dive Into Its Swift Rise</u></a></li>
+<li><a href="https://fox-info.techidaily.com/harnessing-the-power-of-light-in-iphone-hdr-photography-for-2024/"><u>Harnessing the Power of Light in iPhone HDR Photography for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-s17-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo S17 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-check-windows-10-version-the-very-easy-way/"><u>How to Check Windows 10 Version, the Very Easy Way</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-connect-a-wireless-keyboard-step-by-step/"><u>How to Connect a Wireless Keyboard [Step-by-Step]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-effectively-eliminate-malware-from-your-android-device-without-performing-a-factory-reset/"><u>How to Effectively Eliminate Malware From Your Android Device without Performing a Factory Reset</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-reduce-cpu-usage-in-windows/"><u>How to Reduce CPU Usage in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-seamlessly-integrate-your-printer-with-windows-10-a-comprehensive-guide/"><u>How To Seamlessly Integrate Your Printer with Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagrams-top-25-leaders-in-digital-influence/"><u>In 2024, Instagram's Top 25 Leaders in Digital Influence</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/moto-z2-masterclass-smartphone-smarts-explored-for-2024/"><u>Moto Z2 Masterclass Smartphone Smarts Explored for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210799828-9789356567801-the-power-of-concentration/"><u>The Power Of Concentration | Free Book</u></a></li>
 </ul></div>
 

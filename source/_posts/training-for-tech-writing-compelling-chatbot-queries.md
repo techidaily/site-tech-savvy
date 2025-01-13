@@ -1,7 +1,7 @@
 ---
 title: "Training for Tech: Writing Compelling Chatbot Queries"
-date: 2024-09-02T20:41:37.008Z
-updated: 2024-09-03T20:41:37.008Z
+date: 2025-01-09T17:10:57.516Z
+updated: 2025-01-12T18:37:38.394Z
 tags:
   - chatgpt
   - open-ai
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 
 ![ChatGPT Creates Detailed Fat Loss Program Based on Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-detailed-fat-loss-program.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Specify Your Fitness Goals
 
  Set measurable, time-bound fitness goals. Instead of saying you want a flat stomach, specify how many pounds you'd like to lose within a specific time frame. Quantified goals are easier to track and measure.
@@ -49,18 +53,16 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 
 ![Telling ChatGPT That I Want Abs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/asking-chatgpt-how-to-get-abs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you specify your goal, ChatGPT creates a more precise routine. It even assesses if your plan is realistic.
 
 ![Asking ChatGPT to Help Me Drop Body Fat Percentage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/asking-chatgpt-to-drop-body-fat.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The [Centers for Disease Control and Prevention](https://www.cdc.gov/healthyweight/losing%5Fweight/index.html) (CDC) states that most people can safely lose one or two pounds per week. Losing weight too fast endangers your health.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Explain the Program ChatGPT Should Create
 
  Disclose any medical conditions and illnesses that impede physical activity. ChatGPT can’t provide medical advice, of course. But it at least knows which exercises and activities to avoid based on your physical limitations.
@@ -69,14 +71,12 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 
 ![Asking ChatGPT How to Run Even With Asthma](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/running-and-asthma.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  AI can’t replace medical consultations. If you have doubts about your new exercise regimen, always check with your doctor.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Share Your Preferred Types of Exercise
 
  Specify your preferred exercises. Focus on enjoyable and accessible routines that you can easily incorporate into your daily life. Consistency will help you achieve your fitness goals. Simple yet sustainable plans are better than time-consuming, hardcore ones that require several pieces of equipment.
@@ -90,8 +90,9 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 [Creating effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) requires trial and error. If you’re having trouble getting ChatGPT to do what you need, try any of the below formulas. You can also adjust them to your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Customized Personal Trainer
 
 ![Customizing Fitness Prompt on Snackprompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snackprompt-fitness-prompt.jpg)
@@ -115,17 +116,15 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 ![ChatGPT Creating a Bodybuilding Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bodybuilding-profile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, ChatGPT generates a simple workout program. Since this persona’s goal is to lose 30 pounds fast, the program primarily consists of cardio and whole-body exercises.
 
 ![ChatGPT Generating a Simple Cardio and Bodyweight Program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-cardio-and-bodyweight-program.jpg)
 
  Specify any specific muscle groups you need to target. You’ll get a more detailed program if you mention the machines and equipment you can access.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Simple Meal Planner
 
  Stop forcing yourself to follow nutritious yet time-consuming recipes. Instead,[generate healthy meals on ChatGPT](https://www.makeuseof.com/can-chatgpt-teach-you-cook-healthy-meals/) . Look into simple meals that use household ingredients; otherwise, you’ll have trouble incorporating them into your diet.
@@ -134,16 +133,18 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 
 ![ChatGPT Creating User Profile for Personalized Meal Plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-asking-about-meal-plan.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You’ll receive your seven-day meal plan shortly. It should contain household ingredients and easy cooking techniques, but feel free to clarify confusing recipes.
 
 ![ChatGPT Creating Simple Meal Plan With Easy Found Ingredients](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-creating-simple-meal-plan.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ### Beginner Plan to Start Moving
 
  Use this prompt if you find most fitness plans challenging. ChatGPT will generate basic tips to help jumpstart your fitness journey. They’re perfect for beginners.
@@ -152,14 +153,14 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 
  Apart from listing simple exercises, ChatGPT also uses mindful phrasing. Getting out of a slump is hard. Even a seemingly easy cardio workout could seem intimidating—ChatGPT has to be careful.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Basic Injury Treatment
 
 [ChatGPT can provide basic health advice](https://www.makeuseof.com/reasons-consider-using-chatgpt-health-advice/) , including answers to general questions about performing first aid on common sports injuries. Just mention your condition in detail. The below image shows ChatGPT explaining straightforward, simple instructions for treating sprains. But please note that AI can’t replace physicians. For serious injuries and conditions, make sure you book a professional consultation.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### Educational Fitness Coach
 
  Athletes should exercise both mind and body. Mental toughness helps you push your body to the limits, while proper education lets you create effective fitness programs. Don’t just focus on physical training.
@@ -169,8 +170,9 @@ The ultimate burning program for all your needs!</a>
 ![ChatGPT as a Life Coach and Summarizing Bodybuilding Book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-as-a-life-coach.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use ChatGPT to Achieve Your Fitness Goals
 
  The quality of ChatGPT's outputs heavily depends on your prompts. You’ll generate personalized, effective plans if you provide more context about yourself and explain your fitness goals clearly.
@@ -183,8 +185,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +192,21 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-breaking-down-t-series-income-mechanism-on-youtube-for-2024/"><u>[Updated] Breaking Down T-Series Income Mechanism on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-maximizing-visibility-post-facebook-update/"><u>[Updated] In 2024, Maximizing Visibility Post-Facebook Update</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-survey-facebook-video-proportions/"><u>[Updated] Survey Facebook Video Proportions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-acclaimed-tools-the-finest-ps1-emulators-for-pc-gaming/"><u>2024 Approved Acclaimed Tools The Finest PS1 Emulators for PC Gaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-geminiplus-and-enhanced-chatgpt/"><u>Choosing Between Gemini+ and Enhanced ChatGPT</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/experience-the-ps3-gaming-prowess-on-modern-pcs/"><u>Experience the PS3 Gaming Prowess on Modern PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-curbing-assassins-creed-valhalla-lag-issues-a-detailed-breakdown/"><u>Expert Advice on Curbing Assassin's Creed Valhalla Lag Issues: A Detailed Breakdown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-plus-or-perplexity-discovering-ai-prowess/"><u>GPT Plus or Perplexity? Discovering AI Prowess</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-gt-neo-5-se-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme GT Neo 5 SE Phones with/without a PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-audio-liberation-the-ultimate-guide-to-pazeras-extraction-tools/"><u>In 2024, Audio Liberation The Ultimate Guide to Pazera's Extraction Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-presentation-designs-using-chatgpt/"><u>Innovative Presentation Designs Using ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-openais-dominion-over-gpt-dwindling/"><u>Is OpenAI's Dominion Over GPT Dwindling?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sideload-ios-applications-understanding-apples-fee-structure-and-app-approval-process/"><u>Sideload iOS Applications: Understanding Apple's Fee Structure & App Approval Process</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-you-cant-get-the-latest-apple-ai-on-your-old-iphone-the-pricey-reasons-unveiled/"><u>Why You Can't Get the Latest Apple AI on Your Old iPhone: The Pricey Reasons Unveiled</u></a></li>
+</ul></div>
 

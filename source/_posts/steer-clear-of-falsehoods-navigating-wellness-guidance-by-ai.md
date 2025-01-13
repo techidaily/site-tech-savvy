@@ -1,7 +1,7 @@
 ---
 title: "Steer Clear of Falsehoods: Navigating Wellness Guidance by AI"
-date: 2024-09-06T23:30:20.829Z
-updated: 2024-09-07T23:30:20.829Z
+date: 2025-01-09T18:58:51.354Z
+updated: 2025-01-12T21:14:17.864Z
 tags:
   - chatgpt
   - open-ai
@@ -22,37 +22,17 @@ thumbnail: https://thmb.techidaily.com/476c827c9a85439232c4139c83a2305fa9ac69841
 **SCROLL TO CONTINUE WITH CONTENT**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Contact a Physician
 
  For any serious or recurring issues, contact your physician or set up a telemedicine appointment. While [ChatGPT can offer reliable health information](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/), it can't replace a medical professional's evaluation of your particular issue.
 
 ![ChatGPT health information caveat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-health-information-caveat.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When prompted, the chatbot itself will even reiterate this idea. Although [AI technology will affect the future of healthcare](https://www.makeuseof.com/ai-will-power-future-healthcare/) in a number of ways, it isn't likely to replace the human component in the near future. For the most important medical questions, continue to rely on your personal physician or healthcare provider.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Rely on Established Medical Resources
 
  Many medical resources available online provide reliable, reputable, evidence-based information. Even better, they present the facts in a straightforward way, making them more accessible to people from all sorts of backgrounds (not only medical professionals). These are some examples:
@@ -66,18 +46,24 @@ thumbnail: https://thmb.techidaily.com/476c827c9a85439232c4139c83a2305fa9ac69841
  In addition, many hospital websites also provide general medical information. If you need to fact-check any medical advice from ChatGPT or similar AI chatbots, then these trusted websites can help you learn more about nearly any health-related topic.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Be Wary of Commercial Sites
 
  If you're using online sources, then check the end of your resource's URL. If it ends in .gov, .edu, or .org, then it’s likely a nonprofit or educational website. For the most part, websites with these addresses provide beneficial information to the public for free.
 
 ![screenshot NHS website physical activity guidelines](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-nhs-website-physical-activity-guidelines.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Those that end in .com, or commercial sites, may also provide helpful information. In many instances, however, these sites are more focused on selling you something, according to the [National Institute on Aging](https://www.nia.nih.gov/health/how-find-reliable-health-information-online). If you're trying to fact-check other information, then a nonprofit or educational site may offer more neutral facts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Use Apps With Care
 
@@ -99,12 +85,6 @@ thumbnail: https://thmb.techidaily.com/476c827c9a85439232c4139c83a2305fa9ac69841
 
  If you’re trying to double-check information from ChatGPT or similar sources, however, then this may not be the best avenue in general.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Trust Your Gut
 
  If your AI bot presents health information that doesn’t seem quite right, then trust your gut. Although these applications are incredibly powerful, they aren’t all-knowing.
@@ -114,17 +94,9 @@ thumbnail: https://thmb.techidaily.com/476c827c9a85439232c4139c83a2305fa9ac69841
  In these events, take extra care to run the provided information by a trusted medical resource (or your own physician).
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use Trusted Resources to Double-Check Health Information From ChatGPT
 
  When it comes to fact-checking health information provided by AI bots like ChatGPT, it's important to exercise caution and choose reliable resources. For any serious or recurring health issue, consult with a qualified medical professional for a personalized evaluation. In other cases, rely on established medical resources such as the Mayo Clinic, NHS, CDC, WHO, and NIH.
@@ -133,14 +105,11 @@ thumbnail: https://thmb.techidaily.com/476c827c9a85439232c4139c83a2305fa9ac69841
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,4 +118,20 @@ thumbnail: https://thmb.techidaily.com/476c827c9a85439232c4139c83a2305fa9ac69841
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enriching-videos-with-no-cost-sounds-legally/"><u>[Updated] 2024 Approved Enriching Videos with No-Cost Sounds Legally</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-5-techniques-for-capturing-win10-games/"><u>[Updated] 5 Techniques for Capturing Win10 Games</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-crafting-engaging-youtube-video-layouts/"><u>[Updated] In 2024, Crafting Engaging YouTube Video Layouts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/airpod-hygiene-the-ultimate-guide-to-proper-cleaning-and-disinfection-methods-protect-your-ears/"><u>AirPod Hygiene: The Ultimate Guide to Proper Cleaning and Disinfection Methods - Protect Your Ears!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-latest-innovation-comparing-the-m1-and-m3-macbook-pro-models-is-it-time-for-an-upgrade/"><u>Apple's Latest Innovation: Comparing the M1 and M3 MacBook Pro Models - Is It Time for an Upgrade?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-artificial-intelligence-mastering-dall-e-3-via-bing/"><u>Explore Artificial Intelligence: Mastering DALL-E 3 via Bing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-transition-to-non-stop-browsing-set-up-youtube-autoplay-on-fb/"><u>In 2024, Transition to Non-Stop Browsing Set Up YouTube Autoplay on FB</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-your-new-epson-wf-2630-printer-drivers-for-multiple-windows-versions-available/"><u>Install Your New Epson WF-2630 Printer: Drivers for Multiple Windows Versions Available</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/july-2024s-ultimate-savings-on-apple-watches-a-comprehensive-guide-from-zdnet/"><u>July 2024'S Ultimate Savings on Apple Watches: A Comprehensive Guide From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-pitfalls-in-text-generation-with-chatgpt/"><u>Navigating Pitfalls in Text Generation with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-acquiring-an-apple-vision-pro-expert-advice-on-secure-transactions-perfect-face-scan-results-and-insider-ordering-strategies/"><u>The Ultimate Guide to Acquiring an Apple Vision Pro: Expert Advice on Secure Transactions, Perfect Face Scan Results, and Insider Ordering Strategies</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-tecno-spark-go-2023-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Tecno Spark Go (2023) IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-impressive-sound-with-the-tiny-yet-terrific-tribit-stormbox-micro-2-the-ultimate-mini-audio-beast-reviewed-by-zdnet/"><u>Unleash Impressive Sound with the Tiny yet Terrific Tribit StormBox Micro 2 - The Ultimate Mini Audio Beast Reviewed by ZDNet</u></a></li>
+</ul></div>
 

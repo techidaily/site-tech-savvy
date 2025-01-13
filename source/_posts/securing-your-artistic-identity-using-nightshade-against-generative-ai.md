@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Artistic Identity: Using Nightshade Against Generative AI"
-date: 2024-09-06T23:30:22.956Z
-updated: 2024-09-07T23:30:22.956Z
+date: 2025-01-11T21:28:49.785Z
+updated: 2025-01-12T21:20:30.135Z
 tags:
   - chatgpt
   - open-ai
@@ -13,37 +13,21 @@ excerpt: "This Article Describes Securing Your Artistic Identity: Using Nightsha
 thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d0f41358268b867a2994d1b8.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Securing Your Artistic Identity: Using Nightshade Against Generative AI
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is AI Poisoning?](https://natural-cycles.sjv.io/vmebmr)
 * [How to Use Nightshade](https://technitya.sjv.io/dkpn02)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Nightshade is an AI tool that "poisons" digital art, making it unusable for training AI models.
@@ -59,11 +43,9 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
  Stopping generative AI tools using copyright images to train is difficult, and artists from all walks of life have struggled to protect their work from AI training datasets. But now, that's all changing with the advent of Nightshade, a free AI tool built to poison the output of generative AI tools—and finally let artists take some power back.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is AI Poisoning?
 
  AI poisoning is the act of "poisoning" the training dataset of an AI algorithm. This is similar to providing wrong information to the AI on purpose, resulting in the trained AI malfunctioning or failing to detect an image. Tools like Nightshade alter the pixels in a digital image in such a manner that it appears to be completely different to the AI training on it, but largely unchanged from the original to the human eye.
@@ -71,11 +53,9 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 ![Robot Hand Holding Paintbrush Over Colorful Canvas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/robot-hand-holding-paintbrush.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-robot-ai-generate-art-mid-2294823599)
 
  For example, if you upload a poisoned image of a car to the internet, it will look the same to us humans, but an AI attempting to train itself to identify cars by looking at images of cars on the internet will see something completely different.
@@ -87,6 +67,10 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
  Using this technique, digital creators who do not consent for their images to be used in AI datasets can [protect them from being fed to generative AI without permission](https://www.makeuseof.com/can-creatives-protect-art-from-generative-ai/). Some platforms provide creators the option to opt out of including their artwork in AI training datasets. However, such opt-out lists have been disregarded by AI model trainers in the past and continue to be disregarded with little to no consequence.
 
  Compared to other digital artwork protection tools like Glaze, Nightshade is offensive. [Glaze prevents AI algorithms from mimicking](https://www.makeuseof.com/how-to-use-glaze-protect-art-from-ai/) the style of a particular image, while Nightshade changes the image's appearance to the AI. Both tools are built by Ben Zhao, Professor of Computer Science at the University of Chicago.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use Nightshade
 
@@ -105,18 +89,6 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 3. Select the image you want to protect by clicking the **Select** button in the top-left. You can also select multiple images at once for batch processing.  
 ![nightshade-program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/nightshade-program.jpg)
 4. Adjust the **Intensity** and **Render Quality** dials according to your preferences. Higher values add stronger poisoning but can also introduce artifacts in the output image.
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Next, click the **Save As** button under the **Output** section to select a destination for the output file.
 6. Click the **Run Nightshade** button at the bottom to run the program and poison your images.
 
@@ -132,8 +104,6 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +111,22 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-step-by-step-enablingdisabling-picture-in-picture-for-2024/"><u>[New] Step by Step Enabling/Disabling Picture-in-Picture for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-surviving-the-apocalypse-top-8-zombie-classics/"><u>[Updated] Surviving the Apocalypse Top 8 Zombie Classics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-affordable-high-quality-asmr-recording-devices-revealed/"><u>2024 Approved Affordable, High-Quality ASMR Recording Devices Revealed</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-game-changer-implementing-custom-gaming-banners/"><u>2024 Approved The Game Changer Implementing Custom Gaming Banners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-strategies-for-addressing-sensitive-business-issues/"><u>AI-Driven Strategies for Addressing Sensitive Business Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-domestic-life-using-chatgpt-tools/"><u>Enhancing Domestic Life Using ChatGPT Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-y36i-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo Y36i Pattern Lock Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/recover-your-loststolen-phone-with-find-my-a-step-by-step-guide/"><u>Recover Your Lost/Stolen Phone with Find My - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sifting-through-scam-rumors-about-truthcoin/"><u>Sifting Through Scam Rumors About TruthCoin</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/skyrocketing-results-with-7-innovative-ai-methods/"><u>Skyrocketing Results with 7 Innovative AI Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/subscribersilence-eager-for-gpt-access-restoration/"><u>SubscriberSilence: Eager for GPT Access Restoration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-faceoff-how-the-new-samsung-galaxy-book-goes-head-to-head-with-the-iconic-macbook-pro-for-premium-laptop-supremacy-zdnet/"><u>Tech Faceoff: How the New Samsung Galaxy Book Goes Head-to-Head with the Iconic MacBook Pro for Premium Laptop Supremacy | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-galaxy-f04-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Galaxy F04</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/value-meets-innovation-in-the-arcshell-ar-5-a-full-performance-breakdown/"><u>Value Meets Innovation in the ArcShell AR-5: A Full Performance Breakdown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/water-found-in-iphone-charger-port-how-to-fix-it-or-deal-with-the-issue/"><u>Water Found in iPhone Charger Port: How to Fix It or Deal with the Issue</u></a></li>
+</ul></div>
 

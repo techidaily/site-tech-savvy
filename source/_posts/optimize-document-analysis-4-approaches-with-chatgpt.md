@@ -1,7 +1,7 @@
 ---
 title: "Optimize Document Analysis: 4 Approaches with ChatGPT"
-date: 2025-01-05T00:11:56.596Z
-updated: 2025-01-05T21:34:41.567Z
+date: 2025-01-08T22:51:46.001Z
+updated: 2025-01-12T16:32:36.922Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/2fa065b01e8af0dc1b8ed804f9e907992c266eafc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Supply ChatGPT With a URL
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/2fa065b01e8af0dc1b8ed804f9e907992c266eafc
  ChatGPT will then nicely summarize the main points on the requested pages. One point of note here, there are [limitations to ChatGPT prompts and responses](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/), especially when it comes to more complex requests. So, for larger documents, it is good policy to break the task down into smaller parts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Copy Text From the PDF
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/2fa065b01e8af0dc1b8ed804f9e907992c266eafc
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Convert the PDF Into a Text Document
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/2fa065b01e8af0dc1b8ed804f9e907992c266eafc
 3. When you open the file you will be asked to convert the document, press **OK** to proceed.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
@@ -86,13 +86,13 @@ thumbnail: https://thmb.techidaily.com/2fa065b01e8af0dc1b8ed804f9e907992c266eafc
 
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Install and Use an Extension
 
 ![chatgpt with file uploader extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-extension.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Unfortunately, at this time, ChatGPT does not include a way to automatically upload PDF files or any files for that matter. Sure, you can copy the text from a PDF or convert it into a text document, but is there a simpler way to go about it? Luckily, there is. One of the easiest ways to get ChatGPT to read PDFs is to just install and use an extension.
 
@@ -125,19 +125,19 @@ thumbnail: https://thmb.techidaily.com/2fa065b01e8af0dc1b8ed804f9e907992c266eafc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-adding-timers-utilizing-obs-for-countdown-features-for-2024/"><u>[Updated] Adding Timers Utilizing OBS for Countdown Features for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-cost-efficient-pc-video-harvesters/"><u>[Updated] In 2024, Cost-Efficient PC Video Harvesters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-assisted-recruitment-discover-the-best-10-ways-to-utilize-gpt-on-linkedin-jobsites/"><u>AI Assisted Recruitment: Discover the Best 10 Ways to Utilize GPT on LinkedIn Jobsites</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/binggpt-crypto-fraud-alerts-detecting-illegitimate-tokens/"><u>BingGPT Crypto Fraud Alerts: Detecting Illegitimate Tokens</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-get-your-diagnostic-services-up-and-running-again/"><u>Expert Tips to Get Your Diagnostic Services Up and Running Again</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Motorola Moto G13? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-enhancement-nvidia-drivers-reimagined-and-renewed/"><u>Instant Enhancement: Nvidia Drivers Reimagined and Renewed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-creativity-anthropics-new-ai-tools/"><u>Mastering Creativity: Anthropic's New AI Tools</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-pc-intro-creators-top-10-tools-for-professional-looking-results/"><u>New 2024 Approved PC Intro Creators Top 10 Tools for Professional-Looking Results</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pioneering-simple-sound-shifts-in-pubg/"><u>Pioneering Simple Sound Shifts in PUBG</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/running-windows-11-on-your-m1-mac-with-parallels-desktop-18-a-practical-guide/"><u>Running Windows 11 on Your M1 Mac with Parallels Desktop 18 - A Practical Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/synergy-of-social-media-embedding-linktree-in-your-tiktok-bio/"><u>Synergy of Social Media Embedding Linktree in Your TikTok Bio</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-locked-away-gpt-history/"><u>Unlocking Locked-Away GPT History</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-the-quintupled-impact-ai-in-criminal-computing/"><u>Unraveling the Quintupled Impact: AI in Criminal Computing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-essential-guide-to-early-success-on-youtube-steer-clear-of-these-top-8-pitfalls/"><u>[New] 2024 Approved The Essential Guide to Early Success on YouTube Steer Clear of These Top 8 Pitfalls!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfect-illumination-the-ultimate-guide-to-hdr-photography/"><u>[New] Perfect Illumination The Ultimate Guide to HDR Photography</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-premier-streaming-platforms-reviewed-and-rated/"><u>[Updated] 2024 Approved Premier Streaming Platforms Reviewed & Rated</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-puzzle-the-interplay-between-paperclips-and-artificial-intelligence/"><u>Decoding the Puzzle: The Interplay Between Paperclips & Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demonstrating-gpts-real-world-value/"><u>Demonstrating GPT's Real-World Value</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hacked-heroes-the-activision-incident/"><u>Hacked Heroes: The Activision Incident</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-rank-the-best-10-cost-free-image-enhancers-for-smartphone-users/"><u>In 2024, Rank the Best 10 Cost-Free Image Enhancers for Smartphone Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-timeless-videos-selecting-excellent-slow-motion-cameras/"><u>In 2024, Timeless Videos Selecting Excellent Slow-Motion Cameras</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-chatgpt-potential-via-apples-siri/"><u>Maximizing ChatGPT Potential via Apple's Siri</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-kindness-when-talking-to-tech-alexa-siri-gpt/"><u>Navigating Kindness When Talking to Tech (Alexa, Siri, GPT)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/spotting-bogus-ai-in-conversations-via-gpt-notation/"><u>Spotting Bogus AI in Conversations via GPT Notation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-tutorial-fixing-the-absent-coprocessor-driver-issue-on-your-windows-10-pc/"><u>Step-by-Step Tutorial: Fixing the Absent Coprocessor Driver Issue on Your Windows 10 PC</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/transform-heic-photos-into-jpg-using-dropbox-a-step-by-step-tutorial-for-ios-and-windows-users/"><u>Transform HEIC Photos Into JPG Using Dropbox - A Step-by-Step Tutorial for iOS & Windows Users</u></a></li>
 </ul></div>
 

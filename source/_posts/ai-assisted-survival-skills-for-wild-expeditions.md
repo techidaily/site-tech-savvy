@@ -1,7 +1,7 @@
 ---
 title: AI-Assisted Survival Skills for Wild Expeditions
-date: 2024-09-06T23:30:21.997Z
-updated: 2024-09-07T23:30:21.997Z
+date: 2025-01-12T01:08:56.517Z
+updated: 2025-01-12T17:04:58.028Z
 tags:
   - chatgpt
   - open-ai
@@ -25,31 +25,27 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
  We asked ChatGPT a range of survival-critical questions in a fictional wilderness setting and rated its responses.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Rely on ChatGPT in a Survival Situation?
 
 ![Man Carrying Camping Backpack Standing In-front of Tree](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-carrying-camping-backpack-standing-in-front-of-tree.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The rise of AI chatbots has taken the world by storm, and [generative AI can create fantastic art](https://www.makeuseof.com/how-create-ai-art-at-home/). You can also [use ChatGPT as a tool for creative writing](https://www.makeuseof.com/how-to-use-chatgpt-for-creative-writing/) or [employ AI to help detect faces in photographs](https://www.makeuseof.com/ai-cameras-object-detection-how-work/).
 
  And while [ChatGPT doesn't always tell the truth](https://www.makeuseof.com/does-chatgpt-lie/), it's no secret that [AI is replacing workers](https://www.makeuseof.com/can-chatgpt-replace-me/) across all sectors.
 
  So it's tempting while planning a wilderness vacation to eschew a trained guide and rely on ChatGPT to keep you safe in the great outdoors. But the question is, should you?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fight Off a Bear
 
 ![a brown bear looking mean](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-brown-bear-looking-mean.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Bears are found on every continent except Africa, and if you're backpacking through the wild and untamed spaces of the world, it's not inconceivable that you might encounter one. Unfortunately, while Wikipedia's [Bear Danger](https://en.wikipedia.org/wiki/Bear%5Fdanger) page contains some of the information we needed, there's little concrete advice. In a dangerous situation, we wouldn't have time to scan through the 1,042-word article.
 
@@ -63,15 +59,13 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
  ChatGPT had very little to say on how to actually fight off a bear.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Catch Salmon Without Fishing Equipment
 
 ![fresh salmon on ice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fresh-salmon-on-ice.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're off-grid and out-of-touch, keeping yourself fed has to be a priority. Fortunately, in our scenario, there's a river nearby, and you can see the silver flashes of salmon as they swim upstream to the spawning grounds. Unfortunately, you don't have any rods or nets.
 
@@ -86,11 +80,9 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
  We feel confident that at least one of these methods would work.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Survive the Night in a Blizzard With No Shelter
 
 ![an igloo style snow shelter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/an-igloo-style-snow-shelter.jpg)
@@ -107,12 +99,6 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
  While we're not 100% certain that you'll survive the night, we feel that following ChatGPT's advice will dramatically increase your chances.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## I'm Being Hunted by a Pack of Wolves. What Should I Do?
 
 ![Young Wolves Biting Each Other on Snow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/young-wolves-biting-each-other-on-snow-1.jpg)
@@ -126,21 +112,13 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
  We found the advice overly generic and showed a lack of understanding of how wolf packs hunt. ChatGPT also failed to mention that wolves are notoriously poor tree climbers and that by clambering up the nearest spruce, you can buy yourself some extra time.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## There's a Dead Sheep in a Stream and No Other Water Source
 
 ![Person Cleaning Hands under running Water](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/person-cleaning-hands-under-running-water.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Water is even more important than food, but drinking from a polluted water source can make you ill or even cause death.
 
  After informing ChatGPT that there was a dead sheep in the only available water source, the LLM suggested finding another water source—a reasonable proposition, but one which ignored part of the prompt.
@@ -182,12 +160,6 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
  The best advice is to wait for rescue. It's a known fact that certain Collie breeds are attracted to mineshafts and have been known to bring help from settlements in the area.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## You Can't Depend on ChatGPT in an Emergency
 
  ChatGPT's advice was middling at best. Most of the answers it gave were common sense, and in several cases, it completely ignored parts of the prompt.
@@ -200,14 +172,11 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
  We asked ChatGPT a range of survival-critical questions in a fictional wilderness setting and rated its responses.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -216,4 +185,19 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-10-final-cut-pro-plug-ins/"><u>[New] 2024 Approved 10 Final Cut Pro-Plug-Ins</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mov-mastery-on-windows-11-discover-the-best-recording-methods-from-our-six-step-guide/"><u>[Updated] .MOV Mastery on Windows 11 - Discover the Best Recording Methods From Our Six-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-dynamic-dialogues-animated-text-for-instagram-storytellers/"><u>[Updated] 2024 Approved Dynamic Dialogues Animated Text for Instagram Storytellers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-share-the-ultimate-free-youtube-to-video-editor-with-your-circle-a-must-try-tool/"><u>1. Share the Ultimate Free YouTube-to-Video Editor with Your Circle: A Must-Try Tool!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971066069-effortless-guide-to-downloading-qualcomm-atheros-ar938xs-driver-for-free/"><u>Effortless Guide to Downloading Qualcomm Atheros AR938X's Driver for Free!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-your-meal-prep-7-helpful-chatgpt-techniques/"><u>Enhance Your Meal Prep: 7 Helpful ChatGPT Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1723262345446-gear-up-for-the-epic-showdown-of-minds-vs-machines-in-202vearl-world-server-championship/"><u>Gear Up for the Epic Showdown of Minds vs Machines in 202Vearl World Server Championship</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/googles-ai-gemini-exposed-scope-functions-and-progress/"><u>Google's AI Gemini Exposed: Scope, Functions & Progress</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-claude-pro-a-comparative-analysis-with-premium-chatgptplus/"><u>Inside Claude Pro: A Comparative Analysis with Premium ChatGPT+</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/payment-methods-with-movavi-a-comprehensive-guide/"><u>Payment Methods with Movavi: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-process-to-download-and-update-your-dell-latitude-e6430s-driver-on-a-windows-computer-fixed/"><u>Step-by-Step Process to Download & Update Your Dell Latitude E6430's Driver on a Windows Computer [FIXED]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-savvy-prompts-top-ai-instructive-platforms/"><u>Tech-Savvy Prompts: Top AI Instructive Platforms</u></a></li>
+</ul></div>
 

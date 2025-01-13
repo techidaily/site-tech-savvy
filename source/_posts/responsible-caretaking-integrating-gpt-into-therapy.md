@@ -1,7 +1,7 @@
 ---
 title: "Responsible Caretaking: Integrating GPT Into Therapy"
-date: 2025-01-03T20:10:59.672Z
-updated: 2025-01-06T05:43:43.735Z
+date: 2025-01-06T18:54:05.264Z
+updated: 2025-01-13T00:50:29.867Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Designing Your Coach or Mental Health Professional
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 ![Screenshot of ChatGPT giving Stoic advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-06-50-am.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  By providing this additional context, you're helping ChatGPT generate more specific, tailored advice. Or, let's say you're struggling with a personal relationship. You could ask, "I had an argument with my friend because of a misunderstanding, and it's causing me a lot of distress. What would a therapist suggest I do to resolve this situation?"
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 ![Stoic advice provided by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-04-47-am.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting Healthy Boundaries With Your AI
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
  Also, make sure to balance your use of AI with friends and family and if necessary, other mental health resources. ChatGPT is a supplement, not a substitute. Keep up with your real-world people and never replace them with a chatbot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Know When to Seek Human Help
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
  Furthermore, if you're dealing with complex issues or deep-seated traumas, a trained human therapist will be able to provide a level of understanding, empathy, and care that ChatGPT can't. It's okay to need human help. It's okay to seek it, and it's okay to accept it. No algorithm can replace the nuanced understanding, the shared experiences, and the simple, comforting presence of another human being.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using ChatGPT as a Mental Health Coach
@@ -131,22 +131,19 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-unlock-extra-space-premium-external-drives-for-ps5/"><u>[New] Unlock Extra Space Premium External Drives for PS5</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-insta-hack-top-underrated-tips-and-tricks-for-2024/"><u>[Updated] Insta-Hack Top Underrated Tips and Tricks for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-transform-video-quality-on-tiktok-2-ways-for-2024/"><u>[Updated] Transform Video Quality on TikTok (2 Ways) for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-history-in-your-hands-essential-export-tools-reviewed/"><u>AI History in Your Hands – Essential Export Tools Reviewed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augmenting-data-analysis-in-excel-through-chatgpt-methods/"><u>Augmenting Data Analysis in Excel Through ChatGPT Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/balancing-benefits-and-drawbacks-chatgpt-in-creativity/"><u>Balancing Benefits & Drawbacks: ChatGPT in Creativity</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-update-intel-hd-graphics-5500-drivers-find-download-and-install/"><u>Easy Update: Intel HD Graphics 5500 Drivers - Find, Download and Install</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-printer-efficiency-via-chatgpt-expertise/"><u>Enhancing Printer Efficiency via ChatGPT Expertise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-impact-on-legal-aid-explored/"><u>GPT's Impact on Legal Aid Explored</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-integrate-a-video-player-onto-your-flipbook-pages-for-streaming-flv-movies/"><u>How to Integrate a Video Player Onto Your FlipBook Pages for Streaming Flv Movies</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-share-your-tweets-as-snaps-easy-tutorials/"><u>In 2024, Share Your Tweets as Snaps - Easy Tutorials</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-shattering-synthetic-statistics-on-youtube/"><u>In 2024, Shattering Synthetic Statistics on YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dichotomy-of-ai-titans-vs-tamer-machines/"><u>The Dichotomy of AI: Titans Vs. Tamer Machines</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tips-to-start-outlook-in-safe-mode-on-windows-11-with-pictures/"><u>Tips to Start Outlook in Safe Mode on Windows 11 [with Pictures]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-unused-powers-a-guide-to-enhanced-chatgpt-experience/"><u>Unleashing Unused Powers: A Guide to Enhanced ChatGPT Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-travel-dreams-best-7-free-ai-apps-for-spontaneous-trips/"><u>Unlock Travel Dreams: Best 7 Free AI Apps for Spontaneous Trips</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-how-to-get-your-fb-message-videos-flowing-again-on-mobile-devices/"><u>[New] 2024 Approved How to Get Your FB Message Videos Flowing Again on Mobile Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-prime-8-android-apps-for-multi-person-video-conferencing-for-2024/"><u>[New] Prime 8 Android Apps for Multi-Person Video Conferencing for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-nextgencams-investigation-pushing-the-envelope-further/"><u>[Updated] NextGenCams Investigation Pushing the Envelope Further</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-bar-skills-an-accuracy-test/"><u>ChatGPT's Bar Skills: An Accuracy Test</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-google-pixel-watch-and-apple-watch-series-9-is-it-worth-upgrading-expert-insights-from-zdnet/"><u>Comparing Google Pixel Watch and Apple Watch Series 9 – Is It Worth Upgrading? Expert Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/heartstrings-hooked-by-high-tech-hearts/"><u>Heartstrings Hooked by High-Tech Hearts</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-11-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 11 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Passcode Screen?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-text-to-audio-conversion-from-words-to-mp3-across-all-devices/"><u>In 2024, Text-to-Audio Conversion From Words to MP3 Across All Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-smooth-playthrough-fixes-for-cyberpunk-2077s-pc-crashes/"><u>Mastering Smooth Playthrough: Fixes for Cyberpunk 2077'S PC Crashes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-3-key-oversights-with-ml-algorithms/"><u>Top 3 Key Oversights with ML Algorithms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-savings-alert-unbeatable-offers-on-iphone-and-apple-accessories-for-july-2024-exclusive-insights/"><u>Top Savings Alert: Unbeatable Offers on iPhone & Apple Accessories for July 2024 - Exclusive Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oneplus-nord-n30-se-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your OnePlus Nord N30 SE Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-fast-forward-your-videos-a-beginners-guide-to-time-lapse-photography/"><u>Updated 2024 Approved Fast Forward Your Videos A Beginners Guide to Time Lapse Photography</u></a></li>
 </ul></div>
 

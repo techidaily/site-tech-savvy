@@ -1,7 +1,7 @@
 ---
 title: Decoding the Dawn of Artificocal Intelligence
-date: 2024-09-06T23:30:18.732Z
-updated: 2024-09-07T23:30:18.732Z
+date: 2025-01-05T23:52:42.540Z
+updated: 2025-01-12T23:45:35.317Z
 tags:
   - chatgpt
   - open-ai
@@ -27,12 +27,6 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 
 ![Old, Ancient Books in Dirt and With Yellow Pages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/old-books-yellow-pages.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Computers emerged in the mid-70s](https://www.makeuseof.com/who-built-the-first-personal-computer-and-how-does-it-compare-with-your-pc-or-laptop/), but historians trace the earliest references to AI back to the late middle ages. Scholars often wondered about future innovations. Of course, they lacked the technological resources and skills to materialize ideas.
 
 * **1305:** Theologian and Catalan mystic Ramon Llull wrote Ars Magna in the early 1300s. It details mechanical techniques for logical interreligious dialogues. The last section of Ars Magna, the Ars Generalis Ultima, explains a diagram for deriving propositions from existing information. It bears semblance to AI training.
@@ -42,12 +36,6 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 
  Although the first period looking at the roots of AI covers a vast period, there are some key moments.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1900-1950: The Dawn of Modern AI
 
 ![Scribbles of Math Problems on Old Notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/math-problems-old-notebook-1.jpg)
@@ -61,12 +49,6 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 
  The dawn of modern AI fitting accumulates with Alan Turing's paper and the [Turing Test, which attempts to answer the question](https://www.makeuseof.com/tag/what-is-turing-test-ever-beaten/), "Can machines think?"
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1951-2000: Exploring the Applications of AI Technologies
 
 ![An Old and Large Supercomputer Display at the Museum](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/old-super-computer-display.jpg)
@@ -86,11 +68,9 @@ Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:C
 ![The Black First Generation iPhone on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/original-iphone-first-gen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IPhone%5FFirst%5FGeneration%5F8GB%5F%283680455198%29.jpg)
 
  Consumers gained access to innovative, groundbreaking technologies that made their lives more convenient. They slowly adopted these new gadgets. The iPod replaced the Sony Walkman, gaming consoles put arcades out of business, and Wikipedia beat Encyclopædia Britannica.
@@ -104,14 +84,16 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
  Interestingly, despite this period featuring some of the most iconic tech from recent decades, AI wasn't fully on the radar for most consumers, with personal and home assistant tools like Siri and Alexa only appearing in the next period.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2011-2020: The Spread and Development of AI-Driven Applications
 
 ![Camera, Smartphone, Keyboard, an Laptop on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/various-gadgets-on-table.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Companies began developing stable AI-driven solutions during this period. They integrate AI into various software and hardware systems, like virtual assistants, grammar checkers, laptops, smartphones, and [augmented reality apps](https://www.makeuseof.com/tag/best-augmented-reality-apps-android/).
 
@@ -124,11 +106,9 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
  During this period, consumers were likely to use AI applications without even realizing it, even though visual and voice recognition tools (for most consumers) were still young. Towards the end of the decade, AI development kicked up a notch, but still not as dramatically as what was to come.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2021-Present: Global Tech Leaders Kick off the Great AI Race
 
 ![openai logo on black screen](https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882cc06bf2431577eb2dc90df03.jpg)
@@ -141,11 +121,9 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
  There are also numerous [other AI web apps](https://www.makeuseof.com/best-ai-web-apps/) and [AI-based health apps](https://www.makeuseof.com/best-ai-apps-monitor-your-health/) available for use or in development, and so many more to come.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How AI Will Shape the Future
 
  AI technologies go beyond chatbots and image generators. They contribute to the advancement of various fields, from global security to consumer technology. You benefit from AI in more ways than you realize. So instead of rejecting publicly available AI systems, learn to utilize them yourself.
@@ -156,14 +134,11 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
  AI has a rich, complex history. Here are some of the most notable breakthroughs that shape today's most sophisticated AI models.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -172,4 +147,24 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-get-your-tweets-right-comply-with-aspect-ratio-standards-for-2024/"><u>[New] Get Your Tweets Right Comply with Aspect Ratio Standards for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-screen-commanders-face-off/"><u>[New] Screen Commanders Face-Off</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-seamless-media-switching-your-ultimate-guide-for-srt-conversion-for-2024/"><u>[New] Seamless Media Switching Your Ultimate Guide for SRT Conversion for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-six-winning-strategies-to-recording-and-saving-mov-on-windows-11/"><u>[New] Six Winning Strategies to Recording and Saving .mov on Windows 11</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-strategies-for-retrieving-private-chat-photos/"><u>[Updated] 2024 Approved Strategies for Retrieving Private Chat Photos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-perfecting-presentation-adding-textures-to-your-project/"><u>2024 Approved Perfecting Presentation Adding Textures to Your Project</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-apple-turnaround-troubled-experiences-for-sonos-enthusiasts-insights/"><u>Can Apple Turnaround Troubled Experiences for Sonos Enthusiasts? Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-purpose-and-application-of-hugging-face-in-ai/"><u>Decoding the Purpose and Application of Hugging Face in AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-list-of-premier-prime-day-laptop-bargains-save-big-on-models-from-apple-razer-and-others-s-insider-scoop/"><u>Discover the Ultimate List of Premier Prime Day Laptop Bargains: Save Big on Models From Apple, Razer, and Others 'S Insider Scoop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-employee-scoop-a-heartfelt-tale-of-why-the-vision-pro-won-over-an-apple-specialist/"><u>Exclusive Employee Scoop: A Heartfelt Tale of Why the Vision Pro Won Over an Apple Specialist</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-latest-features-top-5-must-try-innovations-on-the-new-ios-18-preview/"><u>Explore the Latest Features: Top 5 Must-Try Innovations on the New iOS 18 Preview</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-x5-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Poco X5 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-ordinary-interviews-into-impactful-experiences/"><u>In 2024, Transforming Ordinary Interviews Into Impactful Experiences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/peeling-back-layers-of-ais-hidden-workings-black-boxes-uncovered/"><u>Peeling Back Layers of AI's Hidden Workings: Black Boxes Uncovered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-to-camouflage-and-save-chatgpt-talks/"><u>Strategies to Camouflage and Save ChatGPT Talks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-models-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Rated Apple Watch Models - In-Depth Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/un-tutoriel-complet-sur-la-reinstallation-du-systeme-dexploitation-pour-les-utilisateurs-de-windows-versions-11-10-8-et-7/"><u>Un Tutoriel Complet Sur La Réinstallation Du Système D'Exploitation Pour Les Utilisateurs De Windows (Versions 11, 10, 8 Et 7)</u></a></li>
+</ul></div>
 

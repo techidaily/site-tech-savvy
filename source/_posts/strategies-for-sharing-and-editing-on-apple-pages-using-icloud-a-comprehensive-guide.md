@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Sharing and Editing on Apple Pages Using iCloud: A Comprehensive Guide"
-date: 2025-01-03T20:17:15.755Z
-updated: 2025-01-05T23:46:10.261Z
+date: 2025-01-07T21:16:49.265Z
+updated: 2025-01-12T20:52:48.493Z
 tags:
   - apple
 categories:
@@ -18,10 +18,6 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple
 
 * [Every iPhone model that will be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-compatible-with-apples-ios-18-and-which-ones-arent/)
@@ -32,7 +28,7 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Requirements
@@ -41,16 +37,12 @@ The only things you'll need to make this work are a running instance of MacOS (w
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -61,6 +53,10 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Enable Pages for iCloud Drive
 
 In the next window (**Figure 2**), click the check box for Pages and then click Done. Close System Preferences.
@@ -68,6 +64,10 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 **Figure 2**: Enabling Pages for iCloud Drive collaboration.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enable the Collaboration feature
 
@@ -79,6 +79,10 @@ The first thing you must do is open the Pages document that will be shared with 
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Enable the Collaborate feature
 
 Click Collaborate and you'll be informed the document must be moved to iCloud before you can collaborate (**Figure 4**).
@@ -86,10 +90,6 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -149,19 +149,22 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-breaking-into-the-livestream-scene-on-youtube-with-under-a-thousand-views/"><u>[New] Breaking Into the Livestream Scene on YouTube with Under a Thousand Views</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-plan-ahead-on-instagram-rankings-of-the-top-8-scheduling-apps-for-2024/"><u>[New] Plan Ahead on Instagram Rankings of The Top 8 Scheduling Apps for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-visionmaster-vs-screencapturer/"><u>[Updated] VisionMaster vs ScreenCapturer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bot-interactions-and-anonymity-unveiling-3-major-privacy-issues/"><u>Bot Interactions and Anonymity: Unveiling 3 Major Privacy Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/charting-the-boundaries-of-chatgpts-token-count/"><u>Charting the Boundaries of ChatGPT's Token Count</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-13-mini-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 13 mini Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engaging-with-gpt-3-a-strategy-for-openai/"><u>Engaging with GPT-3: A Strategy for OpenAI</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/all-film-study-premier-insights-infographic-for-2024/"><u>Football Film Study Premier Insights Infographic for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Motorola Moto G73 5G? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-supercharge-your-social-media-scrapping-the-best-5-chrome-plugins/"><u>In 2024, Supercharge Your Social Media Scrapping The Best 5 Chrome Plugins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/slang-currency-emojis-as-budget-insights/"><u>Slang Currency: Emojis As Budget Insights</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96317603-9781401932862-spiritual-cinema/"><u>Spiritual Cinema | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/spotlight-on-sham-dialogues-using-mentions-wisely/"><u>Spotlight on Sham Dialogues: Using Mentions Wisely</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-ultimate-companion-of-asus-network-driver-downloads-and-install-guides-tailored-for-windows-users/"><u>The Ultimate Compan#ion of Asus Network Driver Downloads & Install Guides – Tailored for Windows Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-fading-beats-an-fl-studio-approach/"><u>[New] 2024 Approved Fading Beats An FL Studio Approach</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aji-kids-financial-flight-a-10-year-olds-path-to-prosperity-for-2024/"><u>[New] Kaji Kid’s Financial Flight A 10-Year-Old’s Path to Prosperity for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-teaching-through-media-efficient-classroom-editing/"><u>[Updated] Teaching Through Media Efficient Classroom Editing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-kik-id-visualization-width-x-height-aspect-ratio-duration/"><u>2024 Approved Kik ID Visualization Width X Height, Aspect Ratio, Duration</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-quick-win-strategies-top-20-video-tips-for-content-boosters/"><u>2024 Approved Quick-Win Strategies Top 20 Video Tips for Content Boosters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbots-tackling-tricky-calculus/"><u>ChatBots Tackling Tricky Calculus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-how-these-7-apps-implement-gpt-4/"><u>Exploring How These 7 Apps Implement GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-ahead-with-technology-introducing-the-new-enhancements-for-apple-airpods-pro-2-step-by-step-update-instructions-zdnet/"><u>Get Ahead with Technology: Introducing The New Enhancements for Apple AirPods Pro 2 - Step-by-Step Update Instructions | ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/new-updates-on-various-project-categories/"><u>New Updates on Various Project Categories</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1715701233069-record-your-mac-view-in-minutes/"><u>Record Your Mac View in Minutes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/revamp-your-gaming-experience-top-7-troubleshooting-steps-to-resolve-halo-infinite-pc-stuttering-issues/"><u>Revamp Your Gaming Experience: Top 7 Troubleshooting Steps to Resolve Halo Infinite PC Stuttering Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/telemedicine/"><u>Telemedicine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-ai-assistants-for-idea-enthusiasts/"><u>The Ultimate AI Assistants for Idea Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-smartphone-rankings-update-samsung-overtakes-apple-a-new-contender-closes-the-gap-zdnet-insights/"><u>Top Smartphone Rankings Update: Samsung Overtakes Apple; A New Contender Closes the Gap | ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/up-your-aid-craftsmanship-game-7-online-helpful-utilities/"><u>Up Your Aid Craftsmanship Game: 7 Online Helpful Utilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-powers-openais-clarity-shap-e-insights/"><u>What Powers OpenAI's Clarity: SHAP E Insights</u></a></li>
 </ul></div>
 

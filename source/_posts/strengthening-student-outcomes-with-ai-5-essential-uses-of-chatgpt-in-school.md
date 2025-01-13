@@ -1,7 +1,7 @@
 ---
 title: "Strengthening Student Outcomes with AI: 5 Essential Uses of ChatGPT in School"
-date: 2024-12-31T07:26:18.353Z
-updated: 2025-01-05T23:15:52.483Z
+date: 2025-01-05T22:46:58.977Z
+updated: 2025-01-12T20:35:42.696Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Develop Crash Study Plans
 
  You have a few weeks to that all-important examination, but you feel you've been ghosting through your classes and are ill-prepared for what's coming. So how do you cover your coursework within a limited time? Well, with the proper prompts, ChatGPT can come to your rescue.
@@ -40,19 +36,23 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 
 ![ChatgGPT prompt for crash study plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatggpt-prompt-for-crash-study-plan.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We prompted ChatGPT to make a study plan for an "Introduction to JavaScript programming" course, and here's the result:
 
 ![ChatGPT crash course plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-crash-course-plan.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The resulting study plan is crude yet efficient. But there's room for modifications. You can use follow-up prompts to refine the results better. For instance, you can ask ChatGPT to:
 
 * Refine the plan to place \[more/less\] emphasis on certain topics.
 * Refine the plan to add \[minutes/hours\] breaks during study hours.
 * Refine the plan to allocate \[more/less\] time to practical sessions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Identify Shortcuts or Tricks for Complex Course Problems
 
@@ -62,17 +62,9 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 
 ![Arithmetic series problem - long method](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/arithmetic-series-problem-long-method.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  However, you can also ask ChatGPT for a shortcut to solving the problem. For example, when we asked ChatGPT to provide a shortcut, the AI chatbot generated the following results:
 
 ![shortcut for solving arithemetic series](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/shortcut-for-solving-arithemetic-series.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When asking ChatGPT for shortcuts to solve a problem, always ask it to clarify whether the shortcut applies to all cases of a problem.
 
@@ -83,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
  If you have a preferred way that makes it easy for you to learn, ChatGPT can help present complex problems in that way to make it easier for you to understand.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Stay Ahead of the Learning Curve
@@ -93,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
  Provide the AI chatbot with a course outline or a topic you are currently learning in class, and ChatGPT will generate the most likely lessons to come up next and some tips to help you prepare for your upcoming classes. You can also ask the chatbot to generate some questions that could be asked in class. What better way to get some positive feedback in class?
 
 ![stay ahead of the learning curve with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/stay-ahead-of-the-learning-curve-with-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Summarize Long Text and Extract Key Points
 
@@ -115,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
  We put together a short story in a haphazard manner, as shown in the screenshot above, and asked ChatGPT to clean it up. Here's the result:
 
 ![complete story by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/complete-story-by-chatgp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Rather than outright asking ChatGPT to write an essay, you can write yours and use the following prompts to improve your work:
 
@@ -144,20 +144,21 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-personalized-and-accessible-video-conclusions-downloads-for-2024/"><u>[New] Personalized & Accessible Video Conclusions Downloads for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-optimal-android-apps-for-clear-screen-recordings/"><u>2024 Approved Optimal Android Apps for Clear Screen Recordings</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/6-sur-une-solution-nas/"><u>6 Sur Une Solution NAS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beijings-ice-arena-olympic-moments-2022/"><u>Beijing's Ice Arena Olympic Moments, 2022</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diy-digital-diplomats-building-bespoke-chatbots/"><u>DIY Digital Diplomats: Building Bespoke ChatBots</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-a-broken-spacebar-on-a-windows-10-machine/"><u>Effective Solutions for a Broken Spacebar on a Windows 10 Machine</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-on-resolving-windows-and-event-log-service-connection-failures/"><u>Expert Tips on Resolving Windows and Event Log Service Connection Failures</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-conversion-of-dts-files-to-m4v-format-by-movavi-do-it-online/"><u>Free Conversion of DTS Files to M4V Format by Movavi - Do It Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/functionalities-and-techniques-behind-localized-ai/"><u>Functionalities and Techniques Behind Localized AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-linguistic-technology-tracing-the-distinctions-of-gpt-and-bert/"><u>Mastering Linguistic Technology: Tracing the Distinctions of GPT & BERT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigate-resume-writing-like-a-pro-chatgpt-guide/"><u>Navigate Resume Writing Like a Pro (ChatGPT Guide)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-the-multi-stream-experience-on-netflix/"><u>Navigating the Multi-Stream Experience on Netflix</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/overcoming-obsolescence-six-ways-to-shine-in-an-ai-world/"><u>Overcoming Obsolescence: Six Ways to Shine in an AI World</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-paperwork-into-intelligence-chatgpts-fourfold-path/"><u>Transforming Paperwork Into Intelligence: ChatGPT's Fourfold Path</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unveiling-the-new-features-windows-11s-enhanced-task-manager/"><u>Unveiling the New Features: Windows 11'S Enhanced Task Manager</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-building-brands-on-the-buzzing-platform-of-instagram-marketing-for-2024/"><u>[New] Building Brands on the Buzzing Platform of Instagram Marketing for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-methods-to-rectify-obs-fullscreen-crash/"><u>[Updated] In 2024, Methods to Rectify OBS Fullscreen Crash</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-screenplay-crafting-site/"><u>[Updated] Ultimate Screenplay Crafting Site</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-invasion-career-landscapes-in-flux/"><u>AI Invasion: Career Landscapes in Flux?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-m3-macbook-air-unveiled-the-ultimate-guide-to-the-newest-entry-in-apples-laptop-lineup-techspot/"><u>Apple M3 MacBook Air Unveiled: The Ultimate Guide to the Newest Entry in Apple's Laptop Lineup | TechSpot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cautionary-voice-the-dangers-of-chatgpt-data-exchanges/"><u>Cautionary Voice: The Dangers of ChatGPT Data Exchanges</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-labor-day-savings-get-your-2nd-gen-apple-pencil-for-just-95-today-deal/"><u>Exclusive Labor Day Savings! Get Your 2Nd Gen Apple Pencil for Just $95 Today Deal</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-windows-8-downloads-compatible-amd-radeon-hd-graphics-driver/"><u>Free Windows 8 Downloads: Compatible AMD Radeon HD Graphics Driver</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-convert-photos-on-ios-efficiently-from-jpegpng-to-pdf/"><u>In 2024, Convert Photos on IOS Efficiently From JPEG/PNG to PDF</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-seamlessly-stitch-words-onto-pictures-photo-editor-pros/"><u>In 2024, Seamlessly Stitch Words Onto Pictures Photo Editor Pros</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-sync-your-screen-time-concurrent-youtube-content-consumption/"><u>In 2024, Sync Your Screen Time Concurrent YouTube Content Consumption</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725290058200-macdvd/"><u>MacでDVDのコピー・移行手順：ディスクユーティリティ使い方</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-cure-for-flickering-screens-on-windows-11-pcs/"><u>Quick Cure for Flickering Screens on Windows 11 PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-bright-outlook-for-apples-upcoming-product-a-firsthand-account-from-pre-ordering-the-vision-pro-an-analysis/"><u>The Bright Outlook for Apple's Upcoming Product: A Firsthand Account From Pre-Ordering the Vision Pro - An Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-value-proposition-of-claude-3/"><u>The Value Proposition of Claude 3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-photography-the-remarkable-advancements-in-smartphone-camera-technology-powered-by-artificial-intelligence-for-an-impressive-tomorrow-zdnet/"><u>Transforming Photography: The Remarkable Advancements in Smartphone Camera Technology Powered by Artificial Intelligence for an Impressive Tomorrow | ZDNet</u></a></li>
 </ul></div>
 

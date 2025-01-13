@@ -1,7 +1,7 @@
 ---
 title: Navigating the Treacherous Waters of FraudGPT Interaction
-date: 2024-09-06T23:30:22.525Z
-updated: 2024-09-07T23:30:22.525Z
+date: 2025-01-09T19:09:00.361Z
+updated: 2025-01-12T16:32:37.340Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Navigating the Treacherous Waters of FraudGPT In
 thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8ee44c6197adf88943656c52.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Navigating the Treacherous Waters of FraudGPT Interaction
 
  The rise of artificial intelligence (AI) is a double-edged sword. Like every transformative technology, AI offers immense potential but also enormous risks. Despite the emphatic push to regulate AI, threat actors seem to have gotten ahead of the curve.
@@ -30,37 +24,31 @@ thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8
  A new ChatGPT-styled tool, FraudGPT, is gaining traction among cybercriminals, allowing them to automate and better execute a large part of their fraud operations. Anyone can become a victim, so it is important to stay informed. Here's everything we know about FraudGPT so far.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is FraudGPT?
 
 ![A scammer using a fishing rod to steal data from a person’s laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scammer-using-a-fishing-rod-to-steal-data.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  FraudGPT is an AI tool powered by a large language model that is particularly fine-tuned to help cyber criminals commit cybercrime. The subscription-based AI tool allows threat actors to facilitate their criminal activities like carding, phishing, and malware creation.
 
  Although details about the tool remain very limited, researchers from Netenrich, a security research firm, have uncovered several ads on the dark web advertising the tool. According to the [research report from Netenrich](https://netenrich.com/blog/fraudgpt-the-villain-avatar-of-chatgpt), the subscription fees range between $200 per month to $1,700 yearly.
 
  To better picture the tool, you can think of FraudGPT as ChatGPT but for fraud. But how exactly does FraudGPT work, and how are cybercriminals using it?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Does FraudGPT Work?
 
 ![A collage of details involved in browsing displayed on top of a device help my a person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/web-of-trust.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-control-collage-concept%5F30589263.htm#query=safe%20browsing&position=45&from%5Fview=search&track=ais)
 
  At its core, FraudGPT is not significantly different from any tool that is powered by a large language model. In other words, the tool itself is an interactive interface for criminals to access a special kind of language model that has been tuned for committing cyber crimes.
@@ -75,15 +63,13 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 
  So, to use the tool, criminals could just prompt the chatbot as they'd do with ChatGPT. They could ask it to, say, write a phishing email for Jane Doe, who works at company ABC, or maybe ask it to write malware using C++ to steal all the PDF files from a Windows 10 computer. Criminals would basically just come up with evil mechanization and let the chatbot do the heavy lifting.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Can You Protect Yourself From FraudGPT?
 
 ![worrying about red flags online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/thinking-person-using-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Despite being a new kind of tool, the threat posed by FraudGPT is not fundamentally different. You could say it introduces more automation and efficiency to already established methods of executing cybercrime.
 
@@ -99,17 +85,9 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
  For more on how to protect yourself, read our guide on [how to protect yourself in the era of AI](https://www.makeuseof.com/how-to-protect-privacy-ai/).
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay Informed to Protect Yourself
 
  The emergence of tools like FraudGPT reminds us that despite all the good that AI can do for us, it still represents a very potent tool in the hands of threat actors.
@@ -120,14 +98,11 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 
  A new ChatGPT-styled tool, FraudGPT, is gaining traction among cybercriminals, allowing them to automate and better execute a large part of their fraud operations. Anyone can become a victim, so it is important to stay informed. Here's everything we know about FraudGPT so far.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +111,18 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-x-converter-pc-toolkit/"><u>[New] 2024 Approved X-Converter PC Toolkit</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-share-the-moment-effortlessly-push-photos-to-social-networks/"><u>[New] In 2024, Share the Moment Effortlessly Push Photos to Social Networks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-dystopian-dreams-comparable-games-to-grand-theft-auto-v-for-2024/"><u>[Updated] Dystopian Dreams Comparable Games To Grand Theft Auto V for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-facebook-visual-posts-aspect-ratio-considerations/"><u>2024 Approved Facebook Visual Posts Aspect Ratio Considerations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-codegpt-prospects-in-automated-programming/"><u>Decoding CodeGPT: Prospects in Automated Programming</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-nokia-c12-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-online-gif-to-video-conversion-top-5-for-2024/"><u>Seamless Online GIF to Video Conversion (Top 5) for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamlessly-syncing-apple-music-with-youtube-music-the-ultimate-transfer-strategy-for-subscribers-insights/"><u>Seamlessly Syncing Apple Music with YouTube Music: The Ultimate Transfer Strategy for Subscribers - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tackling-iphone-irritations-head-on-essential-changes-for-a-seamless-apple-experience/"><u>Tackling iPhone Irritations Head-On: Essential Changes for a Seamless Apple Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ai-openai-uncovered/"><u>Understanding AI: OpenAI Uncovered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-the-full-potential-of-your-chatbot-masterful-prompt-design/"><u>Unleash The Full Potential Of Your ChatBot: Masterful Prompt Design</u></a></li>
+</ul></div>
 

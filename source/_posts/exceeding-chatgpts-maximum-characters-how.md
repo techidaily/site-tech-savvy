@@ -1,7 +1,7 @@
 ---
 title: "Exceeding ChatGPT's Maximum Characters: How?"
-date: 2024-09-06T23:30:18.148Z
-updated: 2024-09-07T23:30:18.148Z
+date: 2025-01-05T19:42:05.124Z
+updated: 2025-01-12T19:09:17.810Z
 tags:
   - chatgpt
   - open-ai
@@ -13,18 +13,6 @@ excerpt: "This Article Describes Exceeding ChatGPT's Maximum Characters: How?"
 thumbnail: https://thmb.techidaily.com/8946a62076f56cb3f482b82fcae409cb45874ba6a9bdb05312020ddc52ab89ce.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Exceeding ChatGPT's Maximum Characters: How?
 
  Millions of people use ChatGPT, but the chatbot's character input limit can be frustrating, limiting what you can do with the chatbot. So, what exactly is ChatGPT's character input limit, and how can you get around it?
@@ -33,12 +21,6 @@ thumbnail: https://thmb.techidaily.com/8946a62076f56cb3f482b82fcae409cb45874ba6a
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is ChatGPT's Character Input Limit?
 
  At the time of writing, the free version of ChatGPT (i.e., ChatGPT-3.5) has a total character limit of 4,096\. This is shared evenly between your input and ChatGPT's output. Therefore, the character input limit of ChatGPT is 2,048\.
@@ -52,11 +34,9 @@ thumbnail: https://thmb.techidaily.com/8946a62076f56cb3f482b82fcae409cb45874ba6a
 ## How to Work Around ChatGPT's Character Input Limit
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Create Effective Prompts
 
  While it would be ideal to use whatever wording we want in our ChatGPT prompts, this can result in many wasted words. This can eat away at your character input cap and limit your experience.
@@ -66,11 +46,9 @@ thumbnail: https://thmb.techidaily.com/8946a62076f56cb3f482b82fcae409cb45874ba6a
 ![screenshot of chatgpt prompt and response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt-plants-prompt-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For instance, instead of typing "Can you tell me how many species of plants there are in the world?", try "number of plant species globally." The screenshot above shows that this will still get you a fleshed-out response.
 
  You may find this language bland, but it will help you save on characters.
@@ -80,21 +58,13 @@ thumbnail: https://thmb.techidaily.com/8946a62076f56cb3f482b82fcae409cb45874ba6a
  We have a guide on [ChatGPT prompt mistakes to avoid](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) if you'd like to learn how to communicate with the chatbot effectively and efficiently.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Upgrade to ChatGPT Plus (GPT-4)
 
 ![gpt-4 ahead sign on dot matrix display feature](https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205d185e4b265bf0a0d105bd32.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Image Credit: Urban Images/[Shutterstock](https://www.shutterstock.com/image-photo/calgary-alberta-canada-january-21-2023-2252419881)
 
  It's important to remember that two kinds of GPT models are used in ChatGPT's current services: [GPT-3.5 and GPT-4](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/).
@@ -105,9 +75,17 @@ Image Credit: Urban Images/[Shutterstock](https://www.shutterstock.com/image-pho
 
  At the time of writing, ChatGPT Plus costs $20 monthly. This isn't extortionate, but it is by no means chump change, either. If you use ChatGPT a lot and see it as a vital tool, consider [upgrading to ChatGPT Plus](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/). If you only use ChatGPT now and then, or you're trying to stick to a tight budget, consider one of the other tips listed here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Type in a Different Language
 
  This may seem a little silly, but some languages use far fewer characters to get the same point across, such as Mandarin and Korean. So, if you're struggling with ChatGPT's input limit, you might want to consider switching up the language.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT's Character Limit Doesn't Have to Be a Dealbreaker
 
@@ -115,14 +93,11 @@ Image Credit: Urban Images/[Shutterstock](https://www.shutterstock.com/image-pho
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,4 +106,20 @@ Image Credit: Urban Images/[Shutterstock](https://www.shutterstock.com/image-pho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-content-creators-revenue-gain-from-each-click/"><u>[New] Content Creators' Revenue Gain From Each Click</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-dimension-dilemma-in-videos-insight-into-imovie-trimming-for-2024/"><u>[New] Dimension Dilemma in Videos Insight Into iMovie Trimming for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unveiling-the-secrets-to-snap-success/"><u>[New] In 2024, Unveiling the Secrets to Snap Success</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-vectors-for-novices-uncover-essentials-types-and-applications/"><u>[New] In 2024, Vectors for Novices Uncover Essentials, Types & Applications</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-virtual-verification-app-standards-by-vll-for-2024/"><u>[New] Virtual Verification App Standards by VLL for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-amps-up-artificial-intelligence-initiatives-exploring-capabilities-of-its-latest-ai-models-insights/"><u>Apple Amps Up Artificial Intelligence Initiatives: Exploring Capabilities of Its Latest AI Models - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boss-level-ai-oversight-ensuring-top-notch-learning-from-gpt/"><u>Boss-Level AI Oversight: Ensuring Top-Notch Learning From GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-memories-safely-store-em/"><u>ChatGPT Memories, Safely Store 'Em!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-through-the-mullvad-myth/"><u>Cutting Through the Mullvad Myth</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/essential-popcorn-video-players-find-your-perfect-fit-now/"><u>Essential Popcorn Video Players – Find Your Perfect Fit Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/examining-the-purpose-of-chatgpt-extras/"><u>Examining the Purpose of ChatGPT Extras</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-watch-the-lord-of-the-rings-movies-in-order/"><u>How to Watch the ‘Lord of the Rings’ Movies in Order</u></a></li>
+<li><a href="https://win-hot.techidaily.com/overcoming-device-halt-unsticking-your-ios-gadget-from-the-apple-boot-sequence-after-upgrading/"><u>Overcoming Device Halt: Unsticking Your iOS Gadget From the Apple Boot Sequence After Upgrading</u></a></li>
+</ul></div>
 

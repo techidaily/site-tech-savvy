@@ -1,7 +1,7 @@
 ---
 title: Top 6 Unhelpful GPT-3 Extensions Reconsidered
-date: 2025-01-01T20:24:49.607Z
-updated: 2025-01-05T19:11:01.904Z
+date: 2025-01-05T21:35:44.082Z
+updated: 2025-01-12T18:46:18.361Z
 tags:
   - chatgpt
   - open-ai
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
 
 ![The I Am Rich plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-i-am-rich-plugin-on-the-chatgpt-plugin-store.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The "I Am Rich" plugin is one of the most confusing plugins on the ChatGPT platform. If you're ever curious about what it does and go poking around—you're probably already wasting your time because the plugin does absolutely nothing. And this is not an exaggeration.
 
  To trigger the plugin, you're supposed to activate it, and then include the text "I am rich" in your prompt. What happens when you do this? Well, ChatGPT is supposed to load an image of a crystal with a glow around it. What purpose does the image serve? Unless you value it as "artwork," there's really nothing else it does.
@@ -51,16 +47,24 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
 ![Aaron Web Browser on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aaron-web-browser-on-the-chatgpt-plugin-store.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  “Built for scraping data from multiple website URLs.” This is the first sentence in the description for the plugin. One would think that the description accurately captures the plugin's capabilities, but upon closer inspection, it’s not entirely true. We tried to scrape data from 20 different URLs and only one went through.
 
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to [scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/)? Maybe ChatGPT plugins are not the right tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. AppyPie App Builder
 
 ![Appypie App builder on ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/appypie-app-builder-on-chatgpt-plugin-store.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  AppyPie is a popular no-code app-building platform. It's relatively easy to use, and you can deploy fully functional mobile apps in a very short time without having to write a single line of code.
 
@@ -83,26 +87,18 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
  It seems it was just applying a few prompt tricks and returning a not-so-enhanced copy of what ChatGPT would provide. There's really no sense of AI agents at work. It doesn't offer anything particularly different from what ChatGPT would do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. A Movie Please (FilmFindr)
 
 ![FilmFindr plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/filmfindr-plugin-on-the-chatgpt-plugin-store.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The "A Movie Please" plugin is a movie recommendation tool to help ChatGPT users decide what to watch next. Although the plugin is not a dud (it actually makes movie recommendations), you're better off using ChatGPT without the plugin.
 
  Once you've provided a description of the kind of movie you want, the plugin only ever recommends movies that are available on Amazon's Prime streaming service. If you have a niche taste in movies, you'll find the recommendations to be mediocre at best.
 
  For quality movie suggestions, you're better off prompting the base ChatGPT model directly [to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/). By going that route, you'll get far superior results compared to relying on the "A Movie Please" plugin.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. ABC Website Maker
 
@@ -111,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT's Plugin Store: Quantity Over Quality?
 
@@ -139,15 +139,17 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-key-steps-to-ace-zoom-with-a-chromebook/"><u>[New] In 2024, Key Steps to Ace Zoom with a Chromebook</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-reviewing-screenmasters-latest-tech-for-recording/"><u>[Updated] Reviewing ScreenMaster's Latest Tech for Recording</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-8-unbeatable-zero-price-software-choices-for-online-media-makers/"><u>2024 Approved 8 Unbeatable Zero-Price Software Choices For Online Media Makers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-human-expertise-and-machine-learning-with-ai-in-3d-printing/"><u>Bridging Human Expertise & Machine Learning with AI in 3D Printing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypassreset-oppo-reno-11-5g-phone-screen-passcodepatternpin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Oppo Reno 11 5G Phone Screen Passcode/Pattern/Pin</u></a></li>
-<li><a href="https://win11.techidaily.com/de-jam-windows-and-run-handbrake-successfully/"><u>De-Jam Windows and Run HandBrake Successfully</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diving-into-digital-dialogue-myai-vs-openais-intelligence/"><u>Diving Into Digital Dialogue: MyAI vs OpenAI's Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/keeping-content-pure-openais-tool-to-verify-authenticity/"><u>Keeping Content Pure: OpenAI's Tool to Verify Authenticity</u></a></li>
-<li><a href="https://games-able.techidaily.com/moza-r5-bundle-review-a-great-sim-racing-starting-point-for-499/"><u>MOZA R5 Bundle Review: A Great Sim Racing Starting Point for $499</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-game-changing-pact-blizzards-new-era-at-microsoft-with-ai-art-and-translation-insights-podcast-analysis/"><u>The Game-Changing Pact: Blizzard's New Era at Microsoft with AI Art & Translation Insights [Podcast Analysis]</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-dive-into-ustream-and-others-like-it-for-2024/"><u>[New] Dive Into Ustream & Others Like It for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-fantasy-realms-awaits-ultimate-list-of-no-cost-rpgs-for-2024/"><u>[Updated] Fantasy Realms Awaits Ultimate List of No-Cost RPGs for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-loyalists-delight-as-lg-rolls-out-no-cost-audio-improvement-featured-on-zdnet/"><u>Apple Loyalists Delight as LG Rolls Out No-Cost Audio Improvement, Featured on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-8-ultimate-apps-for-seamless-trip-itinerary-management/"><u>Discover the 8 Ultimate Apps for Seamless Trip Itinerary Management</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/download-samsung-android-debug-bridge-adb-drivers-free/"><u>Download Samsung Android Debug Bridge (ADB) Drivers - Free</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-strategies-for-clearing-your-gpt-history/"><u>Efficient Strategies for Clearing Your GPT History</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-steps-to-enable-gpt-3s-web-features/"><u>Essential Steps to Enable GPT-3's Web Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apples-latest-mac-mini-with-m2-chip-drops-to-record-low-price-of-479-the-inside-scoop-on-tech-deals/"><u>How Apple's Latest Mac Mini With M2 Chip Drops to Record Low Price of $479 | The Inside Scoop on Tech Deals</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-motorola-moto-g-5g-2023-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Motorola Moto G 5G (2023) to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sculpting-images-a-beginners-guide-to-pics-distortion/"><u>In 2024, Sculpting Images A Beginner's Guide to Pics Distortion</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-reduce-cpu-load-from-dropbox-applications/"><u>Techniques to Reduce CPU Load From Dropbox Applications</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-future-of-mobile-videography-6-pioneering-apps-beyond-periscope/"><u>The Future of Mobile Videography 6 Pioneering Apps Beyond Periscope</u></a></li>
 </ul></div>
 

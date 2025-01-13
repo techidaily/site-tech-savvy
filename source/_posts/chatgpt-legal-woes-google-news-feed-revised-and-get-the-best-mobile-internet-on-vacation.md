@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Legal Woes, Google News Feed Revised, and Get the Best Mobile Internet on Vacation
-date: 2024-09-06T23:30:17.121Z
-updated: 2024-09-07T23:30:17.121Z
+date: 2025-01-11T19:29:29.483Z
+updated: 2025-01-12T22:57:56.654Z
 tags:
   - chatgpt
   - open-ai
@@ -13,18 +13,6 @@ excerpt: This Article Describes ChatGPT Legal Woes, Google News Feed Revised, an
 thumbnail: https://thmb.techidaily.com/f7921a39c56c18854a738fb18f72fdf7d073d94792cd13b7517a6bd96365dcaf.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Legal Woes, Google News Feed Revised, and Get the Best Mobile Internet on Vacation
 
  This week's podcast offers you an amazing smartphone mobile data tip for vacations, examines why Twitter might be afraid of Threads, and looks at various legal challenges to ChatGPT.
@@ -38,11 +26,9 @@ thumbnail: https://thmb.techidaily.com/f7921a39c56c18854a738fb18f72fdf7d073d9479
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we chat about the following tech news:
@@ -70,17 +56,9 @@ thumbnail: https://thmb.techidaily.com/f7921a39c56c18854a738fb18f72fdf7d073d9479
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we chat about the following tech news:
@@ -108,11 +86,9 @@ thumbnail: https://thmb.techidaily.com/f7921a39c56c18854a738fb18f72fdf7d073d9479
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we chat about the following tech news:
@@ -140,11 +116,9 @@ thumbnail: https://thmb.techidaily.com/f7921a39c56c18854a738fb18f72fdf7d073d9479
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we chat about the following tech news:
@@ -164,15 +138,12 @@ thumbnail: https://thmb.techidaily.com/f7921a39c56c18854a738fb18f72fdf7d073d9479
 * [Retroid Pocket 3+](https://www.goretroid.com/products/retroid-pocket-3-handheld-retro-gaming-system-1)
 
  Christian Cawley and Gavin Phillips host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@gavinspavin](https://twitter.com/gavinspavin), with your suggestions for future topics. Oh, and don't forget to leave us a review on [Apple Podcasts](http://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2)!
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -181,4 +152,19 @@ thumbnail: https://thmb.techidaily.com/f7921a39c56c18854a738fb18f72fdf7d073d9479
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-beginners-pathway-utilizing-fade-transitions/"><u>[New] In 2024, Beginner's Pathway Utilizing Fade Transitions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-enhancing-mac-use-top-5-recommended-sniping-apps/"><u>[Updated] Enhancing Mac Use Top 5 Recommended Sniping Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-catalyze-viewers-interest-tutorial-for-traffic-triumphs/"><u>[Updated] In 2024, Catalyze Viewers' Interest Tutorial for Traffic Triumphs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-discovering-the-best-youtube-mp3-transformers/"><u>2024 Approved Discovering the Best YouTube MP3 Transformers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-alternatives-to-apples-max-headphones/"><u>Budget-Friendly Alternatives to Apple's Max Headphones?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-the-apple-macbook-air-with-a-series-chip-m3-in-depth-review-and-comparison-for-consumers-cnet/"><u>Introducing the Apple MacBook Air with A-Series Chip (M3): In-Depth Review and Comparison for Consumers | CNET</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-microsoft-store-sign-in-hurdles/"><u>Mastering Microsoft Store Sign-In Hurdles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-hotel-stays-discover-how-apple-airplay-enhances-your-room-experience-with-ease/"><u>Revolutionizing Hotel Stays: Discover How Apple AirPlay Enhances Your Room Experience with Ease!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sculpting-narratives-with-ai-enhancements-in-dandd-character-development/"><u>Sculpting Narratives with AI Enhancements in D&D Character Development</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sneak-peek-at-the-samsung-galaxy-z-flip-7-anticipated-costs-launch-timeline-and-exciting-specs-revealed/"><u>Sneak Peek at the Samsung Galaxy Z Flip 7: Anticipated Costs, Launch Timeline and Exciting Specs Revealed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-metaverse-mirth-making-manual-top-funny-imagery-and-techniques-for-2024/"><u>The Metaverse Mirth-Making Manual Top Funny Imagery & Techniques for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-not-let-algorithms-do-your-essay-summaries/"><u>Why Not Let Algorithms Do Your Essay Summaries?</u></a></li>
+</ul></div>
 

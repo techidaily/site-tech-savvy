@@ -1,7 +1,7 @@
 ---
 title: "Statecraft in Silicon: Four Modalities for AI Oversight"
-date: 2024-09-06T23:30:19.003Z
-updated: 2024-09-07T23:30:19.003Z
+date: 2025-01-05T23:24:22.660Z
+updated: 2025-01-12T23:25:42.165Z
 tags:
   - chatgpt
   - open-ai
@@ -23,15 +23,13 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 
  If left unchecked, AI technologies can negatively disrupt our way of life and threaten our existence. But how can governments navigate the labyrinth of challenges that comes with this rapidly evolving field?
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Data Privacy and Protection Regulations
 
 ![a lock in a blue digital field](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/privacy-lock-mac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One of the primary concerns with AI technologies is data privacy and security. Artificial intelligence systems are data-hungry machines. They need data to operate, more data to be efficient, and even more data to improve. While this isn't a problem, the way this data is sourced, the nature of it, and how it is processed and stored is one of the biggest talking points surrounding AI regulations.
 
@@ -51,11 +49,9 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 ![binary code background showing a woman face to face with a robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-10-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  AI companies frequently boast about their commitment to ethical guidelines in developing AI systems. At least on paper, they are all proponents of responsible AI development. In the media, Google execs have emphasized how the company takes AI safety and ethics seriously. Similarly, "Safe and ethical AI" is a mantra for OpenAI's CEO, Sam Altman. These are quite applaudable.
 
  But who's making the rules? Who decides which AI ethical guidelines are good enough? Who decides what safe AI development looks like? Right now, every AI company seems to have its own spin on responsible and ethical AI development. OpenAI, Anthropic, Google, Meta, Microsoft, everyone. Simply relying on AI companies to do the right thing is dangerous.
@@ -68,16 +64,14 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 * That humans retain ultimate control of AI systems and their decision-making transparently.
 * AI systems are intentionally limited in ways that are advantageous to humans.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Dedicated Regulatory Agency
 
 ![engineer monitoring ssh logins on linux](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/engineer_monitoring_ssh_logins.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Owing to its potential impact on human civilization, discussion around AI safety typically draws parallel to the risk of a health crisis or a nuclear disaster. Avoiding potential nuclear incidents necessitates a dedicated agency like the US's NRC (Nuclear Regulatory Commission). Avoiding the risk of dangerous health crises necessitates the establishment of the FDA (Food and Drug Administration)
 
  Similarly, to ensure that things don't go wrong in the AI space, a dedicated agency akin to the FDA and the NRC is necessary as AI continues to make aggressive inroads into all areas of our life. Unfortunately, the issue of in-country AI regulation is a tricky one. The work of any dedicated regulatory agency is likely to be agonizingly hard without cross-border cooperation. Just like the US's NRC (Nuclear Regulatory Commission) needs to work hand in hand with the International Atomic Energy Agency (IAEA) to be at its best, any dedicated in-country AI regulatory agency would also need an international analog.
@@ -89,22 +83,14 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 * Overseeing the ethical review process of AI projects
 * Collaboration and cross-country cooperation on AI safety and ethics
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Addressing Copyright and Intellectual Property Concerns
 
 ![An illustration of copyright thief](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/copyright-protected-illustration.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Existing copyright laws and legal frameworks crumble in the face of Artificial Intelligence. The way AI tools, especially generative AI tools, are designed makes them seem like a publicly endorsed copyright infringement machine that you can't do anything about.
 
  How? Well, many of today's AI systems are trained using copyrighted materials. You know, copyrighted articles, copyrighted songs, copyrighted images, etc. That's how tools like [ChatGPT, Bing AI, and Google Bard](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/) can do the awesome things they do.
@@ -121,11 +107,9 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 * Clear pathways for collaboration with right holders. If AI systems are going to use people's intellectual property anyway, there should be clear pathways or frameworks for AI developers and rights-owners to collaborate, especially in terms of financial compensations, if the derivative work of such intellectual properties is commercialized.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AI Regulation Is a Desperately Needed Fix
 
  While artificial intelligence has emerged as a promising fix to many of our societal problems, AI itself is rapidly becoming a problem needing an urgent fix. It's time to take a step back, reflect, and make the necessary fixes to ensure AI's positive impact on society. We desperately need an urgent recalibration of our approach to building and using AI systems.
@@ -140,8 +124,6 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +131,18 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-7-critical-practices-for-controlling-instagram-tv-videosize/"><u>[New] 7 Critical Practices for Controlling Instagram TV Videosize</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ecalibrating-youtube-rearranging-with-ease-and-speed-for-2024/"><u>[New] Recalibrating YouTube Rearranging with Ease and Speed for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/busting-portable-charger-myths-how-the-affordable-20-anker-power-bank-outperforms-others-zdnet/"><u>Busting Portable Charger Myths: How the Affordable $20 Anker Power Bank Outperforms Others | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-installation-and-operation-of-microsoft-copilot-on-macos/"><u>Effortless Installation and Operation of Microsoft Copilot on macOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-review-non-apple-non-tile-brand-emerges-as-top-contender-in-wallet-airtag-market-insights/"><u>Exclusive Review: Non-Apple, Non-Tile Brand Emerges as Top Contender in Wallet AirTag Market - Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-100-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor 100 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-steps-to-create-youtube-beginnings-and-ends-on-a-budget/"><u>In 2024, Essential Steps to Create YouTube Beginnings & Ends on a Budget</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-investing-in-your-instagram-presence-5-key-strategies-and-illustrated-outcomes/"><u>In 2024, Investing in Your Instagram Presence 5 Key Strategies and Illustrated Outcomes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revitalize-your-writers-block-with-5-ai-generators/"><u>Revitalize Your Writer's Block with 5 AI Generators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-a-deal-grab-your-new-ipad-for-only-199-at-amazons-labor-day-discount-extravaganza-featured/"><u>Score a Deal: Grab Your New iPad for Only $199 at Amazon's Labor Day Discount Extravaganza – Featured !</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-crafting-text-memes-quickly-for-2024/"><u>The Art of Crafting Text Memes Quickly for 2024</u></a></li>
+</ul></div>
 

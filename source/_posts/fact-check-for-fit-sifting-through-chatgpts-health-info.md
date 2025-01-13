@@ -1,7 +1,7 @@
 ---
 title: "Fact-Check for Fit: Sifting Through ChatGPT's Health Info"
-date: 2024-09-06T23:30:21.597Z
-updated: 2024-09-07T23:30:21.597Z
+date: 2025-01-07T21:52:31.066Z
+updated: 2025-01-12T22:09:49.381Z
 tags:
   - chatgpt
   - open-ai
@@ -22,23 +22,15 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
 **SCROLL TO CONTINUE WITH CONTENT**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Contact a Physician
 
  For any serious or recurring issues, contact your physician or set up a telemedicine appointment. While [ChatGPT can offer reliable health information](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/), it can't replace a medical professional's evaluation of your particular issue.
 
 ![ChatGPT health information caveat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-health-information-caveat.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When prompted, the chatbot itself will even reiterate this idea. Although [AI technology will affect the future of healthcare](https://www.makeuseof.com/ai-will-power-future-healthcare/) in a number of ways, it isn't likely to replace the human component in the near future. For the most important medical questions, continue to rely on your personal physician or healthcare provider.
 
 ## 2\. Rely on Established Medical Resources
@@ -53,19 +45,21 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
 
  In addition, many hospital websites also provide general medical information. If you need to fact-check any medical advice from ChatGPT or similar AI chatbots, then these trusted websites can help you learn more about nearly any health-related topic.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Be Wary of Commercial Sites
 
  If you're using online sources, then check the end of your resource's URL. If it ends in .gov, .edu, or .org, then it’s likely a nonprofit or educational website. For the most part, websites with these addresses provide beneficial information to the public for free.
 
 ![screenshot NHS website physical activity guidelines](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-nhs-website-physical-activity-guidelines.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Those that end in .com, or commercial sites, may also provide helpful information. In many instances, however, these sites are more focused on selling you something, according to the [National Institute on Aging](https://www.nia.nih.gov/health/how-find-reliable-health-information-online). If you're trying to fact-check other information, then a nonprofit or educational site may offer more neutral facts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Use Apps With Care
 
@@ -76,11 +70,9 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
  In general, health apps should complement professional medical advice—not replace it. In this instance, they may not provide the best way to fact-check information from other sources.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Take Care With Personal Sites, Influencers, and Other Individuals
 
  When it comes to the question of whether [health and fitness influencers are beneficial or harmful to your health](https://www.makeuseof.com/health-fitness-influencers-beneficial-harmful-health/), there isn't a straightforward answer. In general, exercising caution is a smart idea.
@@ -93,12 +85,6 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
 
  If you’re trying to double-check information from ChatGPT or similar sources, however, then this may not be the best avenue in general.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Trust Your Gut
 
  If your AI bot presents health information that doesn’t seem quite right, then trust your gut. Although these applications are incredibly powerful, they aren’t all-knowing.
@@ -108,11 +94,9 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
  In these events, take extra care to run the provided information by a trusted medical resource (or your own physician).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use Trusted Resources to Double-Check Health Information From ChatGPT
 
  When it comes to fact-checking health information provided by AI bots like ChatGPT, it's important to exercise caution and choose reliable resources. For any serious or recurring health issue, consult with a qualified medical professional for a personalized evaluation. In other cases, rely on established medical resources such as the Mayo Clinic, NHS, CDC, WHO, and NIH.
@@ -121,14 +105,11 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +118,26 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-cards-for-ultra-hd-content-creation/"><u>[New] Ideal Cards for Ultra-HD Content Creation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-channel-finale-101-insider-tricks-for-successful-outros/"><u>[New] In 2024, Channel Finale 101 Insider Tricks for Successful Outros</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-thrifty-shoppers-best-bargains-in-cams/"><u>[New] In 2024, Thrifty Shopper's Best Bargains in Cams</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-mystery-of-unlisted-content-on-youtube-explored/"><u>[Updated] In 2024, The Mystery of Unlisted Content on YouTube Explored</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-craft-your-narrative-on-reddit-mastering-content-delivery/"><u>2024 Approved Craft Your Narrative on Reddit Mastering Content Delivery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-playlists-10-music-selections-to-open-your-podcast/"><u>2024 Approved Perfect Playlists 10 Music Selections to Open Your Podcast</u></a></li>
+<li><a href="https://driver-download.techidaily.com/behringer-usb-dac-instrument-driver-get-it-now/"><u>Behringer USB DAC Instrument Driver - Get It Now</u></a></li>
+<li><a href="https://article-posts.techidaily.com/capture-clarity-best-webcams-to-elevate-your-podcasts-for-2024/"><u>Capture Clarity Best Webcams to Elevate Your Podcasts for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensible-disassembly-decoding-the-xbox-360-slim-console/"><u>Comprehensible Disassembly: Decoding the Xbox 360 Slim Console</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cost-effective-intelligence-leveraging-the-best-of-copilot-and-turbo/"><u>Cost-Effective Intelligence: Leveraging the Best of Copilot & Turbo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-chatgpt-have-privacy-issues/"><u>Does ChatGPT Have Privacy Issues?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/getting-notifications-from-slack-on-the-apple-watch-an-expert-tutorial/"><u>Getting Notifications From Slack on the Apple Watch: An Expert Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-using-a-vpn-necessary-for-chatgpt-access/"><u>Is Using a VPN Necessary for ChatGPT Access?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rapid-rise-to-fame-chatgpts-five-pivotal-elements/"><u>Rapid Rise to Fame: ChatGPT's Five Pivotal Elements</u></a></li>
+<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-poco-m6-pro-4g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Poco M6 Pro 4G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-document-process-with-10-chatgpt-apps/"><u>Revolutionize Your Document Process with 10 ChatGPT Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitter-without-gifs-linuss-tech-revelations-trojans-decoded-and-chatbot-snags/"><u>Twitter without GIFs, Linus’s Tech Revelations, Trojans Decoded, & ChatBot Snags</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-chatgpt-a-privacy-paradox/"><u>Unveiling ChatGPT: A Privacy Paradox</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-googles-vision-palm-2-future-of-language-models/"><u>Unveiling Google's Vision: PaLM 2, Future of Language Models</u></a></li>
+</ul></div>
 

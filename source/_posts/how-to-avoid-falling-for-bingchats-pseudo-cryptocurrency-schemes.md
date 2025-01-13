@@ -1,7 +1,7 @@
 ---
 title: How to Avoid Falling for BingChat's Pseudo-Cryptocurrency Schemes
-date: 2025-01-01T09:13:28.687Z
-updated: 2025-01-05T22:53:14.886Z
+date: 2025-01-07T21:19:58.223Z
+updated: 2025-01-12T21:14:41.768Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Bing's AI Browser?
@@ -35,7 +35,7 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
 ![digital graphic of rotating bing logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-blue-logo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Nowadays, your typical search engine will take inputted text and scour the internet for the most relevant results. This is by no means a shoddy model but could be improved upon using artificial intelligence.
@@ -44,12 +44,16 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
 
  With Microsoft integrating AI into its Bing search tool, users can expect an improved search experience, more complete answers, and an interactive AI-powered chat to help them create content. So, how are these new technologies being capitalized on by malicious actors?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are BingChatGPT Scam Tokens?
 
 ![red digital scam alert graphic with binary code in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/scam-alert-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The crypto industry is no stranger to scam tokens. Thousands of people have fallen victim to fake assets launched by malicious actors, with some losing huge amounts of money to such scams. So, it's really no surprise that cybercriminals are looking to use Bing and ChatGPT's well-established names to lure in unknowing victims.
@@ -68,10 +72,6 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
 
  Then, the scammers who launched the coin will sell all their holdings at a higher price. These scammers hold back a large proportion of the overall supply to make big profits by dumping it after the price rise. The huge sell-off causes a massive price crash, leaving all other investors out of pocket.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Steer Clear of Scam Crypto Tokens
 
  There are many [key warning signs of a scam token](https://www.makeuseof.com/biggest-signs-scam-token/), but we'll briefly run over what you should look out for here to protect yourself from crypto scams.
@@ -83,7 +83,7 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
  Finally, beware of tokens with names linked to any trend or meme. [Memecoins like Dogecoin and Shiba Inu](https://www.makeuseof.com/what-are-crypto-meme-coins/) have become popular, but most meme cryptos are used in scams.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Scam Tokens Pose a Huge Risk to Investors
@@ -107,18 +107,16 @@ If you're into tech, you've likely heard of ChatGPT. This AI-powered chatbot has
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-windows-best-video-conferencing-apps-2-1/"><u>[New] 2024 Approved Windows' Best Video Conferencing Apps, #2-#1</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-wallet-friendly-skyvaults-affordable-ample-data-storing/"><u>[Updated] In 2024, Wallet-Friendly SkyVaults Affordable, Ample Data Storing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-unveils-updated-device-security-measures-spotlight-on-vulnerability-and-expert-fixes-securetechguide/"><u>Apple Unveils Updated Device Security Measures - Spotlight on Vulnerability & Expert Fixes | SecureTechGuide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-as-a-tool-for-effective-cbt-implementation/"><u>ChatGPT as a Tool for Effective CBT Implementation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-translators-navigating-a-new-era-of-communication/"><u>ChatGPT for Translators: Navigating a New Era of Communication</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/direct-ai-access-from-anywhere-browser-edition-using-agentgpt/"><u>Direct AI Access From Anywhere – Browser Edition, Using AgentGPT</u></a></li>
-<li><a href="https://win-best.techidaily.com/enhancing-computer-efficiency-a-guide-on-deleting-unnecessary-files-yl-software-insights/"><u>Enhancing Computer Efficiency: A Guide on Deleting Unnecessary Files - YL Software Insights</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/find-out-the-best-8-youtube-engagement-tools-for-2024/"><u>Find Out The Best 8 Youtube Engagement Tools for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/improving-clarity-in-conversations-how-tvos-18-upgrade-transforms-audio-experience-on-apple-tv/"><u>Improving Clarity in Conversations: How tvOS 18 Upgrade Transforms Audio Experience on Apple TV</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-s18e-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo S18e</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-how-to-find-my-playlist-on-youtube/"><u>In 2024, How to Find My Playlist on YouTube</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-how-video-testimonials-shape-perception-and-trust/"><u>In 2024, How Video Testimonials Shape Perception and Trust</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/bes-time-loop-video-recovery-explained-for-2024/"><u>YouTube's Time Loop Video Recovery Explained for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-optimal-gpus-for-high-res-media-production/"><u>[New] In 2024, Optimal GPUs for High Res Media Production</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-perfect-photos-effortless-best-10-screenshot-sticker-enhancers-for-smartphones/"><u>[New] Perfect Photos, Effortless Best 10 Screenshot-Sticker Enhancers for Smartphones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-quality-web-resources-for-glossy-3d-letters/"><u>2024 Approved High-Quality Web Resources for Glossy 3D Letters</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-quick-tips-for-photo-correction-with-adobes-palette/"><u>2024 Approved Quick Tips for Photo Correction with Adobe's Palette</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-output-with-chatgpt-strategy-tips/"><u>Boosting Output with ChatGPT Strategy Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-europes-ai-law-how-will-it-shape-future-of-ai-like-chatgpt/"><u>Deciphering Europe’s AI Law: How Will It Shape Future of AI Like ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-workflow-expert-tips-on-integrating-chatgpt-in-daily-life/"><u>Elevate Your Workflow: Expert Tips on Integrating ChatGPT in Daily Life</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expedite-engagement-with-llm-and-chatbots-using-quoras-poe/"><u>Expedite Engagement with LLM & Chatbots Using Quora's PoE</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-winx-dvd-ripper-software-convert-dvds-to-mp4-avi-and-more-for-iosandroid-devices/"><u>Free WinX DVD Ripper Software: Convert DVDs to MP4, AVI & More for iOS/Android Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-resistance-top-8-compelling-arguments-for-embracing-ai-in-teaching/"><u>Overcoming Resistance: Top 8 Compelling Arguments for Embracing AI in Teaching</u></a></li>
 </ul></div>
 

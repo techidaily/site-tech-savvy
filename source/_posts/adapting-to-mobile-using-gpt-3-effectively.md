@@ -1,7 +1,7 @@
 ---
 title: "Adapting to Mobile: Using GPT-3 Effectively"
-date: 2024-09-02T20:41:34.348Z
-updated: 2024-09-03T20:41:34.348Z
+date: 2025-01-09T20:34:17.265Z
+updated: 2025-01-13T00:49:17.221Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3
 
 ![ChatGPT in App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-in-app-store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3
 Close
 
  Now you can start using ChatGPT as you would on your computer. If you cannot download the app because it's unavailable in your area, you can try using ChatGPT through the web browser method or download the third-party apps listed below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Using ChatGPT Through a Smartphone Web Browser
 
@@ -63,8 +71,9 @@ Close
  Like the desktop version, you can access previous conversations, [upgrade to ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), or even enable dark mode. You can access these settings by tapping the **menu icon** in the top-left corner of your screen.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using ChatGPT Through Siri Shortcuts
 
  Siri is a great virtual assistant but can't hold a candle to ChatGPT. However, if you ever wanted Siri to be more capable, you can combine ChatGPT with Siri. This method involves Siri Shortcuts, API keys for ChatGPT, and a little patience. Make sure you already have an OpenAI account before you proceed.
@@ -83,16 +92,18 @@ Close
 
 ![SiriGPT Shortcuts app iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-shortcuts-app-ios.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![SiriGPT insert API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-insert-api-key.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![SiriGPT prompt screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-prompt-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  That's certainly a lot of work, and whether it's worth it depends on how much you use the shortcut. At its worst, it's a neat party trick, but at its best, you have the power of GPT in your hands, now with the voice of Siri powering it. Again, this is not the most convenient way of accessing ChatGPT, but it's surprising how well it works when it does.
@@ -117,23 +128,26 @@ Close
 
 ![Nova GPT Android app homescreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-homescreen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Nova GPT Android app prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Nova GPT Android app text to speech](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-text-to-speech.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
 **Download:** Nova for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2024179/https://play.google.com/store/apps/details?id=com.scaleup.chatai&hl=en&gl=US) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Protect Yourself From Scams
 
  Amid all the excitement with AI, staying on your toes is important. You can easily fall victim to apps that steal your data, charge you for no reason, or annoy you with a constant barrage of ads.
@@ -148,14 +162,11 @@ Close
 
  For a long while after ChatGPT's launch, it was only accessible through its web app. If you wanted to access ChatGPT on your smartphone, it would also be through a browser. But there are other ways to access ChatGPT on your smartphone, starting with the official ChatGPT App for iOS.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +175,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-crucial-steps-in-capturing-sporting-games-online/"><u>[New] In 2024, Crucial Steps in Capturing Sporting Games Online</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-million-viewer-milestone-and-associated-income-levels/"><u>[New] Million-Viewer Milestone and Associated Income Levels</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-top-9-sites-for-accessing-cutting-edge-3d-font-art/"><u>[New] Unveiling the Top 9 Sites for Accessing Cutting-Edge 3D Font Art</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-the-simple-process-of-uploading-videos-to-twitter/"><u>[Updated] In 2024, The Simple Process of Uploading Videos to Twitter</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-utilizing-digital-assets-a-guide-on-buying-items-with-cryptocurrency-innovations-by-yl-computing/"><u>1. Utilizing Digital Assets: A Guide on Buying Items with Cryptocurrency - Innovations by YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-pick-for-smartphone-ai-the-top-8-ios-and-android-apps/"><u>Best Pick for Smartphone AI: The Top 8 iOS and Android Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/connecting-fitness-platforms-integrate-oura-ring-data-into-strava-seamlessly-tutorial-digital-lifestyle-hub/"><u>Connecting Fitness Platforms: Integrate Oura Ring Data Into Strava Seamlessly - Tutorial | Digital Lifestyle Hub</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-advanced-features-in-ios-181-public-beta-with-improved-apple-ai-join-now-zdnet/"><u>Discover Advanced Features in iOS 18.1 Public Beta with Improved Apple AI - Join Now | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-common-ground-with-assisted-conversations/"><u>Discovering Common Ground with Assisted Conversations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-tips-from-apple-mastering-the-art-of-visionos-uiux-design-unveiled-in-a-new-zdnet-feature/"><u>Essential Tips From Apple: Mastering the Art of VisionOS UI/UX Design Unveiled in a New ZDNet Feature</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-virtual-mixology-expertise-of-ai/"><u>Evaluating Virtual Mixology Expertise of AI</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exquisite-quintet-of-precision-engineered-cameras/"><u>Exquisite Quintet of Precision-Engineered Cameras</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/improve-audio-clarity-with-tvos-18s-enhanced-speech-features-for-a-superior-apple-tv-viewing-experience/"><u>Improve Audio Clarity with tvOS 18'S Enhanced Speech Features for a Superior Apple TV Viewing Experience</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-lava-storm-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Lava Storm 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-data-interactions-with-gpt-enhanced-tools/"><u>Master Data Interactions with GPT-Enhanced Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-market-maze-gpt-for-trading-triumphs/"><u>Navigating the Market Maze: GPT for Trading Triumphs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sideways-vids-phenomenon-anomaly-or-feature-on-instagram-for-2024/"><u>Sideways Vids Phenomenon Anomaly or Feature on Instagram for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-trending-iphone-16-models-and-availability-timespan-revealed-insights-for-shoppers-by-zdnet/"><u>Top Trending iPhone 16 Models & Availability Timespan Revealed - Insights for Shoppers by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-hidden-gem-a-surprising-revelation-of-a-349-ipad-at-apples-exciting-event-featured-on-zdnet/"><u>Unveiling the Hidden Gem: A Surprising Revelation of a $349 iPad at Apple's Exciting Event | Featured on ZDNET</u></a></li>
+</ul></div>
 

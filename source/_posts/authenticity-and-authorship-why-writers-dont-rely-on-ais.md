@@ -1,7 +1,7 @@
 ---
 title: "Authenticity and Authorship: Why Writers Don't Rely on AIs"
-date: 2024-12-30T18:53:32.163Z
-updated: 2025-01-06T07:01:08.882Z
+date: 2025-01-08T16:39:16.017Z
+updated: 2025-01-12T23:58:01.218Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. AI Doesn’t Fact-Check Information
 
  AI systems cover a broad range of general questions. They’ll scour billions of online resources to provide a condensed answer comprising the most widely accepted facts. Users often get reliable responses in science, math, and history.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
  Although chatbots and [writing tools](https://www.makeuseof.com/ai-writing-tools/) consistently strive for accuracy, they don’t double-check the facts. AI only relays what it finds. Even sophisticated systems inaccurately respond to questions about recent research ideas, advanced mathematical equations, medicine, controversial topics, and current events.
 
  You can still [use ChatGPT like a search engine](https://www.makeuseof.com/is-chatgpt-search-engine-threat/). Just make sure you don’t take its answers at face value; otherwise, you might publish misleading information. As a general rule, always compare AI responses with official resources.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Language Models Like GPT-3 Follow Templates
 
@@ -48,9 +56,17 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 ![ChatGPT Generated a 200-Word Article on Cats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-on-cats.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, compare it with the below photo. You’ll notice that the response follows the exact template, although this one talks about dogs.
 
 ![ChatGPT Generated a 200-Word Article on Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-about-dogs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Overdependence on AI Makes You a Lazy Researcher
 
@@ -68,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 ![Copy.ai Lists Down Article Sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-sources.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Generic pieces rarely gain traffic. To attract readers and score higher SERP rankings, write original articles that are exclusive to your site. Stop rewriting stuff that everyone already knows.
 
  Of course, you can still discuss general subjects. Just make sure you cover a unique angle or stand that aligns with your branding and image.
@@ -82,16 +94,12 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
  For more accurate insights, double-check facts by visiting reputable, credible resources. Also, compare differing opinions. There are several ways to approach topics—you don’t have to copy the story angles of your AI tools.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. AI Can’t Adopt Your Tone
 
 ![ChatGPT Generates Dog Articles in Different Tones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-dog-articles-examples.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  AI writing tools and chatbots can structure responses in certain ways. For instance, the above photo shows that ChatGPT could form professional and casual variations of the same topic. Generally, if you insert specific keywords into your prompts, you’ll trigger detailed changes.
@@ -108,17 +116,9 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
  If you want top-ranking pages, focus on providing value. Haphazardly instructing writing tools and chatbots to stuff keywords into lengthy, generic blogs yields negligible results. Search engines might even qualify your site as spam.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Many Premium Plagiarism Checkers Flag AI-Generated Pieces
 
 ![Plagiarism Checker Results of AI-Generated Text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/plagiarism-checker-results.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  AI doesn’t gather information from just one site. Before producing an appropriate response, it runs relevant data from billions of resources through its language model. You can’t trace AI pieces back to a single source.
 
@@ -151,19 +151,19 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-diy-anchors-and-stabilizers-for-handheld-video/"><u>[New] 2024 Approved DIY Anchors and Stabilizers for Handheld Video</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-natural-setups-comprehensive-free-screen-templates-for-cinephiles-for-2024/"><u>[New] Natural Setups Comprehensive Free Screen Templates for Cinephiles for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-snapshot-excellence-the-finest-software-on-market/"><u>[New] Snapshot Excellence The Finest Software on Market</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unravel-the-power-of-wmp-in-audio-transition-from-cds/"><u>[Updated] In 2024, Unravel the Power of WMP in Audio Transition From Cds</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-mobile-streamers-guide-post-photos-and-videos-not-twits/"><u>[Updated] Mobile Streamers' Guide Post Photos & Videos, Not Twits</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-8-chatgpt-income-opportunities/"><u>A Deep Dive Into 8 ChatGPT Income Opportunities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-ais-creative-writing-advantagesdisadvantages/"><u>A Deep Dive Into AI’s Creative Writing Advantages/Disadvantages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-deeper-dive-into-claude-pro-and-its-competition-with-chatgptplus/"><u>A Deeper Dive Into Claude Pro and Its Competition with ChatGPT+</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-guide-to-the-best-ai-tools-for-file-conversation/"><u>A Guide to the Best AI Tools for File Conversation</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-complete-investigation-into-razers-kiyo-webcam/"><u>In 2024, Complete Investigation Into Razer's Kiyo Webcam</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a60s-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Itel A60s Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-hp-printer-no-response/"><u>Troubleshooting HP Printer No Response</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721434687559-tweet-no-more-emojis-linuss-secrets-revealed-trojan-dangers-decoded-and-gpt-issues-exposed/"><u>Tweet No More Emojis, Linus’s Secrets Revealed, Trojan Dangers Decoded, & GPT Issues Exposed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-issues-with-saints-row-game-launch-failures/"><u>Ultimate Guide: Resolving Issues with Saints Row Game Launch Failures</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-master-9-movie-extractor-hub-for-2024/"><u>[New] Master 9 Movie Extractor Hub for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastery-in-managing-online-discussions-on-youtube/"><u>[Updated] Mastery in Managing Online Discussions on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-professionals-drone-guide-top-5-recommendations-inside/"><u>2024 Approved Professionals’ Drone Guide - Top 5 Recommendations Inside</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adapting-web-presence-the-future-of-ai-search-engines/"><u>Adapting Web Presence: The Future of AI Search Engines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-linguistic-giants-the-bert-and-gpt-dichotomy/"><u>Decoding Linguistic Giants: The BERT and GPT Dichotomy</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/download-media-player-classic-mpc-free-and-compatible-with-windows-11-x64-direct-link/"><u>Download Media Player Classic (MPC) - Free & Compatible with Windows 11 X64: Direct Link</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-convert-gopro-4k-video-down-to-full-hd-on-pc-or-mac/"><u>How to Convert GoPro 4K Video Down to Full HD on PC or Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt-3-for-top-tier-exercenticism/"><u>Leveraging GPT-3 for Top-Tier Exercenticism</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/locating-specific-settings-within-your-systems-control-panel-a-guide-by-yl-computing/"><u>Locating Specific Settings Within Your System's Control Panel: A Guide by YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-business-efficiency-top-uses-for-chatgpt/"><u>Maximizing Business Efficiency: Top Uses for ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-overestimated-guardian-of-the-digital-age/"><u>The Overestimated Guardian of the Digital Age</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-perils-of-oversharing-with-bots/"><u>The Perils of Oversharing with Bots</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/understanding-icloud-a-comprehensive-guide-on-its-functions-and-usage/"><u>Understanding iCloud: A Comprehensive Guide on Its Functions and Usage</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-se-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone SE Without iTunes in 5 Ways</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is Generative AI Becoming a New Tool for Disinformation?
-date: 2024-09-02T20:42:00.961Z
-updated: 2024-09-03T20:42:00.961Z
+date: 2025-01-09T23:38:09.896Z
+updated: 2025-01-12T17:33:43.374Z
 tags:
   - chatgpt
   - open-ai
@@ -37,13 +37,14 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example, [ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/). But it can also generate social media posts or news articles that may deceive people.
@@ -55,13 +56,11 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -74,9 +73,9 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -86,8 +85,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  It's crucial, then, to be able to [identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is [the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/).
@@ -96,9 +96,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by [The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -110,6 +107,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
@@ -118,14 +119,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,4 +132,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-cut-to-the-chase-8-simple-youtube-thumbnail-builders-for-2024/"><u>[New] Cut-to-the-Chase 8 Simple YouTube Thumbnail Builders for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-15-film-enhancing-luts-for-gopro-cameras/"><u>[Updated] In 2024, Top 15 Film-Enhancing LUTs for GoPro Cameras</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-virtual-realms-evolutions-tale/"><u>2024 Approved Virtual Realms Evolution's Tale</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehensive-walkthrough-for-activating-siris-text-to-speech-feature-on-ios-and-macos-platforms/"><u>A Comprehensive Walkthrough for Activating Siri's Text-to-Speech Feature on iOS & macOS Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-and-marital-bliss-a-heartfelt-inquiry-from-a-tech-sales-perspective-insights-on-matrimonial-devotion/"><u>Apple Vision Pro and Marital Bliss: A Heartfelt Inquiry From a Tech Sales Perspective | Insights on Matrimonial Devotion</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/connecting-with-advanced-artificial-intelligence-a-users-guide-to-using-quoras-poe-functionality-with-chatbots-and-llms/"><u>Connecting With Advanced Artificial Intelligence: A User's Guide to Using Quora's Poe Functionality with Chatbots and LLMs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craft-a-winning-resume-the-chatgpt-way/"><u>Craft a Winning Resume: The ChatGPT Way</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-14-ultra-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi 14 Ultra If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-8-plus-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From iPhone 8 Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-apple-pay-a-complete-guide-to-using-it-offline-and-online-insights-from-zdnet/"><u>Mastering Apple Pay: A Complete Guide to Using It Offline & Online - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/navigating-self-representation-on-facebook-live-calls/"><u>Navigating Self-Representation on Facebook Live Calls</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-document-process-with-10-chatgpt-apps/"><u>Revolutionize Your Document Process with 10 ChatGPT Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-main-advantage-that-keeps-me-loyal-to-my-apple-watch-series-7-over-upgrading-to-series-10-techzdnet-insights/"><u>The Main Advantage That Keeps Me Loyal to My Apple Watch Series 7 Over Upgrading to Series 10 | TechZDNet Insights.</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal: MacBook Air with M1 Chip at an All-Time Low of $649 – Exclusive Offer From ZDNet!"
-date: 2025-01-04T09:03:50.623Z
-updated: 2025-01-06T09:29:48.821Z
+date: 2025-01-08T01:50:55.954Z
+updated: 2025-01-13T00:51:58.679Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,19 +81,18 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-easy-routines-for-capturing-youtube-streams-for-2024/"><u>[New] Easy Routines for Capturing YouTube Streams for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-learn-to-switch-up-your-instagram-vocal-branding-for-2024/"><u>[New] Learn to Switch Up Your Instagram Vocal Branding for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/echno-gamers-income-revolution-for-2024/"><u>[New] Techno Gamers' Income Revolution for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-unveiling-facetunes-new-features-review-and-walkthrough/"><u>2024 Approved Unveiling Facetune's New Features Review and Walkthrough</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-gaps-to-dream-careers-via-ai-assistance/"><u>Bridging Gaps to Dream Careers via AI Assistance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/corrective-actions-for-chatgpts-third-party-service-misalignment/"><u>Corrective Actions for ChatGPT's Third-Party Service Misalignment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fact-or-fantasy-debunking-9-key-ai-chatbot-beliefs/"><u>Fact or Fantasy? Debunking 9 Key AI Chatbot Beliefs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-resolving-bluetooth-is-currently-unavailable-error/"><u>Guide to Resolving 'Bluetooth Is Currently Unavailable' Error</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oneplus-nord-n30-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your OnePlus Nord N30 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-transforming-photos-adding-motion-blur-to-peoples-portraits-with-picsart/"><u>In 2024, Transforming Photos Adding Motion Blur to People's Portraits with Picsart</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-chatgpts-potential-in-academia/"><u>Maximizing ChatGPT's Potential in Academia</u></a></li>
-<li><a href="https://win-guides.techidaily.com/pemecahan-masalah-langkah-langkah-untuk-melangkahkan-pengikutnya-word-tidak-terlihat-dalam-hasil-google/"><u>Pemecahan Masalah: Langkah-Langkah Untuk Melangkahkan Pengikutnya Word Tidak Terlihat Dalam Hasil Google</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-tech-advancements-the-six-sweepstakes-of-gpts-conductor/"><u>Pioneering Tech Advancements - The Six Sweepstakes of GPT's Conductor</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-magic-vs-2-by-fonelab-android-recover-music/"><u>The way to get back lost music from Magic Vs 2</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-size-your-videos-youtubes-best-practices-unveiled/"><u>[Updated] How to Size Your Videos YouTube's Best Practices Unveiled</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-guide-to-reestablish-working-airdrop-linkage/"><u>[Updated] Step-by-Step Guide to Reestablish Working Airdrop Linkage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-new-era-for-domestic-automation-ai-and-chatgpts-alliance/"><u>A New Era for Domestic Automation: AI and ChatGPT's Alliance</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-unresponsive-windows-11-search-engine/"><u>Fixing Unresponsive Windows 11 Search Engine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/groundbreaking-automated-ocr-system-enables-quick-access-to-over-a-million-historical-health-documents/"><u>Groundbreaking Automated OCR System Enables Quick Access to Over a Million Historical Health Documents</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-cookiebot-for-advanced-online-marketing-success/"><u>Harnessing the Power of Cookiebot for Advanced Online Marketing Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-ai-is-set-to-revolutionize-iot-integration-according-to-abbyy-experts/"><u>How AI Is Set to Revolutionize IoT Integration, According to ABBYY Experts</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-the-abbyy-flexicapture-12-and-winactor-connectivity-abbyy-official-blog/"><u>Introducing the ABBYY FlexiCapture 12 and WinActor Connectivity - ABBYY Official Blog</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-artificial-intelligence-in-ocr-for-advanced-app-features-learn-from-abbyys-masterclass-webinar/"><u>Leverage Artificial Intelligence in OCR for Advanced App Features – Learn From ABBYY's Masterclass Webinar</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-the-free-path-of-fcp-for-2024/"><u>Navigating the Free Path of FCP for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-rise-of-cloud-services-and-potential-hurdles-on-the-horizon-expert-analysis-by-zdnet/"><u>The Rise of Cloud Services and Potential Hurdles on the Horizon - Expert Analysis by ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Value Proposition of Claude 3
-date: 2024-12-31T05:58:56.215Z
-updated: 2025-01-05T16:47:44.812Z
+date: 2025-01-11T00:16:46.421Z
+updated: 2025-01-12T18:28:01.791Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Claude 3?](https://malaysia-healthcare-travel-council.pxf.io/752oeg)
@@ -27,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d5
 * [Claude 3 vs. ChatGPT](https://parisrhonecom.sjv.io/zqobqr)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -56,13 +60,13 @@ thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d5
 
  All three issues have now been completely or at least partly addressed with the release of Claude 3\.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Can You Do With Claude 3?
 
 ![Claude AI chatbot interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-image-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Just like most cutting-edge generative AI models out there, Claude 3 can generate top-notch responses for various queries across different fields. Whether you need a quick algebra problem solved, a brand-new song written, an in-depth article drafted, code written for software, or a massive data set analyzed, Claude 3 fits the bill.
 
@@ -72,13 +76,13 @@ thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d5
 
  So, Claude 3 lets you do most of the things you can do with Gemini and GPT-4 (minus image generation) without having to pay the $20 subscription fee for ChatGPT premium.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Claude 3 vs. ChatGPT
 
 ![ChatGPT vs Claude AI logos](https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae116eaf3e790989364bc8da0ce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A quick way to test the performance of an AI model is to check how well it stacks up against the best in the market: GPT-4\. Of course, I put both models to the test; how well does Anthropic's Claude 3 stack up against the colossal GPT-4?
 
@@ -93,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d5
  And here is Claude 3's result when asked to do the same.
 
 ![Claude 3 makes todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-3-makes-todo-list-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Both apps were functional to an extent, but it is clear Claude 3 did a better job on this one.
 
@@ -110,15 +118,7 @@ thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d5
 
 ![testing Claude 3 on commonsense reasoning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/testing-claude-3-on-commonsense-reasoning.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Claude's response wasn't exactly a definitive answer, but it was able to identify the key information; you don't bury survivors. It's important to note that the last time we asked Claude 2 the same question, it wasn't able to see through the common sense trap.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Claude vs. ChatGPT: Creative Writing
 
@@ -137,7 +137,7 @@ thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d5
  It might be subjective, but Claude does seem to be the better option here. When both tools were tasked with drafting three articles on different topics, Claude provided the better option in all three instances. It produced a more human-like result and avoided patterns commonly associated with AI-generated texts, like exagerations, the use of complex words, and sporadic use of linking words.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Claude vs. ChatGPT: Image Recognition Abilities
@@ -169,17 +169,19 @@ thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-breaking-down-t-series-income-mechanism-on-youtube/"><u>[New] In 2024, Breaking Down T-Series Income Mechanism on YouTube</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-a-compreranble-collection-of-game-logging-apps-transcending-fbx-limitations-for-2024/"><u>[Updated] A Compreranble Collection of Game Logging Apps Transcending FBX Limitations for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-sentiments-for-financial-frauds/"><u>Artificial Sentiments for Financial Frauds</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-edge-gpt-technology-your-companion-in-language-mastery/"><u>Cutting-Edge GPT Technology: Your Companion in Language Mastery</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-4s-dawn-of-universal-usage/"><u>GPT-4's Dawn of Universal Usage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-leap-forward-a-comparative-overview/"><u>GPT's Leap Forward: A Comparative Overview</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-reno-10-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Oppo Reno 10 5G Bootloader Easily</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-12-pro-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone 12 Pro Apple ID and Apple Pay</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/re-establishing-missed-dialogues-with-ai/"><u>Re-Establishing Missed Dialogues with AI</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revolutionary-ontrac-dyson-unveils-wireless-earbuds-set-to-outshine-apple-airpods-pro/"><u>Revolutionary OnTrac: Dyson Unveils Wireless Earbuds Set to Outshine Apple AirPods Pro</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/path-to-engaging-content-dive-into-our-free-youtube-ad-gallery/"><u>Your Path to Engaging Content – Dive Into Our Free YouTube Ad Gallery</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-brainless-battles-top-8-zombie-shooter-contenders-for-2024/"><u>[New] Brainless Battles Top 8 Zombie Shooter Contenders for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-seamlessly-blend-music-with-visuals-in-premiere-pro/"><u>[New] In 2024, Seamlessly Blend Music with Visuals in Premiere Pro</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-snapcraft-universe-top-8-photo-connector-for-2024/"><u>[New] SnapCraft Universe Top 8 Photo Connector for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-peak-craft-studio-25-overview-for-2024/"><u>[Updated] Peak Craft Studio 25 Overview for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-effective-methods-to-access-and-utilize-the-gpeditmsc-open-group-policy-editor-on-windows-10/"><u>5 Effective Methods to Access and Utilize the gpedit.msc Open Group Policy Editor on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-windows-11-creators-update-uncovering-new-features-with-insider-preview-build-1503/"><u>A Deep Dive Into Windows 11 Creator’s Update: Uncovering New Features with Insider Preview Build 1503</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/easy-guide-to-documenting-gameplay-sessions/"><u>Easy Guide to Documenting Gameplay Sessions</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/eliminare-i-dati-dei-file-system-samsung-con-soluzione-di-ripristino-e-una-guida-completa-e-gratis-per-windows-10/"><u>Eliminare I Dati Dei File System Samsung Con Soluzione Di Ripristino E: Una Guida Completa E Gratis per Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808324185-fortnite-is-blocked-at-your-school-heres-how-to-unblock-it/"><u>Fortnite Is Blocked at Your School? Here’s How to Unblock It.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808218067-how-to-import-chrome-bookmarks-to-firefox-quickly-and-easily/"><u>How to Import Chrome Bookmarks to Firefox. Quickly & Easily!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-boost-color-accuracy-free-plus-paid-luts-for-canon-users/"><u>In 2024, Boost Color Accuracy FREE + Paid LUTs for Canon Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/pro-level-8-screen-snip-contenders-for-2024/"><u>Pro-Level 8 Screen Snip Contenders for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-to-get-and-run-kodi-on-your-xbox-one-easy-steps-inside/"><u>Ultimate Tutorial to Get and Run Kodi on Your Xbox One - Easy Steps Inside!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-secrets-of-your-computers-memory-how-to-test-genuine-ram-pace-in-latest-windows-environments/"><u>Unveiling the Secrets of Your Computer's Memory: How to Test Genuine RAM Pace in Latest Windows Environments</u></a></li>
 </ul></div>
 

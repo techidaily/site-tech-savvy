@@ -1,7 +1,7 @@
 ---
 title: "Recognizing Pretend Predictions: A Guide to Authentic Vs. Fake AI Analysis"
-date: 2024-09-06T23:30:19.094Z
-updated: 2024-09-07T23:30:19.094Z
+date: 2025-01-07T00:19:39.556Z
+updated: 2025-01-12T18:26:07.399Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Recognizing Pretend Predictions: A Guide to Aut
 thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e642ab24591a56b8d090783a.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Recognizing Pretend Predictions: A Guide to Authentic Vs. Fake AI Analysis
 
  Artificial Intelligence (AI) hallucination sounds perplexing. You're probably thinking, "Isn't hallucination a human phenomenon?" Well, yes, it used to be a solely-human phenomenon until AI began exhibiting human characteristics like facial recognition, self-learning, and speech recognition.
@@ -29,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 
  Unfortunately, AI took on some negative attributes, including hallucinations. So, is AI hallucination similar to the kind of hallucination humans experience?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is AI Hallucination?
 
  Artificial intelligence hallucination occurs when an AI model generates outputs different from what is expected. Note that some AI models are trained to intentionally generate outputs unrelated to any real-world input (data).
@@ -42,17 +30,9 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
  For example, [top AI text-to-art generators](https://www.makeuseof.com/ai-text-to-art-generators/), such as DALL-E 2, can creatively generate novel images we can tag as "hallucinations" since they are not based on real-world data.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### AI Hallucination in Large Language Processing Models
 
  Let's consider what AI hallucination would look like in a large language processing model such as ChatGPT. A ChatGPT hallucination would result in the bot giving you an incorrect fact with some assertion, such that you would naturally take such facts as truth.
@@ -66,11 +46,9 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 ![A ChatGPT prompt further querying where elon musk's factory is at in brazil](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-18-181530.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### AI Hallucination in Computer Vision
 
  Let's consider another field of AI that can experience AI hallucination: [Computer Vision](https://www.makeuseof.com/what-is-computer-vision-and-why-does-it-matter/). The quiz below shows a 4x4 montage with two entities that look so much alike. The images are a mix of BBQ potato chips and leaves.
@@ -79,28 +57,10 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 
 ![A 4x4 montage of BBQ potato chips and leaves](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-17-233958.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here's another montage with a mix of poodle and pork floss bun images. A computer would most likely be unable to differentiate between them, therefore mixing the images.
 
 ![A 4x4 montage of poodle and pork floss bun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-17-234559.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Does AI Hallucination Occur?
 
  AI hallucination can occur due to adversarial examples—input data that trick an AI application into misclassifying them. For example, when training AI applications, developers use data (image, text, or others); if the data is changed or distorted, the application interprets the input differently, giving a wrong output.
@@ -124,11 +84,9 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 ![Screenshot of ChatGPT giving multiple wrong answers to a prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wrong-answer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  So why is ChatGPT unable to give an accurate answer to these prompts?
 
  It could be that the language model is unequipped to handle rather complex prompts such as these or that it cannot interpret the prompt accurately, ignoring the prompt on giving a similar word with a specific alphabet.
@@ -139,9 +97,17 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 
  Here are some ways to spot AI hallucinations while using common AI applications:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Large Language Processing Models
 
 ![Picture showing Bing Chat and ChatGPT on arrowed sigsn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-showing-bing-chat-and-chatgpt-on-arrowed-sigsn.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Although rare, if you notice a grammatical error in the content produced by a large processing model, such as ChatGPT, that should raise an eyebrow and make you suspect a hallucination. Similarly, when text-generated content doesn't sound logical, correlate with the context given, or match the input data, you should suspect a hallucination.
 
@@ -152,11 +118,9 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As a branch of artificial intelligence, machine learning, and computer science, computer vision empowers computers to recognize and process images like human eyes. Using [convolutional neural networks](https://www.makeuseof.com/convolutional-neural-network-explained/), they rely on the incredible amount of visual data used in their training.
 
  A deviation from the patterns of the visual data used in training will result in hallucinations. For example, if a computer was not trained with images of a tennis ball, it could identify it as a green orange. Or if a computer recognizes a horse beside a human statue as a horse beside a real human, then an AI hallucination has occurred.
@@ -173,12 +137,6 @@ Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedm
 
  If you own one of such cars, you would want to know if your AI car is hallucinating. One sign will be if your vehicle seems to be deviating from its normal behavior patterns while driving. For example, if the vehicle brakes or swerves suddenly without any obvious reason, your AI vehicle might be hallucinating.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI Systems Can Hallucinate Too
 
  Humans and AI models experience hallucinations differently. When it comes to AI, hallucinations refer to erroneous outputs that are miles apart from reality or do not make sense within the context of the given prompt. For example, an AI chatbot may give a grammatically or logically incorrect response or misidentify an object due to noise or other structural factors.
@@ -195,8 +153,6 @@ Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedm
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +160,24 @@ Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedm
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-live-stream-pioneers-top-10-sites-ranked/"><u>[New] 2024 Approved Live Stream Pioneers Top 10 Sites Ranked</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-become-a-zoom-screenshare-pro-in-minutes-for-2024/"><u>[New] Become a Zoom Screenshare Pro in Minutes for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-perfectly-crafted-windows-simulators-for-ps3-games/"><u>[New] In 2024, Perfectly Crafted Windows Simulators for PS3 Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-how-to-on-using-voice-input-in-google-docs/"><u>2024 Approved The Ultimate How-To on Using Voice Input in Google Docs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-top-10-webcams-elevating-audio-quality-in-podcasts/"><u>2024 Approved Top 10 Webcams Elevating Audio Quality in Podcasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-bots-explained-popularity-in-the-tech-world/"><u>AI Bots Explained: Popularity in the Tech World</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exciting-gpt-enhancements-essential-new-features-announced/"><u>Exciting GPT Enhancements: Essential New Features Announced</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harmonized-high-res-overlays-for-devices/"><u>Harmonized High-Res Overlays for Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-y55s-5g-2023-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo Y55s 5G (2023) Lock Screen Password?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-16-gains-enhanced-image-recognition-features-similar-to-google-lens-boosting-mobile-photography-experience-zdnet/"><u>IPhone 16 Gains Enhanced Image Recognition Features Similar to Google Lens, Boosting Mobile Photography Experience - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/minstrels-versus-chatgpt-and-real-alpacas-top-llms-battle/"><u>Minstrels Versus ChatGPT & Real Alpacas: Top LLMs Battle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-paperclips-with-ai-driven-maximization-techniques/"><u>Reimagining Paperclips with AI-Driven Maximization Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stop-the-storage-how-to-disable-chatgpts-memory-tracker/"><u>Stop the Storage: How to Disable ChatGPT’s Memory Tracker</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-for-working-around-gpt-cap/"><u>Strategies for Working Around GPT Cap</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/omplete-playbook-for-broadcasting-spherical-content-on-youtube/"><u>The Complete Playbook for Broadcasting Spherical Content on Youtube</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-15-plus-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 15 Plus? 5 Tips You Must Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-llama-2-effectively-in-various-fields/"><u>Utilizing Llama 2 Effectively in Various Fields</u></a></li>
+</ul></div>
 

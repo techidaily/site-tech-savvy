@@ -1,7 +1,7 @@
 ---
 title: Unlocking Potential with Quora's POE Access
-date: 2024-09-06T23:30:19.965Z
-updated: 2024-09-07T23:30:19.965Z
+date: 2025-01-06T20:34:02.332Z
+updated: 2025-01-12T23:06:11.108Z
 tags:
   - chatgpt
   - open-ai
@@ -15,12 +15,6 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
 ## Unlocking Potential with Quora's POE Access
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Poe allows users to access various AI chatbots and language models all in one place, making it convenient and efficient.
@@ -36,11 +30,9 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
  That's exactly what Poe does and exactly why you should start using it today.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is Poe?
 
 ![poe homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-ain-page.jpg)
@@ -49,12 +41,6 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
  Currently, you can use models like GPT 3.5-Turbo, GPT-4, Claude-Instant, Claude 2, Google PaLM, Llama, etc. Besides these, Poe users have created hundreds of chatbots (using GPT, Claude, and Llama) that you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use Quora's Poe
 
  Available on mobile, web, and macOS, you can create your account on [Poe](https://poe.com/) to start chatting with different bots right away.
@@ -65,15 +51,13 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
 ![poe assistant screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-assistant-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Most bots on Poe are free to use, but access to chatbots based on certain language models is limited for non-subscribers. For instance, free users can send a maximum of five messages to Claude 2-powered bots, 30 to Claude-instant ones, and 100 to StableDiffusion-based chatbots. Unfortunately, access to GPT-4 or ChatGPT-16K is unavailable without a subscription. For all other models and bots, the daily message limit is 100\.
 
  A Poe subscription costs $19.99 per month and increases the daily message limit. Though it doesn't share the exact limit on its subscription page, Poe promises at least 600 GPT-4 and 1,000 Claude 2 messages monthly at normal speeds. Beyond this, the availability will vary depending on user capacity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Chatbots Are Available on Poe?
 
@@ -83,18 +67,6 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
 ![poe explore bots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-explore-bots.jpg)
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here are a few examples of interesting chatbots you can find on Poe.
 
 * **MS Office Presentation**: Though you can [create a presentation using ChatGPT](https://www.makeuseof.com/use-chatgpt-to-create-presentation/), Poe makes generating the text for your slides much easier.
@@ -125,17 +97,9 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
  Best of all, Poe has a monetization program that allows US-based creators to earn a commission when their AI bots make users subscribe to Poe. Poe also plans to introduce a per-message payment system. So, the more messages users send to your chatbot, the more you earn.
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Poe Grants Access to Multiple AI Chatbots in One Place
 
  With new language models and chatbots introduced constantly, having a single platform like Poe to access them all truly is a blessing. Not only does Poe save you the hassle of switching between AI chatbot apps, but it also provides a clean, easy-to-use interface.
@@ -158,12 +122,6 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
  Currently, you can use models like GPT 3.5-Turbo, GPT-4, Claude-Instant, Claude 2, Google PaLM, Llama, etc. Besides these, Poe users have created hundreds of chatbots (using GPT, Claude, and Llama) that you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use Quora's Poe
 
  Available on mobile, web, and macOS, you can create your account on [Poe](https://poe.com/) to start chatting with different bots right away.
@@ -178,12 +136,6 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
  A Poe subscription costs $19.99 per month and increases the daily message limit. Though it doesn't share the exact limit on its subscription page, Poe promises at least 600 GPT-4 and 1,000 Claude 2 messages monthly at normal speeds. Beyond this, the availability will vary depending on user capacity.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which Chatbots Are Available on Poe?
 
  First, you can use language models like GPT 3.5, GPT-4, Claude 2, etc. on Poe. Then, there are a few official chatbots, like Web Search and Assistant, created by Poe. Moreover, you can use [Stable Diffusion XL to generate AI images](https://www.makeuseof.com/how-to-use-stable-diffusion-mac/) within Poe.
@@ -192,12 +144,6 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
 ![poe explore bots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-explore-bots.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here are a few examples of interesting chatbots you can find on Poe.
 
 * **MS Office Presentation**: Though you can [create a presentation using ChatGPT](https://www.makeuseof.com/use-chatgpt-to-create-presentation/), Poe makes generating the text for your slides much easier.
@@ -206,12 +152,6 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
  As said, this is the tip of Poe's AI chatbot iceberg. There are an almost unfathomable number of options to choose from.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Create AI Chatbots Using Poe
 
  Poe makes it quite easy for you to [create your custom AI chatbot](https://www.makeuseof.com/build-custom-chatgpt-with-your-own-data/). For this, it offers two options: prompt bots and server bots.
@@ -224,18 +164,11 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 2. Here, set a picture and unique handle for your chatbot.  
 ![poe create bot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-create-bot.jpg)
 3. Select the Base bot. This Base bot is the LLM that your bot will be powered by. Currently, you can select different versions of GPT, Claude, Llama, and Stable Diffusion.
+
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Now comes the main step: setting the prompt. Here, you have to instruct your bot on how to respond to questions. Think of it as [custom instructions in ChatGPT](https://www.makeuseof.com/what-is-chatgpt-custom-instructions-feature/).
 5. Next, set a greeting message to be sent at the start of every chat.
 6. Click **Advanced** to turn on/off prompt suggestions, enable markdown support, and set the temperature. The higher the temperature you set, the more creative and varied responses your chatbot will provide.
@@ -263,15 +196,13 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
 ![poe homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-ain-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Poe, an acronym for "Platform for Open Exploration," allows you to access various AI chatbots and language models, all from a single platform. As Quora CEO Adam D'Angelo noted on the [official Quora blog](https://quorablog.quora.com/Poe-1), Poe focuses on providing an easy-to-use interface for people to access language models rather than training or fine-tuning LLMs.
 
  Currently, you can use models like GPT 3.5-Turbo, GPT-4, Claude-Instant, Claude 2, Google PaLM, Llama, etc. Besides these, Poe users have created hundreds of chatbots (using GPT, Claude, and Llama) that you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use Quora's Poe
 
@@ -283,12 +214,6 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
 ![poe assistant screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-assistant-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Most bots on Poe are free to use, but access to chatbots based on certain language models is limited for non-subscribers. For instance, free users can send a maximum of five messages to Claude 2-powered bots, 30 to Claude-instant ones, and 100 to StableDiffusion-based chatbots. Unfortunately, access to GPT-4 or ChatGPT-16K is unavailable without a subscription. For all other models and bots, the daily message limit is 100\.
 
  A Poe subscription costs $19.99 per month and increases the daily message limit. Though it doesn't share the exact limit on its subscription page, Poe promises at least 600 GPT-4 and 1,000 Claude 2 messages monthly at normal speeds. Beyond this, the availability will vary depending on user capacity.
@@ -301,12 +226,6 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
 ![poe explore bots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-explore-bots.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here are a few examples of interesting chatbots you can find on Poe.
 
 * **MS Office Presentation**: Though you can [create a presentation using ChatGPT](https://www.makeuseof.com/use-chatgpt-to-create-presentation/), Poe makes generating the text for your slides much easier.
@@ -337,11 +256,9 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
  Best of all, Poe has a monetization program that allows US-based creators to earn a commission when their AI bots make users subscribe to Poe. Poe also plans to introduce a per-message payment system. So, the more messages users send to your chatbot, the more you earn.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Poe Grants Access to Multiple AI Chatbots in One Place
 
  With new language models and chatbots introduced constantly, having a single platform like Poe to access them all truly is a blessing. Not only does Poe save you the hassle of switching between AI chatbot apps, but it also provides a clean, easy-to-use interface.
@@ -360,15 +277,13 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
 ![poe homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-ain-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Poe, an acronym for "Platform for Open Exploration," allows you to access various AI chatbots and language models, all from a single platform. As Quora CEO Adam D'Angelo noted on the [official Quora blog](https://quorablog.quora.com/Poe-1), Poe focuses on providing an easy-to-use interface for people to access language models rather than training or fine-tuning LLMs.
 
  Currently, you can use models like GPT 3.5-Turbo, GPT-4, Claude-Instant, Claude 2, Google PaLM, Llama, etc. Besides these, Poe users have created hundreds of chatbots (using GPT, Claude, and Llama) that you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use Quora's Poe
 
@@ -380,21 +295,13 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
 ![poe assistant screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-assistant-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Most bots on Poe are free to use, but access to chatbots based on certain language models is limited for non-subscribers. For instance, free users can send a maximum of five messages to Claude 2-powered bots, 30 to Claude-instant ones, and 100 to StableDiffusion-based chatbots. Unfortunately, access to GPT-4 or ChatGPT-16K is unavailable without a subscription. For all other models and bots, the daily message limit is 100\.
 
  A Poe subscription costs $19.99 per month and increases the daily message limit. Though it doesn't share the exact limit on its subscription page, Poe promises at least 600 GPT-4 and 1,000 Claude 2 messages monthly at normal speeds. Beyond this, the availability will vary depending on user capacity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Chatbots Are Available on Poe?
 
@@ -424,12 +331,11 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 2. Here, set a picture and unique handle for your chatbot.  
 ![poe create bot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-create-bot.jpg)
 3. Select the Base bot. This Base bot is the LLM that your bot will be powered by. Currently, you can select different versions of GPT, Claude, Llama, and Stable Diffusion.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Now comes the main step: setting the prompt. Here, you have to instruct your bot on how to respond to questions. Think of it as [custom instructions in ChatGPT](https://www.makeuseof.com/what-is-chatgpt-custom-instructions-feature/).
 5. Next, set a greeting message to be sent at the start of every chat.
 6. Click **Advanced** to turn on/off prompt suggestions, enable markdown support, and set the temperature. The higher the temperature you set, the more creative and varied responses your chatbot will provide.
@@ -439,20 +345,21 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
  Best of all, Poe has a monetization program that allows US-based creators to earn a commission when their AI bots make users subscribe to Poe. Poe also plans to introduce a per-message payment system. So, the more messages users send to your chatbot, the more you earn.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Poe Grants Access to Multiple AI Chatbots in One Place
 
  With new language models and chatbots introduced constantly, having a single platform like Poe to access them all truly is a blessing. Not only does Poe save you the hassle of switching between AI chatbot apps, but it also provides a clean, easy-to-use interface.
 
  Best of all, you can use Poe to access hundreds of unique, user-created chatbots, build your own AI bot, and earn a few bucks from them.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -461,4 +368,24 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-brightening-filmmaking-ranking-the-17-best-lights/"><u>[New] 2024 Approved Brightening Filmmaking Ranking the 17 Best Lights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-guide-to-perfect-close-up-cinematic-shots/"><u>[New] Step-by-Step Guide to Perfect Close-Up Cinematic Shots</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-ultimate-guide-to-filming-for-virality-on-youtube-for-2024/"><u>[New] The Ultimate Guide to Filming for Virality on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fb-video-downloader-seamless-mp4-conversion/"><u>[Updated] In 2024, FB Video Downloader Seamless MP4 Conversion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/global-ai-dialogue-what-experts-say/"><u>Global AI Dialogue: What Experts Say</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-move-apple-music-playlists-tofrom-youtube-music-for-a-unified-listening-experience-zdnet-guidance/"><u>How to Move Apple Music Playlists To/From YouTube Music for a Unified Listening Experience | ZDNET Guidance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-compreenas-guide-to-leveraging-ps-background-erasure-for-professional-results/"><u>In 2024, A Compreenas Guide to Leveraging PS Background Erasure for Professional Results</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-openais-dominance-over-gpt-fading/"><u>Is OpenAI's Dominance Over GPT Fading?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-gpt-interactions-for-physical-training/"><u>Optimize GPT Interactions for Physical Training</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pixel-perfection-comparing-googles-earbud-innovation-to-apples-airpods-an-exclusive-zdnet-analysis/"><u>Pixel Perfection: Comparing Google's Earbud Innovation to Apple's AirPods - An Exclusive ZDNet Analysis</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/preserving-video-clarity-seamless-methods-for-changing-hevc-format-to-mp4-without-deterioration/"><u>Preserving Video Clarity: Seamless Methods for Changing HEVC Format to MP4 without Deterioration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rediscovering-lost-ai-conversations/"><u>Rediscovering Lost AI Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scrutinizing-the-authenticity-of-chatgpts-statements/"><u>Scrutinizing the Authenticity of ChatGPT's Statements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solution-ptfe-or-rubber-with-specific-resistance-to-acids-such-as-epdm-ethylene-propylene-diene-monomer-would-be-suitable-liners/"><u>Solution: PTFE or Rubber with Specific Resistance to Acids, Such as EPDM (Ethylene Propylene Diene Monomer), Would Be Suitable Liners.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-true-value-proposition-of-advanced-gpt/"><u>The True Value Proposition of Advanced GPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-3-cutting-edge-iphone-16-innovations-that-will-make-you-eager-to-switch-insights/"><u>Top 3 Cutting-Edge iPhone 16 Innovations That Will Make You Eager to Switch! - Insights</u></a></li>
+</ul></div>
 

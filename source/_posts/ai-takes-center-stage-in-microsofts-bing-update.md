@@ -1,7 +1,7 @@
 ---
 title: AI Takes Center Stage in Microsoft's Bing Update
-date: 2025-01-03T06:33:11.121Z
-updated: 2025-01-06T03:34:56.755Z
+date: 2025-01-10T17:51:54.692Z
+updated: 2025-01-12T22:05:11.384Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s OpenAI Got to Do With the New AI-Powered Bing?
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 
  According to [Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) , Bing will be powered by the latest next-gen natural language AI model specifically trained for web searching. The AI model behind Microsoft Bing relies on improvements made on ChatGPT and GPT-3.5, making it much faster and more reliable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's New in Bing?
 
  Remember when searching was underwhelming and lousy using Bing? Thanks to the new AI web search companion, those days are far behind. Bing will now use AI at its core to deliver enhanced search results that are precisely relevant, allow you to generate content, and, best of all, integrate a brand new chat experience specialized to answering complex queries.
@@ -53,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 ![AI powered chat feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chat-new.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ` Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
@@ -65,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's New in Microsoft Edge?
@@ -77,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 ![compose text with Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-ai-compose-new.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ` Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
@@ -85,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
  Building on the content-generation capabilities of ChatGPT,**Compose** within Microsoft Edge will let you generate content that customizes to the required tone, format, and length. You can compose emails to your coworkers, write about your new job in a post on LinkedIn, and even convert financial information into tables; the possibilities are limitless.
 
  You can use the**Chat** feature to answer complex queries, get detailed financial information on a company, figure out the best way to grill a steak, decide the best framework for your web application, and more.**Chat** relies on your prompts to comprehensively provide you with the best possible answers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Microsoft Bing Reinvents Web Searching
 
@@ -105,22 +105,18 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-mining-meaningful-conversations-on-youtube/"><u>[New] In 2024, Mining Meaningful Conversations on YouTube</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/egative-space-creating-youtube-reverse-videos/"><u>[New] Negative Space Creating YouTube Reverse Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-innovative-approaches-to-refine-gpt-interaction-quality/"><u>7 Innovative Approaches to Refine GPT Interaction Quality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-strategies-for-smoother-real-time-dialogue-with-chatgpt/"><u>7 Strategies for Smoother Real-Time Dialogue with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-close-look-at-ai-dialogues-nine-major-issues-in-gpt/"><u>A Close Look at AI Dialogues: Nine Major Issues in GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-leaner-approach-to-user-personas-via-chatgpt-innovation/"><u>A Leaner Approach to User Personas via ChatGPT Innovation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-world-without-boundaries-with-gpt-4/"><u>A World Without Boundaries with GPT-4</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-xiaomi-13-ultra-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Xiaomi 13 Ultra Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721383520275-guard-your-data-from-malware-disguised-as-ai-helpers/"><u>Guard Your Data From Malware Disguised as AI Helpers!</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-a-compreomed-approach-for-making-tiktok-songs-your-ringtone/"><u>In 2024, A Compreomed Approach for Making TikTok Songs Your Ringtone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-samsung-galaxy-s24-ultra-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Samsung Galaxy S24 Ultra Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-pixel-prowess-unleashed-pro-techniques-for-filters-mastery/"><u>In 2024, Pixel Prowess Unleashed Pro Techniques for Filters Mastery</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-xiaomi-redmi-note-12-pro-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Xiaomi Redmi Note 12 Pro 5G Location | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721398147316-revolutionizing-ai-communication-explore-openais-tailored-store/"><u>Revolutionizing AI Communication: Explore OpenAI’s Tailored Store</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721428001769-talk-directly-with-chatgpt/"><u>Talk Directly with ChatGPT</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-13-mini-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 13 mini You Should Try Out</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199733873-the-ultimate-guide-to-cancel-free-driver-deactivation-during-active-tasks-problem-solved/"><u>The Ultimate Guide to Cancel-Free Driver Deactivation During Active Tasks - Problem Solved</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-expertly-merge-vimeo-footage-with-ppts-using-modern-tools/"><u>[Updated] 2024 Approved Expertly Merge Vimeo Footage with PPTs Using Modern Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-insta-marketing-brilliance-top-10-innovative-approaches-for-video-ads/"><u>[Updated] Insta-Marketing Brilliance Top 10 Innovative Approaches for Video Ads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prime-selection-highest-quality-stands/"><u>[Updated] Prime Selection Highest Quality Stands</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fixing-windows-11-installation-failed-issues-with-ease/"><u>Fixing 'Windows 11 Installation Failed' Issues with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fresh-start-for-your-computer-doing-a-hard-reset-of-windows-7-without-any-physical-media/"><u>Fresh Start for Your Computer: Doing a Hard Reset of Windows 7 without Any Physical Media</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-novice-to-pro-how-to-proficiently-record-videos-with-your-computer/"><u>From Novice to Pro: How To Proficiently Record Videos with Your Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/getting-past-a-glitch-ultimate-guide-for-thawing-out-stuck-windows-updates/"><u>Getting Past a Glitch: Ultimate Guide for Thawing Out Stuck Windows Updates</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-capture-and-save-the-essentials-of-pc-display-recordings/"><u>In 2024, Capture & Save The Essentials of PC Display Recordings</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-cinemas-best-shoot-techniques-the-ultimate-guide-for-24/"><u>In 2024, Cinema's Best Shoot Techniques The Ultimate Guide for '24</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/l-media-supremacy-top-10-youtube-influencers-for-2024/"><u>Social Media Supremacy Top 10 YouTube Influencers for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stable-display-ended-laptop-screen-flickering-resolved/"><u>Stable Display: Ended Laptop Screen Flickering [Resolved]</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncovering-the-signs-of-a-block-on-imessage-techniques-for-discovering-if-youve-been-cut-off-by-contact/"><u>Uncovering the Signs of a Block on iMessage: Techniques for Discovering If You've Been Cut Off by Contact</u></a></li>
 </ul></div>
 

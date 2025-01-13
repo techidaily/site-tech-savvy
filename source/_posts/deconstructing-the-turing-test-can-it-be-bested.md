@@ -1,7 +1,7 @@
 ---
 title: "Deconstructing the Turing Test: Can It Be Bested?"
-date: 2025-01-01T10:46:28.552Z
-updated: 2025-01-06T06:09:03.410Z
+date: 2025-01-05T16:22:16.919Z
+updated: 2025-01-12T16:59:23.780Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/0fd141422ea325bb82ac6e625cf733b7dc3435639
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the Turing Test?
 
 ![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
@@ -54,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/0fd141422ea325bb82ac6e625cf733b7dc3435639
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Drawbacks of the Turing Test
@@ -67,18 +63,18 @@ thumbnail: https://thmb.techidaily.com/0fd141422ea325bb82ac6e625cf733b7dc3435639
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the last ten years, there have been two main claims that the Turing Test has been passed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Eugene Goostman
@@ -90,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/0fd141422ea325bb82ac6e625cf733b7dc3435639
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Google's LaMBDA
@@ -102,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/0fd141422ea325bb82ac6e625cf733b7dc3435639
  Lemoine gave particular focus to an instance where he asked: "What does the word 'soul' mean to you?" Google's LaMDA answered, "To me, the soul is a concept of the animating force behind consciousness and life itself."
 
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Advancement of Computer Intelligence
 
@@ -144,20 +144,22 @@ thumbnail: https://thmb.techidaily.com/0fd141422ea325bb82ac6e625cf733b7dc3435639
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-ultimate-checklist-for-top-tier-instagram-reels/"><u>[Updated] In 2024, The Ultimate Checklist for Top-Tier Instagram Reels</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-peaceful-playtimes-best-idle-gaming-choices/"><u>[Updated] Peaceful Playtimes Best Idle Gaming Choices</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-learn-to-stream-lol-with-these-simple-steps-3-ways/"><u>2024 Approved Learn to Stream LOL with These Simple Steps (3 Ways)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-well-being-8-cutting-edge-ai-fitness-tools/"><u>Boost Well-Being: 8 Cutting-Edge AI Fitness Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgptplus-revolutionary-tech-for-fluent-multilingualism/"><u>ChatGPT+: Revolutionary Tech for Fluent Multilingualism</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y78plus-t1-edition-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y78+ (T1) Edition Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-11-powerful-gpt-strategies-for-authenticity-in-fiction/"><u>Discovering 11 Powerful GPT Strategies for Authenticity in Fiction</u></a></li>
-<li><a href="https://some-tips.techidaily.com/easy-tips-for-disabling-your-iphones-app-store-charges-on-ios-15-zdnet-insights/"><u>Easy Tips for Disabling Your iPhone's App Store Charges on iOS 15 | ZDNET Insights</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-oneplus-nord-ce-3-lite-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of OnePlus Nord CE 3 Lite 5G on Mac?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openais-approach-to-advanced-arithmetic/"><u>OpenAI's Approach to Advanced Arithmetic</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlined-ai-for-optimal-results-with-bing-android-edition/"><u>Streamlined AI for Optimal Results with Bing, Android Edition</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transferir-conteudo-dvd-para-pen-drive-tecnicas-faceis-em-sistemas-operacionais-windows-e-macos-x/"><u>Transferir Conteúdo DVD Para Pen Drive: Técnicas Fáceis Em Sistemas Operacionais Windows E MacOS X</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-five-mechanisms-ais-boost-to-malicious-online-activities/"><u>Unveiling the Five Mechanisms: AI's Boost to Malicious Online Activities</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029379782-youtube/"><u>YouTubeビデオを非表示中にも自動再生設定方法</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/avi-3gp-movavi/"><u>웹에서 무료 AVI 파일을 바인드하기 위해 자이오티를 구성하기 위한 3GP로의 전환 - MOVAVI</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-tag-tactics-amplifying-your-gaming-content-online/"><u>[New] 2024 Approved Tag Tactics Amplifying Your Gaming Content Online</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-virtual-havens-of-adventure-but-not-like-gta/"><u>[Updated] 2024 Approved Virtual Havens of Adventure (But Not Like GTA)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-websites-for-downloading-skype-ringtone/"><u>[Updated] Best Websites For Downloading Skype Ringtone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-movavi-screencapture-pro-detailed-review-analysis-for-2024/"><u>[Updated] Movavi ScreenCapture Pro Detailed Review Analysis for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-kickstart-your-earnings-with-periscope-strategies/"><u>2024 Approved Kickstart Your Earnings with Periscope Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1724312964380-ai-ocrabbyy/"><u>AI-OCRを活用した第一生命保険のオフィスプロセス最適化:ABBYY製品が切り開く新時代 - 業界ニュースと展望</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/business-evolution-unleashing-power-of-chatgpt-and-whisper-apis/"><u>Business Evolution: Unleashing Power of ChatGPT and Whisper APIs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-job-hunt-advantages-6-efficient-methods/"><u>ChatGPT Job Hunt Advantages: 6 Efficient Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-foundations-to-frontiers-gpt-versions-explained/"><u>From Foundations to Frontiers: GPT Versions Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harness-the-power-of-ai-key-strategies-with-chatgpt-for-enhanced-efficiency/"><u>Harness the Power of AI: Key Strategies with ChatGPT for Enhanced Efficiency</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-a24-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Samsung Galaxy A24</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-use-chatgpt-for-virtual-team-meetings/"><u>How to Use ChatGPT for Virtual Team Meetings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hugging-face-explained-ideals-and-implementation/"><u>Hugging Face Explained: Ideals and Implementation</u></a></li>
+<li><a href="https://fox-place.techidaily.com/procedes-de-sauvegarde-des-systemes-locaux-pour-windows-11-10-8-et-7-trois-methodes-efficaces/"><u>Procédés De Sauvegarde Des Systèmes Locaux Pour Windows 11, 10, 8 Et 7: Trois Méthodes Efficaces</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securely-remove-old-conversations-with-gpt/"><u>Securely Remove Old Conversations with GPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-methods-to-thaw-out-an-unresponsive-laptop-or-desktop/"><u>Solved! Methods to Thaw Out an Unresponsive Laptop or Desktop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visionary-image-design-the-best-open-tools/"><u>Visionary Image Design: The Best Open Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Unleashed: Groundbreaking GPT Developments That Matter Most"
-date: 2024-09-06T23:30:15.406Z
-updated: 2024-09-07T23:30:15.406Z
+date: 2025-01-10T20:25:59.473Z
+updated: 2025-01-12T21:17:19.697Z
 tags:
   - chatgpt
   - open-ai
@@ -13,26 +13,8 @@ excerpt: "This Article Describes AI Unleashed: Groundbreaking GPT Developments T
 thumbnail: https://thmb.techidaily.com/f8f9fe2851c5ca0456a920a74a79a49663a6a127099a1b3f68447cbedf311d96.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI Unleashed: Groundbreaking GPT Developments That Matter Most
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Image Input and Output Capabilities](https://parisrhonecom.sjv.io/zqobqr)
@@ -41,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/f8f9fe2851c5ca0456a920a74a79a49663a6a1270
 * [Upgraded Code Analysis](https://appsumo.8odi.net/gmezyk)
 * [Temporary Chat](https://copa.sjv.io/6eoowq)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * ChatGPT now converses with image inputs and outputs, providing accurate results and generated images in its responses.
@@ -79,6 +55,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Expanded Knowledge Base and Cross-Chat Memory
 
  ChatGPT's upgraded web browsing capabilities allow it to retrieve up-to-date information from the web with better accuracy. It ensures responses are based on the latest available data and insights, making it particularly valuable for quickly evolving topics like news, technology, and market trends.
@@ -90,21 +70,17 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Multi-Modal Voice and Video Interactions
 
  Everyone [wanted to see more modality in ChatGPT](https://www.makeuseof.com/gpt-5-features-we-want-to-see/) . The new ChatGPT-4o model gives access to multi-modal voice and video interaction, allowing users to engage in continuous voice and video conversations with ChatGPT, like making a video call with a human assistant. ChatGPT-4o's conversation support, video capability, and human-like voice and emotions make this new feature different from other voice assistants.
@@ -124,14 +100,16 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Temporary Chat
 
@@ -149,8 +127,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +134,26 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-gone-sticker-refining-vids-for-a-slick-tiktok-presence/"><u>[New] Gone Sticker Refining Vids for a Slick TikTok Presence</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unveiling-distinctions-a-look-at-youtube-and-dailymention/"><u>[Updated] 2024 Approved Unveiling Distinctions A Look at YouTube and DailyMention</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-hit-list-top-10-songs-in-one-place-for-2024/"><u>[Updated] Hit List Top 10 Songs in One Place for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-building-blocks-of-boosted-bots-elevating-bot-based-promotion/"><u>2024 Approved Building Blocks of Boosted Bots Elevating Bot-Based Promotion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-security-notice-for-iphone-owners-apple-warns-of-advanced-spyware-threats-by-rogue-agents-is-it-time-to-get-concerned/"><u>Critical Security Notice for iPhone Owners: Apple Warns of Advanced Spyware Threats by Rogue Agents – Is It Time to Get Concerned?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/excellence-in-streaming-zooms-6-cam-selection/"><u>Excellence in Streaming - Zoom’s #6 Cam Selection</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/filmoras-quick-start-approach-for-youtube-trailers-for-2024/"><u>Filmora's Quick-Start Approach for YouTube Trailers for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-photo-gymnastics-mastering-the-art-of-pictorial-twists/"><u>In 2024, Photo Gymnastics Mastering the Art of Pictorial Twists</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-6-titans-majestic-mlm-systems-review/"><u>Leading 6 Titans: Majestic MLM Systems Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-auto-gtp-in-everyday-tasks/"><u>Leveraging Auto-GTP in Everyday Tasks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-homes-ai-managed-chatgpts-capabilities/"><u>Smart Homes, AI-Managed: ChatGPT's Capabilities</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-windows-10-video-hiccups-post-upgrade/"><u>Solving Windows 10 Video Hiccups Post-Upgrade</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-webp-to-jpgpng-file-format-conversion/"><u>Streamlining WebP to JPG/PNG File Format Conversion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tapping-into-chatgpt-potential-with-its-api/"><u>Tapping Into ChatGPT Potential with Its API</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-conversations-androidits-voice-activated-gpt/"><u>The Future of Conversations: Android’its Voice Activated GPT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-rated-no-cost-dvd-ripping-tools-for-microsoft-operating-systems/"><u>Top Rated No-Cost DVD Ripping Tools for Microsoft Operating Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-your-potential-discover-and-report-errors-for-a-payday-at-openai/"><u>Unlock Your Potential: Discover and Report Errors for a Payday at OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-release-a-complete-guide-on-when-and-how-to-secure-your-pair-of-latest-airpods-insights/"><u>Upcoming Release: A Complete Guide on When & How to Secure Your Pair of Latest AirPods - Insights</u></a></li>
+</ul></div>
 

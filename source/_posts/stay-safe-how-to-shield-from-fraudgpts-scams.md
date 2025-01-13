@@ -1,7 +1,7 @@
 ---
 title: Stay Safe! How to Shield From FraudGPT's Scams
-date: 2025-01-03T22:35:27.074Z
-updated: 2025-01-05T23:50:45.510Z
+date: 2025-01-06T01:08:18.129Z
+updated: 2025-01-13T01:13:27.870Z
 tags:
   - chatgpt
   - open-ai
@@ -28,12 +28,16 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is FraudGPT?
 
 ![A scammer using a fishing rod to steal data from a person’s laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scammer-using-a-fishing-rod-to-steal-data.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  FraudGPT is an AI tool powered by a large language model that is particularly fine-tuned to help cyber criminals commit cybercrime. The subscription-based AI tool allows threat actors to facilitate their criminal activities like carding, phishing, and malware creation.
@@ -43,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
  To better picture the tool, you can think of FraudGPT as ChatGPT but for fraud. But how exactly does FraudGPT work, and how are cybercriminals using it?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Does FraudGPT Work?
@@ -65,7 +69,7 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
  So, to use the tool, criminals could just prompt the chatbot as they'd do with ChatGPT. They could ask it to, say, write a phishing email for Jane Doe, who works at company ABC, or maybe ask it to write malware using C++ to steal all the PDF files from a Windows 10 computer. Criminals would basically just come up with evil mechanization and let the chatbot do the heavy lifting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Can You Protect Yourself From FraudGPT?
@@ -73,7 +77,7 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 ![worrying about red flags online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/thinking-person-using-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Despite being a new kind of tool, the threat posed by FraudGPT is not fundamentally different. You could say it introduces more automation and efficiency to already established methods of executing cybercrime.
@@ -88,10 +92,6 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 * Shred documents containing personally identifying or financial information when no longer needed.
 
  For more on how to protect yourself, read our guide on [how to protect yourself in the era of AI](https://www.makeuseof.com/how-to-protect-privacy-ai/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Stay Informed to Protect Yourself
 
@@ -118,20 +118,20 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-enhancing-authenticity-and-connection-via-fb-profile-covers-for-2024/"><u>[New] Enhancing Authenticity and Connection via FB Profile Covers for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-a-step-by-step-framework-for-iconic-podcast-visuals/"><u>[New] In 2024, A Step-by-Step Framework for Iconic Podcast Visuals</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-subtlety-at-the-helm-lowering-sound-intensity-in-fl-studio-for-2024/"><u>[New] Subtlety at the Helm Lowering Sound Intensity in FL Studio for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-driving-engagement-on-instagram-a-step-by-step-guide/"><u>[Updated] 2024 Approved Driving Engagement on Instagram A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sony-blu-ray-player-s6700-new-insights/"><u>[Updated] Sony Blu-Ray Player S6700 New Insights</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-subtitled-freely-top-10-tools-for-youtubes-text-extractors/"><u>[Updated] Subtitled Freely Top 10 Tools for YouTube's Text Extractors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/10-innovative-companions-to-replace-gpt-on-your-phone/"><u>10 Innovative Companions to Replace GPT on Your Phone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-chatgpt-scams-to-watch-out-for/"><u>5 ChatGPT Scams to Watch Out For</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-advantages-adopting-chatgpt-in-professional-development/"><u>6 Advantages: Adopting ChatGPT in Professional Development</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-cybernetic-assistants-to-hone-your-prompt-proficiency/"><u>7 Cybernetic Assistants to Hone Your Prompt Proficiency</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-shared-links-in-openais-chatgpt/"><u>A Deep Dive Into Shared Links in OpenAI's ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-the-latency-of-chatgpt-4-and-gpt-35/"><u>A Deep Dive Into the Latency of ChatGPT-4 and GPT-3.5</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721399583846-chatgpt-and-ios-an-unstoppable-combo/"><u>ChatGPT and iOS: An Unstoppable Combo!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-updating-text-display-with-custom-fonts-on-windows-11/"><u>Guide: Updating Text Display with Custom Fonts on Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-8-enhanced-peripherals-for-a-richer-metaverse-experience/"><u>Top 8 Enhanced Peripherals for a Richer Metaverse Experience</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-select-the-right-font-to-stand-out-on-youtube/"><u>[New] 2024 Approved Select the Right Font to Stand Out on YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-discover-free-pioneering-apps-to-supercharge-social-storytelling/"><u>[New] In 2024, Discover FREE Pioneering Apps to Supercharge Social Storytelling</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-strategies-and-costs-promoting-videos-effectively/"><u>[New] Strategies and Costs Promoting Videos Effectively</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-rhythmic-resonance-how-to-choose-music-for-online-fame/"><u>[Updated] 2024 Approved Rhythmic Resonance How to Choose Music for Online Fame</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-making-your-mark-with-effective-facebook-cover-vids-for-2024/"><u>[Updated] Making Your Mark with Effective Facebook Cover Vids for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-five-key-strategies-for-effective-script-narration/"><u>2024 Approved Five Key Strategies for Effective Script Narration</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-x100-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo X100 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-side-gigs-pc-building-tips-and-retro-handhelds/"><u>ChatGPT Side Gigs, PC Building Tips, and Retro Handhelds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-your-smartphone-with-chatgpt-techniques/"><u>Empowering Your Smartphone with ChatGPT Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max Passcode without Computer?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/invest-in-security-not-ai-the-right-way-to-create-windows-11-keys/"><u>Invest in Security, Not AI: The Right Way to Create Windows 11 Keys</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-potential-within-chatgpts-token-boundaries/"><u>Maximizing Potential Within ChatGPT's Token Boundaries</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/these-9-fake-chatgpt-virus-and-malware-apps-can-steal-your-data/"><u>These 9 Fake ChatGPT Virus and Malware Apps Can Steal Your Data</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-11-creative-gpt-inquiries-to-shape-your-storys-characters/"><u>Top 11 Creative GPT Inquiries to Shape Your Story's Characters</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trouble-with-battlefield-2042-and-directx-errors-our-step-by-step-solution-helps/"><u>Trouble with Battlefield 2042 and DirectX Errors? Our Step-by-Step Solution Helps!</u></a></li>
 </ul></div>
 

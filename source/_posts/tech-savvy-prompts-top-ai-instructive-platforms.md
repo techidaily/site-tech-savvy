@@ -1,7 +1,7 @@
 ---
 title: "Tech-Savvy Prompts: Top AI Instructive Platforms"
-date: 2025-01-02T23:47:19.003Z
-updated: 2025-01-06T04:34:15.406Z
+date: 2025-01-08T00:27:42.584Z
+updated: 2025-01-12T19:13:15.701Z
 tags:
   - chatgpt
   - open-ai
@@ -28,16 +28,12 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Prompt Engineering for ChatGPT (Coursera)
 
 ![Dr Jules White teaching Prompt Engineering for ChatGPT on the Coursera online learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-37.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Can you use AI to create a Pokemon-inspired game that helps your kids learn math and eat healthy food? Apparently, yes! And there's more you can do with a dose of creativity and the help of ChatGPT, says course developer Dr. Jules White, an Associate Professor of Computer Science at Vanderbilt University.
@@ -53,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 ![Screenshot of Ronnie Sheer teaching Introduction to Prompt Engineering for Generative AI on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-38.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Enroll in this online course if you want to learn only the bare-bones concepts in AI prompt engineering. You'll know the difference between tokens and words and how to use AI to generate text and images. At the end of the course, you'll learn some advanced practical concepts, like prompt fine-tuning and interacting with AI models using an API.
@@ -61,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
  If you haven't followed the latest in AI consumer tech, the course introduces you to today's most popular AI tools. First, you have GPT-related technologies like ChatGPT and its contender Bard from Google. You'll also learn how to create AI-generated images using DALL-E and Midjourney.
 
  Each topic is concisely explained, providing all you need to begin your AI prompt engineering journey. You'll gain a solid foundation in AI that should lead to more in-depth learning. When you feel like you need more information, you can refer to the other online courses on this list. As Software Developer and Instructor Ronnie Sheer says, AI is a fast-evolving field, so there's always space for continuous learning.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Research and Write Using Generative AI Tools (LinkedIn Learning)
 
@@ -78,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 
 ![Learn Prompting Website showing Basic Applications lessons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-40.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you prefer reading rather than watching videos, access the Learn Prompting website. The curriculum takes you through basic to advanced prompting techniques using text-based lessons. The courses are free for everyone and were developed by researchers, translators, and hobbyists.
 
  Learn Prompting claims that almost every other prompt engineering video uses its material. So don't be surprised if you see the sudden onslaught of AI prompt engineering experts marketing their lessons on your social media feeds.
@@ -90,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 
 ![screenshot of ChatGPT Ultimate Guide 10x Your Productivity & Creativity with ChatGPT on Skillshare learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-41.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This course is best for beginners who want to go through the best use cases of ChatGPT quickly. ChatGPT Ultimate Guide familiarizes you with the ChatGPT interface and the OpenAI playground before explaining the numerous practical uses of the AI tool.
 
  The 59 short videos in this course give you front-row seats to how ChatGPT works. Instructors interact with ChatGPT, typing prompts and commenting on the results. If you haven't tried using ChatGPT, these videos are a great introduction to the app.
@@ -105,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
  If you're job hunting, check out these videos for job seekers. You'll learn [how to use ChatGPT to write your resume](https://www.makeuseof.com/use-chatgpt-to-write-resume/), create a personal bio, search for jobs, and email a potential employer. While the videos only give an overview, they're sure to spark ideas on how the AI tool can be helpful for your job search.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Learn AI Prompt Engineering Today
@@ -133,21 +133,21 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-20-free-cloud-storage-service-recommendations-up-to-1tb-included/"><u>[New] 20 Free Cloud Storage Service Recommendations! [Up to 1TB Included]</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-rapidly-rendering-fortnite-cover-images/"><u>[New] 2024 Approved Rapidly Rendering Fortnite Cover Images</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-viral-video-voyage-unveiling-the-trendiest-tweets-of-2023/"><u>[New] 2024 Approved Viral Video Voyage Unveiling the Trendiest Tweets of 2023</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-dive-deep-accessing-facebooks-story-vault-for-2024/"><u>[New] Dive Deep Accessing Facebook's Story Vault for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-flawlessly-post-srt-files-in-multiple-social-environments/"><u>2024 Approved How to Flawlessly Post SRT Files in Multiple Social Environments</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-how-to-enter-the-marvel-universe-using-apples-vision-pro-technology-get-yours-on-may-30th/"><u>Discover How to Enter the Marvel Universe Using Apple's Vision Pro Technology – Get Yours on May 30Th.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/excels-exclusive-capabilities-vs-chatgpt/"><u>Excel's Exclusive Capabilities Vs. ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-anthropics-ai-creative-suite/"><u>Exploring Anthropic's AI Creative Suite</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-10-open-source-video-player-for-linux-windows-and-mac/"><u>In 2024, 10 Open Source Video Player for Linux, Windows and Mac</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-cross-platform-messaging-sending-and-receiving-imessages-via-windows-according-to-zdnet-experts/"><u>Mastering Cross-Platform Messaging: Sending & Receiving iMessages via Windows, According to ZDNet Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solve-instant-problems-in-live-chatgpt-transmissions/"><u>Solve Instant Problems in Live ChatGPT Transmissions</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-unable-to-connect-issues-with-a-remote-server-a-step-by-step-guide/"><u>Solving 'Unable to Connect' Issues with a Remote Server: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/the-ultimate-guide-to-rebooting-your-pc-with-asus-onekey-recovery-feature/"><u>The Ultimate Guide to Rebooting Your PC with Asus OneKey Recovery Feature</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-solution-for-stopping-youtube-video-previews/"><u>The Ultimate Solution for Stopping YouTube Video Previews</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-educational-savings-score-a-free-150-apple-gift-card-when-purchasing-an-ipad-or-mac-for-classroom-use-zdnet/"><u>Unlock Educational Savings: Score a Free $150 Apple Gift Card When Purchasing an iPad or Mac for Classroom Use | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/web-mastery-through-gpt-3-creating-interactive-experiences/"><u>Web Mastery Through GPT-3: Creating Interactive Experiences</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-crafting-top-notch-gopro-cinematography-step-by-step/"><u>[Updated] In 2024, Crafting Top-Notch GoPro Cinematography Step by Step</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-samsung-picture-editor-features-and-proscons/"><u>[Updated] In-Depth Samsung Picture Editor Features and Pros/Cons</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-your-ultimate-guide-to-top-9-platforms/"><u>[Updated] Your Ultimate Guide to Top 9 Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-securing-quieter-steadier-photo-screenshots/"><u>2024 Approved Securing Quieter, Steadier Photo Screenshots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/achieve-productivity-use-microsoft-copilot-on-your-mac/"><u>Achieve Productivity: Use Microsoft Copilot on Your Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anonymity-at-risk-neural-network-inversion/"><u>Anonymity at Risk: Neural Network Inversion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-impact-on-efficiency-10-ways-to-apply-ai-in-business/"><u>ChatGPT's Impact on Efficiency: 10 Ways to Apply AI in Business</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-customized-secure-fitness-plans-with-chatgpt/"><u>Creating Customized, Secure Fitness Plans with ChatGPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-most-effective-free-registry-scrubbing-applications-of-2024/"><u>Discover the Most Effective Free Registry Scrubbing Applications of 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hugging-face-a-comprehensive-overview-of-its-function-and-usage/"><u>Hugging Face: A Comprehensive Overview of Its Function and Usage</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-meme-mechanic-generating-online-engagement-through-videos/"><u>In 2024, The Meme Mechanic Generating Online Engagement Through Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/polishing-zoom-picture-quality-simple-solutions-for-2024/"><u>Polishing Zoom Picture Quality Simple Solutions for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-for-opening-windows-11s-component-services/"><u>Quick Tips for Opening Windows 11'S Component Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sharpening-chatgpt-skills-without-redundant-tools/"><u>Sharpening ChatGPT Skills without Redundant Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-preventing-chatgpt-mishaps/"><u>The Ultimate Guide to Preventing ChatGPT Mishaps</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-oppo-find-n3-flip-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Oppo Find N3 Flip</u></a></li>
 </ul></div>
 

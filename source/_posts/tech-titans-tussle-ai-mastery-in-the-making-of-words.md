@@ -1,7 +1,7 @@
 ---
 title: "Tech Titans Tussle: AI Mastery in the Making of Words"
-date: 2025-01-02T19:03:17.562Z
-updated: 2025-01-06T07:46:59.927Z
+date: 2025-01-09T23:07:34.085Z
+updated: 2025-01-12T18:10:20.797Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Google Bard: Comparing the Underlying Technology
 
  Both rely on large language models (LLMs) to generate their "human-like" responses.
@@ -53,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 
  Signing up for both tools is simple, although the Google Bard country restriction is inconvenient. However, it may be possible to [circumvent these restrictions using a VPN](https://www.makeuseof.com/tag/7-completely-free-vpn-services-protect-privacy/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Comparing Google Bard and ChatGPT-3.5's Accuracy
 
  Both chatbots are quick to point out that the accuracy of their responses should not be taken at face value. A point proved by asking Google Bard a simple question that it shouldn't have any problems with: "What large language model is Google Bard using?"
@@ -64,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
  The first is the inclusion of dark mode, which was omitted from the first iteration. The second is the inclusion of a **Google it** button and suggested follow on questions.
 
 ![Screenshot of Google Bard Google button and follow on prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-google-bard-google-button-and-follow-on-prompts.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  These are both welcome updates to the tool.
 
@@ -78,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 ![Screenshot of ChatGPT responding to world cup attendance question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-responding-to-world-cup-attendance-question.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, we tried to test on non-topical data. We asked both chatbots to answer this question: "How long would it take to drive to the sun?"
@@ -86,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
  Google Bard first; it answered with some comprehensive details.
 
 ![Screenshot of Google Bard answering how long to drive to the sun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-google-bard-answering-how-long-to-drive-to-the-sun.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We were quite disappointed with the ChatGPT response. This should have been recognized as a hypothetical question, with the result only requiring some basic arithmetic.
 
@@ -95,15 +111,7 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 
 ![Screenshot of ChatGPT response to reworded question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-reworded-question.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This time it did produce some meaningful figures, but it had rounded the figure up to 1.5 million hours, causing a disparity of eight years between the responses. However, this disparity could be due to the distance between the Earth and the Sun.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Testing Google Bard vs. ChatGPT-4
 
@@ -132,16 +140,12 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 ![Screenshot of Google Bard Poetry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-google-bard-poetry.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When compared to the ChatGPT-3.5 answer below, this is flat and uninspiring.
 
 ![Screenshot of ChatGPT Poetry answer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-poetry-answer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Although this is not an extensive test, this example shows what we found to be the case overall—ChatGPT is better at creative tasks than Google Bard.
 
@@ -152,6 +156,10 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
  As previously noted, measuring creativity is a judgment call, but for us, the new poem still comes up short compared to the ChatGPT effort. ChatGPT still appears to have the edge in the creativity stakes. But what about ChatGPT-4? Let's give it a bash at the same poem and see how the premium version compares.
 
 ![Screenshot of GPT-4 composing poetry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-gpt-4-composing-poetry.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once again,
 
@@ -174,10 +182,6 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 * **Integrations**: One of the key benefits of Google Bard is its integration with tools like Gmail and Google Workspace. This means that you can export chats directly into platforms like Gmail and Google Docs.  
 ![Screenshot of Google Bart export options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-google-bart-export-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Summing up, if you are looking for accuracy and simplified integration with other Google services, then Google Bard is the better option. It also outperforms ChatGPT in terms of interface, with the addition of a **Google it** button and source-citing, making it the better all-round package.
 
  The integration Bard offers is crucial here, Gmail has 1.8 billion users, and this functionality will be a major draw for many when choosing between chatbots.
@@ -185,10 +189,6 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
  These tools excel in different areas, for business and practical uses, and there is no doubt that Google Bard is the best option. However, we still found that ChatGPT edged it in creative tasks. And, although clumsier, there are [apps and extensions to export ChatGPT chats](https://www.makeuseof.com/apps-extensions-export-share-chatgpt-history/). This does slightly negate the advantage that Bard has with integrations.
 
  Google Bard is free, and there is a free version of ChatGPT, so testing both tools is easy to do.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tools With Great Features, Yet Still Imperfect
 
@@ -217,18 +217,24 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-compre-written-analysis-hero4-black-operations/"><u>[New] Compre Written Analysis Hero4 Black Operations</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-comparing-the-best-of-both-worlds-obs-vs-bandicam/"><u>[Updated] Comparing the Best of Both Worlds OBS vs Bandicam</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-mastering-windows-10-zoom-integration-essentials-for-2024/"><u>[Updated] Mastering Windows 10 Zoom Integration Essentials for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oppo-find-n3-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Oppo Find N3 to Roku | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-errors-reap-bounties-your-guide-to-openais-initiative/"><u>Discover Errors, Reap Bounties: Your Guide to OpenAI's Initiative</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-the-5-main-arguments-companies-cite-for-banning-ai/"><u>Dissecting the 5 Main Arguments Companies Cite for Banning AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empowering-data-management-gpt-meets-google-apps/"><u>Empowering Data Management: GPT Meets Google Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-scope-of-chatgpts-directives/"><u>Exploring the Scope of ChatGPT's Directives</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-navigating-the-depths-of-stardew-a-compreayer-guide-to-unveiling-ginger-islands-wonders/"><u>In 2024, Navigating the Depths of Stardew A Compreayer Guide to Unveiling Ginger Island’s Wonders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dual-nature-of-ai-boons-and-baneful-risks/"><u>The Dual Nature of AI: Boons & Baneful Risks</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722997730009-trouble-with-rogue-company-on-your-computer-heres-how-to-stop-the-constant-pc-crashes/"><u>Trouble with Rogue Company on Your Computer? Here's How to Stop the Constant PC Crashes!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-ai-potential-in-domestic-task-planning/"><u>Unveiling AI Potential in Domestic Task Planning</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-windows-system-freshly-released-amd-graphics-drivers-for-download/"><u>Update Your Windows System: Freshly Released AMD Graphics Drivers for Download</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-a-step-by-step-guide-to-mp4-and-beyond-vlc-conversions-for-2024/"><u>[New] A Step-by-Step Guide to MP4 and Beyond VLC Conversions for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-majestic-celestial-images-at-your-command/"><u>[New] Majestic Celestial Images at Your Command</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-covert-recording-erasing-identifiable-information/"><u>[Updated] 2024 Approved Covert Recording Erasing Identifiable Information</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-techniques-efficiently-collecting-photo-and-video-banners/"><u>[Updated] Expert Techniques Efficiently Collecting Photo and Video Banners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808344194-cyberpunk-2077-display-problems-solved-achieve-crisp-visual-quality-now/"><u>Cyberpunk 2077 Display Problems Solved - Achieve Crisp Visual Quality Now</u></a></li>
+<li><a href="https://discover-community.techidaily.com/dual-video-display-techniques-mastering-the-art-of-synchronized-viewing/"><u>Dual Video Display Techniques: Mastering the Art of Synchronized Viewing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-ultimate-gamer-smartphones-of-2n-insights-and-rankings-by-zdnet/"><u>Exploring the Ultimate Gamer Smartphones of 2N - Insights & Rankings by ZDNet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-mastering-in-game-audio-capture-in-overwatch/"><u>In 2024, Mastering In-Game Audio Capture in Overwatch</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-review-of-the-aphaca-bt69-wireless-fm-transmitter-the-perfect-compact-radio-solution/"><u>In-Depth Review of the Aphaca BT69 Wireless FM Transmitter - The Perfect Compact Radio Solution</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-game-pass-service-halt-in-win-os/"><u>Overcoming Game Pass Service Halt in Win OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protective-strategies-and-timings-for-effective-bios-upgrades/"><u>Protective Strategies & Timings for Effective BIOS Upgrades</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-tips-accelerate-windows-10-startup-improve-boot-times/"><u>Quick Tips: Accelerate Windows 10 Startup – Improve Boot Times</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-steam-cloud-sync-setbacks/"><u>Reversing Steam Cloud Sync Setbacks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solve-cold-war-gameplay-issues-eliminating-pc-fps-hiccups-and-freezes/"><u>Solve Cold War Gameplay Issues: Eliminating PC FPS Hiccups & Freezes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-fixes-for-non-responsive-zoom-screencasting-2024-edition/"><u>Step-by-Step Fixes for Non-Responsive Zoom Screencasting - 2024 Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-system-resources-how-to-decrease-cpu-usage-in-a-windows-environment/"><u>Streamlining System Resources: How to Decrease CPU Usage in a Windows Environment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-fixing-real-time-delay-in-fortnite-customization/"><u>The Ultimate Guide to Fixing Real-Time Delay in Fortnite Customization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808124632-troubleshoot-and-fix-how-to-restore-your-logitech-k520-keyboards-functionality-swiftly/"><u>Troubleshoot & Fix: How to Restore Your Logitech K520 Keyboard's Functionality Swiftly!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wireless-printing-mastery-setup-and-software-download-guide-for-brother-printers/"><u>Wireless Printing Mastery - Setup & Software Download Guide for Brother Printers</u></a></li>
 </ul></div>
 

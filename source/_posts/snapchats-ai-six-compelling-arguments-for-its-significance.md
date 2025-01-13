@@ -1,7 +1,7 @@
 ---
 title: "Snapchat's AI: Six Compelling Arguments for Its Significance"
-date: 2024-09-06T23:30:37.025Z
-updated: 2024-09-07T23:30:37.025Z
+date: 2025-01-11T00:46:17.823Z
+updated: 2025-01-12T17:54:38.617Z
 tags:
   - chatgpt
   - open-ai
@@ -24,14 +24,16 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
  Despite My AI’s simple interface, it’s a fairly sophisticated tool. You can do so much with it. Here are six reasons Snapchat’s My AI feature is more than just a cool toy.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. My AI Runs on GPT-3.5
 
 ![Snapchat Logo on top of Blurred OpenAI Logos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-and-openai-logo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Snapchat uses the same [large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) (LLM) as ChatGPT. The GPT model is a powerful LLM that composes coherent paragraphs, adopts different writing styles, and uses everyday language. Its output almost seems indistinguishable from human writing.
 
@@ -39,20 +41,12 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 
 ![Snapchat My AI Explaining the Details of an Image of an Object](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-recognizing-image-of-object.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Snapchat My AI Explaining the Elements of an Image of a Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/my-ai-recognizing-image-of-person.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  That said, these chatbots follow different restrictions. My AI generally has fewer rules than ChatGPT—it might perform a broader range of tasks.
@@ -67,12 +61,6 @@ Close
 
 ![Snapchat My AI Roleplaying as Ash Ketchum from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-roleplay-request.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Snapchat My AI Continuing the Roleplay Request to Portray Ash from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-continuing-roleplay-request.jpg)
 
 Close
@@ -88,27 +76,13 @@ Close
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  Try testing the limits of My AI’s accuracy. It pulls updated information from various publications and resources, including those on international events.
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Snapchat’s Location Services Are Wholly Utilized
 
  Snapchat offers helpful location-based services. It can tell you which establishments and landmarks are near your current location.
@@ -117,16 +91,14 @@ Close
 
 ![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Just note that Snapchat also displays your active location if you enable GPS services. But you can turn off this feature to ensure more privacy, Click your avatar on the top-left corner of the screen, then go to > **Settings** \> **Privacy Controls** \> **My Location**. Toggle the Ghost Mode button to hide your location.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. My AI Solves Intermediate Word Problems Correctly
 
  A [side-by-side comparison of ChatGPT, Bard AI, and Bing Chat](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/) shows that AI chatbots struggle with math questions. ChatGPT answers intermediate to advanced math problems better than competitors.
@@ -138,21 +110,13 @@ Close
 ![Asking Snapchat a Riddle About Family Relatives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-riddle-family-relatives.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  Try rephrasing word problems that My AI answers wrong. You’ll generate better output if you compose clear, detailed prompts—avoid vague phrasing.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Snapchat Continuously Updates My AI
 
  Snapchat unexpectedly joined the AI race. Initial users responded poorly to My AI—it faced backlash for its faulty training and restrictions. [The Washington Post](https://www.washingtonpost.com/technology/2023/03/14/snapchat-myai/) even showed the chatbot providing harmful advice.
@@ -171,14 +135,11 @@ Close
 
  Despite My AI’s simple interface, it’s a fairly sophisticated tool. You can do so much with it. Here are six reasons Snapchat’s My AI feature is more than just a cool toy.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -187,4 +148,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-premium-gaming-intro-ideas-for-youtube-free-vs-paid-models/"><u>[New] In 2024, Premium Gaming Intro Ideas for YouTube Free vs Paid Models</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-creating-a-personal-brand-on-facebook/"><u>2024 Approved Creating a Personal Brand on Facebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exciting-gpt-enhancements-essential-new-features-announced/"><u>Exciting GPT Enhancements: Essential New Features Announced</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guide-transferring-your-favorite-videos-from-youtube-to-your-samsung-mobile-device/"><u>Guide: Transferring Your Favorite Videos From YouTube to Your Samsung Mobile Device</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-basics-of-effective-vlogging/"><u>In 2024, Exploring the Basics of Effective Vlogging</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-innovative-setup-essentials-for-game-streaming/"><u>In 2024, Innovative Setup Essentials for Game Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keep-apple-devices-powered-and-cool-at-the-same-time-discover-our-latest-3-in-1-magsafe-dockstation/"><u>Keep Apple Devices Powered and Cool at the Same Time - Discover Our Latest 3-in-1 MagSafe DockStation!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/minstrels-versus-chatgpt-and-real-alpacas-top-llms-battle/"><u>Minstrels Versus ChatGPT & Real Alpacas: Top LLMs Battle</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-best-mkv-cutting-software-for-mac-for-2024/"><u>New Best MKV Cutting Software for Mac for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ize-engagement-and-analytics-harnessing-tubebuddys-insights-for-2024/"><u>Optimize Engagement & Analytics - Harnessing TubeBuddy's Insights for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-countdown-unlock-top-savings-at-best-buy-featured/"><u>Prime Day Countdown: Unlock Top Savings at Best Buy , Featured</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209842971-9781911134091-quareia-the-initiate/"><u>Quareia The Initiate | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-paperclips-with-ai-driven-maximization-techniques/"><u>Reimagining Paperclips with AI-Driven Maximization Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-magsafe-battery-pack-sleek-design-and-rapid-charge/"><u>Revolutionary MagSafe Battery Pack: Sleek Design & Rapid Charge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stop-the-storage-how-to-disable-chatgpts-memory-tracker/"><u>Stop the Storage: How to Disable ChatGPT’s Memory Tracker</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-rise-of-intelligent-entertainment-through-ai-innovation/"><u>The Rise of Intelligent Entertainment Through AI Innovation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-the-ideal-college-laptop-picks-in-depth-analysis-by-tech-experts-zdnet/"><u>Ultimate Guide to the Ideal College Laptop Picks: In-Depth Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-llama-2-effectively-in-various-fields/"><u>Utilizing Llama 2 Effectively in Various Fields</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-multilingual-chatgpt-effectively/"><u>Utilizing Multilingual ChatGPT Effectively</u></a></li>
+</ul></div>
 

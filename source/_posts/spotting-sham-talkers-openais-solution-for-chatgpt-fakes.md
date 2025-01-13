@@ -1,7 +1,7 @@
 ---
 title: "Spotting Sham Talkers: OpenAI's Solution for ChatGPT Fakes"
-date: 2024-09-06T23:30:22.345Z
-updated: 2024-09-07T23:30:22.345Z
+date: 2025-01-05T16:19:34.892Z
+updated: 2025-01-12T17:24:10.833Z
 tags:
   - chatgpt
   - open-ai
@@ -13,18 +13,6 @@ excerpt: "This Article Describes Spotting Sham Talkers: OpenAI's Solution for Ch
 thumbnail: https://thmb.techidaily.com/bcb4dab5fca23c5552c696b1f9621ccec9d5240a378ece9f04f489b258c09834.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Spotting Sham Talkers: OpenAI's Solution for ChatGPT Fakes
 
  OpenAI's automated AI-powered chatbot, ChatGPT, has taken the internet by storm, but not without creating a few issues on the way. With writers, coders, marketers, and seemingly everyone else in between using ChatGPT to generate content, companies worldwide are staring down a tsunami of AI-generated content.
@@ -36,11 +24,9 @@ thumbnail: https://thmb.techidaily.com/bcb4dab5fca23c5552c696b1f9621ccec9d5240a3
  With issues of plagiarism and stolen content constantly swirling around ChatGPT and its output, OpenAI has now released a new GPT-Classifier, a tool designed to detect and disclose whether the text you're reading was the work of ChatGPT or one of its other GPT tools.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## OpenAI Launches GPT-Classifier to Help Check AI-Written Text
 
 [OpenAI's announcement](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/) comes as [scrutiny on AI-writing and AI-generated text](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) steps up and companies intergrate ChatGPT output.
@@ -50,17 +36,9 @@ thumbnail: https://thmb.techidaily.com/bcb4dab5fca23c5552c696b1f9621ccec9d5240a3
  So instead of hoovering up information and recreating its best approximation, the GPT-Classifier attempts to compare similarities between known human text and known AI text to find discrepencies that reveal the source writer.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## GPT-Classifier's Detection Is Currently Limited
 
  While the idea of easily spotting AI-generated text will be music to the ears of editors and educators, OpenAI has cautioned that its "classifier is not fully reliable."
@@ -70,33 +48,21 @@ thumbnail: https://thmb.techidaily.com/bcb4dab5fca23c5552c696b1f9621ccec9d5240a3
 ![gpt classifier tool testing human written text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/gpt-classifier-tool-testing-human-written-text.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  A cursory test of the GPT-Classifier spotted a human-generated example and marked it "very unlikely to be AI-generated," and also correctly indicated that a ChatGPT-generated snippet on USB issues was "possibly AI generated."
 
 ![gpt classifier tool testing ai written text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/gpt-classifier-tool-testing-ai-written-text.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Demand for ChatGPT Detection Is High
 
  Even with the GPT-Classifier's limitations, the demand for reliable ChatGPT detection is likely to see many turn to this tool. OpenAI's commitment to building and releasing a free GPT detection tool is important because as more students, writers, programmers, and others use AI-text generation tools, understanding and detecting this input will become vital.
@@ -109,8 +75,6 @@ thumbnail: https://thmb.techidaily.com/bcb4dab5fca23c5552c696b1f9621ccec9d5240a3
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +82,18 @@ thumbnail: https://thmb.techidaily.com/bcb4dab5fca23c5552c696b1f9621ccec9d5240a3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-digest-your-facebook-memories/"><u>[New] 2024 Approved Digest Your Facebook Memories</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-discovering-the-hidden-gems-in-asmr-creation/"><u>2024 Approved Discovering the Hidden Gems in ASMR Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/amplify-windows-steam-transfers-averting-sudden-halt/"><u>Amplify Windows Steam Transfers: Averting Sudden Halt</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-converter-from-ogg-to-aiff-movavi/"><u>Free Online Converter From OGG to AIFF - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/global-ai-dialogue-what-experts-say/"><u>Global AI Dialogue: What Experts Say</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-move-apple-music-playlists-tofrom-youtube-music-for-a-unified-listening-experience-zdnet-guidance/"><u>How to Move Apple Music Playlists To/From YouTube Music for a Unified Listening Experience | ZDNET Guidance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rediscovering-lost-ai-conversations/"><u>Rediscovering Lost AI Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scrutinizing-the-authenticity-of-chatgpts-statements/"><u>Scrutinizing the Authenticity of ChatGPT's Statements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solution-ptfe-or-rubber-with-specific-resistance-to-acids-such-as-epdm-ethylene-propylene-diene-monomer-would-be-suitable-liners/"><u>Solution: PTFE or Rubber with Specific Resistance to Acids, Such as EPDM (Ethylene Propylene Diene Monomer), Would Be Suitable Liners.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-dolby-atmos-playback-problems-on-your-pc-with-windows-11-or-10/"><u>Troubleshooting Dolby Atmos Playback Problems on Your PC with Windows 11 or 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-verified-badge-successfully-on-x-the-transitioned-social-media-site-from-twitter/"><u>Unlocking Verified Badge Successfully on X - The Transitioned Social Media Site From Twitter</u></a></li>
+</ul></div>
 

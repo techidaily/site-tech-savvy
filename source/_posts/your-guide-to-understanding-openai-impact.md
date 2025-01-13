@@ -1,7 +1,7 @@
 ---
 title: Your Guide to Understanding OpenAI Impact
-date: 2025-01-03T19:05:30.645Z
-updated: 2025-01-06T07:23:14.187Z
+date: 2025-01-05T22:46:20.404Z
+updated: 2025-01-12T21:04:53.659Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Origins of OpenAI
@@ -70,15 +70,15 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 
 ![DALL-E Playground Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dall-e-playground-homepage.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [DALL-E is a generative AI model](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/) capable of generating images from text descriptions. It was created in January 2021 and has since undergone several improvements.
 
  The initial models could only generate images with a resolution of 256x256 megapixels and were heavily criticized and shunned for their inaccurate and blurry images. However, DALL-E 2, released in April 2022 and made public in July 2022, could create images of 1024x1024 megapixels and is more accurate and realistic than its predecessor.
 
  This AI model can generate visual content like paintings and memes for product designs, fliers, commercial and campaign posters, research, and more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Codex
 
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
  OpenAI has begun creating regulatory measures trying to prevent these scenarios. But some of these measures have also prevented the use of the models, even within normal parameters.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Secrecy vs. Openness
@@ -112,20 +112,20 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 
  However, as AI advances, so do its applications and chances of being used for malicious purposes. This has led OpenAI to try to find a balance between hiding and sharing research, despite the former going against their mission.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Ethical Issues
 
  There have been cases where [OpenAI’s models have shown biased content](https://www.makeuseof.com/does-chatgpt-lie/) due to the type of training data they were built with. Addressing this problem is complicated as it will need a lot of fine-tuning and comprehensive data selection. And even at that, it would be almost impossible to eradicate biased results.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Competition
 
  OpenAI has numerous for-profit competitors, such as DeepMind (a subsidiary of Alphabet Inc.) and NVIDIA Corporation, which is also developing AI solutions. For OpenAI to remain at the forefront, there must be continued innovations and collaborations. This has led them to move from their non-profit declaration to a hybrid that welcomes funding.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does the Future Look Like for OpenAI?
@@ -151,17 +151,19 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-popsocket-mounts-for-optimal-video-shooting/"><u>[Updated] 2024 Approved PopSocket Mounts for Optimal Video Shooting</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-breakthrough-ideas-to-amplify-brand-impact-on-reddit/"><u>[Updated] Breakthrough Ideas to Amplify Brand Impact on Reddit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/differentiating-linguistic-analysis-from-machine-algorithms/"><u>Differentiating Linguistic Analysis From Machine Algorithms</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-top-10-must-haves-action-cameras-unleashed/"><u>In 2024, Top 10 Must-Haves Action Cameras Unleashed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/language-logic-loops-le-chat-ai-meets-chatgpt/"><u>Language Logic Loops: Le Chat AI Meets ChatGPT</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/most-popular-sustainable-image-editing-tools-for-photographers/"><u>Most Popular Sustainable Image Editing Tools for Photographers</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-do-you-recently-update-to-mac-os-x-yosemite-do-you-need-to-edit-video-files-on-this-new-system-this-article-tells-you-how/"><u>New In 2024, Do You Recently Update to Mac OS X Yosemite? Do You Need to Edit Video Files on This New System. This Article Tells You How</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reasons-to-dismiss-auto-generated-dialogues/"><u>Reasons to Dismiss Auto-Generated Dialogues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/should-you-upgrade-to-iphone-16-pro-or-stick-with-iphone-14-pro-expert-analysis/"><u>Should You Upgrade to iPhone 16 Pro or Stick with iPhone 14 Pro? Expert Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-bad-chunks-repairing-sector-issues/"><u>Tackling Bad Chunks: Repairing Sector Issues</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-unleash-your-creativity-top-3d-video-making-software/"><u>Updated Unleash Your Creativity Top 3D Video Making Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/utilizing-chatgpt-for-text-corrections/"><u>Utilizing ChatGPT for Text Corrections</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-meme-madness-twitters-funniest-video-threads/"><u>[New] Meme Madness Twitter's Funniest Video Threads</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebook-registration-simplified/"><u>[Updated] Facebook Registration Simplified</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-for-adding-music-to-photo-online/"><u>[Updated] Tips for Adding Music to Photo Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-creative-soundblaster-drivers-for-windows-11-easy-guide/"><u>Download & Upgrade Creative SoundBlaster Drivers for Windows 11: Easy Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-home-efficiency-through-chatgpt-utilization/"><u>Empowering Home Efficiency Through ChatGPT Utilization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-curiosity-to-creation-your-guide-to-openai-innovations/"><u>From Curiosity to Creation: Your Guide to OpenAI Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-powered-strategies-for-ei-development/"><u>GPT-Powered Strategies for EI Development</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-microsoft-wi-fi-display-connection-problems-under-windows-10/"><u>How to Resolve Microsoft Wi-Fi Display Connection Problems Under Windows 10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-motorola-moto-g13-by-drfone-android/"><u>How to Show Wi-Fi Password on Motorola Moto G13</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-upgrade-your-channel-description-with-ease-and-flair/"><u>In 2024, Upgrade Your Channel Description with Ease and Flair</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpt-in-cognitive-therapy-methods/"><u>Integrating ChatGPT in Cognitive Therapy Methods</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/smooth-and-swift-designing-your-best-thumbnails-for-2024/"><u>Smooth & Swift Designing Your Best Thumbnails for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-therapeutic-potential-chatgpts-influence-on-cbt/"><u>Unlocking Therapeutic Potential: ChatGPT's Influence on CBT</u></a></li>
 </ul></div>
 

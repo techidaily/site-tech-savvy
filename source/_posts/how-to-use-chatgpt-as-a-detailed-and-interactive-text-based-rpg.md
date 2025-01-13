@@ -1,7 +1,7 @@
 ---
 title: How to Use ChatGPT as a Detailed and Interactive Text-Based RPG
-date: 2024-09-06T23:30:19.278Z
-updated: 2024-09-07T23:30:19.278Z
+date: 2025-01-09T01:15:29.831Z
+updated: 2025-01-12T22:22:17.433Z
 tags:
   - chatgpt
   - open-ai
@@ -65,12 +65,6 @@ thumbnail: https://thmb.techidaily.com/3c65f68799b4050edde66f042974df77982abdb35
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Implement Fundamental Game Mechanics
 
  Game mechanics comprise the core engine of how your game will run. It is here you will have to add how you want your actions and abilities to affect the world. Here’s how we structured the game mechanics in our prompt:
@@ -86,11 +80,9 @@ thumbnail: https://thmb.techidaily.com/3c65f68799b4050edde66f042974df77982abdb35
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
 >
 > 4\. Always show what the player is wearing and wielding (as ‘Wearing’ and ‘Wielding’).
@@ -141,26 +133,12 @@ thumbnail: https://thmb.techidaily.com/3c65f68799b4050edde66f042974df77982abdb35
 
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Add Combat and Magic Rules
 
  As with any adventure [RPG](https://www.makeuseof.com/what-are-rpgs-role-playing-games/), combat and magic are big parts of the experience. If you don’t add rules to guide this part of your game, you’ll end up with a game you can easily cheese through. It doesn’t help that ChatGPT likes to favor the user in its narratives, and it will generally make things go your way. Here’s what our rules look like:
@@ -187,6 +165,10 @@ thumbnail: https://thmb.techidaily.com/3c65f68799b4050edde66f042974df77982abdb35
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -202,21 +184,13 @@ thumbnail: https://thmb.techidaily.com/3c65f68799b4050edde66f042974df77982abdb35
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that [GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/).
@@ -319,6 +293,10 @@ thumbnail: https://thmb.techidaily.com/3c65f68799b4050edde66f042974df77982abdb35
 
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
@@ -329,14 +307,11 @@ thumbnail: https://thmb.techidaily.com/3c65f68799b4050edde66f042974df77982abdb35
 
  This article will show you how to use ChatGPT’s storytelling prowess to play a text adventure RPG game on the chat. We’ll work you through how to create a prompt to achieve the kind of RPG you want. In the end, we’ll put the finished prompt so you can copy it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -345,4 +320,26 @@ thumbnail: https://thmb.techidaily.com/3c65f68799b4050edde66f042974df77982abdb35
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-achieve-high-rankings-on-youtube-with-top-seo-tips-1-11/"><u>[New] 2024 Approved Achieve High Rankings on YouTube with Top SEO Tips (1-11)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-depth-walkthrough-of-recording-gameplay-on-apple-gaming-systems/"><u>[New] In-Depth Walkthrough of Recording Gameplay on Apple Gaming Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-fantasy-realms-with-language-models/"><u>Building Fantasy Realms with Language Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversation-command-line-bash-powered-interaction-with-gpt/"><u>Conversation Command Line: Bash-Powered Interaction with GPT</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/expert-strategies-for-choosing-effective-podcast-names-plus-inspirations/"><u>Expert Strategies for Choosing Effective Podcast Names, Plus Inspirations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-apple-vision-pro-unveiling-costs-innovative-attributes-and-expert-user-reviews-comprehensive-guide-on-zdnet/"><u>Exploring the Apple Vision Pro: Unveiling Costs, Innovative Attributes & Expert User Reviews - Comprehensive Guide on ZDNet</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-safely-increase-your-youtube-fanbase-to-one-million-for-2024/"><u>How to Safely Increase Your YouTube Fanbase To One Million for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-make-every-instagram-story-a-visual-feast-multiply-your-images/"><u>In 2024, Make Every Instagram Story a Visual Feast Multiply Your Images</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-16-from-oneplus-nord-n30-5g-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 16 from OnePlus Nord N30 5G to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-zdnets-comprehensive-smartphone-assessment-strategies-for-tech-enthusiasts/"><u>Inside ZDNet's Comprehensive Smartphone Assessment Strategies for Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-conversation-with-chatgpt-for-complete-growth/"><u>Mastering Conversation with ChatGPT for Complete Growth</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mobile-mastery-with-these-top-8-ai-enhanced-apps/"><u>Mobile Mastery with These Top 8 AI-Enhanced Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-microsofts-best-business-apps-of-2022-ranking-the-premier-ios-choices-for-enterprises/"><u>Navigating Through Microsoft's Best Business Apps of 2022: Ranking the Premier iOS Choices for Enterprises</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-unbiased-review-of-avs-video-editor-features-pricing-and-more/"><u>New 2024 Approved Unbiased Review of AVS Video Editor Features, Pricing, and More</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-easy-video-flip-a-beginners-guide-to-rotating-footage/"><u>New In 2024, Easy Video Flip A Beginners Guide to Rotating Footage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/power-boost-for-your-next-weeks-iphone-purchase-discover-essential-anker-accessories/"><u>Power-Boost for Your Next Week's iPhone Purchase? Discover Essential Anker Accessories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/save-24-on-airpods-pro-2-the-latest-evolved-earpiece-with-built-in-hearing-aid-compatibility-zdnet/"><u>Save 24% on AirPods Pro 2 - The Latest Evolved Earpiece with Built-In Hearing Aid Compatibility | ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solving-realtek-rtl8811au-wi-fi-dongle-driver-malfunctions-step-by-step/"><u>Solving Realtek RTL8811AU Wi-Fi Dongle Driver Malfunctions – Step by Step</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-12-budget-friendly-high-performing-video-players-pcandroid-devices/"><u>Top 12 Budget-Friendly, High-Performing Video Players PC/Android Devices</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Investigating the Safety of Independent ChatGPT Plugins
-date: 2024-09-06T23:30:21.960Z
-updated: 2024-09-07T23:30:21.960Z
+date: 2025-01-08T21:31:25.698Z
+updated: 2025-01-13T01:05:16.621Z
 tags:
   - chatgpt
   - open-ai
@@ -23,22 +23,14 @@ thumbnail: https://thmb.techidaily.com/c16b5c04365505f6434ed1ea0641c9d2b73bd5daa
 
  So, are these third-party ChatGPT apps and extensions any good? And more importantly, are they safe to use?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fake ChatGPT Extensions
 
 ![ChatGPT Search Chrome Web Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-screenshots-chrome-web-store.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you search for "ChatGPT" on the Chrome Web Store, you will be shown a plethora of ChatGPT extensions that wildly differ from each other. But the underlying premise is the same: to bring ChatGPT's functionalities to a particular website. In an attempt to sound authentic, some of these shady extensions claim to provide oddly specific features.
 
  For example, one may offer to assist you with Gmail replies, while another may summarize web pages. But what most of them are doing is simply using the GPT-3.5 API to conduct that specific task for you. Results will be similar with all different extensions, because again, the base technology is the same.
@@ -47,11 +39,19 @@ thumbnail: https://thmb.techidaily.com/c16b5c04365505f6434ed1ea0641c9d2b73bd5daa
 
 ![Merlin Extension Answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/merlin-extension-answering-query.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, [not all ChatGPT browser extensions are bad](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/). Some of them actually do what they advertise. One such extension is Merlin ChatGPT. Once you have logged in, the extension does exactly what it says. It will summarize your Google searches automatically and bring up a chat window where you can ask the chatbot for more information.
 
 ## Fake ChatGPT Apps
 
 ![Play store ChatGPT search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/play-store-chatgpt-search-result.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A similar story lies within both the App Store and the Play Store. A quick "ChatGPT" search will show many apps that claim to be your favorite AI assistant. However, looking at the reviews section shows that these apps are mostly using paid reviews. Such apps can easily exploit user data by selling it to third-party companies.
 
@@ -64,65 +64,37 @@ thumbnail: https://thmb.techidaily.com/c16b5c04365505f6434ed1ea0641c9d2b73bd5daa
 ![Bing chat iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![bing-chat-android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-android.jpg)
 
 Close
 
  Now that Bing has integrated GPT-4 into its search engine, there isn't any need to go for these apps in the first place. You can instead download the new version of the Bing app to [use Bing AI Chat on your Android](https://www.makeuseof.com/how-to-use-bing-chat-app-ai-android) or iPhone. Since Bing uses GPT-4 and can access information from the web in real-time, it's a better alternative than any of the shady ChatGPT clones.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Privacy Concerns
 
 ![Malicious-file-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/malicious-file-image.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Most shady third-party ChatGPT apps and browser extensions raise a ton of privacy concerns. Since they trace back to the same parent companies, they can log your searches, history, and web traffic to [sell your data for targeted advertising](https://www.makeuseof.com/why-seeing-same-ads/).
 
  These third-party apps, as mentioned above, can also lead to phishing websites to fool you into providing sensitive personal information. Then, they can also flood your browser with annoying pop-ups and malicious websites. Most of this malicious content will have lots of fake buttons, and clicking one can download malware on your system.
 
  Some of these suspicious third-party apps also ask for random permissions on your phone that have nothing to do with their functionality. These permissions can be anything from call logs to phone media.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Legit ChatGPT Alternatives
 
  OpenAI's servers tend to get busy pretty quickly, and you'll often find that ChatGPT is unusable because of it. If you're looking for an alternative to rely on as your AI assistant, then there are quite a few legit chatbots that you can use.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Bing Chat
 
 ![Bing chat response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-response.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you cannot access OpenAI's ChatGPT, then the best alternative is [Bing Chat](https://www.bing.com/new). It is available on the desktop through the Microsoft Edge browser and on mobile via the Bing search app. Bing Chat is highly conversational and can provide sources from the web for all of its responses.
 
  You can also switch between the conversation style to tune the responses according to your preference. Another benefit is that you get access to GPT-4 for free. This multimodal language model is more accurate and has better problem-solving skills than GPT-3.5\.
@@ -131,25 +103,17 @@ Close
 
 ![Perplexity AI response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-response-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Trained on OpenAI's GPT-3 language model, [Perplexity AI](http://www.perplexity.ai/) is a great research tool that scans the web to bring you results. It doesn't require any sign-up or login, and the response timing is very good. The main [difference between Perplexity AI and ChatGPT](https://www.makeuseof.com/chatgpt-plus-vs-perplexity-which-is-best) is that Perplexity can cite sources for its responses, making it more accurate.
 
  But while Perplexity works well as a search-engine-cum-chatbot, its conversational abilities could be better. It works best as a research tool rather than an AI assistant. Still, the fact that you can download and use it without signing up is incredible, compared to other third-party apps that require your personal info one way or the other.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Nova AI
 
 ![Nova AI response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/nova-ai-response.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Available as a web, mobile, and watchOS app, [Nova AI](http://novaapp.ai/) is a worthy ChatGPT alternative that you can use to have a friendly conversation, ask questions, and conduct research. However, you will have to sign up and log in before use.
 
@@ -171,8 +135,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +142,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-best-free-tiktok-to-mp3-extractors-top-6-innovative-sites/"><u>[New] Best FREE TikTok to MP3 Extractors Top 6 Innovative Sites</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nderstanding-video-length-and-content-strategy-in-youtube-shorts-for-2024/"><u>[New] Understanding Video Length and Content Strategy in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-boosting-zoom-image-quality-professional-insights/"><u>2024 Approved Boosting Zoom Image Quality Professional Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-pick-for-smartphone-ai-the-top-8-ios-and-android-apps/"><u>Best Pick for Smartphone AI: The Top 8 iOS and Android Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bing-evolves-integrating-microsofts-artificial-intelligence/"><u>Bing Evolves: Integrating Microsoft’s Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-mastery-for-effective-essay-writing/"><u>ChatGPT Mastery for Effective Essay Writing</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-rockalldll-not-found-in-windows/"><u>Correcting 'Rockalldll' Not Found in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embracing-ai-assisted-advice-with-top-7-reasons/"><u>Embracing AI-Assisted Advice with Top 7 Reasons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-virtual-mixology-expertise-of-ai/"><u>Evaluating Virtual Mixology Expertise of AI</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-compatible-intel-drivers-for-windows-11-10-and-7/"><u>Free Download: Compatible Intel Drivers for Windows 11, 10 & 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hurricanes-or-just-bad-weather-understanding-the-difference/"><u>Hurricanes or Just Bad Weather?: Understanding the Difference</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-integrating-zoom-calls-smoothly-on-xbox-console/"><u>In 2024, Integrating Zoom Calls Smoothly on Xbox Console</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/one-os-family-data-retrieval-device/"><u>One OS Family Data Retrieval Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sendingreceiving-imessages-via-windows-discover-the-tricks-at-zdnet/"><u>Sending/Receiving iMessages via Windows? Discover the Tricks at ZDNet!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-latest-fixes-for-smoother-gameplay-stop-minecraft-stuttering-on-your-computer-now/"><u>The Latest Fixes for Smoother Gameplay: Stop Minecraft Stuttering on Your Computer Now!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unlock-filmora-savings-top-7-ways-to-get-coupon-codes/"><u>Updated In 2024, Unlock Filmora Savings Top 7 Ways to Get Coupon Codes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-ios-takes-the-lead-for-your-next-chatgpt-session/"><u>Why iOS Takes the Lead for Your Next ChatGPT Session</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Love Engineered: AI's Role in Dating Frauds"
-date: 2024-09-06T23:30:20.503Z
-updated: 2024-09-07T23:30:20.503Z
+date: 2025-01-11T20:40:58.952Z
+updated: 2025-01-12T17:33:34.731Z
 tags:
   - chatgpt
   - open-ai
@@ -23,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
  And with the proliferation of generative AI tools, romance scams are becoming even easier to execute. They lower the barriers to entry. Here are seven common ways romance scammers exploit AI—plus how you can protect yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Sending AI-Generated Emails en Masse
 
  Spam emails are getting harder to filter. Romance scammers abuse generative AI tools to write misleading, convincing messages and create multiple accounts within hours. They approach hundreds almost instantly.
@@ -43,28 +37,28 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 ![Various Messaging Apps on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/messaging-apps-on-phone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Bots are spreading like wildfire online. [Imperva](https://www.imperva.com/resources/resource-library/reports/2023-imperva-bad-bot-report/) reports that bad bots made up 30 percent of automated web traffic in 2022\. You’ll find one within seconds of swiping through Tinder matches.
 
  One of the reasons for this sudden spike in bots is the proliferation of generative AI tools. They churn out bots in bulk. Just input the right prompt, and your tool will present a complete, efficient code snippet for bot generation.
 
  Know when you’re talking to a bot. Although AI uses a natural, conversational tone, its dialogue still sounds monotonous and awkward. After all, chatbots merely follow patterns. It might produce similar responses to different questions, statements, and requests.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Creating Multiple Identities From Stolen Images
 
 ![Creating a Fake Profile With a Stolen Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fake-profile-on-bumble.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Using Stolen Images to Create a Profile on Bumble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uploading-stolen-images-on-bumble.jpg)
 
 Close
@@ -77,18 +71,6 @@ Close
 
  Unfortunately, AI images are hard to detect. Your best bet would be to do a [reverse image search](https://www.makeuseof.com/tag/reverse-image-search-apps/) and sift through relevant results.
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Building Deceptively Authentic-Looking Profiles
 
  Bots approach victims en masse. So romance scammers who prefer a targeted scheme create just one or two authentic-looking profiles. They’ll use AI to seem convincing. Generative AI tools can compose authentic-looking descriptions that sound natural and genuine; bad grammar will no longer be an issue.
@@ -97,38 +79,18 @@ Close
 
 ![Asking ChatGPT to Write Hobbies for a Dating Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-suggesting-good-hobbies.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And here’s ChatGPT writing an entire biography for your dating profile.
 
 ![Asking ChatGPT to Create a Dating Profile for a Female](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-creating-dating-profile-bio.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Since this process consumes so much time, it also requires a bigger payoff. So, scammers tend to ask for more. Once they earn your trust, they’ll ask for help with various “problems,” like hospital bills, loan payments, or tuition fees. Some will even claim to visit you if you shoulder their ticket.
 
  These cybercriminals are skilled at manipulating victims. The best tactic is to avoid engaging with them right from the get-go. Don’t let them say anything. Otherwise, you might gradually fall for their deception and gaslighting methods.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Exploiting Deepfake Technology for Sexual Extortion
 
  AI advanced deepfake tools at an alarmingly fast rate. New technologies reduce [minor imperfections in deepfake videos](https://www.makeuseof.com/how-do-deepfakes-work-and-who-is-using-them/), like unnatural blinking, uneven skin tones, distorted audio, and inconsistent elements.
@@ -142,11 +104,9 @@ Close
  Don’t cave in if you get targeted. Call 1-800-CALL-FBI, send an FBI tip, or visit your local FBI field office should you find yourself in this situation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Integrating AI Models With Brute-Force Hacking Systems
 
  While open-source language models support some AI advancements, they’re also prone to exploitation. Criminals will take advantage of anything. You can’t expect them to ignore the algorithm behind highly sophisticated language models like [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) and [OpenAssistant](https://huggingface.co/OpenAssistant).
@@ -173,14 +133,11 @@ Close
 
  And with the proliferation of generative AI tools, romance scams are becoming even easier to execute. They lower the barriers to entry. Here are seven common ways romance scammers exploit AI—plus how you can protect yourself.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -189,4 +146,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-bring-your-videos-into-the-future-converting-sdr-to-hdr-with-ease/"><u>[New] 2024 Approved Bring Your Videos Into the Future Converting SDR to HDR with Ease</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-conquer-the-social-scene-top-tools-for-post-and-follower-boost/"><u>[Updated] 2024 Approved Conquer the Social Scene Top Tools for Post and Follower Boost</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-unleashing-screen-content-with-zdsofts-magic/"><u>[Updated] 2024 Approved Unleashing Screen Content with ZDSoft's Magic</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-harness-high-quality-banners-free-for-content-developers-for-2024/"><u>[Updated] Harness High-Quality Banners – Free for Content Developers for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-identifying-leading-drone-motors-for-superior-stability/"><u>[Updated] Identifying Leading Drone Motors for Superior Stability</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-visual-tech-in-8-applications-using-chatgpt/"><u>Cutting-Edge Visual Tech in 8 Applications Using ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-most-affordable-and-eco-friendly-apple-airtag-substitutes-with-recharging-capabilities-insights/"><u>Discover the Most Affordable & Eco-Friendly Apple AirTag Substitutes with Recharging Capabilities Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eu-apple-app-store-antitrust-violations-and-penalty/"><u>EU, Apple, App Store, Antitrust Violations, and Penalty.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/macbook-pro-vs-macbook-air-a-comprehensive-guide-to-selecting-your-ideal-apple-laptop-based-on-usage-tech-advisor/"><u>MacBook Pro Vs. MacBook Air: A Comprehensive Guide to Selecting Your Ideal Apple Laptop Based on Usage | Tech Advisor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-etiquette-with-virtual-helpers-and-chatbots-like-siri-and-alexa/"><u>Navigating Etiquette With Virtual Helpers & Chatbots Like Siri and Alexa</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/revolutionizing-the-music-creation-process-through-magix-mentor-x/"><u>Revolutionizing the Music Creation Process Through Magix Mentor X</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-crashes-when-re-linking-in-granblue-fantasy-for-windows/"><u>Solving the Crashes When Re-Linking in Granblue Fantasy for Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolving-perils-of-next-gen-generative-ai/"><u>The Evolving Perils of Next-Gen Generative AI</u></a></li>
+</ul></div>
 

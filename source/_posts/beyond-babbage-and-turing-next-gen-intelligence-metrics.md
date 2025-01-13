@@ -1,7 +1,7 @@
 ---
 title: "Beyond Babbage and Turing: Next-Gen Intelligence Metrics"
-date: 2024-12-30T10:12:07.772Z
-updated: 2025-01-05T16:13:00.153Z
+date: 2025-01-06T20:23:54.030Z
+updated: 2025-01-12T21:44:13.541Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is the Turing Test Outdated?
@@ -54,6 +54,10 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the [New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
 
  At the moment, [GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/), but so far, there is currently no AI model that can comprehend videos like a human. [Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
@@ -66,20 +70,20 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
  Beyond that, if an AI and a human are shown multiple images side by side and asked to identify realistic images, the human would have the cognitive ability to pass the test. This is because AI models find it difficult to distinguish images that don't look like they were taken in the real world. In fact, that's the reason why you can [identify AI-generated images](https://www.makeuseof.com/how-to-identify-ai-generated-image/) using anomalies that don't make sense.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. The Lovelace 2.0 Test
 
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the [thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014\.
 
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However, [artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Reverse Turing Test
@@ -92,21 +96,17 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes [AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. AI Classification Framework
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  According to the AI classification framework developed by [Chris Saad](https://docsend.com/view/et7755yasfpj3iy6), the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance, [ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/), describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
 
@@ -133,18 +133,21 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/earn-an-apple-gift-card-of-150-when-purchasing-your-next-macipad-for-educational-purposes-learn-the-simple-steps/"><u>Earn an Apple Gift Card of $150 When Purchasing Your Next Mac/iPad for Educational Purposes – Learn the Simple Steps!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-potential-security-risks-in-chatgpt/"><u>Exploring Potential Security Risks in ChatGPT</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p55-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Itel P55 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/immediate-itineraries-the-ultimate-list-of-7-budget-friendly-ai-apps/"><u>Immediate Itineraries: The Ultimate List of 7 Budget-Friendly AI Apps</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-unveiling-the-hidden-mastering-the-mask-of-background-blur/"><u>In 2024, Unveiling the Hidden Mastering the Mask of Background Blur</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/insights-into-gpt-4-versus-gpt-35/"><u>Insights Into GPT-4 Versus GPT-3.5</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premier-backdrop-recommendations/"><u>Premier Backdrop Recommendations</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-z50-ultra-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Z50 Ultra</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/returning-an-apple-vision-pro-made-easy-tips-from-zdnet/"><u>Returning an Apple Vision Pro Made Easy - Tips From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-language-learning-palm-2-for-bard/"><u>Revolutionizing Language Learning: PaLM 2 for Bard</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-10-hilarious-song-mock-ups-laughter-unleashed-for-2024/"><u>Top 10 Hilarious Song Mock-Ups Laughter Unleashed for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-infinix-smart-8-plus-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Infinix Smart 8 Plus IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncharted-upsurges-ephemeral-play-advantages/"><u>Uncharted Upsurges: Ephemeral Play Advantages</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-cutting-edge-tools-for-seamless-vimeo-video-download-for-2024/"><u>[New] Cutting-Edge Tools for Seamless Vimeo Video Download for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-complete-guide-to-macbook-webcam-recording/"><u>[New] In 2024, The Complete Guide to MacBook Webcam Recording</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-layering-and-shifting-photo-letters/"><u>[New] Layering & Shifting Photo Letters</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-uploading-and-embedding-srt-text-in-social-media-videos/"><u>[New] Uploading and Embedding SRT Text in Social Media Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-step-into-the-future-of-streaming-with-top-audio-techniques/"><u>[Updated] 2024 Approved Step Into the Future of Streaming with Top Audio Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-guide-retrieving-lost-reddit-content-deletion/"><u>[Updated] Quick Guide Retrieving Lost Reddit Content (Deletion)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-expands-asian-footprint-with-new-office-launch-in-hong-kong/"><u>ABBYY Expands Asian Footprint with New Office Launch in Hong Kong</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claim-the-future-how-claude-redefines-data-insights-and-solutions/"><u>Claim the Future: How Claude Redefines Data Insights and Solutions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/contrasting-iphone-15-pro-max-and-samsung-s2e-ultra-a-detailed-breakdown-of-their-unique-features/"><u>Contrasting iPhone 15 Pro Max and Samsung S2e Ultra - A Detailed Breakdown of Their Unique Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/internal-laptop-speakers-not-working-heres-how-you-can-make-them-sound-again/"><u>Internal Laptop Speakers Not Working? Here's How You Can Make Them Sound Again!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/microsoft-redefines-search-ai-in-bing/"><u>Microsoft Redefines Search: AI in Bing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Nokia C300? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-site-advanced-analytics-and-personalization-using-the-cookiebot-engine/"><u>Revolutionize Your Site: Advanced Analytics & Personalization Using the Cookiebot Engine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surfez-sur-la-vague-de-changement-limpact-accelerateur-des-crises-sur-les-relations-bancaires/"><u>Surfez Sur La Vague De Changement - L'Impact Accélérateur Des Crises Sur Les Relations Bancaires</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-gpt-models-from-one-to-four/"><u>Unpacking GPT Models From One to Four</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/world-leaders-in-tech-discussing-tomorrows-intelligence-systems/"><u>World Leaders in Tech Discussing Tomorrow's Intelligence Systems</u></a></li>
 </ul></div>
 

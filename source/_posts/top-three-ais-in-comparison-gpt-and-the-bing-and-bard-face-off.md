@@ -1,7 +1,7 @@
 ---
 title: "Top Three AIs in Comparison: GPT and the Bing & Bard Face-Off"
-date: 2025-01-05T08:47:58.534Z
-updated: 2025-01-05T21:23:36.426Z
+date: 2025-01-11T16:56:15.614Z
+updated: 2025-01-12T16:15:35.584Z
 tags:
   - chatgpt
   - open-ai
@@ -43,12 +43,16 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 ![ChatGPT vs Bard vs Bing - Breaking Bad- Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-vs-bard-vs-bing-breaking-bad-bard-ai.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, on a subsequent attempt, Google Bard got the word count right. ​​​​​
 
 ![Google Bard describes Breaking Bard TV show in ten words](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jpg_20230516_175308_0000.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We then put ChatGPT to the test. It got very close at the first attempt but failed.
 
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
  However, on the second and third attempts, ChatGPT got it right. Maybe chatbots have an issue with getting word-count right, but ChatGPT did show some accuracy on that front.
 
 **Winner:** ChatGPT is the most accurate of the three.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT vs. Bing AI vs. Bard: AI Hallucination
 
@@ -73,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
  We used the same prompt on Bing AI, and it tried to avoid hallucinations by being as generic as possible.
 
 ![Bing AI replies to event planning question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-replies-to-event-planning-question.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We then tried ChatGPT using the GPT-4 model with web browsing turned on. ChatGPT pulled the right weather information from a web source and then explained it couldn't find any data on traffic and local events.
 
@@ -87,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 ![Google Bard hallucinates image description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-bard-hallucinates-image-description.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Luckily, when asked ChatGPT to describe the image, it explains that it cannot do so—a simple reply you'd expect any self-respecting AI chatbot to provide, rather than making things up.
@@ -104,25 +108,17 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 
 ![simple arithmetic Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/simple-arithmetic-bing-ai.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Google's Bard surprisingly failed at basic math and provided **1** as the answer.
 
 ![simple arithmetic Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/simple-arithmetic-bard-ai.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Like Bing AI, ChatGPT responded with **\-1** and even explained the answer.
 
 ![simple arithmetic ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/simple-arithmetic-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The next question for our basic math test was a simple rational equation: **Solve 8/a-1 = 20/3a-1.**
 
@@ -131,16 +127,12 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 ![rational equation by Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/rational-equation-by-bing-ai.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Like the previous math question, Google Bard failed by providing **1** as the answer.
 
 ![rational fraction by Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/rational-fraction-by-bard-ai.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ChatGPT was the only chatbot to provide a correct answer: **\-3**. It was also able to format the fractions in the result appropriately.
 
@@ -159,7 +151,7 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 ![Creativity test-1 - Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-1-bing-ai.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We then fed the same prompt to Google Bard. Let's just say there's a lot of room for improvement.
@@ -170,13 +162,13 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 
 ![Creativity test - ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And here's the second part:
 
 ![Creativity test-2 - ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-2-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Bard AI's response appears to be the poorest of the three. ChatGPT outperforms Bing AI, but the creativity levels of both chatbots are impressive.
 
@@ -190,9 +182,17 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 
 ![Bing AI self-description-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-self-description-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We used the same prompt with ChatGPT, and ChatGPT had an interesting description to provide. However, ChatGPT's response seems to be more suitable for an artist.
 
 ![ChatGPT self-description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-self-description.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Of the two creativity tests we tried, ChatGPT outperformed Bing AI and Bard.
 
@@ -243,20 +243,18 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-total-data-consumption-days-long-movie/"><u>[New] Total Data Consumption Day's Long Movie</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-basics-the-top-10-personalized-modifications-for-chatgpt/"><u>Beyond Basics: The Top 10 Personalized Modifications for ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bring-back-lost-chatgpt-histories-with-these-simple-steps/"><u>Bring Back Lost ChatGPT Histories with These Simple Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/creativity-catalyst-chatai-and-visual-thinking/"><u>Creativity Catalyst: ChatAI & Visual Thinking</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-the-latest-d-link-driver-updates-for-windows-complete-guide/"><u>Download and Install the Latest D-Link Driver Updates for Windows - Complete Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficiently-managing-excel-data-with-chatgpt-tips/"><u>Efficiently Managing Excel Data with ChatGPT Tips</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-the-edit-a-comprehensive-look-at-title-and-description-for-igtv/"><u>In 2024, Mastering the Edit A Comprehensive Look at Title & Description for IGTV</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-vivo-s18es-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo S18es Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-ai-oversight-ceos-push-for-regulation-insights/"><u>Navigating AI Oversight: CEO's Push for Regulation Insights</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/perfect-game-video-edits-made-easy-for-newcomers-for-2024/"><u>Perfect Game Video Edits Made Easy for Newcomers for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-not-start-speech-recognition-errors-in-windows-os/"><u>Resolving 'Not Start' Speech Recognition Errors in Windows OS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shielding-originality-with-nightshade-against-ai-generated-images/"><u>Shielding Originality with Nightshade Against AI-Generated Images</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-bsod-error-0xc000021a-on-your-windows-10-or-8-pc-effective-fixes/"><u>Troubleshooting the BSOD (Error 0xC000021A) on Your Windows 10 or 8 PC - Effective Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trustworthy-virtual-health-guidelines-for-gpt-use/"><u>Trustworthy Virtual Health: Guidelines for GPT Use</u></a></li>
-<li><a href="https://games-able.techidaily.com/zenith-in-gaming-indulge-in-idles/"><u>Zenith in Gaming: Indulge in Idles</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-a-step-by-step-guide-turning-viral-soundtracks-into-personal-ringtones-for-2024/"><u>[New] A Step-by-Step Guide Turning Viral Soundtracks Into Personal Ringtones for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-cozy-up-your-videos-best-winter-bgs-revealed/"><u>[Updated] 2024 Approved Cozy Up Your Videos Best Winter Bg's Revealed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-beginners-guide-to-mesmerizing-bokeh-in-instagram-stories-for-2024/"><u>[Updated] The Beginner’s Guide to Mesmerizing Bokeh in Instagram Stories for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/bridging-the-gap-between-spoken-words-and-text-on-slides-powerpoint-guide/"><u>Bridging the Gap Between Spoken Words and Text on Slides PowerPoint Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/codegpt-setup-tutorial-for-vs-code-users/"><u>CodeGPT Setup Tutorial for VS Code Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/giggle-engineering-with-chatgpt-is-ai-the-new-joker/"><u>Giggle Engineering with ChatGPT: Is AI the New Joker?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/global-network-ai-versus-closed-system-deployment/"><u>Global Network AI versus Closed System Deployment</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-7-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 7 Bootloader Easily</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-tactical-timing-for-topic-tracking-via-instagram-story-polls/"><u>In 2024, Tactical Timing for Topic Tracking via Instagram Story Polls</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalized-ai-concepts-via-gpt-implementation/"><u>Personalized AI Concepts via GPT Implementation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/three-digital-dreamers-one-creative-quest/"><u>Three Digital Dreamers, One Creative Quest</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/travel-tutorials-top-10-youtube-sources-for-history-buffs/"><u>Time Travel Tutorials Top 10 YouTube Sources for History Buffs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-techniques-for-callbacks-to-privacy-protected-contact-numbers/"><u>Unveiling Techniques for Callbacks to Privacy-Protected Contact Numbers</u></a></li>
 </ul></div>
 

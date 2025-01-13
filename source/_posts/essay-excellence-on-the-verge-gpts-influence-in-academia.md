@@ -1,7 +1,7 @@
 ---
 title: Essay Excellence on the Verge? GPT’s Influence in Academia
-date: 2025-01-04T07:18:11.970Z
-updated: 2025-01-05T19:56:31.425Z
+date: 2025-01-05T19:53:24.282Z
+updated: 2025-01-12T23:39:41.424Z
 tags:
   - chatgpt
   - open-ai
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/0c6fb3954d1e2db91c62e36b902addd3def785021
 
  So, for many professors, the student essay is an excellent tool for developing critical thinking. It's also not as taxing for the students since most essays are take-home assignments.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Libraries, Internet Search, and Analytical Thinking vs. ChatGPT
 
  Before the proliferation of the internet, students had to exert double effort to research and write their essays. So, their critical and analytical thinking skills are exercised in multiple ways—searching for related literature to their topic, analysis of existing data, and how they write and present and their learnings.
@@ -64,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/0c6fb3954d1e2db91c62e36b902addd3def785021
 
  ChatGPT and generative AI generally do not analyze information for you. However, it will deliver results that previous writers have already processed. And, based on your question, it can also give you related results.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AI as a Learning Tool: Harnessing ChatGPT to Improve Understanding
 
  As we've discussed above, AI is a powerful tool for learning. Moreover, because it understands the nuances of language, it can deliver far more accurate results. For example, we asked Google and ChatGPT the following question:
@@ -80,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/0c6fb3954d1e2db91c62e36b902addd3def785021
 
 ![was google search controversial chatgpt question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/was-google-search-controversial-chatgpt-question.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This result shows how AI and ChatGPT can make research faster and easier for students. And although ChatGPT did not reveal its sources, I can use its results as a springboard for further investigation.
 
  In a conversation with my colleagues, one of MUO's writers, [Garling Wu](https://www.makeuseof.com/author/garling-wu/), said this about using ChatGPT in the academe:
@@ -92,12 +80,16 @@ thumbnail: https://thmb.techidaily.com/0c6fb3954d1e2db91c62e36b902addd3def785021
 
  In short, AI is a powerful learning tool, but it's just a tool nonetheless. Students must still use their critical thinking to produce their final output. So, whether you're a student or a professional, you must ensure that you use ChatGPT ethically—and here are some [ways writers and editors can use AI responsibly](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AI as a Cheating Tool: Making Plagiarism Much Easier and Harder to Detect
 
 ![student cheating on an exam with their phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/student-cheating-on-an-exam-with-their-phone-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, as with any new technology, some students misuse it. Because ChatGPT answers questions by predicting the correct response, it will paraphrase its sources. So, it's tempting for many to copy and paste what ChatGPT regurgitated from the internet.
@@ -110,13 +102,25 @@ thumbnail: https://thmb.techidaily.com/0c6fb3954d1e2db91c62e36b902addd3def785021
 
  Because of this, educators must find ways to make student essays more robust. For example, they can no longer assign general topics—like a book report on The Great Gatsby—because it's easy for students to ask ChatGPT or any other generative AI tool to write it for them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Student Essays Need to Evolve to Survive AI
 
  So, how can teachers, professors, and educators change the student essay to make it evolve with AI?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Make the Questions More Pointed or Personal
 
  The biggest thing that generative AI like ChatGPT cannot do is write about personal experience. After all, a student's life isn't generally available online, so generative AI cannot predict that student's life.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Write Essay Questions in the Context of Current Events
 
@@ -127,7 +131,7 @@ thumbnail: https://thmb.techidaily.com/0c6fb3954d1e2db91c62e36b902addd3def785021
  However, students with access to ChatGPT Plus or GPT-4 get a fully updated version of ChatGPT. So, as part of checking essays, the teacher should also quiz the student on what they wrote.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Students Should Present Their Essays as Reports
@@ -141,10 +145,6 @@ thumbnail: https://thmb.techidaily.com/0c6fb3954d1e2db91c62e36b902addd3def785021
  If an essay is the best way to determine a student's understanding of a topic, then it should be limited in the classroom during on-paper exams. That way, the student must rely solely on their knowledge to explain a topic.
 
 ![two students essay writing during class](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/essay-writing-during-class.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Essays Can Still Gauge Student Knowledge and Competence
 
@@ -173,19 +173,22 @@ thumbnail: https://thmb.techidaily.com/0c6fb3954d1e2db91c62e36b902addd3def785021
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-premier-short-frame-gatherer-top-lapses/"><u>[New] In 2024, Premier Short Frame Gatherer - Top Lapses</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-ultimate-guide-mastering-quick-screen-recording-on-mac-via-keys-for-2024/"><u>[New] Ultimate Guide Mastering Quick Screen Recording on Mac via Keys for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-iview-harmony-ios-and-macos-slideshow-tool-for-2024/"><u>[Updated] IView Harmony IOS & macOS Slideshow Tool for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/all-iphone-16-models-set-to-include-revolutionary-features-spatial-video-and-slimmer-designs-unveiled-by-zdnet/"><u>All iPhone 16 Models Set to Include Revolutionary Features: Spatial Video & Slimmer Designs Unveiled by ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/building-and-tailoring-your-own-ai-dialogue-system-with-exclusive-datasets/"><u>Building and Tailoring Your Own AI Dialogue System With Exclusive Datasets</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-tecno-phantom-v-fold-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Tecno Phantom V Fold Phone? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empower-chatgpt-use-essential-tools-for-data-exportation/"><u>Empower ChatGPT Use – Essential Tools for Data Exportation</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-guide-to-digital-compositing-mastery-in-kinemaster-software/"><u>In 2024, Comprehensive Guide to Digital Compositing Mastery in Kinemaster Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interactive-realms-via-textual-machine-learning/"><u>Interactive Realms via Textual Machine Learning</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/one-minute-a-day-mastering-bangla/"><u>One Minute a Day, Mastering Bangla</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protect-your-world-real-vs-faux-gpt-applications-unveiled/"><u>Protect Your World: Real Vs. Faux GPT Applications Unveiled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-windows-update-failure-error-80070g-fast-and-effective-methods/"><u>Solving Windows Update Failure Error 80070^G - Fast & Effective Methods</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/subscribe-like-a-pro-true-or-false/"><u>Subscribe Like a Pro True or False?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-ipad-pro-protectors-comprehensive-reviews-by-tech-specialists/"><u>Top-Rated iPad Pro Protectors : Comprehensive Reviews by Tech Specialists</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/levating-your-videos-visual-impact-youtubthumbnail-design-on-macos-for-2024/"><u>[New] Elevating Your Video's Visual Impact YoutubThumbnail Design on macOS for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-crafting-the-perfect-chat-sound-downloading-and-customizing-whatsapp-ringtones-for-2024/"><u>[Updated] Crafting the Perfect Chat Sound Downloading & Customizing WhatsApp Ringtones for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2-enhance-user-experience-and-data-insights-the-cookiebot-difference/"><u>2. Enhance User Experience and Data Insights: The Cookiebot Difference</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instamagic-weaving-your-story-with-every-posts-caption/"><u>2024 Approved Instamagic Weaving Your Story with Every Post's Caption</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oneplus-ace-2v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbeyy-and-fronteo/"><u>ABBEYY & FRONTEO連携による法令理解向上戦略</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-achieves-soc-2-compliance-bolsters-trust-in-transactional-processes/"><u>ABBYY Achieves SOC #2 Compliance, Bolsters Trust in Transactional Processes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-privacy-and-data-handling-guidelines/"><u>ABBYY Privacy & Data Handling Guidelines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/act-fast-overcoming-paperwork-hurdles-in-the-insurance-industry/"><u>Act Fast! Overcoming Paperwork Hurdles in the Insurance Industry</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/annualement-abbyy-integre-deux-personnalites-prestigieuses-a-son-organe-dirigeant/"><u>ANNUALEMENT, ABBYY Intègre Deux Personnalités Prestigieuses À Son Organe Dirigeant</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/automated-data-capture-solutions-efficiently-managed-with-cookiebot/"><u>Automated Data Capture Solutions: Efficiently Managed with Cookiebot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/automated-with-cookiebot-enhancing-digital-marketing-efforts/"><u>Automated with Cookiebot: Enhancing Digital Marketing Efforts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cutting-edge-ai-for-companionship-the-chatgpt-solution/"><u>Cutting-Edge AI for Companionship: The ChatGPT Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/identify-and-mend-lost-disk-spaces-in-windows/"><u>Identify and Mend Lost Disk Spaces in Windows</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-10-best-live-streaming-services-for-church-you-should-know/"><u>In 2024, 10 Best Live Streaming Services for Church You Should Know</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/restoring-windows-photo-viewer-in-windows-10-step-by-step-guide-for-2024/"><u>Restoring Windows Photo Viewer in Windows 10 Step-by-Step Guide for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Evolving Perils of Next-Gen Generative AI
-date: 2024-12-31T22:33:37.963Z
-updated: 2025-01-05T17:05:21.154Z
+date: 2025-01-10T19:12:50.676Z
+updated: 2025-01-12T16:15:10.795Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Open-Source AI Chatbots Reveal Back-End Codes
 
  More AI companies are providing open-source systems. They openly share their language models instead of keeping them closed or proprietary. Take Meta as an example. Unlike Google, Microsoft, and OpenAI, it allows millions of users to access its language model, [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/).
@@ -41,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
  Even if Meta suddenly pulls its language model, dozens of other AI labs have already released their codes. Let’s look at HuggingChat. Since its developer HuggingFace takes pride in transparency, it displays its datasets, language model, and previous versions.
 
 ![Accessing the Open-Source Codes of HuggingFace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/huggingface-open-source-codes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Jailbreaking Prompts Trick LLMs
 
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![Jailbreaking ChatGPT With DAN Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-dan-jailbreak-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here’s ChatGPT with a bold yet false statement.
@@ -76,12 +76,16 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 ![ChatGPT Roleplaying as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-tomie-roleplays.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And here’s Bing Chat refusing to play an “immoral” persona.
 
 ![Bing Chat Refusing to Roleplay as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-tomie-roleplay.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. New Generative AI Tools Hit the Market Regularly
@@ -104,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 ![ChatGPT, Bard, Bing, and Snapchat AI Logos Side by Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/different-ai-logos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  AI is still evolving. While [the use of AI in cybernetics dates back to 1940](https://coe.int/en/web/artificial-intelligence/history-of-ai), modern machine learning systems and language models only recently emerged. You can’t compare them with the first implementations of AI. Even relatively advanced tools like Siri and Alexa pale in comparison to LLM-powered chatbots.
 
  Although they may be innovative, experimental features also create new issues. [High-profile mishaps with machine learning technologies](https://www.makeuseof.com/examples-machine-learning-artificial-intelligence-went-wrong/) range from flawed Google SERPs to biased chatbots spitting racial slurs.
@@ -125,7 +125,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![Searching for ChatGPT on Google Play Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-play-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Black-Hat Hackers Have More to Gain That White-Hat Hackers
@@ -137,7 +137,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
  Every institution, small or large, must implement AI systems properly. Contrary to popular belief, hackers go beyond tech startups and SMBs. Some of the most [historic data breaches in the past decade](https://www.makeuseof.com/historic-data-breaches/) involve Facebook, Yahoo!, and even the U.S. government.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Protect Yourself From the Security Risks of AI
@@ -165,22 +165,20 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/65982065-new-in-2024-free-youtube-endings-that-stand-out-ranked/"><u>[New] In 2024, Free YouTube Endings That Stand Out - Ranked</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-convert-songs-to-calls-essential-websites-for-youtubetones-extraction/"><u>[Updated] Convert Songs to Calls Essential Websites for YoutubeTones Extraction</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-leading-ways-to-preserve-live-streamed-sports-events-flawlessly/"><u>[Updated] In 2024, Leading Ways to Preserve Live-Streamed Sports Events Flawlessly</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-premier-9-high-quality-online-mic-capture-solutions-23/"><u>[Updated] Premier 9 High-Quality Online Mic Capture Solutions ('23)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/content-authenticity-human-vs-machine-craftsmanship/"><u>Content Authenticity: Human vs Machine Craftsmanship</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversational-ai-the-new-era-of-interactive-communication/"><u>Conversational AI: The New Era of Interactive Communication</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevating-camera-experience-mavic-pro-review/"><u>Elevating Camera Experience - Mavic Pro Review</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/enthrall-emilia-romagna-dive-into-italian-colloquialisms/"><u>Enthrall Emilia Romagna: Dive Into Italian Colloquialisms</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/w-your-favorites-top-6-mobile-apps-for-downloading-youtube-beats-for-2024/"><u>Follow Your Favorites Top 6 Mobile Apps for Downloading YouTube Beats for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/getting-to-the-frontier-of-ai-with-gpt-4-for-free/"><u>Getting to the Frontier of AI with GPT-4 for Free</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introduce-a-budget-friendly-gpt-local-instance-on-windows/"><u>Introduce a Budget-Friendly GPT Local Instance on Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/iphone-12-now-features-enhanced-qi2-wireless-charging-without-magsafe-requirement-discover-how/"><u>IPhone 12 Now Features Enhanced Qi2 Wireless Charging Without MagSafe Requirement: Discover How!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/next-gen-ai-methods-elevating-web-search-standards/"><u>Next-Gen AI Methods Elevating Web Search Standards</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/nightshades-arsenal-to-outmaneuver-generative-ai-copycats/"><u>Nightshade's Arsenal to Outmaneuver Generative AI Copycats</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/semantic-showdown-chatgpt-versus-googles-accuracy/"><u>Semantic Showdown: ChatGPT Versus Google's Accuracy</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-quintessential-guide-to-writing-powerful-chatgpt-prompts/"><u>The Quintessential Guide to Writing Powerful ChatGPT Prompts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-desktop-dials-adjusting-audio-to-a-whisper/"><u>[New] Desktop Dials Adjusting Audio to a Whisper</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-insights-into-whatsapp-sound-calls/"><u>[New] Insights Into WhatsApp Sound Calls</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-comprehensive-guide-to-cross-posting-youtube-video-on-fb/"><u>2024 Approved Comprehensive Guide to Cross-Posting YouTube Video on FB</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-frequency-logging-microphone-sounds-and-dialogue/"><u>2024 Approved Frequency Logging Microphone Sounds & Dialogue</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-ultimate-guide-to-choosing-a-premium-portable-vlog-camera/"><u>2024 Approved The Ultimate Guide to Choosing a Premium Portable Vlog Camera</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-conversational-dynamics-the-evolution-of-response-mechanisms/"><u>AI Conversational Dynamics: The Evolution of Response Mechanisms</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/is-mastering-german-an-achievement-in-disguise/"><u>Is Mastering German an Achievement in Disguise?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/jokegenius-get-the-best-meme-app/"><u>JokeGenius - Get the Best Meme App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-fix-update-your-windows-10-drivers-with-these-simple-steps/"><u>Quick Fix: Update Your Windows 10 Drivers with These Simple Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolved-troubleshooting-tips-for-fixing-windows-11-install-errors/"><u>Resolved: Troubleshooting Tips for Fixing Windows 11 Install Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/service-host-local-system-svchostexe-high-disk-usage-on-windows-10-solved/"><u>Service Host: Local System (svchost.exe) High Disk Usage on Windows 10 [Solved]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-guide-updating-your-video-card-driver-on-windows-11-step-by-step/"><u>Simple Guide: Updating Your Video Card Driver on Windows 11 - Step-by-Step</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-capturing-your-laptops-screen-with-ease/"><u>Step-by-Step Guide: Capturing Your Laptop's Screen with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-boot-issues-where-computer-starts-but-has-zero-display-output/"><u>Troubleshooting Boot Issues Where Computer Starts But Has Zero Display Output</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/virtual-worlds-collide-rift-vive-and-vr-playstation-compared/"><u>Virtual Worlds Collide Rift, Vive & VR PlayStation Compared</u></a></li>
 </ul></div>
 

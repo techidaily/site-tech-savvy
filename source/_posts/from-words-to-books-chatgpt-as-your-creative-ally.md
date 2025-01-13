@@ -1,7 +1,7 @@
 ---
 title: "From Words to Books: ChatGPT as Your Creative Ally"
-date: 2024-09-06T23:30:16.472Z
-updated: 2024-09-07T23:30:16.472Z
+date: 2025-01-05T23:51:35.287Z
+updated: 2025-01-12T17:53:04.751Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 
  Below is a guide on how to use OpenAI’s ChatGPT to write a poetry book, from brainstorming to publication.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Brainstorm Ideas
 
  The beginning of every poetry book needs one thing: poems. Many times, the poems can be based on one theme or showcase a storyline.
@@ -35,25 +39,17 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 
 ![ChatGPT poetry topics to choose from](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-book-topics.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re curious about what topic your poetry should focus on, ask ChatGPT for a list of themes and pick which ones resonate with you.
 
 ![ChatGPT poetry prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-book-prompt.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You may already know what theme you’re going for. If so, you can ask for prompts about that theme or have ChatGPT ask you questions to help refine your ideas. The questions should be thought-provoking to help you infuse as much emotion into your work as you can. Remember, AI can’t feel, so it’s up to you to make your readers feel your art.
 
 ![ChatGPT new poetric approach prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-book-new-approach.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you really want to test your poetic abilities, ask the AI to suggest a new poetic approach with steps to help guide you. Even if it doesn’t make it to a final draft, it’s still a good exercise to enhance your writing abilities.
 
@@ -65,22 +61,14 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 
 ![ChatGPT Poetic Device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-book-poetic-device.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Using poetic devices can help to make a good poem great. Ask ChatGPT for a poetic device that will fit within the poem structure you’re going for.
 
 ![ChatGPT poetry imagery word options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-book-imagery.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also ask ChatGPT for some good imagery words that align with the subject of your poem. For example, if you’re writing about the moon’s reflection on top of the water, but you’re having a hard time with wording, you can choose from a list offered by the AI.
 
 ## Offer Alternative Word Choices
@@ -97,18 +85,6 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 
 ![ChatGPT answer for how to write a haiku](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-book-form.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If there’s a particular style of poem you’re looking to write, ChatGPT can give you the guidelines to create it. Additionally, you can ask about rhyme schemes for a poem with a certain amount of lines and choose from the options available.
 
  Frankly, any question you have regarding poetry can be asked and ChatGPT will be able to provide an answer with examples.
@@ -120,19 +96,11 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 ![ChatGPT proofreading a poem with grammatical errors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-book-proofreading.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In terms of editing, though, you’ll want to make sure that ChatGPT doesn’t change your poetry too much. You still want the work to be your own. Additionally, there’s a good chance that the emotions you’ve purposely embedded into the poems will be altered.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Suggestions for Poem Arrangement
 
  In a poetry book, the arrangement of the poems is essential for creating a story—whether there’s a narrative or simply an emotional development. You’ll want your readers to follow along in the book and take something away from it.
@@ -144,24 +112,24 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
  In the end, it should be your decision what poem gets placed where.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Guidance With Publication
 
  The publication of a poetry book is a big step for a poet, and there are several questions to ask yourself. Should you consider a full-length poetry book or a chapbook? Are you going to self-publish or attempt to find a publisher?
 
 ![ChatGPT answer for what kind of book to publish for 70 poems](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-book-publication.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Though these questions will tend to be more of a personal choice, ChatGPT can help guide you with facts and research. Make sure you give enough information so the answer can be tailored to what you have created.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Assist With Marketing and Promotion
 
@@ -169,20 +137,8 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 
 ![ChatGPT ideas for how to promote a poetry book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-book-promotion.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There are numerous suggestions that can be offered, so if you don’t like what it has given you, or you want more ideas, simply tell ChatGPT that you would like to see more.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Put Your Poetry Out Into the World With the Help of ChatGPT
 
  ChatGPT is a great resource to help with all stages of writing. It can bring ideas to life and test your skills with new writing techniques. When it comes to writing a poetry book, ChatGPT can assist from the initial prompt to the marketing campaign of your self-published chapbook.
@@ -195,14 +151,11 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 
  Below is a guide on how to use OpenAI’s ChatGPT to write a poetry book, from brainstorming to publication.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -211,4 +164,24 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-visual-vanguard-revived-radeon/"><u>[Updated] 2024 Approved Visual Vanguard Revived Radeon</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-essential-guide-to-integrating-voice-over-in-ppts/"><u>[Updated] In 2024, The Essential Guide to Integrating Voice Over in PPTs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-elite-8-android-multiparty-conferencing-solutions/"><u>2024 Approved Elite 8 Android Multiparty Conferencing Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-loyalists-delight-as-lg-rolls-out-no-cost-audio-improvement-featured-on-zdnet/"><u>Apple Loyalists Delight as LG Rolls Out No-Cost Audio Improvement, Featured on ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-6s-plus-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 6s Plus & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-apple-turnaround-troubled-experiences-for-sonos-enthusiasts-insights/"><u>Can Apple Turnaround Troubled Experiences for Sonos Enthusiasts? Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-next-generation-what-sets-apples-airpods-4-apart-from-its-predecessors/"><u>Discovering the Next Generation: What Sets Apple's AirPods 4 Apart From Its Predecessors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/download-samsung-android-debug-bridge-adb-drivers-free/"><u>Download Samsung Android Debug Bridge (ADB) Drivers - Free</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-strategies-for-clearing-your-gpt-history/"><u>Efficient Strategies for Clearing Your GPT History</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-steps-to-enable-gpt-3s-web-features/"><u>Essential Steps to Enable GPT-3's Web Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-employee-scoop-a-heartfelt-tale-of-why-the-vision-pro-won-over-an-apple-specialist/"><u>Exclusive Employee Scoop: A Heartfelt Tale of Why the Vision Pro Won Over an Apple Specialist</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/from-novice-to-pro-your-journey-with-the-io-screener-for-2024/"><u>From Novice to Pro Your Journey with the IO Screener for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-search-of-greatness-top-15-timeless-stop-motion-films/"><u>In Search of Greatness Top 15 Timeless Stop Motion Films</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-complexities-of-eco-friendly-innovation-tips-for-boosting-backing-and-collaboration/"><u>Navigating the Complexities of Eco-Friendly Innovation: Tips for Boosting Backing and Collaboration</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-7-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 7 Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-models-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Rated Apple Watch Models - In-Depth Analysis by Tech Experts | ZDNet</u></a></li>
+</ul></div>
 

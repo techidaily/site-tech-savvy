@@ -1,7 +1,7 @@
 ---
 title: Apple-Approved Must-Have iPhone & iPad Apps | CNET Reviews
-date: 2025-01-01T01:22:21.294Z
-updated: 2025-01-06T00:15:34.550Z
+date: 2025-01-07T23:43:50.630Z
+updated: 2025-01-12T18:25:51.674Z
 tags:
   - apple
 categories:
@@ -40,7 +40,7 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -50,7 +50,7 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -68,15 +68,15 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -133,7 +133,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -151,7 +151,7 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -204,19 +204,22 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-achieve-flawless-imagery-how-to-remove-backgrounds-on-canva/"><u>[New] Achieve Flawless Imagery How to Remove Backgrounds on Canva</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-best-for-videos-vlc-or-mx/"><u>[New] Best for Videos VLC or MX?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-step-by-step-guide-to-master-gratuitous-timer-software/"><u>2024 Approved Step-by-Step Guide to Master Gratuitous Timer Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-unveiled-a-family-guide-to-gpt/"><u>AI Unveiled: A Family Guide to GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-edge-job-search-with-chatgpt-insights/"><u>Cutting-Edge Job Search with ChatGPT Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/efficient-mic-checks-fast-and-simple-steps-for-perfect-audio-quality/"><u>Efficient Mic Checks: Fast and Simple Steps for Perfect Audio Quality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721425749303-gpt-4-unlocked-for-all-yet-6-chatgpt-plus-advantages-remain/"><u>GPT-4: Unlocked For All, Yet 6 ChatGPT Plus Advantages Remain</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-105-classic-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from 105 Classic</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oneplus-nord-n30-se-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your OnePlus Nord N30 SE</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-meditative-moments-with-chatgpt/"><u>Optimizing Meditative Moments with ChatGPT</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premiere-pro-starter-pack-2023-edition-free-for-2024/"><u>Premiere Pro Starter Pack - 2023 Edition (Free) for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/step-up-to-the-challenge-full-screen-mastery-for-fb-vids-for-2024/"><u>Step Up to the Challenge Full-Screen Mastery for FB Vids for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/triggering-gpt-alerts-for-detecting-con-art-ai-systems/"><u>Triggering GPT Alerts for Detecting Con Art AI Systems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-beat-the-blank-screen-overcoming-top-vlogging-anxieties/"><u>[New] In 2024, Beat the Blank Screen Overcoming Top Vlogging Anxieties</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-download-facebook-videos-swiftly-discover-the-top-10-android-downloader-tools/"><u>[New] In 2024, Download Facebook Videos Swiftly Discover the Top 10 Android Downloader Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-cutting-the-cord-of-creation-how-to-setup-a-youtube-channel-from-phone-to-platform-for-2024/"><u>[Updated] Cutting the Cord of Creation How to Setup a YouTube Channel From Phone to Platform for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1724313308695-abbyy-flexicapture/"><u>「ABBYY FlexiCaptureを活用し、大量の書類検証プロセスを最適化する方法」</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-7-plus-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 7 Plus Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-v29e-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo V29e Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-unveils-revolutionary-digital-intelligence-tools-at-the-abbyy-reimagine-event-insights-from-our-latest-blog-post/"><u>ABBYY Unveils Revolutionary Digital Intelligence Tools at the ABBYY Reimagine Event: Insights From Our Latest Blog Post</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyys-innovative-identity-verification-system-minimizes-fraud-and-streamlines-client-enrollment-process/"><u>ABBYY's Innovative Identity Verification System Minimizes Fraud & Streamlines Client Enrollment Process</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyyaiocr-4/"><u>ABBYYのAIオプト・エクスプロージョンOCRソリューションでパーソルグループ名刺システムを革新: 4枚同時、高精度読み取り</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ameliorez-la-securisation-de-vos-processus-dacquisition-de-documents-avec-tangro-renforce-et-abbyy/"><u>Améliorez La Sécurisation De Vos Processus D'acquisition De Documents Avec Tangro® Renforce Et ABBYY</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/automatisierung-im-zeitalter-von-low-no-code-and-process-intelligence-erkenntnisse-aus-der-woche-der-shared-services-and-outsourcing-2021/"><u>Automatisierung Im Zeitalter Von Low-/No-Code & Process Intelligence - Erkenntnisse Aus Der Woche Der Shared Services & Outsourcing 2021</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/browse-with-confidence-on-websites-optimized-with-cookiebot-technology/"><u>Browse with Confidence on Websites Optimized with Cookiebot Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-digital-history-effective-techniques-for-searching-archives-using-the-wayback-machine/"><u>Discover Digital History: Effective Techniques for Searching Archives Using the Wayback Machine</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/essential-factors-to-ponder-for-an-effective-dvr-choice/"><u>Essential Factors to Ponder For An Effective DVR Choice</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-does-google-pixel-8-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Google Pixel 8 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-7-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone 7 Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyycro-adrian-jones/"><u>インテリジェント プロセッシングオートメーション産業の成長戦略、ABBYY社CRO Adrian Jonesが推進</u></a></li>
 </ul></div>
 

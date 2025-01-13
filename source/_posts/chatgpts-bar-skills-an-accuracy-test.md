@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's Bar Skills: An Accuracy Test"
-date: 2025-01-03T21:44:33.884Z
-updated: 2025-01-05T21:38:57.966Z
+date: 2025-01-06T19:53:29.883Z
+updated: 2025-01-13T01:12:17.174Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Cocktails and Why ChatGPT?
@@ -44,15 +44,19 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 
  I started out with a simple request before moving on to more difficult requests. And the results were interesting, to say the least. I have paraphrased the prompts used as there was often a back-and-forth needed to get ChatGPT to deliver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Prompt 1: "What Can I Add to an Aperol Spritz Instead of Soda?"
 
  The simple answer ChatGPT and I arrived at was lemonade. But before reaching that conclusion, ChatGPT offered up a multitude of different options to add to an Aperol Spritz. Many of which I wouldn't have ever thought of. And crucially, I doubt your local bartender would have either. These included more prosecco, another type of sparkling wine, tonic water, ginger ale, and grapefruit juice.
 
 ![aperol-spritz-with-lemonade-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/aperol-spritz-with-lemonade-cocktail.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Prompt 2: "Please Create the Best Version of an Old-Fashioned."
 
@@ -60,15 +64,7 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 
 ![ultimate-old-fashioned-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/ultimate-old-fashioned-cocktail.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  I did follow up by asking for some tweaks I could make, resulting in some ideas for variations on the Old-Fashioned for another time. This included using maple syrup instead of simple syrup (as Canadians do), using flavored whiskies rather than straight bourbon or rye, and adding smoked ingredients such as oak chips.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Prompt 3: "Please Tweak a Classic Cocktail to Make It Even Better."
 
@@ -79,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
  Adding a few drops of bitters to the Pina Colada really worked, adding a bitter taste to counter the sweet creaminess of a standard mix. While it still looks the same, there is a bitterness in the background.
 
 ![pina-colada-with-a-twist-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/pina-colada-with-a-twist-cocktail.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I also tried adding cinnamon, which also worked well. However, the cinnamon upped the sweetness and overpowered some of the other flavors.
 
@@ -96,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 
 ![island-serenade-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/island-serenade-chatgpt-cocktail.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Prompt 5: "What Cocktail Should I Make Right Now?"
 
  Last but not least, I wanted to see how well ChatGPT could adapt to specific needs at specific times. So I asked it to suggest a refreshing, satisfying cocktail to drink on a midweek evening after the sun has set. After initially suggesting a simple Mojito followed by a Rum Sour (neither of which I had all the ingredients for), ChatGPT suggested an Orange Blossom (four parts gin, two parts freshly squeezed orange juice, and one part simple syrup).
@@ -107,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
  I had never heard of this cocktail, but a quick Google Search reveals that it's a well-known recipe. In fact, the recipes vary wildly, but the one that ChatGPT offered up made for a tasty cocktail that definitely aligned with the brief I had provided.
 
 ![orange-blossom-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/orange-blossom-chatgpt-cocktail.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## So, Is ChatGPT Good at Making Cocktails?
 
@@ -149,17 +149,24 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-cut-cost-unlock-creativity-step-by-step-guide-to-professional-green-screen-effects-from-top-4-channels/"><u>[New] In 2024, Cut Cost, Unlock Creativity Step-by-Step Guide to Professional Green Screen Effects From Top 4 Channels</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-explore-the-top-5-snipping-utilities-for-chrome-os-users-for-2024/"><u>[Updated] Explore The Top 5 Snipping Utilities For Chrome OS Users for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/a-fresh-start-for-your-computers-firewall-settings/"><u>A Fresh Start for Your Computer's Firewall Settings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-enhances-self-repair-services-with-new-remote-diagnostics-for-iphone-15-and-m2-mac-a-deep-dive-into-the-latest-features/"><u>Apple Enhances Self-Repair Services with New Remote Diagnostics for iPhone 15 & M2 Mac: A Deep Dive Into the Latest Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/google-pixel-watch-and-apple-watch-series-eight-showdown-a-detailed-review-to-help-you-decide-zdnet-insights/"><u>Google Pixel Watch and Apple Watch Series Eight Showdown: A Detailed Review to Help You Decide | ZDNET Insights</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-oppo-reno-11-pro-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Oppo Reno 11 Pro 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-deskjet-2700-printer-drivers-download-2024-update/"><u>HP DeskJet 2700 Printer Drivers Download | 2024 Update</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-realme-note-50-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Realme Note 50 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-tutorial-guide-download-and-install-llama-2-locally/"><u>Quick Tutorial Guide: Download & Install Llama 2 Locally</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210270649-9781250279552-the-kickass-coven/"><u>The Kickass Coven | Free Book</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/understanding-user-generated-music-rights-on-instagram-for-2024/"><u>Understanding User-Generated Music Rights on Instagram for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wrist-worn-tech-showdown-determining-your-ideal-companion-between-google-pixel-watch-and-apple-watch-series-9/"><u>Wrist-Worn Tech Showdown: Determining Your Ideal Companion Between Google Pixel Watch and Apple Watch Series 9</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-visualconstruct-pro/"><u>[New] In 2024, VisualConstruct Pro</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-dynamic-audio-excellence-best-cameras-microphones-for-2024/"><u>[Updated] Dynamic Audio Excellence Best Cameras' Microphones for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-integrate-audio-magic-the-secrets-of-musical-stories-on-instagram-for-2024/"><u>[Updated] Integrate Audio Magic The Secrets of Musical Stories on Instagram for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-site-engagement-through-intelligent-cookiebot-integration-unleashing-potential/"><u>Enhanced Site Engagement Through Intelligent Cookiebot Integration: Unleashing Potential</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-user-experience-through-cookiebot-technology-integration/"><u>Enhanced User Experience Through Cookiebot Technology Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-user-experience-with-our-cookiebot-integrated-technology/"><u>Enhanced User Experience with Our Cookiebot-Integrated Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-boost-with-cookiebot-technology-powering-your-site/"><u>Experience Boost with Cookiebot Technology Powering Your Site</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fachliche-einblicke-in-das-bankgewerbe-und-finanzunternehmen-interaktives-webinar-mit-experten-von-abbyy/"><u>Fachliche Einblicke in Das Bankgewerbe Und Finanzunternehmen - Interaktives Webinar Mit Experten Von ABBYY</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hp-officejet-5740-ready-simple-driver-downloads-steps/"><u>Get Your HP OfficeJet #5740 Ready: Simple Driver Downloads Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-cookiebot-technology-for-tailored-web-interactions/"><u>Harnessing Cookiebot Technology for Tailored Web Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-cookiebot-for-enhanced-user-tracking-and-analytics/"><u>Harnessing the Power of Cookiebot for Enhanced User Tracking & Analytics</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-essential-steps-for-mp3-streams-on-youtube/"><u>In 2024, Essential Steps for MP3 Streams on Youtube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-how-to-smoothly-embed-facebook-live-on-your-site/"><u>In 2024, How to Smoothly Embed Facebook Live on Your Site</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/loptimisation-par-intelligence-des-processus-avec-blue-prism-boostez-les-performances-automatisees/"><u>L'Optimisation Par Intelligence Des Processus Avec Blue Prism - Boostez Les Performances Automatisées</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-innovations-at-the-california-department-of-motor-vehicles-dmv/"><u>Leveraging AI Innovations at the California Department of Motor Vehicles (DMV)</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/oplossing-zweefpunten-om-het-missende-outlook-pst-file-in-windows-11-op-te-sporen-en-te-herleven/"><u>Oplossing: Zweefpunten Om Het Missende Outlook PST-File in Windows 11 Op Te Sporen en Te Herleven</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/pro-thumbnails-made-simple-macos-style/"><u>Pro Thumbnails Made Simple MacOS Style</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-asus-chromebook-flip-c302ca-exceptional-value-convertible-design-and-impressive-features/"><u>Top Rated ASUS Chromebook Flip C302CA - Exceptional Value, Convertible Design, and Impressive Features</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-easily-animate-your-photos-the-9-best-online-tools-for-2024/"><u>Updated Easily Animate Your Photos The 9 Best Online Tools for 2024</u></a></li>
 </ul></div>
 

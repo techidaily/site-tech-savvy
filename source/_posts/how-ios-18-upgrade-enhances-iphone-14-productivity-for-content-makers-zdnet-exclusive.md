@@ -1,7 +1,7 @@
 ---
 title: How iOS 18 Upgrade Enhances iPhone 14 Productivity for Content Makers – ZDNET Exclusive
-date: 2025-01-05T08:59:42.187Z
-updated: 2025-01-06T02:29:39.586Z
+date: 2025-01-05T21:32:06.441Z
+updated: 2025-01-12T18:09:59.312Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ As someone who is not nearly an influencer but loves to use their imagination, I
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Video scroll bar and playback options
@@ -63,7 +63,7 @@ When you do find the perfect take, the editing menu now allows an option to slow
 When viewing videos, the scroll bar automatically pops up. To access the playback options, select edit and then the clock icon at the top right corner. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Customizable layout with 'Recent Days'
@@ -83,7 +83,7 @@ For example, during the Apple launch, my phone was essentially exploding with co
 With customization, you can keep this collection at the top of your feed, or any other categories that would help you stay the most organized. Now I can pull content from a certain day without having to scroll all the way back, and hopefully it does the same for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Filter button
@@ -101,7 +101,7 @@ To narrow content more, you can also filter to favorites, previously edited cont
 And just with one slide up, it resets the filters. If you add the ability to organize your photos app to your liking, your photos app becomes so much more efficient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Honorable mentions
@@ -112,7 +112,7 @@ And just with one slide up, it resets the filters. If you add the ability to org
 * A 'recovered' album in Utilities recovers corrupted images that were previously not visible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhones are compatible with iOS 18?
@@ -175,16 +175,17 @@ And just with one slide up, it resets the filters. If you add the ability to org
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/5-breakthrough-bots-providing-virtual-therapy-assistance/"><u>5 Breakthrough Bots Providing Virtual Therapy Assistance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-amazing-chatgpt-chrome-extensions-for-better-ai-prompts-and-answers-in-browsers/"><u>7 Amazing ChatGPT Chrome Extensions for Better AI Prompts and Answers in Browsers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-barriers-to-successful-gpt-modifications/"><u>7 Barriers to Successful GPT Modifications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721384507425-all-can-experience-gpt-4-without-cost-yet-platinums-unique-features-remain-attractive/"><u>All Can Experience GPT-4 without Cost; Yet, Platinum's Unique Features Remain Attractive</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-tecno-spark-10-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Tecno Spark 10 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/comment-regarder-des-contenus-4k-sur-les-modeles-iphone-et-ipad-sous-ios-93-10-se-6e-generation-etc/"><u>Comment Regarder Des Contenus 4K Sur Les Modèles iPhone Et iPad Sous iOS 9.3 / 10 : SE, 6E Génération, Etc.</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-galaxy-a23-5g-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Galaxy A23 5G</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-honor-play-8t-frp-bypass-by-drfone-android/"><u>In 2024, About Honor Play 8T FRP Bypass</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-the-art-of-viral-video-marketing/"><u>In 2024, Mastering the Art of Viral Video Marketing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-7-sites-for-swapping-outringtone-files-on-snapchat/"><u>Top 7 Sites for Swapping Outringtone Files on Snapchat</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/troubleshooting-steps-for-resolving-dvd-playback-issues-in-vlc-on-windows-1011/"><u>Troubleshooting Steps for Resolving DVD Playback Issues in VLC on Windows 10/11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-gaining-exposure-cost-effective-promotion-hacks-for-youtubers/"><u>[New] 2024 Approved Gaining Exposure Cost-Effective Promotion Hacks for YouTubers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-how-to-live-without-the-convenience-of-youtube-shorts/"><u>[Updated] 2024 Approved How To Live Without the Convenience of YouTube Shorts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-premier-annual-update-best-free-livestream-software-and-apps-review/"><u>[Updated] 2024 Approved Premier Annual Update Best Free Livestream Software & Apps Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-strategic-timing-for-virality-in-video-content-sharing/"><u>[Updated] Strategic Timing for Virality in Video Content Sharing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-budget-enthusiasts-choices-the-right-gopro-add-ons-for-newbies/"><u>2024 Approved Budget Enthusiasts Choices The Right GoPro Add-Ons for Newbies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/historical-context-understanding-ethereums-inception/"><u>Historical Context: Understanding Ethereum's Inception</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-check-ram-on-windows-quickly-and-easily/"><u>How to Check RAM on Windows | Quickly & Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-counteract-constant-high-cpu-consumption-and-boost-efficiency/"><u>How to Counteract Constant High CPU Consumption and Boost Efficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-disable-windows-11-lock-screen-easily/"><u>How to Disable Windows 11 Lock Screen, Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-fix-and-update-the-realtek-high-definition-sound-driver-on-windows-11/"><u>How to Fix and Update the Realtek High Definition Sound Driver on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-rendering-latest-vega-3-firmware-release/"><u>Optimize Rendering: Latest Vega 3 Firmware Release</u></a></li>
+<li><a href="https://win11.techidaily.com/peering-beyond-the-visible-launching-windows-concealed-character-insight-engine/"><u>Peering Beyond the Visible: Launching Windows' Concealed Character Insight Engine</u></a></li>
 </ul></div>
 

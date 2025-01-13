@@ -1,7 +1,7 @@
 ---
 title: The Essentials of ChatGPT Plug-Ins
-date: 2024-09-06T23:30:15.995Z
-updated: 2024-09-07T23:30:15.995Z
+date: 2025-01-10T16:04:52.442Z
+updated: 2025-01-12T20:07:39.010Z
 tags:
   - chatgpt
   - open-ai
@@ -15,17 +15,15 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
 ## The Essentials of ChatGPT Plug-Ins
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Are ChatGPT's Default Plugins?](https://coinrule.sjv.io/rqzonv)
 * [How to Use ChatGPT's Standard Plugins](https://turtlebeachus.sjv.io/vmebyo)
 * [How to Use ChatGPT's Plugins on Mobile](https://getlyla.pxf.io/ek9gkg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -41,12 +39,6 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Are ChatGPT's Default Plugins?
 
  ChatGPT's three built-in plugins are offered to all ChatGPT Plus users. ChatGPT Plus uses GPT-4, OpenAI's latest LLM version, which comes with the DALL-E 3, Code Interpreter, and Browse with Bing plugins.
@@ -59,22 +51,10 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
  When you open your ChatGPT Plus account, each of these plugins will be active by default, meaning you don't need to activate anything manually to use them.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use ChatGPT's Standard Plugins
 
  If you don't have a ChatGPT Plus account, you won't be able to access these plugins. So, consider signing up for the $20 monthly premium plan if you want to overcome this barrier.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Browse with Bing
 
  To get started with Browse with Bing, make a request requiring real-time data or specifically clarify that you want ChatGPT to search the web for a prompt.
@@ -82,11 +62,9 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 ![chatgpt search with bing ask question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-search-with-bing-ask-question-jan-2024.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once you make the request, you'll be told that GPT is currently searching the web. It may take ten or so seconds to get your results or longer if your connection is patchy, OpenAI's servers are overwhelmed, or your request contains detailed information that takes time to search for.
 
 ![chatgpt search with bing whats the weather jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-search-with-bing-whats-the-weather-jan-2024.jpg)
@@ -96,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
  Sometimes, ChatGPT provides fabricated or unreliable sources for its answers, so it's always best to check the source before using any of the information provided.
 
  It's likely that ChatGPT won't conduct a web search for data it already has access to, such as historical facts. If searching the web is necessary, make that known in your prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. DALL-E
 
@@ -109,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
 ![chatgpt-dalle output mouse next to river](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-dalle-output-mouse-next-to-river.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, we ask for changes.
 
 ![chatgpt-dalle mouse next to river changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-dalle-mouse-next-to-river-changed-colour.png)
@@ -121,12 +107,6 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
 ![screenshot of ChatGPT python response in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-python-response.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If ChatGPT picks up on any errors in your code, it will notify you and provide a correction.
 
  You can upload text files and documents for analysis in a wide range of formats, including PDF, DOCX, JSON, TXT, and PPTX. You can also choose from multiple data and code formats and even upload a JPEG image of the code in question.
@@ -136,14 +116,16 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 ![screenshot of file upload for code interpretation in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/upload-python-gpt.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also ask ChatGPT to give you Python code for the function or program you want to create. However, this isn't part of the Interpreter plugin, so it can be used with GPT-3.5 or GPT-4\.
 
 ![Screenshot of ChatGPT python code excerpt response in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-python-excerpt.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Make sure you run whatever code is provided through a dedicated Python execution tool before implementing it. ChatGPT can make mistakes, so it's always best to run some checks on any data it gives you.
 
@@ -153,26 +135,8 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
 ![screenshot of chatgpt web search result in mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-search.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot of ChatGPT mobile app dall-e response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-dalle.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot of ChatGPT python interpreter in mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-python.jpg)
 
 Close
@@ -191,8 +155,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +162,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/2022-fix-spotify-web-player-slow-and-not-working/"><u>[2022 Fix] Spotify Web Player Slow and Not Working</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-from-rgb-to-srgb-understanding-color-transition/"><u>[New] From Rgb to Srgb Understanding Color Transition</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-pro-tips-for-rapidly-creating-effective-subtitles-on-fb/"><u>[New] In 2024, Pro Tips for Rapidly Creating Effective Subtitles on FB</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-integrating-social-video-platforms-with-hdtv/"><u>[New] Integrating Social Video Platforms with HDTV</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-balancing-volume-levels-in-obs-streaming/"><u>[Updated] 2024 Approved Balancing Volume Levels in OBS Streaming</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-seamless-tweet-integration-on-facebook-platform/"><u>[Updated] Seamless Tweet Integration on Facebook Platform</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/captivating-alfa-romeo-hd-visuals-for-desktop-backgrounds-and-photo-galleries-powered-by-yl-software-solutions/"><u>Captivating Alfa Romeo HD Visuals for Desktop Backgrounds and Photo Galleries – Powered by YL Software Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-innovation-in-action-unveiling-five-must-try-functions-in-apples-ios-18-early-beta-release-zdnet-insights/"><u>Discover Innovation in Action: Unveiling Five Must-Try Functions in Apple's iOS 18 Early Beta Release | ZDNet Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dominate-the-derby-in-roller-champions-essential-crossplayer-tactics-and-techniques-for-pc-users-in-202n4/"><u>Dominate the Derby in Roller Champions: Essential Crossplayer Tactics and Techniques for PC Users in 202N4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ending-conversations-with-gpt-3-now/"><u>Ending Conversations with GPT-3 Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engage-and-guide-gpt-with-a-simple-voice-command-mix/"><u>Engage and Guide GPT With a Simple Voice-Command Mix</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-reading-qr-codes-on-windows-devices/"><u>Essential Tips for Reading QR Codes on Windows Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keep-content-safe-stop-bot-harvesters/"><u>Keep Content Safe: Stop Bot Harvesters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-academic-writing-chatgpts-role/"><u>Revolutionizing Academic Writing: ChatGPT's Role</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-crisis-response-google-pixel/"><u>Revolutionizing Crisis Response: Google Pixel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securing-your-smartphone-from-unwanted-surveillance-tips-to-identify-and-erase-spyware/"><u>Securing Your Smartphone From Unwanted Surveillance: Tips to Identify and Erase Spyware</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-for-sharing-and-editing-on-apple-pages-using-icloud-a-comprehensive-guide/"><u>Strategies for Sharing and Editing on Apple Pages Using iCloud: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-tempting-upgrade-how-apples-new-17-usb-c-earpods-became-a-must-have-for-this-techie-during-amazon-prime-day-insights-from-zdnet/"><u>The Tempting Upgrade: How Apple's New $17 USB-C EarPods Became a Must-Have for This Techie During Amazon Prime Day - Insights From ZDNet</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/windows-server-backup-plan-set-up-scheduled-savings-on-shared-remote-folders-with-limit-bypass/"><u>Windows Server Backup Plan: Set Up Scheduled Savings on Shared Remote Folders with Limit Bypass</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Behind the Scenes: How LLMs Transform Data"
-date: 2025-01-04T05:41:36.988Z
-updated: 2025-01-06T06:10:40.676Z
+date: 2025-01-06T18:23:47.146Z
+updated: 2025-01-13T00:21:42.756Z
 tags:
   - chatgpt
   - open-ai
@@ -53,21 +53,17 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 
 ![Screenshot of question about bats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-bats.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, it isn't infallible, and as this example shows, sometimes you will need to supply additional information to get the desired response.
 
 ![Screenshot of out of context bat reply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-out-of-context-bat-reply.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In this instance, we deliberately threw a bit of a curve ball to demonstrate how easily context is lost. But humans can misunderstand the context of questions too, and it only needs an extra prompt to correct the response.
 
 ![Screenshot of question about what type of wood is a bat made from](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-what-type-of-wood-is-a-bat-made-from.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To generate these responses, LLMs use a technique called natural language generation (NLG). This involves examining the input and using the patterns learned from its data repository to generate a contextually correct and relevant response.
 
@@ -89,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
  There is also an argument that ethical concerns can be considered a limitation of LLMs, but this subject falls outside the scope of this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 Examples of Popular LLMs
@@ -99,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
  Here are some of the most widely used LLMs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. GPT
@@ -110,15 +106,15 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 
  This is the initial LLM used by Google Bard, Google's AI chatbot. The version Bard was initially rolled out with was described as a "lite" version of the LLM. The more powerful PaLM iteration of the LLM superseded this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. BERT
 
  BERT stands for Bi-directional Encoder Representation from Transformers. The bidirectional characteristics of the model differentiate [BERT from other LLMs like GPT](https://www.makeuseof.com/what-is-bert-language-model-how-differ-gpt/).
 
  Plenty more LLMs have been developed, and offshoots are common from the major LLMs. As they develop, these will continue to grow in complexity, accuracy, and relevance. But what does the future hold for LLMs?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Future of LLMs
 
@@ -132,6 +128,10 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 4. **Greater Integration**: LLMs could become personal digital assistants. Think of Siri on steroids, and you get the idea. LLMs could become virtual assistants that help you with everything from suggesting meals to dealing with your correspondence.
 
  These are just a few of the areas where LLMs are likely to become a larger part of the way we live.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## LLMs Transforming and Educating
 
@@ -158,22 +158,19 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-keeping-your-gopro-fogless-for-perfection/"><u>[New] Keeping Your GoPro Fogless for Perfection</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-the-art-of-playstation-4-recording/"><u>[New] Mastering the Art of PlayStation 4 Recording</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-gamer-writes-top-7-fps-games-list/"><u>[Updated] In 2024, Ultimate Gamer' Writes Top 7 FPS Games List</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-reimagined-analysis-new-developments-in-sonys-s6500-bdhd/"><u>[Updated] Reimagined Analysis New Developments in Sony's S6500 BD/HD</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-creative-domain-who-holds-the-title/"><u>AI's Creative Domain: Who Holds The Title?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/become-an-expert-in-chatgpt-with-this-chrome-extension/"><u>Become an Expert in ChatGPT with This Chrome Extension</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-affordable-openai-image-modifiers/"><u>Best Affordable OpenAI Image Modifiers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-human-conversation-googles-gemini-vs-chatgpts-standards/"><u>Beyond Human Conversation? Google's Gemini Vs. ChatGPT’s Standards</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/convenient-bavarder-implementation-in-linux/"><u>Convenient Bavarder Implementation in Linux</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/disconnect-for-peace-how-to-drop-off-gpts-radar/"><u>Disconnect for Peace: How to Drop Off GPT's Radar</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/effortless-facebook-video-streaming-with-fire-browser-plugins-firefox-edition-2023/"><u>Effortless Facebook Video Streaming with Fire-Browser Plugins, Firefox Edition 2023</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-e13-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto E13 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-next-generation-of-video-splitters-post-xplit/"><u>In 2024, The Next Generation of Video Splitters Post-Xplit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/narrative-design-aided-by-gpt-3-insights/"><u>Narrative Design Aided by GPT-3 Insights</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-honor-magic-5-lite-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Honor Magic 5 Lite to Gmail | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/voice-for-algorithms-chatgpts-new-command-respondive-capability/"><u>Voice for Algorithms: ChatGPT's New Command-Respondive Capability</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-bandicam-reviewed-the-latest-tech-enhancements-and-tips/"><u>[New] 2024 Approved Bandicam Reviewed The Latest Tech Enhancements and Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-legitimate-techniques-for-video-popularity-surge/"><u>[Updated] Legitimate Techniques for Video Popularity Surge</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellence-in-streaming-zooms-6-cam-selection/"><u>2024 Approved Excellence in Streaming - Zoom’s #6 Cam Selection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unrivaled-gaming-monitors-at-4k-quality/"><u>2024 Approved Unrivaled Gaming Monitors at 4K Quality</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210027112-9780744033427-a-history-of-magic-witchcraft-and-the-occult/"><u>A History of Magic, Witchcraft, and the Occult | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/asset-authorship-who-responsible-for-ais-intellectual-works/"><u>Asset Authorship: Who Responsible For AI's Intellectual Works?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oppo-a59-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-export-transferring-your-chatgpt-records/"><u>Navigating the Export: Transferring Your ChatGPT Records</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/repair-corrupted-photos-easily-using-our-free-downloading-toolkit/"><u>Repair Corrupted Photos Easily Using Our Free Downloading Toolkit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-cell-phone-bargains-on-the-4th-of-july-find-your-perfect-match-techradar/"><u>Top Cell Phone Bargains on the 4Th of July: Find Your Perfect Match | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-education-through-ai-top-student-centric-applications-of-chatgpt/"><u>Transforming Education Through AI: Top Student-Centric Applications of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-your-display-game-with-apple-vision-pro-top-tips-for-scheduling-an-unbeatable-demo-zdnet/"><u>Upgrade Your Display Game with Apple Vision Pro - Top Tips for Scheduling an Unbeatable Demo | ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unpacking OpenAI’s Shared Link Strategy for GPT-3
-date: 2024-09-06T23:30:22.577Z
-updated: 2024-09-07T23:30:22.577Z
+date: 2025-01-09T21:08:01.870Z
+updated: 2025-01-12T20:50:51.522Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Unpacking OpenAI’s Shared Link Strategy for GP
 thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6ed8b5f1e4a621d2eef1f390.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unpacking OpenAI’s Shared Link Strategy for GPT-3
 
  ChatGPT's flow of new features continues as the world's most popular AI chatbot now comes with unique shareable URLs for your conversations.
@@ -29,11 +23,19 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 
  But how do ChatGPT shared links work, and when should you use them?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are ChatGPT Shared Links?
 
 [One of the issues facing ChatGPT users](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) is sharing. You have a great idea or use ChatGPT to crack a piece of a puzzle or create something unique, but the only way to share is through a screenshot. In fairness, there are [apps you can use to share your ChatGPT history](https://www.makeuseof.com/apps-extensions-export-share-chatgpt-history/), but not everyone wants to use or can install an extra app to extend functionality.
 
 ![chatgpt shared urls web interface large](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-shared-urls-web-interface-large.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  OpenAI has clearly heard this message, and an [OpenAI blog](https://help.openai.com/en/articles/7925741-chatgpt-shared-links-faq) published on May 26, 2023, revealed that sharing functionality would begin rolling out to ChatGPT Plus users, with some subscribers gaining access to the new feature immediately.
 
@@ -49,28 +51,14 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 
 ![chatgpt shared urls sharing interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-shared-urls-sharing-interface.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The ChatGPT shared link dialog will open, showing you the conversation you're about the share. Now, before you share, you can choose to share with your name or to share anonymously. Switching between the two is useful, as anyone with the ChatGPT shared link URL can gain access. However, "shared links are not designed to show up in public search results on the internet," which is also good to know.
 
 ![chatgpt shared urls anonymous link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-shared-urls-anonymous-link.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Other Users Can Continue Your ChatGPT Conversation
 
  Furthermore, anyone with the URL can continue the shared ChatGPT conversation. As per OpenAI, "think of a shared link as a snapshot of a conversation up to the point at which you generate the shared link." From the moment it is shared, anyone with the link can take on the conversation as if it was their own.
@@ -78,19 +66,11 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 ![chatgpt shared urls continue conversation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-shared-urls-continue-conversation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The updated conversation won't appear in your ChatGPT history. It's a snapshot and is separate from your chat. But you should consider the information in any ChatGPT conversation you share, as the entire conversation history is viewable.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Manage and Delete Your ChatGPT Shared Links
 
  Currently, there are no granular permissions for ChatGPT shared links. However, you can keep tabs on the shared links you've already published using the ChatGPT Settings.
@@ -104,11 +84,9 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 5. To delete all of your shared conversations, select the three-dot icon, then **Delete all shared links**.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Sharing Your ChatGPT Conversations Is Easy
 
  Sharing ChatGPT conversations and data was an issue raised by countless ChatGPT users. ChatGPT developers, OpenAI, have taken this onboard, and the shared links make it much easier to share ChatGPT conversations.
@@ -119,14 +97,11 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 
  But how do ChatGPT shared links work, and when should you use them?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -135,4 +110,26 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-laugh-ledger-pinpointing-prime-meme-generators-for-2024/"><u>[New] Laugh Ledger Pinpointing Prime Meme Generators for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-unveiling-the-secrets-to-fhd-in-social-tweeting/"><u>[Updated] 2024 Approved Unveiling the Secrets to FHD in Social Tweeting</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-instructions-for-customizing-spiritual-sounds-as-ringtones/"><u>[Updated] In 2024, Instructions for Customizing Spiritual Sounds as Ringtones</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-strengthening-video-impact-with-professional-audio-cues/"><u>[Updated] Strengthening Video Impact with Professional Audio Cues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/contrasting-the-linguistic-giants-gpt-1-gpt-3-and-gpt-4/"><u>Contrasting the Linguistic Giants: GPT-1, GPT-3 & GPT-4</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-picks-for-the-most-advanced-mp3-players-available-in-202-latest-innovations-and-comparison-chart-cnet/"><u>Expert Picks for the Most Advanced MP3 Players Available in 202 # - Latest Innovations and Comparison Chart | CNET</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211317630-9798869309167-gothic-grimoire/"><u>Gothic Grimoire | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insight-chatgpts-built-in-functionalities/"><u>Insight: ChatGPT's Built-In Functionalities</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/install-the-macos-15-sequoia-beta-instantly-on-your-apple-mac-step-by-step-guide-tech-insider/"><u>Install the macOS 15 Sequoia Beta Instantly on Your Apple Mac - Step-by-Step Guide | Tech Insider</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-6-titans-majestic-mlm-systems-review/"><u>Leading 6 Titans: Majestic MLM Systems Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-relationships-with-gpt-inspired-skills/"><u>Navigating Relationships with GPT-Inspired Skills</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-horizon-for-iphone-chatgpt-app/"><u>New Horizon for iPhone: ChatGPT App</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/stay-safe-from-these-5-insidious-chatgpt-related-scams/"><u>Stay Safe From These 5 Insidious ChatGPT-Related Scams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-work-processes-with-gpt-3-knowledge/"><u>Streamlining Work Processes with GPT-3 Knowledge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-top-6-reasons-ios-dominance-over-webchatgpt/"><u>The Top 6 Reasons: IOS Dominance over WebchatGPT</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-video-playback-issues-on-firefox-fix-and-solutions/"><u>Troubleshooting Video Playback Issues on Firefox – Fix and Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-restoring-your-waterlogged-iphoneipod-with-easy-drying-techniques/"><u>Ultimate Guide: Restoring Your Waterlogged iPhone/iPod with Easy Drying Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-your-potential-discover-and-report-errors-for-a-payday-at-openai/"><u>Unlock Your Potential: Discover and Report Errors for a Payday at OpenAI</u></a></li>
+</ul></div>
 

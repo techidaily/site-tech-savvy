@@ -1,7 +1,7 @@
 ---
 title: Peering Into Predictive AI's Functioning Mechanism
-date: 2024-09-06T23:30:17.812Z
-updated: 2024-09-07T23:30:17.812Z
+date: 2025-01-05T23:50:21.963Z
+updated: 2025-01-13T00:17:02.127Z
 tags:
   - chatgpt
   - open-ai
@@ -15,24 +15,16 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 
 ## Peering Into Predictive AI's Functioning Mechanism
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Predictive AI, and How Does It Work?](https://proteahair.pxf.io/znernm)
 * [Examples of Predictive AI](https://martinic.evyy.net/m5azrm)
 * [How Is Predictive AI Different From Generative AI?](https://review-au.sjv.io/wqnrq3)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Predictive AI makes projections using past data, like weather forecasts and stock market trends.
@@ -45,12 +37,6 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 
  You've probably heard of generative AI, but how much do you know about predictive AI? They sound similar, but have some key differences, along with a heap of ways you're probably already using it!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is Predictive AI, and How Does It Work?
 
  Predictive AI uses information from things that have already happened to make predictions and projections for what might happen in the future. To be used successfully, it requires access to high-quality data and subject matter expertise from humans to correctly identify trends.
@@ -60,11 +46,9 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
  Once predictive AI models have gathered the information they need, users can make decisions and conduct further research if necessary.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Examples of Predictive AI
 
  Predictive AI is already used in multiple industries, and you may even have experienced this technology in action yourself. For example, companies use predictive AI to detect potential data breaches, and smartphone providers can help you type more accurately.
@@ -72,11 +56,9 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
  Below are some of the best examples of predictive AI in action.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Predictive Text
 
 Close
@@ -97,27 +79,23 @@ Close
 
 ![Spotify's niche mixes are playlists made for you](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/spotify-niche-mixes-desktop.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your smartphones and apps are becoming much better at offering recommendations, largely because of predictive AI. For example, if you use Google Drive, you may see a "You often open around this time" message on your main documents. You'll also see "Based on past activity" or "You've opened frequently."
 
  If you use your smartphone, you'll often see that recommendations for opening apps and other actions change depending on your habits at each time of the day. Apps also use your consumption behaviors to deliver better recommendations; for example, [Spotify uses AI](https://www.makeuseof.com/how-spotify-uses-ai/) to recommend (and create) playlists.
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Economic Projections
 
  Predictive AI is also prominent in the world of finance, and it can help economists consider how financial markets will change over time. For example, based on historical data and current global affairs, predictive AI can determine whether certain currency exchange rates will increase or decrease. Since predictive AI is also good at identifying consumer behaviors, it's possible to use the tool to determine how industry trends will change.
 
  This technology can also predict stock market movements and cryptocurrency price changes. If you plan on trading with AI, it's worth checking out these [AI-based crypto tools](https://www.makeuseof.com/top-ai-based-crypto-tools/) as a starting point.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Weather Forecasts
 
@@ -125,30 +103,12 @@ Close
 
  Predictive AI can measure more weather data in shorter periods. Being able to better predict the weather in the short term is nice on a personal level, as it means you'll know exactly what to wear outside. But if we zoom out and look at the bigger picture, predictive AI could also be a valuable tool for helping to innovate in climate change initiatives and predict major storms.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Business Decisions
 
  Companies use predictive AI to make better decisions and projections for the coming year. Since predictive AI is very good at measuring consumer behaviors, businesses can accurately determine the success of their current products and offerings over 6-12 months. To fill gaps in the market, they can also use the information they gather to launch and test new products.
 
  With predictive AI, businesses can also decide what to include in advertising campaigns. Moreover, they can determine where they should allocate their budgets more effectively. We've written a round-up of [essential AI tools for business owners to know about](https://www.makeuseof.com/ai-tools-for-business-owners/) if you're interested in learning more.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Is Predictive AI Different From Generative AI?
 
  Predictive and generative AI both use machine learning, but generative AI analyzes available information to create new content rather than draw conclusions.
@@ -165,8 +125,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +132,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-revolutionizing-content-creation-the-insight-into-vimeos-capabilities/"><u>[New] In 2024, Revolutionizing Content Creation The Insight Into Vimeo's Capabilities</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-exploring-screenflow-features-a-mac-developers-perspective/"><u>[Updated] Exploring ScreenFlow Features – A Mac Developer's Perspective</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-making-the-most-of-your-youtube-thumbnail-space/"><u>[Updated] In 2024, Making the Most of Your YouTube Thumbnail Space</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/best-way-to-stitch-gopro-clips-into-360-videos/"><u>Best Way to Stitch GoPro Clips Into 360 Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-barriers-beyond-turings-original-scale/"><u>Breaking Barriers: Beyond Turing's Original Scale</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/contrasting-the-linguistic-giants-gpt-1-gpt-3-and-gpt-4/"><u>Contrasting the Linguistic Giants: GPT-1, GPT-3 & GPT-4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/freeze-no-more-expert-solutions-for-optimizing-your-call-of-duty-vanguard-experience/"><u>Freeze No More: Expert Solutions for Optimizing Your Call of Duty: Vanguard Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-freeze-frame-creation-through-stabilized-capture/"><u>In 2024, Freeze-Frame Creation Through Stabilized Capture</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insight-chatgpts-built-in-functionalities/"><u>Insight: ChatGPT's Built-In Functionalities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-horizon-for-iphone-chatgpt-app/"><u>New Horizon for iPhone: ChatGPT App</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/strategic-screen-customization-timely-adjustments-in-teams/"><u>Strategic Screen Customization Timely Adjustments in Teams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-work-processes-with-gpt-3-knowledge/"><u>Streamlining Work Processes with GPT-3 Knowledge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-top-6-reasons-ios-dominance-over-webchatgpt/"><u>The Top 6 Reasons: IOS Dominance over WebchatGPT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-four-platforms-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Top Four Platforms of Social Networking: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210917662-9781634282956-ufos-and-aliens/"><u>UFOs and ALIENS | Free Book</u></a></li>
+</ul></div>
 

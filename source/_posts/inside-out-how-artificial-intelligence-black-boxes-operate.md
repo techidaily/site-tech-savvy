@@ -1,7 +1,7 @@
 ---
 title: "Inside Out: How Artificial Intelligence Black Boxes Operate"
-date: 2024-09-06T23:30:21.846Z
-updated: 2024-09-07T23:30:21.846Z
+date: 2025-01-10T23:00:57.380Z
+updated: 2025-01-13T00:48:28.534Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Inside Out: How Artificial Intelligence Black B
 thumbnail: https://thmb.techidaily.com/81ce373281fd9aff14dae5d82f0fff51572cdd8c291988609733f2ca1401739f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Inside Out: How Artificial Intelligence Black Boxes Operate
 
  When we think of black boxes, we probably think of the data recorders primarily used in airliners. However, nothing could be further from the truth when it comes to AI black boxes.
@@ -32,11 +26,9 @@ thumbnail: https://thmb.techidaily.com/81ce373281fd9aff14dae5d82f0fff51572cdd8c2
  AI black boxes are a concept that refers to autonomous decision-making in AI systems. Let's take a detailed look at AI Black boxes, how they work, and the concerns that surround them.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Are AI Black Boxes?
 
  An AI black box is an independent system that can make decisions without explaining how these decisions were reached. That's a simple definition of an AI black box.
@@ -46,17 +38,9 @@ thumbnail: https://thmb.techidaily.com/81ce373281fd9aff14dae5d82f0fff51572cdd8c2
  We will set the concerns aside for the moment as we look at how AI black boxes work.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How AI Black Boxes Work
 
  Three main components integrate to create AI black boxes. These combine to create the framework that constitutes a black box:
@@ -72,17 +56,9 @@ thumbnail: https://thmb.techidaily.com/81ce373281fd9aff14dae5d82f0fff51572cdd8c2
  Once the training phase is completed, the black boxes can be deployed to make independent decisions based on the learned algorithms and patterns. However, the lack of transparency about how decisions are reached is one of the primary concerns surrounding AI black boxes.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Challenges and Risks of AI Black Boxes
 
  Disruptive technologies rarely come without baggage. AI is the most disruptive technology we have faced this century, and it certainly comes with plenty of baggage. For AI to fulfill its promises, these challenges need to be addressed. Some of the major concerns and risks include:
@@ -96,11 +72,9 @@ thumbnail: https://thmb.techidaily.com/81ce373281fd9aff14dae5d82f0fff51572cdd8c2
  These are known challenges, and efforts are underway to develop more accountable and transparent AI systems that can "show their workings."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does the Future Hold for AI Black Boxes?
 
  Let's start by saying that AI, in some shape or form, is with us for the long term. Pandora's box has been opened, and it isn't going to close again. However, this is still a technology in its infancy, and it isn't surprising that there are challenges and issues with it.
@@ -116,11 +90,9 @@ thumbnail: https://thmb.techidaily.com/81ce373281fd9aff14dae5d82f0fff51572cdd8c2
  This is still a raw technology, one which is straining ethical and legal boundaries. Addressing the concerns around AI black boxes is critical to its future and development.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AI Black Boxes: An Ethical Dilemma
 
  AI black boxes hold huge promise and opportunity, but there are definite challenges to overcome. There is no doubt that AI is here to stay. The technology's rapid uptake has made it an integral part of our lives. But the lack of transparency and accountability are genuine and pressing concerns.
@@ -133,14 +105,11 @@ thumbnail: https://thmb.techidaily.com/81ce373281fd9aff14dae5d82f0fff51572cdd8c2
 
  AI black boxes are a concept that refers to autonomous decision-making in AI systems. Let's take a detailed look at AI Black boxes, how they work, and the concerns that surround them.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,4 +118,21 @@ thumbnail: https://thmb.techidaily.com/81ce373281fd9aff14dae5d82f0fff51572cdd8c2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-circulating-camera-mounts-for-vr/"><u>[Updated] Circulating Camera Mounts for VR</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-discovering-perfection-an-in-depth-look-at-lgs-4k-screen-for-2024/"><u>[Updated] Discovering Perfection An In-Depth Look at LG's 4K Screen for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-perfecting-the-audio-element-in-instagram-storytelling/"><u>[Updated] Perfecting the Audio Element in Instagram Storytelling</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oneplus-ace-3-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart OnePlus Ace 3 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-tecno-camon-20-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-oneplus-nord-ce-3-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on OnePlus Nord CE 3 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-the-apple-macbook-air-with-a-series-chip-m3-in-depth-review-and-comparison-for-consumers-cnet/"><u>Introducing the Apple MacBook Air with A-Series Chip (M3): In-Depth Review and Comparison for Consumers | CNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-hotel-stays-discover-how-apple-airplay-enhances-your-room-experience-with-ease/"><u>Revolutionizing Hotel Stays: Discover How Apple AirPlay Enhances Your Room Experience with Ease!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sculpting-narratives-with-ai-enhancements-in-dandd-character-development/"><u>Sculpting Narratives with AI Enhancements in D&D Character Development</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-11s-stubborn-taskbar-visibility-issues-easy-tips/"><u>Solving Windows 11'S Stubborn Taskbar Visibility Issues - Easy Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-common-day-duel-claude-against-the-ai-giants/"><u>The Common Day Duel: Claude Against the AI Giants</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-for-overcoming-windows-11-installation-hiccups-on-personal-computers/"><u>Troubleshooting Tips for Overcoming Windows 11 Installation Hiccups on Personal Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-not-let-algorithms-do-your-essay-summaries/"><u>Why Not Let Algorithms Do Your Essay Summaries?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Using AI: ChatGPT to Boost Sheet Productivity"
-date: 2024-09-02T20:41:40.551Z
-updated: 2024-09-03T20:41:40.551Z
+date: 2025-01-11T22:04:48.558Z
+updated: 2025-01-12T23:12:55.871Z
 tags:
   - chatgpt
   - open-ai
@@ -25,11 +25,19 @@ thumbnail: https://thmb.techidaily.com/a3e20ff499d2255356072c9a430207e141738c946
 
  Sounds good, right? Here's how to integrate GPT technology into Google Sheets and get your spreadsheet done effortlessly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use the GPT for Sheets and Docs Extension
 
  Although OpenAI does not have a ChatGPT extension for spreadsheet apps, you can still enjoy GPT technology within Google Sheets using third-party applications that interface with OpenAI's GPT API. One such third-party application is the "GPT for Sheets and Docs" extension. It is not a standalone app but a Google Sheets extension that makes it possible to use [ChatGPT-like prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) wrapped in functions within your spreadsheets.
 
  No, it doesn't require any programming knowledge to set up. The process isn't too technical—it is relatively easy to complete. All you'll need to get started is to grab an OpenAI API key and add the "GPT for Sheets and Docs" extension to your Google Sheets account. But how do you get an OpenAI API key?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Add the GPT for Sheets and Docs Extension to Google Sheets
 
@@ -39,6 +47,11 @@ thumbnail: https://thmb.techidaily.com/a3e20ff499d2255356072c9a430207e141738c946
 2. Locate and click on **Extensions > Add-ons > Get Add-ons**.  
 ![Adding GPT for Sheets and Docs to Google Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/adding-gpt-for-sheets-and-docs-to-google-sheets.jpg)
 3. Up next, you should be taken to the Google Workspace Marketplace. Locate the search bar in the top right corner of the screen and search for **GPT for Sheets and Docs**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Google Workspace Marketplace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/google-workspace-marketplace.jpg)
 4. Click on the first extension, as seen in the screenshot above. On the next page, click on **Install** and then **Continue.**  
 ![Installing GPT for Sheets and Docs on Google Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/installing-gpt-for-sheets-and-docs-on-google-sheets.jpg)
@@ -48,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/a3e20ff499d2255356072c9a430207e141738c946
  With that done, the extension will be added to your Google Sheets account. However, to use GPT-powered functions and formulas within Google Sheets, you'll need an OpenAI API key to activate the extension within Google Sheets.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Create an OpenAI API Key
 
  To use the GPT for Sheets and Docs extension, you'll need an API key from the OpenAI website. Here's how to create an OpenAI API key:
@@ -59,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/a3e20ff499d2255356072c9a430207e141738c946
 3. Up next, locate and click on the **Create new Secret key** button at the center of the page.
 4. If all goes well, a pop-up with your API keys and an "API Key Generated" notification should appear on your screen. Next, tap the green copy button beside your API key to copy the key to your clipboard.  
 ![OpenAI secret Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-secret-key.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Please make sure to keep a secure copy of your API key, as it cannot be recovered if lost. Additionally, do not share your API keys with third parties, as this may result in restrictions being placed on your access to OpenAI's GPT API in case of any misuse by malicious third parties.
 
@@ -73,17 +91,15 @@ thumbnail: https://thmb.techidaily.com/a3e20ff499d2255356072c9a430207e141738c946
  With those steps completed, you're almost done with the setup process. The last step is to activate the GPT for Sheets and Docs extension. To do this, navigate to **Extensions > GPT for Sheets and Docs > Enable GPT functions**​​​​​​.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Can You Do With GPT-Powered Google Sheets?
 
  Are you done setting up the Google Sheets extension? What exciting things can you do with GPT-powered Google Sheets?
 
  Well, the possibilities are endless.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Generate Text
 
  With GPT-powered Google Sheets, you can use regular ChatGPT prompts and get similar replies to ChatGPT right within Google Sheets. For instance, if you want to populate cell C3 with a story about Snapchat, you could type the formula **\=GPT("Write a short story about Snapchat")** right inside the cell.
@@ -96,31 +112,23 @@ Screenshot was taken by the author, Maxwell Timothy
 
 ![Run GPT functions by cell reference](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-gpt-functions-by-cell-reference.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Of course, we are dealing with a spreadsheet, so you probably need your results to span multiple cells. To do that, you can use the **\=GPT\_LIST** function. An example could be **\=GPT\_LIST("write five creative taglines for an ice-cream shop")** or **\=GPT\_LIST(A1)**.
 
 ![multi-cell response in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/multi-cell-response-in-gpt-for-sheets.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Translate Text
 
  With the GPT for Sheets and Docs extension, you can use [ChatGPT translation prompts](https://www.makeuseof.com/how-to-translate-with-chatgpt/) within Google Sheets. You can achieve this using the **GPT\_TRANSLATE** function or wrapping a typical ChatGPT translation prompt around the base GPT function. This could be in the form of **\=GPT(" translate 'Bonjour' to English ")** or **GPT\_TRANSLATE(\[text\_to\_translate\], \[target\_language\], \[source\_language\])**.
 
 ![translating with GPT on Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/translating-with-gpt-on-sheets.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Summarize Text
 
  To summarize text, you can either wrap a summarization prompt with the base =GPT function or use the **\=GPT\_SUMMARIZE** function. For instance, **\=GPT\_SUMMARIZE(C44)** will summarize the content of cell C44 into the active cell.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Classify Text
 
@@ -142,18 +150,16 @@ Screenshot was taken by the author, Maxwell Timothy
 
  When working on a spreadsheet, some formatting is a bit too loosely defined or arbitrary for Google Sheets to replicate. For cases like this, the **\=GPT\_FILL** can be a lifesaver. To use the function, demonstrate a few examples of what you need to be done and invoke the **\=GPT\_FILL** to copy the formatting. Below is a video that demonstrates how to use the function.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Extract Data
 
  If you are working with a lot of mixed-up data or text, you can extract certain data types into assigned cells using the **\=GPT\_EXTRACT** function. For instance, you could paste a CSV file in cell B23 and use **\=GPT\_EXTRACT(B48, C48)** to extract email addresses from the CSV text to the current cell. In the function, the C48 references a cell that contains the data type to extract, in this case, email addresses.
 
 ![Data Extraction using GPT functions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/data-extraction-using-gpt-functions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Boost Your Productivity With ChatGPT Prompts in Google Sheets
 
  If you are a fan of ChatGPT and Google Sheets, you'll find GPT for Sheets and Docs a useful addition to your productivity tools. With it, you can do the things you'd typically do with ChatGPT in your spreadsheets.
@@ -166,14 +172,11 @@ Screenshot was taken by the author, Maxwell Timothy
 
  Sounds good, right? Here's how to integrate GPT technology into Google Sheets and get your spreadsheet done effortlessly.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -182,4 +185,26 @@ Screenshot was taken by the author, Maxwell Timothy
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-cybernetic-cinema-the-future-screen/"><u>[New] 2024 Approved Cybernetic Cinema The Future Screen</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-efficient-techniques-for-modifying-playback-rate-of-tracks/"><u>[New] Efficient Techniques for Modifying Playback Rate of Tracks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-ultimate-list-5-social-networks-like-twitter/"><u>[New] In 2024, Ultimate List 5 Social Networks Like Twitter</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unleashing-full-potential-phone-and-gear-vr-harmony/"><u>[New] Unleashing Full Potential Phone and Gear VR Harmony</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-radiance-visionaries-report-on-studio-25-2023/"><u>[Updated] 2024 Approved Radiance Visionaries Report on Studio 25, 2023</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-bebops-visionary-feathered-future-examined/"><u>2024 Approved Bebop's Visionary Feathered Future Examined</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-secretive-accessory-rollout-captivates-tech-enthusiasts-with-character-rich-designs-insights-from-zdnets-latest-article/"><u>Apple's Secretive Accessory Rollout Captivates Tech Enthusiasts with Character-Rich Designs | Insights From ZDNet’s Latest Article</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/asset-authorship-who-responsible-for-ais-intellectual-works/"><u>Asset Authorship: Who Responsible For AI's Intellectual Works?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-interview-readiness-with-chatgpt-insights/"><u>Boost Interview Readiness with ChatGPT Insights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-transforming-followers-into-loyalists-with-instagram-videos/"><u>In 2024, Transforming Followers Into Loyalists with Instagram Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-apple-vision-pro-demos-upgrades-insights-and-how-to-secure-your-spot-techspot/"><u>Mastering Apple Vision Pro Demos: Upgrades, Insights & How to Secure Your Spot | TechSpot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meta-quest-3-vs-apple-vision-pro-showdown-unpacking-zuckerbergs-insights-a-closer-look/"><u>Meta Quest 3 Vs. Apple Vision Pro Showdown: Unpacking Zuckerberg’s Insights - A Closer Look</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-export-transferring-your-chatgpt-records/"><u>Navigating the Export: Transferring Your ChatGPT Records</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/schritt-fur-schritt-anleitung-zum-erstellen-und-wiederherstellen-des-del-factory-images-auf-ihrem-gerat/"><u>Schritt-Für-Schritt-Anleitung Zum Erstellen Und Wiederherstellen Des Del-Factory-Images Auf Ihrem Gerät</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-steam-launch-for-the-playstation-pc/"><u>Seamless Steam Launch: For the PlayStation PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-resolving-missing-d3dx939dll-issue/"><u>Solution Steps for Resolving MISSING D3DX9_39.dll Issue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-cell-phone-bargains-on-the-4th-of-july-find-your-perfect-match-techradar/"><u>Top Cell Phone Bargains on the 4Th of July: Find Your Perfect Match | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-education-through-ai-top-student-centric-applications-of-chatgpt/"><u>Transforming Education Through AI: Top Student-Centric Applications of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-your-display-game-with-apple-vision-pro-top-tips-for-scheduling-an-unbeatable-demo-zdnet/"><u>Upgrade Your Display Game with Apple Vision Pro - Top Tips for Scheduling an Unbeatable Demo | ZDNET</u></a></li>
+</ul></div>
 

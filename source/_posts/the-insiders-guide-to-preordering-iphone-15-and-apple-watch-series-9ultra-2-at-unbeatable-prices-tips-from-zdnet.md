@@ -1,7 +1,7 @@
 ---
 title: The Insider's Guide to Preordering iPhone 15 and Apple Watch Series 9/Ultra 2 at Unbeatable Prices – Tips From ZDNET
-date: 2024-12-30T06:19:20.072Z
-updated: 2025-01-06T10:51:25.941Z
+date: 2025-01-09T21:43:37.917Z
+updated: 2025-01-12T16:10:32.034Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ The Apple Watch Series 10 starts at $399 for GPS and $499 for cellular. It comes
 This [Best Buy deal](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-series-10-gps-42mm-aluminum-case-with-black-sport-band-s-m-jet-black%2F6572678.p%3FskuId%3D6572678&publisher_slug=itechdaily19598&exclusive=1) only applies to the aluminum Apple Watch Series 10\. (You can also find [deals on the new iPhone 16](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,16 +71,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-step-by-step-tutorial-to-design-unique-youtube-thumbnails/"><u>[New] In 2024, Step-by-Step Tutorial to Design Unique YouTube Thumbnails</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-backdrop-bassline-tunes-to-enhance-media-for-2024/"><u>[Updated] Backdrop Bassline Tunes to Enhance Media for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1-ultimate-guide-restoring-factory-settings-on-airpods-tips-and-timing-insights/"><u>1. Ultimate Guide: Restoring Factory Settings on AirPods – Tips & Timing Insights</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-manual-on-morphvox-sound-alteration/"><u>2024 Approved Comprehensive Manual on MorphVOX Sound Alteration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/26-inbox-perfection-free-ai-email-assistance-at-its-peak/"><u>26 Inbox Perfection: Free AI Email Assistance at Its Peak</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-critical-review-of-the-metaphor-describing-the-internet-as-a-giant-library-for-scholars/"><u>A Critical Review of the Metaphor Describing the Internet as a 'Giant Library' For Scholars</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-timeline-to-artificial-intelligences-beginnings/"><u>A Timeline to Artificial Intelligence's Beginnings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721410096261-avoid-data-theft-expose-fraudulent-chatgpt-sites-now/"><u>Avoid Data Theft: Expose Fraudulent ChatGPT Sites Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721416514954-innovative-mobile-search-bings-ai-for-everyday-use/"><u>Innovative Mobile Search - Bing’s AI for Everyday Use</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/precision-zooming-the-key-to-clear-microsoft-teams-sessions/"><u>Precision Zooming The Key to Clear Microsoft Teams Sessions</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/six-essential-dependencies-every-project-manager-must-master/"><u>Six Essential Dependencies Every Project Manager Must Master</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-outshine-others-expert-tips-on-making-youtube-shorts-pop/"><u>[New] In 2024, Outshine Others Expert Tips on Making YouTube Shorts Pop</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-rhythm-and-reels-for-music-masters-on-ig/"><u>[Updated] In 2024, Rhythm & Reels for Music Masters on IG</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-rated-apps-for-capturing-and-saving-videos-online/"><u>[Updated] Top-Rated Apps for Capturing & Saving Videos Online</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unpacking-xmedia-suite-review-all-you-need-to-know-for-2024/"><u>[Updated] Unpacking XMedia Suite Review All You Need to Know for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/achieve-job-targets-6-creative-chatgpt-applications/"><u>Achieve Job Targets: 6 Creative ChatGPT Applications</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tifying-the-mechanics-of-youtube-studio/"><u>Demystifying the Mechanics of YouTube Studio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-craft-nfts-with-minimal-exertion/"><u>In 2024, How to Craft NFTs with Minimal Exertion</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/instant-insight-snapshots-for-windows-enthusiasts/"><u>Instant Insight Snapshots for Windows Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/massive-savings-in-tech-gadgets-grab-the-new-ipad-10gen-for-just-334-enjoy-ultra-hd-with-roku-4k-and-charge-smartly-with-anker-deals/"><u>Massive Savings in Tech Gadgets: Grab the New iPad 10Gen for Just $334, Enjoy Ultra HD with Roku 4K, and Charge Smartly With Anker Deals!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-chatgpt-experience-on-macos/"><u>Maximizing ChatGPT Experience on macOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-engagement-with-these-exceptional-5-ai-tools/"><u>Optimizing Engagement with These Exceptional 5 AI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preventing-data-spills-in-workplace-chatgpt/"><u>Preventing Data Spills in Workplace ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sculpting-serenity-customized-zen-habits-powered-by-gpt/"><u>Sculpting Serenity: Customized Zen Habits Powered by GPT</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/viewsplit-diagnostics/"><u>ViewSplit Diagnostics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-human-touch-still-beats-ai-messaging-solutions/"><u>Why Human Touch Still Beats AI Messaging Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/your-chatgpt-records-made-easy-with-these-tools/"><u>Your ChatGPT Records Made Easy with These Tools</u></a></li>
 </ul></div>
 

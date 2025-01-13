@@ -1,7 +1,7 @@
 ---
 title: "Embrace AI Wellness: Top 9 Ways with ChatGPT"
-date: 2024-09-06T23:30:19.407Z
-updated: 2024-09-07T23:30:19.407Z
+date: 2025-01-08T18:23:40.257Z
+updated: 2025-01-12T18:54:53.292Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Embrace AI Wellness: Top 9 Ways with ChatGPT"
 thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e7e323acfc8d381ef1640599.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Embrace AI Wellness: Top 9 Ways with ChatGPT
 
 ### Key Takeaways
@@ -48,11 +42,9 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 ![Screenshot ofChatGPT response to exercise prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-ofchatgpt-response-to-exercise-prompt.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The AI chatbot generates a series of solid workout plans that don’t sound too different from the advice you might get in some of those great [workout apps you’ll stick with for the long haul](https://www.makeuseof.com/best-workout-apps/).
 
  Although general questions will yield general answers, you can always respond with further prompts. Remember, the more specific your question, the more tailored to your needs the answers are likely to be. It’s definitely worth learning [how to write effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) to get the most out of your interaction with the tool.
@@ -61,12 +53,6 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
  However, ChatGPT could be a great source of initial advice if you're just after a general workout plan.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Use ChatGPT to Get Advice on Meal Plans or Find New Recipes
 
  Although everyone knows the importance of eating healthily for well-being, your busy lifestyle might mean you get stuck in a rut with meal choices. You could break free of this by downloading one of the [best healthy eating apps](https://www.makeuseof.com/best-healthy-eating-apps/) or consulting [meal planning websites](https://www.makeuseof.com/meal-planning-sites-to-make-cooking-simple/).
@@ -82,11 +68,9 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
  However, for general advice and some unusual recipe ideas, you can enjoy seeing what ChatGPT suggests for your next meal.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use ChatGPT to Help You Develop Wellness Habits
 
  While you can use [ChatGPT for your home productivity routines](https://www.makeuseof.com/use-chatgpt-home-productivity/), what about personal routines? You can use AI to help you form good habits in practically any aspect of your personal care.
@@ -97,24 +81,12 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
 ![Screenshot of ChatGPT response to forming good sleep habits prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-forming-good-sleep-habits-prompt.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Use ChatGPT for Mindfulness and Meditation
 
  If you like the idea of meditation but not the reality of joining a class or practicing in front of strangers, ChatGPT can prove a great tool for giving you mindfulness and meditation ideas. Depending on your needs, you could ask for techniques for meditation or even phrases to help you to be mindful. For example, the simple prompt, “Provide some ideas for a mindful moment,” gave me excellent practical advice, such as breathing, walking in nature, and mindful eating.
 
 ![Screenshot of ChatGPT response to meditation information prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-meditation-information-prompt.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Use ChatGPT for Journaling Prompts
 
  Journaling is a highly effective way to practice mindfulness. There are many [effective techniques to use in your digital gratitude journaling](https://www.makeuseof.com/digital-gratitude-journaling-effective-techniques/), and ChatGPT can help you to deploy these, providing prompts to help you get started without that “blank page terror.”
@@ -122,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
  I asked ChatGPT, “What are some prompts for gratitude journaling?” and received a series of ideas that anyone could use to get started with the practice of gratitude journaling, such as writing down three things I am grateful for today, something beautiful I have noticed in nature, or a moment of joy or laughter. It sounds simple, but there’s no need to complicate it any further. All you need is a starting point for reflection, and ChatGPT does a fine job.
 
 ![Screenshot of ChatGPT response to journaling prompt question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-journaling-prompt-question.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Use ChatGPT as a Medical Symptom Checker
 
@@ -133,18 +109,6 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
  As the technology and the AI database develops continually, there are many [reasons to consider using ChatGPT for health advice](https://www.makeuseof.com/reasons-consider-using-chatgpt-health-advice/). Of course, you must verify any health advice provided in this manner, so here’s [how to fact-check health information from ChatGPT and AI sources](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/).
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Use ChatGPT to Understand and Manage Medications
 
  Although important for managing your medical condition or illness, medication can be very harmful if not managed correctly. This can often be a challenge, especially if you’re juggling multiple medications, but ChatGPT can help.
@@ -155,24 +119,6 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
 ![Screenshot of ChatGPT response to medication information request](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-medication-information-request.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Use ChatGPT for Mental Health Support
 
  Getting help for mental health issues can be a challenge. Services where you live may be difficult to access, or you may not be well enough to take the brave step of asking for support.
@@ -183,12 +129,6 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
  You must be aware of the limitations of this and all medical interactions with ChatGPT. For all its potential benefits, there are some valid [reasons why you shouldn’t trust ChatGPT for medical advice](https://www.makeuseof.com/reasons-you-shouldnt-trust-chatgpt-medical-advice/).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Can Be a Valuable Tool for Health and Wellness
 
  Although ChatGPT has many varied uses in health and wellness, it’s most effective when used as an information resource that you can interact with for answers and solutions tailored to your specific needs. And if you’re embarrassed about asking for help with any aspect of your health, ChatGPT could be a perfect first port of call.
@@ -234,11 +174,9 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 ![Screenshot of ChatGPT response to meal plan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-meal-plan-prompt.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There are drawbacks, of course. Global variations can make a huge difference in the availability and cost of available ingredients. More importantly, you can’t guarantee the accuracy of everything the AI chatbot generates. Since your health rests on good nutritional intake, you should consult a professional if you have any concerns at all.
 
  However, for general advice and some unusual recipe ideas, you can enjoy seeing what ChatGPT suggests for your next meal.
@@ -253,24 +191,12 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
 ![Screenshot of ChatGPT response to forming good sleep habits prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-forming-good-sleep-habits-prompt.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Use ChatGPT for Mindfulness and Meditation
 
  If you like the idea of meditation but not the reality of joining a class or practicing in front of strangers, ChatGPT can prove a great tool for giving you mindfulness and meditation ideas. Depending on your needs, you could ask for techniques for meditation or even phrases to help you to be mindful. For example, the simple prompt, “Provide some ideas for a mindful moment,” gave me excellent practical advice, such as breathing, walking in nature, and mindful eating.
 
 ![Screenshot of ChatGPT response to meditation information prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-meditation-information-prompt.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Use ChatGPT for Journaling Prompts
 
  Journaling is a highly effective way to practice mindfulness. There are many [effective techniques to use in your digital gratitude journaling](https://www.makeuseof.com/digital-gratitude-journaling-effective-techniques/), and ChatGPT can help you to deploy these, providing prompts to help you get started without that “blank page terror.”
@@ -278,6 +204,10 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
  I asked ChatGPT, “What are some prompts for gratitude journaling?” and received a series of ideas that anyone could use to get started with the practice of gratitude journaling, such as writing down three things I am grateful for today, something beautiful I have noticed in nature, or a moment of joy or laughter. It sounds simple, but there’s no need to complicate it any further. All you need is a starting point for reflection, and ChatGPT does a fine job.
 
 ![Screenshot of ChatGPT response to journaling prompt question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-journaling-prompt-question.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Use ChatGPT as a Medical Symptom Checker
 
@@ -289,12 +219,6 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
  As the technology and the AI database develops continually, there are many [reasons to consider using ChatGPT for health advice](https://www.makeuseof.com/reasons-consider-using-chatgpt-health-advice/). Of course, you must verify any health advice provided in this manner, so here’s [how to fact-check health information from ChatGPT and AI sources](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Use ChatGPT to Understand and Manage Medications
 
  Although important for managing your medical condition or illness, medication can be very harmful if not managed correctly. This can often be a challenge, especially if you’re juggling multiple medications, but ChatGPT can help.
@@ -305,12 +229,6 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
 ![Screenshot of ChatGPT response to medication information request](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-medication-information-request.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Use ChatGPT for Mental Health Support
 
  Getting help for mental health issues can be a challenge. Services where you live may be difficult to access, or you may not be well enough to take the brave step of asking for support.
@@ -321,18 +239,6 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
  You must be aware of the limitations of this and all medical interactions with ChatGPT. For all its potential benefits, there are some valid [reasons why you shouldn’t trust ChatGPT for medical advice](https://www.makeuseof.com/reasons-you-shouldnt-trust-chatgpt-medical-advice/).
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Can Be a Valuable Tool for Health and Wellness
 
  Although ChatGPT has many varied uses in health and wellness, it’s most effective when used as an information resource that you can interact with for answers and solutions tailored to your specific needs. And if you’re embarrassed about asking for help with any aspect of your health, ChatGPT could be a perfect first port of call.
@@ -347,18 +253,6 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
  Here are the top ways you can use ChatGPT for your health and well-being.
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Use ChatGPT to Create a Workout Plan
 
  Before committing to an expensive gym membership or engaging the help of a personal trainer, it’s worth exploring [whether ChatGPT can design a safe and effective workout plan for you](https://www.makeuseof.com/can-chatgpt-design-safe-effective-workout-plans/).
@@ -393,12 +287,6 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
  However, for general advice and some unusual recipe ideas, you can enjoy seeing what ChatGPT suggests for your next meal.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Use ChatGPT to Help You Develop Wellness Habits
 
  While you can use [ChatGPT for your home productivity routines](https://www.makeuseof.com/use-chatgpt-home-productivity/), what about personal routines? You can use AI to help you form good habits in practically any aspect of your personal care.
@@ -410,29 +298,9 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 ![Screenshot of ChatGPT response to forming good sleep habits prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-forming-good-sleep-habits-prompt.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 4\. Use ChatGPT for Mindfulness and Meditation
 
  If you like the idea of meditation but not the reality of joining a class or practicing in front of strangers, ChatGPT can prove a great tool for giving you mindfulness and meditation ideas. Depending on your needs, you could ask for techniques for meditation or even phrases to help you to be mindful. For example, the simple prompt, “Provide some ideas for a mindful moment,” gave me excellent practical advice, such as breathing, walking in nature, and mindful eating.
@@ -440,11 +308,9 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 ![Screenshot of ChatGPT response to meditation information prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-meditation-information-prompt.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Use ChatGPT for Journaling Prompts
 
  Journaling is a highly effective way to practice mindfulness. There are many [effective techniques to use in your digital gratitude journaling](https://www.makeuseof.com/digital-gratitude-journaling-effective-techniques/), and ChatGPT can help you to deploy these, providing prompts to help you get started without that “blank page terror.”
@@ -453,40 +319,20 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
 ![Screenshot of ChatGPT response to journaling prompt question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-journaling-prompt-question.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Use ChatGPT as a Medical Symptom Checker
 
  ChatGPT can be used as a virtual symptom checker to help you identify and interpret any health symptoms and provide guidance on your next steps. It can help you decide whether you should seek medical attention and even provide suggestions for self-care measures you may wish to consider first, such as over-the-counter medications.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Use ChatGPT to Get Health Advice
 
  ChatGPT can give you access to a vast range of medical information beyond simply checking symptoms. You can ask specific questions and get advice tailored to your individual health needs. Since this instant database is available free of charge from your own home, without requiring you to make appointments and consult medical experts, it brings the further advantage of relieving strain on medical services.
 
  As the technology and the AI database develops continually, there are many [reasons to consider using ChatGPT for health advice](https://www.makeuseof.com/reasons-consider-using-chatgpt-health-advice/). Of course, you must verify any health advice provided in this manner, so here’s [how to fact-check health information from ChatGPT and AI sources](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Use ChatGPT to Understand and Manage Medications
 
  Although important for managing your medical condition or illness, medication can be very harmful if not managed correctly. This can often be a challenge, especially if you’re juggling multiple medications, but ChatGPT can help.
@@ -508,11 +354,9 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
  You must be aware of the limitations of this and all medical interactions with ChatGPT. For all its potential benefits, there are some valid [reasons why you shouldn’t trust ChatGPT for medical advice](https://www.makeuseof.com/reasons-you-shouldnt-trust-chatgpt-medical-advice/).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Can Be a Valuable Tool for Health and Wellness
 
  Although ChatGPT has many varied uses in health and wellness, it’s most effective when used as an information resource that you can interact with for answers and solutions tailored to your specific needs. And if you’re embarrassed about asking for help with any aspect of your health, ChatGPT could be a perfect first port of call.
@@ -527,12 +371,6 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
  Here are the top ways you can use ChatGPT for your health and well-being.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Use ChatGPT to Create a Workout Plan
 
  Before committing to an expensive gym membership or engaging the help of a personal trainer, it’s worth exploring [whether ChatGPT can design a safe and effective workout plan for you](https://www.makeuseof.com/can-chatgpt-design-safe-effective-workout-plans/).
@@ -564,11 +402,9 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 ![Screenshot of ChatGPT response to meal plan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-meal-plan-prompt.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There are drawbacks, of course. Global variations can make a huge difference in the availability and cost of available ingredients. More importantly, you can’t guarantee the accuracy of everything the AI chatbot generates. Since your health rests on good nutritional intake, you should consult a professional if you have any concerns at all.
 
  However, for general advice and some unusual recipe ideas, you can enjoy seeing what ChatGPT suggests for your next meal.
@@ -583,18 +419,6 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
 ![Screenshot of ChatGPT response to forming good sleep habits prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-forming-good-sleep-habits-prompt.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Use ChatGPT for Mindfulness and Meditation
 
  If you like the idea of meditation but not the reality of joining a class or practicing in front of strangers, ChatGPT can prove a great tool for giving you mindfulness and meditation ideas. Depending on your needs, you could ask for techniques for meditation or even phrases to help you to be mindful. For example, the simple prompt, “Provide some ideas for a mindful moment,” gave me excellent practical advice, such as breathing, walking in nature, and mindful eating.
@@ -613,12 +437,6 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
  ChatGPT can be used as a virtual symptom checker to help you identify and interpret any health symptoms and provide guidance on your next steps. It can help you decide whether you should seek medical attention and even provide suggestions for self-care measures you may wish to consider first, such as over-the-counter medications.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Use ChatGPT to Get Health Advice
 
  ChatGPT can give you access to a vast range of medical information beyond simply checking symptoms. You can ask specific questions and get advice tailored to your individual health needs. Since this instant database is available free of charge from your own home, without requiring you to make appointments and consult medical experts, it brings the further advantage of relieving strain on medical services.
@@ -643,34 +461,19 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
 ![Screenshot of ChatGPT response to mental health question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-mental-health-question.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You must be aware of the limitations of this and all medical interactions with ChatGPT. For all its potential benefits, there are some valid [reasons why you shouldn’t trust ChatGPT for medical advice](https://www.makeuseof.com/reasons-you-shouldnt-trust-chatgpt-medical-advice/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Can Be a Valuable Tool for Health and Wellness
 
  Although ChatGPT has many varied uses in health and wellness, it’s most effective when used as an information resource that you can interact with for answers and solutions tailored to your specific needs. And if you’re embarrassed about asking for help with any aspect of your health, ChatGPT could be a perfect first port of call.
 
  Exercise caution, however. ChatGPT is not an error-free tool, and it’s certainly not a replacement for the personal advice you can get from a trained medical professional, dietitian, or counselor. That’s why you must always fact-check any recommendations it provides with verified sources, and for serious medical conditions, consult a qualified medical professional.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -679,4 +482,18 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-ultimate-webcam-users-guide-for-quality-recordings/"><u>[New] In 2024, The Ultimate WebCam User's Guide for Quality Recordings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-syncing-muted-voices-with-obs-streams-for-2024/"><u>[New] Syncing Muted Voices with OBS Streams for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-true-story-of-youtube-earnings-and-viewer-volume-requirements/"><u>[Updated] The True Story of YouTube Earnings and Viewer Volume Requirements</u></a></li>
+<li><a href="https://games-able.techidaily.com/access-advantages-analysis-game-pass-versus-playstation-essentials/"><u>Access Advantages Analysis: Game Pass Versus PlayStation Essentials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-secretive-accessory-rollout-captivates-tech-enthusiasts-with-character-rich-designs-insights-from-zdnets-latest-article/"><u>Apple's Secretive Accessory Rollout Captivates Tech Enthusiasts with Character-Rich Designs | Insights From ZDNet’s Latest Article</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-gpt-4s-role-in-7-cutting-edge-apps/"><u>Delving Into GPT-4's Role in 7 Cutting-Edge Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-top-practices-in-producing-trustworthy-video-product-reviews/"><u>In 2024, Top Practices in Producing Trustworthy Video Product Reviews</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808268225-oculus-controllers-failure-discover-the-fix-here/"><u>Oculus Controllers Failure? Discover the Fix Here</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-art-of-efficiently-managing-friends-list-on-facebook/"><u>The Art of Efficiently Managing Friends List on Facebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-presidents-day-blowout-sales-discounts-and-deals-on-amazon-walmart-best-buy-and-beyond-zdnet/"><u>Top President's Day Blowout Sales - Discounts & Deals on Amazon, Walmart, Best Buy & Beyond | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-reports-apples-transition-to-high-end-beats-accessories-replacing-beloved-finewoven-lineup/"><u>ZDNet Reports Apple's Transition to High-End Beats Accessories Replacing Beloved FineWoven Lineup</u></a></li>
+</ul></div>
 

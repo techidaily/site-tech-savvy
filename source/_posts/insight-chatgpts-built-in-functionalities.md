@@ -1,7 +1,7 @@
 ---
 title: "Insight: ChatGPT's Built-In Functionalities"
-date: 2025-01-04T07:47:32.839Z
-updated: 2025-01-06T02:14:53.627Z
+date: 2025-01-06T21:05:50.908Z
+updated: 2025-01-13T00:52:25.040Z
 tags:
   - chatgpt
   - open-ai
@@ -20,15 +20,15 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Are ChatGPT's Default Plugins?](https://coinrule.sjv.io/rqzonv)
 * [How to Use ChatGPT's Standard Plugins](https://turtlebeachus.sjv.io/vmebyo)
 * [How to Use ChatGPT's Plugins on Mobile](https://getlyla.pxf.io/ek9gkg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
  Using ChatGPT doesn't just involve basic fact-finding. GPT-4, ChatGPT's premium model, has some interesting extra plugins: DALL-E, Browsing, and Code Interpreter. So, how do these ChatGPT plugins work, and what can you get out of them?
 
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are ChatGPT's Default Plugins?
 
@@ -61,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
  If you don't have a ChatGPT Plus account, you won't be able to access these plugins. So, consider signing up for the $20 monthly premium plan if you want to overcome this barrier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Browse with Bing
@@ -92,23 +96,11 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 
 ![chatgpt-dalle output mouse next to river](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-dalle-output-mouse-next-to-river.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, we ask for changes.
 
 ![chatgpt-dalle mouse next to river changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-dalle-mouse-next-to-river-changed-colour.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Though we asked ChatGPT to keep the image identical aside from one change, it made the change but also changed almost everything else about the image. Keep this downside in mind when using this plugin.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Code Interpreter
 
@@ -128,7 +120,15 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 
 ![Screenshot of ChatGPT python code excerpt response in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-python-excerpt.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure you run whatever code is provided through a dedicated Python execution tool before implementing it. ChatGPT can make mistakes, so it's always best to run some checks on any data it gives you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use ChatGPT's Plugins on Mobile
 
@@ -141,7 +141,7 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 ![Screenshot of ChatGPT python interpreter in mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-python.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -169,19 +169,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-hacking-the-art-of-high-quality-twitch-video-captures-for-2024/"><u>[New] Hacking the Art of High-Quality Twitch Video Captures for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-simplifying-cinematics-in-filmora-answering-the-core-questions/"><u>[New] Simplifying Cinematics in Filmora Answering the Core Questions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-expert-asmrists-praised-by-insomniacs-for-2024/"><u>[Updated] Expert ASMRists Praised by Insomniacs for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/4-ai-checking-chatgpt-detector-tools-for-teachers-lecturers-and-bosses/"><u>4 AI-Checking ChatGPT Detector Tools for Teachers, Lecturers, and Bosses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-principles-of-ai-use-for-effective-editing-and-writing/"><u>7 Principles of AI Use for Effective Editing and Writing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-unconventional-chatgpt-ventures-and-their-returns/"><u>8 Unconventional ChatGPT Ventures and Their Returns</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-new-world-of-ai-discover-insights-in-these-9-communities/"><u>A New World of AI: Discover Insights in These 9 Communities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721389813844-chatgpt-takes-the-ios-stage/"><u>ChatGPT Takes the iOS Stage!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-logitech-brio-webcam-driver-suite-for-modern-windows-systems/"><u>Easy Installation: Logitech BRIO Webcam Driver Suite for Modern Windows Systems</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210932992-9781855843462-eurythmy-therapy/"><u>Eurythmy Therapy | Free Book</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-iphone-15-pro-max-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your iPhone 15 Pro Max without Security Questions?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721366503700-unveiling-the-power-of-search-bings-ai-enters-your-devices/"><u>Unveiling the Power of Search: Bing's AI Enters Your Devices.</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-xiaomi-redmi-13c-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Xiaomi Redmi 13C Phone Network-Ready</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-srt-file-open-srt-file-on-windows-or-mac/"><u>[New] SRT File Open SRT File on Windows or Mac</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-tailored-techniques-for-logging-high-quality-roblox-sessions-on-a-mac-for-2024/"><u>[New] Tailored Techniques for Logging High-Quality Roblox Sessions on a Mac for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-encompass-entire-webpage-in-view-for-2024/"><u>[Updated] Encompass Entire Webpage in View for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-superb-phone-video-and-photo-capturing-with-best-apps-list/"><u>[Updated] Superb Phone Video & Photo Capturing with Best Apps List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-comprehensive-guide-to-upgrading-your-systems-bios-on-windows-11/"><u>A Comprehensive Guide to Upgrading Your System's BIOS on Windows 11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/channel-elevation-strategy-quickly-reach-your-10k-view-quota-for-2024/"><u>Channel Elevation Strategy – Quickly Reach Your 10K View Quota for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-guide-enabling-minecraft-singleplayer-mode-in-windows-11/"><u>Complete Guide: Enabling Minecraft Singleplayer Mode in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-vpns-understanding-their-role-in-protecting-your-digital-life/"><u>Demystifying VPNs: Understanding Their Role in Protecting Your Digital Life</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-and-complete-instructions-on-upgrading-to-the-latest-windows-operating-system/"><u>Easy & Complete Instructions on Upgrading to the Latest Windows Operating System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-installation-guide-for-directx-on-windows-11-and-10-quickly-done/"><u>Easy Installation Guide for DirectX on Windows 11 & 10 – Quickly Done</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-steps-to-clear-temp-files-in-windows-11-complete-guide/"><u>Effective Steps to Clear Temp Files in Windows 11 - Complete Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-cross-platform-play-a-quick-guide-to-enjoying-ps4-titles-on-your-android-device-in-three-easy-steps/"><u>Effortless Cross-Platform Play: A Quick Guide to Enjoying PS4 Titles on Your Android Device in Three Easy Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-setup-how-to-pair-your-bluetooth-speaker-with-a-laptop-in-minutes/"><u>Effortless Setup: How to Pair Your Bluetooth Speaker with a Laptop in Minutes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-online-anonymity-with-tor-on-windows-11-a-comprehensive-guide/"><u>Enhancing Online Anonymity with Tor on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-vivo-g2-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Vivo G2 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/reducing-noise-sensitivity-in-logic-pro-mixes/"><u>Reducing Noise Sensitivity in Logic Pro Mixes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/revamping-reality-the-premier-11-instagram-edits-for-2024/"><u>Revamping Reality The Premier 11 Instagram Edits for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/solve-your-wow-ship-battles-essential-fixes-for-pc-game-crashes/"><u>Solve Your WoW Ship Battles: Essential Fixes for PC Game Crashes</u></a></li>
 </ul></div>
 

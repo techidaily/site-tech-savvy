@@ -1,7 +1,7 @@
 ---
 title: Insight Into Massive Computational Linguistics
-date: 2025-01-03T08:24:56.480Z
-updated: 2025-01-06T07:41:17.525Z
+date: 2025-01-11T18:31:56.284Z
+updated: 2025-01-12T20:25:52.373Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is a Large Language Model?
 
  In its simplest terms, an LLM is a massive database of text data that can be referenced to generate human-like responses to your prompts. The text comes from a range of sources and can amount to billions of words.
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 * **Social Media**: Social media represents a huge resource of natural language. LLMs use text from major platforms like Facebook, Twitter, and Instagram.
 
  Of course, having a huge database of text is one thing, but LLMs need to be trained to make sense of it to produce human-like responses. How it does this is what we cover next.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Do LLMs Work?
 
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 ![Screenshot of question about bats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-bats.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, it isn't infallible, and as this example shows, sometimes you will need to supply additional information to get the desired response.
@@ -68,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
  In this instance, we deliberately threw a bit of a curve ball to demonstrate how easily context is lost. But humans can misunderstand the context of questions too, and it only needs an extra prompt to correct the response.
 
 ![Screenshot of question about what type of wood is a bat made from](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-what-type-of-wood-is-a-bat-made-from.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To generate these responses, LLMs use a technique called natural language generation (NLG). This involves examining the input and using the patterns learned from its data repository to generate a contextually correct and relevant response.
 
@@ -80,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 ![woman frustrated at response from computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/woman-frustrated-at-response-from-computer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  LLMs represent an impressive technological achievement. But the technology is far from perfect, and there are still plenty of limitations as to what they can achieve. Some of the more notable of these are listed below:
@@ -98,13 +102,13 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
  Here are some of the most widely used LLMs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. GPT
 
  Generative Pre-trained Transformer (GPT) is perhaps the most widely known LLM. GPT-3.5 powers the ChatGPT platform used for the examples in this article, while the newest version, GPT-4, is available [through a ChatGPT Plus subscription](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Microsoft also uses the latest version [in its Bing Chat platform](https://www.makeuseof.com/chatgpt-vs-bing-chat-best-generative-ai-chatbot/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. LaMDA
 
@@ -115,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
  BERT stands for Bi-directional Encoder Representation from Transformers. The bidirectional characteristics of the model differentiate [BERT from other LLMs like GPT](https://www.makeuseof.com/what-is-bert-language-model-how-differ-gpt/).
 
  Plenty more LLMs have been developed, and offshoots are common from the major LLMs. As they develop, these will continue to grow in complexity, accuracy, and relevance. But what does the future hold for LLMs?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Future of LLMs
 
@@ -158,19 +158,18 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-maximize-impact-instagrams-ideal-video-resolution/"><u>2024 Approved Maximize Impact Instagram's Ideal Video Resolution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-innovative-neural-network-alternatives-eclipsing-chatgpts-mobile-version/"><u>8 Innovative Neural Network Alternatives Eclipsing ChatGPT's Mobile Version</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/acer-laptop-datainslag-6-wege-om-erfundeerde-bestandjes-te-herstructuren/"><u>Acer Laptop Datainslag: 6 Wege Om Erfundeerde Bestandjes Te Herstructuren</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721411412896-emoji-less-tweets-on-twitter-linuss-revelations-explored-trojan-explained-and-chatgpt-concerns-addressed/"><u>Emoji-Less Tweets on Twitter, Linus’s Revelations Explored, Trojan Explained, & ChatGPT Concerns Addressed.</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-to-fix-visible-issues-with-files-on-your-usb-stick-file-recovery-guide/"><u>How To Fix Visible Issues with Files on Your USB Stick - File Recovery Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-10-best-free-video-conference-app-for-android-and-iphone/"><u>In 2024, 10 Best Free Video Conference App for Android and iPhone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximize-your-ipads-potential-with-top-rated-productivity-tools-as-featured-by-zdnet/"><u>Maximize Your iPad's Potential with Top-Rated Productivity Tools as Featured by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721433423007-not-a-substitute-for-professional-medical-guidance-ai/"><u>Not a Substitute for Professional Medical Guidance, AI!</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/auen-uncovering-hidden-shorts-content/"><u>Overhauen Uncovering Hidden Shorts Content</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/quick-tips-for-overcoming-adobe-premieres-srt-export-issues-for-2024/"><u>Quick Tips for Overcoming Adobe Premiere's SRT Export Issues for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-nokia-c12-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Nokia C12 Pro without backup.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/topmost-free-substitutes-for-microsoft-office/"><u>Topmost Free Substitutes for Microsoft Office</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721434343266-twitter-strips-emojis-linuss-secrets-exposed-trojan-threats-unveiled-and-chatbot-pitfalls/"><u>Twitter Strips Emojis, Linus's Secrets Exposed, Trojan Threats Unveiled, & ChatBot Pitfalls</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721434632646-unleash-bings-ai-now-available-for-both-ios-and-android/"><u>Unleash Bing's AI: Now Available for Both iOS & Android.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/behind-the-scenes-with-bots-understanding-censorship-practices/"><u>Behind the Scenes with Bots: Understanding Censorship Practices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/transcription-aid-for-your-youtube-videos-for-2024/"><u>Best Transcription Aid for Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cut-the-red-tape-speak-to-chatgpt/"><u>Cut the Red Tape – Speak to ChatGPT!</u></a></li>
+<li><a href="https://facebook.techidaily.com/exiting-friendships-removing-someone-from-your-feed/"><u>Exiting Friendships: Removing Someone From Your Feed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correct-a-failing-windows-10-update-process-expert-tips-for-users-resolved/"><u>How to Correct a Failing Windows 10 Update Process - Expert Tips for Users [RESOLVED]</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tech-gossip-delving-into-the-details-of-the-hyped-tesla-phone-projected-costs-and-potential-specs-uncovered/"><u>Tech Gossip: Delving Into the Details of the Hyped Tesla Phone – Projected Costs and Potential Specs Uncovered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dialogue-showdown-chatgpt-vs-bings-bot/"><u>The Dialogue Showdown: ChatGPT Vs. Bing's Bot</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-strategies-for-utilizing-auto-gtp/"><u>Top Strategies for Utilizing Auto-GTP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unseen-content-undermines-trust-in-ai/"><u>Unseen Content Undermines Trust in AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-titans-comparative-study-of-notion-and-chatgpt/"><u>Unveiling the Titans: Comparative Study of Notion and ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-to-look-out-for-in-bincoin-token-trading/"><u>What to Look Out For in BinCoin Token Trading</u></a></li>
 </ul></div>
 

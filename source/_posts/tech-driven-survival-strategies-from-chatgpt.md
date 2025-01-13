@@ -1,7 +1,7 @@
 ---
 title: Tech-Driven Survival Strategies From ChatGPT
-date: 2025-01-01T19:46:27.458Z
-updated: 2025-01-05T16:09:33.713Z
+date: 2025-01-08T19:00:07.584Z
+updated: 2025-01-13T01:38:33.398Z
 tags:
   - chatgpt
   - open-ai
@@ -31,26 +31,18 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Rely on ChatGPT in a Survival Situation?
 
 ![Man Carrying Camping Backpack Standing In-front of Tree](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-carrying-camping-backpack-standing-in-front-of-tree.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The rise of AI chatbots has taken the world by storm, and [generative AI can create fantastic art](https://www.makeuseof.com/how-create-ai-art-at-home/). You can also [use ChatGPT as a tool for creative writing](https://www.makeuseof.com/how-to-use-chatgpt-for-creative-writing/) or [employ AI to help detect faces in photographs](https://www.makeuseof.com/ai-cameras-object-detection-how-work/).
 
  And while [ChatGPT doesn't always tell the truth](https://www.makeuseof.com/does-chatgpt-lie/), it's no secret that [AI is replacing workers](https://www.makeuseof.com/can-chatgpt-replace-me/) across all sectors.
 
  So it's tempting while planning a wilderness vacation to eschew a trained guide and rely on ChatGPT to keep you safe in the great outdoors. But the question is, should you?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Fight Off a Bear
 
@@ -84,13 +76,13 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 
  We feel confident that at least one of these methods would work.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Survive the Night in a Blizzard With No Shelter
 
 ![an igloo style snow shelter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/an-igloo-style-snow-shelter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The weather's taken a turn for the worse, and having escaped the bears and enjoyed raw salmon for supper, you find yourself cold and afraid as high winds and snow whip around you. So you turn to your friendly chatbot for help.
 
@@ -108,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 
 ![Young Wolves Biting Each Other on Snow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/young-wolves-biting-each-other-on-snow-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Evading predators should always be high on your list while wilderness exploring, and ChatGPT's advice is similar to that offered when asked how to fight a bear.
 
  Broadly speaking, you should stay calm, not run, make yourself look big, and maintain eye contact. If the wolves begin to attack, ChatGPT advises using "any available objects as weapons to protect yourself. Focus on targeting their sensitive areas such as the eyes, nose, and throat."
@@ -119,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 **Rating: 4/10**
 
  We found the advice overly generic and showed a lack of understanding of how wolf packs hunt. ChatGPT also failed to mention that wolves are notoriously poor tree climbers and that by clambering up the nearest spruce, you can buy yourself some extra time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## There's a Dead Sheep in a Stream and No Other Water Source
 
@@ -133,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 **Rating: 3/10**
 
  Telling us to find another water source when we've explicitly stated there isn't one is not helpful. And while boiling water or using purification chemicals will kill bacteria, portable water filters won't. Additionally, ChatGPT failed to give the most obvious answer: move upstream of the dead sheep.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Help! I've Now Fallen Down an Abandoned Mineshaft in the Dark, and Can't Walk or Call for Help
 
@@ -165,6 +161,10 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 
  The best advice is to wait for rescue. It's a known fact that certain Collie breeds are attracted to mineshafts and have been known to bring help from settlements in the area.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You Can't Depend on ChatGPT in an Emergency
 
  ChatGPT's advice was middling at best. Most of the answers it gave were common sense, and in several cases, it completely ignored parts of the prompt.
@@ -192,19 +192,17 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/chatting-with-ai-androids-voice-controlled-gpt-explained/"><u>Cha[t]ting with AI? Android's Voice Controlled GPT Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparative-analysis-of-gpt-for-enterprises/"><u>Comparative Analysis of GPT for Enterprises</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cyber-savvy-needed-recognize-authenticity-in-tech-titles/"><u>Cyber Savvy Needed: Recognize Authenticity in Tech Titles!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/examining-the-prestige-of-chatgpt-premium/"><u>Examining the Prestige of ChatGPT Premium</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/google-palm-2-vs-openai-gpt-4-whats-the-difference/"><u>Google PaLM 2 Vs. OpenAI GPT-4: What's the Difference?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-budget-mastery-how-much-investment-needed/"><u>In 2024, Budget Mastery How Much Investment Needed?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-discover-the-top-mobile-photo-tools-for-your-iphoneandroid-device/"><u>In 2024, Discover the Top Mobile Photo Tools for Your iPhone/Android Device</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-applying-luts-in-obs-streaming/"><u>In 2024, The Ultimate Guide to Applying LUTs in OBS Streaming</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-edge-ai-methods-optimizing-internet-exploration/"><u>Leading-Edge AI Methods Optimizing Internet Exploration</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/time-lapse-made-easy-2-simple-methods-to-speed-up-your-videos-for-2024/"><u>Time Lapse Made Easy 2 Simple Methods to Speed Up Your Videos for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-toms-electronics-insights-a-guide-to-hardware-mastery/"><u>Unveiling Tom's Electronics Insights: A Guide to Hardware Mastery</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/webm-to-mp4-the-10-best-webm-to-mp4-converters/"><u>WebM to MP4 The 10 Best WebM to MP4 Converters</u></a></li>
-<li><a href="https://driver-download.techidaily.com/xbox-wireless-connectivity-made-simple-with-our-driver-downloads/"><u>Xbox Wireless Connectivity Made Simple with Our Driver Downloads</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-selfie-verification-everything-you-need-to-know/"><u>[New] In 2024, Instagram Selfie Verification - Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nobstructed-movie-magic-erasing-youtube-borders-for-2024/"><u>[New] Unobstructed Movie Magic Erasing YouTube Borders for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fine-tuning-virtual-presence-in-ms-teams/"><u>[Updated] Fine-Tuning Virtual Presence in MS Teams</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1-tailoring-your-microsoft-excel-a-step-by-step-guide-to-modifying-the-status-bar/"><u>1. Tailoring Your Microsoft Excel: A Step-by-Step Guide to Modifying the Status Bar</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/fixing-common-problems-with-youtube-app-on-android-phones-and-tablets/"><u>Fixing Common Problems with YouTube App on Android Phones & Tablets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-msi-audio-driver-downloads-for-windows-operating-system/"><u>Free MSI Audio Driver Downloads for Windows Operating System</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977226440-seamless-mediatek-vcom-driver-integration-download-options-inside/"><u>Seamless MediaTek VCOM Driver Integration: Download Options Inside</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stop-windows-update-installing-drivers-in-windows-11-solved/"><u>Stop Windows Update Installing Drivers in Windows 11 [Solved]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-hacks-adding-wireless-bluetooth-functionality-to-your-personal-computer/"><u>Tech Hacks: Adding Wireless Bluetooth Functionality to Your Personal Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-definitive-overview-of-superfetch-all-the-essentials-you-should-know/"><u>The Definitive Overview of SuperFetch: All the Essentials You Should Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-top-10-most-popular-torrent-sites-for-gaming-downloads/"><u>The Top 10 Most Popular Torrent Sites for Gaming Downloads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-walkthrough-to-offline-minecraft-gaming-on-windows-11-systems/"><u>The Ultimate Walkthrough to Offline Minecraft Gaming on Windows 11 Systems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Generative AI Decoded: Principles Simplified"
-date: 2025-01-02T00:18:39.314Z
-updated: 2025-01-05T20:36:23.116Z
+date: 2025-01-08T01:13:39.152Z
+updated: 2025-01-13T00:36:30.411Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Generative AI?
 
  Generative AI, short for "generative artificial intelligence," is a type of AI system that can generate unique or original content like text, audio, videos, or images on demand. Unlike some traditional AI systems designed for tasks like data classification or analysis, generative AI models are more concerned with producing novel or creative outputs based on the instructions they are given.
@@ -37,10 +33,6 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
  While generative AI may seem like a new technology, it has actually been around for decades. Several iterations and forms have been around at least as early as the 1960s. Artificial Intelligence is a vast field, and generative AI is just a subsection.
 
  One of the most fascinating aspects of using a [generative AI tool like ChatGPT or Google's Bard AI](https://www.makeuseof.com/chatgpt-vs-google-bard/) is the ability of these tools to generate content that matches your request. You ask ChatGPT to write a poem in the style of William Shakespeare, and you get something strikingly similar to Shakespeare's work. You ask it to create a speech in the style of Donald Trump, and you'd get something that impressively mimics the tone of the former US president. So, how is this possible? How is generative AI able to pull off such a fascinating feat?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Generative AI Works
 
@@ -59,17 +51,21 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
  There are hundreds of generative AI models currently in development or already being deployed in the consumer AI market. Some of the popular ones you should know of include:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Generative Pre-Trained Transformer (GPT)
 
 ![chatgpt 4 answer question on number of data points june 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-4-answer-question-on-number-of-data-points-june-2023.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  GPT, developed by OpenAI, is among the most recognizable names in the generative AI space. Its popularity hinges on its effectiveness as a conversational AI model and the viral success of the ChatGPT chatbot, which uses GPT as its underlying technology. It is a large language model designed to generate human-like text when prompted. Typical of any generative AI model, [all iterations of the GPT model](https://www.makeuseof.com/gpt-models-explained-and-compared/) have been trained on a massive amount of diverse text data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Pathways Language Model (PaLM)
@@ -79,6 +75,10 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 ### 3\. Music Language Model (MusicLM)
 
  MusicLM is another generative AI model from Google. It is designed to generate "high-fidelity" music from simple text prompts. Trained on thousands of hours of music across various genres, the generative model can create unique music by using simple descriptions of the music you need as inputs. If you're wondering how good it is, here's [our review of the MusicLM model](https://www.makeuseof.com/google-musiclm-overview-how-to-use/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. DALL-E
 
@@ -97,7 +97,7 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
  Generative AI tools such as Bing AI, Google's Bard, DALL-E, ChatGPT, and Midjourney have seamlessly woven themselves into the fabric of our daily lives, constantly presenting us with their remarkable creations. Whether it's the captivating write-ups crafted by ChatGPT or the astonishingly lifelike images conjured by Midjourney, generative AI has become an ever-present companion, accompanying us day in and day out. This is the genesis of the recent popularity of generative AI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Embrace Generative AI
@@ -121,16 +121,18 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-how-to-find-youtube-hidden-videos/"><u>[New] In 2024, How to Find YouTube Hidden Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-decoding-the-mysteries-of-effective-youtube-keywords/"><u>[Updated] Decoding the Mysteries of Effective YouTube Keywords</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bard-by-google-next-chapter-in-ai-evolution-after-gpt/"><u>Bard by Google: Next Chapter in AI Evolution After GPT</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/critique-on-microsofts-surface-duo-overpriced-with-persistent-glitches/"><u>Critique on Microsoft's Surface Duo: Overpriced with Persistent Glitches</u></a></li>
-<li><a href="https://discover-best.techidaily.com/elevate-conversions-and-analytics-optimized-using-insectusbot-technology/"><u>Elevate Conversions & Analytics: Optimized Using InsectusBot Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721405554846-free-gpt-4-for-everyone-nonetheless-select-plus-membership-continues-to-provide-unique-services/"><u>Free GPT-4 for Everyone; Nonetheless, Select Plus Membership Continues to Provide Unique Services.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intellectual-frontier-can-computers-triumph/"><u>Intellectual Frontier: Can Computers Triumph?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-new-voice-revolution-in-luxury-cars/"><u>The New VOICE Revolution in Luxury Cars</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-openais-shap-explainer/"><u>Understanding OpenAI's SHAP Explainer</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1728490468166-usb/"><u>USB メモリから失われたデータを取り戻せます！</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprendre-lintelligence-de-processus-comment-la-donnees-favorisent-lamelioration-des-performances/"><u>Comprendre L'Intelligence De Processus : Comment La Données Favorisent L'Amélioration Des Performances</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprendre-les-process-mining-et-le-task-mining-pour-une-meilleure-analyse-des-procedes-metier-un-qanda-dabbyy-avec-nelsonhall/"><u>Comprendre Les Process Mining Et Le Task Mining Pour Une Meilleure Analyse Des Procédés Métier : Un Q&A D'ABBYY Avec NelsonHall</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/continued-two-figure-expansion-abbyys-successful-annual-performance-over-three-years/"><u>Continued Two-Figure Expansion: ABBYY's Successful Annual Performance Over Three Years</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-driven-automation-enhancing-your-websites-engagement/"><u>Cookiebot-Driven Automation: Enhancing Your Website's Engagement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-driven-personalization-enhance-user-experience-with-smart-marketing/"><u>Cookiebot-Driven Personalization: Enhance User Experience with Smart Marketing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-enhance-your-sites-user-experience/"><u>Cookiebot-Enabled: Enhance Your Site's User Experience</u></a></li>
+<li><a href="https://win-studio.techidaily.com/efficacite-comparee-des-techniques-de-transfert-de-donnes-entre-disques-dur/"><u>Efficacité Comparée Des Techniques De Transfert De Donnés Entre Disques Dur</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/eliminate-digital-distractions-discover-the-top-8-chatgpt-triggers-for-enhanced-attention-span/"><u>Eliminate Digital Distractions: Discover the Top 8 ChatGPT Triggers for Enhanced Attention Span</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-fan-restart-procedures-unveiled/"><u>GPU Fan Restart Procedures Unveiled</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-xiaomi-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Xiaomi Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/inside-toms-gadget-garage-a-guide-to-modern-computing-equipment/"><u>Inside Tom's Gadget Garage: A Guide to Modern Computing Equipment</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-screen-recording-activating-dynamic-selection-tool-and-step-by-step-walkthrough/"><u>Mastering Screen Recording: Activating Dynamic Selection Tool & Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-modern-computing-toms-hardware-deep-dive/"><u>Unveiling the Secrets of Modern Computing: Tom's Hardware Deep Dive</u></a></li>
 </ul></div>
 

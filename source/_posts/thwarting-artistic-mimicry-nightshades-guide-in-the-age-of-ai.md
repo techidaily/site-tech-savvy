@@ -1,7 +1,7 @@
 ---
 title: "Thwarting Artistic Mimicry: Nightshade's Guide in the Age of AI"
-date: 2024-09-06T23:30:23.416Z
-updated: 2024-09-07T23:30:23.416Z
+date: 2025-01-08T21:06:02.517Z
+updated: 2025-01-12T20:59:59.878Z
 tags:
   - chatgpt
   - open-ai
@@ -13,31 +13,17 @@ excerpt: "This Article Describes Thwarting Artistic Mimicry: Nightshade's Guide 
 thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b39460885352e6b8c3f7846969574b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Thwarting Artistic Mimicry: Nightshade's Guide in the Age of AI
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is AI Poisoning?](https://natural-cycles.sjv.io/vmebmr)
 * [How to Use Nightshade](https://technitya.sjv.io/dkpn02)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Nightshade is an AI tool that "poisons" digital art, making it unusable for training AI models.
@@ -53,11 +39,9 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
  Stopping generative AI tools using copyright images to train is difficult, and artists from all walks of life have struggled to protect their work from AI training datasets. But now, that's all changing with the advent of Nightshade, a free AI tool built to poison the output of generative AI tools—and finally let artists take some power back.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is AI Poisoning?
 
  AI poisoning is the act of "poisoning" the training dataset of an AI algorithm. This is similar to providing wrong information to the AI on purpose, resulting in the trained AI malfunctioning or failing to detect an image. Tools like Nightshade alter the pixels in a digital image in such a manner that it appears to be completely different to the AI training on it, but largely unchanged from the original to the human eye.
@@ -65,11 +49,9 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 ![Robot Hand Holding Paintbrush Over Colorful Canvas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/robot-hand-holding-paintbrush.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-robot-ai-generate-art-mid-2294823599)
 
  For example, if you upload a poisoned image of a car to the internet, it will look the same to us humans, but an AI attempting to train itself to identify cars by looking at images of cars on the internet will see something completely different.
@@ -83,11 +65,9 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
  Compared to other digital artwork protection tools like Glaze, Nightshade is offensive. [Glaze prevents AI algorithms from mimicking](https://www.makeuseof.com/how-to-use-glaze-protect-art-from-ai/) the style of a particular image, while Nightshade changes the image's appearance to the AI. Both tools are built by Ben Zhao, Professor of Computer Science at the University of Chicago.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use Nightshade
 
  While the creator of the tool recommends Nightshade be used alongside Glaze, it can also be used as a standalone tool to protect your artwork. Using the tool is also fairly easy, considering there are only three steps to protecting your images with Nightshade.
@@ -105,6 +85,11 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 3. Select the image you want to protect by clicking the **Select** button in the top-left. You can also select multiple images at once for batch processing.  
 ![nightshade-program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/nightshade-program.jpg)
 4. Adjust the **Intensity** and **Render Quality** dials according to your preferences. Higher values add stronger poisoning but can also introduce artifacts in the output image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, click the **Save As** button under the **Output** section to select a destination for the output file.
 6. Click the **Run Nightshade** button at the bottom to run the program and poison your images.
 
@@ -120,8 +105,6 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +112,23 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-capturing-every-angle-how-to-post-360-photos-on-androidios-for-2024/"><u>[New] Capturing Every Angle How to Post 360 Photos on Android/iOS for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-strategies-for-earnings-on-youtube-revealing-minimum-view-targets/"><u>[New] In 2024, Strategies for Earnings on YouTube Revealing Minimum View Targets</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ultimate-ratio-breakdown-for-youtube-content-formats/"><u>[New] Ultimate Ratio Breakdown for YouTube Content Formats</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unlocking-the-potential-of-animation-in-your-screencasts/"><u>[New] Unlocking the Potential of Animation in Your Screencasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-transform-brainstorms-into-youtube-channel-names/"><u>[Updated] 2024 Approved How To Transform Brainstorms Into YouTube Channel Names</u></a></li>
+<li><a href="https://techtrends.techidaily.com/come-rimuovere-lo-sfondo-in-una-fotografia-con-facilita-guida-di-movavi/"><u>Come Rimuovere Lo Sfondo in Una Fotografia Con Facilità - Guida Di MOVAVI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-purpose-and-application-of-hugging-face-in-ai/"><u>Decoding the Purpose and Application of Hugging Face in AI</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/detailed-methods-to-convert-tiktok-melodies-into-phone-ringtones/"><u>Detailed Methods to Convert TikTok Melodies Into Phone Ringtones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-list-of-premier-prime-day-laptop-bargains-save-big-on-models-from-apple-razer-and-others-s-insider-scoop/"><u>Discover the Ultimate List of Premier Prime Day Laptop Bargains: Save Big on Models From Apple, Razer, and Others 'S Insider Scoop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-latest-features-top-5-must-try-innovations-on-the-new-ios-18-preview/"><u>Explore the Latest Features: Top 5 Must-Try Innovations on the New iOS 18 Preview</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-pro-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 Pro to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-for-total-life-enhancement/"><u>Mastering ChatGPT for Total Life Enhancement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/privacy-alert-how-to-disengage-from-chatgpt/"><u>Privacy Alert! How to Disengage From ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-playlist-sharing-between-apple-music-and-youtube-music/"><u>Seamless Playlist Sharing Between Apple Music and YouTube Music</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-to-camouflage-and-save-chatgpt-talks/"><u>Strategies to Camouflage and Save ChatGPT Talks</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Itel P40+ | Dr.fone</u></a></li>
+</ul></div>
 

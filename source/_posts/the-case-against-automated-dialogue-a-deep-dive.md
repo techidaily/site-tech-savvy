@@ -1,7 +1,7 @@
 ---
 title: "The Case Against Automated Dialogue: A Deep Dive"
-date: 2024-09-06T23:30:20.867Z
-updated: 2024-09-07T23:30:20.867Z
+date: 2025-01-06T17:23:29.163Z
+updated: 2025-01-12T22:24:14.834Z
 tags:
   - chatgpt
   - open-ai
@@ -24,11 +24,9 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
  But should we? Using AI technology for productivity, education, and entertainment makes sense. However, companies are now thinking about putting it directly in our messaging apps, and this can prove destructive. Here are seven reasons why.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. AI Chatbots Tend to Hallucinate
 
  If you've used [ChatGPT, Bing, or Bard](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/), you know that generative AI chatbots tend to "hallucinate." AI hallucination is when these chatbots make stuff up due to a lack of adequate training data on the query requested by the user.
@@ -37,12 +35,6 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 
  When put in messaging apps, the amount of harm it can do is even greater since people might use it to (intentionally or unintentionally) spread misinformation among their contacts and on social media, proliferate propaganda, and foster echo chambers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. People Don't Like Talking to Bots
 
 ![Small orange and silver robot sitting on carpeted floor with a laptop in front of it.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-1.jpg)
@@ -72,22 +64,18 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
 ![Man Texting on Mobile Phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/man-mobile.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Getting desired results from an AI chatbot heavily depends on the quality of your prompt. If you write a bad prompt, you're going to get a bad response and will have to refine the prompt until you get a satisfactory result.
 
  This process makes sense when you want to write long-form content but is extremely inefficient when writing multiple, short responses in an informal conversation.
 
  The time it might take to refine your prompts and get useable responses will be, in most cases, more than the time it would've taken you if you just wrote the messages yourself.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. AI May Produce Offensive Results
 
@@ -96,37 +84,27 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
  In other words, bias is baked into the system. AI doesn't inherently understand what's considered offensive and what's not, so it might, for instance, be trained to be biased against certain groups of people or certain cultures—hence producing offensive results in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. AI May Not Understand Sarcasm or Humor
 
  AI's understanding of figures of speech, such as irony and metaphor, is improving over time, but it's still far from being at a point where it can be used in a conversation to recognize humor. When asking Google's Bard to be sarcastic, for example, the results were hit-or-miss.
 
 ![Google Bard chatbot attempting to be sarcastic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-bard-chatbot-attempting-to-be-sarcastic.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In some cases, it was genuinely funny and played along with my sarcasm. But in other cases, it either defaulted back to an unfunny cookie-cutter response or simply refused to participate in the conversation altogether, saying that as it's just a LLM, it can't help me with my query.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Reliance on AI May Lead to Poor Communication
 
  Another subtle yet substantial problem with integrating generative AI into messaging apps is how it can affect our ability to communicate. If we increasingly rely on AI to converse with each other, it may hinder our ability to [train our emotional intelligence](https://www.makeuseof.com/ways-increase-your-emotional-intelligence/) and social skills.
 
  The point here is that the more we outsource our social needs to AI, the worse we will get at communicating ideas through organic means. In other words, the more you use AI to talk to your contacts, the more likely you may be to degrade the quality of your relationships.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Not Everything Needs to Have AI
 
  Oftentimes, with the advent of new technology, we are so busy figuring out how to use it that we fail to argue whether we should be using it in the first place.
@@ -137,14 +115,11 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
 
  But should we? Using AI technology for productivity, education, and entertainment makes sense. However, companies are now thinking about putting it directly in our messaging apps, and this can prove destructive. Here are seven reasons why.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,4 +128,24 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-guide-the-top-10-inexpensive-youtube-channels-for-visual-creators/"><u>[New] 2024 Approved Essential Guide The Top 10 Inexpensive YouTube Channels for Visual Creators</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-bringing-back-the-glitter-integrating-instagram-effects-to-past-media/"><u>[Updated] 2024 Approved Bringing Back the Glitter Integrating Instagram Effects to Past Media</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-comprehensive-review-of-syma-x8c/"><u>[Updated] 2024 Approved Comprehensive Review of Syma X8C</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adding-your-ca-drivers-license-to-apple-or-google-pay-a-comprehensive-walkthrough-for-residents/"><u>Adding Your CA Driver’s License to Apple or Google Pay: A Comprehensive Walkthrough for Residents</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-impact-on-psychological-well-being-prospects-and-challenges/"><u>AI's Impact on Psychological Well-Being: Prospects and Challenges</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-how-to-leverage-openais-apis-effectively/"><u>Discover How to Leverage OpenAI's APIs Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-doctor-patient-conversations-7-advantages-of-ai/"><u>Enhancing Doctor-Patient Conversations: 7 Advantages of AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-do-ai-driven-restrictions-shape-our-digital-communication/"><u>How Do AI-Driven Restrictions Shape Our Digital Communication?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-20c-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 20C to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/leading-non-zoom-remote-work-solutions-for-pc-and-mobile/"><u>Leading Non-Zoom Remote Work Solutions for PC & Mobile</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1576818-9781459726536-mysteries-of-ontario/"><u>Mysteries of Ontario | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-ai-world-with-these-essential-insights/"><u>Navigating the AI World with These Essential Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nonewsubs-when-will-chatgpt-welcome-again/"><u>NoNewSubs: When Will ChatGPT Welcome Again?</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-setting-up-your-printer-on-windows-via-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Setting Up Your Printer on Windows via Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210963450-9789357488938-the-religion-of-the-samurai/"><u>The Religion Of The Samurai | Free Book</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-6s-plus-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone 6s Plus Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-camera-duel-pixel-9xl-against-iphone-15-pro-stunning-results-and-a-shocking-twist/"><u>ZDNet's Camera Duel: Pixel 9XL Against iPhone 15 Pro - Stunning Results & a Shocking Twist!</u></a></li>
+</ul></div>
 

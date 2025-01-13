@@ -1,7 +1,7 @@
 ---
 title: Symbolic Financial Guidance
-date: 2024-09-06T23:30:23.450Z
-updated: 2024-09-07T23:30:23.450Z
+date: 2025-01-11T23:18:50.751Z
+updated: 2025-01-12T19:15:18.771Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Symbolic Financial Guidance
 thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c72eb15814464402850a760a.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Symbolic Financial Guidance
 
  Beware emoji financial advice! We take a look at perhaps the craziest tech news ever, attempt to decipher Spotify's latest NFT flirtation, explore digital currencies, and find out if ChatGPT will steal your job. We've also got some tips for keeping your robot vacuum clean.
@@ -30,17 +24,9 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -68,11 +54,9 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -100,11 +84,9 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -132,11 +114,9 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -158,15 +138,12 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 * [Scrawl Online](https://bigpotato.tv/)
 
  Christian Cawley and Gavin Phillips host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@gavinspavin](https://twitter.com/gavinspavin), with your suggestions for future topics.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,4 +152,26 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-step-by-step-guide-to-joining-and-initiating-zoom-meetings-on-android/"><u>[New] In 2024, Step-By-Step Guide to Joining & Initiating Zoom Meetings on Android</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-acid-pro-evaluation-finding-reliable-counterparts/"><u>[Updated] In 2024, ACID Pro Evaluation Finding Reliable Counterparts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-decoding-the-fuzziness-in-facebook-videos/"><u>2024 Approved Decoding the Fuzziness in Facebook Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leveraging-ios-11-for-professional-level-iphone-shots/"><u>2024 Approved Leveraging iOS 11 for Professional-Level iPhone Shots</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-supplements-for-superior-gopro-performance/"><u>2024 Approved Superior Supplements for Superior Gopro Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-impact-a-parents-guide-to-chatgpt/"><u>AI's Impact: A Parent's Guide to ChatGPT</u></a></li>
+<li><a href="https://win-great.techidaily.com/best-substitutes-for-kissanime-top-5-anime-streaming-sites/"><u>Best Substitutes for KissAnime: Top 5 Anime Streaming Sites</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-poco-f5-pro-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Poco F5 Pro 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/controlling-ai-ensuring-positive-integration/"><u>Controlling AI: Ensuring Positive Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dive-into-intelligent-data-the-new-bing-search-app/"><u>Dive Into Intelligent Data: The New Bing Search App</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-how-to-install-your-dell-wd19-device-drivers/"><u>Easy Guide: How to Install Your Dell WD19 Device Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apples-latest-mac-mini-with-m2-chip-drops-to-record-low-price-of-479-the-inside-scoop-on-tech-deals/"><u>How Apple's Latest Mac Mini With M2 Chip Drops to Record Low Price of $479 | The Inside Scoop on Tech Deals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-air-features-explored-why-apples-m2-chip-powers-the-ideal-tablet-choice-for-consumers-a-zdnet-analysis/"><u>IPad Air Features Explored: Why Apple's M2 Chip Powers the Ideal Tablet Choice for Consumers - A ZDNet Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-ios-181-preview-release-featuring-enhanced-apple-ai-capabilities-get-your-access-today/"><u>New IOS 18.1 Preview Release Featuring Enhanced Apple AI Capabilities – Get Your Access Today!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-insights-7-ways-to-use-chatgpts-vision-ai/"><u>Revolutionary Insights: 7 Ways to Use ChatGPT's Vision AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sharing-wisdom-unveiling-your-chatgpt-experiences/"><u>Sharing Wisdom: Unveiling Your ChatGPT Experiences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-your-way-through-youtubes-comment-forum-for-2024/"><u>Streamlining Your Way Through YouTube's Comment Forum for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/toshiba-55lf711u20-55-inch-smart-led-tv-fire-tv-edition-guide-enhanced-viewing-for-prime-subscribers/"><u>Toshiba 55LF711U20 55-Inch Smart LED TV - Fire TV Edition Guide: Enhanced Viewing for Prime Subscribers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitter-scams-battle-and-metasigs-rising-significance/"><u>Twitter Scams Battle and Metasig's Rising Significance</u></a></li>
+</ul></div>
 
