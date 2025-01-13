@@ -35,8 +35,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-input-y.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-human-feedback.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/success-1.jpg">
-<meta property="article:published_time" content="2024-12-30T23:35:12.019Z">
-<meta property="article:modified_time" content="2025-01-05T10:02:07.279Z">
+<meta property="article:published_time" content="2025-01-08T09:17:23.427Z">
+<meta property="article:modified_time" content="2025-01-12T10:47:57.883Z">
 <meta property="article:author" content="Brian">
 <meta property="article:tag" content="chatgpt">
 <meta property="article:tag" content="open-ai">
@@ -722,15 +722,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-12-31 07:35:12</span>
-        <span class="mobile">2024-12-31 07:35:12</span>
+        <span class="desktop">2025-01-08 17:17:23</span>
+        <span class="mobile">2025-01-08 17:17:23</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-01-05 18:02:07</span>
-            <span class="mobile">2025-01-05 18:02:07</span>
+            <span class="desktop">2025-01-12 18:47:57</span>
+            <span class="mobile">2025-01-12 18:47:57</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -802,10 +802,6 @@
 <p> Disclaimer: This post includes affiliate links</p>
 <p> If you click on a link and make a purchase, I may receive a commission at no extra cost to you.</p>
 </blockquote>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="Prerequisites-to-Install-Auto-GPT"><a href="#Prerequisites-to-Install-Auto-GPT" class="headerlink" title="Prerequisites to Install Auto-GPT"></a>Prerequisites to Install Auto-GPT</h2><p> To install Auto-GPT, you first need to install the latest Python3 and Git packages on your computer.</p>
 <p> Python is extensively used in Auto-GPT. To <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/install-python-ubuntu/" >install the latest version of Python on Ubuntu <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, open up a terminal and upgrade and update the packages using:</p>
 <p><code>sudo apt update &amp;&amp; sudo apt upgrade</code></p>
@@ -822,6 +818,10 @@
 <p><code>sudo apt install git   sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git</code></p>
 <p> Change the directory to the newly created Auto-GPT code folder using <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/cd-command-in-linux/" >the cd command <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>:</p>
 <p><code>cd Auto-GPT</code></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="Step-1-Configure-Auto-GPT-on-Ubuntu"><a href="#Step-1-Configure-Auto-GPT-on-Ubuntu" class="headerlink" title="Step 1: Configure Auto-GPT on Ubuntu"></a>Step 1: Configure Auto-GPT on Ubuntu</h2><p> Now that you’ve correctly set up the environment for Auto-GPT, you need to configure your OpenAI API key as an environment variable.</p>
 <p> To get an OpenAI API key, sign up for an account by heading over to <a class="link"   target="_blank" rel="noopener" href="https://platform.openai.com/signup" >platform.openai.com <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. Ensure you set up your payment method to use OpenAI’s GPT product.</p>
 <p> After logging into your account, click on the profile image on the top right and select <strong>View API Keys</strong>.</p>
@@ -842,17 +842,9 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/paste-api-key.jpg"
                       alt="Insert API key"
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> Replace the placeholder with your API key by pressing <strong>Ctrl +V</strong> and hitting <strong>Ctrl + S</strong> to save. You can exit the nano text editor by pressing <strong>Ctrl + X</strong>.</p>
 <p> You must also rename the “<strong>.env.template</strong>“ file to only “<strong>.env</strong>“. To do so, run:</p>
 <p><code>sudo mv .env.template .env</code></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="Step-2-Install-Auto-GPT-Dependencies-on-Ubuntu"><a href="#Step-2-Install-Auto-GPT-Dependencies-on-Ubuntu" class="headerlink" title="Step 2: Install Auto-GPT Dependencies on Ubuntu"></a>Step 2: Install Auto-GPT Dependencies on Ubuntu</h2><p> Auto-GPT uses a lot of Python libraries. You will need to install all the packages using pip and the <strong>requirements.txt</strong> text file that comes with the AutoGPT source code.</p>
 <p> To install all the Python dependencies, run:</p>
 <p><code>pip install -r requirements.txt</code></p>
@@ -878,10 +870,6 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-auto.jpg"
                       alt="Auto-GPT auto mode"
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> In manual mode, Auto-GPT will ask you to specify a name, a goal, and up to five goals you want the AI assistant to follow while doing its task. This mode allows you to be in control of how your AI assistant will function.</p>
 <p> To use manual mode, use the following command:</p>
 <p><code>--manual</code></p>
@@ -900,6 +888,10 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-input-y.jpg"
                       alt="Input-Commands for Auto-GPT"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> You can approve the AI’s next action by typing “<strong>y</strong>“ for yes. If you don’t want the AI to continue with its plans, you can type “<strong>n</strong>“ for no and exit.</p>
 <p> If you trust your AI assistant and don’t want to continue monitoring all of its thoughts and actions, you can type “<strong>y -(number)</strong>“. For example, if you want Auto-GPT to execute its next five actions, you can type “<strong>y -5</strong>“. Furthermore, if you want to provide feedback to your AI assistant, you can also type your prompt as input.</p>
 <p> In this example, our assistant has been looping around the same thoughts, plans, and executions three times now. So we decided to give it feedback to stop as its initial efforts were already enough.</p>
@@ -909,6 +901,10 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-human-feedback.jpg"
                       alt="Providing human feedback to Auto-GPT"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> Once your AI assistant finishes its task, you can view its final output by opening the <strong>&#x2F;Auto-GPT-x.x.x&#x2F;autogpt&#x2F;auto_gpt_workspace</strong> directory.</p>
 <p><img  
                      lazyload
@@ -916,14 +912,18 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/success-1.jpg"
                       alt="Successful Auto-GPT session"
                 ></p>
+<p> Success! Our AI assistant gave us a list of active promo codes for the mouse we were looking for.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-<p> Success! Our AI assistant gave us a list of active promo codes for the mouse we were looking for.</p>
 <h2 id="Limitations-of-Auto-GPT"><a href="#Limitations-of-Auto-GPT" class="headerlink" title="Limitations of Auto-GPT"></a>Limitations of Auto-GPT</h2><p> Although Auto-GPT gave us some pretty promising results, it still isn’t as powerful or useful as it was initially hyped to be. During our testing, any slightly complex task often resulted in the AI assistant looping through the same pattern of thoughts and actions, which eventually failed.</p>
 <p> A big part of this problem was the AI’s inability to handle website ads, cookies, log-in pages, and pop-ups. It was likely caused by the fact that Auto-GPT is still in its early development phase.</p>
 <p> So for now, you should only use Auto-GPT as a way to play and experiment with AI assistants.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="Auto-GPT-Will-Keep-Getting-Better-and-Better"><a href="#Auto-GPT-Will-Keep-Getting-Better-and-Better" class="headerlink" title="Auto-GPT Will Keep Getting Better and Better"></a>Auto-GPT Will Keep Getting Better and Better</h2><p> Auto-GPT is not as powerful as it should be due to its current development stage and the limited access to GPT-4. However, these wouldn’t last long as Auto-GPT is gaining lots of traction and support from people worldwide.</p>
 <p> The development of Auto-GPT will likely continue until it gets to a mature and stable state where many useful features get implemented. It is only a matter of time before Auto-GPT becomes a practical tool for our personal, professional, and business applications.</p>
 <p><strong>SCROLL TO CONTINUE WITH CONTENT</strong></p>
@@ -941,18 +941,25 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://fox-hovers.techidaily.com/updated-beyond-the-standard-unique-augmented-reality-stickers/"><u>[Updated] Beyond the Standard Unique Augmented Reality Stickers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoiding-common-blunders-for-successful-ai-discussions/"><u>Avoiding Common Blunders for Successful AI Discussions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/blind-trust-vs-critical-assessment-why-the-balance-matters/"><u>Blind Trust Vs. Critical Assessment: Why the Balance Matters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-why-snapchats-my-ai-is-revolutionary/"><u>Discovering Why Snapchat's My AI Is Revolutionary</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/does-chatgpt-impose-text-limits-for-users/"><u>Does ChatGPT Impose Text Limits for Users?</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-forum.techidaily.com/forcefully-close-unresponsive-windows-programs-a-step-by-step-guide-using-revouninstaller/"><u>Forcefully Close Unresponsive Windows Programs: A Step-by-Step Guide Using RevoUninstaller</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-11-proplus-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme 11 Pro+ Phone Password Using Emergency Call</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-motorola-moto-g23-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Motorola Moto G23</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-friendly.techidaily.com/in-2024-pioneering-tools-for-the-future-of-3d-model-and-animation-artistry/"><u>In 2024, Pioneering Tools for the Future of 3D Model & Animation Artistry</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://article-files.techidaily.com/in-2024-seamless-setup-swift-sharing-the-essential-guide-to-ifunny-apps/"><u>In 2024, Seamless Setup, Swift Sharing The Essential Guide to iFunny Apps</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://article-tips.techidaily.com/newest-qanda-arsenal-for-captivating-listeners/"><u>Newest Q&A Arsenal for Captivating Listeners</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-quest-for-a-responsible-ai-framework/"><u>The Quest for a Responsible AI Framework</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-sharing-recording.techidaily.com/new-2024-approved-ultimate-tips-for-exceptional-vr-gaming-video-quality/"><u>[New] 2024 Approved Ultimate Tips for Exceptional VR Gaming Video Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-maximize-your-apple-watchs-endurance-top-8-configurations-that-prolong-battery-life-insights/"><u>1. Maximize Your Apple Watch's Endurance: Top 8 Configurations That Prolong Battery Life - Insights</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win11-tips.techidaily.com/cant-uninstall-the-epic-games-launcher-on-windows-11-heres-how-to-fix-it/"><u>Can’t Uninstall the Epic Games Launcher on Windows 11? Here’s How to Fix It</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-list-of-apple-watches-compatible-with-watchos-11-update/"><u>Comprehensive List of Apple Watches Compatible with WatchOS 11 Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-microsoft-surface-pro-8-evaluation-the-ultimate-device-for-professionals-analysis-on-zdnet/"><u>Comprehensive Microsoft Surface Pro 8 Evaluation: The Ultimate Device for Professionals? - Analysis on ZDNet</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://hardware-help.techidaily.com/discover-the-hottest-gaming-laptop-offers-for-2e24/"><u>Discover the Hottest Gaming Laptop Offers for 2E24</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gather-your-wits-before-listening-to-bot-provided-cures/"><u>Gather Your Wits Before Listening to Bot-Provided Cures</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win-amazing.techidaily.com/1722976989163-get-your-insignia-usbvga-driver-installed-step-by-step-guide/"><u>Get Your Insignia USB/VGA Driver Installed - Step by Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-unfolds-for-the-masses/"><u>GPT-4 Unfolds for the Masses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-ios-172-resolves-iphone-connectivity-and-slow-wi-fi-woes-expected-launch-date-insights/"><u>How iOS 17.2 Resolves iPhone Connectivity and Slow Wi-Fi Woes – Expected Launch Date Insights</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://desktop-recording.techidaily.com/in-2024-easy-to-follow-obs-setup-on-thriftier-tech/"><u>In 2024, Easy-to-Follow OBS Setup on Thriftier Tech</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-techniques.techidaily.com/initial-glimpse-at-vectors-classifying-and-choosing-right-tech-for-2024/"><u>Initial Glimpse at Vectors Classifying and Choosing Right Tech for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protect-your-data-how-apples-latest-security-warning-about-spyware-threats-affects-iphone-users/"><u>Protect Your Data: How Apple's Latest Security Warning About Spyware Threats Affects iPhone Users</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-boxes.techidaily.com/redefining-cinematic-exploration-via-vr/"><u>Redefining Cinematic Exploration via VR</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win-brilliant.techidaily.com/step-by-step-guide-reverting-your-computer-from-windows/"><u>Step-by-Step Guide: Reverting Your Computer From Windows</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://buynow-info.techidaily.com/the-re200-ac750-by-tp-link-an-excellent-option-for-economical-wireless-coverage-enhancement-review/"><u>The RE200 AC750 by TP-Link: An Excellent Option for Economical Wireless Coverage Enhancement Review</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win11.techidaily.com/troubleshooting-non-operational-windows-print-service/"><u>Troubleshooting Non-Operational Windows Print Service</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-everyone-should-use-apple-pages-a-breakdown-of-its-5-essential-features-and-advantages/"><u>Why Everyone Should Use Apple Pages: A Breakdown of Its 5 Essential Features and Advantages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wrist-worn-wonders-compared-a-detailed-breakdown-of-google-pixel-watch-and-apple-watch-series-nine-for-savvy-consumers-zdnet/"><u>Wrist-Worn Wonders Compared: A Detailed Breakdown of Google Pixel Watch and Apple Watch Series Nine for Savvy Consumers | ZDNET</u></a></li>
 </ul></div>
 
 
@@ -965,11 +972,11 @@
         <li><strong>Title:</strong> Seamless Synergy: Integrating Auto-GPT Into Ubuntu</li>
         <li><strong>Author:</strong> Brian</li>
         <li><strong>Created at
-                :</strong> 2024-12-31 07:35:12</li>
+                :</strong> 2025-01-08 17:17:23</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2025-01-05 18:02:07
+                    :</strong> 2025-01-12 18:47:57
             </li>
         
         <li>
@@ -1013,13 +1020,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/why-im-choosing-the-slimmer-apple-iphone-16-pro-over-the-max-version-insights-from-zdnet/"
+                        href="/the-elite-quartet-of-ai-hardware-innovations-taking-center-stage/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Why I&#39;m Choosing the Slimmer Apple iPhone 16 Pro Over the Max Version - Insights From ZDNet</span>
+                                <span class="post-nav-title-item">The Elite Quartet of AI Hardware Innovations Taking Center Stage</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1029,10 +1036,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/unlock-development-mastery-combining-chatgpt-and-vs-code-ideas/"
+                        href="/navigating-chatgpts-role-in-smart-home-dynamics/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Unlock Development Mastery: Combining ChatGPT and VS Code Ideas</span>
+                                <span class="post-nav-title-item">Navigating ChatGPT&#39;s Role in Smart Home Dynamics</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
