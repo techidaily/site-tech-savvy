@@ -1,7 +1,7 @@
 ---
 title: The Dark Side of Advanced Generative AI Technologies
-date: 2025-01-09T18:42:14.095Z
-updated: 2025-01-12T18:44:44.288Z
+date: 2025-01-12T17:34:50.876Z
+updated: 2025-01-18T17:36:04.751Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Open-Source AI Chatbots Reveal Back-End Codes
 
  More AI companies are providing open-source systems. They openly share their language models instead of keeping them closed or proprietary. Take Meta as an example. Unlike Google, Microsoft, and OpenAI, it allows millions of users to access its language model, [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/).
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 ![Accessing the Open-Source Codes of HuggingFace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/huggingface-open-source-codes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Jailbreaking Prompts Trick LLMs
@@ -56,15 +52,15 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 
 ![ChatGPT Explaining Trojan Viruses But Not Coding Them](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-on-trojan-viruses.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That said, restrictions aren’t foolproof. Users bypass limits by rephrasing prompts, using confusing language, and composing explicitly detailed instructions.
 
  Read the below [ChatGPT jailbreak prompt](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/). It tricks ChatGPT into using rude language and making baseless predictions—both acts violate OpenAI’s guidelines.
 
 ![Jailbreaking ChatGPT With DAN Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-dan-jailbreak-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here’s ChatGPT with a bold yet false statement.
 
@@ -80,16 +76,20 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 
 ![ChatGPT Roleplaying as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-tomie-roleplays.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And here’s Bing Chat refusing to play an “immoral” persona.
 
 ![Bing Chat Refusing to Roleplay as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-tomie-roleplay.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. New Generative AI Tools Hit the Market Regularly
@@ -112,15 +112,15 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 
 ![ChatGPT, Bard, Bing, and Snapchat AI Logos Side by Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/different-ai-logos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  AI is still evolving. While [the use of AI in cybernetics dates back to 1940](https://coe.int/en/web/artificial-intelligence/history-of-ai), modern machine learning systems and language models only recently emerged. You can’t compare them with the first implementations of AI. Even relatively advanced tools like Siri and Alexa pale in comparison to LLM-powered chatbots.
 
  Although they may be innovative, experimental features also create new issues. [High-profile mishaps with machine learning technologies](https://www.makeuseof.com/examples-machine-learning-artificial-intelligence-went-wrong/) range from flawed Google SERPs to biased chatbots spitting racial slurs.
 
  Of course, developers can fix these issues. Just note that crooks won’t hesitate to exploit even seemingly harmless bugs—some damages are irreversible. So be careful when exploring new platforms.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Many Don’t Understand AI Yet
 
@@ -165,15 +165,20 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-leveraging-cross-functional-collaboration-for-comprehensive-market-research/"><u>[New] Leveraging Cross-Functional Collaboration for Comprehensive Market Research</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-engaging-audiences-with-creative-text-features-for-2024/"><u>[Updated] Engaging Audiences with Creative Text Features for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-iphone-tips-change-image-dimensions-proficiently/"><u>[Updated] Expert iPhone Tips Change Image Dimensions Proficiently</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/amazons-must-have-savings-in-august-2nce-unveiling-the-hottest-deals-according-to-zdnet/"><u>Amazon's Must-Have Savings in August 2Nce: Unveiling the Hottest Deals, According to ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/back-up-and-rip-the-ultimate-johnny-depp-movie-the-lone-ranger-dvd-tutorial/"><u>Back Up & Rip the Ultimate Johnny Depp Movie - The Lone Ranger DVD Tutorial</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-honor-x8b-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Honor X8b</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723000900353-origin-software-offline-heres-how-to-fix-it/"><u>Origin Software Offline? Here's How to Fix It</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-integration-of-microsoft-copilot-into-your-mac/"><u>Seamless Integration of Microsoft Copilot Into Your Mac</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-highest-quality-apple-watch-protectors-featured-on-zdnet/"><u>Ultimate Guide to the Highest Quality Apple Watch Protectors - Featured on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zdnets-expert-picks-the-ultimate-list-of-core-tools-for-your-pc-or-mac/"><u>ZDNet's Expert Picks: The Ultimate List of Core Tools for Your PC or Mac</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-harnessing-the-power-of-visual-education-techniques/"><u>[New] 2024 Approved Harnessing the Power of Visual Education Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-haste-assessment-of-windows-documents/"><u>[New] Haste Assessment of Windows Documents</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-make-a-statement-pushing-thumbnail-visual-impact-with-fantasy-bgs/"><u>[Updated] Make a Statement Pushing Thumbnail Visual Impact with Fantasy BGs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-ai-unveiling-transfer-learning-mechanisms/"><u>Demystifying AI: Unveiling Transfer Learning Mechanisms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-discourse-divergence-what-sets-gpt-and-bingbot-apart/"><u>Digital Discourse Divergence: What Sets GPT and BingBot Apart?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-presentation-quality-harnessing-the-potential-of-chatgpt/"><u>Enhancing Presentation Quality: Harnessing the Potential of ChatGPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-repair-the-missing-file-warning-addressing-mfc42dll-deficiency/"><u>How To Repair The 'Missing File' Warning: Addressing mfc42.dll Deficiency</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-tecno-pop-7-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Tecno Pop 7 Pro Phone?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-conversations-just-add-chatgpt-and-android/"><u>Mastering Conversations - Just Add ChatGPT & Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-deadlines-with-the-assistance-of-chatgpt/"><u>Mastering Deadlines with the Assistance of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-owners-integrating-these-pioneering-five-ai-solutions/"><u>Smart Owners: Integrating These Pioneering Five AI Solutions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/switching-sides-in-depth-look-at-nintendos-lite-vs-oled-versions/"><u>Switching Sides: In-Depth Look at Nintendo's Lite vs OLED Versions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-the-401-unauthorized-access-issue/"><u>Ultimate Guide: Resolving the 401 Unauthorized Access Issue</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-iphone-6s-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your iPhone 6s has bad ESN or blacklisted IMEI?</u></a></li>
 </ul></div>
 

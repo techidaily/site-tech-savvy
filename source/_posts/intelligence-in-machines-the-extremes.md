@@ -1,7 +1,7 @@
 ---
 title: "Intelligence in Machines: The Extremes"
-date: 2024-09-02T20:34:54.939Z
-updated: 2024-09-03T20:34:54.939Z
+date: 2025-01-12T16:53:42.317Z
+updated: 2025-01-18T16:27:38.367Z
 tags:
   - chatgpt
   - open-ai
@@ -49,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc
 
  Despite the term "weak AI," it's clear that it has numerous real-world applications that we're already using.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Limitations of Weak AI
 
  The primary reason for the limitations of AI today is its focus on automating specific tasks for humans. For example, ChatGPT and Google Bard are designed as [large language models (LLMs)](http://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/). They are specifically programmed for generating text-based content. Similarly, Midjourney and Stable Diffusion are text-to-image generators limited to this particular function.
@@ -71,8 +68,9 @@ thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc
 ![Image of a white robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image-of-a-white-robot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In contrast to weak AI exists strong AI, also known as artificial general intelligence (AGI). This form of AI is based on the belief that computational power can emulate human brain capabilities, including analytical thinking and other intellectual abilities. Strong AI aims to create machines capable of performing any intellectual task that a human can do, not necessarily in the same way as humans.
 
  Unlike weak AI, strong AI does not rely on specific programmed models for performing narrow tasks. Instead, it possesses the potential to handle general tasks by simulating human brain functions. AGI has the ability to enable technological systems to evolve over time and adapt to changes in the environment.
@@ -80,8 +78,9 @@ thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc
  It will be strong AI that will likely lead to the singularity. However, it is important to note that strong AI is still a distant goal, as much of the work in this field remains largely theoretical. The concept of strong AI itself often draws inspiration from science fiction movies and novels.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Applications of Strong AI
 
  Since the development of strong AI still needs to be completed, finding it in practical, real-world scenarios is nearly impossible, rendering much of the talk about its use and development purely theoretical. However, here are five anticipated applications where strong AI could be utilized:
@@ -106,15 +105,17 @@ thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc
  Given the world-changing potential of AGI, extensive regulation must be in place before any such product is released to the public. It's already been [difficult enough regulating generative AI](https://www.makeuseof.com/ways-government-may-regulate-ai-tools/), and AGI will ramp those issues up another notch.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Differences Between Strong and Weak AI
 
  There are several notable differences between strong and weak AI in terms of their purpose, learning method, and problem-solving approach. Let's explore these distinctions.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Purpose
 
  A notable difference between the two artificial intelligence systems lies in their purpose. Weak AI systems are primarily designed to automate specific processes and perform well-defined tasks, leading to increased efficiency in various fields.
@@ -134,8 +135,9 @@ thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc
  In comparison, strong AI takes a problem-solving approach geared toward tackling more intricate and creative tasks. It relies on extensive datasets and continuously evolves to adapt to new conditions and challenges.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Current State of AI Technology
 
  Today, our daily mundane tasks are primarily automated by narrow or weak AI. However, these systems lack the cognitive abilities and analytical thinking that come naturally to the human brain. Consequently, researchers and developers are currently focusing on advancing AI to incorporate more human-like computational systems.
@@ -146,14 +148,11 @@ thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc
 
  Now, let's look into the fundamental differences between strong AI and weak AI and explore the current state of AI technology.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,4 +161,17 @@ thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-best-offline-ios-game-selection-for-screen-time-savor/"><u>[Updated] Best Offline iOS Game Selection for Screen Time Savor</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-want-to-send-snaps-from-camera-roll-see-how-it-is-done/"><u>[Updated] Want to Send Snaps From Camera Roll? See How It Is Done</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-toys-six-key-points-about-snapchats-my-ai/"><u>Beyond Toys: Six Key Points About Snapchat’s My AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empower-your-communication-master-chatgpt/"><u>Empower Your Communication: Master ChatGPT</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-apple-iphone-15-pro-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About Apple iPhone 15 Pro Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-integrate-streamlabs-with-ease-into-your-macs-obs/"><u>In 2024, Integrate Streamlabs with Ease Into Your Mac’s OBS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-ai-platforms-accelerating-cyber-search-success/"><u>Prime AI Platforms Accelerating Cyber Search Success</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-dangers-in-automated-psychological-assistance/"><u>Understanding Dangers in Automated Psychological Assistance</u></a></li>
+</ul></div>
 

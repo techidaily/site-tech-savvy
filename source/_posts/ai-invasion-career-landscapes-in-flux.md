@@ -1,7 +1,7 @@
 ---
 title: "AI Invasion: Career Landscapes in Flux?"
-date: 2025-01-10T20:19:53.028Z
-updated: 2025-01-12T23:53:02.455Z
+date: 2025-01-12T16:26:30.146Z
+updated: 2025-01-18T17:47:50.647Z
 tags:
   - chatgpt
   - open-ai
@@ -26,18 +26,18 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is ChatGPT?
 
 ![artificial intelligence brain connected to human being](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-4389372_1920-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [ChatGPT is a chatbot](http://www.makeuseof.com/how-does-chatgpt-work/) that uses the GPT-3 (Generative Pretrained Transformer 3) framework, a highly advanced artificial intelligence (AI) model used for language processing developed by OpenAI. ChatGPT has more than 175 billion parameters, making it among the largest and most powerful language models available, and the model was trained using a massive amount of data from the internet and other sources.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do People Use ChatGPT?
@@ -52,12 +52,16 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
 
  These examples might make you think there’s [no limit to what ChatGPT can do](https://www.makeuseof.com/openai-lost-control-chatgpt/). However, that’s not an accurate assumption.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will ChatGPT Replace Programmers?
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Whenever a new AI tool emerges on the tech scene, many people understandably wonder whether that innovation might get so advanced that it makes their jobs obsolete. Even people such as programmers, who have highly specialized skills, might face that worry.
@@ -75,7 +79,7 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some [criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/), ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Will ChatGPT Replace Other Jobs?
@@ -87,10 +91,6 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
  There’s also an interesting Twitter thread where ChatGPT impressed by helping to diagnose a type of heart disease. However, others replied that the chatbot is good at faking expertise and provided several possible diagnoses. Someone with genuine medical expertise must review the responses and use their knowledge to gauge the chatbot’s accuracy.
 
  Elsewhere, people are explicitly [formatting questions to make ChatGPT ignore](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) its programming. That practice could spread misinformation. The question-and-answer site Stack Overflow also initiated a temporary ban on ChatGPT. Staff members explained the influx of ChatGPT-generated responses swamped content moderators who need some level of subject matter expertise to verify the accuracy, and [spotting generative AI written text](http://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) is next to impossible.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT Deserves Caution
 
@@ -113,22 +113,18 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-lead-the-way-in-the-metaverse-your-tech-checklist/"><u>[New] Lead the Way in the Metaverse Your Tech Checklist</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solved-how-to-use-your-laptop-as-a-monitor/"><u>[Solved] How to Use Your Laptop As A Monitor</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-capture-every-pixel-of-pc-gaming-bliss-6-ways-for-2024/"><u>[Updated] Capture Every Pixel of PC Gaming Bliss (6 Ways) for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-from-airwaves-to-archives-online-recording-strategies-for-tv-shows/"><u>[Updated] In 2024, From Airwaves to Archives Online Recording Strategies for TV Shows</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/1-windows-11vssvcexe6/"><u>1. Windows 11でVSSVC.exeが多くのスペースを消費する場合、これを解決するための6つの簡単な手順</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-itel-a05s-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Itel A05s Devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-magic-6-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor Magic 6 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mastery-in-migrating-youtube-videos-to-igtv-platform/"><u>In 2024, Mastery in Migrating YouTube Videos to IGTV Platform</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-itel-p55-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Itel P55 5G Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-steps-regain-access-to-your-yahoo-account-without-hassle/"><u>Simple Steps: Regain Access to Your Yahoo Account Without Hassle</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solving-headphone-detection-issues-in-windows-11-comprehensive-solutions/"><u>Solving Headphone Detection Issues in Windows 11 - Comprehensive Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-identifying-and-assessing-device-driver-health-via-windows-device-manager/"><u>Step-by-Step Guide: Identifying and Assessing Device Driver Health via Windows Device Manager</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-solutions-for-correcting-driverpowerstatefailure/"><u>Step-by-Step Solutions for Correcting DRIVER_POWER_STATE_FAILURE</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-definitive-guide-to-understanding-and-implementing-usb-selective-suspend/"><u>The Definitive Guide to Understanding and Implementing USB Selective Suspend</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-reynolds-number-is-a-dimensionless-quantity-that-helps-predict-flow-patterns-and-is-defined-as-re-rvdm-for-pipe-flow/"><u>The Reynolds Number Is a Dimensionless Quantity that Helps Predict Flow Patterns and Is Defined as Re = ρVD/Μ for Pipe Flow.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-walkthrough-connecting-and-using-your-wireless-printer-with-ease/"><u>The Ultimate Walkthrough: Connecting and Using Your Wireless Printer with Ease</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722564042192-transform-your-internet-experience-with-amplifi-hd-mesh-say-goodbye-to-weak-wi-fi-areas/"><u>Transform Your Internet Experience with Amplifi HD Mesh - Say Goodbye to Weak Wi-Fi Areas!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-clocking-down-the-big-day-10-best-mobile-apps-revealed/"><u>[New] Clocking Down the Big Day 10 Best Mobile Apps Revealed</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-from-start-to-end-mastering-the-art-of-fading-in-pro/"><u>[Updated] In 2024, From Start to End Mastering the Art of Fading in Pro</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unlock-free-power-learn-to-edit-videos-on-vimeo-for-2024/"><u>[Updated] Unlock FREE Power Learn to Edit Videos on Vimeo for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-pricier-prompts-merely-premium-fluff/"><u>Are Pricier Prompts Merely Premium Fluff?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-enabled-resume-writing-a-game-changer/"><u>ChatGPT-Enabled Résumé Writing: A Game-Changer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-child-privacy-with-chatgpt-top-5-measures/"><u>Ensuring Child Privacy with ChatGPT: Top 5 Measures</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-clarity-cutting-edge-expert-recommendations-for-8k/"><u>In 2024, Clarity Cutting-Edge Expert Recommendations for 8K</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-courtesy-essential-when-interacting-with-voice-assistants-like-chatgpt-alexa-and-siri/"><u>Is Courtesy Essential When Interacting with Voice Assistants Like ChatGPT, Alexa, and Siri?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastery-in-masking-and-retaining-digital-discussions/"><u>Mastery in Masking & Retaining Digital Discussions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/obs-vs-twitch-studio-which-is-better-in-2024/"><u>OBS Vs Twitch Studio Which Is Better, In 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-the-non-functional-mouse-and-keyboard-on-windows-7-systems/"><u>Resolved: Fixing the Non-Functional Mouse & Keyboard on Windows 7 Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-5-samsung-gear-vr-games/"><u>Top 5 Samsung Gear VR Games</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/what-is-ai-voice-text-to-speech/"><u>What Is AI Voice Text to Speech?</u></a></li>
 </ul></div>
 

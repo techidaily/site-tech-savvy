@@ -1,7 +1,7 @@
 ---
 title: "Balladry Battlegrounds: Human Poets vs AI Pasture Pals"
-date: 2024-09-02T20:33:18.246Z
-updated: 2024-09-03T20:33:18.246Z
+date: 2025-01-12T16:11:14.292Z
+updated: 2025-01-18T16:44:47.894Z
 tags:
   - chatgpt
   - open-ai
@@ -21,9 +21,17 @@ thumbnail: https://thmb.techidaily.com/5fff478f3be544d568418507cea4779277edfa2a7
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Know About AI Chatbots
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
 
@@ -45,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/5fff478f3be544d568418507cea4779277edfa2a7
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
@@ -62,16 +67,10 @@ thumbnail: https://thmb.techidaily.com/5fff478f3be544d568418507cea4779277edfa2a7
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  In order to test which LLM has the best general knowledge, we asked three questions.
 
  The first question, "Which national flag has five sides?" was only correctly answered by Bard, which identified the national flag of Nepal as having five sides.
@@ -85,9 +84,9 @@ thumbnail: https://thmb.techidaily.com/5fff478f3be544d568418507cea4779277edfa2a7
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
@@ -105,15 +104,13 @@ The ultimate burning program for all your needs!</a>
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the [best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/).
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
@@ -134,6 +131,10 @@ The ultimate burning program for all your needs!</a>
 
  You read it here first, folks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## No Chatbot Is Perfect
 
  We found that while all three large language models have their advantages and disadvantages, none of them can replace the real expertise of a human being with specialized knowledge.
@@ -144,14 +145,11 @@ The ultimate burning program for all your needs!</a>
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -160,4 +158,24 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-dissecting-the-components-of-mixed-reality/"><u>[Updated] Dissecting the Components of Mixed Reality</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-motorola-edge-40-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-facilitated-world-design-beyond-boundaries/"><u>AI-Facilitated World Design: Beyond Boundaries</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chaos-or-evolution-ai-beyond-boundaries/"><u>Chaos or Evolution? AI Beyond Boundaries</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/digital-revolution-meets-classic-reading-the-ultimate-guide-to-smartphones-laptops-and-books/"><u>Digital Revolution Meets Classic Reading: The Ultimate Guide to Smartphones, Laptops, and Books</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-knowledge-on-openais-ethos/"><u>Essential Knowledge on OpenAI's Ethos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-easy-steps-to-screen-save-your-work-in-windows-8/"><u>In 2024, Easy Steps to Screen Save Your Work in Windows 8</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-essential-insights-on-asmr-videos/"><u>In 2024, Essential Insights on ASMR Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-top-full-screen-recorders-uncovered-a-compreayers-picks/"><u>In 2024, Top Full-Screen Recorders Uncovered A Compreayer's Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interactive-language-learning-a-chatgpt-plus-approach/"><u>Interactive Language Learning: A ChatGPT Plus Approach</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-a-local-llm-right-for-you-pros-and-cons-explored/"><u>Is a Local LLM Right for You? Pros and Cons Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-kitchen-tasks-with-chatgpt-7-essentials/"><u>Mastering Kitchen Tasks with ChatGPT - 7 Essentials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/probing-the-dependability-of-zerogpt-tools-including-others/"><u>Probing the Dependability of ZeroGPT Tools, Including Others</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scrutinizing-chatgpt-for-personal-data-exposure/"><u>Scrutinizing ChatGPT for Personal Data Exposure</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138621185-9781601636430-synchronicity/"><u>Synchronicity | Free Book</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unraveling-the-complexities-of-firefox-split-screen/"><u>Unraveling the Complexities of Firefox Split Screen</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-from-basic-to-brilliant-top-premiere-pro-transition-plugins/"><u>Updated In 2024, From Basic to Brilliant Top Premiere Pro Transition Plugins</u></a></li>
+</ul></div>
 

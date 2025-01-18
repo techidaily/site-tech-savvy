@@ -1,7 +1,7 @@
 ---
 title: Integrating GPT Into Therapeutic Communication Practices
-date: 2025-01-12T00:05:24.411Z
-updated: 2025-01-13T00:21:49.107Z
+date: 2025-01-16T17:46:50.672Z
+updated: 2025-01-18T17:00:19.248Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT and Cognitive Behavioral Therapy
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
  CBT is a practical method of psychotherapy that focuses on solving everyday problems in your life, such as identifying and changing negative thought patterns. Because CBT often includes discussions and reflections with a therapist, ChatGPT is well suited to replicate the therapeutic process.
 
  You can already [use ChatGPT to improve your emotional intelligence](https://www.makeuseof.com/use-chatgpt-develop-emotional-intelligence/), so why not use it with a CBT focus? After all, CBT has emerged in the research as one of, if not the most, effective forms of psychotherapy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Steps to Use ChatGPT for CBT
 
@@ -57,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
  As you go, make a habit of jotting down key insights, especially after each session. Did ChatGPT point out a recurring thought pattern you might be having? That's your cue.
 
  At the same time, if something feels off or not quite clicking, you can adjust your questions or simply tell ChatGPT in no uncertain terms that it needs to try a different approach or line of reasoning.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Writing Effective Prompts for CBT Practice
 
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 ![ChatGPT being trained as CBT therapist-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/1-chatgpt-being-trained-as-cbt-therapist-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can tweak the above in a way that works best for you.
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 ![ChatGPT response with actions that can be taken today](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-chatgpt-response-with-actions-that-can-be-taken-today.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Precautions and Limitations of Using ChatGPT for CBT
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 * Consider reaching out to a real professional for deep or complex issues since ChatGPT might lack clinical judgment and intuition.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using ChatGPT as a CBT Professional to Improve Mental Well-Being
@@ -131,14 +131,15 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-captivating-readers-with-the-top-5-engaging-book-trailers/"><u>[Updated] Captivating Readers with the Top 5 Engaging Book Trailers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-makeup-mavens-handbook-youtube-edition/"><u>2024 Approved The Makeup Maven’s Handbook YouTube Edition</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/adapting-classroom-practices-to-non-native-speakers/"><u>Adapting Classroom Practices to Non-Native Speakers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-in-conversation-simulation/"><u>Artificial Intelligence in Conversation Simulation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-apples-enhanced-airpods-top-4-new-features-unveiled/"><u>Discover Apple's Enhanced AirPods: Top 4 New Features Unveiled!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-xiaomi-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Xiaomi</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-building-your-first-channel-essential-video-gear-list/"><u>In 2024, Building Your First Channel Essential Video Gear List</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-narratives-text-based-worldbuilding-techniques/"><u>Innovating Narratives: Text-Based Worldbuilding Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-powerful-iphone-features-using-secret-voice-triggers-ultimate-guide/"><u>Unleash Powerful iPhone Features Using Secret Voice Triggers - Ultimate Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-transform-your-memories-into-engaging-facebook-slides/"><u>[Updated] In 2024, Transform Your Memories Into Engaging Facebook Slides</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-fps-fanatics-resource-for-fast-controls-and-extensions/"><u>2024 Approved FPS Fanatics' Resource for Fast Controls and Extensions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/demystifying-copyright-policies-for-your-instagram-playlist/"><u>Demystifying Copyright Policies for Your Instagram Playlist</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-best-copilotplus-integration-in-new-tech-unveiled-at-ifa-2024-spotlight-on-versatile-gaming-performance-and-cutting-edge-innovations/"><u>Discover the Best Copilot+ Integration in New Tech Unveiled at IFA 2024 - Spotlight on Versatile Gaming Performance and Cutting-Edge Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortlessly-change-your-videos-soundtrack-from-mp4-to-mp3-on-a-windows-machine/"><u>Effortlessly Change Your Video's Soundtrack From MP4 to MP3 on a Windows Machine</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/emeditor-personalized-text-editor-menu-options/"><u>EmEditor: Personalized Text Editor Menu Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/festive-fun-the-ultimate-list-of-kids-christmas-flicks/"><u>Festive Fun: The Ultimate List of Kids' Christmas Flicks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fixing-the-time-lag-in-handbrake-video-conversion-tips-and-tricks-for-perfect-audio-alignment/"><u>Fixing the Time Lag in HandBrake Video Conversion: Tips & Tricks for Perfect Audio Alignment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-conference-call-ultimate-guide-to-recording-calls-without-fuss/"><u>Free Conference Call: Ultimate Guide to Recording Calls Without Fuss</u></a></li>
+<li><a href="https://fox-where.techidaily.com/secure-your-corporate-assets-with-proven-data-preservation-methods-and-guidelines/"><u>Secure Your Corporate Assets with Proven Data Preservation Methods & Guidelines</u></a></li>
 </ul></div>
 

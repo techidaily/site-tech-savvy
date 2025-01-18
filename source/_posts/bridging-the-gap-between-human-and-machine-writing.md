@@ -1,7 +1,7 @@
 ---
 title: Bridging the Gap Between Human and Machine Writing
-date: 2024-09-02T20:35:04.017Z
-updated: 2024-09-03T20:35:04.017Z
+date: 2025-01-11T17:14:04.328Z
+updated: 2025-01-18T17:09:52.871Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
 
  Fortunately, with a few prompting techniques, you can train ChatGPT to adopt a unique writing style that matches yours.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 Ways to Teach ChatGPT to Write Like You
 
  To get started, we'll assume the persona of a detail-oriented author who uses a lively, engaging tone, provides detailed, accessible explanations, make liberal use of analogies, and address the reader directly throughout their text. The author also has a knack for using analogies to explain key concepts. [Here's a sample of the author's work](https://www.makeuseof.com/how-does-chatgpt-work/).
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
 
  Both options require a different approach, which you can check out below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Training ChatGPT With Samples of Your Work
 
  To train ChatGPT with samples of your work, head over to ChatGPT and use the prompt below, immediately followed by a sample of your written work that best captures your writing style.
@@ -47,6 +55,10 @@ Extract the writing style in the text provided below. Please study the tone, wor
  After using the prompt above, you should get a result similar to this:
 
 ![Result of writing Style extraction by ChatGPT-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/result-of-writing-style-extraction-by-chatgpt-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Of course, one sample might not be enough to thoroughly capture every aspect of your writing style. So, you can repeat the prompt above with three to five more samples within the same ChatGPT conversation. After iterating through the number of samples you wish to use, you can then use the prompt below to unify the extracted styles.
 
@@ -61,8 +73,9 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
  Also, for the best results, we recommend using GPT-4 and, specifically, the GPT-4 Code Interpreter plugin for the task. You'll be able to work with more text or even, ideally, stack several articles in a text or word file and ask ChatGPT to analyze the content for its writing style.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Training ChatGPT Using a Personal Preference Map (PPM)
 
  A Personal Preference Map (PPM) is a key-value list of preferences ChatGPT can use to produce responses that better align with your preference. In this case, ChatGPT can extract a PPM from written samples to learn about your writing preferences and use it to replicate your writing style on demand. If you are unfamiliar with PPM, we've discussed it extensively in MakeUseOf's [eBook on Unlocking the Potential of ChatGPT](https://www.makeuseof.com/unlock-secrets-of-chatgpt-with-free-ebook-unlocking-the-potential-of-chatgpt/). It is lightweight and easy to read, so do check it out.
@@ -85,9 +98,6 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
 ![Extracted PPM using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extracted-ppm.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Although the PPM approach is slightly more complex, it offers enormous attention to detail. While our previous method takes a more generalist approach to describing and applying an author's style, PPM can get as detailed as possible, far more than anyone can easily discern at first glance.
 
  Another advantage of using a PPM is the flexibility and portability it offers. You can easily tweak the writing style with precision by hanging a few words. You can also use the PPM in a different AI chatbot like Claude AI or Google Bard. We used the PPM above [on the Claude AI chatbot](https://www.makeuseof.com/what-is-claude-2-what-can-you-do-with-it/) and asked it to give it a topic to write. It was able to replicate as many of the stylistic elements used by the target author as possible.
@@ -95,11 +105,9 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 ![Using ChatGPT PPM on Claude AI chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/using-chatgpt-ppm-on-claude-ai-chatbot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
+
 ## Make ChatGPT Work for You
 
  The beauty of ChatGPT is its versatility—with the right guidance, the AI chatbot can be taught to write in practically any style you want. If you're tired of ChatGPT's soulless writing style, you don't have to settle for it. ChatGPT can do better than bland, generic outputs. With the right mix of training data, prompts, and feedback, you can transform this AI chatbot into your own writing doppelganger. Go for it.
@@ -108,14 +116,11 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
  Fortunately, with a few prompting techniques, you can train ChatGPT to adopt a unique writing style that matches yours.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +129,19 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-stop-blank-screen-problems-with-obs-applications/"><u>[New] In 2024, Stop Blank Screen Problems with OBS Applications</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-techniques-for-interpreting-video-reactions-on-youtube/"><u>[New] Techniques for Interpreting Video Reactions on YouTube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-samsung-galaxy-a05s-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Samsung Galaxy A05s to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-writes-its-own-tale-with-plus-plan/"><u>ChatGPT' Writes Its Own Tale with Plus Plan</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-magical-moments-with-ai-help/"><u>Creating Magical Moments with AI Help</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-samsung-galaxy-f54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Samsung Galaxy F54 5G? </u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovation-unleashed-blizzards-integration-with-microsoft-expands-ai-creativity-frontiers-tech-expo-recap/"><u>Innovation Unleashed: Blizzard's Integration with Microsoft Expands AI Creativity Frontiers [Tech Expo Recap]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/join-the-elite-club-of-bug-detectives-at-openai/"><u>Join the Elite Club of Bug Detectives at OpenAI!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/security-audit-are-there-gaps-in-chatgpt/"><u>Security Audit: Are There Gaps in ChatGPT?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/by-step-throwing-epic-intros-with-imovie-for-2024/"><u>Step-by-Step Throwing Epic Intros with iMovie for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/top-apps-for-boosting-your-computers-performance-a-comprehensive-guide-by-yl-tech/"><u>Top Apps for Boosting Your Computer's Performance: A Comprehensive Guide by YL Tech</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo Reno 11 5G | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Breaking Through ChatGPT’s Token Ceiling Barrier
-date: 2024-09-02T20:38:48.010Z
-updated: 2024-09-03T20:38:48.010Z
+date: 2025-01-13T16:00:03.077Z
+updated: 2025-01-18T17:18:51.855Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
  One such factor is the token system, which continues to break the evolution cycle, bringing the app's utility to its knees. If you use ChatGPT, you might want to know about ChatGPT's tokens and what to do when you run out of tokens.
 
  Let's take a step back and give you an insight into all there is to know about the app's underlying working mechanisms.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's a ChatGPT Token?
 
@@ -55,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
 ![Tokenizer calculation from OpenAI's website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/tokenizer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As per the [OpenAI token calculator](https://platform.openai.com/tokenizer):
 
  A helpful rule of thumb is that one token generally corresponds to \~4 text characters for common English text. This translates to roughly ¾ of a word (100 tokens \~= 75 words).
@@ -66,8 +74,13 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 ![OpenAI dashboard with credit usage graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/token-dashboard-openai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ChatGPT Plus: Is the Paid Subscription Worth It?
 
  To take it up a notch, you can even sign up for the [ChatGPT Plus Offer](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), which sets you back by $20 a month. Given the extensive usage and popularity of the entire AI model, here are the top features of the paid subscription model:
@@ -79,15 +92,13 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
  If you feel these features are entirely worth it and up your alley, you can enroll for the paid subscription and benefit from them immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Token Pricing Structure
 
 ![Set of black opened envelope and cash dollars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-karolina-grabowska-4386370.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
  There are a few different application models available, which you can choose based on your requirements:
 
 | Model             | Input Price for 1000 tokens (prompt) | Output Price for 1000 tokens (completion) |
@@ -104,9 +115,6 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
  Ada is the fastest, while DaVinci is the most powerful model from this list of models. The prompt is the question, while the completion deals with the answers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Maximum Token Limits
 
  Each model allows you to set the maximum number of tokens within each query. This method controls the maximum number of tokens the application generates in a single call, limiting the output. The max\_token feature is quite useful, especially when you want to control the length of your output while avoiding overusing your token usage and credits. The default length is fixed at 2,048 tokens, while the maximum can be set at 4,096 tokens.
@@ -129,9 +137,6 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
  For example, within the ChatGPT model, the **prompt\_tokens + max\_tokens <= 4096** tokens**.**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Learn to Control Your ChatGPT Prompts for Best Results
 
  No matter how you use the AI-driven application, chances are you will have to devise ways to play smartly with your questions and phrases. Depending on your usage patterns, you will likely use ChatGPT extensively for every task.
@@ -144,14 +149,11 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
  Let's take a step back and give you an insight into all there is to know about the app's underlying working mechanisms.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -160,4 +162,20 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ipad-timelapse-a-beginners-handbook-to-filming-for-2024/"><u>[New] IPad Timelapse A Beginner's Handbook to Filming for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ecovering-youtube-gems-2-easy-watch-methods-revealed-for-2024/"><u>[New] Recovering Youtube Gems 2 Easy Watch Methods Revealed for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-beginners-guide-to-video-capture-with-logitech-cam/"><u>[Updated] 2024 Approved Beginner's Guide to Video Capture with Logitech Cam</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-beginners-guide-to-mesmerizing-bokeh-in-instagram-stories/"><u>2024 Approved The Beginner’s Guide to Mesmerizing Bokeh in Instagram Stories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-phantom-sensation-in-virtual-reality-is-this-a-common-perception-among-users/"><u>Demystifying Phantom Sensation in Virtual Reality – Is This a Common Perception Among Users?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-download-and-installation-of-evga-drivers-for-optimal-gaming-on-windows/"><u>Easy Download & Installation of EVGA Drivers for Optimal Gaming on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/pro-tactics-and-secrets-unveiled-in-roller-champions-cross-platform-gaming-2024-guide/"><u>Pro Tactics and Secrets Unveiled in Roller Champions Cross-Platform Gaming 2024 Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/shadow-broadcasters-master-the-art-of-anonymous-livestreaming-on-instagram-for-2024/"><u>Shadow Broadcasters Master the Art of Anonymous Livestreaming on Instagram for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-and-assessing-the-condition-of-your-electric-vehicles-power-pack/"><u>Understanding and Assessing the Condition of Your Electric Vehicle's Power Pack</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-bifacial-solar-panels-benefits-and-considerations-before-your-next-purchase/"><u>Understanding Bifacial Solar Panels: Benefits & Considerations Before Your Next Purchase</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-limits-of-ai-exploring-6-instances-where-chatgpt-falls-short/"><u>Understanding the Limits of AI: Exploring 6 Instances Where ChatGPT Falls Short</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-october-unveiling-metas-revolutionary-project-cambria-headset-redefines-vr-experience/"><u>Upcoming October Unveiling: Meta's Revolutionary Project Cambria Headset Redefines VR Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/witness-the-next-generation-of-rocketry-four-must-see-spacecraft-lift-offs-coming-soon/"><u>Witness the Next Generation of Rocketry: Four Must-See Spacecraft Lift-Offs Coming Soon</u></a></li>
+</ul></div>
 

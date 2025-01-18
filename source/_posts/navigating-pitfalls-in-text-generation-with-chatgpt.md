@@ -1,7 +1,7 @@
 ---
 title: Navigating Pitfalls in Text Generation with ChatGPT
-date: 2025-01-08T01:37:52.638Z
-updated: 2025-01-12T18:27:09.012Z
+date: 2025-01-14T16:27:27.418Z
+updated: 2025-01-18T17:27:09.725Z
 tags:
   - chatgpt
   - open-ai
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 ![ChatGPT reminds user to double check information it provides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-50.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  OpenAI CEO Sam Altman also mentions in an [ABC News video interview](http://www.youtube.com/watch?v=540vzMlf-54) that users should be more cautious about ChatGPT's "hallucinations problem." It can confidently state made-up ideas as if they were facts. A single incident like CNET's can damage your credibility as an authoritative source.
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
  If you're learning to use ChatGPT for content creation, include [what AI hallucination is and how you can spot it](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) in your list of topics to master. More importantly, don't disregard human judgment and creativity. Remember, AI should augment your thinking and not replace it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't Ask ChatGPT for Research Links
@@ -68,15 +68,15 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 
 ![chatGPT giving a link to a nonexistent JSTOR academic journal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-47.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In another example, we gave ChatGPT a more specific topic to research on to see if it would come up with better results. This is the prompt we used: I am writing a literary research paper on "The Heroine in British Young Adult and Coming-of-Age Contemporary Novels." Can you give me a literature review on this topic?
 
  ChatGPT responded with a list of five works, complete with the author's names and summaries. However, we couldn't find any of the works it listed online.
 
 ![ChatGPT responding to request for a literature review](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-49-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To better understand the information, we asked for links. This time, ChatGPT refused, saying it was only an AI language model without web browsing capabilities. However, it gave bibliographic information, which we couldn't verify online despite the works being supposedly written between 2004-2018\.
 
@@ -92,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 * If you need sources for academic research, check [Google Scholar](https://scholar.google.com/) or [Elicit](http://elicit.org/), an AI research assistant.
 * Remember to critically assess the results and exercise judgment when selecting which ones to cite.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Don't Replace Workplace Connections With ChatGPT
 
  Some [things that you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) might tempt you to anthropomorphize it or give it human attributes. For instance, you can ask ChatGPT for advice and chat with it if you need someone to talk to.
@@ -101,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 ![ChatGPT giving advice on workplace burnout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-45.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  But no matter how compassionate it sounds, ChatGPT isn't human. What sounds like human-generated sentences are only the results of ChatGPT predicting the next word or "token" in the sequence based on its training data. It isn't a sentient being with a will and mind of its own as you do.
@@ -109,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
  That said, ChatGPT can't substitute for human relationships and collaboration in the workplace. As the [Work and Well-being Initiative at Harvard University](https://workwellbeinginitiative.org/module-4-moderating-work-demands#:~:text=The%20evidence%20shows%20that%20positive,harmful%20effects%20of%20workplace%20stress.&text=Positive%20relationships%20at%20work%20are%20also%20good%20for%20the%20bottom%20line.) says, these human connections benefit you, helping improve your well-being and protecting you against workplace stress.
 
  Learning to work with the latest tech tools is important, but interacting with your team is also essential. Instead of relying on ChatGPT to replicate social connections, build your interrelational skills, interact with co-workers, and find the best people you can work with.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Don't Feed ChatGPT Ineffective Prompts
 
@@ -157,22 +157,18 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-enjoy-uninterrupted-youtube-with-effective-adblocking-methods-for-2024/"><u>[New] Enjoy Uninterrupted YouTube with Effective Adblocking Methods for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversation-command-line-bash-powered-interaction-with-gpt/"><u>Conversation Command Line: Bash-Powered Interaction with GPT</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/deciphering-user-insights-in-youtube-comments-for-2024/"><u>Deciphering User Insights in YouTube Comments for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/idea-exploration-gpt-3-meets-mindmap-methods/"><u>Idea Exploration: GPT-3 Meets Mindmap Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-zdnets-comprehensive-smartphone-assessment-strategies-for-tech-enthusiasts/"><u>Inside ZDNet's Comprehensive Smartphone Assessment Strategies for Tech Enthusiasts</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-intricacies-of-the-windows-registry-through-effective-use-of-revouninstaller/"><u>Mastering the Intricacies of the Windows Registry Through Effective Use of RevoUninstaller</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mobile-mastery-with-these-top-8-ai-enhanced-apps/"><u>Mobile Mastery with These Top 8 AI-Enhanced Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-through-microsofts-best-business-apps-of-2022-ranking-the-premier-ios-choices-for-enterprises/"><u>Navigating Through Microsoft's Best Business Apps of 2022: Ranking the Premier iOS Choices for Enterprises</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-vertical-video-editing-made-easy-best-mobile-apps-for-beginners/"><u>New 2024 Approved Vertical Video Editing Made Easy Best Mobile Apps for Beginners</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-analysis-integrating-gpt-3-into-your-workflow/"><u>Optimizing Analysis: Integrating GPT-3 Into Your Workflow</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-crashes-and-stuttering-in-bloodhunt-for-a-smoother-gaming-experience/"><u>Overcoming Crashes & Stuttering in Bloodhunt for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/power-boost-for-your-next-weeks-iphone-purchase-discover-essential-anker-accessories/"><u>Power-Boost for Your Next Week's iPhone Purchase? Discover Essential Anker Accessories</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/premier-asmr-videographers-list-for-2024/"><u>Premier ASMR Videographers' List for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/ranking-perfect-photo-and-video-shows-on-iphones-for-2024/"><u>Ranking Perfect Photo & Video Shows on iPhones for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/rise-in-ranking-paid-verification-for-users/"><u>Rise in Ranking: Paid Verification for Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/save-24-on-airpods-pro-2-the-latest-evolved-earpiece-with-built-in-hearing-aid-compatibility-zdnet/"><u>Save 24% on AirPods Pro 2 - The Latest Evolved Earpiece with Built-In Hearing Aid Compatibility | ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-is-palworld-everything-you-need-to-know/"><u>What Is Palworld? Everything You Need to Know</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-dissecting-dells-engineering-mastery-in-the-p2715q-review/"><u>[New] 2024 Approved Dissecting Dell's Engineering Mastery in The P2715Q Review</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-optimize-your-presence-mastering-snapchat-business-use/"><u>[New] Optimize Your Presence Mastering Snapchat Business Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44cm44kq44oz44op44kk44oz5yuv55s744kz44oz44og44oz44oe44ks5yplusw5b6x44gz44kl44gf44kb44gu44k544ob44ol44ov44o844oj44k344od44ox44ks44kk44oj44op44kk44oz44cn/"><u>「オンライン動画コンテンツを取得するためのスチュワードシップガイドライン」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44cm44k544k44k144ox5yuv55s744ks5lplusd5a2y44gz44kl44gf44kb44gu56m25qw15oml6acg77ya5a6m5ywo6kej5ymw44cn/"><u>「スタサプ動画を保存するための究極手順：完全解剖」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44cm44oa44oz44k55oyv44kk5luy44gr6kiy5oa26kgt77ya5yuv55s75yplusn6lui5oqa6kgt44ks5l244gj44gf5pa55rov44cn/"><u>「ダンス振り付け記憶術：動画反転技術を使った方法」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44cm44ot44oh44kq44kz44oz44og44oz44oe44ks44gk44gq44gq5oqa6kgt77ya5yq55p6c55qe44gq57we44g5zci44kp44gb5pa55rov44cn/"><u>「ビデオコンテンツをつなぐ技術：効果的な組み合わせ方法」</u></a></li>
+<li><a href="https://driver-error.techidaily.com/acpi-device-id-resolution-venint33a0/"><u>ACPI Device ID Resolution: VEN_INT33A0</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-the-lag-top-techniques-to-enhance-your-dota-2-play-experience/"><u>Beat the Lag: Top Techniques to Enhance Your Dota 2 Play Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-the-price-tag-a-deep-dive-into-why-apple-watch-series-9-is-worth-it-over-budget-models-exclusive-review-by-zdnets-senior-gadget-analyst/"><u>Beyond the Price Tag: A Deep Dive Into Why Apple Watch Series 9 Is Worth It Over Budget Models | Exclusive Review by ZDNET's Senior Gadget Analyst</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-strategies-for-dispelling-blue-screen-of-operation-requires-elevation-in-winos/"><u>Efficient Strategies for Dispelling Blue Screen of Operation Requires Elevation in WINOS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-and-solve-ark-system-malfunctions-successfully/"><u>How to Overcome and Solve ARK System Malfunctions Successfully</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-tecno-camon-20-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Tecno Camon 20 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Honor X9a? | Dr.fone</u></a></li>
 </ul></div>
 

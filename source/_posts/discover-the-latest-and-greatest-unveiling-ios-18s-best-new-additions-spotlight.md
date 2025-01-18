@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest and Greatest: Unveiling iOS 18'S Best New Additions - Spotlight"
-date: 2025-01-07T20:53:58.394Z
-updated: 2025-01-13T01:13:55.972Z
+date: 2025-01-14T17:36:15.464Z
+updated: 2025-01-18T17:26:40.398Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,22 +146,20 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-elite-4k-recording-units-our-favorites-of-18-for-2024/"><u>[New] Elite 4K Recording Units Our Favorites of 18 for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nveiling-truth-understanding-youtubes-seo-keywords/"><u>[New] Unveiling Truth Understanding YouTube's SEO Keywords</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-banner-bliss-get-a-peek-at-our-library-of-50-free-youtube-banners/"><u>[Updated] 2024 Approved Banner Bliss Get a Peek at Our Library of 50 Free YouTube Banners</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia C110? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dialogue-dynamics-and-emotional-depth-via-gpts-novel-writing-tips/"><u>Dialogue Dynamics and Emotional Depth via GPT’s Novel-Writing Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-a-new-dimension-of-search-with-bing-on-all-platforms/"><u>Discover a New Dimension of Search with Bing on All Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-a-wiser-way-to-web-search-with-bings-new-ai-feature/"><u>Discover a Wiser Way to Web Search with Bing’s New AI Feature.</u></a></li>
-<li><a href="https://win-hot.techidaily.com/geautomatiseerde-migraties-4-effektieve-strategieen-om-je-pc-te-laad-na-de-cloud-under-win-10-of-11-zo-bent-doel/"><u>Geautomatiseerde Migraties: 4 Effektieve Strategieën Om Je PC Te Laad Na De Cloud Under Win 10 of 11 Zo Bent Doel</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/groundbreaking-github-guides-to-optimal-chatgpt-use/"><u>Groundbreaking GitHub Guides to Optimal ChatGPT Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gym-enhancements-with-top-7-intelligent-plugins/"><u>Gym Enhancements with Top 7 Intelligent Plugins</u></a></li>
-<li><a href="https://win-able.techidaily.com/hogwarts-legacy-performance-optimization-6-crucial-tips-to-stop-stuttering/"><u>Hogwarts Legacy Performance Optimization: 6 Crucial Tips to Stop Stuttering</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-sync-obs-with-facebook/"><u>In 2024, The Ultimate Guide to Sync OBS with Facebook</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Nubia Z50 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/real-time-ai-conversation-chatgpts-enhanced-interaction/"><u>Real-Time AI Conversation: ChatGPT's Enhanced Interaction</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revamping-ai-with-bard-the-seven-advances-launched-at-google-io-2023/"><u>Revamping AI with Bard - The Seven Advances Launched at Google I/O 2023</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-ai-potentials-gpt-3python/"><u>Unlocking AI Potentials: GPT-3/Python</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-experience-final-cut-pro-for-free-90-day-trial-offer-for-2024/"><u>Updated Experience Final Cut Pro for Free 90-Day Trial Offer for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-crafting-realistic-3d-text-photoshopping-style/"><u>[New] In 2024, Crafting Realistic 3D Text Photoshopping Style</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-metaverse-multiverse-dichotomy-explained/"><u>[Updated] The Metaverse-Multiverse Dichotomy Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-vision-into-reality-windows-11-video-creation/"><u>[Updated] Transform Your Vision Into Reality Windows 11 Video Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abrindo-a-porta-para-o-suporte-multidevices-a-lista-dos-12-gravadores-mp4-mais-populares-do-movavi/"><u>Abrindo a Porta Para O Suporte Multidevices: A Lista Dos 12 Gravadores MP4 Mais Populares Do Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-movavi-provideo-cutter-professional-video-editing-software-for-windows-and-mac/"><u>Free Movavi ProVideo Cutter - Professional Video Editing Software for Windows and Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transforming-asf-files-into-swf-format-with-ease/"><u>Free Online Converter: Transforming ASF Files Into SWF Format with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-online-omwandelen-van-nsv-naar-wmv-formaat-een-bewerking-door-movavi/"><u>Gratis Online Omwandelen Van NSV Naar WMV-Formaat: Een Bewerking Door Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-xiaomi-13t-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Xiaomi 13T Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-creme-de-la-creme-leading-makeup-personalities/"><u>In 2024, The Crème De La Crème Leading Makeup Personalities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m4a-a-wav-conversion-gratuite-sur-internet-via-movavi/"><u>M4A À WAV Conversion Gratuite Sur Internet via Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-xiaomi-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Xiaomi and stops randomly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp4-to-jpeg-conversion-top-free-online-tools-compared-movavi/"><u>MP4 to JPEG Conversion: Top-Free Online Tools Compared - Movavi</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-content-sharing-between-pc-and-iphone-for-2024/"><u>Streamlining Content Sharing Between PC and iPhone for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformation-en-ligne-gratuite-des-fichiers-swf-avec-movavi/"><u>Transformation en Ligne Gratuite Des Fichiers SWF Avec Movavi</u></a></li>
 </ul></div>
 

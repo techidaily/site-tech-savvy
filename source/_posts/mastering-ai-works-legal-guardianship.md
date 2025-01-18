@@ -1,7 +1,7 @@
 ---
 title: Mastering AI Works' Legal Guardianship
-date: 2024-09-02T20:37:11.301Z
-updated: 2024-09-03T20:37:11.301Z
+date: 2025-01-16T16:36:50.866Z
+updated: 2025-01-18T17:38:11.342Z
 tags:
   - chatgpt
   - open-ai
@@ -41,6 +41,10 @@ Image Credit: David Slater/[Wikimedia Commons](https://en.m.wikipedia.org/wiki/M
 
 ![full body self-portrait of a macaca nigra](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/macaca_nigra_self-portrait_full_body.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Image Credit: David Slater/[Wikimedia Commons](https://en.m.wikipedia.org/wiki/Monkey%5Fselfie%5Fcopyright%5Fdispute#/media/File:Macaca%5Fnigra%5Fself-portrait%5Ffull%5Fbody.jpg)
 
 Close
@@ -55,6 +59,10 @@ Close
 
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## An Example of AI Copyright Rejection
 
  The US Copyright Office says that any work must be human-made to be copyrightable, which means you cannot copyright AI-generated work. This was proven in late 2022 when the comic book Zarya of the Dawn's copyright protection was revoked.
@@ -64,9 +72,9 @@ Close
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019\.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is AI Work Non-Copyrightable?
 
  With all the copyright denials, does it mean that AI work is non-copyrightable at all?
@@ -78,16 +86,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Issues With AI-Generated Work
 
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
 
  As with any new technology, AI will face many issues. Aside from the [copyright rules around AI art,](https://www.makeuseof.com/copyright-rules-ai-art/) which we've discussed above, [AI writing also has dangers](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) that users and readers must know about.
@@ -102,9 +111,6 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
 
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Ethics of AI
 
  Although AI tools are powerful, valuable tools that'll help us be more efficient, it's untested and unprecedented technology. AI could have unintended consequences, so we should be careful when using this technology.
@@ -115,14 +121,11 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
 
  After all, since AI isn't human, it cannot hold ownership over its creations. So, if an AI makes something, who do we attribute it to? The AI's programmer? The person who initiated the prompts? Or the sources the AI used?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,4 +134,23 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-top-tier-mobile-cloud-space-hacks-for-android/"><u>[Updated] In 2024, Top-Tier Mobile Cloud Space Hacks for Android</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-premier-mobile-gaming-best-android-gb-simulators/"><u>2024 Approved Premier Mobile Gaming Best Android GB Simulators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-interactive-voice-turning-prompts-into-meaningful-exchanges/"><u>AI's Interactive Voice: Turning Prompts Into Meaningful Exchanges</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/asteroid-arsenal-skys-backup-base/"><u>Asteroid Arsenal - Sky's Backup Base</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-xiaomi-13t-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Xiaomi 13T Pro? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-apple-iphone-13-pro-max-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The Apple iPhone 13 Pro Max SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ating-through-your-preferred-youtube-viewing-pace-for-2024/"><u>Navigating Through Your Preferred YouTube Viewing Pace for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-advanced-fabrication-with-ai-powered-chatgpt/"><u>Pioneering Advanced Fabrication with AI-Powered ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-combat-low-resource-message-in-vmware/"><u>Strategies to Combat Low Resource Message in VmWare</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-is-now-hpe-and-amd-team-up-to-create-el-capitan-the-fastest-ever-supercomputer-upon-completion/"><u>The Future Is Now: HPE and AMD Team Up to Create El Capitan, The Fastest-Ever Supercomputer Upon Completion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-three-ai-battles-chatgpt-microsoft-bing-ai-and-google-bard/"><u>Top Three AI Battles: ChatGPT, Microsoft Bing AI, and Google Bard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trio-showdown-gpt-microsofts-bing-ai-and-googles-bard-conquerors/"><u>Trio Showdown: GPT, Microsoft's Bing AI & Google's Bard Conquerors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/truthcoin-exposed-fact-or-fiction/"><u>TruthCoin Exposed: Fact or Fiction?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncover-6-budget-friendly-ai-companions-to-sora/"><u>Uncover 6 Budget-Friendly AI Companions to Sora</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-resolving-windows-store-issue-code-0x00000000/"><u>Unraveling and Resolving Windows Store Issue Code 0X00000000</u></a></li>
+</ul></div>
 

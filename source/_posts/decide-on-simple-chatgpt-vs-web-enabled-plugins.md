@@ -1,7 +1,7 @@
 ---
 title: Decide on Simple ChatGPT Vs. Web-Enabled Plugins
-date: 2024-09-02T20:36:18.284Z
-updated: 2024-09-03T20:36:18.284Z
+date: 2025-01-11T17:23:37.145Z
+updated: 2025-01-18T17:41:24.060Z
 tags:
   - chatgpt
   - open-ai
@@ -51,15 +51,13 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
  But which of them should you use and when? What unique features do they offer?
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. ChatGPT Running Default GPT-3.5
 
 ![ChatGPT running on the default GPT-3.5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-running-on-the-default-gpt-3-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  GPT-3.5 is the default version used by both free and paid-tier ChatGPT users. It can do most of what you'd expect in any version of ChatGPT. This variant, solely powered by the GPT-3.5 turbo model, is the base version of ChatGPT and has the least capabilities of all the available models.
 
  Once you sign up for a ChatGPT account, you should automatically have access to this version. So, when should you use this version of ChatGPT?
@@ -70,9 +68,6 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
 ![Default ChatGPT GPT-4 model version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/default-chatgpt-gpt-4-model-version.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ChatGPT using GPT-4 is superior to any ChatGPT version that runs on GPT-3.5, as it is the most advanced GPT model currently integrated with ChatGPT. GPT-4 gives ChatGPT more creativity and improved reasoning and mathematics abilities.
 
  It is perfect for tasks requiring better mathematical abilities or enormous creativity, like writing a book, crafting unique jokes, or writing a speech. It also has improved programming abilities. For example, if you write code, you can fall back to this version if you have programming-related challenges.
@@ -81,6 +76,10 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
 ![ChatGPT with web browising powered by Bing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-with-web-browising-powered-by-bing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT with web browsing inherits all the abilities of the default GPT-4 version with the additional ability to access the internet. With this version, you can access and use data anywhere on the internet in real time, giving you access to information beyond ChatGPT's knowledge base. This allows ChatGPT to significantly expand the number of topics it can handle, far beyond the limits of its training data.
 
  When should you use this version of ChatGPT? [Turning on ChatGPT's browsing abilities](https://www.makeuseof.com/how-to-turn-on-chatgpt-new-web-browsing-and-plugins-feature/) opens up the chatbot to endless possibilities. One of the key use cases is whenever you need to complete a task that needs access to up-to-date and factual information. Also, if you also need sources to be cited in your ChatGPT responses, this version can handle that.
@@ -88,18 +87,20 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
  In July 2023, due to abuse, OpenAI temporarily disabled the browsing feature.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. ChatGPT Running GPT-4 with Plugins
 
 ![ChatGPT running GPT-4 plus plugins](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-running-gpt-4-plus-plugins.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
  ChatGPT with plugins is probably the most versatile version of ChatGPT. Exclusively available to ChatGPT Plus users, this variant of ChatGPT significantly extends ChatGPT's abilities beyond what it was originally designed to handle. For instance, while regular ChatGPT can not interface with a PDF file or, say, create flowcharts, ChatGPT with plugins can do so effectively as long as you pick the right plugin for the task.
 
  From everything like [using ChatGPT to chat with a PDF file](https://www.makeuseof.com/chatgpt-read-pdf-ways/) to creating memes, you'll find a host of ChatGPT Plugins on the plugin store that does much of what you want to achieve. The list of available plugins is actively growing, and with it, the list of new things you can achieve with this version of ChatGPT. Here are some of [the best ChatGPT plugins you can try right now](https://www.makeuseof.com/best-chatgpt-plugins/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which ChatGPT Version Is the Best?
 
@@ -108,8 +109,9 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
  ChatGPT versions powered by the GPT-4 model are heavy movers. Because of the quota limitation, you should ideally use them when advanced reasoning or creativity is required for a task. Or when you are concerned about running out of message quota during a task.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Know Which ChatGPT Version to Use
 
  The version of ChatGPT you use greatly impacts your experience with the AI chatbot. It might seem like just about any version goes, but you need to consciously use the right version for the right task. To ensure you have all the available versions, a ChatGPT Plus account is advisable.
@@ -122,8 +124,6 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +131,23 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-exploring-the-depths-of-screen-recording-software/"><u>[New] 2024 Approved Exploring the Depths of Screen Recording Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-which-screen-recorder-delivers-more-insights-into-bandicam-vs-camtasia/"><u>[New] Which Screen Recorder Delivers More? Insights Into Bandicam vs Camtasia</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-your-ultimate-guide-to-choosing-the-right-virtual-reality-headset-for-you-mobile-vs-tethered/"><u>[Updated] 2024 Approved Your Ultimate Guide to Choosing the Right Virtual Reality Headset for You Mobile vs Tethered?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-digital-pioneers-guide-combining-pcmac-dslr-for-engaging-streams-for-2024/"><u>[Updated] Digital Pioneer's Guide Combining PC/Mac, DSLR for Engaging Streams for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-easy-steps-for-posting-videos-on-facebook-from-devices/"><u>[Updated] Easy Steps for Posting Videos on Facebook From Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-defined-essential-language-explained/"><u>Artificial Intelligence Defined: Essential Language Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-interactive-communications-mastering-custom-gpt-3-directives-with-finesse/"><u>Elevating Interactive Communications: Mastering Custom GPT-3 Directives with Finesse</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-x-fold-2-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo X Fold 2 Activity | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-to-boost-periscope-live-video-speed/"><u>In 2024, Techniques to Boost Periscope Live Video Speed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastery-in-managing-and-migrating-chatgpt-outputs/"><u>Mastery in Managing and Migrating ChatGPT Outputs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/refrain-from-installing-gpt-on-your-device/"><u>Refrain From Installing GPT on Your Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seven-pathways-generative-ais-impact-on-labor-markets/"><u>Seven Pathways: Generative AI's Impact on Labor Markets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-scheduling-made-simple-utilizing-chatgpt-to-optimize-your-day/"><u>Smart Scheduling Made Simple: Utilizing ChatGPT to Optimize Your Day</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209968908-9781473355538-the-necromancer-or-the-tale-of-the-black-forest-fantasy-and-horror-classics/"><u>The Necromancer - Or, The Tale of the Black Forest (Fantasy and Horror Classics) | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-persistent-99-barrier-during-windows-11-upgrades-a-step-by-step-fix/"><u>Troubleshooting the Persistent 99% Barrier During Windows 11 Upgrades: A Step-by-Step Fix</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-multilingual-potential-with-advanced-chatgptplus-tech/"><u>Unlock Multilingual Potential with Advanced ChatGPT+ Tech</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Macbook Air Evolution: Comparing New M3 Chip to Previous Generation M2 for Your Next Purchase | TechReviewZDNet"
-date: 2025-01-11T18:40:32.617Z
-updated: 2025-01-12T23:38:02.316Z
+date: 2025-01-12T16:19:15.280Z
+updated: 2025-01-18T17:14:54.323Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | **MacBook Air M3** | **MacBook Air M2**                           |                                              |
@@ -52,13 +48,13 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the M3 MacBook Air if...
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You want the fastest Wi-Fi support available
 
@@ -71,10 +67,6 @@ One of the biggest advantages of the M3, aside from the purely technical upgrade
 **Also: [This sneaky Best Buy deal lets you snag a free MacBook Air M3 - here's how](https://www.zdnet.com/article/this-sneaky-best-buy-deal-lets-you-snag-a-near-free-macbook-air-m3-heres-how/)**
 
 The M3 MacBook Air has [full connectivity](https://www.zdnet.com/article/you-can-use-your-m3-macbook-pro-with-dual-monitors-now-just-like-the-m3-macbook-air/) for two [external monitors](https://www.zdnet.com/home-and-office/smart-office/apple-studio-display-monitor-review/), so if you frequently work with more than one monitor, it's certainly worth upgrading. There is a small catch in that you can only use two external monitors while the laptop lid is closed. So you don't get your laptop's display _and_ two monitors; you just get the monitors.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want the absolute best performance
 
@@ -94,17 +86,25 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the M2 MacBook Air if...
 
 Cliff Joseph/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. The $100 price difference means a lot
 
 You don't get too many chances to save money on Apple products, but you have one here by opting for the M2 version of the MacBook Air. With the release of the M3 version. Apple has dropped the M2 MacBook Air's starting price to $999, but that price could drop further later in the year, opening the door for bigger savings. Even though the M2 is slightly older, it's still a perfectly capable laptop that will work fine for most people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You don't need the latest and greatest features
 
@@ -119,7 +119,7 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 [Buy the M2 MacBook Air View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -156,18 +156,18 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-is-luminances-hdr-suitable-for-production/"><u>[New] 2024 Approved Is Luminance's HDR Suitable for Production?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-free-youtube-endings-that-stand-out-ranked/"><u>[Updated] Free YouTube Endings That Stand Out - Ranked</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-15-pro-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone 15 Pro Parental Restrictions With/Without Password | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-installation-guide-for-the-celebratory-version-of-windows-10-os-upgrade/"><u>Effortless Installation Guide for the Celebratory Version of Windows 10 OS Upgrade</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experience-breathtaking-gameplay-fluidity-in-skyrim-special-editions-latest-fps-refresh/"><u>Experience Breathtaking Gameplay Fluidity in Skyrim Special Edition's Latest FPS Refresh</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fixed-repairing-disk-errors-on-windows-11/"><u>Fixed: Repairing Disk Errors on Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fixing-cannot-log-into-account-errors-on-windows-10-solutions-explored/"><u>Fixing 'Cannot Log Into Account' Errors on Windows 10 - Solutions Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fixing-the-pure-monochrome-display-a-guide-to-resolving-windows-10s-black-and-white-screen-issue/"><u>Fixing the Pure Monochrome Display: A Guide to Resolving Windows 10'S Black and White Screen Issue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/headphone-jack-not-working-easy-fixes/"><u>Headphone Jack Not Working [Easy Fixes]</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-2-phone-without-google-account-by-drfone-android/"><u>How to Unlock Lava Blaze 2 Phone without Google Account?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Nokia C02? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-checklist-for-twitch-broadcasting-for-2024/"><u>The Ultimate Checklist for Twitch Broadcasting for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-testing-the-samsung-galaxy-tab-s7-the-ultimate-compact-device-for-fans-of-android-os/"><u>Unboxing and Testing the Samsung Galaxy Tab S7 - The Ultimate Compact Device for Fans of Android OS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-2023-roundup-premier-professionals-360-cameras/"><u>2024 Approved 2023 Roundup Premier Professionals’ 360 Cameras</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-tool-a-thorough-side-by-side-of-bandicam-and-obs/"><u>Choosing the Right Tool: A Thorough Side-by-Side of Bandicam and OBS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-file-conversion-convert-your-tga-images-to-jpg-at-no-cost-quick-and-simple-solution-by-movavi/"><u>Effortless File Conversion: Convert Your TGA Images to JPG at No Cost - Quick and Simple Solution by Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-motorola-edge-40-neo-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Motorola Edge 40 Neo Face Lock?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-to-turning-on-hardware-based-gpu-task-prioritization-for-enhanced-performance-in-windows-11/"><u>Guide to Turning On Hardware-Based GPU Task Prioritization for Enhanced Performance in Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-14-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 14</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/les-6-methodes-pratiques-pour-diviser-une-video-avec-des-outils-departementaux-et-web/"><u>Les 6 Méthodes Pratiques Pour Diviser Une Vidéo Avec Des Outils Départementaux Et Web</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726221952495-movavi/"><u>Movavi製品を見極めるためのロコミによる簡単選択方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-route-to-uncover-graphics-card-details-window-11/"><u>Rapid Route to Uncover Graphics Card Details, Window 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solve-mouse-lag-with-these-tips-troubleshooting-and-tweaking-for-perfect-control/"><u>Solve Mouse Lag with These Tips: Troubleshooting & Tweaking for Perfect Control</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-insiders-guide-to-youtube-success-for-2024/"><u>The Insider's Guide to YouTube Success for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-solution-for-try-connecting-bluetooth-error-in-win-11/"><u>Unlocking the Solution for 'Try Connecting' Bluetooth Error in Win 11</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713947904471-updated-tips-for-choosing-location-and-scheduling-music-video/"><u>Updated Tips for Choosing Location & Scheduling Music Video</u></a></li>
 </ul></div>
 

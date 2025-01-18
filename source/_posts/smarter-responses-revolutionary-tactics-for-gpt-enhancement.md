@@ -1,7 +1,7 @@
 ---
 title: "Smarter Responses: Revolutionary Tactics for GPT Enhancement"
-date: 2024-09-02T20:36:55.463Z
-updated: 2024-09-03T20:36:55.463Z
+date: 2025-01-16T16:51:08.116Z
+updated: 2025-01-18T16:00:35.933Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/227cc128988b516c7d6426572fbbb71529867ec9f
 
 ![Screenshot of ChatGPT response to an unframed question about the sun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-response-to-an-unframed-question-about-the-sun.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The answer goes into some detail about atomic nuclei and the process of fusion. But what if your target audience was a class full of five-year-olds? This is where assigning a role can help. Let’s try it again and this time assign it the role of a teacher.
 
  The technique is simple, start by assigning a role. In this case, we told ChatGPT to assume the role of a primary school teacher.
@@ -53,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/227cc128988b516c7d6426572fbbb71529867ec9f
 
 ![Screenshot of ChatGPT response to basic question about needlework](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-response-to-basic-question-about-needlework.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The response was a numbered list of seven items you would need to get started. This is fine, but it isn’t going to set YouTube alight. Now, we refined the prompt to cover the output type and the main target audience.
 
 ![Screenshot of ChatGPT response to refined needlework prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-response-to-refined-needlework-prompt.jpg)
@@ -60,8 +68,9 @@ thumbnail: https://thmb.techidaily.com/227cc128988b516c7d6426572fbbb71529867ec9f
  The generated response was much more precisely tailored to suit the required output.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Chained Prompts
 
  ChatGPT will quite happily write a page of content for your website if so prompted. However, there are some drawbacks to simply prompting it to “write a page for my website”. Firstly, there are [limits to the length of response that ChatGPT can output](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/). This means you might not get a full response.
@@ -69,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/227cc128988b516c7d6426572fbbb71529867ec9f
  But chained prompts allow you to tailor the content to ensure that it matches your needs with specific information and keywords. To show how effective this can be, we started by prompting it to write the homepage content for a pest control website.
 
 ![Screenshot of ChatGPT response to homepage response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-response-to-homepage-response.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The response is some fairly generic text that is reasonably well-written but isn’t entirely suitable as homepage content. But by using chained prompts you can improve the results. We started by asking for homepage headings for a pest control company in Michigan:
 
@@ -79,13 +92,11 @@ thumbnail: https://thmb.techidaily.com/227cc128988b516c7d6426572fbbb71529867ec9f
 ![Screenshot of follow up question to ChatGPT homepage headers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-follow-up-question-to-chatgpt-homepage-headers.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Using the chaining technique allows you to precisely tailor responses for more relevant results.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Format Your Output in Markdown
 
  Unless instructed to do otherwise, ChatGPT responses are generated in plain text. However, it can also handle the markup language called markdown, and if requested it will produce the requested output in this format.
@@ -96,25 +107,30 @@ thumbnail: https://thmb.techidaily.com/227cc128988b516c7d6426572fbbb71529867ec9f
 
 ![Screenshot of ChatGPT response to basic solar system article request](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-response-to-basic-solar-system-article-request.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, we reframed the question to output the result in markdown language and to include headings and a table summarizing some of the information:
 
 ![Screenshot of ChatGPT using Markup language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-using-markup-language.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The output included a heading and subheading for each planet as we requested.
 
 ![Screenshot of ChatGPT headings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-headings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It also included the requested table in the conclusion.
 
 ![Screenshout of ChatGPT Table of information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshout-of-chatgpt-table-of-information.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  This is a powerful way to get better-formatted output, it also works well when used in conjunction with chained prompts.
 
 ## 5\. Use ChatGPT to Generate Its Own Prompts
@@ -125,9 +141,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Screenshot of ChatGPT answering question about creating prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-answering-question-about-creating-prompts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  ChatGPT then asked us for more detail about the purpose of the prompts. Obviously, the more detail you provide here, the more accurate the response will be. But for the sake of brevity, we kept it short and sweet.
 
 ![Screenshot of ChatGPT generating prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-generating-prompts.jpg)
@@ -135,6 +148,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  Once ChatGPT has created relevant prompts, you can use the prompt simply by referring to its number:
 
 ![Screenshot of ChatGPT exanding on a numbered prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-exanding-on-a-numbered-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Let Your Personality Shine by Adding Some Character to the Response
 
@@ -150,14 +167,8 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Screenshot of lighthearted ChatGPT response on Fiscal Procurement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-lighthearted-chatgpt-response-on-fiscal-procurement.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  Now, while it may not have your audience rolling on the floor in laughter, it is a far more interesting reply than the previous one.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Chain-of-Thought Prompting
 
  Chain-of-Thought (CoT) prompting could be likened to a student in an exam showing their workings. It involves starting with a seed question or idea and then using the model's responses to further refine and develop the topic.
@@ -166,16 +177,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Screenshot of CoT Basic Answer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-cot-basic-answer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now we can repeat the process and add some detail to the seed question:
 
 ![Screenshot of CoT ChatGPT Answer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-cot-chatgpt-answer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As you can see, ChatGPT will respond and show the chain of thought that generated the correct answer.
 
 ## Using Prompt Techniques to Improve the Response From ChatGPT
@@ -188,14 +193,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Just by adding a few provisos or setting some scenarios, ChatGPT can produce more tailored answers to your queries. Let’s look at some of the ways you can improve the quality of your ChatGPT responses.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -204,4 +206,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-explore-30-anime-concepts-dominating-tiktok-feed-for-2024/"><u>[New] Explore 30 Anime Concepts Dominating TikTok Feed for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-10-free-apps-for-crafting-youtube-channel-graphics/"><u>[New] Top 10 Free Apps for Crafting YouTube Channel Graphics</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-seamless-youtube-video-transfer-for-ios-devices-explained/"><u>[Updated] Seamless YouTube Video Transfer for iOS Devices Explained</u></a></li>
+<li><a href="https://facebook.techidaily.com/best-practices-for-managing-third-party-websites-and-apps-on-your-facebook-profile/"><u>Best Practices for Managing Third-Party Websites and Apps on Your Facebook Profile</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/biz-revolution-simplified-incoritsion-of-whisper-and-gptapis/"><u>Biz Revolution Simplified: Incoritsion of Whisper & GPTAPIs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-spreadsheet-skills-with-chatgpts-insight/"><u>Elevate Spreadsheet Skills with ChatGPT's Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eliminating-chatgpts-memory-retention-feature/"><u>Eliminating ChatGPT’s Memory Retention Feature</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-list-best-apps-for-live-basketball-and-international-football-games/"><u>Elite List Best Apps for Live Basketball and International Football Games</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-linkedin-plus-top-8-benefits/"><u>Evaluating LinkedIn Plus: Top 8 Benefits</u></a></li>
+<li><a href="https://article-tips.techidaily.com/exclusive-top-ten-list-best-4k-game-laptops/"><u>Exclusive Top Ten List Best 4K Game Laptops</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/free-windows-programs-expertly-record-live-shows/"><u>Free Windows Programs Expertly Record Live Shows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-smart-strategies-for-iphone-podcast-acquisition/"><u>In 2024, Smart Strategies for iPhone Podcast Acquisition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-and-quality-aid-crafting-top-7-web-based-assistance-tools/"><u>Quick and Quality Aid Crafting: Top 7 Web-Based Assistance Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redesigning-careers-with-the-power-of-generative-ai/"><u>Redesigning Careers with the Power of Generative AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/separating-fact-from-fiction-in-ai-health-suggestions/"><u>Separating Fact From Fiction in AI Health Suggestions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-comparative-analysis-of-online-bot-intelligence/"><u>The Comparative Analysis of Online Bot Intelligence</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Replacing Roles: Is ChatGPT the New Worker?"
-date: 2024-09-02T20:35:43.702Z
-updated: 2024-09-03T20:35:43.702Z
+date: 2025-01-14T16:19:17.857Z
+updated: 2025-01-18T17:22:08.626Z
 tags:
   - chatgpt
   - open-ai
@@ -21,9 +21,17 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is ChatGPT?
 
 ![artificial intelligence brain connected to human being](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-4389372_1920-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [ChatGPT is a chatbot](http://www.makeuseof.com/how-does-chatgpt-work/) that uses the GPT-3 (Generative Pretrained Transformer 3) framework, a highly advanced artificial intelligence (AI) model used for language processing developed by OpenAI. ChatGPT has more than 175 billion parameters, making it among the largest and most powerful language models available, and the model was trained using a massive amount of data from the internet and other sources.
 
@@ -40,15 +48,17 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
  These examples might make you think there’s [no limit to what ChatGPT can do](https://www.makeuseof.com/openai-lost-control-chatgpt/). However, that’s not an accurate assumption.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Will ChatGPT Replace Programmers?
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Whenever a new AI tool emerges on the tech scene, many people understandably wonder whether that innovation might get so advanced that it makes their jobs obsolete. Even people such as programmers, who have highly specialized skills, might face that worry.
 
  However, [ChatGPT’s limitations](http://www.makeuseof.com/openai-chatgpt-biggest-probelms/) make it incapable of entirely taking over programmers’ work. The ChatGPT site contains a sample interaction of someone using the tool to debug code, though.
@@ -64,8 +74,9 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some [criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/), ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Will ChatGPT Replace Other Jobs?
 
  You might wonder if [content writers should worry about ChatGPT](http://www.makeuseof.com/why-chatgpt-wont-take-writing-job/) taking their jobs. Fortunately, those professionals need not fear. ChatGPT responses are often repetitive and sometimes outdated, making them less valuable.
@@ -76,23 +87,17 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
 
  Elsewhere, people are explicitly [formatting questions to make ChatGPT ignore](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) its programming. That practice could spread misinformation. The question-and-answer site Stack Overflow also initiated a temporary ban on ChatGPT. Staff members explained the influx of ChatGPT-generated responses swamped content moderators who need some level of subject matter expertise to verify the accuracy, and [spotting generative AI written text](http://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) is next to impossible.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## ChatGPT Deserves Caution
 
  The examples above and elsewhere highlight how ChatGPT might gradually change how employees work, but it won’t take over entire jobs. Instead, more people will start using ChatGPT to guide applicable parts of their workflows. If you’re thinking about using the chatbot for business, school, or pleasure, do so carefully and never assume you got wholly accurate answers.
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -101,4 +106,17 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-choosing-the-right-format-boosting-your-youtube-videos-performance-for-2024/"><u>[New] Choosing the Right Format – Boosting Your YouTube Videos’ Performance for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flight-pattern-perfection-dissecting-bebops-parrot-expedition/"><u>2024 Approved Flight Pattern Perfection Dissecting Bebop's Parrot Expedition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ace-academics-with-savings-navigating-through-dell-student-discount-offers/"><u>Ace Academics with Savings: Navigating Through Dell Student Discount Offers</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-lava-storm-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-copilot-full-turbo-revolutionize-ai-interaction/"><u>Free Copilot, Full Turbo: Revolutionize AI Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-bridging-ai-and-human-interactions-in-practice/"><u>GPT: Bridging AI and Human Interactions in Practice</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-poco-m6-pro-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Poco M6 Pro 5G Easily?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-tecno-spark-10-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Tecno Spark 10 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-flaw-of-ai-chatbots-in-crafting-persuasive-texts/"><u>The Flaw of AI Chatbots in Crafting Persuasive Texts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-chatgpt-installing-new-features-now/"><u>Unlocking ChatGPT: Installing New Features Now</u></a></li>
+</ul></div>
 

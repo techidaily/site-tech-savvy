@@ -1,7 +1,7 @@
 ---
 title: How iOS 18 Upgrade Enhances iPhone 14 Productivity for Content Makers – ZDNET Exclusive
-date: 2025-01-05T21:32:06.441Z
-updated: 2025-01-12T18:09:59.312Z
+date: 2025-01-13T16:07:47.055Z
+updated: 2025-01-18T16:47:41.904Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ As someone who is not nearly an influencer but loves to use their imagination, I
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Video scroll bar and playback options
@@ -63,7 +63,7 @@ When you do find the perfect take, the editing menu now allows an option to slow
 When viewing videos, the scroll bar automatically pops up. To access the playback options, select edit and then the clock icon at the top right corner. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Customizable layout with 'Recent Days'
@@ -83,7 +83,7 @@ For example, during the Apple launch, my phone was essentially exploding with co
 With customization, you can keep this collection at the top of your feed, or any other categories that would help you stay the most organized. Now I can pull content from a certain day without having to scroll all the way back, and hopefully it does the same for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Filter button
@@ -101,7 +101,7 @@ To narrow content more, you can also filter to favorites, previously edited cont
 And just with one slide up, it resets the filters. If you add the ability to organize your photos app to your liking, your photos app becomes so much more efficient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Honorable mentions
@@ -112,7 +112,7 @@ And just with one slide up, it resets the filters. If you add the ability to org
 * A 'recovered' album in Utilities recovers corrupted images that were previously not visible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhones are compatible with iOS 18?
@@ -175,17 +175,17 @@ And just with one slide up, it resets the filters. If you add the ability to org
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-gaining-exposure-cost-effective-promotion-hacks-for-youtubers/"><u>[New] 2024 Approved Gaining Exposure Cost-Effective Promotion Hacks for YouTubers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-how-to-live-without-the-convenience-of-youtube-shorts/"><u>[Updated] 2024 Approved How To Live Without the Convenience of YouTube Shorts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-premier-annual-update-best-free-livestream-software-and-apps-review/"><u>[Updated] 2024 Approved Premier Annual Update Best Free Livestream Software & Apps Review</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-strategic-timing-for-virality-in-video-content-sharing/"><u>[Updated] Strategic Timing for Virality in Video Content Sharing</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-budget-enthusiasts-choices-the-right-gopro-add-ons-for-newbies/"><u>2024 Approved Budget Enthusiasts Choices The Right GoPro Add-Ons for Newbies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/historical-context-understanding-ethereums-inception/"><u>Historical Context: Understanding Ethereum's Inception</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-check-ram-on-windows-quickly-and-easily/"><u>How to Check RAM on Windows | Quickly & Easily</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-counteract-constant-high-cpu-consumption-and-boost-efficiency/"><u>How to Counteract Constant High CPU Consumption and Boost Efficiency</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-disable-windows-11-lock-screen-easily/"><u>How to Disable Windows 11 Lock Screen, Easily</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-fix-and-update-the-realtek-high-definition-sound-driver-on-windows-11/"><u>How to Fix and Update the Realtek High Definition Sound Driver on Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-rendering-latest-vega-3-firmware-release/"><u>Optimize Rendering: Latest Vega 3 Firmware Release</u></a></li>
-<li><a href="https://win11.techidaily.com/peering-beyond-the-visible-launching-windows-concealed-character-insight-engine/"><u>Peering Beyond the Visible: Launching Windows' Concealed Character Insight Engine</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-catchy-captions-the-ultimate-guide-to-animated-text-on-ig/"><u>[New] Catchy Captions The Ultimate Guide to Animated Text on IG</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-drafting-an-exciting-cinema-flashbacks-series/"><u>[New] In 2024, Drafting an Exciting Cinema Flashbacks Series</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-practical-ways-to-preserve-your-instagram-stories/"><u>[New] Practical Ways to Preserve Your Instagram Stories</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-video-conference-to-youtube-broadcast-google-meet-explained/"><u>[Updated] In 2024, From Video Conference to Youtube Broadcast Google Meet Explained</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-unveiling-snapchat-video-feeds-from-twitter/"><u>2024 Approved Unveiling Snapchat Video Feeds From Twitter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mkvm2ts-movavi/"><u>免費線上改制 MKV為M2TS - 便利版 Movavi 媒體格式工具</u></a></li>
+<li><a href="https://common-error.techidaily.com/combat-connectivity-problems-4-easy-remedies-for-a-non-responsive-dns/"><u>Combat Connectivity Problems: 4 Easy Remedies for a Non-Responsive DNS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/des-logiciels-gratuit-de-retouche-photographie-et-effets-visuels-ultimes-les-meilleures-options/"><u>Des Logiciels Gratuit De Retouche Photographie Et Effets Visuels Ultimes - Les Meilleures Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-wmv-to-mp4-converter-by-movavi-quick-and-effortless-video-format-change/"><u>Free Online WMV to MP4 Converter by Movavi: Quick and Effortless Video Format Change</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-astrological-flair-crafting-bios-for-each-zodiac-house/"><u>In 2024, Astrological Flair Crafting Bios for Each Zodiac House</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-y56-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo Y56 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transcodage-gratuit-de-fichiers-flv-vers-aiff-en-ligne-avec-movavi-guide-complet/"><u>Transcodage Gratuit De Fichiers FLV Vers AIFF en Ligne Avec Movavi - Guide Complet</u></a></li>
 </ul></div>
 

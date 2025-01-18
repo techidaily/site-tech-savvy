@@ -1,7 +1,7 @@
 ---
 title: "Tailoring AI to Yourselves: A How-To for Unique Prose"
-date: 2024-09-02T20:39:25.598Z
-updated: 2024-09-03T20:39:25.598Z
+date: 2025-01-11T16:41:45.183Z
+updated: 2025-01-18T17:10:14.696Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/0bb4c495dd7731927ccaea9b5575b62f707a96030
 
  Fortunately, with a few prompting techniques, you can train ChatGPT to adopt a unique writing style that matches yours.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 Ways to Teach ChatGPT to Write Like You
 
  To get started, we'll assume the persona of a detail-oriented author who uses a lively, engaging tone, provides detailed, accessible explanations, make liberal use of analogies, and address the reader directly throughout their text. The author also has a knack for using analogies to explain key concepts. [Here's a sample of the author's work](https://www.makeuseof.com/how-does-chatgpt-work/).
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/0bb4c495dd7731927ccaea9b5575b62f707a96030
 2. Use a Personal Preference Map (PPM)
 
  Both options require a different approach, which you can check out below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Training ChatGPT With Samples of Your Work
 
@@ -60,9 +68,6 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
  Also, for the best results, we recommend using GPT-4 and, specifically, the GPT-4 Code Interpreter plugin for the task. You'll be able to work with more text or even, ideally, stack several articles in a text or word file and ask ChatGPT to analyze the content for its writing style.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Training ChatGPT Using a Personal Preference Map (PPM)
 
  A Personal Preference Map (PPM) is a key-value list of preferences ChatGPT can use to produce responses that better align with your preference. In this case, ChatGPT can extract a PPM from written samples to learn about your writing preferences and use it to replicate your writing style on demand. If you are unfamiliar with PPM, we've discussed it extensively in MakeUseOf's [eBook on Unlocking the Potential of ChatGPT](https://www.makeuseof.com/unlock-secrets-of-chatgpt-with-free-ebook-unlocking-the-potential-of-chatgpt/). It is lightweight and easy to read, so do check it out.
@@ -86,8 +91,9 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 ![Extracted PPM using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extracted-ppm.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Although the PPM approach is slightly more complex, it offers enormous attention to detail. While our previous method takes a more generalist approach to describing and applying an author's style, PPM can get as detailed as possible, far more than anyone can easily discern at first glance.
 
  Another advantage of using a PPM is the flexibility and portability it offers. You can easily tweak the writing style with precision by hanging a few words. You can also use the PPM in a different AI chatbot like Claude AI or Google Bard. We used the PPM above [on the Claude AI chatbot](https://www.makeuseof.com/what-is-claude-2-what-can-you-do-with-it/) and asked it to give it a topic to write. It was able to replicate as many of the stylistic elements used by the target author as possible.
@@ -95,11 +101,13 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 ![Using ChatGPT PPM on Claude AI chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/using-chatgpt-ppm-on-claude-ai-chatbot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make ChatGPT Work for You
 
  The beauty of ChatGPT is its versatility—with the right guidance, the AI chatbot can be taught to write in practically any style you want. If you're tired of ChatGPT's soulless writing style, you don't have to settle for it. ChatGPT can do better than bland, generic outputs. With the right mix of training data, prompts, and feedback, you can transform this AI chatbot into your own writing doppelganger. Go for it.
@@ -108,14 +116,11 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
  Fortunately, with a few prompting techniques, you can train ChatGPT to adopt a unique writing style that matches yours.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +129,26 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-yielding-income-a-streamers-guide-to-earning/"><u>[New] In 2024, Yielding Income A Streamer's Guide to Earning</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-total-motion-audit-2023/"><u>[New] Total Motion Audit 2023</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-flawlessrecorder-suite-w10-edition-for-2024/"><u>[Updated] FlawlessRecorder Suite W10 Edition for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-can-we-trust-our-interactions/"><u>ChatGPT: Can We Trust Our Interactions?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craft-your-tale-9-aids-from-chatgpt-for-novelists/"><u>Craft Your Tale: 9 Aids From ChatGPT for Novelists</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engaging-with-intelligence-a-comparative-study/"><u>Engaging with Intelligence: A Comparative Study</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-typist-to-writer-empower-your-workflow-with-microsofts-gpt/"><u>From Typist to Writer: Empower Your Workflow with Microsoft's GPT</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-reno-11-pro-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo Reno 11 Pro 5G Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203846589-hp-keyboard-malfunctions-5-easy-steps-to-restore-functionality/"><u>HP Keyboard Malfunctions? 5 Easy Steps to Restore Functionality!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-auditory-cataloguing-pc-noises-and-speech-recordings/"><u>In 2024, Auditory Cataloguing PC Noises & Speech Recordings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-vulnerable-to-malicious-attacks/"><u>Is ChatGPT Vulnerable to Malicious Attacks?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-ai-complexity-palm-2-versus-gpt-4/"><u>Navigating AI Complexity: PaLM 2 Versus GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-patient-outcomes-with-ai-in-cognitive-therapy/"><u>Optimizing Patient Outcomes with AI in Cognitive Therapy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808298178-overcome-skype-connection-woes-on-windows-11-discover-5-effective-fix-methods/"><u>Overcome Skype Connection Woes on Windows 11 - Discover 5 Effective Fix Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premier-ai-technologies-streamlining-cyber-investigations/"><u>Premier AI Technologies Streamlining Cyber Investigations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-msmpengexe-high-cpu-usage-issue-in-windows-11-expert-fixes/"><u>Solving the MsMpEng.exe High CPU Usage Issue in Windows 11 - Expert Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synthesizing-intelligence-the-leading-5-hardware-advances-in-ai-sphere/"><u>Synthesizing Intelligence: The Leading 5 Hardware Advances in AI Sphere</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/topmost-optimal-live-data-protection-solutions-for-microsoft-windows-11/"><u>Topmost Optimal Live Data Protection Solutions for Microsoft Windows 11</u></a></li>
+</ul></div>
 

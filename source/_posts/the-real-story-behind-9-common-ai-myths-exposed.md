@@ -1,7 +1,7 @@
 ---
 title: The Real Story Behind 9 Common AI Myths Exposed
-date: 2025-01-10T23:48:10.308Z
-updated: 2025-01-12T22:56:14.424Z
+date: 2025-01-15T16:06:09.649Z
+updated: 2025-01-18T17:17:43.953Z
 tags:
   - chatgpt
   - open-ai
@@ -46,11 +46,23 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
 ![Screenshot of ChatGPT answering question about Google Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-question-about-google-bard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, just to be clear, there are known limitations to ChatGPT and the age of the data it can reference. That question was deliberately set up to expose this. However, we asked Bard the same question when [comparing Google Bard vs. ChatGPT](https://www.makeuseof.com/chatgpt-vs-google-bard/), and it got it wrong too:
 
 ![Screenshot of ChatGPT answering question about Google Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-question-about-google-bard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Chatbots may be clever, but they aren’t capable of any type of task and will sometimes fail on the simplest of questions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Chatbots Are a Threat to Humanity
 
@@ -62,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
 ![Screenshot of ChatGPT answering threat to humanity question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-threat-to-humanity-question.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  But it would say that. Wouldn't it?
 
 ## 4\. AI Chatbots Are Infallible
@@ -75,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
  LLMs contain text from a vast range of sources, everything from literature to social media posts are included in LLMs. This is the repository that the chatbots reference to supply their answers. Any factual errors present in these can manifest themselves in the answers they provide.
 
 [AI hallucinations are a common form of error](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) that all too often shows just how fallible these tools are.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Chatbots Will Replace Human Interaction
 
@@ -94,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
  The speed at which these tools are developing is part of the reason behind this myth. The boundaries of what this technology can do are being pushed at a rapid pace and the initial iterations that were primarily text-based are already considered old-fashioned.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Chatbots Will Always Provide Unbiased Responses
 
  Unfortunately, this is not the case. The potential for biased responses is always there with AI chatbots. The root of the problem can be traced back to the LLMs. The vast amount of data that chatbots reference does, inevitably, contain bias. These biases can include gender, race, nationality, and broader societal biases.
@@ -103,16 +111,12 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
  However, for the moment at least, the potential for biased responses is an unresolved issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Chatbots Are Actually Real Humans
 
 ![Picture of mechanical typewriter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/picture-of-mechanical-typewriter.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Perhaps the most ludicrous myth is that behind every AI chatbot is a real human. This one is treading a delicate line between conspiracy theory and myth, we won’t dwell on this one other than to say that it's nonsense.
 
@@ -123,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
  While AI chatbots utilize machine learning techniques to improve their performance, they do not possess the ability to program themselves autonomously.
 
  The training process could be likened to the testing process of non-AI software. Training involves predefining their objectives, designing their architecture, and teaching them to generate responses based on the data in the relevant LLM. This entire progress still requires human intervention and programming expertise.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## AI Chatbots: Separating Fact From Fiction
 
@@ -155,20 +155,18 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-digital-subtitle-producer/"><u>[New] 2024 Approved Digital Subtitle Producer</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-from-real-time-to-leisurely-iphone-methods-for-slow-motion-video-for-2024/"><u>[New] From Real Time to Leisurely IPhone Methods for Slow Motion Video for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-social-media-marketing-a-step-by-step-guide/"><u>[New] Mastering Social Media Marketing A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-navigating-through-linkedin-account-termination-procedures/"><u>[Updated] 2024 Approved Navigating Through LinkedIn Account Termination Procedures</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/bridging-platforms-the-instagram-and-tiktok-guide/"><u>Bridging Platforms The Instagram & TikTok Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/cutting-edge-video-editing-on-ios-and-android-devices-for-2024/"><u>Cutting-Edge Video Editing on iOS and Android Devices for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-googles-gemini-the-future-trajectory-of-ai-research/"><u>Discovering Google’s Gemini: The Future Trajectory of AI Research</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effective-exercise-design-with-ai-assisted-guidance/"><u>Effective Exercise Design with AI-Assisted Guidance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/forefront-vs-chatgpt-an-in-depth-look-at-ai-intelligence/"><u>Forefront vs ChatGPT: An In-Depth Look at AI Intelligence</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-realme-gt-5-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Realme GT 5 Pro Quickly? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-users-reset-your-chatgpt-experience/"><u>IPhone Users, Reset Your ChatGPT Experience!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/premier-picks-for-successful-online-studies-the-elite-educational-portals-with-quality-courses/"><u>Premier Picks for Successful Online Studies: The Elite Educational Portals with Quality Courses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/section-3a-next-concept-chromatographic-column-selection-in-gas-chromatography/"><u>Section 3A: Next Concept - Chromatographic Column Selection in Gas Chromatography</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/third-party-chat-enhancements-safe-or-not/"><u>Third-Party Chat Enhancements: Safe or Not?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-the-full-potential-of-bing-on-android/"><u>Unlocking the Full Potential of Bing on Android</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-how-to-create-time-travel-teleportation-effects/"><u>[New] How to Create Time Travel Teleportation Effects</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-navigating-the-new-norm-earnings-in-vlogging/"><u>[New] Navigating the New Norm Earnings in Vlogging</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-living-narratives-interactive-vr-storytelling/"><u>[Updated] Living Narratives Interactive VR Storytelling</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-voice-memo-mastery-for-ios-users-step-by-step-for-2024/"><u>[Updated] Voice Memo Mastery for iOS Users Step-by-Step for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-avi-file-combination-tools-for-windows-10-and-11-users-ultimate-joining-tips/"><u>Free AVI File Combination Tools for Windows 10 and 11 Users: Ultimate Joining Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-dance-tutorials-how-to-safely-download-videos-from-youtube-and-more/"><u>Free Dance Tutorials: How to Safely Download Videos From YouTube & More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-capturing-instagram-stories-from-mobile-and-desktop-devices/"><u>Guide: Capturing Instagram Stories From Mobile & Desktop Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-easily-access-and-save-films-on-solarmovie-platform/"><u>How to Easily Access and Save Films on SolarMovie Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-easily-change-mpeg-files-into-mov-without-paying-top-6-free-techniques-for-digital-editors/"><u>How to Easily Change MPEG Files Into MOV without Paying: Top 6 Free Techniques for Digital Editors</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-xiaomi-13t-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Xiaomi 13T without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-15-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 15 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unclogging-the-puzzle-a-user-manual-for-repairing-webcam-problems-in-windows/"><u>Unclogging the Puzzle: A User Manual for Repairing Webcam Problems in Windows</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/unlocking-the-mystery-how-to-ensure-friends-can-view-your-html-ebook-from-flipbuildercom/"><u>Unlocking the Mystery: How to Ensure Friends Can View Your HTML eBook From FlipBuilder.com</u></a></li>
 </ul></div>
 

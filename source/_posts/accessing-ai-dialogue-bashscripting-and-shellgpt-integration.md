@@ -1,7 +1,7 @@
 ---
 title: "Accessing AI Dialogue: BashScripting and ShellGPT Integration"
-date: 2024-09-02T20:34:17.111Z
-updated: 2024-09-03T20:34:17.111Z
+date: 2025-01-16T16:37:54.002Z
+updated: 2025-01-18T16:43:02.937Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbda
  People use this multi-faceted, ubiquitous tool to crack jokes, write codes and even answer the most random questions. It’s easy to use ChatGPT on other OSes, so, as a Linux user, why should you stay behind?
 
  You too can enjoy ChatGPT’s Linux avatar, ShellGPT. Here's how to install and use the AI tool from your Ubuntu terminal in a few easy steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What’s ShellGPT, ChatGPT’s Equivalent Linux Namesake?
 
@@ -69,8 +73,9 @@ thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbda
  After installation, you can again use the **\--version** command to check if the installation was successful.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 2: Install and Set Up a Virtual Environment Using Python
 
  Now that Python and PIP are ready, you can set up Python's virtual environment to make the machine environment conducive for installing and running ShellGPT. Virtual environments are ideal for running isolated programs since they can avoid library conflicts.
@@ -84,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbda
 `sudo apt install python3-venv -y`
 
 ![Ubuntu terminal window code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-virtual-environment-module-in-ubuntu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Set Up the Virtual Environment
 
@@ -111,9 +120,6 @@ thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbda
 
 ![Ubuntu terminal window with code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-virtual-environment-for-shellgpt-in-ubuntu-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 3: Generate an OpenAPI Key
 
  Since the virtual environment is ready, you must connect the OpenAI services and your Ubuntu machine to run ShellGPT. For this purpose, you must navigate to [OpenAI's website](https://openai.com/) and create an account there.
@@ -125,8 +131,9 @@ thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbda
 ![OpenAI website interface showing a drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/view-api-keys-on-openai-website.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Do not share this key with anyone since the connection is private and should be used on your machine only.
 
  Copy the API key from the dialog box, and save it somewhere, since you won't be able to review the same key again.
@@ -149,8 +156,9 @@ export OPENAI_API_KEY=<paste key details here>`
 ![Ubuntu terminal window with code snippets to create and save an environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-an-environment-variable-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Save and exit the editor. Then, use the source command to enable the changes.
 
 `source ./bashrc`
@@ -161,9 +169,6 @@ export OPENAI_API_KEY=<paste key details here>`
 
 ![List of variables in a linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-secret-key-in-env-list.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  Your **OPENAI\_API\_KEY** environment variable should be listed in the output.
 
 ## Step 5: Install ShellGPT on Ubuntu
@@ -175,13 +180,11 @@ export OPENAI_API_KEY=<paste key details here>`
 ![Installation snippet on ubuntu's terminal screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-shell-gpt-on-ubuntu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Let the installation finish; meanwhile, you can check out some interesting ways to use the AI tool via your terminal window.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Using ShellGPT for Running Queries via the Terminal
 
  The entire purpose of installing ShellGPT is to make your life easier. To use the terminal as a search engine and run some queries, you can use the **sgpt** command, followed by your query within quotes:
@@ -190,9 +193,6 @@ export OPENAI_API_KEY=<paste key details here>`
 
 ![Ubuntu terminal interface with a query response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shellgpt-query-reponse.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Using ShellGPT for Generating Code
 
  You can use your ShellGPT for generating code as well. You can do it by passing the right command with the **sgpt** command:
@@ -200,6 +200,10 @@ export OPENAI_API_KEY=<paste key details here>`
 `sgpt --code "print the Fibonacci series"`
 
 ![Ubuntu terminal window with code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shellgpt-code-reponse.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The output consists of code you can execute within Python to generate the Fibonacci series.
 
@@ -221,8 +225,6 @@ export OPENAI_API_KEY=<paste key details here>`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -230,4 +232,24 @@ export OPENAI_API_KEY=<paste key details here>`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-extensive-review-the-360-degree-capture-of-samsung-for-2024/"><u>[New] Extensive Review The 360-Degree Capture of Samsung for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-upholders-of-popularity-the-10-most-loved-reddit-stories/"><u>[New] In 2024, Upholders of Popularity The 10 Most Loved Reddit Stories</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-a-treasure-trove-discovering-the-most-inspiring-5-book-tts/"><u>[Updated] 2024 Approved A Treasure Trove Discovering the Most Inspiring 5 Book TTs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leverage-youtubes-potential-through-strategic-backlinking/"><u>[Updated] Leverage YouTube's Potential Through Strategic Backlinking</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-the-introduction-writing-impressive-summaries/"><u>[Updated] Perfecting the Introduction Writing Impressive Summaries</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/activate-chatgpt-widget-for-android-ease/"><u>Activate ChatGPT Widget for Android Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-bots-top-9-reasons-for-choosing-chatgpt-plus/"><u>Boosting Bots: Top 9 Reasons for Choosing ChatGPT Plus</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/comprehensive-guide-top-applications-for-real-time-pc-activity-surveillance/"><u>Comprehensive Guide: Top Applications for Real-Time PC Activity Surveillance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/forge-individualized-chatai/"><u>Forge Individualized ChatAI</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/golivefacebook-a-practical-guide-for-android-and-ios-enthusiasts/"><u>GoLiveFacebook A Practical Guide for Android & iOS Enthusiasts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/painting-programmatically-gpt-driven-visual-creation/"><u>Painting Programmatically: GPT-Driven Visual Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/should-algorithms-be-your-new-investment-advisors/"><u>Should Algorithms Be Your New Investment Advisors?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stick-with-textual-interaction-or-embrace-extended-plugin-gpt/"><u>Stick with Textual Interaction or Embrace Extended Plugin GPT</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/strategies-for-securely-amassing-one-million-video-watches-for-2024/"><u>Strategies for Securely Amassing One Million Video Watches for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-superiority-of-claude-ai-top-4-comparative-aspects-with-chatgpt/"><u>The Superiority of Claude AI: Top 4 Comparative Aspects with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-my-podcast-story-with-text-mentorship/"><u>Unveiling My Podcast Story with Text Mentorship</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionized Search: Microsoft's AI-Infused Bing"
-date: 2025-01-08T22:39:09.138Z
-updated: 2025-01-12T21:54:09.528Z
+date: 2025-01-16T16:44:12.966Z
+updated: 2025-01-18T17:44:21.439Z
 tags:
   - chatgpt
   - open-ai
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 ![OpenAI logo up-close on a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-ai-web-apps.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft Prometheus is a specialized artificial intelligence model for superior web searching and querying and is fundamentally based on OpenAI’s GPT3.5 and ChatGPT models. Its capabilities are optimized for rapidly fetching relevant and accurate search results without compromising user safety.
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
  The Prometheus model powers the new Bing to deliver summarized search results that are more relevant and can even answer composite search queries.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A New Generation of AI for Web Searching
@@ -54,16 +54,12 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 
 ![Google app on the home screen of a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-google-fi-phones.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the AI-powered Bing, you can specifically query it to give you a list of important points related to your Science class, and Bing will provide you with precisely that. You won’t have to explore multiple retrieved search results. Instead, you can rest assured that Bing has all the correct answers you need, thanks to its AI-powered search algorithm.
 
  You can also use Bing as your AI chatbot and query it for simple questions like “What’s the weather going to be like in two weeks?” and even complex queries such as “I enjoyed Coachella, what similar music festivals should I visit?”. If you’re not satisfied with Bing’s answer, you can ask it to refine the response per your needs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A New Era for Web Browsers as Well?
@@ -72,12 +68,16 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 
 ![Icons of multiple web browsers on a wooden board background](https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b7932652ed0826ec0104cd05df9774.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While we’re certainly still a long way from seeing web browsers go obsolete, but we can expect functional upgrades that make it easy to access AI-powered web searching and content generation. Perhaps other browsers, such as Chrome and Opera, will adopt something similar to Edge’s new AI sidebar.
 
 [Google is expected to release its Bard competitor](https://www.makeuseof.com/google-launching-bard-ai-compete-with-chatgpt/) to Microsoft’s AI-powered Bing very soon. Once it’s launched and possibly integrated with Google Chrome, we’ll have a better idea of how web browsers will evolve in the coming future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bing Redefines Searching Using AI
@@ -99,17 +99,21 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-pantheon-of-popularity-reddits-top-10-posts/"><u>[New] 2024 Approved The Pantheon of Popularity Reddit's Top 10 Posts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-enhance-video-to-fit-instagrams-visual-taste/"><u>[New] Enhance Video to Fit Instagram's Visual Taste</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-easily-download-specific-youtube-sections-for-2024/"><u>[Updated] Easily Download Specific YouTube Sections for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-professional-gopro-filming-made-simple-a-comprehensive-guide/"><u>[Updated] In 2024, Professional GoPro Filming Made Simple A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-from-watchlist-to-documents-a-comprehensible-list-of-six-mac-techniques-for-screenshotting-netflix/"><u>2024 Approved From Watchlist to Documents - A Comprehensible List of Six Mac Techniques for Screenshotting Netflix</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-innovation-in-action-unveiling-five-must-try-functions-in-apples-ios-18-early-beta-release-zdnet-insights/"><u>Discover Innovation in Action: Unveiling Five Must-Try Functions in Apple's iOS 18 Early Beta Release | ZDNet Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engage-and-guide-gpt-with-a-simple-voice-command-mix/"><u>Engage and Guide GPT With a Simple Voice-Command Mix</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/keep-content-safe-stop-bot-harvesters/"><u>Keep Content Safe: Stop Bot Harvesters</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-3d-animation-with-elite-design-applications-for-2024/"><u>Mastering the Art of 3D Animation with Elite Design Applications for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resetting-your-dell-laptop-comprehensive-instructions-for-a-clean-start/"><u>Resetting Your Dell Laptop - Comprehensive Instructions for a Clean Start</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-crisis-response-google-pixel/"><u>Revolutionizing Crisis Response: Google Pixel</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/securing-your-smartphone-from-unwanted-surveillance-tips-to-identify-and-erase-spyware/"><u>Securing Your Smartphone From Unwanted Surveillance: Tips to Identify and Erase Spyware</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-high-fidelity-remote-call-software-beyond-zoom/"><u>[New] High-Fidelity Remote Call Software (Beyond Zoom)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/waying-scripts-an-introduction-to-bouncy-text-animations/"><u>[New] Swaying Scripts An Introduction to Bouncy Text Animations</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-discovering-ideal-hashtags-for-your-youtube-videos/"><u>2024 Approved Discovering Ideal Hashtags for Your YouTube Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-beyond-the-reach-of-openai/"><u>ChatGPT: Beyond the Reach of OpenAI?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-magic-in-words-top-4-ai-story-generators-reviewed/"><u>Crafting Magic in Words: Top 4 AI Story Generators Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-predictive-ai-its-operational-wizardry/"><u>Decoding Predictive AI: Its Operational Wizardry</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/effortless-and-economical-the-best-free-youtube-name-generators/"><u>Effortless & Economical The Best Free YouTube Name Generators</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expedited-removal-strategies-for-ssgnature-bg/"><u>Expedited Removal Strategies for Ssgnature BG</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/google-news-feeds-revolutionary-shift/"><u>Google News Feed's Revolutionary Shift</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-enhanced-strategies-for-study-papers/"><u>GPT-Enhanced Strategies for Study Papers</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/guide-generating-a-windows-server-201/"><u>Guide: Generating a Windows Server 201</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-gpt-3-with-python/"><u>How to Use GPT-3 With Python</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-overview-utilizing-googles-automatic-transcription-service/"><u>In 2024, Comprehensive Overview Utilizing Google's Automatic Transcription Service</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-12-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 12 In Different Conditionsin</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sleuthing-scams-real-vs-phony-gpts/"><u>Sleuthing Scams: Real vs Phony GPTs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unleash-top-gaming-prowess-the-hp-omen-obelisk-review-a-game-changer-at-a-great-value/"><u>Unleash Top Gaming Prowess: The HP OMEN Obelisk Review – A Game Changer at a Great Value</u></a></li>
 </ul></div>
 

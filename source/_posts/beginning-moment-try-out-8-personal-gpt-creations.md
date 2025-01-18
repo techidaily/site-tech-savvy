@@ -1,7 +1,7 @@
 ---
 title: "Beginning Moment: Try Out 8 Personal GPT Creations"
-date: 2025-01-12T00:11:35.850Z
-updated: 2025-01-12T23:25:07.885Z
+date: 2025-01-16T16:58:31.796Z
+updated: 2025-01-18T16:17:50.169Z
 tags:
   - chatgpt
   - open-ai
@@ -30,13 +30,13 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Resume and Cover Letter Creator
 
 ![Screenshot of Custom GPT Resume Maestro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/resume-maestro.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  I built a custom GPT called "Resume Maestro." Once it receives a job post description, it immediately comes up with a resume with the right professional details included. It captures everything from names and contact details to work experience, educational history, and achievements. It also writes a cover letter that isn't just tailored to the job post but also aligns with personal experiences relevant to the job. Better still, its output is immediately available for download as a PDF or Word file, all under ten seconds.
 
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
  To get a resume and cover letter for any job, I either paste the job post description or just prompt: "Create a cover letter for \[X role\] at \[Y company\]," and the custom GPT provides optimized, downloadable results with little editing needed. This could be a game-changer for anyone applying for jobs, instantly generating tailored application documents customized to each opportunity.
 
  Here's a guide on [how to create your first custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/) if you're not sure how to.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Translation Tool
 
@@ -60,9 +56,17 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 **Try this GPT:**[Pidgin Hero](https://chat.openai.com/g/g-CcgN0HIuC-pidgin-hero).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Programming Project Assistant
 
 ![Custom chatgpt screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It is no news that [ChatGPT can write code](https://www.makeuseof.com/chatgpt-programming-practical-uses/). It could write code since the days of GPT-3.5 and has improved significantly with the arrival of GPT-4 and the GPT-4 Turbo. However, although the chatbot is quite adept at solving programming problems, it doesn't perform particularly well within the context of a single project since it has a limited context window and cannot soak up all the details of a project to provide a context-specific solution.
 
@@ -81,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 ## 5\. Interactive Text and Image Games
 
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another very exciting use case for GPTs is creating games. You can bring almost any text and image-based games you can think of into reality. You can program, modify the rules, and play games like Tic-Tac-Toe, Hangman, Word Ladder, and more. We've previously created a list of simple but [interesting games you can play with ChatGPT](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/). You can spice those games up by invoking the DALL-E image creator to create scenery and characters on the go.
 
@@ -104,16 +112,12 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 **Try this GPT**: [Abstract Math Genius](https://chat.openai.com/g/g-wFmBbvdm0-abstract-math-genius).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Niche Tools for Work
 
 ![Custom GPT for Work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-work.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Could custom GPTs improve your workflow or automate tasks in your job? For many roles, the answer is yes. Consider your typical work responsibilities and identify repetitive or time-consuming areas that could benefit from AI assistance.
@@ -123,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 **Try this GPT**: [Colorful Creations](https://chat.openai.com/g/g-e7klUPLGp-colorful-creations).
 
  Another example I tried was building a GPT for interior design. After teaching the GPT the kind of designs I liked, prompting the GPT to provide interior design ideas based on certain parameters was quite easy. With custom GPTs, there are many angles to explore; it all boils down to what you do and how creative you get. The possibilities to leverage GPTs are vast across professions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Custom GPTs: Endless Possibilities for Work and Fun
 
@@ -155,20 +155,15 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-best-game-video-recording-and-editing-software-for-beginners/"><u>[New] The Best Game Video Recording and Editing Software for Beginners</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-validating-yourself-a-look-at-verified-insta-posts/"><u>2024 Approved Validating Yourself A Look at Verified Insta Posts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-rankings-secrets-enhancing-video-visibility/"><u>2024 Approved YouTube Rankings Secrets Enhancing Video Visibility</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/clearing-up-false-facade-in-virtual-conversations-fb/"><u>Clearing Up False Facade in Virtual Conversations FB</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-wellness-chatgpt-driven-meal-plans/"><u>Crafting Wellness: ChatGPT-Driven Meal Plans</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-eq-through-ais-perspective-on-social-dynamics/"><u>Enhance EQ Through AI's Perspective on Social Dynamics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-brainstorm-ideas-with-a-mindmap-and-chatgpt/"><u>How to Brainstorm Ideas With a Mindmap and ChatGPT</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-14-pro-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 14 Pro Without Apple ID Password?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-tecno-phantom-v-fold-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Tecno Phantom V Fold to Roku | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-unlocking-the-full-potential-of-your-instagram-story-with-multiple-images/"><u>In 2024, Unlocking the Full Potential of Your Instagram Story with Multiple Images</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/redefining-website-visibility-with-ai-insights/"><u>Redefining Website Visibility with AI Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-on-cleaning-up-visual-noise-and-graininess-in-footage-with-after-effects/"><u>Step-by-Step Tutorial on Cleaning Up Visual Noise & Graininess in Footage with After Effects</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-checklist-apple-chatgpt-verification/"><u>The Ultimate Checklist: Apple ChatGPT Verification</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/twitters-cleared-of-smileys-linuss-uncovering-trojans-breakdown-and-ai-gpt-issues-displayed/"><u>Twitters Cleared of Smileys, Linus's Uncovering, Trojans Breakdown, & AI GPT Issues Displayed.</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-collection-top-notch-free-meme-designs/"><u>Ultimate Collection Top-Notch FREE Meme Designs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-two-ways-to-keep-your-insta-reels-accessible-anytime/"><u>[New] In 2024, Two Ways to Keep Your Insta Reels Accessible Anytime</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-new-era-for-website-user-engagement/"><u>AI's New Era for Website User Engagement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/blending-human-ideas-with-ai-imagery-in-chatgpt-4-and-dall-e/"><u>Blending Human Ideas with AI Imagery in ChatGPT-4 & DALL-E</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/comparing-easy-flexible-recording-tools-for-mac-users-for-2024/"><u>Comparing Easy, Flexible Recording Tools for Mac Users for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-impactful-relation-between-paperclip-maximization-and-advanced-ai-technology/"><u>Exploring the Impactful Relation Between Paperclip Maximization & Advanced AI Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-power-of-zoom-with-your-chrome-os-device/"><u>In 2024, Unlocking the Power of Zoom with Your Chrome OS Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-the-circuitry-unveiling-tech-secrets-at-toms-gadget-corner/"><u>Inside the Circuitry: Unveiling Tech Secrets at Tom's Gadget Corner</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/integrating-instagram-effects-into-pre-existing-content/"><u>Integrating Instagram Effects Into Pre-Existing Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-your-lifestyles-ultimate-boost/"><u>Leveraging ChatGPT: Your Lifestyle's Ultimate Boost</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-13-pro-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 13 Pro Apps to New iPhone | Dr.fone</u></a></li>
 </ul></div>
 

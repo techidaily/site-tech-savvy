@@ -1,7 +1,7 @@
 ---
 title: "Expert Take on iPhone 15: Top Picks and Pro Tips for Seasoned Tech Enthusiasts | ZDNet"
-date: 2025-01-07T16:01:49.600Z
-updated: 2025-01-12T22:18:11.040Z
+date: 2025-01-15T17:23:47.227Z
+updated: 2025-01-18T16:49:38.213Z
 tags:
   - apple
 categories:
@@ -40,7 +40,7 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -50,7 +50,7 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -68,15 +68,15 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -133,7 +133,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -150,6 +150,10 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -161,10 +165,6 @@ Kerry Wan/ZDNET
 Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don't take for granted that fewer animations mean the iPhone 15 is more battery efficient than the Pro, but in a world where even sub-$200 phones have 120Hz displays, I really wish that Apple gave its $800 iPhone something smoother on the eyes.
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Final thought
 
@@ -204,22 +204,22 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-mastering-the-art-of-retrieving-tweets-as-gifs/"><u>[Updated] 2024 Approved Mastering the Art of Retrieving Tweets as GIFs</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/52686734-updated-in-2024-spark-creativity-with-costless-auditory-extras/"><u>[Updated] In 2024, Spark Creativity with Costless Auditory Extras!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-aggregate-video-pieces-into-lists/"><u>2024 Approved Aggregate Video Pieces Into Lists</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/5-essential-steps-to-create-viral-titles-online/"><u>5 Essential Steps to Create Viral Titles Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/accelerate-your-computer-speeding-up-windows-11-vs-windows-turbocharging-techniques/"><u>Accelerate Your Computer: Speeding Up Windows 11 Vs. Windows Turbocharging Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beginner-friendly-steps-setting-up-a-vpn-connection-on-your-apple-tv/"><u>Beginner-Friendly Steps: Setting up a VPN Connection on Your Apple TV</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/connecting-your-xbox-one-gamepad-to-windows-pc-a-step-by-step-tutorial/"><u>Connecting Your Xbox One Gamepad to Windows PC: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/directx-download-for-windows-11-and-10-quickly-and-easily/"><u>DirectX Download for Windows 11 & 10. Quickly & Easily!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-to-stream-from-ps4-without-delay/"><u>Easy to Stream From PS4 [Without Delay]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-solutions-for-when-your-logitech-wireless-mouse-stops-responding/"><u>Expert Solutions for When Your Logitech Wireless Mouse Stops Responding</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/external-hard-drive-not-showing-up-in-windows-10-solved/"><u>External Hard Drive Not Showing Up in Windows 10 [Solved]</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/freeze-frame-like-a-pro-easy-steps-to-amazing-slow-mo-videos-on-android/"><u>Freeze Frame Like a Pro Easy Steps to Amazing Slow Mo Videos on Android</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-se-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone SE</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-top-10-creative-overlays-for-video-content/"><u>In 2024, Top 10 Creative Overlays for Video Content</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/secure-source-for-startech-vga-driver-software-free-download-options/"><u>Secure Source for StarTech VGA Driver Software - FREE Download Options</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-reno-10-proplus-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo Reno 10 Pro+ 5G</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808235815-whats-new-in-windows-10-creators-update-insider-preview-build-1503/"><u>What's New in Windows 10 Creators Update: Insider Preview Build 1503</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-eyelaughs-funny-image-generator-for-2024/"><u>[New] EyeLaughs Funny Image Generator for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-new-age-of-income-generation-for-youtube-visionaries/"><u>[New] The New Age of Income Generation for YouTube Visionaries</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-bulk-posting-made-easy-a-comprehensive-instagram-tutorial/"><u>[Updated] Bulk Posting Made Easy A Comprehensive Instagram Tutorial</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-pitch-perfect-techniques-for-integrating-tunes-into-vimeo-videos/"><u>[Updated] In 2024, Pitch Perfect Techniques for Integrating Tunes Into Vimeo Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-windows-11s-high-dynamic-range-auto-hdr-for-better-visuals/"><u>2024 Approved Harnessing Windows 11'S High Dynamic Range (Auto HDR) for Better Visuals</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-revamp-your-resonance-the-7-premier-voice-recorder-change-android-apps/"><u>2024 Approved Revamp Your Resonance The 7 Premier Voice Recorder Change Android Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2024s-elite-lineup-of-self-driving-car-companies-unveiled/"><u>2024'S Elite Lineup of Self-Driving Car Companies Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-geoffrey-scotts-visionary-photography-on-the-movavi-platform/"><u>Discover Geoffrey Scott's Visionary Photography on the Movavi Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-web-converter-change-ogg-files-into-high-quality-flac-format-with-movavi/"><u>Free Web Converter: Change OGG Files Into High-Quality FLAC Format with Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-omzetten-van-wav-naar-aiff-online-movavi-als-sollicitatiepunt/"><u>Gratis Omzetten Van WAV Naar AIFF Online - Movavi Als Sollicitatiepunt</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-zte-axon-40-lite-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m4a-wmv-cs-0-mbps/"><u>M4A WMV 자바스크 전환 - 원활한 인터넷 코드cs용 무게 0 Mbps 회전</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/opgeluchtende-online-omzetter-ogg-naar-mpeg-professioneel-zorgt-movavi-voor-gratis-converting/"><u>Opgeluchtende Online Omzetter OGG Naar MPEG - Professioneel Zorgt Movavi Voor Gratis Converting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-video-editing-apps-para-enaltecer-suas-producoes-no-youtube/"><u>Top Video Editing Apps Para Enaltecer Suas Produções No Youtube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-mp4-videos-into-mpg-files-without-cost-using-movavis-web-service/"><u>Transform Your MP4 Videos Into MPG Files Without Cost Using Movavi's Web Service</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avi-to-webm/"><u>무료 온라인 AVI to WEBM 전환 도구 사용하기 – 모바비</u></a></li>
 </ul></div>
 

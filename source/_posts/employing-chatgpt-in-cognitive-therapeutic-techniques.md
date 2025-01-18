@@ -1,7 +1,7 @@
 ---
 title: Employing ChatGPT in Cognitive Therapeutic Techniques
-date: 2024-09-02T20:33:53.915Z
-updated: 2024-09-03T20:33:53.915Z
+date: 2025-01-12T17:43:25.783Z
+updated: 2025-01-18T17:29:43.669Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
 
  ChatGPT is not just a chatbot; it's your potential digital therapy assistant. While it doesn't have a degree from an Ivy League school, it's available all day and night, and you can access it for free. Before you roll your eyes in doubt, give it a try for yourself. You might be surprised!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT and Cognitive Behavioral Therapy
 
  What makes ChatGPT suitable for the purpose of engaging in CBT? Well, ChatGPT has been trained on a wealth of data, including findings from psychological research, making it capable of grasping context and engaging in meaningful rhetoric.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
  CBT is a practical method of psychotherapy that focuses on solving everyday problems in your life, such as identifying and changing negative thought patterns. Because CBT often includes discussions and reflections with a therapist, ChatGPT is well suited to replicate the therapeutic process.
 
  You can already [use ChatGPT to improve your emotional intelligence](https://www.makeuseof.com/use-chatgpt-develop-emotional-intelligence/), so why not use it with a CBT focus? After all, CBT has emerged in the research as one of, if not the most, effective forms of psychotherapy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Steps to Use ChatGPT for CBT
 
@@ -46,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
  At the same time, if something feels off or not quite clicking, you can adjust your questions or simply tell ChatGPT in no uncertain terms that it needs to try a different approach or line of reasoning.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Writing Effective Prompts for CBT Practice
 
  There are many [CBT apps that can help with mental health](https://word2md.com/%E2%80%A2%09https:/www.makeuseof.com/cbt-apps-improve-mental-health). However, when diving into CBT with ChatGPT, you need to train it using prompts to get actionable results.
@@ -56,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
 
  A good prompt is like giving your GPS coordinates. It leads to a focused, relevant, and in the case of psychotherapy, insightful conversations. Being vague is like telling your GPS, "Take me somewhere fun." You might end up at the world's largest potato museum when you hoped for the beach.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Creating Effective Prompts for CBT With ChatGPT
 
  First and foremost, set ChatGPT up to be a CBT therapist. Consider the following example:
@@ -67,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
 
 ![ChatGPT being trained as CBT therapist-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/1-chatgpt-being-trained-as-cbt-therapist-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can tweak the above in a way that works best for you.
 
  After you've prepared ChatGPT to act like a therapist, you can begin to engage. But you'll want to be specific. Instead of "I'm feeling bad," try "I recently started a new job, and I'm worried that I'm in over my head. I've started to think non-stop about whether I'll be successful even when I'm not at work. Reflecting on my situation, can you summarize a CBT approach to overcoming my anxiety?"
@@ -79,27 +82,13 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
 ![ChatGPT response with advice as CBT therapist](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-chatgpt-response-with-advice-as-cbt-therapist.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And if the information is not specific enough, you can ask ChatGPT to get more specific.
 
 ![ChatGPT response with actions that can be taken today](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-chatgpt-response-with-actions-that-can-be-taken-today.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Precautions and Limitations of Using ChatGPT for CBT
 
  Keep in mind the following when using ChatGPT for CBT:
@@ -107,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
 * Protect your privacy and avoid sharing overly personal information. You never know where your data will end up, even with the most trusted websites.
 * ChatGPT offers general advice based on probabilities and might miss subtle cues that differentiate your situation from the general population. Take its advice with a grain of salt.
 * Consider reaching out to a real professional for deep or complex issues since ChatGPT might lack clinical judgment and intuition.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Using ChatGPT as a CBT Professional to Improve Mental Well-Being
 
@@ -118,14 +111,11 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
 
  ChatGPT is not just a chatbot; it's your potential digital therapy assistant. While it doesn't have a degree from an Ivy League school, it's available all day and night, and you can access it for free. Before you roll your eyes in doubt, give it a try for yourself. You might be surprised!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,4 +124,22 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-lens-leaders-battle-sj6-clashes-with-xiaomis-four-k-kickstarter/"><u>[New] In 2024, Lens Leaders Battle SJ6 Clashes with Xiaomi’s Four-K Kickstarter</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-cost-free-win-10-screencast-solutions-top-5-picks/"><u>[Updated] Cost-Free Win 10 Screencast Solutions Top 5 Picks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/art-of-writing-unattainable-for-ai-chatbot-assistance/"><u>Art of Writing Unattainable for AI Chatbot Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-academic-perks-essential-uses-for-student-success/"><u>ChatGPT's Academic Perks: Essential Uses for Student Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-dawn-of-artificocal-intelligence/"><u>Decoding the Dawn of Artificocal Intelligence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-patch-tuesday-a-closer-look-at-cybersecurity-practices/"><u>Demystifying Patch Tuesday: A Closer Look at Cybersecurity Practices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-samsung-galaxy-s23-ultra-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Samsung Galaxy S23 Ultra FRP Bypass</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-content-craft-with-chatgpt/"><u>Reimagining Content Craft with ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-computers-freeze-frame-repairing-a-laptops-unresponsive-input-device/"><u>Revive Your Computer’s Freeze-Frame: Repairing a Laptop's Unresponsive Input Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sever-link-to-chatgpt-instantly/"><u>Sever Link to ChatGPT Instantly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-infinix-note-30i-by-drfone-android/"><u>Top 10 Password Cracking Tools For Infinix Note 30i</u></a></li>
+<li><a href="https://win-community.techidaily.com/understanding-the-basics-of-granular-data-recovery-tech/"><u>Understanding the Basics of Granular Data Recovery Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-extraordinary-conversations-9-advantages-in-chatgptplus/"><u>Unlock Extraordinary Conversations - 9 Advantages in ChatGPT+</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-pioneering-the-next-wave-the-best-8-android-applications-for-sound-engineering/"><u>Updated In 2024, Pioneering the Next Wave The Best 8 Android Applications for Sound Engineering</u></a></li>
+</ul></div>
 

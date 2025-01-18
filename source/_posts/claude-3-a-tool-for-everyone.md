@@ -1,7 +1,7 @@
 ---
 title: "Claude 3: A Tool for Everyone?"
-date: 2025-01-07T16:16:58.631Z
-updated: 2025-01-12T19:10:56.294Z
+date: 2025-01-14T17:02:17.318Z
+updated: 2025-01-18T16:58:48.859Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -60,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
 ![Claude AI chatbot interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-image-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Just like most cutting-edge generative AI models out there, Claude 3 can generate top-notch responses for various queries across different fields. Whether you need a quick algebra problem solved, a brand-new song written, an in-depth article drafted, code written for software, or a massive data set analyzed, Claude 3 fits the bill.
 
  But most AI models are already good at these tasks, so why use Claude 3?
@@ -68,15 +72,15 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
  So, Claude 3 lets you do most of the things you can do with Gemini and GPT-4 (minus image generation) without having to pay the $20 subscription fee for ChatGPT premium.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Claude 3 vs. ChatGPT
 
 ![ChatGPT vs Claude AI logos](https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae116eaf3e790989364bc8da0ce.jpg)
 
  A quick way to test the performance of an AI model is to check how well it stacks up against the best in the market: GPT-4\. Of course, I put both models to the test; how well does Anthropic's Claude 3 stack up against the colossal GPT-4?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Claude vs. ChatGPT: Coding Skills
 
@@ -90,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
 ![Claude 3 makes todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-3-makes-todo-list-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Both apps were functional to an extent, but it is clear Claude 3 did a better job on this one.
 
  After trying more complex programming tests, Claude was the better model in several cases, while GPT-4 also had its wins. While I can't conclusively say Claude 3 is better at programming logic, if there was a huge gap between the two models, that gap would almost certainly have shrunk.
@@ -106,13 +106,13 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
 ![ChatGPT answers trick question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-answers-trick-question.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ChatGPT answered correctly even without GPT-4\. If you are wondering the reason for the choice of question, well, chatbots have historically failed woefully at this sort of questioning line. Up next was Claude's turn to answer.
 
 ![testing Claude 3 on commonsense reasoning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/testing-claude-3-on-commonsense-reasoning.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Claude's response wasn't exactly a definitive answer, but it was able to identify the key information; you don't bury survivors. It's important to note that the last time we asked Claude 2 the same question, it wasn't able to see through the common sense trap.
 
@@ -127,7 +127,7 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 ![ChatGPT writes lyrics to a rap song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-writes-lyrics-to-a-rap-song.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And here's Claude's response, using the same prompt.
@@ -137,7 +137,7 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
  It might be subjective, but Claude does seem to be the better option here. When both tools were tasked with drafting three articles on different topics, Claude provided the better option in all three instances. It produced a more human-like result and avoided patterns commonly associated with AI-generated texts, like exagerations, the use of complex words, and sporadic use of linking words.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Claude vs. ChatGPT: Image Recognition Abilities
@@ -169,20 +169,17 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-best-virtual-background-for-google-meet-video-call/"><u>[New] 2024 Approved Best Virtual Background for Google Meet Video Call</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-no-screen-only-silence-a6400-dilemma/"><u>[New] No Screen, Only Silence A6400 Dilemma</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-top-tech-gadgets-for-effortless-virtual-meetings-capture-for-2024/"><u>[New] Top Tech Gadgets for Effortless Virtual Meetings Capture for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-core-principles-youtubes-social-contract/"><u>[Updated] 2024 Approved Core Principles YouTube's Social Contract</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-the-path-to-higher-rankings-a-podcast-seo-guidebook/"><u>2024 Approved The Path to Higher Rankings A Podcast SEO Guidebook</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-realme-gt-neo-5-se-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Realme GT Neo 5 SE</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-influence-on-digital-content-production/"><u>AI's Influence on Digital Content Production</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augmented-search-the-ai-power-of-bing-on-android/"><u>Augmented Search: The AI Power of Bing on Android</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-magicard-rio-pro-driver-software-available-for-windows-users/"><u>Latest Magicard Rio Pro Driver Software Available for Windows Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximize-tasks-the-best-8-ai-chrome-extension-tools/"><u>Maximize Tasks: The Best 8 AI Chrome Extension Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/outsmarting-oracles-next-level-in-ai-assessment/"><u>Outsmarting Oracles: Next Level in AI Assessment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pursuing-fitness-utilizing-chatgpt-for-clear-targets/"><u>Pursuing Fitness: Utilizing ChatGPT for Clear Targets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-interactive-media-blizzards-journey-into-microsofts-visionary-tech-world-industry-insights/"><u>The Future of Interactive Media: Blizzard's Journey Into Microsoft's Visionary Tech World [Industry Insights]</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211394163-9781507300091-the-ufo-phenomenon/"><u>The UFO Phenomenon | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-stressful-emails-chatgpt-as-your-professional-pal/"><u>Transforming Stressful Emails: ChatGPT as Your Professional Pal</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-elevating-your-linkedin-presence-for-2024/"><u>[New] Elevating Your LinkedIn Presence for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-evasion-tactics-for-watching-instagram-stories-unattached-to-your-account/"><u>[New] In 2024, Evasion Tactics for Watching Instagram Stories Unattached to Your Account</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unveiling-top-6-microphones-perfect-for-online-streaming-success/"><u>[New] In 2024, Unveiling Top 6 Microphones Perfect for Online Streaming Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2-a-closer-look-at-windows-movie-makers-journey-through-highs-and-lows-the-2024-update-breakdown/"><u>2. A Closer Look at Windows Movie Maker's Journey Through Highs and Lows - The 2024 Update Breakdown</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-your-blueprint-for-a-smooth-youtube-to-facebook-content-flow/"><u>2024 Approved Your Blueprint for a Smooth YouTube to Facebook Content Flow</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-s17-pro-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Vivo S17 Pro</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/best-aspect-ratios-to-enhance-video-quality/"><u>Best Aspect Ratios to Enhance Video Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-descargar-videos-de-youtube-como-mp4-sin-coste-los-9-mas-efectivos-para-su-dispositivo/"><u>Cómo Descargar Videos De YouTube Como MP4 Sin Coste: Los 9 Más Efectivos Para Su Dispositivo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converti-file-video-3gp-in-formato-audio-libero-m4a-con-movavi/"><u>Converti File Video 3GP in Formato Audio Libero M4A Con Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/os-melhores-programas-gratuitos-de-gravacao-de-dvds-compativeis-com-windows-1187-uma-lista-com-ranking/"><u>Os Melhores Programas Gratuitos De Gravação De DVDs Compatíveis Com Windows 11/8/7: Uma Lista Com Ranking</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317045-9781401929244-turning-point/"><u>Turning Point | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-cutting-out-the-extra-how-to-remove-irrelevant-sections-from-your-videoclips/"><u>Ultimate Guide: Cutting Out the Extra - How to Remove Irrelevant Sections From Your Videoclips</u></a></li>
 </ul></div>
 

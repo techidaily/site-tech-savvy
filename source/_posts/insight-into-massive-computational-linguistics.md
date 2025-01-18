@@ -1,7 +1,7 @@
 ---
 title: Insight Into Massive Computational Linguistics
-date: 2025-01-11T18:31:56.284Z
-updated: 2025-01-12T20:25:52.373Z
+date: 2025-01-11T17:51:02.137Z
+updated: 2025-01-18T17:29:26.691Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is a Large Language Model?
@@ -57,21 +57,17 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
 ![Screenshot of question about bats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-bats.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  However, it isn't infallible, and as this example shows, sometimes you will need to supply additional information to get the desired response.
 
 ![Screenshot of out of context bat reply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-out-of-context-bat-reply.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In this instance, we deliberately threw a bit of a curve ball to demonstrate how easily context is lost. But humans can misunderstand the context of questions too, and it only needs an extra prompt to correct the response.
 
 ![Screenshot of question about what type of wood is a bat made from](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-what-type-of-wood-is-a-bat-made-from.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To generate these responses, LLMs use a technique called natural language generation (NLG). This involves examining the input and using the patterns learned from its data repository to generate a contextually correct and relevant response.
 
@@ -79,12 +75,16 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
  To summarize, LLMs use a massive text database with a combination of deep learning and NLG techniques to create human-like responses to your prompts. But there are limitations to what this can achieve.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are the Limitations of LLMs?
 
 ![woman frustrated at response from computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/woman-frustrated-at-response-from-computer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  LLMs represent an impressive technological achievement. But the technology is far from perfect, and there are still plenty of limitations as to what they can achieve. Some of the more notable of these are listed below:
@@ -101,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
  The continuing advance of AI is now largely underpinned by LLMs. So while they aren't exactly a new technology, they have certainly reached a point of critical momentum, and there are now many models.
 
  Here are some of the most widely used LLMs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. GPT
 
@@ -133,6 +129,10 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
  These are just a few of the areas where LLMs are likely to become a larger part of the way we live.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## LLMs Transforming and Educating
 
  LLMs are opening up an exciting world of possibilities. The rapid rise of chatbots such as ChatGPT, Bing Chat, and Google Bard is evidence of the resources being poured into the field.
@@ -158,18 +158,16 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/behind-the-scenes-with-bots-understanding-censorship-practices/"><u>Behind the Scenes with Bots: Understanding Censorship Practices</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/transcription-aid-for-your-youtube-videos-for-2024/"><u>Best Transcription Aid for Your YouTube Videos for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cut-the-red-tape-speak-to-chatgpt/"><u>Cut the Red Tape – Speak to ChatGPT!</u></a></li>
-<li><a href="https://facebook.techidaily.com/exiting-friendships-removing-someone-from-your-feed/"><u>Exiting Friendships: Removing Someone From Your Feed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correct-a-failing-windows-10-update-process-expert-tips-for-users-resolved/"><u>How to Correct a Failing Windows 10 Update Process - Expert Tips for Users [RESOLVED]</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tech-gossip-delving-into-the-details-of-the-hyped-tesla-phone-projected-costs-and-potential-specs-uncovered/"><u>Tech Gossip: Delving Into the Details of the Hyped Tesla Phone – Projected Costs and Potential Specs Uncovered</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dialogue-showdown-chatgpt-vs-bings-bot/"><u>The Dialogue Showdown: ChatGPT Vs. Bing's Bot</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-strategies-for-utilizing-auto-gtp/"><u>Top Strategies for Utilizing Auto-GTP</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unseen-content-undermines-trust-in-ai/"><u>Unseen Content Undermines Trust in AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-titans-comparative-study-of-notion-and-chatgpt/"><u>Unveiling the Titans: Comparative Study of Notion and ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-to-look-out-for-in-bincoin-token-trading/"><u>What to Look Out For in BinCoin Token Trading</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-the-fast-lane-capturing-games-on-galaxy-devices/"><u>[New] In the Fast Lane Capturing Games on Galaxy Devices</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-quicktakes-why-videos-thrive-on-twitter-writes/"><u>[New] QuickTakes Why Videos Thrive on Twitter' Writes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bebops-visionary-feathered-future-examined/"><u>[Updated] Bebop's Visionary Feathered Future Examined</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversione-libera-online-da-file-wma-a-formato-ogg-con-movavi/"><u>Conversione Libera Online: Da File WMA a Formato Ogg Con Movavi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-the-top-strategies-for-watching-global-cricket-events-online/"><u>Discover the Top Strategies for Watching Global Cricket Events Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-download-and-use-imovie-for-your-pc-step-by-step-instructions/"><u>How to Download and Use iMovie for Your PC - Step-by-Step Instructions</u></a></li>
+<li><a href="https://discover-able.techidaily.com/lyrx-karaoke-player-version-1601-now-updated-free-download-and-installation-guide/"><u>LYRX Karaoke Player Version 1.6.0.1 Now Updated: Free Download & Installation Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1715701212405-screen-recording-through-built-in-features-of-huaweis-mate-and-p-devices-p20-p10/"><u>Screen Recording Through Built-In Features of Huawei's Mate and P Devices (P20, P10).</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-choosing-your-perfect-9-online-anniversary-celebration-videos/"><u>The Ultimate Guide to Choosing Your Perfect 9 Online Anniversary Celebration Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-tus-fotos-en-formato-cr2-directamente-al-popular-jpg-con-facilidad-guia-completa/"><u>Transforma Tus Fotos en Formato CR2 Directamente Al Popular JPG Con Facilidad - Guía Completa</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/versterk-je-webinarrief-met-gratuite-f4vflv-konektie-overwin-met-movavi-konverteerder/"><u>Versterk Je Webinarrief Met Gratuite F4V/FLV Konektie - Overwin Met Movavi Konverteerder</u></a></li>
 </ul></div>
 

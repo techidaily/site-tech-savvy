@@ -1,7 +1,7 @@
 ---
 title: "Counterfeit Chronicles: Detecting Computer-Generated Writing"
-date: 2024-09-02T20:41:14.144Z
-updated: 2024-09-03T20:41:14.144Z
+date: 2025-01-13T17:31:02.330Z
+updated: 2025-01-18T17:26:18.106Z
 tags:
   - chatgpt
   - open-ai
@@ -21,9 +21,17 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 
  **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Dangers of AI Writing
 
  From the risk of misinformation to losing your brand voice, there are many dangers associated with using AI to produce content. Here are the top five dangers of using AI to generate written content.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Misinformation
 
@@ -36,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
  Sharing incorrect information can be particularly detrimental when it comes to topics that have the potential to negatively impact someone's health or finances.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Quality Concerns and Possible Plagiarism
 
  AI-based content generators are essentially web scrapers that can learn from data fed to them and generate new ideas or better-quality content. But they, now and then, fall short of this goal.
@@ -47,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
  Another drawback of using AI to write is the increased likelihood of unintentional plagiarism.[The Guardian](https://www.theguardian.com/us-news/2023/jan/06/new-york-city-schools-ban-ai-chatbot-chatgpt) reports that one of the reasons schools in New York City banned ChatGPT is the risk of students using it to write assignments and passing them off as their work.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Algorithms Devaluing Your Content
 
  Publishers who use AI to write risk having their site penalized by search engines. According to Google, sites with lots of unhelpful content are less likely to rank well in Search. Google states that its team is constantly working to ensure users see more original, helpful content written by people, for people, in search results.
@@ -63,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 
  Thought-provoking and unique content often include personal experiences, opinions, and analysis, which are a few areas where AI falls short, at least at present.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Reputational Risk and Watered-Down Brand Voice
 
  Reputational risk refers to any threat or danger that can damage an individual or company's good name or standing. This risk can occur if your brand publishes error-ridden AI-written posts that your audience finds distasteful.
@@ -82,9 +89,6 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 
 ![Some text illustrating repetition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ai-repetition.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Even though GPT-3 can generate coherent sentences, AI writing tools frequently appear to have difficulty producing long-form, high-quality content.
 
  Many users assert that after generating a few high-quality paragraphs on a specific subject, some AI text generators will either start to repeat themselves or spew irrelevant sentences. This is due to the AI tool adding a series of what it thinks are relevant sentences to reach the target word count.
@@ -97,9 +101,6 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 
 ![Gibberish text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/gibberish.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  AI tools may be incapable of correctly interpreting the context of a piece of writing. This could lead to content that lacks the coherence and logical flow of human-written content.
 
  AI-generated content is sometimes characterized by grammatical mistakes, punctuation errors, and even paragraphs with a disjointed structure.
@@ -112,13 +113,18 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 
  An AI writing tool can quickly generate facts and simple sentences but not in-depth commentaries. So if you're reading an article and notice it's heavy on facts and light on opinions, it's likely written by a bot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Check for the Absence of Emotions or Personal Experiences
 
  One obvious problem with current AI writing tools is their inability to display human emotions and subjective experiences. These things are hard to teach because there are no logical steps explaining how to feel or perceive the world. If you notice an article has a flat tone or emotions that feel forced, a bot may have written it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Use an AI Content Detector Tool
 
  A common way of determining whether you're reading AI-generated text is using software that examines text components like readability, sentence length, and word repetition. Popular AI content detector tools include GPT-2 Output Detector, GLTR (Giant Language Model Test Room), and GPTZero.
@@ -127,9 +133,6 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 
  Remember, though, AI content detector tools aren't perfect and may be ineffective against new language models and small amounts of text.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI-Generated Text: The Risks and How to Spot It
 
  Although AI writing tools, like ChatGPT, can be helpful in specific contexts, it's important to use them cautiously and consider the potential risks.
@@ -144,8 +147,6 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +154,22 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-masterful-approach-to-creating-attractive-yt-summaries/"><u>2024 Approved Masterful Approach to Creating Attractive YT Summaries</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-substitutes-for-winmovie-new-windows-editors/"><u>2024 Approved Substitutes for WinMovie New Windows Editors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-evolution-and-alternatives-to-googles-ar-stickers/"><u>2024 Approved The Evolution and Alternatives to Google's AR Stickers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advanced-ai-systems-mastering-internet-information-retrieval/"><u>Advanced AI Systems Mastering Internet Information Retrieval</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-beast-exploring-the-features-and-capabilities-of-the-dell-g5-5090-gaming-desktop/"><u>Budget-Friendly Beast - Exploring the Features and Capabilities of the Dell G5 5090 Gaming Desktop</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/al-diving-into-youtubes-veiled-video-vaults/"><u>Digital Diving Into YouTube’s Veiled Video Vaults</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-started-on-ai-based-bing-simple-setup-procedure/"><u>Get Started on AI-Based Bing: Simple Setup Procedure</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/how-to-read-ebooks-in-epub-format-on-your-iphone-tips-for-iphones-6-5-and-4/"><u>How to Read eBooks in ePub Format on Your iPhone: Tips for iPhones 6, 5 & 4</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-xps-cinematic-compositions-now/"><u>In 2024, Unlock XP's Cinematic Compositions Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/neural-networks-and-the-threat-of-data-reverse-engineering/"><u>Neural Networks and the Threat of Data Reverse-Engineering</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functional-bluetooth-mouse-on-windows-pc/"><u>Troubleshooting Guide: How to Fix a Non-Functional Bluetooth Mouse on Windows PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncharted-territory-7-exceptional-tools-beyond-gpt/"><u>Uncharted Territory: 7 Exceptional Tools Beyond GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-full-ai-potential-dive-into-the-9-pluses/"><u>Unlock Full AI Potential - Dive Into the 9 Pluses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-avoid-simplified-text-interpretations-by-algorithms/"><u>Why Avoid Simplified Text Interpretations by Algorithms?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-caution-overreliance-on-ai-in-messaging-is-wise/"><u>Why Caution Overreliance on AI in Messaging Is Wise</u></a></li>
+</ul></div>
 

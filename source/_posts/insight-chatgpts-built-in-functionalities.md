@@ -1,7 +1,7 @@
 ---
 title: "Insight: ChatGPT's Built-In Functionalities"
-date: 2025-01-06T21:05:50.908Z
-updated: 2025-01-13T00:52:25.040Z
+date: 2025-01-16T17:14:48.774Z
+updated: 2025-01-18T17:11:10.912Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 * [How to Use ChatGPT's Standard Plugins](https://turtlebeachus.sjv.io/vmebyo)
 * [How to Use ChatGPT's Plugins on Mobile](https://getlyla.pxf.io/ek9gkg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * ChatGPT Plus includes three built-in plugins: Browse with Bing, Code Interpreter, and DALL-E, which enhance its capabilities.
@@ -45,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are ChatGPT's Default Plugins?
@@ -64,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 
  If you don't have a ChatGPT Plus account, you won't be able to access these plugins. So, consider signing up for the $20 monthly premium plan if you want to overcome this barrier.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Browse with Bing
 
  To get started with Browse with Bing, make a request requiring real-time data or specifically clarify that you want ChatGPT to search the web for a prompt.
@@ -83,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
  Sometimes, ChatGPT provides fabricated or unreliable sources for its answers, so it's always best to check the source before using any of the information provided.
 
  It's likely that ChatGPT won't conduct a web search for data it already has access to, such as historical facts. If searching the web is necessary, make that known in your prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. DALL-E
 
@@ -108,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 
 ![screenshot of ChatGPT python response in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-python-response.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If ChatGPT picks up on any errors in your code, it will notify you and provide a correction.
 
  You can upload text files and documents for analysis in a wide range of formats, including PDF, DOCX, JSON, TXT, and PPTX. You can also choose from multiple data and code formats and even upload a JPEG image of the code in question.
@@ -116,18 +116,22 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 
 ![screenshot of file upload for code interpretation in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/upload-python-gpt.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also ask ChatGPT to give you Python code for the function or program you want to create. However, this isn't part of the Interpreter plugin, so it can be used with GPT-3.5 or GPT-4\.
 
 ![Screenshot of ChatGPT python code excerpt response in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-python-excerpt.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Make sure you run whatever code is provided through a dedicated Python execution tool before implementing it. ChatGPT can make mistakes, so it's always best to run some checks on any data it gives you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use ChatGPT's Plugins on Mobile
@@ -139,10 +143,6 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 ![screenshot of ChatGPT mobile app dall-e response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-dalle.jpg)
 
 ![Screenshot of ChatGPT python interpreter in mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-python.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -169,24 +169,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-srt-file-open-srt-file-on-windows-or-mac/"><u>[New] SRT File Open SRT File on Windows or Mac</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-tailored-techniques-for-logging-high-quality-roblox-sessions-on-a-mac-for-2024/"><u>[New] Tailored Techniques for Logging High-Quality Roblox Sessions on a Mac for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-encompass-entire-webpage-in-view-for-2024/"><u>[Updated] Encompass Entire Webpage in View for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-superb-phone-video-and-photo-capturing-with-best-apps-list/"><u>[Updated] Superb Phone Video & Photo Capturing with Best Apps List</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-comprehensive-guide-to-upgrading-your-systems-bios-on-windows-11/"><u>A Comprehensive Guide to Upgrading Your System's BIOS on Windows 11</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/channel-elevation-strategy-quickly-reach-your-10k-view-quota-for-2024/"><u>Channel Elevation Strategy – Quickly Reach Your 10K View Quota for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/complete-guide-enabling-minecraft-singleplayer-mode-in-windows-11/"><u>Complete Guide: Enabling Minecraft Singleplayer Mode in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-vpns-understanding-their-role-in-protecting-your-digital-life/"><u>Demystifying VPNs: Understanding Their Role in Protecting Your Digital Life</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-and-complete-instructions-on-upgrading-to-the-latest-windows-operating-system/"><u>Easy & Complete Instructions on Upgrading to the Latest Windows Operating System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-installation-guide-for-directx-on-windows-11-and-10-quickly-done/"><u>Easy Installation Guide for DirectX on Windows 11 & 10 – Quickly Done</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effective-steps-to-clear-temp-files-in-windows-11-complete-guide/"><u>Effective Steps to Clear Temp Files in Windows 11 - Complete Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-cross-platform-play-a-quick-guide-to-enjoying-ps4-titles-on-your-android-device-in-three-easy-steps/"><u>Effortless Cross-Platform Play: A Quick Guide to Enjoying PS4 Titles on Your Android Device in Three Easy Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-setup-how-to-pair-your-bluetooth-speaker-with-a-laptop-in-minutes/"><u>Effortless Setup: How to Pair Your Bluetooth Speaker with a Laptop in Minutes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-online-anonymity-with-tor-on-windows-11-a-comprehensive-guide/"><u>Enhancing Online Anonymity with Tor on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Oppo Find N3 Flip? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-vivo-g2-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Vivo G2 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/reducing-noise-sensitivity-in-logic-pro-mixes/"><u>Reducing Noise Sensitivity in Logic Pro Mixes</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/revamping-reality-the-premier-11-instagram-edits-for-2024/"><u>Revamping Reality The Premier 11 Instagram Edits for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/solve-your-wow-ship-battles-essential-fixes-for-pc-game-crashes/"><u>Solve Your WoW Ship Battles: Essential Fixes for PC Game Crashes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chasing-the-cause-of-frozen-photobooth-videos/"><u>[New] Chasing the Cause of Frozen Photobooth Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-leading-device-editors-for-app-development-art/"><u>[New] Leading Device Editors for App Development Art</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-tips-and-tricks-for-iphone-low-light-photography-for-2024/"><u>[New] Tips and Tricks for iPhone Low Light Photography for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-simplifying-the-process-of-enabling-virtual-screen-on-meet/"><u>[Updated] Simplifying the Process of Enabling Virtual Screen on Meet</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-ultimate-blueprint-for-telegram-marketplace-success/"><u>2024 Approved The Ultimate Blueprint for Telegram Marketplace Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-find-the-best-and-easy-guide-to-use/"><u>7 : Find the Best and Easy Guide to Use!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mpegifmovavi/"><u>簡単なステップでMPE画像を自由にGIFに変換：Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862832658-breakthrough-in-gaming-displays-ultra-hd-samsungs-gen-2-odyssey-for-gamers-now-more-accessible-than-ever/"><u>Breakthrough in Gaming Displays: Ultra HD Samsung's Gen 2 Odyssey for Gamers - Now More Accessible Than Ever</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversor-libre-en-linea-3gpp-para-formato-m4a-por-movavi/"><u>Conversor Libre en Línea 3GPP Para Formato M4A Por Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/entendendo-o-contraste-de-mov-e-mp4-qual-tem-as-vantagens/"><u>Entendendo O Contraste De MOV E MP4: Qual Tem as Vantagens?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-on-how-to-remove-crashdump-data-in-windows-11/"><u>Expert Tips on How To Remove Crashdump Data in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuit-veuillez-convertir-votre-fichier-caf-en-format-ogg-conversion-video-professionnelle-avec-movavi/"><u>Gratuit Veuillez Convertir Votre Fichier CAF en Format OGG - Conversion Vidéo Professionnelle Avec Movavi</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-everything-you-need-to-know-about-io-screen-recorder/"><u>In 2024, Everything You Need to Know About IO Screen Recorder</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-beveled-video-format-converter-m4v-to-aac-free-download-at-movavi/"><u>Online Beveled Video Format Converter M4V to AAC Free Download at Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
 </ul></div>
 

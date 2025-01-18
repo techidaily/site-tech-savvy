@@ -1,7 +1,7 @@
 ---
 title: The Evolving Perils of Next-Gen Generative AI
-date: 2025-01-10T19:12:50.676Z
-updated: 2025-01-12T16:15:10.795Z
+date: 2025-01-16T16:01:02.334Z
+updated: 2025-01-18T16:38:30.815Z
 tags:
   - chatgpt
   - open-ai
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![Accessing the Open-Source Codes of HuggingFace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/huggingface-open-source-codes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Jailbreaking Prompts Trick LLMs
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 ![ChatGPT Explaining Trojan Viruses But Not Coding Them](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-on-trojan-viruses.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That said, restrictions aren’t foolproof. Users bypass limits by rephrasing prompts, using confusing language, and composing explicitly detailed instructions.
 
  Read the below [ChatGPT jailbreak prompt](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/). It tricks ChatGPT into using rude language and making baseless predictions—both acts violate OpenAI’s guidelines.
@@ -59,12 +63,16 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![Jailbreaking ChatGPT With DAN Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-dan-jailbreak-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here’s ChatGPT with a bold yet false statement.
 
 ![ChatGPT Making Baseless Predictions About Bitcoin Prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-predicting-bitcoin-prices.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. AI Compromises Security for Versatility
 
@@ -76,16 +84,12 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 ![ChatGPT Roleplaying as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-tomie-roleplays.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And here’s Bing Chat refusing to play an “immoral” persona.
 
 ![Bing Chat Refusing to Roleplay as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-tomie-roleplay.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. New Generative AI Tools Hit the Market Regularly
@@ -125,7 +129,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![Searching for ChatGPT on Google Play Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-play-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Black-Hat Hackers Have More to Gain That White-Hat Hackers
@@ -135,10 +139,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
  Alternatively, crooks make tens of thousands by exploiting insecurities. They might blackmail companies by leaking confidential data or commit ID theft with stolen [Personally Identifiable Information (PII)](https://www.makeuseof.com/what-is-personally-identifiable-information/).
 
  Every institution, small or large, must implement AI systems properly. Contrary to popular belief, hackers go beyond tech startups and SMBs. Some of the most [historic data breaches in the past decade](https://www.makeuseof.com/historic-data-breaches/) involve Facebook, Yahoo!, and even the U.S. government.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Protect Yourself From the Security Risks of AI
 
@@ -165,20 +165,18 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-desktop-dials-adjusting-audio-to-a-whisper/"><u>[New] Desktop Dials Adjusting Audio to a Whisper</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-insights-into-whatsapp-sound-calls/"><u>[New] Insights Into WhatsApp Sound Calls</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-comprehensive-guide-to-cross-posting-youtube-video-on-fb/"><u>2024 Approved Comprehensive Guide to Cross-Posting YouTube Video on FB</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-frequency-logging-microphone-sounds-and-dialogue/"><u>2024 Approved Frequency Logging Microphone Sounds & Dialogue</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-the-ultimate-guide-to-choosing-a-premium-portable-vlog-camera/"><u>2024 Approved The Ultimate Guide to Choosing a Premium Portable Vlog Camera</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-conversational-dynamics-the-evolution-of-response-mechanisms/"><u>AI Conversational Dynamics: The Evolution of Response Mechanisms</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/is-mastering-german-an-achievement-in-disguise/"><u>Is Mastering German an Achievement in Disguise?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/jokegenius-get-the-best-meme-app/"><u>JokeGenius - Get the Best Meme App</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-fix-update-your-windows-10-drivers-with-these-simple-steps/"><u>Quick Fix: Update Your Windows 10 Drivers with These Simple Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/resolved-troubleshooting-tips-for-fixing-windows-11-install-errors/"><u>Resolved: Troubleshooting Tips for Fixing Windows 11 Install Errors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/service-host-local-system-svchostexe-high-disk-usage-on-windows-10-solved/"><u>Service Host: Local System (svchost.exe) High Disk Usage on Windows 10 [Solved]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-guide-updating-your-video-card-driver-on-windows-11-step-by-step/"><u>Simple Guide: Updating Your Video Card Driver on Windows 11 - Step-by-Step</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-capturing-your-laptops-screen-with-ease/"><u>Step-by-Step Guide: Capturing Your Laptop's Screen with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-boot-issues-where-computer-starts-but-has-zero-display-output/"><u>Troubleshooting Boot Issues Where Computer Starts But Has Zero Display Output</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtual-worlds-collide-rift-vive-and-vr-playstation-compared/"><u>Virtual Worlds Collide Rift, Vive & VR PlayStation Compared</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-youtube-free-convert-your-fb-videos-into-720p1080p-mp4-online-guide/"><u>[New] YouTube-Free Convert Your FB Videos Into 720P/1080p MP4 Online Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-translate-speech-to-text-the-right-way-with-google-translate/"><u>[Updated] In 2024, Translate Speech to Text the Right Way with Google Translate</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-asus-rog-phone-8-pro-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-pro-unraveited-standing-against-advanced-gpt-plus/"><u>Claude Pro Unraveited: Standing Against Advanced GPT-Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-premier-openai-paint-applications/"><u>Discovering the Premier OpenAI Paint Applications</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/entendiendo-el-formato-de-archivos-m4v-y-pasos-para-acceder-a-el/"><u>Entendiendo El Formato De Archivos M4V Y Pasos Para Acceder a Él</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/immediate-integration-how-to-access-and-utilize-gpt-4-with-chatgpt/"><u>Immediate Integration: How to Access and Utilize GPT-4 with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-termination-legal-with-chatgpt-usage-examining-ten-cases/"><u>Is Termination Legal with ChatGPT Usage? Examining Ten Cases</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt3-for-fitness-inquiry-mastery/"><u>Leveraging GPT3 for Fitness Inquiry Mastery</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/menjalankan-prosedur-langsung-untuk-memindahkan-hard-disk-besar-hdd-ke-ssd-bebas-perlu-menyalin-ulang-opsi-operasi-windows-tutorial-terlengkap/"><u>Menjalankan Prosedur Langsung Untuk Memindahkan Hard Disk Besar (HDD) Ke SSD, Bebas Perlu Menyalin Ulang Opsi Operasi Windows: Tutorial Terlengkap!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-restoring-lenovo-biometric-sensor-functionality/"><u>Step-by-Step Guide: Restoring Lenovo Biometric Sensor Functionality</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-tutorial-on-designing-dynamic-facebook-slides-for-2024/"><u>The Ultimate Tutorial on Designing Dynamic Facebook Slides for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/understanding-user-engagement-measuring-own-and-enemy-content/"><u>Understanding User Engagement Measuring Own and Enemy Content</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen AI: Escalating Cybersecurity Concerns"
-date: 2024-09-02T20:38:55.859Z
-updated: 2024-09-03T20:38:55.859Z
+date: 2025-01-16T17:09:09.313Z
+updated: 2025-01-18T17:12:25.479Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831
 
 ![Accessing the Open-Source Codes of HuggingFace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/huggingface-open-source-codes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Jailbreaking Prompts Trick LLMs
 
  AI is inherently amoral. It doesn’t understand right and wrong—even advanced systems follow training instructions, guidelines, and datasets. They merely recognize patterns.
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831
  Let’s look at ChatGPT. Although it answers general questions about Trojans, it won’t discuss the process of developing them.
 
 ![ChatGPT Explaining Trojan Viruses But Not Coding Them](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-on-trojan-viruses.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That said, restrictions aren’t foolproof. Users bypass limits by rephrasing prompts, using confusing language, and composing explicitly detailed instructions.
 
@@ -54,8 +62,13 @@ thumbnail: https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831
 ![ChatGPT Making Baseless Predictions About Bitcoin Prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-predicting-bitcoin-prices.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. AI Compromises Security for Versatility
 
  AI developers prioritize versatility over security. They spend their resources training platforms to accomplish a more diverse range of tasks, ultimately cutting restrictions. After all, the market hails functional chatbots.
@@ -86,9 +99,6 @@ thumbnail: https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831
 
  While OpenAI quickly resolved the issue, it emphasizes the importance of system regulation and risk management. AI is maturing faster than anyone anticipated. Even tech leaders worry that this superintelligent technology could cause massive damage in the wrong hands.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. AI Is Still Evolving
 
 ![ChatGPT, Bard, Bing, and Snapchat AI Logos Side by Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/different-ai-logos.jpg)
@@ -99,9 +109,6 @@ thumbnail: https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831
 
  Of course, developers can fix these issues. Just note that crooks won’t hesitate to exploit even seemingly harmless bugs—some damages are irreversible. So be careful when exploring new platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Many Don’t Understand AI Yet
 
  While the general public has access to sophisticated language models and systems, only a few know how they work. People should stop treating AI like a toy. The same chatbots that generate memes and answer trivia also code viruses en masse.
@@ -113,11 +120,13 @@ thumbnail: https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831
 ![Searching for ChatGPT on Google Play Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-play-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Black-Hat Hackers Have More to Gain That White-Hat Hackers
 
  Black-hat hackers typically have [more to gain than ethical hackers](https://www.makeuseof.com/white-hat-hacker/). Yes, pen testing for global tech leaders pays well, but only a percentage of cybersecurity professionals land these jobs. Most do freelance work online. Platforms like [HackerOne](https://www.hackerone.com/) and [Bugcrowd](https://www.bugcrowd.com/) pay a few hundred bucks for common bugs.
@@ -126,9 +135,6 @@ thumbnail: https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831
 
  Every institution, small or large, must implement AI systems properly. Contrary to popular belief, hackers go beyond tech startups and SMBs. Some of the most [historic data breaches in the past decade](https://www.makeuseof.com/historic-data-breaches/) involve Facebook, Yahoo!, and even the U.S. government.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Protect Yourself From the Security Risks of AI
 
  Considering these points, should you avoid AI altogether? Of course not. AI is inherently amoral; all security risks stem from the people actually using them. And they’ll find ways to exploit AI systems no matter how far these evolve.
@@ -139,14 +145,11 @@ thumbnail: https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831
 
  Although impressive, generative AI also presents security risks. Some people merely use chatbots to cheat on exams, but others exploit them outright for cybercrimes. Here are eight reasons these issues will persist, not just **despite** AI’s advancements but **because** of them too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -155,4 +158,24 @@ thumbnail: https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-ultimate-auditory-interface-win/"><u>[New] 2024 Approved Ultimate Auditory Interface, WIN</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-8-mirrorless-cams-for-professional-videographers/"><u>[New] In 2024, Essential 8 Mirrorless Cams for Professional Videographers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-secure-footage-leading-stabilizers-on-youtube/"><u>[New] Secure Footage Leading Stabilizers on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gigglegallery-log-in-and-make-magic-videos/"><u>[Updated] GiggleGallery Log In and Make Magic Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-state-of-the-art-methods-for-documenting-digital-education-for-2024/"><u>[Updated] State-of-the-Art Methods for Documenting Digital Education for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bards-clash-with-gpt-vs-online-sheep-best-ai-ranked/"><u>Bards Clash with GPT, vs Online Sheep - Best AI Ranked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-ipad-chatgpt-problems-9-techniques-to-try/"><u>Bypassing iPad ChatGPT Problems: 9 Techniques to Try</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-just-got-ios-friendly/"><u>ChatGPT Just Got iOS-Friendly!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/coding-excellence-with-chatgpt-and-vs-code-synergy/"><u>Coding Excellence with ChatGPT & VS Code Synergy</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-to-fix-google-hangouts-microphone-not-working/"><u>Easy to Fix Google Hangouts Microphone Not Working</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-the-auto-gpt-installer/"><u>Navigate the Auto-GPT Installer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-gpt-tailor-your-own-model/"><u>New GPT: Tailor Your Own Model</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secure-your-apple-vision-pro-with-a-vpn-a-step-by-step-tutorial-and-benefits-explanation-techguides/"><u>Secure Your Apple Vision Pro with a VPN: A Step-by-Step Tutorial & Benefits Explanation | TechGuides</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-dialogue-engineers-personalizing-chatgpt-with-create-a-gpt/"><u>Tailored Dialogue Engineers: Personalizing ChatGPT with Create a GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-inner-peace-ai-guided-journeys-to-meditation/"><u>Unleashing Inner Peace: AI-Guided Journeys to Meditation</u></a></li>
+</ul></div>
 

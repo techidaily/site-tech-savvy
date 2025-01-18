@@ -1,7 +1,7 @@
 ---
 title: "Copilot Mode: Free Access to GPT-4's Best Features"
-date: 2024-09-02T20:38:07.470Z
-updated: 2024-09-03T20:38:07.470Z
+date: 2025-01-16T16:38:06.199Z
+updated: 2025-01-18T17:13:30.422Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/1382e80fe89cdc85e3f86df652866f8b806d3041c
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is GPT-4 Turbo?
 
 ![gpt-4 logo on smartphone screen](https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fedee62792e7be872d16bace959.jpg)
@@ -38,43 +42,41 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
 
  If you want to bring Copilot up faster, you can do so by pressing **Win + C**. Or, if you're lucky enough to own a [laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/), just press that to bring up the assistant at any time.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Use GPT-4 Turbo for Free on Other Devices
 
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you don't have a Copilot button yet or use a different operating system, you can still use the [Copilot website](https://copilot.microsoft.com/). Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.
 
  If you're on mobile, you can download the [Copilot app for Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2032122/https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=en&gl=US) or [iOS](https://apps.apple.com/us/app/microsoft-copilot/id6472538445). The app has a toggle when you open it that enables or disables GPT-4\. It may not be the Turbo version, but it should still be powerful enough to handle your queries.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Get the Most Out of GPT-4 Turbo
 
 ![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  GPT-4 Turbo is very powerful, but it's only as good as what you feed it. Here are a few tips to get the most out of GPT-4 Turbo and Copilot.
 
  Always remember that Copilot currently doesn't process its queries locally; everything gets sent back to Microsoft's servers so it can generate your answer. Be careful and avoid telling Copilot anything private or something that could identify you.
@@ -85,14 +87,11 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -101,4 +100,26 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-precise-documentation-how-to-record-full-fbm-calls-for-2024/"><u>[New] Precise Documentation How to Record Full FBM Calls for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-essential-software-for-enthusiasts-top-5-ps1-emulators/"><u>2024 Approved Essential Software for Enthusiasts Top 5 PS1 Emulators</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-realme-12-pro-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Realme 12 Pro 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-getting-scammed-by-genuine-vs-faux-bingchat-coins/"><u>Avoid Getting Scammed by Genuine vs Faux BingChat Coins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/could-your-job-be-in-jeopardy-over-using-language-models-10-examples/"><u>Could Your Job Be In Jeopardy Over Using Language Models? 10 Examples</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-ai-complexity-the-power-gap/"><u>Decoding AI Complexity: The Power Gap</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/download-und-erstellung-von-bootfahigen-medien-mit-windows-assessment-and-inventory-kit-aik/"><u>Download Und Erstellung Von Bootfähigen Medien Mit Windows Assessment and Inventory Kit (AIK)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dynamic-training-blueprints-gpt-collaboration/"><u>Dynamic Training Blueprints: GPT Collaboration</u></a></li>
+<li><a href="https://facebook.techidaily.com/e2ee-wait-no-more-facebook-messengers-encryption-update-date/"><u>E2EE Wait No More: Facebook Messenger's Encryption Update Date</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ais-potential-with-prompt-engineering-careers/"><u>Exploring AI's Potential with Prompt Engineering Careers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-honor-x50i-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Honor X50i to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-itel-p55-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Itel P55 5G Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-running-llama-2-locally/"><u>Mastering the Art of Running Llama 2 Locally</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/optimiser-la-gestion-des-mises-a-jour-windows-decouvrez-les-avantages-de-besion-et-son-supplement-despace-de-12-correctifs/"><u>Optimiser La Gestion Des Mises À Jour Windows : Découvrez Les Avantages De Besion Et Son Supplément D'espace De 12 Correctifs !</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/outstanding-oneplus/"><u>Outstanding OnePlus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/policy-pathways-for-autonomous-agents/"><u>Policy Pathways for Autonomous Agents</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/professionals-choice-in-depth-analysis-of-the-stunning-htc-paper-hdplus-huion-kamvas-tablet/"><u>Professional's Choice: In-Depth Analysis of the Stunning HTC Paper HD+ (Huion Kamvas) Tablet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revealing-bard-googles-latest-move-in-the-ai-sphere-against-gpt/"><u>Revealing Bard: Google's Latest Move in the AI Sphere Against GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-intersection-of-ai-and-smart-homes-chatgpts-impact/"><u>The Intersection of AI & Smart Homes: ChatGPT's Impact</u></a></li>
+</ul></div>
 

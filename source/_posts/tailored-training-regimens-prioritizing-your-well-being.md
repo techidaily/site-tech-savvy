@@ -1,7 +1,7 @@
 ---
 title: Tailored Training Regimens Prioritizing Your Well-Being
-date: 2025-01-09T01:21:33.926Z
-updated: 2025-01-13T01:38:31.888Z
+date: 2025-01-15T17:10:07.805Z
+updated: 2025-01-18T16:17:18.948Z
 tags:
   - chatgpt
   - open-ai
@@ -28,23 +28,19 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is ChatGPT?
 
  The [AI chatbot ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) by generating natural-sounding responses to prompts that you type. Although this type of technology has existed for a while, ChatGPT in particular is notable for its (mostly) accurate and intelligent responses.
 
  Despite a few limitations—the chatbot has limited information about the world after about 2021—it's useful for summarizing books, writing a resume, debugging code, and much more. But does it have enough information to design a workout plan for you? Here's how ChatGPT responded to common requests for three different types of workout plans.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Basic Workout Plans From ChatGPT
 
 ![ChatGPT workout plan for beginners prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-workout-plan-for-beginners-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  For the first prompt, I asked ChatGPT to create a workout plan for beginners. The basic workout plan it generated allotted time for cardio, resistance training, warm-ups, and cool-downs.
 
@@ -62,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
 ![Chat GPT injury recovery prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chat-gpt-injury-recovery-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What if you are recovering from an injury? It's safest (and always recommended) to consult your doctor for any specific questions about how you can exercise with an injury or other health concern, but I wanted to see how the bot would respond.
 
  Wisely, this response also includes a prompt to listen to your healthcare provider, so ChatGPT covers its bases in that way. It also encourages you to stretch gently, incorporate low-impact activities where appropriate, and avoid pushing too hard right away.
@@ -76,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
 ![ChatGPT 10K running plan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-10k-running-plan-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  I responded to the questions in order, and it provided a multi-week plan. The plan is actually pretty solid, even taking potential injuries into account, but it didn't get into more granular details like pacing.
 
  If your goal focuses on speed (such as running a 10K in less than an hour), then you may want a plan that targets a certain pace. In this example, you'd need to hold around a 9:30/mile pace to complete the 10K in under one hour.
@@ -89,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
  While ChatGPT provides adequate training plans for runners, there are many free resources for running plans online that offer much more detail. In time, however, it's likely the chatbot will be able to provide more in-depth plans that take pacing, heart rate zones, and more information into account.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Strength Training Plans From ChatGPT
@@ -102,16 +106,12 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
 ![ChatGPT deadlifts prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-deadlifts-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In this example, I received detailed instructions on the correct way to do deadlifts. It offered helpful pointers about your stance, grip, and even breathing techniques in order to make the most of this particular exercise.
 
  If you ever need to double-check the way to perform a certain exercise, or simply try out a new series of strength workouts, then ChatGPT is a helpful resource. The simple, straightforward responses and training plans offer a lot of information for beginner and more experienced athletes looking to increase their strength. Just be sure to verify the information with reputable sources before you take ChatGPT's advice.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's Possible to Use ChatGPT to Help With Your Fitness Goals
@@ -137,17 +137,16 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-how-to-be-a-beauty-guru-on-youtube-beauty-vlogger-set-up/"><u>[Updated] In 2024, How To Be A Beauty Guru on YouTube Beauty Vlogger Set Up</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-malware-navigating-a-new-technological-threat/"><u>ChatGPT & Malware: Navigating a New Technological Threat</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/comprehensive-guide-to-viewing-facebook-videos-on-apple-tv-devices-for-2024/"><u>Comprehensive Guide to Viewing Facebook Videos on Apple TV Devices for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/creating-effective-fitness-plans-with-safe-guidance/"><u>Creating Effective Fitness Plans with Safe Guidance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diving-into-gpts-bespoke-command-potential/"><u>Diving Into GPT's Bespoke Command Potential</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficiently-design-presentations-through-chatgpt-help/"><u>Efficiently Design Presentations Through ChatGPT Help</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-overcoming-frozen-dark-mode-on-pcs/"><u>Essential Tips: Overcoming Frozen Dark Mode on PCs</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/frame-by-frame-mastering-video-freeze-frames/"><u>Frame by Frame Mastering Video Freeze Frames</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/la-transformation-ultime-convertir-votre-hdd-en-ssd-sous-windows-10-guide-de-conversion-facile-et-efficace/"><u>La Transformation Ultime : Convertir Votre HDD en SSD Sous Windows 10 - Guide De Conversion Facile Et Efficace</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/lack-of-self-awareness-in-language-models/"><u>Lack of Self-Awareness in Language Models</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leap-into-efficiency-with-quick-srt-to-txt-2023-guide-for-2024/"><u>Leap Into Efficiency with Quick SRT to TXT 2023 Guide for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-quick-setup-for-flawless-time-lapses-on-ipad/"><u>[Updated] In 2024, Quick Setup for Flawless Time-Lapses on iPad</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5aac5l2v6zmn5l2o6zu76iwm6kea55yl6zu75b2x5pmc55qe6ygy5bu25zwp6agmic0g5pyj5pwi5ps56ycy5oqa6kgt/"><u>如何降低電腦觀看電影時的遲延問題 - 有效改進技術</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cambia-file-avi-a-oggv-liberamente-online-gratuito-con-movavi/"><u>Cambia File AVI a OGGV Liberamente Online - Gratuito Con Movavi</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-future-cinema-unleashed-1-blu-ray-devs/"><u>In 2024, Future Cinema Unleashed #1 Blu-Ray Devs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-google-pixel-fold-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Google Pixel Fold to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sierras-seamless-document-and-desktop-storage-solutions/"><u>In 2024, Sierra’s Seamless Document & Desktop Storage Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/lighting-setup-tips-to-make-great-videos/"><u>Lighting Setup Tips to Make Great Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-tu-video-webm-directamente-en-un-gif-sin-coste-la-herramienta-online-perfecta-de-movavi/"><u>Transforma Tu Vídeo WebM Directamente en Un GIF Sin Coste: La Herramienta Online Perfecta (De Movavi)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformez-vos-fichiers-wma-en-3gp-en-ligne-sans-frais-solution-movavi/"><u>Transformez Vos Fichiers WMA en 3GP en Ligne Sans Frais - Solution Movavi</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-no-cost-countdown-trackers-for-2024/"><u>Ultimate No-Cost Countdown Trackers for 2024</u></a></li>
 </ul></div>
 

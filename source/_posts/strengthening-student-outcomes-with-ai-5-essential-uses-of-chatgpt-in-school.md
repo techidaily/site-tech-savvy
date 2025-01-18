@@ -1,7 +1,7 @@
 ---
 title: "Strengthening Student Outcomes with AI: 5 Essential Uses of ChatGPT in School"
-date: 2025-01-05T22:46:58.977Z
-updated: 2025-01-12T20:35:42.696Z
+date: 2025-01-14T16:57:14.546Z
+updated: 2025-01-18T16:22:04.301Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Develop Crash Study Plans
 
  You have a few weeks to that all-important examination, but you feel you've been ghosting through your classes and are ill-prepared for what's coming. So how do you cover your coursework within a limited time? Well, with the proper prompts, ChatGPT can come to your rescue.
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
  Provide ChatGPT with your free days, preferred study time, study duration, and target topics, if any, and ChatGPT will generate a crash study plan to help you navigate heavy coursework in a few days or weeks.
 
 ![ChatgGPT prompt for crash study plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatggpt-prompt-for-crash-study-plan.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  We prompted ChatGPT to make a study plan for an "Introduction to JavaScript programming" course, and here's the result:
 
@@ -49,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 * Refine the plan to place \[more/less\] emphasis on certain topics.
 * Refine the plan to add \[minutes/hours\] breaks during study hours.
 * Refine the plan to allocate \[more/less\] time to practical sessions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Identify Shortcuts or Tricks for Complex Course Problems
 
@@ -72,11 +68,11 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 
 ![arithmetic series Visual representation shortcut by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/visual-reprentation-shortcut.jpg)
 
- If you have a preferred way that makes it easy for you to learn, ChatGPT can help present complex problems in that way to make it easier for you to understand.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you have a preferred way that makes it easy for you to learn, ChatGPT can help present complex problems in that way to make it easier for you to understand.
 
 ## 3\. Stay Ahead of the Learning Curve
 
@@ -87,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 ![stay ahead of the learning curve with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/stay-ahead-of-the-learning-curve-with-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Summarize Long Text and Extract Key Points
@@ -113,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 ![complete story by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/complete-story-by-chatgp.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Rather than outright asking ChatGPT to write an essay, you can write yours and use the following prompts to improve your work:
@@ -124,6 +120,10 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 * Identity possible fluffs or bits of text that don't add meaning to the text in quotes
 * What key points are missing in the text?
 * Suggests some improvements that would make the text suitable for a \[target audience\].
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use ChatGPT Cautiously In Education
 
@@ -144,21 +144,14 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-building-brands-on-the-buzzing-platform-of-instagram-marketing-for-2024/"><u>[New] Building Brands on the Buzzing Platform of Instagram Marketing for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-methods-to-rectify-obs-fullscreen-crash/"><u>[Updated] In 2024, Methods to Rectify OBS Fullscreen Crash</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-screenplay-crafting-site/"><u>[Updated] Ultimate Screenplay Crafting Site</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-invasion-career-landscapes-in-flux/"><u>AI Invasion: Career Landscapes in Flux?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-m3-macbook-air-unveiled-the-ultimate-guide-to-the-newest-entry-in-apples-laptop-lineup-techspot/"><u>Apple M3 MacBook Air Unveiled: The Ultimate Guide to the Newest Entry in Apple's Laptop Lineup | TechSpot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cautionary-voice-the-dangers-of-chatgpt-data-exchanges/"><u>Cautionary Voice: The Dangers of ChatGPT Data Exchanges</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exclusive-labor-day-savings-get-your-2nd-gen-apple-pencil-for-just-95-today-deal/"><u>Exclusive Labor Day Savings! Get Your 2Nd Gen Apple Pencil for Just $95 Today Deal</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-windows-8-downloads-compatible-amd-radeon-hd-graphics-driver/"><u>Free Windows 8 Downloads: Compatible AMD Radeon HD Graphics Driver</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-convert-photos-on-ios-efficiently-from-jpegpng-to-pdf/"><u>In 2024, Convert Photos on IOS Efficiently From JPEG/PNG to PDF</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-seamlessly-stitch-words-onto-pictures-photo-editor-pros/"><u>In 2024, Seamlessly Stitch Words Onto Pictures Photo Editor Pros</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-sync-your-screen-time-concurrent-youtube-content-consumption/"><u>In 2024, Sync Your Screen Time Concurrent YouTube Content Consumption</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725290058200-macdvd/"><u>MacでDVDのコピー・移行手順：ディスクユーティリティ使い方</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-cure-for-flickering-screens-on-windows-11-pcs/"><u>Quick Cure for Flickering Screens on Windows 11 PCs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-bright-outlook-for-apples-upcoming-product-a-firsthand-account-from-pre-ordering-the-vision-pro-an-analysis/"><u>The Bright Outlook for Apple's Upcoming Product: A Firsthand Account From Pre-Ordering the Vision Pro - An Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-value-proposition-of-claude-3/"><u>The Value Proposition of Claude 3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-photography-the-remarkable-advancements-in-smartphone-camera-technology-powered-by-artificial-intelligence-for-an-impressive-tomorrow-zdnet/"><u>Transforming Photography: The Remarkable Advancements in Smartphone Camera Technology Powered by Artificial Intelligence for an Impressive Tomorrow | ZDNet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-breakthrough-technology-for-screens-showmores-revolutionary-recorder/"><u>2024 Approved Breakthrough Technology for Screens ShowMore's Revolutionary Recorder</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craft-a-unique-gpt-framework/"><u>Craft a Unique GPT Framework</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-language-assistants-the-case-of-bing-chat-vs-gpt-3-for-professionals/"><u>Decoding Language Assistants: The Case of Bing Chat Vs. GPT-3 for Professionals</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-infinite-views-looping-videos-on-your-iphone/"><u>In 2024, Infinite Views Looping Videos on Your iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/initiate-local-gratis-conversational-ai-via-gpt4all/"><u>Initiate Local, Gratis Conversational AI via GPT4All</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfect-your-palate-with-ai-enhanced-gourmet-guidance/"><u>Perfect Your Palate with AI-Enhanced Gourmet Guidance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seamless-setup-swift-sharing-the-essential-guide-to-ifunny-apps/"><u>Seamless Setup, Swift Sharing The Essential Guide to iFunny Apps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/surveying-the-spectrum-of-windows-movie-maker-updates/"><u>Surveying the Spectrum of Windows Movie Maker Updates</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/zooms-path-to-visual-impact-adding-video-filters-tutorial/"><u>Zoom's Path to Visual Impact Adding Video Filters Tutorial</u></a></li>
 </ul></div>
 

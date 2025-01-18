@@ -1,7 +1,7 @@
 ---
 title: "Programming Evolution: The AI Factor"
-date: 2024-09-02T20:40:42.280Z
-updated: 2024-09-03T20:40:42.280Z
+date: 2025-01-13T17:06:39.106Z
+updated: 2025-01-18T16:55:22.842Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
  The views on AI differ based on the profession and the level of experience of the developer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Profession
 
  SREs, security professionals, and game developers have unfavorable views on AI. This is possible because of security concerns brought about by feeding code or sensitive information to AI systems.
@@ -39,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
  For cloud developers, AI can help optimize infrastructure management by automating processes such as resource allocation, load balancing, monitoring, and performance tuning.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### Experience
 
  Developers earlier in their careers and those learning to code are more likely to use AI tools possibly because it improves the speed of learning.
@@ -49,15 +50,13 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
  On the other hand, 42.2% of developers with more than 21+ years of experience are less favorable to AI. This may be because they want to see whether the hype surrounding AI will die down before committing to a certain tool.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Countries
 
  Professional developers from India (83%), Brazil (78%), and Poland (70%) are among the developers using or planning to use AI tools in the future. This is probably because of the high growth of young developers from these countries. Developers from the United Kingdom, France, and Germany are less likely to use AI tools.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## What Are the Tasks Developers Are Using AI For?
 
  Developers are using AI for different tasks and these tasks vary between developers learning to code and professional developers.
@@ -69,15 +68,13 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
  It’s worth noting that only a few developers are interested in using AI to collaborate with teammates.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Benefits of AI for Developers
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  AI is beneficial to professional developers as well as those learning to code. Overall 33% see an increase in productivity as the most important benefit of using AI. Tools such as GitHub Copilot offer features like code suggestions, auto-completion, and error detection, which can significantly speed up the coding process.
 
  Professional developers saw improved productivity (37.4%) as the main benefit with greater efficiency (27.9%) and speed of learning (27.4%) being secondary.
@@ -91,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 ## Popular AI Tools That Developers Are Using in 2023
 
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Stack Overflow surveyed the popularity of various AI tools grouped between AI search tools and AI developer tools. From the data, developers are primarily using two tools, ChatGPT and GitHub Copilot.
 
@@ -109,22 +110,20 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
  As a software developer, you can get started with AI by incorporating code generation and editing tools in your development process. [Tools like GitHub Copilot](https://www.makeuseof.com/how-github-copilot-helps-you-code/) and Tabnine suggest code snippets based on the context as you type which can significantly cut down on development time. Additionally, ChatGPT is very useful for generating utility functions, UI components, and debugging code. With the right prompts, you can even [use ChatGPT to create web apps](https://www.makeuseof.com/chatgpt-how-build-web-app/).
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Future of AI-Assisted Software Development
 
  Although many developers agree AI is a beneficial tool in their workflow, only a few are ready to fully trust AI tools to code their entire application. However, AI is certainly changing how developers build applications. By leveraging AI tools, developers can streamline different stages of development including writing code, testing, debugging, and code review. As a result, they can significantly optimize the development life cycle.
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,4 +132,21 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-cutting-edge-approaches-share-youtube-content-on-facebook/"><u>[New] In 2024, Cutting-Edge Approaches Share YouTube Content on Facebook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-6-social-sites-boosting-biz-success/"><u>[New] Prime 6 Social Sites Boosting Biz Success</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-silent-screen-mastery-proven-techniques-for-noise-free-recording/"><u>[Updated] Silent Screen Mastery Proven Techniques for Noise-Free Recording</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-zero-to-hero-how-to-find-and-add-free-sound-effects-to-your-final-cut-pro-projects/"><u>2024 Approved From Zero to Hero How to Find and Add Free Sound Effects to Your Final Cut Pro Projects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-gaps-the-future-of-design-via-chatgpt-persona-creation/"><u>Bridging Gaps: The Future of Design via ChatGPT Persona Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficiency-in-academia-the-chatgpt-technique/"><u>Efficiency in Academia: The ChatGPT Technique</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-artificial-intelligence-for-personal-finance-decisions/"><u>Evaluating Artificial Intelligence for Personal Finance Decisions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-frontiers-the-new-era-of-chatbots-and-ai/"><u>Future Frontiers: The New Era of Chatbots & AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/futuristic-commute-mercedes-benz-melds-chatgpt-and-voice-control/"><u>Futuristic Commute: Mercedes-Benz Melds ChatGPT & Voice Control</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-and-student-essays-are-they-competing-titles-now/"><u>GPT and Student Essays: Are They Competing Titles Now?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-unlocking-format-fluidity-convert-srt-quickly/"><u>In 2024, Unlocking Format Fluidity Convert SRT Quickly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-raw/"><u>Movavi - 使いやすく、かつ無料のファイル変換サービス: RAW形式の対応説明</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1154579-9781608680313-one-minute-mindfulness/"><u>One-Minute Mindfulness | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/windows-11-microphone-use-for-high-quality-recordings/"><u>Windows 11 Microphone Use for High-Quality Recordings</u></a></li>
+</ul></div>
 

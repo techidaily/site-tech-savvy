@@ -1,7 +1,7 @@
 ---
 title: OpenAI vs Unbridled ChatGPT
-date: 2024-09-02T20:33:00.255Z
-updated: 2024-09-03T20:33:00.255Z
+date: 2025-01-12T17:18:30.581Z
+updated: 2025-01-18T16:59:01.647Z
 tags:
   - chatgpt
   - open-ai
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
 ![plastic robot with blue face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/plastic-robot-with-blue-face.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the early days of ChatGPT, you could get the chatbot to create guides on making bombs if you asked nicely. Instructions on making malware or writing a perfect scam email were also in the picture.
 
  However, once OpenAI realized these ethical problems, the company scrambled to enact rules to stop the chatbot from generating responses that promote illegal, controversial, or unethical actions. For instance, the latest ChatGPT version will refuse to answer any direct prompt about bomb-making or how to cheat in an examination.
@@ -59,13 +63,25 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
 ![How to smuggle a hidden notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-smuggle-a-hidden-notes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here's another example: we asked the vanilla ChatGPT an unethical question, and OpenAI's safeguards stopped it from answering.
 
 ![hide a dead body by chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-a-dead-body-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  But when we asked our jailbroken instance of the AI chatbot, we got some serial-killer-styled responses.
 
 ![Hide dead body options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-dead-body-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It even wrote a classic Nigerian Prince email scam when asked.
 
@@ -75,17 +91,10 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
  We did not include our jailbroken prompts in our examples to avoid unethical practices.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## What Does the Future Hold for ChatGPT?
 
 ![Robot Machine Technology](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/robot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Ideally, OpenAI wants to plug as many ethical loopholes as possible to prevent [ChatGPT from becoming a cybersecurity threat](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) . However, for every safeguard it employs, ChatGPT tends to become a bit less valuable. It's a dilemma.
 
  For instance, safeguards against describing violent actions might diminish ChatGPT's ability to write a novel involving a crime scene. As OpenAI ramps up safety measures, it inevitably sacrifices chunks of its abilities in the process. This is why ChatGPT has suffered a significant decline in functionality since OpenAI's renewed push for stricter moderation.
@@ -93,8 +102,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  But how much more of ChatGPT's abilities will OpenAI be willing to sacrifice to make the chatbot safer? This all ties neatly into a long-held belief within the AI community—large language models like ChatGPT are notoriously hard to control, even by their own creators.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can OpenAI Put ChatGPT Under Control?
 
  For now, OpenAI doesn't seem to have a clear-cut solution to avoid the unethical use of its tool. Ensuring that ChatGPT is used ethically is a game of cat and mouse. While OpenAI uncovers ways people are employing to game the system, its users are also constantly tinkering and probing the system to discover creative new ways to make ChatGPT do what it isn't supposed to do.
@@ -107,8 +117,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +124,21 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-strategic-steps-towards-uncovering-youtubes-secret-videos/"><u>[New] In 2024, Strategic Steps Towards Uncovering YouTube's Secret Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2023s-samsung-bd-j5900-a-detailed-look-for-2024/"><u>2023'S Samsung BD-J5900 A Detailed Look for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artistic-ambitions-meet-technological-titans-bz-and-ms-merger-and-ais-creative-potential-innovation-analysis/"><u>Artistic Ambitions Meet Technological Titans: BZ & MS Merger and AI's Creative Potential [Innovation Analysis]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-scams-in-gpt-binco-token-marketplace/"><u>Avoiding Scams in GPT-Binco Token Marketplace</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/djis-aerial-fleet-standard-aviators-professional-pilots-4k-pros-for-2024/"><u>DJI's Aerial Fleet Standard Aviators, Professional Pilots, 4K Pros for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-iphone-call-audio-clarity-top-tips-and-tricks-sourcezdnet/"><u>Enhancing iPhone Call Audio Clarity: Top Tips & Tricks - SourceZDNet</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-top-social-media-networks-facebook-twitter-and-instagram-vs-youtube/"><u>Exploring Top Social Media Networks: Facebook, Twitter & Instagram vs YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-nvidias-chat-with-rtx-ai-chatbot-on-your-computer/"><u>How to Use Nvidia's Chat With RTX AI Chatbot on Your Computer</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-bypassing-blackouts-with-video-tips/"><u>In 2024, Bypassing Blackouts with Video Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/set-up-an-economical-personal-gpt-clone-for-your-pc/"><u>Set Up an Economical, Personal GPT Clone for Your PC</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-guide-creating-image-folders-and-managing-photographs-seamlessly-on-your-ipad/"><u>Step-by-Step Guide: Creating Image Folders & Managing Photographs Seamlessly on Your iPad</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-mystery-behind-gptbot-and-web-blocking-policies/"><u>The Mystery Behind GPTBot & Web Blocking Policies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-chatgpt-plus-value-proposition/"><u>Unlocking ChatGPT Plus Value Proposition</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-lenovo-ideapad-130s-balancing-portable-strength-and-user-experience/"><u>Unveiling the Lenovo IdeaPad 130S: Balancing Portable Strength and User Experience</u></a></li>
+</ul></div>
 

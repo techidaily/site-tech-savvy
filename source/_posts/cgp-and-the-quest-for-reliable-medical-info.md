@@ -1,7 +1,7 @@
 ---
 title: CGP and the Quest for Reliable Medical Info
-date: 2025-01-11T01:28:07.021Z
-updated: 2025-01-12T18:10:33.914Z
+date: 2025-01-15T16:56:40.738Z
+updated: 2025-01-18T16:18:36.365Z
 tags:
   - chatgpt
   - open-ai
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 * ChatGPT is easy to use. If you can think and type, you can use ChatGPT. Eventually, as tech companies integrate these systems into voice assistants, you might not even need to do the typing! This makes ChatGPT accessible to people of varying ages and technical abilities.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Examples of How ChatGPT Can Be Used for Health and Fitness Advice
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 ![Screenshot of ChatGPT giving health advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-2023-02-09-at-1-48-14-pm.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It can also be used to generate advice on weekly meal plans based on your body type, sex, activity level, age, food preferences, and health goals (whether you want to lose weight, gain muscle, or something else).
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
  You could also use ChatGPT to provide information on how to maintain a healthy lifestyle, including how to protect yourself from illness. Or you can ask it to make recommendations for cancer screenings based on your factors (e.g. age, sex, and family history).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Limitations of Relying on ChatGPT for Health and Fitness Advice
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
  If you're going to use ChatGPT as one source of health and fitness advice, there are some tips and tricks you can follow to improve the quality of information you receive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips and Tricks for Improving Relevance of Health and Fitness Recommendations
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 * **Be specific** . The information provided by ChatGPT will be as specific as you ask it to be. For instance, if you ask it simple, single-sentence questions such as, "How can I lose weight?" you'll get general responses. However, if you figure out how to focus the model with parameters and guidelines, it is more likely to provide the advice you can use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can You Use ChatGPT to Get Trustworthy Health Information?
@@ -113,18 +113,20 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-how-to-increase-followers-on-instagram-ultimate-guide/"><u>[New] 2024 Approved How to Increase Followers on Instagram - Ultimate Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-record-and-save-your-workscreen-on-windows-8/"><u>[New] How to Record and Save Your Workscreen on Windows 8</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-penning-powerful-film-prospectus/"><u>[New] Penning Powerful Film Prospectus</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/iconic-scenes-from-tarantinos-cinema-background-graphics-and-decor-by-yl-softworks/"><u>Iconic Scenes From Tarantino's Cinema: Background Graphics & Decor by YL Softworks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-the-potential-of-ifunnys-meme-application/"><u>In 2024, Unleash the Potential of iFunny’s Meme Application</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-the-art-of-reviving-classic-dvd-films-for-your-latest-apple-m-series-mac-tips-and-tricks-experts/"><u>Master the Art of Reviving Classic DVD Films for Your Latest Apple M-Series Mac - Tips & Tricks Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/resolving-itunes-error-invalid-device-responses-preventing-iphone-connections/"><u>Resolving iTunes Error: Invalid Device Responses Preventing iPhone Connections</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamlessly-connect-your-ps4-controller-step-by-step-tutorial/"><u>Seamlessly Connect Your PS4 Controller: Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-solution-correcting-realtek-hd-sound-card-driver-malfunction/"><u>Simple Solution: Correcting Realtek HD Sound Card Driver Malfunction</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-steps-to-disable-windows-11-updates-a-beginners-guide/"><u>Simple Steps to Disable Windows 11 Updates: A Beginner's Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-techniques-for-taking-easy-screenshots-on-pcs-and-laptops/"><u>Simple Techniques for Taking Easy Screenshots on PCs and Laptops</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-how-to-maintain-excellent-clarity-when-uploading-videos-from-your-desktop-to-instagram/"><u>Step-by-Step Guide: How to Maintain Excellent Clarity When Uploading Videos From Your Desktop to Instagram</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-samsung-galaxy-m54-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Samsung Galaxy M54 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-detailed-guide-to-free-screen-recorders-for-2024/"><u>[Updated] Detailed Guide to Free Screen Recorders for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mef-jpegmovavi/"><u>無限傳輸 MEF為 JPEG：Movavi 優化網上格式更改工具</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/accelerate-your-hr-workflow-with-these-5-chatgpt-techniques/"><u>Accelerate Your HR Workflow with These 5 ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-gratuita-de-archivos-musicales-transforma-tu-aif-en-un-formato-m4r-por-medio-de-movavi/"><u>Conversión Gratuita De Archivos Musicales: Transforma Tu AIF en Un Formato M4R Por Medio De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertissez-un-fichier-aiff-au-format-mp3-gratuitement-en-ligne-avec-movavi/"><u>Convertissez Un Fichier AIFF Au Format MP3 Gratuitement - en Ligne Avec Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-convert-flv-to-asf-with-movavi/"><u>Free Online Converter - Convert FLV to ASF with Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-conversione-da-oggv-a-webm-online-trimix-di-movavi/"><u>Gratis Conversione Da OGGV a WebM - OnLine Trimix Di Movavi</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-honor-x9a-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor X9a Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-gt-5-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme GT 5 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-public-domain-zen-soundscape/"><u>In 2024, Public Domain Zen Soundscape</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-file-conversion-tool-by-movavi-effortless-transformation-of-webm-to-m4v-for-free/"><u>Online File Conversion Tool by Movavi: Effortless Transformation of WEBM to M4V for Free!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-secret-art-of-hidden-streaming-instagrams-anonymous-spectators-guide/"><u>The Secret Art of Hidden Streaming Instagram's Anonymous Spectators Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rw2-jpg-javascript/"><u>무료 RW2 JPG 변환기 – 게스트비젼 이미지를 JavaSCRIPT을 사용하여 빠르고 신중한 방식으로 전환</u></a></li>
 </ul></div>
 

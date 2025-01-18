@@ -1,7 +1,7 @@
 ---
 title: "Crafting Content Like a Pro: Avoid These Four Slip-Ups Using ChatGPT"
-date: 2024-09-02T20:37:44.094Z
-updated: 2024-09-03T20:37:44.094Z
+date: 2025-01-15T16:19:03.178Z
+updated: 2025-01-18T17:16:02.263Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 
  Before you take this issue lightly, know that misusing AI can lead to legal issues, reputational damage, and erroneous output. Let's explore the wrong ways content creators use ChatGPT so that you can avoid these problems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Don't Overdepend on ChatGPT
 
  Imagine you're a first-time ChatGPT user. Since it's your first time using it, you'll find its speed remarkable. What once took you hours to create only takes seconds. As time goes by, you might start heavily relying on it. You make a few edits but don't bother to research.
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
  Remember that it's possible for ChatGPT to churn out outdated information. As ChatGPT itself says, its knowledge cutoff is only up to September 2021, so it's always good to double-check the information.
 
 ![ChatGPT reminds user to double check information it provides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-50.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  OpenAI CEO Sam Altman also mentions in an [ABC News video interview](http://www.youtube.com/watch?v=540vzMlf-54) that users should be more cautious about ChatGPT's "hallucinations problem." It can confidently state made-up ideas as if they were facts. A single incident like CNET's can damage your credibility as an authoritative source.
 
@@ -51,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 
 ![ChatGPT giving JSTOR links to wrong resources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-46.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  At first glance, the list looks credible. The JSTOR articles have impressive-sounding titles like "Constructing Hybrid Identity: Race and Nation in Sally Green's Half Bad Trilogy." But a Google search would quickly show that most links lead to the wrong JSTOR articles. One of the links led to a 404 landing page.
 
 ![chatGPT giving a link to a nonexistent JSTOR academic journal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-47.jpg)
@@ -65,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 
 ![chatGPT giving bibliographic information to articles not found online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-48.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When prompted to give links to verify the information it provided, ChatGPT flatly refused this time. It said it didn't have web browsing capabilities and instead gave a list of bibliographic information. However, the data was still erroneous.
 
  The latest [ChatGPT release notes on OpenAI](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) show it now has web browsing capabilities. But these features have yet to be rolled out to every user. Also, as [TechCrunch](https://techcrunch.com/2023/03/23/openai-connects-chatgpt-to-the-internet/) points out, ChatGPT's results aren't necessarily the best on the internet since professionals can game search engine results.
@@ -75,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 * If you need sources for academic research, check [Google Scholar](https://scholar.google.com/) or [Elicit](http://elicit.org/), an AI research assistant.
 * Remember to critically assess the results and exercise judgment when selecting which ones to cite.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## 3\. Don't Replace Workplace Connections With ChatGPT
 
  Some [things that you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) might tempt you to anthropomorphize it or give it human attributes. For instance, you can ask ChatGPT for advice and chat with it if you need someone to talk to.
@@ -86,18 +99,12 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 
 ![ChatGPT giving advice on workplace burnout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-45.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  But no matter how compassionate it sounds, ChatGPT isn't human. What sounds like human-generated sentences are only the results of ChatGPT predicting the next word or "token" in the sequence based on its training data. It isn't a sentient being with a will and mind of its own as you do.
 
  That said, ChatGPT can't substitute for human relationships and collaboration in the workplace. As the [Work and Well-being Initiative at Harvard University](https://workwellbeinginitiative.org/module-4-moderating-work-demands#:~:text=The%20evidence%20shows%20that%20positive,harmful%20effects%20of%20workplace%20stress.&text=Positive%20relationships%20at%20work%20are%20also%20good%20for%20the%20bottom%20line.) says, these human connections benefit you, helping improve your well-being and protecting you against workplace stress.
 
  Learning to work with the latest tech tools is important, but interacting with your team is also essential. Instead of relying on ChatGPT to replicate social connections, build your interrelational skills, interact with co-workers, and find the best people you can work with.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## 4\. Don't Feed ChatGPT Ineffective Prompts
 
  Are you finding it hard to get the best responses out of ChatGPT when creating content? Providing context and giving precise instructions should solve your problem.
@@ -109,22 +116,17 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 ![ChatGPT giving a wrong answer to a prompt asking for a summary of Eric Allen's article on Hackernoon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-44.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To help ChatGPT, we copy-pasted the article in parts and asked for a summary after each upload. This time, ChatGPT was able to accomplish the task accurately. At one point, it gave us a comment instead of a summary, but we redirected it using another prompt.
 
 ![Conversation with ChatGPT asking to summarize a blog on Hackernoon by Eric Allen, which was uploaded in parts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-43.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  This example was a learn-by-doing experiment on how to use ChatGPT to summarize long and technical articles effectively. However, you can now access many internet resources and [learn prompting techniques to improve your ChatGPT responses](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/).
 
  Using recommended prompts is not a fail-safe method against hallucinations, but it can help you deliver accurate results. You can also review the [best ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/) for more information on prompting techniques.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Maximize ChatGPT Capabilities, but Be Mindful of Its Limits
 
  ChatGPT offers unprecedented speed and convenience, but using it also demands caution and responsibility. Avoid overdepending on ChatGPT, use more appropriate tools for research, collaborate better with your team, and learn to use prompts effectively to maximize its benefits.
@@ -135,14 +137,11 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 
  Before you take this issue lightly, know that misusing AI can lead to legal issues, reputational damage, and erroneous output. Let's explore the wrong ways content creators use ChatGPT so that you can avoid these problems.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,4 +150,26 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-internet-humorista-hub/"><u>[New] In 2024, Internet Humorista Hub</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-ultimate-guide-to-hash-trackers-fb-twt-and-ig-networks/"><u>[Updated] In 2024, The Ultimate Guide to Hash Trackers FB, Twt & IG Networks</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/an-in-depth-look-at-claude-pros-differences-from-gptplusplus/"><u>An In-Depth Look at Claude Pro’s Differences From GPT++</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmenting-crypto-dialogues-gpts-top-8-integrative-tools-revealed/"><u>Augmenting Crypto Dialogues: GPT's Top 8 Integrative Tools Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cyber-threat-alert-the-risky-side-of-google-bard-download/"><u>Cyber Threat Alert: The Risky Side of Google Bard Download</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-codegpt-the-future-of-programming-with-ai/"><u>Deciphering CodeGPT: The Future of Programming with AI?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/defining-intelligence-will-ai-beat-human-judges/"><u>Defining Intelligence: Will AI Beat Human Judges?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/echoing-futures-next-generation-of-ai-talks/"><u>Echoing Futures: Next Generation of AI Talks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-llama-2s-features-and-applications/"><u>Exploring Llama 2'S Features and Applications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722868526243-how-to-access-live-fm-broadcasts-using-your-ios-or-android-device-a-comprehensive-walkthrough/"><u>How to Access Live FM Broadcasts Using Your iOS or Android Device – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-tecno-spark-20-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Tecno Spark 20 FRP</u></a></li>
+<li><a href="https://techtrends.techidaily.com/insights-into-atandts-approach-to-cellular-device-roaming-charges/"><u>Insights Into AT&T's Approach to Cellular Device Roaming Charges</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978249837-latest-thinbook-t420s-windows-10-support-drivers-available-for-download-now/"><u>Latest ThinBook T420s Windows 10 Support Drivers Available for Download Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-8-essential-methods/"><u>Mastering GPT: 8 Essential Methods</u></a></li>
+<li><a href="https://win-dash.techidaily.com/optimized-nvidia-drivers-for-rtx-2060-super-on-windows-11-pcs-free-software-downloads-available/"><u>Optimized NVIDIA Drivers for RTX 2060 Super on Windows 11 PCs: Free Software Downloads Available</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-definitive-guide-to-retrieving-unintentionally-removed-images-from-your-iphone/"><u>The Definitive Guide to Retrieving Unintentionally Removed Images From Your iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-rise-of-virtual-therapy-top-5-bot-innovations/"><u>The Rise of Virtual Therapy: Top 5 Bot Innovations</u></a></li>
+</ul></div>
 

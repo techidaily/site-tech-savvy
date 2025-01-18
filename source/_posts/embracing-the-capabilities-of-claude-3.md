@@ -1,7 +1,7 @@
 ---
 title: Embracing the Capabilities of Claude 3
-date: 2025-01-08T18:18:17.910Z
-updated: 2025-01-12T16:00:15.420Z
+date: 2025-01-11T16:30:09.349Z
+updated: 2025-01-18T17:43:45.314Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 * [What Is Claude 3?](https://malaysia-healthcare-travel-council.pxf.io/752oeg)
 * [What Can You Do With Claude 3?](https://atezr.pxf.io/752omg)
 * [Claude 3 vs. ChatGPT](https://parisrhonecom.sjv.io/zqobqr)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -60,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![Claude AI chatbot interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-image-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Just like most cutting-edge generative AI models out there, Claude 3 can generate top-notch responses for various queries across different fields. Whether you need a quick algebra problem solved, a brand-new song written, an in-depth article drafted, code written for software, or a massive data set analyzed, Claude 3 fits the bill.
 
  But most AI models are already good at these tasks, so why use Claude 3?
@@ -74,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
  A quick way to test the performance of an AI model is to check how well it stacks up against the best in the market: GPT-4\. Of course, I put both models to the test; how well does Anthropic's Claude 3 stack up against the colossal GPT-4?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Claude vs. ChatGPT: Coding Skills
 
  Starting with a string of programming tasks, Claude 3 matched GPT -4's ability in all the basic programming tasks presented and even outperformed it in some. While I only tested the basics, the previous version of Claude was notably less proficient at the same tasks when we tested it in this [ChatGPT vs. Claude comparison](https://www.makeuseof.com/chatgpt-vs-claude-ai/) in September 2023\. For instance, when we asked both models to build a simple to-do list app, Claude failed in all instances, while ChatGPT put up what we'd call a five-star performance at the time.
@@ -85,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
  And here is Claude 3's result when asked to do the same.
 
 ![Claude 3 makes todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-3-makes-todo-list-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Both apps were functional to an extent, but it is clear Claude 3 did a better job on this one.
 
@@ -106,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![testing Claude 3 on commonsense reasoning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/testing-claude-3-on-commonsense-reasoning.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Claude's response wasn't exactly a definitive answer, but it was able to identify the key information; you don't bury survivors. It's important to note that the last time we asked Claude 2 the same question, it wasn't able to see through the common sense trap.
 
 ### Claude vs. ChatGPT: Creative Writing
@@ -122,19 +126,19 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![ChatGPT writes lyrics to a rap song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-writes-lyrics-to-a-rap-song.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And here's Claude's response, using the same prompt.
 
 ![Claude writes lyrics to a wrap song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-writes-lyrics-to-a-wrap-song.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It might be subjective, but Claude does seem to be the better option here. When both tools were tasked with drafting three articles on different topics, Claude provided the better option in all three instances. It produced a more human-like result and avoided patterns commonly associated with AI-generated texts, like exagerations, the use of complex words, and sporadic use of linking words.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Claude vs. ChatGPT: Image Recognition Abilities
 
@@ -143,10 +147,6 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
  Unlike ChatGPT, Claude struggled with identifying buildings among others, and the failure rate increased if the building was not in the US or China. However, it had no problem identifying obfuscated versions of the Eiffel Tower or the Empire State Building.
 
 ![Empire state building identified by Claude 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/empire-state-building-identified-by-claude-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ChatGPT is clearly better at this, but considering Claude 3 is Anthropic's first attempt at building a multimodal AI model, it wasn't a bad outing.
 
@@ -169,18 +169,19 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-seamlessly-scaling-photos-and-videos-via-iphone-features/"><u>[New] In 2024, Seamlessly Scaling Photos & Videos via iPhone Features</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-professional-video-file-preservation-six-essential-steps-for-windows-11-for-2024/"><u>[New] Professional Video File Preservation Six Essential Steps for Windows 11 for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solved-obs-dropping-frames-2024-tips/"><u>[Solved] OBS Dropping Frames - 2024 Tips</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-guide-seamless-facebook-live-integration-for-web-pages/"><u>2024 Approved Guide Seamless Facebook Live Integration for Web Pages</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/end-to-end-camera-rotation-explained/"><u>End-to-End Camera Rotation Explained</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/facil-transferencia-de-archivos-entre-dos-computadoras-una-guia-paso-a-paso/"><u>Fácil Transferencia De Archivos Entre Dos Computadoras: Una Guía Paso a Paso</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-codenotarys-sbom-solution-for-kubernetes-ensuring-security-and-compliance/"><u>Introducing Codenotary's SBOM Solution for Kubernetes - Ensuring Security and Compliance</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/move-your-iphone-data-directly-to-another-iphone-bypassing-icloud/"><u>Move Your iPhone Data Directly to Another iPhone, Bypassing iCloud</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-securing-your-online-privacy-with-a-vpn-on-the-opera-browser/"><u>Step-by-Step Guide: Securing Your Online Privacy with a VPN on the Opera Browser</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-switching-your-laptop-display-orientation/"><u>Step-by-Step Guide: Switching Your Laptop Display Orientation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-thawing-out-a-locked-windows-10-system/"><u>Step-by-Step Tutorial: Thawing Out A Locked Windows 10 System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-essentials-of-vpns-why-they-matter-and-their-functioning-explained/"><u>The Essentials of VPNs: Why They Matter and Their Functioning Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-and-resolving-issues-with-your-lagging-and-stuttering-computer-system/"><u>Troubleshooting and Resolving Issues with Your Lagging and Stuttering Computer System</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-unlocking-past-mysteries-top-10-historical-channels-for-learners/"><u>[New] 2024 Approved Unlocking Past Mysteries Top 10 Historical Channels for Learners</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-10-top-picks-for-no-cost-zoom-and-screenshare/"><u>[New] In 2024, 10 Top Picks for No-Cost Zoom & Screenshare</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-unveiled-revelation-of-hidden-shorts/"><u>[New] In 2024, Unveiled Revelation of Hidden Shorts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-a-visual-revolution-integrating-3d-effects-into-your-photoshop-layouts/"><u>[Updated] 2024 Approved A Visual Revolution Integrating 3D Effects Into Your Photoshop Layouts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-6-nft-makers-for-artists-to-unleash-imagination/"><u>[Updated] 2024 Approved Top 6 NFT Makers for Artists to Unleash Imagination</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/aiffwmv-movavi/"><u>免費線上AIFF/WMV格式轉換解決方案 - 瞭解 Movavi工具機能</u></a></li>
+<li><a href="https://extra-information.techidaily.com/canvas-and-chroma-mastering-color-interaction-for-2024/"><u>Canvas and Chroma Mastering Color Interaction for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversione-rapida-e-semplice-mov-a-wmv-il-servizio-web-migliore-e-gratuito-movavi/"><u>Conversione Rapida E Semplice MOV a WMV: Il Servizio Web Migliore E Gratuito - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/desde-el-archivo-swf-hasta-mp4-sin-costo-convertir-archivos-de-animacion-libremente-con-herramientas-en-linea/"><u>Desde El Archivo SWF Hasta MP4 Sin Costo: Convertir Archivos De Animación Libremente Con Herramientas en Línea</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-audio-conversion-download-and-convert-your-f4v-videos-to-high-quality-mp3s-at-no-cost/"><u>Effortless Audio Conversion: Download and Convert Your F4V Videos to High-Quality MP3s at No Cost!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-computing-at-toms-hardware-hub/"><u>Exploring Advanced Computing at Tom's Hardware Hub</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-is-inshot-the-best-of-the-best-expert-reviews-speak-up/"><u>In 2024, Is InShot The Best of the Best? Expert Reviews Speak Up</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mpeg-4wmv-movavi/"><u>MPEG-4到WMV格式无线转换 - 使用Movavi自由改编工具</u></a></li>
 </ul></div>
 

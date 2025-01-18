@@ -1,7 +1,7 @@
 ---
 title: Keep Personal Details Clear From AI Screens
-date: 2025-01-06T16:12:58.272Z
-updated: 2025-01-12T16:31:00.024Z
+date: 2025-01-15T16:40:56.409Z
+updated: 2025-01-18T17:48:01.030Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Leaked Confidential Information Via ChatGPT
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
  There's another layer of risk here, too. If employees use ChatGPT to look for bugs like they did with the Samsung leak, the code they type into the chat box will also be stored on OpenAI's servers. This could lead to breaches that have a massive impact on companies troubleshooting unreleased products and programs. We may even end up seeing information like unreleased business plans, future releases, and prototypes leaked, resulting in huge revenue losses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do ChatGPT Data Leaks Happen?
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 ![ChatGPT logo on dark green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ChatGPT’s privacy policy](https://openai.com/policies/privacy-policy) makes it clear that it records your conversations and shares the logs with other companies and its AI trainers. When someone (for example, a Samsung employee) types confidential information into the dialog box, it’s recorded and saved on ChatGPT’s servers.
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
  For example, if they paste a large contact list into the chat and ask the AI to isolate customers’ phone numbers from the data, ChatGPT then has those names and phone numbers in its records. Your private information is at the mercy of companies you did not share it with, which may not protect it well enough to keep you safe. There are a few things you can do to [keep yourself safe after a data breach](https://www.makeuseof.com/what-to-do-after-data-breach-how-to-protect-yourself/), but businesses should be responsible for preventing leaks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Moral of the Story: Don't Tell ChatGPT Your Secrets
@@ -89,15 +89,18 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-comprehensive-guide-to-top-ae-extensions/"><u>[Updated] Comprehensive Guide to Top AE Extensions</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-turings-evaluation-chances-of-victory/"><u>Demystifying Turing's Evaluation: Chances of Victory?</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicating-windows-restore-failures-error-code-0x80042306-guide/"><u>Eradicating Windows Restore Failures: Error Code 0X80042306 Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-latest-innovations-in-apples-airpods-4-series-a-comparison-of-each-model/"><u>Exploring the Latest Innovations in Apple's AirPods 4 Series - A Comparison of Each Model</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-and-repair-a-missing-mscorwksdll-error/"><u>How to Correctly Address and Repair a Missing Mscorwks.dll Error</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-13-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 13</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-exciting-innovations-in-the-new-iphone-16-pro-a-tech-lovers-dream-come-true-zdnet/"><u>Top 5 Exciting Innovations in the New iPhone 16 Pro: A Tech Lover's Dream Come True! - ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-airtag-wallet-picks-reviewed-by-experts-find-your-perfect-match/"><u>Top-Rated AirTag Wallet Picks Reviewed by Experts - Find Your Perfect Match!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transforming-reality-with-ai-unleashing-a-new-era/"><u>Transforming Reality with AI: Unleashing a New Era</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-how-to-add-custom-youtube-shorts-thumbnails-effortlessly/"><u>[New] In 2024, How to Add Custom YouTube Shorts Thumbnails Effortlessly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/remier-10plus-free-video-intro-creators-for-2024/"><u>[New] Premier 10+ Free Video Intro Creators for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-complexity-of-large-scale-ais/"><u>Deciphering the Complexity of Large-Scale AIs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/driving-decisions-perfecting-persuasive-business-proposals-with-ai/"><u>Driving Decisions: Perfecting Persuasive Business Proposals with AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-do-vector-databases-transform-machine-learning/"><u>How Do Vector Databases Transform Machine Learning?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-m14-4g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy M14 4G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-huawei-by-drfone-android/"><u>In 2024, How to Bypass FRP on Huawei?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-how-to-watch-videos-quickly-and-smoothly/"><u>Instagram How to Watch Videos Quickly & Smoothly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seize-opportunities-in-openais-challenge-for-error-discovery/"><u>Seize Opportunities in OpenAI’s Challenge for Error Discovery</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-for-downloading-and-updating-your-epson-xp-440-drivers/"><u>Step-by-Step Tutorial for Downloading and Updating Your Epson XP-440 Drivers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-entrepreneurial-roadmap-for-starting-an-online-product-critique-site/"><u>The Entrepreneurial Roadmap for Starting an Online Product Critique Site</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/whats-behind-device-based-machine-learning-implementations/"><u>What's Behind Device-Based Machine Learning Implementations?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/whats-next-in-ai-is-a-gpt-5-imminent/"><u>What's Next in AI: Is a GPT-5 Imminent?</u></a></li>
 </ul></div>
 

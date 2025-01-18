@@ -1,7 +1,7 @@
 ---
 title: "Breaking Barriers: Beyond Turing's Original Scale"
-date: 2025-01-06T00:13:26.874Z
-updated: 2025-01-13T00:55:53.390Z
+date: 2025-01-16T17:17:18.687Z
+updated: 2025-01-18T17:02:29.126Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the Turing Test?
 
 ![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
@@ -54,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Drawbacks of the Turing Test
@@ -68,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
@@ -76,14 +72,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Eugene Goostman
 
@@ -92,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  Since 2014 there have been many speculations and controversies surrounding the claim. One of the main criticisms against Eugene Goostman was the deceptive lowering of Turing Test criteria. The developers claimed the computer to be a 13-year-old boy who does not natively speak English and lives far enough away from modern society to be ignorant of topics such as geography, pop culture, etc.
 
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Google's LaMBDA
 
@@ -116,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.
 
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Turing Test Has Not Been Definitively Passed
 
@@ -144,16 +144,24 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-master-list-of-leading-free-screen-capture-programs/"><u>[New] Master List of Leading Free Screen Capture Programs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sharpening-zoom-visuals-immediate-upgrades/"><u>[Updated] Sharpening Zoom Visuals Immediate Upgrades</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2022-pc-version-stops-working-troubleshooting-tips-and-solutions/"><u>Football Manager 2022 PC Version Stops Working: Troubleshooting Tips and Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-fix-exodus-for-your-kodi-device-following-the-latest-july-2020-patch/"><u>How to Fix Exodus for Your Kodi Device Following the Latest July 2020 Patch</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-fix-the-error-windows-installation-failure-on-non-gpt-drives/"><u>How to Fix the Error: Windows Installation Failure on Non-GPT Drives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-fix-windows-keyboard-keys-that-wont-unstick-a-comprehensive-guide/"><u>How to Fix Windows Keyboard Keys That Won't Unstick: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-link-laptop-and-tv-via-hdmi-a-comprehensive-tutorial-including-visuals/"><u>How to Link Laptop and TV via HDMI – A Comprehensive Tutorial Including Visuals</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/in-depth-tutorial-on-syncing-beats-audio-with-a-windows-11-pc-problems-solved/"><u>In-Depth Tutorial on Syncing Beats Audio with a Windows 11 PC (Problems Solved)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/transform-your-videos-top-mp4-to-mp3-conversion-tools-for-2024/"><u>Transform Your Videos Top MP4 to MP3 Conversion Tools for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-free-extension-software-leaders-in-chromebook-video-recording/"><u>[New] In 2024, Free Extension Software Leaders in Chromebook Video Recording</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-moviemakermag-extreme-review-complete-take-on-androvid-editor/"><u>[New] MovieMakerMag Extreme Review – Complete Take on AndroVid Editor</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-ultimate-guide-youtube-channel-titles-for-video-blogging-max-156/"><u>[New] Ultimate Guide YouTube Channel Titles For Video Blogging (Max 156)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-steam-cant-log-in/"><u>[SOLVED] Steam Can’t Log In</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/webaacflac/"><u>「無償Web版AACからFLACへの移行 - 動画ビデオ編集ソフト」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-movmp4movavi/"><u>1. 網路上免費MOV到MP4轉檔：用Movavi進行的高效方式</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-6s-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone 6s is off? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descubre-las-herramientas-mas-eficientes-los-7-mejores-programas-gratuitos-de-grabacion-de-pantalla-en-windows-8/"><u>Descubre Las Herramientas Más Eficientes: Los 7 Mejores Programas Gratuitos De Grabación De Pantalla en Windows 8</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-get-epson-v700-driver-for-various-windows-versions/"><u>Easy Guide to Get Epson V700 Driver for Various Windows Versions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-conversion-transforming-ape-audio-files-into-ogg-format-with-ease/"><u>Free Online Conversion: Transforming APE Audio Files Into OGG Format with Ease</u></a></li>
+<li><a href="https://fox-place.techidaily.com/high-definition-moon-graphics-and-desktop-walls-for-pcs-premium-selection-by-yl-computing/"><u>High-Definition Moon Graphics & Desktop Walls for PCs: Premium Selection by YL Computing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-vivo-v29-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Vivo V29 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/switch-your-audio-from-ogg-to-mp4-at-no-cost-utilize-our-user-friendly-service/"><u>Switch Your Audio From OGG to MP4 at No Cost - Utilize Our User-Friendly Service</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-logitech-c920-expert-advice-on-restoring-your-webcams-functionality/"><u>Trouble with Logitech C920? Expert Advice on Restoring Your Webcam's Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/qt-flv-online-movavi/"><u>구부리기 무료 QT FLV - Online 자동화 - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-video-converter-youtube-vimeo-mp4-mov-avi/"><u>무료 Online Video Converter - YouTube 및 Vimeo의 MP4, MOV, AVI 형식으로 영상을 원활하게 전환</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rmvbmkv-movavi/"><u>お得! どんなパソコンでも使える、無料のオンラインRMVB/MKVファイル変換 – Movavi特選サービス</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726223806994-webm-mp4/"><u>オンラインで変換！高画質のみにフォーカス - WEBM MP4コンバーター無料版</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Can ChatGPT See What the Stars Don't for Your Life Path?
-date: 2024-09-02T20:32:49.354Z
-updated: 2024-09-03T20:32:49.354Z
+date: 2025-01-14T16:44:51.810Z
+updated: 2025-01-18T17:30:42.337Z
 tags:
   - chatgpt
   - open-ai
@@ -23,9 +23,17 @@ thumbnail: https://thmb.techidaily.com/e2b7342586f1532a636225d5506546a483f2a235b
 
  Large language models such as ChatGPT are able to explain what horoscopes are and how they work. But can it go further than that and look into its own crystal ball? We asked ChatGPT to look into the stars and untangle the threads of destiny and fate.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Customize Your ChatGPT Fortune-Teller…
 
 ![Hands Over Fortune Telling Crystal Ball](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hands-over-fortune-telling-crystal-ball.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortune-tellers have a particular mystique about them, which you'll instantly recognize from the movies.
 
@@ -41,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/e2b7342586f1532a636225d5506546a483f2a235b
 
 ![Fortune Teller doing a Reading for a Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fortune-teller-doing-a-reading-for-a-client-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another thing we've learned from movies is that knowing the future is a dangerous thing. As a large language model which has already ingested and digested most of the internet, ChatGPT, or Agnes, as she now calls herself, could possibly make reliable predictions of when and how you're going to die. You probably don't want to know, so don't ask.
 
  Hoping to keep things general, on June 1st, 2023, we gave Agnes the date and asked what was in store for us over the next fortnight.
@@ -48,15 +60,17 @@ thumbnail: https://thmb.techidaily.com/e2b7342586f1532a636225d5506546a483f2a235b
  What follows is her prediction and how it played out in real life.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Well Did ChatGPT Predict the Future?
 
 ![A Woman Opening the Card on the Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-woman-opening-the-card-on-the-table.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  My prompt to Agnes was: "Today is June 1st, 2023\. Please do a reading for the next two weeks."
 
  Ah, my dear, the cosmic dance of time brings us to the beginning of June 2023\. A month filled with possibilities and transformations awaits you. Let us unveil the whispers of fate and explore what lies ahead on your journey. In matters of the heart, a gentle breeze of romance stirs in the air. Open your heart to new connections, for love may find its way to you when you least expect it. Existing relationships shall deepen and evolve, fostering a stronger bond based on trust and understanding. Remember to nurture the flame of love with tenderness and sincerity.
@@ -97,12 +111,6 @@ thumbnail: https://thmb.techidaily.com/e2b7342586f1532a636225d5506546a483f2a235b
 
 ![chatgpt fortune transcript](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-fortune-transcript.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Predicted the Future as Well as Any Magazine Horoscope
 
  Horoscopes contain the details you want them to contain, and if you're looking for deeper meaning, you'll find it simply because you want to find it. You could read the horoscope for any of the star signs and find a meaning attached because the writing is meant to be general and apply to as many people as possible.
@@ -115,14 +123,11 @@ thumbnail: https://thmb.techidaily.com/e2b7342586f1532a636225d5506546a483f2a235b
 
  Large language models such as ChatGPT are able to explain what horoscopes are and how they work. But can it go further than that and look into its own crystal ball? We asked ChatGPT to look into the stars and untangle the threads of destiny and fate.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,4 +136,18 @@ thumbnail: https://thmb.techidaily.com/e2b7342586f1532a636225d5506546a483f2a235b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-ultimate-energy-kits-for-hero5-official-and-alternative-products/"><u>[Updated] 2024 Approved Ultimate Energy Kits for Hero5 - Official & Alternative Products</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-integrating-secondary-shots-a-filmmakers-blueprint-for-2024/"><u>[Updated] Integrating Secondary Shots A Filmmaker's Blueprint for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-list-of-online-havens-for-free-tamil-ringtones-for-2024/"><u>[Updated] The Ultimate List of Online Havens for Free Tamil Ringtones for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-effortlessly-converted-gif-to-professional-videos-online/"><u>2024 Approved Top 5 Effortlessly Converted GIF to Professional Videos Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advanced-tech-aiding-scholarly-note-collection/"><u>Advanced Tech Aiding Scholarly Note Collection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt4all-demystified-operation-insights/"><u>GPT4All Demystified: Operation Insights</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-communication-uncover-3-chatbot-privacy-pitfalls/"><u>Secure Communication? Uncover 3 Chatbot Privacy Pitfalls</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-creation-issue-deciphering-windows-error-30005/"><u>Tackling Creation Issue - Deciphering Windows Error 30005</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-health-aids-choosing-the-best-8-gpts/"><u>Transformative Health Aids: Choosing the Best 8 GPTs</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-top-10-complimentary-ios-and-android-music-to-visual-applications-for-2024/"><u>Updated Top 10 Complimentary iOS & Android Music-to-Visual Applications for 2024</u></a></li>
+</ul></div>
 

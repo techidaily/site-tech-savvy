@@ -1,7 +1,7 @@
 ---
 title: "Essential iPad Hacks & Configurations: A Must-Know Guide for Beginners & Experts - Discover Secrets with ZDNet"
-date: 2025-01-05T22:21:02.678Z
-updated: 2025-01-12T16:57:20.867Z
+date: 2025-01-11T16:27:55.928Z
+updated: 2025-01-18T16:10:10.022Z
 tags:
   - apple
 categories:
@@ -27,10 +27,6 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Customize your lock screen
 
@@ -79,7 +75,7 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
@@ -93,7 +89,7 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Hide your notifications from prying eyes
@@ -103,7 +99,7 @@ Sometimes, you just want to keep the contents of your iPad's notifications to yo
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
@@ -121,7 +117,7 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Make sure your screen is refreshing as fast as possible
@@ -139,6 +135,10 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -180,15 +180,24 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-5-dynamic-fitness-series-ideas-to-enhance-viewer-retention/"><u>[New] 2024 Approved 5 Dynamic Fitness Series Ideas to Enhance Viewer Retention</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-from-mpeg-4-to-multifarious-formats-a-guide-using-vlc/"><u>[New] From MPEG-4 to Multifarious Formats A Guide Using VLC</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-skillful-conversion-of-youtube-videos-to-interactive-gif-artistry/"><u>[New] In 2024, Skillful Conversion of YouTube Videos to Interactive GIF Artistry</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ultimate-techniques-streaming-hulu-on-win-mac-and-mobile/"><u>[Updated] In 2024, Ultimate Techniques Streaming Hulu on Win, Mac, and Mobile</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/global-ai-dialogue-what-experts-say/"><u>Global AI Dialogue: What Experts Say</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-novice-to-pro-your-step-by-step-guide-to-youtube-live-images/"><u>In 2024, From Novice to Pro Your Step-by-Step Guide to YouTube Live Images</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-openais-dominance-over-gpt-fading/"><u>Is OpenAI's Dominance Over GPT Fading?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rediscovering-lost-ai-conversations/"><u>Rediscovering Lost AI Conversations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-transformation-of-m4a-tracks-into-high-quality-aac-format/"><u>Seamless Transformation of M4A Tracks Into High-Quality AAC Format</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solution-ptfe-or-rubber-with-specific-resistance-to-acids-such-as-epdm-ethylene-propylene-diene-monomer-would-be-suitable-liners/"><u>Solution: PTFE or Rubber with Specific Resistance to Acids, Such as EPDM (Ethylene Propylene Diene Monomer), Would Be Suitable Liners.</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-obs-studio-showdown-with-bandicam-the-ultimate-test/"><u>[New] OBS Studio Showdown with Bandicam The Ultimate Test</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-enhance-audience-reach-share-twitch-videos-on-facebook/"><u>[Updated] 2024 Approved Enhance Audience Reach Share Twitch Videos on Facebook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-a-new-chapter-for-recording-tech-dive-into-the-2023-apeaksoft-update/"><u>[Updated] A New Chapter for Recording Tech? Dive Into the 2023 Apeaksoft Update</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-lut-applications-in-ae/"><u>[Updated] Mastering LUT Applications in AE</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-visual-distortions-in-rust-programming/"><u>Fixing the Visual Distortions in Rust Programming</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/free-hevc-video-compression-software-for-windows-11-users/"><u>Free HEVC Video Compression Software for Windows 11 Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-unleashing-online-music-potential-with-imovie-and-youtube/"><u>In 2024, Unleashing Online Music Potential with iMovie & YouTube</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-inverted-soundscapes-the-premier-backwards-music-videos-for-2024/"><u>New Inverted Soundscapes The Premier Backwards Music Videos for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-your-macos-for-baldurs-gate-3-with-crossover-tips/"><u>Optimize Your macOS for Baldur’s Gate 3 with CrossOver Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-guide-transfer-youtube-vids-to-google-drive-for-zero-expense/"><u>Seamless Guide: Transfer YouTube Vids to Google Drive for Zero Expense</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-capturing-gameplay-footage-using-nvidias-geforce-shadow-play/"><u>Step-by-Step Guide: Capturing Gameplay Footage Using NVIDIA's GeForce Shadow Play</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-converting-flac-audio-files-to-m4a-format-in-windows/"><u>Step-by-Step Guide: Converting FLAC Audio Files to M4A Format in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-avi-speeches-into-high-quality-wav-format/"><u>Step-by-Step Guide: Transforming AVI Speeches Into High-Quality WAV Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-your-swf-videos-into-mp4-format/"><u>Step-by-Step Guide: Transforming Your SWF Videos Into MP4 Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-process-transforming-avchd-videos-in-handbrake-and-discovering-the-best-substitutes/"><u>Step-by-Step Process: Transforming AVCHD Videos in HandBrake and Discovering the Best Substitutes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/stepwise-approach-to-snagging-youtube-playlists-efficiently-for-2024/"><u>Stepwise Approach to Snagging YouTube Playlists Efficiently for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-video-transcoder-effortlessly-convert-from-high-mb-to-low-mb-files/"><u>Top-Ranking Video Transcoder: Effortlessly Convert From High MB to Low MB Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-vlc-video-downloads-a-step-by-step-guide/"><u>Troubleshooting VLC Video Downloads: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-effortless-ripping-of-dvds-using-top-online-ripping-tools/"><u>Ultimate Guide: Effortless Ripping of DVDs Using Top Online Ripping Tools</u></a></li>
 </ul></div>
 

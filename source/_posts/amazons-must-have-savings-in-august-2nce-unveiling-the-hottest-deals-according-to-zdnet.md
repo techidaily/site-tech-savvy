@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Must-Have Savings in August 2Nce: Unveiling the Hottest Deals, According to ZDNET"
-date: 2025-01-11T23:45:33.569Z
-updated: 2025-01-12T22:20:15.923Z
+date: 2025-01-13T16:37:40.753Z
+updated: 2025-01-18T17:12:20.720Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ The shopping giant frequently cuts prices on top tech products all year round, i
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Amazon deals of August 2024
@@ -40,6 +40,10 @@ Jason Hiner/ZDNET
 * [Dyson V8 Cordless Plus Vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDyson-Cordless-Vacuum-Silver-Nickel%2Fdp%2FB0CT9552BL%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CT9552BL%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $350 (save $120)
 * [Bose SoundLink Flex Speaker](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBose-SoundLink-Bluetooth-Portable-Waterproof%2Fdp%2FB099TJGJ91%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB099TJGJ91%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $109 (save $40)
 * [Asus Tuf Gaming A16 2024 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-TUF-Gaming-Laptop-165Hz%2Fdp%2FB0CRCWY9VT%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CRCWY9VT%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $1,300 (save $500)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best Amazon tech deals
 
@@ -55,7 +59,7 @@ Jason Hiner/ZDNET
 * [JBL Tune Flex Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJBL-Tune-Flex-Wireless-Cancelling%2Fdp%2FB0C1QNRGHC%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0C1QNRGHC%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $50 (save $50)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Amazon TV deals
@@ -70,7 +74,7 @@ Jason Hiner/ZDNET
 * [LG 75-inch QNED80T LED Smart TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-75-Inch-Processor-AI-Powered-75QNED80TUC%2Fdp%2FB0CVSK2F85%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CVSK2F85%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $1,197 (save $203)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Amazon robot vacuum deals
@@ -84,10 +88,6 @@ Maria Diaz/ZDNET
 * [Eufy L60 Robot Vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Feufy-Vacuum-Suction-Navigation-Cleaning%2Fdp%2FB0CDB56ZWV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $200 (save $80 with on-page coupon)
 * [Roborock S8 Pro Ultra Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPro-Ultra-Self-Washing-Self-Refilling-Self-Emptying%2Fdp%2FB0BVB5PTDK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $950 (save $650)
 * [Roborock Q8 Max Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Froborock-Q8-Max-Navigation-Multi-Level%2Fdp%2FB0C7VFD9Q4%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Fcontent-id%3Damzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%3Aamzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%26crid%3D37DMVM6CIU4Y0%26cv%5Fct%5Fcx%3Drobot%2Bvacuum%26dib%3DeyJ2IjoiMSJ9.A4bejnO1HqJM%5FozbrGpsoYI205q99h9DoNEZVmg9dNI-ILQl1J-mSnznl4IKQtzDgOTGYo%5Fa7rpT3PH-A2Mpiw.a4a0hgwCDw4CmRSsqS2wHRhfJu%5FuKKwf5z-r8S-VJok%26dib%5Ftag%3Dse%26keywords%3Drobot%2Bvacuum%26pd%5Frd%5Fi%3DB0C7VFD9Q4%26pd%5Frd%5Fr%3Dc5436de8-abf5-4537-95f0-9cc48163f596%26pd%5Frd%5Fw%3DOlqAp%26pd%5Frd%5Fwg%3DQ2Iuk%26pf%5Frd%5Fp%3D60b0c4ef-0fd2-46d0-8724-84b6f746d062%26pf%5Frd%5Fr%3DAKHVV8K35XC7VV3MS5S3%26qid%3D1723557736%26sbo%3DRZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D%26sprefix%3Drobot%2Bvacuum%2B%2Caps%2C104%26sr%3D1-20-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $320 (save $280)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best Amazon home deals
 
@@ -105,7 +105,7 @@ Maria Diaz/ZDNET
 ##   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these Amazon deals?
@@ -166,20 +166,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-3-step-guide-to-exceptional-gopro-videos/"><u>[New] 2024 Approved The 3-Step Guide to Exceptional GoPro Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-how-to-monetize-your-youtube-shorts-simple-steps/"><u>[Updated] 2024 Approved How to Monetize Your YouTube Shorts Simple Steps</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-deciphering-facebooks-iconic-blue-emoji-usage-in-messages/"><u>[Updated] In 2024, Deciphering Facebook's Iconic Blue Emoji Usage in Messages</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-perfect-virtual-scenes-enhancing-zoomgoogle-experience/"><u>[Updated] In 2024, Perfect Virtual Scenes Enhancing Zoom/Google Experience</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leading-movie-teasers-highlighted/"><u>[Updated] Leading Movie Teasers Highlighted</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/detailed-steps-to-recover-lost-msvcr100dll-a-complete-windows-troubleshooting-solution/"><u>Detailed Steps to Recover Lost MSVCR100.dll: A Complete Windows Troubleshooting Solution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-methods-for-purging-temporary-files-and-cache-from-your-pc-running-windows-10/"><u>Easy Methods for Purging Temporary Files & Cache From Your PC Running Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-tips-for-changing-your-username-on-a-windows-11-pc/"><u>Easy Tips for Changing Your Username on a Windows 11 PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-tips-on-resolving-windows-1110-malfunctions-a-diy-troubleshooting-manual/"><u>Expert Tips on Resolving Windows 11/10 Malfunctions: A DIY Troubleshooting Manual</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-the-latest-amd-graphics-card-drivers-compatible-with-windows-10-systems/"><u>Get the Latest AMD Graphics Card Drivers Compatible with Windows 10 Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/getting-started-with-free-ip-lookup-track-your-devices-online-identity/"><u>Getting Started with FREE IP Lookup - Track Your Device's Online Identity</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/grau-gmbhs-expert-hardware-and-software-fixes-for-seamless-video-editing/"><u>Grau GmbH's Expert Hardware and Software Fixes for Seamless Video Editing</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-v29e-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo V29e PC | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-tecno-camon-20-premier-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Tecno Camon 20 Premier 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On iPhone 11 Pro Max</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-advanced-vision-systems-with-green-promise/"><u>[New] In 2024, Advanced Vision Systems with Green Promise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rawtiff-movavi/"><u>「無料オンラインツールを使ったRAW画像からTIFFへの移行 - Movavi変換サービス」</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-uhd-precision-converter-clearer-sharper-visuals/"><u>2024 Approved UHD Precision Converter Clearer, Sharper Visuals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-perfekt-losninger-for-klik-pa-google-mxf-til-mp4-konverter-i-mac-og-windows/"><u>8 Perfekt Løsninger For Klik På Google - MXF Til MP4-Konverter I Mac Og Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mef-movavi/"><u>線上全球免費MEF格式影片交換平台 – Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversione-gratuita-da-f4v-a-mp4-online-con-movavi-segui-il-processo-passo-dopo-passo/"><u>Conversione Gratuita Da F4V a MP4 Online Con Movavi - Segui Il Processo Passo Dopo Passo!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/converti-file-mp4-in-immagini-jpeg-di-qualita-superiore-trasforma-in-linea-e-gratuito-con-movavi/"><u>Converti File MP4 in Immagini JPEG Di Qualità Superiore - Trasforma In Linea E Gratuito Con Movavi</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/direct-to-twitter-video-conversion-a-comprehensible-list/"><u>Direct-to-Twitter Video Conversion A Comprehensible List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-change-f4v-video-format-to-avi-explore-movavi/"><u>Free Online Converter: Change F4V Video Format to AVI - Explore Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transform-pgm-images-into-jpeg-format-with-ease-use-movavi/"><u>Free Online Converter: Transform PGM Images Into JPEG Format with Ease - Use Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/i5-vs-i7-comparatif-quel-processeur-domine-pour-les-amateurs-de-jeu-video/"><u>I5 vs I7 Comparatif : Quel Processeur Domine Pour Les Amateurs De Jeu Vidéo?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-15-plus-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 15 Plus</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-turn-your-videos-into-treasures-a-guide-to-creating-home-dvds/"><u>In 2024, Turn Your Videos Into Treasures A Guide to Creating Home DVDs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-visionary-solutions-top-1-ward-video-recorders-on-the-web/"><u>In 2024, Visionary Solutions Top 1 Ward Video Recorders on the Web</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-online-conversion-gratuita-de-audio-aac-al-formato-video-avi/"><u>Movavi Online - Conversión Gratuita De Audio AAC Al Formato Video AVI</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-zte-nubia-flip-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing ZTE Nubia Flip 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/punpixel-the-ultimate-tool-for-digital-humor/"><u>PunPixel The Ultimate Tool for Digital Humor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trasforma-i-tuoi-file-3gp-in-formato-webm-libero-di-uso-guida-passo-passo-con-movavi/"><u>Trasforma I Tuoi File 3GP in Formato WebM Libero Di Uso: Guida Passo-Passo Con Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 7 Future Security Insights for Digital Landscapes
-date: 2024-09-02T20:35:20.796Z
-updated: 2024-09-03T20:35:20.796Z
+date: 2025-01-13T16:41:47.251Z
+updated: 2025-01-18T17:26:15.066Z
 tags:
   - chatgpt
   - open-ai
@@ -43,18 +43,23 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
 
  It's the gravity of supply chain's influence that has made it an attractive target for cybercriminals. As the demand for mass production and global shipping increases, so does the impact of hacks on supply chain systems.
 
  According to [Cybersecurity Hub](https://www.cshub.com/events-supply-chain-threats), the number of supply chain attacks has risen by 74 percent over the past three years. The site also reported that it takes an average of 287 days to detect a supply chain attack, giving malicious actors plenty of time to steal data or disrupt services. In 2024, we may see this increase in supply chain attacks continue, or even evolve in sophistication.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 3\. Further Adoption of Zero-Trust Systems
 
 ![person in suit using tablet with zero-trust spider diagram in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/zero-trust-image.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Zero-trust systems do not rely on any user or group of users to authenticate, monitor, or store data. Additionally, every user present in a zero-trust system must authorize access to a new user, otherwise the system remains off-limits to that individual. In short, a zero-trust system is designed not to trust any one individual. All users are assumed untrustworthy unless authentication is provided by other users.
 
@@ -66,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
 ![close up shot of electric car charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ev-charging-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Gone are the days when a car was just a mechanical vehicle with a radio. Now, we can use Bluetooth, Wi-Fi, and even NFC in our cars. These wireless connections, along with a reliance on software, have opened the door for cybercriminals.
 
  This is especially the case with electric vehicles. A lot of EVs are designed with high-tech features, such as NFC-based door locks, AI hazard detection, Wi-Fi capabilities, apps for charging, and so much more. Both remote and short-range hacks can be carried out by exploiting such features, putting EV owners and other drivers at risk.
@@ -74,12 +83,13 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
  This is just one of the numerous [types of EV hacks](https://www.makeuseof.com/can-electric-vehicles-be-hacked/) that are possible. In order to avoid this, EV manufacturers need to thoroughly vet their software to ensure vulnerabilities aren't being left behind in the code.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Improved Smart Home and IoT Security
 
 ![picture of living room with smart tech connection grid in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smart-home-grid.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  IoT devices make our day-to-day lives possible. Whether you're using your smartphone, smart speaker, smartwatch, or anything similar, IoT is facilitating your actions. In short IoT is a blanket term covering all interconnected devices. This network of connected "things" forms its own [Internet of Things (IoT)](https://www.makeuseof.com/tag/what-is-internet-of-things/). It's this increased connectivity forming the Internet of Things that has attracted cybercriminals.
 
@@ -89,32 +99,24 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
  Because of this growing threat, smart home and IoT security is expected to see an improvement throughout 2024\. Providing patches for vulnerabilities, offering more security features (such as encryption and two-factor authentication), and conducting regular code audits can all help to fend of cyberattacks aimed towards IoT devices and smart homes.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## 6\. Further Exploit of Cloud Platforms
 
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  There's a good chance you already have data stored on a cloud platform, such as Microsoft OneDrive or Google Drive. These platforms aren't easy to hack, but the hordes of data they store make them very lucrative targets for hackers.
 
  While cloud platforms are undeniably a convenient storage option, one's ability to access data anywhere with the correct credentials creates a problem. If a hacker manages to access someone's account, they can then look at any data stored on said account—work documents, ID photos, photos and videos, financial information, or anything else.
 
  With this pot of data gold waiting for cybercriminals, it's no surprise that they're doing all they can to get inside. While cloud platforms often come with various security features, they're not impenetrable, and the sheer amount of data stored on these platforms nowadays makes them increasingly attractive to hackers.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Continued Topical Email Scams
 
 ![laptop surrounded by cybersecurity buzzwords](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mail-scam-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There's no shortage of scammers looking to profit from current events. We saw a slew of scams arise from the COVID-19 pandemic, but things don't stop there. The Russia-Ukraine war and the Israel-Palestine conflict have also been used throughout 2023 to squeeze money out of victims through social engineering.
 
  For instance, a scammer may email a potential victim claiming to be a representative for a charity. They provide a link to a donation page so that the recipient can provide some money for the cause. But in reality, the charity is either make-believe, or the sender is impersonating an employee from a well known charitable organization. The scammer may be looking for a one-off payment, but they could also be providing a link to a phishing site designed to steal the victim's payment details. Either way, the recipient ends up losing out.
@@ -135,8 +137,6 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +144,26 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-expert-techniques-for-ps4-gameplay-documentation/"><u>[New] 2024 Approved Expert Techniques for PS4 Gameplay Documentation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unleashing-your-macs-screen-sharing-potential/"><u>[New] 2024 Approved Unleashing Your Mac's Screen Sharing Potential</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ow-to-fix-youtube-video-black-screen/"><u>[New] How to Fix YouTube Video Black Screen</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-integrated-mac-system-screenmicrophone-recording/"><u>[Updated] Integrated Mac System Screen/Microphone Recording</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/balancing-personalization-and-privacy-in-gpt-applications/"><u>Balancing Personalization and Privacy in GPT Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/copilot-mode-free-access-to-gpt-4s-best-features/"><u>Copilot Mode: Free Access to GPT-4's Best Features</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/ephemeral-clip-creator/"><u>Ephemeral Clip Creator</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exiting-the-chatgpt-world-a-how-to/"><u>Exiting the ChatGPT World: A How-To</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-evaluation-of-the-high-quality-12mp-docooler-usb-20-camera-surprisingly-exceptional/"><u>Expert Evaluation of the High-Quality 12MP Docooler USB 2.0 Camera: Surprisingly Exceptional</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-creating-a-memorable-and-unique-moniker-for-your-filmora-content/"><u>In 2024, Creating a Memorable and Unique Moniker for Your Filmora Content</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or Apple iPhone 14 Plus?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-browsing-made-simple-unleash-bing-ai-on-your-devices/"><u>Intelligent Browsing Made Simple: Unleash Bing AI on Your Devices.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/microsoft-bing-with-ai-powered-search-how-your-search-experience-will-change/"><u>Microsoft Bing With AI-Powered Search: How Your Search Experience Will Change</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photographic-lifelines-in-the-cloud-affordable-and-elite-storage-solutions-for-2024/"><u>Photographic Lifelines in the Cloud Affordable & Elite Storage Solutions for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-progress-chatgpts-revolutionary-feature-set-revealed/"><u>Pioneering Progress: ChatGPT's Revolutionary Feature Set Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/plagiarism-perils-chatbot-source-evaluation/"><u>Plagiarism Perils: Chatbot Source Evaluation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proving-ai-as-the-bartender-of-tomorrow/"><u>Proving AI as the Bartender of Tomorrow</u></a></li>
+<li><a href="https://facebook.techidaily.com/second-life-rising-meet-the-new-metaverse-demands/"><u>Second Life Rising? Meet the New Metaverse Demands?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tips-for-top-notetakers-using-chatgpt/"><u>Tips for Top Notetakers Using ChatGPT</u></a></li>
+</ul></div>
 

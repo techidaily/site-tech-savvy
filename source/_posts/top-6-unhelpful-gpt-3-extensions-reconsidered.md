@@ -1,7 +1,7 @@
 ---
 title: Top 6 Unhelpful GPT-3 Extensions Reconsidered
-date: 2025-01-05T21:35:44.082Z
-updated: 2025-01-12T18:46:18.361Z
+date: 2025-01-15T17:48:11.965Z
+updated: 2025-01-18T17:37:46.971Z
 tags:
   - chatgpt
   - open-ai
@@ -46,25 +46,17 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
 
 ![Aaron Web Browser on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aaron-web-browser-on-the-chatgpt-plugin-store.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  “Built for scraping data from multiple website URLs.” This is the first sentence in the description for the plugin. One would think that the description accurately captures the plugin's capabilities, but upon closer inspection, it’s not entirely true. We tried to scrape data from 20 different URLs and only one went through.
 
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to [scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/)? Maybe ChatGPT plugins are not the right tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. AppyPie App Builder
 
 ![Appypie App builder on ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/appypie-app-builder-on-chatgpt-plugin-store.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  AppyPie is a popular no-code app-building platform. It's relatively easy to use, and you can deploy fully functional mobile apps in a very short time without having to write a single line of code.
 
@@ -80,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
 
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you go by the definition of an AI agent, it’s easy to get excited about what the “AI Agents” plugin promises to do. The plugin self-describes as a plugin to help you “unleash the power of multiple AIs.” The idea is to take a complex goal, break it into subtasks, and then leverage the power of multiple AI agents specializing in each subtask to achieve the big goal you set for it.
 
  It, at least in theory, is supposed to be able to do something akin to [what AutoGPT does](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/). Unfortunately, irrespective of the complexity of the task we set for it, the plugin couldn't deliver anything.
@@ -87,18 +83,26 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
  It seems it was just applying a few prompt tricks and returning a not-so-enhanced copy of what ChatGPT would provide. There's really no sense of AI agents at work. It doesn't offer anything particularly different from what ChatGPT would do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. A Movie Please (FilmFindr)
 
 ![FilmFindr plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/filmfindr-plugin-on-the-chatgpt-plugin-store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The "A Movie Please" plugin is a movie recommendation tool to help ChatGPT users decide what to watch next. Although the plugin is not a dud (it actually makes movie recommendations), you're better off using ChatGPT without the plugin.
 
  Once you've provided a description of the kind of movie you want, the plugin only ever recommends movies that are available on Amazon's Prime streaming service. If you have a niche taste in movies, you'll find the recommendations to be mediocre at best.
 
  For quality movie suggestions, you're better off prompting the base ChatGPT model directly [to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/). By going that route, you'll get far superior results compared to relying on the "A Movie Please" plugin.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. ABC Website Maker
 
@@ -107,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT's Plugin Store: Quantity Over Quality?
 
@@ -139,17 +139,20 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-dive-into-ustream-and-others-like-it-for-2024/"><u>[New] Dive Into Ustream & Others Like It for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-fantasy-realms-awaits-ultimate-list-of-no-cost-rpgs-for-2024/"><u>[Updated] Fantasy Realms Awaits Ultimate List of No-Cost RPGs for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-loyalists-delight-as-lg-rolls-out-no-cost-audio-improvement-featured-on-zdnet/"><u>Apple Loyalists Delight as LG Rolls Out No-Cost Audio Improvement, Featured on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-8-ultimate-apps-for-seamless-trip-itinerary-management/"><u>Discover the 8 Ultimate Apps for Seamless Trip Itinerary Management</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/download-samsung-android-debug-bridge-adb-drivers-free/"><u>Download Samsung Android Debug Bridge (ADB) Drivers - Free</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficient-strategies-for-clearing-your-gpt-history/"><u>Efficient Strategies for Clearing Your GPT History</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-steps-to-enable-gpt-3s-web-features/"><u>Essential Steps to Enable GPT-3's Web Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-apples-latest-mac-mini-with-m2-chip-drops-to-record-low-price-of-479-the-inside-scoop-on-tech-deals/"><u>How Apple's Latest Mac Mini With M2 Chip Drops to Record Low Price of $479 | The Inside Scoop on Tech Deals</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-motorola-moto-g-5g-2023-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Motorola Moto G 5G (2023) to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sculpting-images-a-beginners-guide-to-pics-distortion/"><u>In 2024, Sculpting Images A Beginner's Guide to Pics Distortion</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-reduce-cpu-load-from-dropbox-applications/"><u>Techniques to Reduce CPU Load From Dropbox Applications</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-future-of-mobile-videography-6-pioneering-apps-beyond-periscope/"><u>The Future of Mobile Videography 6 Pioneering Apps Beyond Periscope</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-tiktok-updating-numbers-effectively/"><u>[New] Mastering TikTok Updating Numbers Effectively</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ace-your-signature-rapid-background-cleansing-guide-for-2024/"><u>Ace Your Signature Rapid Background Cleansing Guide for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-tecno-camon-30-pro-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Tecno Camon 30 Pro 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-iphone-capacity-eliminate-superfluous-data-using-these-3-simple-strategies/"><u>Boost iPhone Capacity: Eliminate Superfluous Data Using These 3 Simple Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortlessly-change-videos-into-mobile-friendly-layouts-with-our-mobi-video-converter/"><u>Effortlessly Change Videos Into Mobile-Friendly Layouts with Our Mobi Video Converter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortlessly-upgrade-your-avi-content-to-ultra-crisp-hd-quality-for-enhanced-viewing-experience/"><u>Effortlessly Upgrade Your AVI Content to Ultra-Crisp HD Quality for Enhanced Viewing Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-strategies-for-accessing-your-favorite-clipon-from-pocket/"><u>Essential Strategies for Accessing Your Favorite ClipOn From Pocket</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-guide-converting-twitch-streams-into-1080p-mp4-files-on-your-pc/"><u>Free Guide: Converting Twitch Streams Into 1080P MP4 Files on Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/global-access-unleashed-two-quick-fixes-for-removing-dvd-region-locks-on-your-pc/"><u>Global Access Unleashed: Two Quick Fixes for Removing DVD Region Locks on Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-easy-conversion-of-mov-video-format-to-mp4-4k-for-crystal-clear-viewing-experience/"><u>Guide: Easy Conversion of MOV Video Format to MP4 4K for Crystal Clear Viewing Experience</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-windows-11-laptop-gpu-initialization/"><u>Resolved: Windows 11 Laptop GPU Initialization</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/top-techniques-to-stream-wma-files-on-your-android-device/"><u>Top Techniques to Stream WMA Files on Your Android Device</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ultimate-guide-top-screen-capture-tools-roundup-for-2024/"><u>Ultimate Guide Top Screen Capture Tools Roundup for 2024</u></a></li>
+<li><a href="https://techidaily.com/vivo-s17-pro-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Vivo S17 Pro support - Forgotten screen lock.</u></a></li>
 </ul></div>
 

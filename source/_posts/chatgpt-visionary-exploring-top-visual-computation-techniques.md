@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Visionary: Exploring Top Visual Computation Techniques"
-date: 2024-09-02T20:39:06.017Z
-updated: 2024-09-03T20:39:06.017Z
+date: 2025-01-13T17:07:18.239Z
+updated: 2025-01-18T16:25:51.012Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/c9c3286561c0cb162a6f36b6b19f491a65ddd3daf
 
 ![Icon to upload an image in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-vision-uses.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Depending on the context of the image, you can choose to enter a text-based prompt in addition to the image, or just let ChatGPT do its thing and let it analyze the attached picture.
 
 ## 1\. Identifying Items or Describing Images
@@ -41,16 +45,10 @@ thumbnail: https://thmb.techidaily.com/c9c3286561c0cb162a6f36b6b19f491a65ddd3daf
 
  On the other hand, if you're just looking for a textual description of an image when you just can't formulate your thoughts into words, asking for a detailed description is a great way to use the new Vision feature in ChatGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Recognizing Fictional Characters
 
 ![ChatGPT Vision recognizing a character from a popular TV series](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-vision-uses-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  Can't seem to recognize that one character from a meme you have stored on your phone? Turns out, ChatGPT is quite remarkable at recognizing characters from popular media such as TV shows, movies, or anime.
 
  There's a catch, though—it will deny any requests you may have of extracting information about a real person. It still works in recognizing characters from live-action movies and TV series, but ChatGPT Vision draws a bold line beyond that when it's associated with the identity of a real human being.
@@ -62,28 +60,31 @@ thumbnail: https://thmb.techidaily.com/c9c3286561c0cb162a6f36b6b19f491a65ddd3daf
  With the Vision feature, you can ease the learning curve even further by simply uploading a picture of a wireframe or UI design and seeking ChatGPT for help with the actual code. Outside generating front-end code using wireframes, there are plenty of other ways you can [use ChatGPT for programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/).
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Translating Handwritten Text
 
  Although [Google Translate's many features](https://www.makeuseof.com/tag/google-translate-mobile-features/) are highly reliable, you can still mess around with translating handwritten text from old letters, notebooks, or other documents using ChatGPT Vision.
 
  Beyond basic translation, you can prompt it to categorize the information in a way that pleases you, summarize the text in a few words, or rewrite it in a completely different language.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Explaining Infographics
 
 ![ChatGPT Vision explaining an infograph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-vision-uses-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  Particularly useful for students and teachers, you can get detailed explanations out of infographics such as pie or bar charts in a matter of seconds.
 
  Not only can ChatGPT break down the visual data for you, but it can also explain certain segments in detail upon request. However, we encourage you to take particulars such as numbers that are produced with a grain of salt, since data inaccuracy is one of the most common [problems associated with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Assembling Furniture
 
  Buying new furniture for your space is always exciting, but actually assembling it may not be so exhilarating. If you're stuck at a particular step and the perplexing diagrams in the manual seem to be of no help, snapping a photo of the steps or the piece of furniture and asking ChatGPT could be worth a shot.
@@ -93,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/c9c3286561c0cb162a6f36b6b19f491a65ddd3daf
 ## 7\. Gaining Artwork Feedback
 
 ![ChatGPT Vision providing constructive criticism of a photograph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-vision-uses-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  At a time when almost anybody can [create art using AI](https://www.makeuseof.com/ai-text-to-art-generators/), constructive criticism is what every true photographer and artist strives for, and although ChatGPT lacks the human touch, it may yield some very useful feedback.
 
@@ -104,9 +109,6 @@ thumbnail: https://thmb.techidaily.com/c9c3286561c0cb162a6f36b6b19f491a65ddd3daf
 
  This can also work the other way around, where you upload a photo of a tasty dish you're eating at a restaurant and get a detailed recipe for it within a few seconds. Swiftly snapping a picture of a menu and asking ChatGPT Vision for information about the dishes can be useful if you have certain dietary restrictions too.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## Peek Into New Possibilities With ChatGPT Vision
 
  There have always been various ways to master your prompts to make the most out of this advanced text-based AI model, but now with the ability to attach images, one can push the boundaries like never before.
@@ -125,8 +127,6 @@ thumbnail: https://thmb.techidaily.com/c9c3286561c0cb162a6f36b6b19f491a65ddd3daf
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +134,21 @@ thumbnail: https://thmb.techidaily.com/c9c3286561c0cb162a6f36b6b19f491a65ddd3daf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-essential-hashtags-boosting-your-instagram-presence-now-for-2024/"><u>[Updated] Essential #Hashtags Boosting Your Instagram Presence Now for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-crafting-success-pushing-your-video-into-top-charts/"><u>2024 Approved Crafting Success Pushing Your Video Into Top Charts</u></a></li>
+<li><a href="https://discover-help.techidaily.com/5-proven-methods-for-reducing-mov-file-sizes-without-losing-quality/"><u>5 Proven Methods for Reducing Mov File Sizes Without Losing Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-the-features-of-claude-pro-in-relation-to-gptplusplusplus/"><u>Assessing the Features of Claude Pro in Relation to GPT++Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-advantages-of-using-claude-3/"><u>Discover the Advantages of Using Claude 3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-workflow-auto-gpt-on-ubuntu/"><u>Elevate Your Workflow: Auto-GPT on Ubuntu</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-gpt-4-available-to-everyone-dont-overlook-the-6-platinum-perks/"><u>Free GPT-4 Available to Everyone! Don't Overlook the 6 Platinum Perks.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-pluses-vs-perplexities-ai-chatbot-showdown/"><u>GPT Pluses Vs. Perplexities: AI Chatbot Showdown</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-bend-the-light-homegrown-animated-innovations/"><u>In 2024, Bend the Light Homegrown Animated Innovations</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-unresolved-roblox-issues-on-windows/"><u>Overcoming Unresolved Roblox Issues on Windows</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/ultra-hd-reconstruction-how-does-ai-elevate-your-videos-to-4k-brilliance/"><u>Ultra-HD Reconstruction: How Does AI Elevate Your Videos to 4K Brilliance?</u></a></li>
+<li><a href="https://win11.techidaily.com/unlikely-choices-best-kept-windows-11-secrets/"><u>Unlikely Choices: Best-Kept Windows 11 Secrets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unravel-computer-confusions-with-gpts-guidance/"><u>Unravel Computer Confusions with GPT's Guidance</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-bring-your-memories-to-life-how-to-create-engaging-home-dvds/"><u>Updated In 2024, Bring Your Memories to Life How to Create Engaging Home DVDs</u></a></li>
+</ul></div>
 

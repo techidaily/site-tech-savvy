@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Power of ChatGPT with Extensions
-date: 2024-09-02T20:36:32.601Z
-updated: 2024-09-03T20:36:32.601Z
+date: 2025-01-12T17:23:57.008Z
+updated: 2025-01-18T16:51:36.053Z
 tags:
   - chatgpt
   - open-ai
@@ -40,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/6669b51a644a6e6a471c5e95129c578aa098ea11f
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Are ChatGPT Plugins?
 
  ChatGPT Plugins are third-party extensions designed to extend the functionality of ChatGPT. According to OpenAI, "Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run computations, or use third-party services."
@@ -58,11 +59,16 @@ thumbnail: https://thmb.techidaily.com/6669b51a644a6e6a471c5e95129c578aa098ea11f
 
 ![chatgpt plugins list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugins-list.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And yes, we're now calling it a platform because from here on, ChatGPT becomes more than "just a chatbot."
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Install a ChatGPT Plugin
 
 [Installing a ChatGPT Plugin takes just a few clicks](https://www.makeuseof.com/how-to-turn-on-chatgpt-new-web-browsing-and-plugins-feature/), but you need a ChatGPT Plus subscription. ChatGPT Plugins are not available without a premium subscription.
@@ -72,9 +78,14 @@ thumbnail: https://thmb.techidaily.com/6669b51a644a6e6a471c5e95129c578aa098ea11f
 ![chatgpt plugin store option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-store-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![chatgpt plugin instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-instructions.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -88,9 +99,6 @@ Close
 
  However, there is currently no "All Plugins" list to make it easy to unsubscribe. Also, there is no way to sort the plugins, so you're left to scroll through every page until you find what you want. Search functionality will come with a later update, but having these user-friendly UI features ready would have been useful.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## How to Use a ChatGPT Plugin
 
  How you use a ChatGPT Plugin depends on the plugin you install. But the general gist of ChatGPT plugin usage is similar to regular ChatGPT; you ask your question, and ChatGPT provides an answer. The accuracy of your answer [depends on the quality of your prompt](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/), but now also depends on the quality of the ChatGPT Plugin.
@@ -103,19 +111,10 @@ Close
 
 ![chatgpt plugin planning trip with kayak](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-planning-trip-with-kayak.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chatgpt plugin planning trip with kayak adding more information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-planning-trip-with-kayak-adding-more-information.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chatgpt plugin planning trip with kayak final suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-planning-trip-with-kayak-final-suggestions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![skyscanner flights to malta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/skyscanner-flights-to-malta.jpg)
 
 Close
@@ -126,10 +125,6 @@ Close
 
 ![chatgpt cannot enable plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-cannot-enable-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
  That said, the travel plugins fared much better when tasked with a trip in the US. The Kayak plugin quickly found flights and a hotel for a solo trip from Miami to New York, staying in a four-star hotel with a gym and pool. In this case, my prompt was more specific, had fewer variables, and was easier for the plugin to plan.
 
 ![chatgpt kayak plugin plans trip to new york](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-kayak-plugin-plans-trip-to-new-york.jpg)
@@ -157,25 +152,29 @@ Close
 ![chatgpt adding playlistai plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-adding-playlistai-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![chatgpt playlistai pluging create playlist](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-pluging-create-playlist.jpg)
 
 ![chatgpt playlistai plugin hip hop suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-plugin-hip-hop-suggestions.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![chatgpt playlistai plugin track suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-plugin-track-suggestions.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![chatgpt playlistai plugin playlist in spotify](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-plugin-playlist-in-spotify.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  The only issue arose when asking the plugin to combine the two playlists into one. PlaylistAI responded positively, showing that it had combined the two into a playlist titled "Melodic Techno Meets 90s Hip Hop," yet the playlist was still just hip-hop. In addition, PlaylistAI added three more hip-hop tracks to the original list, which isn't a problem, but it wasn't anything near what was asked.
@@ -194,8 +193,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +200,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-cutting-edge-templates-unlocking-your-videos-potential/"><u>[Updated] 2024 Approved Cutting-Edge Templates Unlocking Your Video's Potential</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-transforming-igtv-with-multi-language-captioning/"><u>[Updated] In 2024, Transforming IGTV with Multi-Language Captioning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-chatgpts-bar-based-cocktail-skills/"><u>Assessing ChatGPT's Bar-Based Cocktail Skills</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/asus-pce-ac68-driver-software-immediate-downloads-available/"><u>ASUS PCE-AC68 Driver Software – Immediate Downloads Available</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/easy-laughs-await-best-free-meme-samples/"><u>Easy Laughs Await Best FREE Meme Samples</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elons-secret-gpt-project-unveiled/"><u>Elon's Secret: GPT Project Unveiled?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-blank-page-to-book-9-ways-chatgpt-aids-writers/"><u>From Blank Page to Book: 9 Ways ChatGPT Aids Writers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-12-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme 12 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preventing-irrecoverable-interactions-in-gpt-conversations/"><u>Preventing Irrecoverable Interactions in GPT Conversations</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-assassins-creed-valhalla-a-thrilling-journey-through-the-viking-era/"><u>Review of Assassin’s Creed: Valhalla - A Thrilling Journey Through the Viking Era</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/save-big-on-the-latest-ipad-now-for-just-199-exclusive-sneak-peek-of-amazons-labor-day-offers-covered-by-zdnet/"><u>Save Big on the Latest iPad Now for Just $199 - Exclusive Sneak Peek of Amazon's Labor Day Offers Covered by ZDNet.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-data-sharing-best-apps-and-extensions-for-ai-conversations/"><u>Secure Data Sharing: Best Apps & Extensions for AI Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolution-continues-surpassing-the-original-turing-test/"><u>The Evolution Continues: Surpassing the Original Turing Test</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ai-platforms-for-idea-evolution/"><u>Top AI Platforms for Idea Evolution</u></a></li>
+</ul></div>
 

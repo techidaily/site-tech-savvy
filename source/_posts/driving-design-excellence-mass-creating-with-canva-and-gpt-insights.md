@@ -1,7 +1,7 @@
 ---
 title: "Driving Design Excellence: Mass-Creating with Canva & GPT Insights"
-date: 2025-01-11T21:27:09.094Z
-updated: 2025-01-12T22:42:34.976Z
+date: 2025-01-17T17:45:26.106Z
+updated: 2025-01-18T17:00:38.510Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Write a Prompt in ChatGPT
 
 ![ChatGPT prompt results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-prompt-results.jpg)
@@ -52,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 ![GoogleSheets-quotes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-quotes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have a programmer’s mind, you can [use the GPT for Sheets and Docs extension](https://www.makeuseof.com/how-use-chatgpt-google-sheets/), or you can copy and paste your content into any spreadsheet program—like Microsoft Excel or Google Sheets. Then open a blank page.
@@ -66,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 ![Google Sheets with quotes in one column and credits in another.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-remove-attirubtion.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  First, widen column A to the right. Hover your cursor over the connecting edge of A and B until the cursor changes to arrows, then click and drag A column until you can see the ends of your content within the column width.
@@ -75,17 +71,9 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 
  You can add more elements if required, but for most social media posts, you don’t want to overcrowd information.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Label Your Columns
 
 ![Google Sheets with Quotes and Attribution labels.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/labelledgoogledocs.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now it’s time to put labels in the first row. This allows Canva to attribute your spreadsheet values to its bulk creation system later.
 
@@ -101,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 
  For Microsoft Excel, go to **File** \> **Save as**​​​​​​, and under File Format choose **CSV UTF-8 (Comma-delimited) (.csv)**​​​​​​. But this could be different depending on which version of Microsoft Office you’re running.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Make Your Design in Canva
 
 ![Create a Design options in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-design-canva.jpg)
@@ -112,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 ![Canva template design](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-template-design.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Add elements around the edges of your design, leaving enough empty space for your text. You could add your logo, images, a background, or decorative patterns.
@@ -128,7 +120,7 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
  If you want different designs for the same content, you can create more than one template design here. Select **Add a page** beneath your artboard to add a new design.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Bulk Create Your Content
@@ -143,6 +135,10 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 
 ![Canva CSV input.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/curly-brackets.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select your Quotes placeholder text, then right-click > **Connect Data** \> **\[QUOTES\]**. This inputs your data into Canva, shown by your label now written in curly brackets. Do this again for your second set of content, and any others you’re adding. Select **Continue**.
 
 ![Canva's Bulk Create checkboxes.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apply-data-canva-bulk-create.jpg)
@@ -153,26 +149,30 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 
 ![Canva bulk designs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-bulk-designs.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After generation, your designs appear on their own page in a new tab. Scroll to view them all. If you applied Bulk Create to more than one design, you’ll have alternate designs for each set of text.
 
  Now comes the most laborious part of bulk creation. Go through each design to review and edit it. Although they’ve each been created under the same parameters, some text may not fit correctly or in aesthetically pleasing ways. Resize or move the text to best fit each design.
 
  At this point you can also add emphasis to individual words with extra colors, bold or italics, or change the font for certain words or phrases. This isn’t possible to do with Bulk Create.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10\. Save Your Bulk-Created Designs
 
 ![Canva save options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-save-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re happy with how everything looks, it’s time to save your designs. Go to **Share** \> **Download** and choose the best format for your designs. PNG is what we recommend for the best quality, but some social media applications might not accept PNGs, or perhaps another format works better for your designs.
 
 ![Bulk designs on Mac Finder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-designs-on-mac.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can add your bulk content to a social media scheduling app, like Hootsuite or Later, to save even more time and to ensure regular posting. Bulk designs are great for weekly or monthly posts of a similar type, for example, Monday Motivation or monthly calendar posts.
@@ -200,19 +200,24 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-recording-multiplesecondary-monitors/"><u>[New] In 2024, Recording Multiple/Secondary Monitors</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-memories-facebook-look-back-editing-steps/"><u>[New] Unlocking Memories Facebook Look Back Editing Steps</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-ultimate-review-of-asus-proart-pa-329q-professional-4k-screen-for-2024/"><u>[Updated] The Ultimate Review of Asus ProArt PA 329Q Professional 4K Screen for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-and-marital-bliss-a-heartfelt-inquiry-from-a-tech-sales-perspective-insights-on-matrimonial-devotion/"><u>Apple Vision Pro and Marital Bliss: A Heartfelt Inquiry From a Tech Sales Perspective | Insights on Matrimonial Devotion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/craft-a-winning-resume-the-chatgpt-way/"><u>Craft a Winning Resume: The ChatGPT Way</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-the-upgraded-apple-carplay-experience-with-exclusive-features-unveiled-at-wwdc-2eek-insights-from-zdncom/"><u>Explore the Upgraded Apple CarPlay Experience with Exclusive Features Unveiled at WWDC 2Eek - Insights From ZDN.com</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-realme-c55-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Realme C55 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-free-youtube-endings-that-stand-out-ranked/"><u>In 2024, Free YouTube Endings That Stand Out - Ranked</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-apple-pay-a-complete-guide-to-using-it-offline-and-online-insights-from-zdnet/"><u>Mastering Apple Pay: A Complete Guide to Using It Offline & Online - Insights From ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723003938501-resolved-how-to-fix-microsoft-flight-simulator-2020-update-issue/"><u>Resolved: How To Fix Microsoft Flight Simulator 2020 Update Issue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-document-process-with-10-chatgpt-apps/"><u>Revolutionize Your Document Process with 10 ChatGPT Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-main-advantage-that-keeps-me-loyal-to-my-apple-watch-series-7-over-upgrading-to-series-10-techzdnet-insights/"><u>The Main Advantage That Keeps Me Loyal to My Apple Watch Series 7 Over Upgrading to Series 10 | TechZDNet Insights.</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/topo-5-aplicativos-mais-eficientes-para-extracao-de-dvd-em-win11-faca-o-download-da-edicao-integral/"><u>Topo 5 Aplicativos Mais Eficientes Para Extração De DVD Em Win11 - Faça O Download Da Edição Integral</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-touchscreen-laptop-showdown-in-depth-reviews-and-ratings-curated-professionals/"><u>Ultimate Touchscreen Laptop Showdown: In-Depth Reviews & Ratings Curated Professionals</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-digital-renaissance-a-curated-list-of-top-nft-generating-platforms-for-2024/"><u>[New] Digital Renaissance A Curated List of Top NFT-Generating Platforms for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-tips-for-flv-file-fusion-on-youtube/"><u>[New] In 2024, Essential Tips for FLV File Fusion on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-perfecting-zoom-sound-a-dual-strategy-approach-for-2024/"><u>[New] Perfecting Zoom Sound A Dual Strategy Approach for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-digital-domination-rise-from-thousands-to-a-million-on-youtube/"><u>[Updated] Digital Domination Rise From Thousands to a Million on YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-master-money-makers-the-best-of-the-top-ig-earners/"><u>[Updated] In 2024, Master Money Makers The Best of the Top IG Earners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030092152-vobavi/"><u>「無劣化転送」: VOBファイルを安全にAVI形式に変換するテクニック</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/202n-top7/"><u>「最新動画変換ツール！202n オススメのフリーソフトライブラリTOP7」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029445114-pc/"><u>「PCやスマートフォンで行うビデオ通話の記録方法について詳しく解説」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028409186-9/"><u>9人気ファイルコンバータ転送ツールリスト - 動画、オーディオファイルの簡単な変換方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027795560-youtube5/"><u>広告ゼロの視聴: YouTubeでおすすめの5手法</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-discord-streams-resolving-app-crashes-during-live-broadcasts/"><u>How to Fix Discord Streams: Resolving App Crashes During Live Broadcasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029656323-iphonedvd/"><u>IPhone動画をスムーズにDVD化する - フリー・シンプル・セキュアメソッド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030257151-iphoneyoutube/"><u>IPhoneの動画音量アップ方法と、YouTubeで低音を改善するヒント</u></a></li>
+<li><a href="https://games-able.techidaily.com/launchpad-to-victory-7-critical-fps-tweaks/"><u>Launchpad to Victory: 7 Critical FPS Tweaks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/picking-the-right-software-bandicam-versus-camtasia-for-2024/"><u>Picking the Right Software Bandicam Versus Camtasia for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-transition-of-imessage-from-ios-to-windows-os/"><u>Seamless Transition of iMessage From iOS to Windows OS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/seeking-outno-cost-clip-art-deposits-for-2024/"><u>Seeking Outno-Cost Clip Art Deposits for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027697726-vlc/"><u>VLCメディアプレーヤー用動画コンパクト化 - より小さなファイルにしてください</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028055917-1080p-vs-720p/"><u>ハイクォリティー動画のための解像度ガイド - 1080P vs 720Pを理解しよう！</u></a></li>
 </ul></div>
 

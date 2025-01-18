@@ -1,7 +1,7 @@
 ---
 title: Proving AI as the Bartender of Tomorrow
-date: 2024-09-02T20:38:06.204Z
-updated: 2024-09-03T20:38:06.204Z
+date: 2025-01-11T16:36:27.842Z
+updated: 2025-01-18T16:04:41.846Z
 tags:
   - chatgpt
   - open-ai
@@ -31,14 +31,14 @@ thumbnail: https://thmb.techidaily.com/6d2d53e2342f21d415006db38fe4601b286d92e55
 
  As long as your prompts are sound, the AI chatbot should deliver. So, let's test that theory.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Testing ChatGPT's Abilities as a Bartender
 
  I started out with a simple request before moving on to more difficult requests. And the results were interesting, to say the least. I have paraphrased the prompts used as there was often a back-and-forth needed to get ChatGPT to deliver.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Prompt 1: "What Can I Add to an Aperol Spritz Instead of Soda?"
 
  The simple answer ChatGPT and I arrived at was lemonade. But before reaching that conclusion, ChatGPT offered up a multitude of different options to add to an Aperol Spritz. Many of which I wouldn't have ever thought of. And crucially, I doubt your local bartender would have either. These included more prosecco, another type of sparkling wine, tonic water, ginger ale, and grapefruit juice.
@@ -46,8 +46,13 @@ thumbnail: https://thmb.techidaily.com/6d2d53e2342f21d415006db38fe4601b286d92e55
 ![aperol-spritz-with-lemonade-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/aperol-spritz-with-lemonade-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Prompt 2: "Please Create the Best Version of an Old-Fashioned."
 
  You can choose any cocktail you want, but I chose the Old-Fashioned, my favorite cocktail in the world. The problem here is that ChatGPT just gave me the core, world-renowned recipe for an Old-Fashioned. So, while it was a very nice cocktail, if you already know how to make a cocktail (or know [how to search online for recipes](https://www.makeuseof.com/recipe-search-engines-based-on-time-budget-ingredients/)), this prompt is a bit of a letdown.
@@ -68,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/6d2d53e2342f21d415006db38fe4601b286d92e55
 
  I also tried adding cinnamon, which also worked well. However, the cinnamon upped the sweetness and overpowered some of the other flavors.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Prompt 4: "Please Create a New, Wholly Original Cocktail."
 
  While classic cocktails have stood the test of time for a reason, plenty of new combinations of ingredients are still waiting to be discovered. Bartenders the world over try to create new cocktails with the hopes that one of their creations will prove to be so popular that it, and they, become famous.
@@ -86,8 +88,9 @@ thumbnail: https://thmb.techidaily.com/6d2d53e2342f21d415006db38fe4601b286d92e55
 ![island-serenade-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/island-serenade-chatgpt-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Prompt 5: "What Cocktail Should I Make Right Now?"
 
  Last but not least, I wanted to see how well ChatGPT could adapt to specific needs at specific times. So I asked it to suggest a refreshing, satisfying cocktail to drink on a midweek evening after the sun has set. After initially suggesting a simple Mojito followed by a Rum Sour (neither of which I had all the ingredients for), ChatGPT suggested an Orange Blossom (four parts gin, two parts freshly squeezed orange juice, and one part simple syrup).
@@ -96,9 +99,6 @@ thumbnail: https://thmb.techidaily.com/6d2d53e2342f21d415006db38fe4601b286d92e55
 
 ![orange-blossom-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/orange-blossom-chatgpt-cocktail.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## So, Is ChatGPT Good at Making Cocktails?
 
  In a word, yes. But as with everything related to ChatGPT and [generative AI as a whole](https://www.makeuseof.com/what-is-generative-ai/), the key is providing the correct prompts and parameters. If you just want a classic cocktail recipe to follow, you can just type that into Google Search. However, ChatGPT comes into its own when you ask it to adapt cocktails or suggest small tweaks to improve the standard recipes.
@@ -106,8 +106,9 @@ thumbnail: https://thmb.techidaily.com/6d2d53e2342f21d415006db38fe4601b286d92e55
  Every single one of its combinations worked in broad terms. There wasn't a single blend of ingredients that it suggested that led me to throw the cocktail down the sink. And that is a great start. As someone who has experimented with combining flavors, I can tell you that it's very easy to get cocktails wrong.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Three Big Takeaways From This Experiment
 
  The three things that stood out from this experiment are:
@@ -128,14 +129,11 @@ thumbnail: https://thmb.techidaily.com/6d2d53e2342f21d415006db38fe4601b286d92e55
 
  Years on, and with generative AI and large language models all the rage, I wanted to see if ChatGPT could be used as a virtual bartender. This meant typing various prompts into ChatGPT before sampling the cocktails it suggested I make. Making this a really difficult article to write for obvious reasons. Here's what I found...
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,4 +142,26 @@ thumbnail: https://thmb.techidaily.com/6d2d53e2342f21d415006db38fe4601b286d92e55
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-expertly-selected-360-cameras-for-youtube-and-facebook/"><u>[New] 2024 Approved Expertly Selected 360° Cameras for YouTube & Facebook</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-youtube-beauty-influencers-10-creators-to-watch/"><u>[New] In 2024, Essential YouTube Beauty Influencers 10 Creators to Watch</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-multi-tasking-on-edge-with-picture-in-picture/"><u>[New] Master Multi-Tasking on Edge with Picture-in-Picture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamline-overload-efficiently-editing-oversized-tiktok-drafts/"><u>[New] Streamline Overload Efficiently Editing Oversized TikTok Drafts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-htc-u23-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For HTC U23</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/discreet-recording-of-webex-sessions-across-various-platforms-tips-and-methods/"><u>Discreet Recording of Webex Sessions Across Various Platforms - Tips & Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embark-on-an-api-adventure-with-openais-innovations/"><u>Embark on an API Adventure with OpenAI's Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fourfold-responsibility-of-governments-to-monitor-ai-progress/"><u>Fourfold Responsibility of Governments to Monitor AI Progress</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/from-capture-to-share-expert-insights-into-screen-recording-software/"><u>From Capture to Share Expert Insights Into Screen Recording Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-subpar-to-spectaculous-elevating-proposals-with-gpt-3/"><u>From Subpar to Spectaculous: Elevating Proposals with GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-character-creation-integrating-gpt-dall-e-in-dandd/"><u>Mastering Character Creation: Integrating GPT, DALL-E in D&D</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mental-healing-on-the-rise-with-top-5-bot-counselors/"><u>Mental Healing on the Rise with Top 5 Bot Counselors</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-tecno-camon-20-premier-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Tecno Camon 20 Premier 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/practical-guide-to-gpt-4-in-modern-chatgpt-dialogues/"><u>Practical Guide to GPT-4 in Modern ChatGPT Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-academic-excellence-gpt-vs-student-writing-skills/"><u>Redefining Academic Excellence: GPT Vs. Student Writing Skills?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-immortals-fenyx-rising-delay-clarified/"><u>Resolved: Immortals: Fenyx Rising Delay Clarified</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-tech-trio-talks-blizzard-microsoft-and-ai-redefining-creativity-in-digital-realms-podcast-episode/"><u>The Tech Trio Talks: Blizzard, Microsoft & AI - Redefining Creativity in Digital Realms [Podcast Episode]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-best-8-plugin-coalition-for-crypto-and-ai-conversation/"><u>Unveiling Best 8 Plugin Coalition for Crypto & AI Conversation</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-google-pixel-8-pro-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Google Pixel 8 Pro Phones</u></a></li>
+</ul></div>
 

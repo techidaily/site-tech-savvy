@@ -1,7 +1,7 @@
 ---
 title: Examining the Purpose of ChatGPT Extras
-date: 2025-01-05T19:08:43.057Z
-updated: 2025-01-12T20:15:06.853Z
+date: 2025-01-11T17:26:10.822Z
+updated: 2025-01-18T17:22:26.800Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 * [What Are ChatGPT's Default Plugins?](https://coinrule.sjv.io/rqzonv)
 * [How to Use ChatGPT's Standard Plugins](https://turtlebeachus.sjv.io/vmebyo)
 * [How to Use ChatGPT's Plugins on Mobile](https://getlyla.pxf.io/ek9gkg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -56,15 +60,15 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 
  If you don't have a ChatGPT Plus account, you won't be able to access these plugins. So, consider signing up for the $20 monthly premium plan if you want to overcome this barrier.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Browse with Bing
 
  To get started with Browse with Bing, make a request requiring real-time data or specifically clarify that you want ChatGPT to search the web for a prompt.
 
 ![chatgpt search with bing ask question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-search-with-bing-ask-question-jan-2024.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you make the request, you'll be told that GPT is currently searching the web. It may take ten or so seconds to get your results or longer if your connection is patchy, OpenAI's servers are overwhelmed, or your request contains detailed information that takes time to search for.
 
@@ -75,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
  Sometimes, ChatGPT provides fabricated or unreliable sources for its answers, so it's always best to check the source before using any of the information provided.
 
  It's likely that ChatGPT won't conduct a web search for data it already has access to, such as historical facts. If searching the web is necessary, make that known in your prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. DALL-E
 
@@ -92,21 +92,33 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 
 ![chatgpt-dalle output mouse next to river](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-dalle-output-mouse-next-to-river.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, we ask for changes.
 
 ![chatgpt-dalle mouse next to river changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-dalle-mouse-next-to-river-changed-colour.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Though we asked ChatGPT to keep the image identical aside from one change, it made the change but also changed almost everything else about the image. Keep this downside in mind when using this plugin.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Code Interpreter
 
  If you want to write, run, or be provided with code in the Python language, [ChatGPT's Code Interpreter](https://www.makeuseof.com/chatgpt-code-interpreter-uses/) can help. With this plugin, you can request code excerpts, have ChatGPT analyze and execute code, and enjoy the option to upload files within the chat for review.
 
 ![screenshot of ChatGPT python response in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-python-response.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If ChatGPT picks up on any errors in your code, it will notify you and provide a correction.
 
@@ -120,25 +132,13 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 
 ![Screenshot of ChatGPT python code excerpt response in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-python-excerpt.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Make sure you run whatever code is provided through a dedicated Python execution tool before implementing it. ChatGPT can make mistakes, so it's always best to run some checks on any data it gives you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use ChatGPT's Plugins on Mobile
 
  The process of using any of these standard plugins is the same on the [ChatGPT mobile app](https://www.makeuseof.com/how-to-use-chatgpt-on-android-and-ios/) as it is on your desktop. Make your request in your prompt, and as long as you're signed in to your ChatGPT Plus account, the relevant plugin should work automatically.
 
 ![screenshot of chatgpt web search result in mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-search.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![screenshot of ChatGPT mobile app dall-e response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-dalle.jpg)
 
@@ -169,18 +169,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-propel-promotions-with-select-words-and-phrases/"><u>[New] In 2024, Propel Promotions with Select Words and Phrases</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-discovering-facebooks-quintessential-updates/"><u>[Updated] In 2024, Discovering Facebook's Quintessential Updates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-strategies-for-addressing-sensitive-business-issues/"><u>AI-Driven Strategies for Addressing Sensitive Business Issues</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/bring-your-chat-home-mondly-on-huawei/"><u>Bring Your Chat Home: Mondly on Huawei</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-realme-gt-neo-5-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme GT Neo 5 Without Password | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-kitchen-chronicles-filming-every-bite/"><u>In 2024, Kitchen Chronicles Filming Every Bite</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/master-your-peripherals-configuring-mice-and-keyboards-with-expert-advice-from-yl-software/"><u>Master Your Peripherals: Configuring Mice & Keyboards with Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/navigating-the-law-key-considerations-for-cryptocurrency-investments-with-yl-software/"><u>Navigating the Law: Key Considerations for Cryptocurrency Investments with YL Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/note-taking-evolution-embracing-obsidian-canvas/"><u>Note-Taking Evolution: Embracing Obsidian Canvas</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/skyrocketing-results-with-7-innovative-ai-methods/"><u>Skyrocketing Results with 7 Innovative AI Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/subscribersilence-eager-for-gpt-access-restoration/"><u>SubscriberSilence: Eager for GPT Access Restoration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-3-essential-gadgets-to-maintain-the-pristine-appearance-of-your-iphone-13-tech-insights/"><u>Top 3 Essential Gadgets to Maintain the Pristine Appearance of Your iPhone 13 | Tech Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/water-found-in-iphone-charger-port-how-to-fix-it-or-deal-with-the-issue/"><u>Water Found in iPhone Charger Port: How to Fix It or Deal with the Issue</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-expert-timekeeping-tools-without-a-price/"><u>[New] 2024 Approved Expert Timekeeping Tools Without a Price</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-inside-the-top-10-virtual-reality-smartphone-gaming-for-2024/"><u>[New] Inside the Top 10 Virtual Reality Smartphone Gaming for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-selection-of-mp4-devices/"><u>[New] Premium Selection of MP4 Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-mastering-hd-video-the-best-android-players/"><u>2024 Approved Mastering HD Video The Best Android Players</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-policy-scope-and-structure/"><u>AI Policy: Scope & Structure</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-chatgpts-effect-on-online-anonymity/"><u>Assessing ChatGPT's Effect on Online Anonymity</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevate-gaming-experience-get-latest-nvidia-drivers/"><u>Elevate Gaming Experience: Get Latest Nvidia Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-the-accuracy-of-cgp-in-medicine/"><u>Evaluating the Accuracy of CGP in Medicine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fusing-technology-and-innovation-constructing-web-applications-with-gpt-3/"><u>Fusing Technology and Innovation: Constructing Web Applications with GPT-3</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-dreamer-to-doer-sign-up-for-a-youtube-channel/"><u>In 2024, From Dreamer To Doer Sign Up for a YouTube Channel</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209863368-9780648391210-oak-trees-gift/"><u>Oak Tree's Gift | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-search-technology-meets-you-bings-ai-powered-android-and-ios/"><u>Seamless Search Technology Meets You - Bing's AI-Powered Android & iOS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-samsung-galaxy-xcover-7-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgrade-to-advanced-gpu-software-for-gtx-1060/"><u>Upgrade to Advanced GPU Software for GTX 1060</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/virtual-companionship-using-chatgpt-to-connect-people/"><u>Virtual Companionship: Using ChatGPT to Connect People</u></a></li>
 </ul></div>
 

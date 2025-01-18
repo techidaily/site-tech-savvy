@@ -1,7 +1,7 @@
 ---
 title: "Transforming Counseling: ChatGPT's Role in CBT"
-date: 2024-09-02T20:38:59.510Z
-updated: 2024-09-03T20:38:59.510Z
+date: 2025-01-17T16:56:09.994Z
+updated: 2025-01-18T16:21:55.871Z
 tags:
   - chatgpt
   - open-ai
@@ -46,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
  At the same time, if something feels off or not quite clicking, you can adjust your questions or simply tell ChatGPT in no uncertain terms that it needs to try a different approach or line of reasoning.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Writing Effective Prompts for CBT Practice
 
  There are many [CBT apps that can help with mental health](https://word2md.com/%E2%80%A2%09https:/www.makeuseof.com/cbt-apps-improve-mental-health). However, when diving into CBT with ChatGPT, you need to train it using prompts to get actionable results.
@@ -57,8 +58,9 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
  A good prompt is like giving your GPS coordinates. It leads to a focused, relevant, and in the case of psychotherapy, insightful conversations. Being vague is like telling your GPS, "Take me somewhere fun." You might end up at the world's largest potato museum when you hoped for the beach.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Creating Effective Prompts for CBT With ChatGPT
 
  First and foremost, set ChatGPT up to be a CBT therapist. Consider the following example:
@@ -68,8 +70,9 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
 ![ChatGPT being trained as CBT therapist-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/1-chatgpt-being-trained-as-cbt-therapist-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can tweak the above in a way that works best for you.
 
  After you've prepared ChatGPT to act like a therapist, you can begin to engage. But you'll want to be specific. Instead of "I'm feeling bad," try "I recently started a new job, and I'm worried that I'm in over my head. I've started to think non-stop about whether I'll be successful even when I'm not at work. Reflecting on my situation, can you summarize a CBT approach to overcoming my anxiety?"
@@ -78,17 +81,14 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
 
 ![ChatGPT response with advice as CBT therapist](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-chatgpt-response-with-advice-as-cbt-therapist.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And if the information is not specific enough, you can ask ChatGPT to get more specific.
 
 ![ChatGPT response with actions that can be taken today](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-chatgpt-response-with-actions-that-can-be-taken-today.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Precautions and Limitations of Using ChatGPT for CBT
 
  Keep in mind the following when using ChatGPT for CBT:
@@ -98,8 +98,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 * Consider reaching out to a real professional for deep or complex issues since ChatGPT might lack clinical judgment and intuition.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using ChatGPT as a CBT Professional to Improve Mental Well-Being
 
  The next time you're feeling contemplative, dive into a ChatGPT session. With effective prompt engineering, you'll be able to reflect on your most embarrassing moments and develop strategies for living a healthier more harmonious life.
@@ -110,14 +111,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  ChatGPT is not just a chatbot; it's your potential digital therapy assistant. While it doesn't have a degree from an Ivy League school, it's available all day and night, and you can access it for free. Before you roll your eyes in doubt, give it a try for yourself. You might be surprised!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +124,20 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-bypass-spotifys-predicted-podcast-selections/"><u>[New] 2024 Approved Bypass Spotify's Predicted Podcast Selections</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-podcast-dialogue-tips-and-practical-script-examples/"><u>[New] Mastering Podcast Dialogue Tips & Practical Script Examples</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoid-wasting-money-on-iphone-16-understanding-apples-tech-capabilities/"><u>Avoid Wasting Money on iPhone 16 - Understanding Apple's Tech Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-ai-capabilities-with-these-7-insights/"><u>Boost Your AI Capabilities with These 7 Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-chatgpt-escape-routes-advisable/"><u>Discovering ChatGPT Escape Routes: Advisable?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/inside-intova-x-pushing-video-tech-boundaries/"><u>Inside Intova X Pushing Video Tech Boundaries</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sculpt-custom-language-agents/"><u>Sculpt Custom Language Agents</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-tales-that-make-us-laugh-is-ai-the-storyteller/"><u>Tech Tales That Make Us Laugh: Is AI the Storyteller?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmasking-truthgpt-coins-credibility/"><u>Unmasking TruthGPT Coin's Credibility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/virtual-therapist-tools-safe-ai-for-mental-health/"><u>Virtual Therapist Tools: Safe AI for Mental Health</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+</ul></div>
 

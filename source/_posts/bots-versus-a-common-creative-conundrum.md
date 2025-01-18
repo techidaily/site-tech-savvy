@@ -1,7 +1,7 @@
 ---
 title: Bots Versus a Common Creative Conundrum
-date: 2024-09-02T20:39:40.478Z
-updated: 2024-09-03T20:39:40.478Z
+date: 2025-01-17T16:18:49.544Z
+updated: 2025-01-18T17:29:16.577Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/6005b95475aa59c8b39a7a2eee1863dfc772797dd
 ---
 
 ## Bots Versus a Common Creative Conundrum
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -37,17 +41,15 @@ thumbnail: https://thmb.techidaily.com/6005b95475aa59c8b39a7a2eee1863dfc772797dd
  ChatGPT, Google Gemini, and Microsoft Copilot—three popular chatbots with different capabilities. As useful as they are in everyday tasks, how would they perform with creative prompts for content like songs, short stories, and imaginative social media bios? Here are the experiment’s details and results.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How I Tested Three Popular Chatbots With Creative Prompts
 
  The methodology was simple. I composed a straightforward prompt for each type of creative content I wanted. Then I fed each prompt to a selection of [the best AI chatbots](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/) , namely ChatGPT, Google Gemini, and Microsoft Copilot.
 
  Working out which AI generator was the best came down to factors like originality, flow of writing, imaginative flair, and response time. Let's see how they did.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Which Chatbot Did Best With Songs?
 
  To test each chatbot’s response to a combination of themes, whether normal or random, I went for the following prompt: “Write a song about achieving your dreams and make sure the lyrics feature a koala.”
@@ -60,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/6005b95475aa59c8b39a7a2eee1863dfc772797dd
 
  ChatGPT wrote the longest song and used interesting lyrics, but the koala theme barely existed, especially when compared to what the other chatbots came up with. It also struggled to complete the song.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Which Chatbot Did Best With Poetry?
 
  Poems tend to be quite creative in their use of language, so the chatbot with the richest database and training would perform the best.
@@ -72,13 +71,11 @@ thumbnail: https://thmb.techidaily.com/6005b95475aa59c8b39a7a2eee1863dfc772797dd
 ![ChatGPT Writes a Poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-writes-a-poem.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Copilot and Gemini were both less effective than ChatGPT in all these regards. However, you may find that results vary depending on the type of poem and the instructions you give each chatbot. Make a note of the many available [tips and tricks for better AI prompting](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which Chatbot Did Best With Short Stories?
 
  The prompt for this creative content was as follows: “Write a story about a dinner party that your character is reluctant to attend. It should be 1000 words maximum.”
@@ -87,12 +84,13 @@ thumbnail: https://thmb.techidaily.com/6005b95475aa59c8b39a7a2eee1863dfc772797dd
 
 ![ChatGPT Writing a Short Story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-writing-a-short-story.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  The same applied to Gemini’s creation, except that its narration contained confusing elements in what seemed to be an attempt at imaginative expression. It was intriguing to see, but it missed the mark.
 
  Copilot’s writing style was smooth and accurate, but the story the chatbot automatically went for was boring, cliché even. Overall, there are better [AI story generators for serious writers](https://www.makeuseof.com/best-ai-story-generators/) who need some extra help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Chatbot Did Best With Scripts?
 
@@ -101,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/6005b95475aa59c8b39a7a2eee1863dfc772797dd
  Google Gemini’s response was the most impressive. In addition to being fast, the script it wrote was funny and interesting, its characters’ personalities shining through their banter.
 
 ![Google Gemini Writing a Play Script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/google-gemini-writing-a-play-script.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The other two chatbots went for the exact same structure for the scene—perhaps because both apps use OpenAI’s data as their source. They flowed nicely enough, but there was nothing special about the results.
 
@@ -130,8 +132,6 @@ thumbnail: https://thmb.techidaily.com/6005b95475aa59c8b39a7a2eee1863dfc772797dd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +139,22 @@ thumbnail: https://thmb.techidaily.com/6005b95475aa59c8b39a7a2eee1863dfc772797dd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-iphone-screen-capture-simplified-guide/"><u>[Updated] IPhone Screen Capture Simplified Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-ai-communication-elite-course-compilation/"><u>Conquer AI Communication: Elite Course Compilation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-15-pro-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On Apple iPhone 15 Pro If Youve Tried Everything</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ideal-chatgpt-questions-for-authentic-character-building/"><u>Ideal ChatGPT Questions for Authentic Character Building</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-itel-p55plus-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Itel P55+ FRP</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-mistakes-to-evade-when-leveraging-chatgpt-for-copywriting/"><u>Key Mistakes to Evade When Leveraging ChatGPT for Copywriting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/map-screenshot-archives-in-windows/"><u>Map Screenshot Archives in Windows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastering-volume-reduction-in-audio-designs-using-logic-pro-for-2024/"><u>Mastering Volume Reduction in Audio Designs Using Logic Pro for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-productivity-with-essential-ipad-tools-expert-recommendations-for-workflow-optimization-featured/"><u>Maximizing Productivity with Essential iPad Tools: Expert Recommendations for Workflow Optimization | Featured</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/potential-employer-retributions-for-chatgpt-integration-in-corporate-settings/"><u>Potential Employer Retributions for ChatGPT Integration in Corporate Settings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/skyrocketing-chatgpt-performance-via-extensions/"><u>Skyrocketing ChatGPT Performance via Extensions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-overcome-gtfo-program-crashes/"><u>Step-by-Step Guide to Overcome GTFO Program Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-correcting-windows-backup-defaults/"><u>Steps for Correcting Windows Backup Defaults</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zero-number-zone-enrolling-in-whatsapp-chatgpt-seamlessly/"><u>Zero Number Zone: Enrolling in WhatsApp, ChatGPT Seamlessly</u></a></li>
+</ul></div>
 

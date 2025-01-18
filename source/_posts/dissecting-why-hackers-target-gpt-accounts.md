@@ -1,7 +1,7 @@
 ---
 title: Dissecting Why Hackers Target GPT Accounts
-date: 2025-01-12T00:06:01.777Z
-updated: 2025-01-13T01:29:37.936Z
+date: 2025-01-11T17:14:38.478Z
+updated: 2025-01-18T17:48:37.707Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Are ChatGPT Accounts Being Hacked?
@@ -50,17 +50,21 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 
  Aware of such threats, companies like Google and Samsung—as well as Microsoft, a major backer of OpenAI—have all either warned or explicitly banned their staff from sharing company data with the AI chatbot. The fact that these companies are issuing such warnings means that mistakes might already be happening.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reselling ChatGPT Accounts
 
  While most of the world can access the ChatGPT website, some countries are officially banned from the platform. At the time of writing, China, with more than a billion potential users, is on this list. While residents from banned countries can use a VPN and other measures to bypass this restriction, buying cheap, stolen premium accounts is also appealing. This naturally creates a market for stolen [ChatGPT Plus accounts](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), some of which are auctioned off to more than one user. With a readily available market, hackers are naturally incentivized to steal ChatGPT accounts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Protect Your ChatGPT Account
 
  Since ChatGPT accounts have become a prime target for hackers, how can you protect your ChatGPT account? Here are two ways to stay safe.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Set Up Two-Factor Authentication (2FA) on Your Account
 
@@ -70,20 +74,16 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 ![how to set up multifactor authentication on chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/setting-up-2fa-on-chatgpt.jpg)
 2. Tap **Settings > Data controls** and then **Enable** beside **Enable two-factor authentication** to turn on the feature for your account  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![how to set up multifactor authentication on chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-on-2fa-on-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, at the time of writing, the 2FA feature has been temporarily disabled. If you can access the feature at the time of reading this, turn it on. If not, check back and turn it on whenever OpenAI restores this vital feature.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Clear Your ChatGPT Conversations
@@ -116,20 +116,17 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-essential-mac-microphone-tools-selecting-leading-recorders-for-2024/"><u>[New] Essential Mac Microphone Tools Selecting Leading Recorders for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-master-list-of-leading-free-screen-capture-programs/"><u>[Updated] 2024 Approved Master List of Leading Free Screen Capture Programs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-youtube-to-mpeg-format-change/"><u>[Updated] Mastering YouTube to MPEG Format Change</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-top-5-best-4k-monitors-for-color-grading/"><u>[Updated] Top 5 Best 4K Monitors for Color Grading</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/busting-the-bottleneck-managing-excessive-disk-load-on-windows-11-pcs/"><u>Busting the Bottleneck: Managing Excessive Disk Load on Windows 11 PCs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cant-launch-your-pc-into-windows-10-mode-here-are-quick-repair-tips/"><u>Can't Launch Your PC Into Windows 10 Mode? Here Are Quick Repair Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/complete-tutorial-for-turning-on-adobe-flash-player-support-in-popular-web-browsers-such-as-chrome-firefox-opera-and-edge/"><u>Complete Tutorial for Turning On Adobe Flash Player Support in Popular Web Browsers Such as Chrome, Firefox, Opera, and Edge</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-keeping-your-pcs-drivers-current-on-windows-1011-platforms/"><u>Comprehensive Guide: Keeping Your PC's Drivers Current on Windows 10/11 Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/create-a-zip-file-easily-for-windows-7-and-windows-10/"><u>Create a ZIP File Easily for Windows 7 & Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808153847-enhance-visual-experience-resetting-the-gpu-driver-across-various-windows-operating-systems/"><u>Enhance Visual Experience: Resetting the GPU Driver Across Various Windows Operating Systems.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gameplay-initiates-pc-reboot/"><u>Gameplay Initiates PC Reboot</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-x90s-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo X90S Phone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-the-essentials-of-adding-siri-speech-features-to-tiktok-sharing/"><u>In 2024, The Essentials of Adding Siri Speech Features to TikTok Sharing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-todays-drones-tomorrows-promise/"><u>Unveiling Today's Drones Tomorrow's Promise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808341447-usb-tethering-on-windows-11-easily/"><u>USB Tethering on Windows 11 Easily!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aximizing-channel-potential-across-diverse-digital-venues/"><u>[New] Maximizing Channel Potential Across Diverse Digital Venues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp3wmv-movavi/"><u>免費移動MP3到WMV: 利用Movavi 優化的無縫轉換方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/asfwav-movavi/"><u>無償のオンラインASF・WAV再形成 - Movaviサービス使い方ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficient-task-automation-with-auto-gtp/"><u>Efficient Task Automation with Auto-GTP</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-cutting-avi-files-without-hassle-a-quick-and-easy-tutorial/"><u>In 2024, Cutting AVI Files Without Hassle A Quick and Easy Tutorial</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/port-your-pcs-os-on-the-go-the-easy-guide-to-using-rufus-for-windows-10/"><u>Port Your PC's OS on the Go: The Easy Guide to Using Rufus for Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rejuvenating-your-systems-visual-experience-through-driver-update-win7/"><u>Rejuvenating Your System's Visual Experience Through Driver Update (Win7)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rotate-your-footage-with-simple-apps-the-ultimate-guide-for-windows-11-users/"><u>Rotate Your Footage with Simple Apps – The Ultimate Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-unreachable-desktop-problem-in-windows-system-configuration-folder/"><u>Solving the 'Unreachable Desktop' Problem in Windows System Configuration Folder</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-nokia-g22-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Nokia G22 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-tus-dvd-a-formato-mkv-gratis-con-el-mejor-convertidor-de-video-movavi/"><u>Transforma Tus DVD a Formato MKV Gratis Con El Mejor Convertidor De Video: Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformar-tu-video-caf-a-formato-mp4-perfectamente-con-la-herramienta-en-linea-y-gratuita-de-movavi-guia-rapida-e-impecable/"><u>Transformar Tu Vídeo CAF a Formato MP4 Perfectamente Con La Herramienta en Línea Y Gratuita De Movavi - Guía Rápida E Impecable</u></a></li>
 </ul></div>
 

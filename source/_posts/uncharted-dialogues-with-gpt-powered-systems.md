@@ -1,7 +1,7 @@
 ---
 title: Uncharted Dialogues with GPT-Powered Systems
-date: 2024-09-02T20:34:02.251Z
-updated: 2024-09-03T20:34:02.251Z
+date: 2025-01-11T16:07:45.796Z
+updated: 2025-01-18T17:18:14.431Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/8f41caf7d9b5e4f9d2e8bb7de69d52df6f6bccbd4
 
 ![chatgpt chat response listing code of ethics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-ethics-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This code of ethics includes...
 
 * No harm to other users
@@ -52,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/8f41caf7d9b5e4f9d2e8bb7de69d52df6f6bccbd4
  If you're looking for recent news, weather updates, and other real-time data, ChatGPT won't be of much use. [Other AI chatbots like Claude](https://www.makeuseof.com/what-is-claude-ai-why-use-it/) have been trained with more recent information, but you still won't be able to access data less than a few months old.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Give Criminal Advice
 
  ChatGPT follows a strict ethical code, part of which prevents the chatbot from providing criminal advice. You can't ask ChatGPT how to commit a crime, conceal evidence, lie to law enforcement, or conduct any other criminal activities. On top of this, ChatGPT won't engage with any prompts about illegal drugs.
@@ -64,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/8f41caf7d9b5e4f9d2e8bb7de69d52df6f6bccbd4
 
  However, the current versions of ChatGPT only seem to be able to write simple malware programs, which can also be buggy at times. But regardless of this, [the chatbot can be exploited for malware creation](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Invade Personal Privacy or Security
 
  Since its launch in late 2022, [ChatGPT's potential as a privacy risk](https://www.makeuseof.com/chatgpt-privacy-risk/) has been a point of concern. But can you use ChatGPT to invade someone else's personal boundaries?
@@ -88,8 +90,9 @@ thumbnail: https://thmb.techidaily.com/8f41caf7d9b5e4f9d2e8bb7de69d52df6f6bccbd4
  It's better to consult dedicated websites or professionals if you're looking for solid predictions, be it in finance, politics, or sports.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Answer Bigoted or Hateful Questions
 
  As you may have guessed, ChatGPT is strictly against engaging with bigoted or hateful prompts. Racism, misogyny, homophobia, ableism, and transphobia are all a no-go for ChatGPT.
@@ -100,9 +103,6 @@ thumbnail: https://thmb.techidaily.com/8f41caf7d9b5e4f9d2e8bb7de69d52df6f6bccbd4
 
  Additionally, ChatGPT will not engage with any prompts that promote harm to the user or others.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Provide Its Own Opinion
 
  While ChatGPT does use artificial intelligence, it is not a sentient being. Because of this, ChatGPT cannot provide its own opinion on any topic or event.
@@ -113,14 +113,12 @@ thumbnail: https://thmb.techidaily.com/8f41caf7d9b5e4f9d2e8bb7de69d52df6f6bccbd4
 
 ![chatgpt opinion request screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-opinion-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  One day, we may see AI chatbots able to form reasonable opinions. But for now, that's a luxury reserved for human beings.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Look Up Web Results
 
  ChatGPT may be a hub of knowledge, but it is not a search engine. Therefore, you cannot ask ChatGPT to look something up for you like Google or Bing would.
@@ -130,6 +128,10 @@ thumbnail: https://thmb.techidaily.com/8f41caf7d9b5e4f9d2e8bb7de69d52df6f6bccbd4
  ChatGPT Plus is a paid subscription that costs $20 monthly. If you use ChatGPT a lot and want access to all the service's features, you may want to consider upgrading to Plus.
 
  At the time of writing, ChatGPT's browsing feature is disabled but is expected to return in the future.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Isn't an All-in-One Solution
 
@@ -145,8 +147,6 @@ thumbnail: https://thmb.techidaily.com/8f41caf7d9b5e4f9d2e8bb7de69d52df6f6bccbd4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +154,26 @@ thumbnail: https://thmb.techidaily.com/8f41caf7d9b5e4f9d2e8bb7de69d52df6f6bccbd4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-collageknights-syncing-videos-across-devices/"><u>[Updated] CollageKnights Syncing Videos Across Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-navigating-the-intricacies-of-networked-livestream-with-vlc/"><u>[Updated] Navigating the Intricacies of Networked Livestream with VLC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-notable-creators-superior-insta-highlight-craftsmen/"><u>2024 Approved Notable Creators Superior Insta Highlight Craftsmen</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-social-media-spotlight-top-tiktok-tweets/"><u>2024 Approved Social Media Spotlight Top TikTok Tweets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-showdown-notion-vs-gpt-3-in-content-creation/"><u>AI Showdown: Notion Vs. GPT-3 in Content Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/auto-gpts-solo-potential-explored/"><u>Auto-GPT's Solo Potential Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/code-strategies-for-effective-gpt-3-usage/"><u>Code Strategies for Effective GPT-3 Usage</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/compact-flight-machines-top-picks-ranked/"><u>Compact Flight Machines - Top Picks Ranked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dream-trip-no-hurdles-choose-from-the-7-best-free-chatgpt-planning-tools/"><u>Dream Trip, No Hurdles - Choose From the 7 Best Free ChatGPT Planning Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-data-depths-like-never-before-select-perplexity-ai/"><u>Explore Data Depths Like Never Before - Select Perplexity AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-dawn-of-artificial-intelligence/"><u>Exploring the Dawn of Artificial Intelligence</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-honor-magic-v2-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Honor Magic V2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-sign-up-for-chatgpts-new-plugins-feature/"><u>How to Sign Up for ChatGPT's New Plugins Feature</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-merge-soundtracks-and-cinematography-in-premiere-pro/"><u>In 2024, Merge Soundtracks and Cinematography in Premiere Pro</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-improve-windows-visuals-graphical-method-3/"><u>Instantly Improve Windows Visuals - Graphical Method 3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-chatgpt-accessing-up-to-date-information-means-for-everyone/"><u>What ChatGPT Accessing Up-to-Date Information Means for Everyone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/whynosubscriptions-awaiting-gpts-return/"><u>WhyNoSubscriptions: Awaiting GPT's Return</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Unchanged: Rejecting Dumbness Claims"
-date: 2024-09-02T20:33:50.166Z
-updated: 2024-09-03T20:33:50.166Z
+date: 2025-01-17T17:13:20.749Z
+updated: 2025-01-18T17:09:36.831Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,10 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is ChatGPT Getting Worse?
 
  It's something many ChatGPT users have wondered: is ChatGPT getting dumber? OpenAI releases frequent updates to ChatGPT designed to tweak its responses, safety, and more, [using user feedback](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/), prompts, and user data to inform its direction.
@@ -30,6 +34,10 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
  The easiest way for most ChatGPT users to check how its responses have changed over time is to repeat a previously used prompt (preferably from the earlier days of ChatGPT) and analyze the two outputs.
 
  Responses requiring specific outputs, like those involving coding and math, are likely easiest to compare directly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stanford Study Suggests ChatGPT Drop Off
 
@@ -43,9 +51,17 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
 
 ![chatgpt study answers changing chart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
 ![chatgpt study answers changing chart explanations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart-explanations.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
@@ -55,9 +71,6 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
  The report explains that ChatGPT's large language model chain of thought "did not work" when presented with the questions in June. Conversation drift has always been a notable issue with LLMs, but the extreme variance in responses suggests performance issues and changes to ChatGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Is ChatGPT Getting Worse? OpenAI Says No
 
  Is it just a coincidence that both casual and prolific ChatGPT users are noticing ChatGPT's changing quality?
@@ -69,8 +82,9 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
  Still, that didn't stop numerous responses to his tweet detailing how users have found ChatGPT's responses wanting, with many taking the time to annotate prompts and responses.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can OpenAI Restore ChatGPT to Its Original State?
 
  The early days of ChatGPT seem long in the distance now; November 2022 is a hazy memory, and the world of AI moves fast.
@@ -81,14 +95,11 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -97,4 +108,18 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/kyrocketing-view-figures-by-sustaining-youtubes-creative-commons-license/"><u>[New] Skyrocketing View Figures by Sustaining YouTube's Creative Commons License</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-select-high-quality-drones-for-sale/"><u>2024 Approved Select High-Quality Drones For Sale</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bot-communication-mirroring-human-chatter/"><u>Bot Communication: Mirroring Human Chatter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-the-ultimate-matchmaker-toolkit/"><u>ChatGPT: The Ultimate Matchmaker Toolkit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guarding-against-algorithmic-abuse/"><u>Guarding Against Algorithmic Abuse</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-workflow-changes-with-ai-tech/"><u>Navigating Workflow Changes with AI Tech</u></a></li>
+<li><a href="https://driver-download.techidaily.com/scansnap-s1300i-driver-download-and-update-easily/"><u>ScanSnap S1300i Driver Download & Update. Easily!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-lowdown-on-latest-ipados-v18-complimentary-access-release-moment-and-feature-rundown/"><u>The Lowdown on Latest iPadOS (v18): Complimentary Access, Release Moment & Feature Rundown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-factors-that-make-ai-ill-suited-for-full-time-writing-roles/"><u>Top 5 Factors That Make AI Ill-Suited for Full-Time Writing Roles</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Sharing and Editing on Apple Pages Using iCloud: A Comprehensive Guide"
-date: 2025-01-07T21:16:49.265Z
-updated: 2025-01-12T20:52:48.493Z
+date: 2025-01-13T17:35:47.282Z
+updated: 2025-01-18T16:05:55.750Z
 tags:
   - apple
 categories:
@@ -27,10 +27,6 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
@@ -41,10 +37,6 @@ I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/76
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Open System Preferences
 
 Open System Preferences by clicking the Apple button in the top left corner of your desktop, and click System Preferences. In the resulting window, click Apple ID > iCloud Drive > Options (**Figure 1**).
@@ -54,7 +46,7 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
@@ -66,10 +58,14 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enable the Collaboration feature
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
 
@@ -79,10 +75,6 @@ The first thing you must do is open the Pages document that will be shared with 
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Enable the Collaborate feature
 
 Click Collaborate and you'll be informed the document must be moved to iCloud before you can collaborate (**Figure 4**).
@@ -90,6 +82,10 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -108,6 +104,10 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -149,22 +149,22 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-fading-beats-an-fl-studio-approach/"><u>[New] 2024 Approved Fading Beats An FL Studio Approach</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/aji-kids-financial-flight-a-10-year-olds-path-to-prosperity-for-2024/"><u>[New] Kaji Kid’s Financial Flight A 10-Year-Old’s Path to Prosperity for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-teaching-through-media-efficient-classroom-editing/"><u>[Updated] Teaching Through Media Efficient Classroom Editing</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-kik-id-visualization-width-x-height-aspect-ratio-duration/"><u>2024 Approved Kik ID Visualization Width X Height, Aspect Ratio, Duration</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-quick-win-strategies-top-20-video-tips-for-content-boosters/"><u>2024 Approved Quick-Win Strategies Top 20 Video Tips for Content Boosters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbots-tackling-tricky-calculus/"><u>ChatBots Tackling Tricky Calculus</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-how-these-7-apps-implement-gpt-4/"><u>Exploring How These 7 Apps Implement GPT-4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-ahead-with-technology-introducing-the-new-enhancements-for-apple-airpods-pro-2-step-by-step-update-instructions-zdnet/"><u>Get Ahead with Technology: Introducing The New Enhancements for Apple AirPods Pro 2 - Step-by-Step Update Instructions | ZDNET</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/new-updates-on-various-project-categories/"><u>New Updates on Various Project Categories</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/1715701233069-record-your-mac-view-in-minutes/"><u>Record Your Mac View in Minutes!</u></a></li>
-<li><a href="https://win-able.techidaily.com/revamp-your-gaming-experience-top-7-troubleshooting-steps-to-resolve-halo-infinite-pc-stuttering-issues/"><u>Revamp Your Gaming Experience: Top 7 Troubleshooting Steps to Resolve Halo Infinite PC Stuttering Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/telemedicine/"><u>Telemedicine</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-ai-assistants-for-idea-enthusiasts/"><u>The Ultimate AI Assistants for Idea Enthusiasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-smartphone-rankings-update-samsung-overtakes-apple-a-new-contender-closes-the-gap-zdnet-insights/"><u>Top Smartphone Rankings Update: Samsung Overtakes Apple; A New Contender Closes the Gap | ZDNet Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/up-your-aid-craftsmanship-game-7-online-helpful-utilities/"><u>Up Your Aid Craftsmanship Game: 7 Online Helpful Utilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-powers-openais-clarity-shap-e-insights/"><u>What Powers OpenAI's Clarity: SHAP E Insights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-ultimate-guide-to-iphones-macro-and-close-up-photography-tactics/"><u>[New] 2024 Approved Ultimate Guide to iPhone's Macro & Close-Up Photography Tactics</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-uncover-the-best-6-screen-recording-software-on-mac/"><u>[Updated] Uncover the Best 6 Screen Recording Software on Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028596410-mp4hevc/"><u>「高品質保持: MP4からHEVCへの最良変換法」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows916/"><u>『Windowsとスマートフォン両方で使える』初級者が作れる9分16秒動画の制作手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-windows-11iso-3/"><u>1. Windows 11上でISOイメージファイルを起動手順: 3つの異なるアプローチ</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/youtubepciphoneandroid/"><u>完全無料でオフライン再生可能！YouTube動画【PC・iPhone・Android】見方大特集</u></a></li>
+<li><a href="https://win-blog.techidaily.com/evil-genius-2-troubleshooting-overcoming-startup-issues/"><u>Evil Genius 2 Troubleshooting: Overcoming Startup Issues</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-essential-techniques-for-dell-pc-screen-saving/"><u>In 2024, Essential Techniques for Dell PC Screen Saving</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028283339-losslesscut/"><u>LosslessCutを使用してファイル統合の詳細手順</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-stop-excessive-cpu-consumption-caused-by-wudfhostexe-on-windows-11/"><u>Resolved: How to Stop Excessive CPU Consumption Caused by wudfhost.exe on Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-best-way-to-update-or-install-hps-color-laserjet-pro-mfp-m477-driver-software-downloads/"><u>The Best Way to Update or Install HP's Color LaserJet Pro MFP M477 - Driver Software Downloads</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-walkthrough-transitioning-from-older-systems-to-the-new-windows-11-os/"><u>The Ultimate Walkthrough: Transitioning From Older Systems to the New Windows 11 OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-on-how-to-upload-dvd-footage-to-youtube-platform/"><u>Ultimate Tutorial on How to Upload DVD Footage to YouTube Platform</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-elevate-your-job-search-the-best-video-resume-makers-free-templates/"><u>Updated In 2024, Elevate Your Job Search The Best Video Resume Makers (Free Templates)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028164808-windows-10/"><u>Windows 10で効果的に動画を統合するためのガイド【ビデオ編集手順】</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows-10-3/"><u>Windows 10のスクリーン録画テクニック - オプション3つ選択肢解説</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Thwart Bot Harvesters: Secure Your Online Space"
-date: 2024-09-02T20:36:02.562Z
-updated: 2024-09-03T20:36:02.562Z
+date: 2025-01-14T16:52:43.030Z
+updated: 2025-01-18T17:40:53.466Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 
  OpenAI's ChatGPT uses crawlers to scrape websites, but if you're a website owner, and you don't want OpenAI's crawler to access your website, here are a few things that you can do to prevent it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Does OpenAI Crawling Work?
 
  A [web crawler](https://www.makeuseof.com/what-is-a-web-crawlerspider-and-how-does-it-work/) (also known as a spider or a search engine bot) is an automated program that scans the internet for information. It then compiles that information in a way that's easy for your search engine to access it.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
  Web crawlers index every page of every relevant URL, usually focusing on websites that are more relevant to your search queries. For example, let's assume you're googling a particular Windows error. The web crawler within your search engine will scan all the URLs from websites that it deems more authoritative on the topic of Windows errors.
 
  OpenAI's web crawler is called GPTBot, and according to [OpenAI's documentation](https://platform.openai.com/docs/gptbot), giving GPTBot access to your website can help train the AI model to become safer, and more accurate, and it can even help expand the AI model's capabilities.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Prevent OpenAI From Crawling Your Website
 
@@ -44,9 +52,9 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
  Here's how to control what GPTBot can do on your website:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Completely Block GPTBot From Accessing Your Website
 
 1. [Set up the robot.txt file](https://www.makeuseof.com/tag/how-to-correctly-set-up-robots-txt/), and then edit it with any text editing tool.
@@ -56,8 +64,9 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 Disallow: /`
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Block Only Certain Pages From Being Accessed by GPTBot
 
 1. Set up the **robot.txt** file, and then edit it with your preferred text editing tool.
@@ -70,9 +79,9 @@ Disallow: /directory-2/`
  However, keep in mind that changing the **robot.txt** file is not a retroactive solution, and any information that GPTBot may have already gathered from your website will not be recoverable.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## OpenAI Allows Website Owners to Opt-Out From Crawling
 
  Ever since crawlers have been used to train AI models, website owners have been looking for ways to keep their data private.
@@ -85,14 +94,11 @@ Disallow: /directory-2/`
 
  OpenAI's ChatGPT uses crawlers to scrape websites, but if you're a website owner, and you don't want OpenAI's crawler to access your website, here are a few things that you can do to prevent it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -101,4 +107,16 @@ Disallow: /directory-2/`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-cleanest-recording-app-ad-aware-edition/"><u>[New] 2024 Approved Cleanest Recording App - Ad-Aware Edition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-digital-dynamo-unleashing-videoviral-impact/"><u>[New] Digital Dynamo Unleashing #VideoViral Impact</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-how-to-use-vlc-as-converter-to-convert-mp4-and-other-formats/"><u>[Updated] 2024 Approved How to Use VLC as Converter to Convert Mp4 and Other Formats</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-human-vision-ai-fails-to-perceive-content-risks/"><u>Beyond Human Vision, AI Fails to Perceive Content Risks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cybernetic-sleuths-quest-unveil-secrets-in-4-digital-realms/"><u>Cybernetic Sleuths' Quest: Unveil Secrets in 4 Digital Realms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improving-your-gaming-experience-farming-simulator-aturinator-22-optimized-for-pc/"><u>Improving Your Gaming Experience: Farming Simulator Aturinator 22 Optimized for PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rboards-unveiled-1-26-in-youtube-snacking-for-2024/"><u>Leaderboards Unveiled #1, #2...#6 in YouTube Snacking for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-ai-techniques-for-enhanced-web-exploration/"><u>Leading AI Techniques for Enhanced Web Exploration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prompt-engineering-an-emerging-career-path/"><u>Prompt Engineering: An Emerging Career Path?</u></a></li>
+</ul></div>
 

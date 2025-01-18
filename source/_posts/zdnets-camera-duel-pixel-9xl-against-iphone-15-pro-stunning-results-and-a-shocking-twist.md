@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Camera Duel: Pixel 9XL Against iPhone 15 Pro - Stunning Results & a Shocking Twist!"
-date: 2025-01-07T17:19:31.567Z
-updated: 2025-01-12T23:39:38.396Z
+date: 2025-01-12T16:55:27.707Z
+updated: 2025-01-18T16:05:39.925Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ The Google Pixel 9 Pro and 9 Pro XL come equipped with a 50MP primary camera, a 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pixel gets skin tones right
@@ -81,7 +81,7 @@ I use the ultrawide camera to take architecture shots or group photos. While I d
 I would prefer the iPhone shot for this particular image, but I can see myself using the wider FoV and fisheye effect on the Pixel 9 Pro when I'm traveling. The Google phone also fared better in low light with the ultrawide camera. That being said, the colors were consistent across three lenses on both phones.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A clear winner in night time
@@ -111,7 +111,7 @@ The iPhone 15 Pro holds up well in indoor and artificial lighting conditions but
 The iPhone 15 Pro shot looks bad, despite the dog not moving, while the Pixel 9 Pro XL was able to capture the subject when it was about to move by the time the shutter was processed. I would pick the new Google phone for night shots unless the iPhone 16 Pro comes with better Night Mode algorithms. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL gets good at selfies
@@ -125,7 +125,7 @@ I like the selfie shooter on the iPhone 15 Pro and have found it better than And
 I like the Pixel 9 Pro XL selfie here but the iPhone was able to get more details around the hair. But you can see areas around my forehead and cheeks where the highlights are blown out. However, both look social media worthy and I'm impressed by the selfie camera on the Pixel 9 Pro. It does a better job than the iPhone when the light source is behind you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL vs iPhone 15 Pro camera: Which one is better?
@@ -170,16 +170,24 @@ I expect the iPhone 16 Pro to do better in the aspects where the iPhone 15 Pro l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-maximizing-impact-on-insta-story-with-multiple-images/"><u>[New] 2024 Approved Maximizing Impact on Insta Story with Multiple Images</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-how-to-brighten-a-video-on-android-step-by-step-explained/"><u>[Updated] How To Brighten A Video On Android – Step By Step Explained</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-finding-the-perfect-pair-matching-mics-with-every-type-of-youtubers-style/"><u>[Updated] In 2024, Finding the Perfect Pair Matching Mics with Every Type of YouTuber's Style</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/8-top-video-screen-grabbers-for-2024/"><u>8 Top Video Screen Grabbers for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-understanding-av1-a-first-step-for-beginners/"><u>In 2024, Understanding AV1 A First Step for Beginners</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-16-gains-enhanced-image-recognition-features-similar-to-google-lens-boosting-mobile-photography-experience-zdnet/"><u>IPhone 16 Gains Enhanced Image Recognition Features Similar to Google Lens, Boosting Mobile Photography Experience - ZDNet</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/maximum-video-stowage-on-a-single-64gb-unit-for-2024/"><u>Maximum Video Stowage on a Single 64Gb Unit for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/minstrels-versus-chatgpt-and-real-alpacas-top-llms-battle/"><u>Minstrels Versus ChatGPT & Real Alpacas: Top LLMs Battle</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reimagining-paperclips-with-ai-driven-maximization-techniques/"><u>Reimagining Paperclips with AI-Driven Maximization Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-for-working-around-gpt-cap/"><u>Strategies for Working Around GPT Cap</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/utilizing-llama-2-effectively-in-various-fields/"><u>Utilizing Llama 2 Effectively in Various Fields</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-add-music-to-facebook-profile-iphone-and-android/"><u>[New] 2024 Approved How to Add Music to Facebook Profile (iPhone & Android)？</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-psd-pattern-overlays/"><u>[Updated] Master PSD Pattern Overlays</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-straightforward-approach-turn-video-upside-down-with-vlc-for-2024/"><u>[Updated] Straightforward Approach Turn Video Upside Down with VLC for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-building-a-broadcast-brand-with-youtube-twitch-and-obs/"><u>2024 Approved Building a Broadcast Brand with YouTube, Twitch and OBS</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cost-free-and-straightforward-approaches-for-simple-youtube-to-aac-conversion/"><u>Cost-Free and Straightforward Approaches for Simple YouTube-to-AAC Conversion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-conversion-transforming-pal-dvds-into-mp4-mkv-avi-for-flawless-viewing/"><u>Effortless Conversion: Transforming PAL DVDs Into MP4, MKV, AVI for Flawless Viewing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-editing-tips-change-your-m4a-audiovideo-file-to-mp4-format-perfect-for-online-sharing/"><u>Effortless Editing Tips: Change Your M4A Audio/Video File to MP4 Format Perfect for Online Sharing!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-transformation-of-mgv-files-into-mp4-format-with-leading-video-converter-tools/"><u>Effortless Transformation of MGV Files Into MP4 Format with Leading Video Converter Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-tips-quick-and-simple-methods-for-slicing-through-ogg-media-tracks/"><u>Expert Tips: Quick and Simple Methods for Slicing Through OGG Media Tracks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-good-morning-wallpapers-pc-laptop-and-mobile-downloads/"><u>Free Good Morning Wallpapers: PC, Laptop & Mobile Downloads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-effortlessly-upload-mp3-tracks-onto-youtube-without-spending-a-penny/"><u>How to Effortlessly Upload MP3 Tracks Onto YouTube Without Spending a Penny</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-enhance-virtual-interaction-top-7-technologies-revealed/"><u>In 2024, Enhance Virtual Interaction - Top 7 Technologies Revealed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-right-software-hp-officejet-pro-6968-driver-download-now/"><u>Install the Right Software - HP OfficeJet Pro 6968 Driver Download Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-vp9-transcoder-tools-simplified-video-conversion-downloads/"><u>Leading VP9 Transcoder Tools - Simplified Video Conversion Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/screenshare-success-crafting-unique-wallpapers-per-windows-1011-monitor/"><u>Screenshare Success: Crafting Unique Wallpapers per Windows 10/11 Monitor</u></a></li>
+<li><a href="https://win-forum.techidaily.com/synergy-of-popular-platforms-strategies-for-facebook-twitter-instagram-and-youtubers/"><u>Synergy of Popular Platforms: Strategies for Facebook, Twitter, Instagram and YouTubers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210133174-9781644112212-the-ancestral-power-of-amulets-talismans-and-mascots/"><u>The Ancestral Power of Amulets, Talismans, and Mascots | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iuocquodvoodkoodvoocpuocqeodgplusodgeobruodlplusodroocpowlleeuuplusiomommsjrmnidpq5jnllvos6rjgqzjgqtjg4ki/"><u>オーバーウォッチのプレイ動画記録:最高画質ガイド</u></a></li>
 </ul></div>
 

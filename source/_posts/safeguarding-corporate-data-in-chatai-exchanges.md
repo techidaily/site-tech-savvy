@@ -1,7 +1,7 @@
 ---
 title: Safeguarding Corporate Data in ChatAI Exchanges
-date: 2025-01-07T23:40:12.219Z
-updated: 2025-01-12T18:56:36.389Z
+date: 2025-01-17T16:59:44.457Z
+updated: 2025-01-18T16:22:43.204Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Don’t Save Your Chat History
 
  One of the simplest yet effective steps to protect your privacy is to avoid saving your chat history. ChatGPT, by default, stores all interactions between users and the chatbot. These conversations are collected to train OpenAI’s systems and are subject to inspection by moderators.
@@ -46,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 ![ChatGPT showing options to disable chat history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-32.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that [OpenAI](https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt) says that even with this setting enabled, conversations are retained for 30 days with the option for moderators to review them for abuse before permanent deletion. Still, disabling chat history is one of the best things you can do if you want to continue using ChatGPT.
@@ -67,14 +63,10 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 
 ![ChatGPT showing options to clear all chats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-33.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Another option is to select each conversation and delete it. This method is helpful if you still want to keep some of your chats. On the list of conversations, click the chat you want to delete. Select the trash icon to remove the data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Don’t Feed ChatGPT Sensitive Work Information
@@ -88,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
  Limit interactions with ChatGPT to non-confidential queries and avoid sharing proprietary details. Moreover, apply good password hygiene and enable two-factor authentication to prevent compromising your account.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Use Data Anonymization Techniques
@@ -105,11 +97,19 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 
  Anonymization is not foolproof since data can be de-anonymized. Understand [de-anonymization and how to prevent it](https://www.makeuseof.com/what-is-de-anonymization/) before utilizing any of these techniques. Evaluate the risks before you release anonymized data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Limit Access to Sensitive Data
 
  Limiting access to sensitive work data is crucial when workers are allowed to use ChatGPT. If you’re working in a leadership role, restrict access to sensitive information to authorized personnel who require it for their specific roles.
 
  Additionally, implement access controls to safeguard your company’s data. For instance, role-based access control (RBAC) gives authorized employees access to only the necessary data to perform their jobs. You can also conduct regular access reviews to ensure that access controls are effective. Don’t forget to revoke access for employees who change roles or leave the company.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Be Wary of Third-Party Apps
 
@@ -140,19 +140,16 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-amazon-primes-social-standings-top-watchers-and-likers-twitter-2023/"><u>[New] 2024 Approved Amazon Prime's Social Standings - Top Watchers and Likers Twitter, 2023</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-engaging-sims-4-experience-through-recording/"><u>[Updated] 2024 Approved Engaging Sims 4 Experience Through Recording</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-narratives-with-these-effective-chatbot-triggers-for-memorable-characters/"><u>Enhance Your Narratives with These Effective Chatbot Triggers for Memorable Characters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fake-detection-unveiled-openais-counter-to-gpt-dupes/"><u>Fake Detection Unveiled: OpenAI's Counter to GPT Dupes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/honest-discoveries-in-vpn-crackdown/"><u>Honest Discoveries in VPN Crackdown</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/how-to-identify-and-troubleshoot-your-gpu-issues-top-tools-explained/"><u>How to Identify and Troubleshoot Your GPU Issues: Top Tools Explained</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-realme-narzo-60-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Realme Narzo 60 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/insert-audio-files-into-powerpoint-sequences/"><u>Insert Audio Files Into PowerPoint Sequences</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-modern-chatgpt-with-gpt-4-techniques/"><u>Mastering Modern ChatGPT with GPT-4 Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/microsofts-bing-transformed-with-cutting-edge-ai/"><u>Microsoft's Bing Transformed with Cutting-Edge AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/procedures-for-removing-outdated-conversations-on-gpt/"><u>Procedures for Removing Outdated Conversations on GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scam-perception-of-truthgpt-cryptocurrency/"><u>Scam Perception of TruthGPT Cryptocurrency</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-save-netflix-videos-onto-your-laptop/"><u>Step-by-Step: Save Netflix Videos Onto Your Laptop</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-deciphering-digital-domination-a-deep-dive-into-directors-videos/"><u>[Updated] Deciphering Digital Domination A Deep Dive Into Directors' Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-methods-to-autoplay-youtube-videos-on-facebook/"><u>[Updated] Methods to Autoplay Youtube Videos on Facebook?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-converter-transform-vob-files-into-high-quality-aiff-audio-directly-on-the-web-with-movavi/"><u>Free Converter: Transform VOB Files Into High-Quality AIFF Audio Directly on the Web with Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-update-and-install-hp-all-in-one-scanner-drivers-on-windows/"><u>How to Easily Update and Install HP All-in-One Scanner Drivers on Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-beginners-tips-shooting-hero5-time-lapse-footage/"><u>In 2024, Beginner's Tips Shooting Hero5 Time-Lapse Footage</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1684664-9781466873896-moon-signs-for-lovers/"><u>Moon Signs for Lovers | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-video-konverter-den-lette-og-pligtelige-lystenudskrivnings-app-pa-danskmarkedet/"><u>Movavi Video Konverter - Den Lette Og Pligtelige Lystenudskrivnings App På Danskmarkedet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-free-mac-compatible-mp3-convertors-reviewed-enhance-your-audio-experience-without-spending/"><u>Top 10 Free Mac-Compatible MP3 Convertors Reviewed: Enhance Your Audio Experience Without Spending</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-the-strategy-of-royal-match/"><u>Ultimate Guide: Mastering the Strategy of 'Royal Match'</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/webconversor-de-audio-gratuito-faca-sua-musica-tocar-em-qualquer-dispositivo-mp3-wma/"><u>Webconversor De Áudio Gratuito – Faça Sua Música Tocar Em Qualquer Dispositivo (MP3, WMA)</u></a></li>
 </ul></div>
 

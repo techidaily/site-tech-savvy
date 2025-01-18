@@ -1,7 +1,7 @@
 ---
 title: Creative AIs Face Off on Equal Ground Prompt
-date: 2024-09-02T20:34:42.445Z
-updated: 2024-09-03T20:34:42.445Z
+date: 2025-01-15T17:15:32.425Z
+updated: 2025-01-18T16:27:42.782Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 * [Which Chatbot Did Best With Scripts?](https://godlikehost.sjv.io/vnbxzv)
 * [Which Chatbot Did Best With Social Media Bios?](https://eimmie.pxf.io/21emk7)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Microsoft Copilot excels in creating songs and social media bios, the results are both fun and balanced.
@@ -36,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 
  ChatGPT, Google Gemini, and Microsoft Copilot—three popular chatbots with different capabilities. As useful as they are in everyday tasks, how would they perform with creative prompts for content like songs, short stories, and imaginative social media bios? Here are the experiment’s details and results.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How I Tested Three Popular Chatbots With Creative Prompts
 
  The methodology was simple. I composed a straightforward prompt for each type of creative content I wanted. Then I fed each prompt to a selection of [the best AI chatbots](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/) , namely ChatGPT, Google Gemini, and Microsoft Copilot.
@@ -54,15 +55,13 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 ![Microsoft Copilot Writing a New Song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/microsoft-copilot-writing-a-new-song.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Google Gemini had the fastest response time and went for a similar approach as Copilot—mixing both themes equally. But some of its imagery was strange and made little sense.
 
  ChatGPT wrote the longest song and used interesting lyrics, but the koala theme barely existed, especially when compared to what the other chatbots came up with. It also struggled to complete the song.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Which Chatbot Did Best With Poetry?
 
  Poems tend to be quite creative in their use of language, so the chatbot with the richest database and training would perform the best.
@@ -71,14 +70,8 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 
 ![ChatGPT Writes a Poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-writes-a-poem.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  Copilot and Gemini were both less effective than ChatGPT in all these regards. However, you may find that results vary depending on the type of poem and the instructions you give each chatbot. Make a note of the many available [tips and tricks for better AI prompting](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## Which Chatbot Did Best With Short Stories?
 
  The prompt for this creative content was as follows: “Write a story about a dinner party that your character is reluctant to attend. It should be 1000 words maximum.”
@@ -100,11 +93,16 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 ![Google Gemini Writing a Play Script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/google-gemini-writing-a-play-script.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The other two chatbots went for the exact same structure for the scene—perhaps because both apps use OpenAI’s data as their source. They flowed nicely enough, but there was nothing special about the results.
 
  An extra downside to ChatGPT was that one side of the script was cut off and unreadable. When I pointed out the problem, instead of offering a solution, the chatbot produced the exact same text with the same issue. One way to deal with this is to copy the script and paste it into a document, where you can read the scene in full.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Chatbot Did Best With Social Media Bios?
 
@@ -115,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
  Copilot provided the most options in terms of effective and imaginative phrases alongside emojis and hashtags. You could pick and choose what you wanted for your bio and tweak it further to perfectly reflect your identity.
 
 ![Microsoft Copilot Writing a Social Media Bio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/microsoft-copilot-writing-a-social-media-bio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT was more precise with its response. Two lines of useful mottos, emojis, hashtags, and a call to action. Asking for other suggestions is always on the table, but Copilot offered more from its initial response.
 
@@ -130,8 +132,6 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +139,20 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-powerpoints-voice-recognition-feature/"><u>[Updated] In 2024, Mastering PowerPoint's Voice Recognition Feature</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/99-pre-order-snap-up-the-newest-apple-watch-series-10-exclusive-at-best-buy-step-by-step-guide/"><u>$99 Pre-Order: Snap Up the Newest Apple Watch Series 10 Exclusive at Best Buy – Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-proven-methods-for-capturing-stunning-timelapse-videos-on-gopro/"><u>2024 Approved Proven Methods for Capturing Stunning Timelapse Videos on GoPro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unlock-device-agnostic-techniques-for-professional-filming/"><u>2024 Approved Unlock Device-Agnostic Techniques for Professional Filming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-the-modern-courtship-landscape/"><u>AI and the Modern Courtship Landscape</u></a></li>
+<li><a href="https://facebook.techidaily.com/metaverse-vs-virtual-reality-exploring-6-diverging-paradigms/"><u>Metaverse Vs. Virtual Reality: Exploring 6 Diverging Paradigms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mobile-optimization-techniques-for-chatgpt/"><u>Mobile Optimization Techniques for ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-your-files-better-with-ai-powered-chat-tools/"><u>Navigate Your Files Better with AI-Powered Chat Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speculating-on-the-future-gpt-5s-expected-release/"><u>Speculating on the Future: GPT-5's Expected Release?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/streamlining-the-timestamp-process-for-youtubers-for-2024/"><u>Streamlining the Timestamp Process for YouTubers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/symbolic-financial-guidance/"><u>Symbolic Financial Guidance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-enigma-of-codegpt-writing-codes-without-humans/"><u>The Enigma of CodeGPT: Writing Codes without Humans?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-does-dragon-age-origins-keep-freezing-in-windows-10-heres-the-solution/"><u>Why Does Dragon Age: Origins Keep Freezing in Windows 10? Here's the Solution!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Unique Excel Skills No ChatGPT Has
-date: 2024-09-02T20:34:33.464Z
-updated: 2024-09-03T20:34:33.464Z
+date: 2025-01-17T17:27:59.121Z
+updated: 2025-01-18T16:55:29.422Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/d70a53087560a098bb105b6da250ee7a060b663d9
 
  With advancements increasing at an alarming rate, it’s easy to worry that your job may be at risk of automation. Despite the surprising abilities AI programs like ChatGPT have already shown, there are still places where humans can outshine them. Here are three things you can do using Excel that are still out of reach for ChatGPT.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Using Excel for Long-Term Report Storage and Data Entry
 
  There's hope in a few common tasks for those worried that AI may be coming for their job. Gaining extra competence in Excel’s VBA and the wide world of automated analysis tools can give you a leg up in the job market.
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/d70a53087560a098bb105b6da250ee7a060b663d9
 
 ![A laptop sitting on a desk showing a data dashboard. There are several graphs showing and some other various data on screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/data-dashboard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While a single report is simple to create with ChatGPT, a set of data frozen in time isn’t always beneficial. One of the most potent abilities that Excel gives us the ability to create reports that the reader can instantly customize.
 
  Rather than taking the time to create a separate expense report for each department in your company, you can use Excel to create a single customized company-wide report. Adding a dropdown that filters data by the value in a single column is fast and straightforward to do.
@@ -56,15 +64,17 @@ thumbnail: https://thmb.techidaily.com/d70a53087560a098bb105b6da250ee7a060b663d9
  Make your reports more useful by adding some [simple Excel features](https://www.makeuseof.com/essential-excel-functions/). Ensure your reports can pull variable timeframes, highlight potential problems automatically, and sanitize data for long-term storage and flexibility.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Easy-to-Use Forms in Excel
 
 ![Man in black suit sitting in front of a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/pexels-kampus-production-8353777.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Forms are another great Excel option for those looking for value that ChatGPT can’t provide. Entering information manually can be time-consuming and frustrating. Giving end users the option to enter data independently as it arises frees up time and energy better spent analyzing the results.
 
  AI programs may be able to tell you how to populate all the items in a form, but making it user-friendly is another story. Creating a simple-to-use spreadsheet that analyzes the data that it’s given is a much more streamlined process than having the end user give you the data, only for you to then give it to an AI tool to analyze.
@@ -74,8 +84,9 @@ thumbnail: https://thmb.techidaily.com/d70a53087560a098bb105b6da250ee7a060b663d9
  For those looking to blend forms and long-term data storage, looking into different ways to export data from Excel is essential. Learning how to take data from an entry form to a SQL database can help insulate your job and keep your work essential.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Isn’t Going to Automate You Out of a Job Yet
 
  Excel has many tasks that are still beyond the range of ChatGPT and its cohort of machine learning-driven knockoffs. With new advancements increasing at an alarming rate, it’s all too easy to worry that automation may be aiming for your job next.
@@ -88,14 +99,11 @@ thumbnail: https://thmb.techidaily.com/d70a53087560a098bb105b6da250ee7a060b663d9
 
  With advancements increasing at an alarming rate, it’s easy to worry that your job may be at risk of automation. Despite the surprising abilities AI programs like ChatGPT have already shown, there are still places where humans can outshine them. Here are three things you can do using Excel that are still out of reach for ChatGPT.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,4 +112,26 @@ thumbnail: https://thmb.techidaily.com/d70a53087560a098bb105b6da250ee7a060b663d9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-best-of-both-worlds-screenflow-for-mac-creatives-reviewed/"><u>[New] 2024 Approved The Best of Both Worlds ScreenFlow for Mac Creatives Reviewed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ballot-box-bonanza-topping-politic-simulations/"><u>[Updated] 2024 Approved Ballot Box Bonanza Topping Politic Simulations</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-youtube-like-audio-making-via-twitter/"><u>[Updated] In 2024, YouTube-Like Audio Making via Twitter</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/boost-your-workflow-utilize-intel-quick-sync-technology-across-dual-monitors-on-laptops/"><u>Boost Your Workflow: Utilize Intel Quick Sync Technology Across Dual Monitors on Laptops</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-your-language-skills-the-power-of-premium-chatgpt/"><u>Enhance Your Language Skills: The Power of Premium ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-authenticity-in-machine-generated-text/"><u>Evaluating Authenticity in Machine-Generated Text</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-five-fantastic-iphones-for-podcast-fans/"><u>In 2024, Five Fantastic iPhones for Podcast Fans</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-major-modifications-in-windows-movie-maker/"><u>In 2024, Unveiling Major Modifications in Windows Movie Maker</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interactive-file-analysis-6-gpt-apps-showcase/"><u>Interactive File Analysis: 6 GPT Apps Showcase</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-concepts-in-understanding-openai-tech/"><u>Key Concepts in Understanding OpenAI Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-ms-office-widows-1011-setup/"><u>Mastering MS Office WIdows 10/11 Setup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-nvidias-personalized-ai-generation/"><u>Navigating NVIDIA's Personalized AI Generation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/registration-hacks-accessing-services-on-chatgpt-and-telegram/"><u>Registration Hacks: Accessing Services on ChatGPT & Telegram</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/spark-conversations-with-these-10-youtube-reaction-ideas-for-2024/"><u>Spark Conversations with These 10 YouTube Reaction Ideas for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solution-to-upgrade-malfunction-fixing-windows-update-error-0x80246007/"><u>Swift Solution to Upgrade Malfunction: Fixing Windows Update Error 0X80246007</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-6-revolutionary-traits-of-snapchats-my-ai/"><u>The 6 Revolutionary Traits of Snapchat's My AI</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620253863-unable-to-send-messages-identify-the-issue-and-resolve-it-instantly/"><u>Unable to Send Messages? Identify the Issue and Resolve It Instantly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-gpt-chat-and-whisper-apis-impact-on-enterprises/"><u>Unleashing GPT-Chat & Whisper APIs: Impact on Enterprises</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-openais-shared-link-strategy-for-gpt-3/"><u>Unpacking OpenAI’s Shared Link Strategy for GPT-3</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Smart Homes, AI-Managed: ChatGPT's Capabilities"
-date: 2025-01-10T17:18:43.335Z
-updated: 2025-01-12T17:46:58.429Z
+date: 2025-01-17T16:34:57.415Z
+updated: 2025-01-18T16:26:49.814Z
 tags:
   - chatgpt
   - open-ai
@@ -27,12 +27,16 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT and Smart Technology
 
 ![image of white google smart speaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/white-smart-speaker.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Many of us associate ChatGPT with its chatbot interface that's used to get facts, [write resumes](https://www.makeuseof.com/use-chatgpt-to-write-resume/), translate text, and even tell jokes. ChatGPT can be applied in so many ways, but what about smart technology? Can ChatGPT work with your smartphone, smart speaker, and similar devices?
 
@@ -59,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
  In the above video, you'll see Josh being asked to open blinds, give the local weather forecast, and even provide sleep advice. Josh also answered more complex questions, like which museums in California feature Andy Warhol. While this is still a work in progress, there's a lot of potential for ChatGPT to show off its skills within smart homes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using ChatGPT to Create a Smart Home Integration
@@ -72,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
 
 ![chatgpt chat response featuring code example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-smart-code-0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see above, ChatGPT provided an example of integration code you can use with Home Assistant, as well as steps on how to get it working for you. You'll need to install the "python-openai" library, which first requires you to access your own ChatGPT API key.
 
  Below the code template are additional steps on how to personalize it to fit your preferences. This includes adding your API key and your ChatGPT assistant model ID.
@@ -79,16 +87,12 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
 ![chatgpt smart home integration instructions in chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-smart-code-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With the Home Assistant tool, you can integrate ChatGPT into Google Nest. If you want to integrate into Alexa, ChatGPT offers instructions using the Alexa Skills Kit and AWS Lambda. To integrate into Cortana, ChatGPT can help you use code via the Bot Framework. Evidently, there are a lot of different smart home assistants that can function with ChatGPT's capabilities.
 
  However, you'll need some understanding of software code if you want to personalize ChatGPT's provided code templates quite a lot (e.g. if you want it to work with multiple smart assistants simultaneously).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Using ChatGPT In Your Smart Home
 
@@ -99,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
  However, if you're an expert with tech, you may be able to leverage ChatGPT within your smart home by using a GitHub repository, or writing your own code (possibly by [using ChatGPT itself](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/)).
 
  But ChatGPT-enabled smart assistants may one day be widespread, allowing you to carry out all sorts of tasks using this nifty AI tool.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT May One Day Control Your Smart Home
 
@@ -127,20 +127,22 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-dive-deep-into-time-lapse-creation-using-samsung-gear-for-2024/"><u>[New] Dive Deep Into Time-Lapse Creation Using Samsung Gear for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-decoding-techniques-in-human-gesture-recognition/"><u>[New] In 2024, Decoding Techniques in Human Gesture Recognition</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-horizontalvertical-selecting-facebook-video-format/"><u>[Updated] 2024 Approved Horizontal/Vertical Selecting Facebook Video Format</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-talk-revolutionizing-generative-tech/"><u>Beyond Talk: Revolutionizing Generative Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/budget-friendly-ais-on-par-with-soras-capabilities/"><u>Budget-Friendly AIs on Par with Sora's Capabilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-your-options-with-a-focus-on-local-llm-benefits-and-challenges/"><u>Exploring Your Options with a Focus on Local LLM Benefits & Challenges</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/full-range-virtual-sphere-review-for-2024/"><u>Full Range Virtual Sphere Review for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-navigating-vimeo-tiers-free-plus-and-pro-options/"><u>In 2024, Navigating Vimeo Tiers Free, Plus, and Pro Options</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/mastering-the-macs-hidden-photo-editor-a-guide-to-using-preview/"><u>Mastering the Mac's Hidden Photo Editor - A Guide to Using Preview</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-ai-with-the-power-of-vector-databases/"><u>Revolutionizing AI with the Power of Vector Databases</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-ai-conversations-top-5-safety-guidelines-for-childrens-gpt-use/"><u>Secure AI Conversations: Top 5 Safety Guidelines for Children's GPT Use</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-on-personal-dvd-duplication-for-existing-library/"><u>Step-by-Step Tutorial on Personal DVD Duplication for Existing Library</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-free-and-premium-substitutes-for-adobe-software/"><u>Top Free and Premium Substitutes for Adobe Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/triple-use-cases-for-chatgpts-integration-with-wolframalpha/"><u>Triple Use Cases for ChatGPT's Integration with WolframAlpha</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-current-availability-of-chatgpt/"><u>Understanding Current Availability of ChatGPT</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-get-hd-quality-facebook-videos-on-pcmobile/"><u>[New] Get HD Quality Facebook Videos on PC/Mobile</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-making-every-photo-on-iphone-blurry-with-4-tricks-up-your-sleeve/"><u>[Updated] In 2024, Making Every Photo on iPhone Blurry with 4 Tricks Up Your Sleeve</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-instructional-guide-modify-comment-accessibility-on-youtube/"><u>[Updated] Instructional Guide Modify Comment Accessibility on YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-ultimate-digital-destinations-for-text-overlays-for-2024/"><u>[Updated] Ultimate Digital Destinations for Text Overlays for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44cm44oi44oq44ot5yuv55s744kt44oj44ox44ob44oj5oml6acg44ks44kk44oj77ya44k544og44o844k644gr44oe44or44ob44oh44oh44kj44ki44kz44oz44og44oz44oe5lplusd5a2y44cn/"><u>「モバビ動画キャプチャ手順ガイド：スムーズにマルチメディアコンテンツ保存」</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-linksys-ea9500-the-smart-and-strong-wireless-networking-solution/"><u>Comprehensive Analysis of Linksys EA9500 - The Smart and Strong Wireless Networking Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compression-video-gratuite-transformer-des-fichiers-mp4-en-mpeg-en-ligne-avec-movavi/"><u>Compression Vidéo Gratuite : Transformer Des Fichiers MP4 en Mpeg en Ligne Avec Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-instantanea-de-archivos-mpeg-a-formato-mp3-sin-costo-herramienta-en-linea-eficiente/"><u>Conversión Instantánea De Archivos MPEG a Formato MP3 Sin Costo - Herramienta en Línea Eficiente</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cyberpower-backup-units-face-fire-risk-users-warn/"><u>CyberPower Backup Units Face Fire Risk, Users Warn</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/flash-flac-ogg-movavi/"><u>Flash Flac 無料網路轉成 Ogg - 使用 Movavi 音頻編輯器</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gebruik-movavi-voor-gratuite-online-konvertie-van-webm-naar-flv-videoformaten/"><u>Gebruik Movavi Voor Gratuite Online Konvertie Van WebM Naar FLV Videoformaten</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuitas-convertire-video-amv-online-con-movavi-il-tuo-modo-semplice/"><u>Gratuitas Convertire Video AMV Online Con Movavi - Il Tuo Modo Semplice!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-discovering-the-ultimate-set-of-text-tools-for-ae-artistry/"><u>In 2024, Discovering the Ultimate Set of Text Tools for AE Artistry</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-samsung-galaxy-a15-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Samsung Galaxy A15 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/instant-access-to-hp-stream-device-drivers-swift-setup-guaranteed/"><u>Instant Access to HP Stream Device Drivers - Swift Setup Guaranteed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-avi-te-vob-kansbare-transformatie-gratis-movavi-service/"><u>Online AVI Te VOB Kansbare Transformatie - Gratis Movavi Service</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-gratuite-swf-omvandeling-voor-mpeg-videos-movavi-converter/"><u>Online Gratuite SWF-Omvandeling Voor MPEG Vidéos - Movavi Converter</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Insights on CodeGPT: Could AI Revolutionize Development?"
-date: 2024-09-02T20:33:05.301Z
-updated: 2024-09-03T20:33:05.301Z
+date: 2025-01-14T16:40:43.858Z
+updated: 2025-01-18T16:26:52.925Z
 tags:
   - chatgpt
   - open-ai
@@ -15,11 +15,19 @@ thumbnail: https://thmb.techidaily.com/6aa0ea7bbcaddf2e39d658fccf6a692e44a4ec4a5
 
 ## Insights on CodeGPT: Could AI Revolutionize Development?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is CodeGPT?](https://zonlipartnershipprogram.pxf.io/b0rbxy)
 * [How Much Does CodeGPT Cost?](https://coinrule.sjv.io/rqzonv)
 * [Can CodeGPT Really Write Code?](https://sentrypc.7eer.net/dkpkgn)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -34,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/6aa0ea7bbcaddf2e39d658fccf6a692e44a4ec4a5
  If you're looking for an AI-powered assistant to help you write code, chances are you've encountered CodeGPT. It's one of many AI-powered tools you can use to assist you when programming. But can CodeGPT actually write code?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is CodeGPT?
 
  CodeGPT is a dedicated extension that uses different artificial intelligence (AI) models to help programmers write and fix code. It includes various features geared towards faster and easier programming, including auto-completion, code explanation, refactoring, documentation, unit testing, error-checking, and bug-fixing. It also has a ChatGPT-like interface you can access from your code editor.
@@ -45,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/6aa0ea7bbcaddf2e39d658fccf6a692e44a4ec4a5
  While there are several [code editors for Linux](https://www.makeuseof.com/best-ide-code-editors-for-linux/), macOS, and Windows, CodeGPT is only available in two. Today, you can either [install and use CodeGPT in VS Code](https://www.makeuseof.com/install-use-codegpt-in-vs-code/) or in Cursor, which is a fork of VS Code.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Much Does CodeGPT Cost?
 
  You can download and install CodeGPT for free, but using the extension comes at a cost. CodeGPT offers various subscription packages that you can pay for if you need unlimited access.
@@ -56,8 +66,9 @@ thumbnail: https://thmb.techidaily.com/6aa0ea7bbcaddf2e39d658fccf6a692e44a4ec4a5
  Bear in mind that you'll need to pay for unlimited usage of third-party AI models like OpenAI's GPT-4 model, for example. Although you can [access Open AI's GPT-4 model for free](https://www.makeuseof.com/ways-access-gpt-4-free/), you cannot do so from within VS Code or Cursor.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can CodeGPT Really Write Code?
 
  To evaluate this, we'll use the extension to help us generate two different code samples in Python.
@@ -148,8 +159,6 @@ with open('output.csv', 'w', newline='') as output_file:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +166,19 @@ with open('output.csv', 'w', newline='') as output_file:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-ace-the-art-of-online-fame-trending-on-youtube/"><u>[New] 2024 Approved Ace the Art of Online Fame Trending on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-online-retrobing-navigating-youtubes-deleted-content/"><u>[New] In 2024, Online Retrobing Navigating YouTube’s Deleted Content</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-pickus-impact-on-mobile-photography-a-comparative-study/"><u>[New] In 2024, PickU's Impact on Mobile Photography – A Comparative Study</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-supreme-display-quality-top-10-ranking-of-4k-screens/"><u>[New] Supreme Display Quality #Top 10 Ranking of 4K Screens</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-the-full-potential-in-the-metaverse-with-this-list/"><u>[New] Unleash the Full Potential in the Metaverse with This List</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-speedy-photographers-guide-to-google-collage-crafting/"><u>[Updated] In 2024, The Speedy Photographer's Guide to Google Collage Crafting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-complexity-beyond-chatgpts-simplified-synopses/"><u>Deciphering Complexity Beyond ChatGPT's Simplified Synopses</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/shine-and-sharpness-streamlined-brightening-of-iphone-movies/"><u>Shine and Sharpness Streamlined Brightening of iPhone Movies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-tips-to-overcome-performance-hiccups-lowering-ping-in-bless-unleashed-on-windows/"><u>Step-by-Step Tips to Overcome Performance Hiccups: Lowering Ping in Bless Unleashed on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unrecognized-writing-flaws-by-ai/"><u>Unrecognized Writing Flaws by AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-claude-2-and-what-can-you-do-with-it/"><u>What Is Claude 2 and What Can You Do With It?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/workplace-implications-of-using-chatgpt-the-legal-landscape/"><u>Workplace Implications of Using ChatGPT: The Legal Landscape</u></a></li>
+</ul></div>
 

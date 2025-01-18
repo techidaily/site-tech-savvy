@@ -1,7 +1,7 @@
 ---
 title: "The Dark Side of Conversational Bots: Unveiling the 8 Critical Shortfalls"
-date: 2024-09-02T20:37:21.059Z
-updated: 2024-09-03T20:37:21.059Z
+date: 2025-01-11T17:29:47.182Z
+updated: 2025-01-18T16:58:51.186Z
 tags:
   - chatgpt
   - open-ai
@@ -25,11 +25,19 @@ thumbnail: https://thmb.techidaily.com/b750413312d41df96b3e21641f92f421092aa1540
 
  With no sign of AI development slowing down, the problems with ChatGPT are even more important to understand. With ChatGPT set to change our future, here are some of the biggest issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is ChatGPT?
 
  ChatGPT is a large language model designed to produce natural human language. Much like conversing with someone, you can talk to ChatGPT, and it will remember things you have said in the past while also being capable of correcting itself when challenged.
 
 ![Screenshot of ChatGPT interface.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chat-gpt-open-ai.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It was trained on all sorts of text from the internet, such as Wikipedia, blog posts, books, and academic articles. Alongside responding to you in a human-like way, it can recall information about our present-day world and pull up historical information from our past.
 
@@ -53,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/b750413312d41df96b3e21641f92f421092aa1540
 
  You might not think that you would share your personal details so easily, but we're all susceptible to a slip of the tongue, and a good example of this is how a [Samsung employee shared company information with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/).
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Concerns Over ChatGPT Training and Privacy Issues
 
  Following the massively popular launch of ChatGPT, critics have questioned how OpenAI trained its model in the first place.
@@ -71,10 +76,9 @@ thumbnail: https://thmb.techidaily.com/b750413312d41df96b3e21641f92f421092aa1540
  Unless OpenAI publishes its training data, the lack of transparency makes it difficult to know whether it was done lawfully. We don't know the details about how ChatGPT is trained, what data was used, where the data comes from, or what the system's architecture looks like in detail.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. ChatGPT Generates Wrong Answers
 
 ![A sheep in front of a blackboard with a wrong math equation displayed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wrong-math-answer.jpg)
@@ -93,9 +97,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  You can see more hilarious hallucinations in our comparison between [ChatGPT vs. Microsoft Bing AI vs. Google Bard](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/). It's not hard to imagine people using ChatGPT to get quick facts and information, expecting those results to be true. But so far, ChatGPT can't get it right, and teaming up with an equally inaccurate Bing search engine only made things worse.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 4\. ChatGPT Has Bias Baked Into Its System
 
  ChatGPT was trained on the collective writing of humans across the world, past and present. Unfortunately, this means that the same biases in the real world can also appear in the model.
@@ -110,9 +111,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  By contrast, a similar AI chatbot called Sparrow—owned by Google's parent company, Alphabet—was released in September 2022\. However, it was purposely kept behind closed doors because of similar safety concerns. Around the same time, Facebook released an AI language model called Galactica, intended to help with academic research. However, it was rapidly recalled after many people criticized it for outputting wrong and biased results related to scientific research.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 5\. ChatGPT Might Take Jobs From Humans
 
 ![litlte girl holding hands with robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/litlte-girl-holding-hands-with-robot.jpg)
@@ -127,6 +125,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Technological advancements have always resulted in jobs being lost, but the speed of AI advancements means multiple industries are facing rapid change. A huge cross-section of human jobs are seeing AI filtering into the workplace. Some jobs may find menial tasks being completed with the help of AI tools, while other positions may cease to exist in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. ChatGPT Is Challenging Education
 
  You can ask ChatGPT to proofread your writing or point out how to improve a paragraph. Or you can remove yourself from the equation entirely and ask ChatGPT to do all the writing for you.
@@ -135,6 +137,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![ChatGPT explains the themes in the novel Neuromancer by William Gobson](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-ai-chat-gpt-books-themes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That begs the question: if ChatGPT can write for us, will students need to learn this skill in the future? It might seem like an existential question, but since students have started using ChatGPT to help write their essays, educators will soon have to face reality.
 
  Unsurprisingly, students are already experimenting with AI. [The Stanford Daily](https://stanforddaily.com/2023/01/22/scores-of-stanford-students-used-chatgpt-on-final-exams-survey-suggests/) reports that early surveys show a significant number of students have used AI to assist with assignments and exams.
@@ -142,12 +148,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  In the short term, schools and universities are updating their policies and ruling whether students can or cannot use AI to help them with an assignment. It's not only English-based subjects that are at risk either; ChatGPT can help with any task involving brainstorming, summarizing, or drawing analytical conclusions.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. ChatGPT Can Cause Real-World Harm
 
  It wasn't long before someone tried to [jailbreak ChatGPT](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/), resulting in an AI model that could bypass OpenAI's guard rails meant to prevent it from generating offensive and dangerous text.
@@ -158,9 +161,6 @@ No advertising on the website.
 
 ![Close-up of computer code on a screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chat-gpt-scammers-malware.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The rate at which ChatGPT can produce information has already caused problems for Stack Exchange, a website dedicated to providing correct answers to everyday questions. Soon after ChatGPT was released, users flooded the site with answers they asked ChatGPT to generate.
 
  Without enough human volunteers to sort through the backlog, it would be impossible to maintain a high level of quality answers. Not to mention, many of the answers were incorrect. To avoid the website being damaged, a ban was placed on all answers generated using ChatGPT.
@@ -181,9 +181,6 @@ No advertising on the website.
 
  Whether we agree with its methods or not, it's worth remembering that OpenAI is a private company that will continue developing ChatGPT according to its own goals and ethical standards.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Tackling AI's Biggest Problems
 
  There is a lot to be excited about with ChatGPT, but beyond its immediate uses, there are some serious problems.
@@ -206,8 +203,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +210,17 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-step-by-step-building-time-lapse-shots-on-samsung-gear/"><u>[New] 2024 Approved Step-by-Step Building Time Lapse Shots on Samsung Gear</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-srt-mp4-conversion-for-video-enhancement/"><u>[New] Mastering SRT MP4 Conversion for Video Enhancement</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-recover-hidden-shorts-thumbnails-in-videos/"><u>[Updated] How to Recover Hidden Shorts' Thumbnails in Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-the-metaphorical-representation-of-the-internet-as-an-infinite-knowledge-storehouse/"><u>Assessing the Metaphorical Representation of the Internet as an Infinite Knowledge Storehouse</u></a></li>
+<li><a href="https://some-skills.techidaily.com/boosting-focus-using-windows-grokas-pomodoro-timer-in-windows-11-a-pros-and-cons-review/"><u>Boosting Focus Using Windows Grokas Pomodoro Timer in Windows 11 – A Pros and Cons Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-analysis-of-chatgpt-microsoft-bing-ai-google-bard/"><u>Comparative Analysis of ChatGPT, Microsoft Bing AI, Google Bard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-clinical-practice-with-chatgpt-technology/"><u>Redefining Clinical Practice with ChatGPT Technology</u></a></li>
+<li><a href="https://win-great.techidaily.com/stunning-purple-aesthetic-wallpaper-designs-and-images-yl-computings-exclusive-collection/"><u>Stunning Purple Aesthetic Wallpaper Designs & Images - YL Computing's Exclusive Collection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tablets-unveiled-a-guide-to-the-top-eight-considerations-when-shop/"><u>Tablets Unveiled: A Guide to the Top Eight Considerations When Shop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/take-control-of-your-digital-dialogues-chrome-add-on-for-ease/"><u>Take Control of Your Digital Dialogues - Chrome Add-On for Ease</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: EU, Apple, App Store, Antitrust Violations, and Penalty.
-date: 2025-01-10T19:52:05.466Z
-updated: 2025-01-12T22:08:56.397Z
+date: 2025-01-11T17:36:18.994Z
+updated: 2025-01-18T17:02:22.471Z
 tags:
   - apple
 categories:
@@ -46,6 +46,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **iPhone App of the Year**:
 
 ### [AllTrails](https://apps.apple.com/us/app/alltrails-hike-bike-run/id405075943) from AllTrails, Inc.
@@ -65,15 +69,7 @@ When searching for a trail, the app considers all your needs, including whether 
 
 Then, once you select a route, it helps you stay on course with your planned course. The app also has fitness tracking and community-building elements to encourage meeting your fitness goals. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **iPad App of the Year**:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Prêt-à-Makeup](https://apps.apple.com/us/app/pr%C3%AAt-%C3%A0-makeup/id1434594204) from Prêt-à-Template
 
@@ -107,14 +103,10 @@ The app also features [generative AI](https://www.zdnet.com/article/what-is-gene
 
 The app is free to download but requires a subscription of $4.99 per month or $29.99 yearly to use. If you are interested in trying the app out before subscribing, as a new user, you get three edits for free that you can use to test it out. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Apple TV App of the Year:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [MUBI](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fmubi-stream-great-cinema%2Fid626148774&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899523596%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Jr%2FmQO5EZnS7Mz0NnjMOG36CJubqrWZdSMtDgZTMCEs%3D&reserved=0) from MUBI, Inc.
@@ -136,10 +128,6 @@ Another standout feature from MUBI is that, unlike other popular streaming platf
 
 The film selection is vast, ranging from rare indie films to classics. Although the app is free to download, a subscription fee starting at $12.99 a month is required to start streaming. If interested in trying the app, there is a seven-day free trial. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Apple Watch App of the Year:**
 
 ### [SmartGym](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fsmartgym-gym-home-workouts%2Fid922744883&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899529611%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=bLrFbo2GWv4HJT%2BWTuY%2BCAggvbj8Xdp6k4RGRgG%2FkK4%3D&reserved=0) from Mateus Abras
@@ -158,7 +146,7 @@ The app is free to download, but the free version only gets you access to two ro
 ## **iPhone Game of the Year:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Honkai: Star Rail](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fhonkai-star-rail%2Fid1599719154&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899536411%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=b23p3w1sKl9J7JMGfbD3gOHrKMcnd%2Btvn5Lnzala6Sg%3D&reserved=0) from COGNOSPHERE PTE. LTD.
@@ -174,7 +162,15 @@ One of the biggest standouts of this app is the immersive role-playing experienc
 
 Even if -- like me -- you are not big into gaming, the app is so intuitive to use that upon picking it up, I found myself quickly understanding what to do and was even able to win a battle with an opponent. The graphics on the game are so impressive that once immersed, you may not want to put it down. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **iPad Game of the Year:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Lost in Play](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Flost-in-play%2Fid6449434958&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899541995%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=0oPPE2cRfhafEBvSf1cU1xkz2q%2FOh05%2Bx7GMX1pKbAU%3D&reserved=0), from Snapbreak Games
 
@@ -201,7 +197,7 @@ Lies of P is a roleplaying game in which the user plays a puppet created by Gepe
 Apple originally spotlighted Lies of P for the game's smooth gameplay and the storyline's dark, alternative twist on the classic childhood tale The Adventures of Pinocchio. To play the game, you have to pay the full game cost upfront of $59.99\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Apple Arcade Game of the Year:**
@@ -221,6 +217,10 @@ The game is free to download if you have an Apple Arcade subscription, which cos
 
 ## **Cultural Impact Winners**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [**Pok Pok**](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fpok-pok-montessori-preschool%2Fid1550204730&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899559082%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=x8lQuriLApASDzIajnVAxoDSzHljqkM5RoLJ9FkErx8%3D&reserved=0) **from Pok Pok**
 
 Sabrina Ortiz/ZDNET
@@ -235,10 +235,6 @@ To ease parents' other concerns, the app doesn't have any paywalls or advertisem
 
 It is free to download; however, it requires a subscription after the seven-day trial ends. The subscription cost is $6.99 per month or $45.99 a year. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [**Proloquo**](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fproloquo%2Fid1521978238&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899565260%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=kIkjMFhZ77sZscxfA2SkKM6fyDJ5HHUGhvLJnoNfzg0%3D&reserved=0) **from AssistiveWare**
 
 Sabrina Ortiz/ZDNET
@@ -250,7 +246,7 @@ The app is free to download but requires a subscription once the one-month free 
 Another perk of the subscription is that it only has to be paid once for the user and accessible to their network. Family members, educators, Speech Pathologists, and other active members of the users' lives can sync to the app at no extra cost. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [**Too Good To Go**](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fca%2Fapp%2Ftoo-good-to-go-end-food-waste%2Fid1060683933&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899570753%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=JF8gRk7LNWVpS5KfyoN77aDG%2FZwdXWYeavX4YV8x3ZI%3D&reserved=0) **from Too Good To Go**
@@ -295,6 +291,10 @@ While moving through the storyline, the player will have to deal with family dra
 
  When nominated as a finalist for the category, Apple gave special recognition to the app's ability to connect women across generations through gameplay. The game is free to download but requires a $3.99 in-app purchase to unlock it. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Bonus: Trend of the year
 
 This year, Apple included a Trend of the Year, and unsurprisingly, it was [generative AI.](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/) Whether you are a tech enthusiast or just a casual consumer, you have probably noticed the explosion of interest in generative AI since [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) was unveiled one year ago. 
@@ -335,16 +335,24 @@ To highlight the trend of the year, App Store Editors highlighted a collection o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-the-platform-faceoff-twitchs-challenge-to-youtube/"><u>[New] The Platform Faceoff Twitch's Challenge to YouTube</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-filmmakers-approach-to-youtube-splitscreen-videos/"><u>[Updated] 2024 Approved A Filmmaker's Approach to YouTube Splitscreen Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-easy-guide-to-entering-google-meet-on-devices/"><u>[Updated] 2024 Approved Easy Guide to Entering Google Meet on Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-note-50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/best-bluetooth-fm-transmitter-2023-reviews-car-compatibility-and-performance/"><u>Best Bluetooth FM Transmitter (2023 Reviews) - Car Compatibility & Performance</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-130-music-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia 130 Music to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-poco-x6-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Poco X6 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-miracast-technology-in-windows-1011-setup-instructions-and-troubleshooting-hacks-for-smooth-streaming/"><u>Mastering Miracast Technology in Windows 10/11: Setup Instructions & Troubleshooting Hacks for Smooth Streaming</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-youtube-audio-removal-2-proven-strategies/"><u>Mastering the Art of YouTube Audio Removal - 2 Proven Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-trouble-free-streaming-solving-not-responsive-errors-with-spotify-on-windows/"><u>Mastering Trouble-Free Streaming: Solving 'Not Responsive' Errors with Spotify on Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-and-simple-tips-for-driver-update-across-windows-881-windows-7-and-windows-nx/"><u>Quick and Simple Tips for Driver Update Across Windows 8/8.1, Windows 7 & Windows nX</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-get-your-tweets-right-comply-with-aspect-ratio-standards/"><u>[New] 2024 Approved Get Your Tweets Right Comply with Aspect Ratio Standards</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-zombie-survival-quest-top-8-game-guide/"><u>[New] In 2024, Zombie Survival Quest - Top 8 Game Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-story-lore-who-are-the-premier-channels/"><u>[New] Story Lore Who Are the Premier Channels?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-a-closer-look-at-twitters-most-shared-videos-of-2023/"><u>[Updated] A Closer Look at Twitter's Most Shared Videos of 2023</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-obsessed-with-broadcasting-choose-between-xsplit-and-obs/"><u>[Updated] Obsessed with Broadcasting? Choose Between XSplit & OBS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-questions-on-vlc-player-mac-integration/"><u>[Updated] Top Questions on VLC Player Mac Integration</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ultimate-8-photo-montage-synthesizer-online/"><u>[Updated] Ultimate 8 Photo Montage Synthesizer Online</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-bridging-the-gap-between-dreams-and-reality-using-magix-vpx/"><u>2024 Approved Bridging the Gap Between Dreams & Reality Using Magix VPX</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-complete-guide-to-editing-youtube-on-the-go-with-sony-vegas/"><u>2024 Approved The Complete Guide to Editing YouTube on the Go With Sony Vegas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cease-siri-vs-chatgpt-unveiling-their-distinct-features/"><u>Cease Siri Vs. ChatGPT: Unveiling Their Distinct Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-claude-2-its-purpose-and-uses/"><u>Exploring Claude 2: Its Purpose and Uses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-manuscript-to-machine-has-chatgpt-redefined-academic-writing/"><u>From Manuscript to Machine: Has ChatGPT Redefined Academic Writing?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-poco-c65-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Poco C65 to Protect Your Individual Information</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/newfound-knowledge-engage-with-chatgpt/"><u>Newfound Knowledge: Engage with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-showtime-use-chatgpt-for-insights/"><u>Next Showtime? Use ChatGPT for Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/social-skills-in-ai-interactions-politeness-for-gpt-users/"><u>Social Skills in AI Interactions: Politeness for GPT Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surpassing-the-maximum-character-allowance-in-gpt/"><u>Surpassing The Maximum Character Allowance in GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-flawed-logic-of-ai-based-medical-advice/"><u>The Flawed Logic of AI-Based Medical Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/writing-engaging-youtube-scripts-with-chatgpt-help/"><u>Writing Engaging YouTube Scripts with ChatGPT Help</u></a></li>
 </ul></div>
 

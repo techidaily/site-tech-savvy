@@ -1,7 +1,7 @@
 ---
 title: "Tailoring Texts Professionally: Four Things to Dodge Using ChatGPT"
-date: 2024-09-02T20:40:32.647Z
-updated: 2024-09-03T20:40:32.647Z
+date: 2025-01-16T16:26:18.212Z
+updated: 2025-01-18T17:07:55.359Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/6060180ff020afbbd02ae1895cf9d82d0058a11f9
 
  Before you take this issue lightly, know that misusing AI can lead to legal issues, reputational damage, and erroneous output. Let's explore the wrong ways content creators use ChatGPT so that you can avoid these problems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Don't Overdepend on ChatGPT
 
  Imagine you're a first-time ChatGPT user. Since it's your first time using it, you'll find its speed remarkable. What once took you hours to create only takes seconds. As time goes by, you might start heavily relying on it. You make a few edits but don't bother to research.
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/6060180ff020afbbd02ae1895cf9d82d0058a11f9
  Remember that it's possible for ChatGPT to churn out outdated information. As ChatGPT itself says, its knowledge cutoff is only up to September 2021, so it's always good to double-check the information.
 
 ![ChatGPT reminds user to double check information it provides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-50.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  OpenAI CEO Sam Altman also mentions in an [ABC News video interview](http://www.youtube.com/watch?v=540vzMlf-54) that users should be more cautious about ChatGPT's "hallucinations problem." It can confidently state made-up ideas as if they were facts. A single incident like CNET's can damage your credibility as an authoritative source.
 
@@ -75,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/6060180ff020afbbd02ae1895cf9d82d0058a11f9
 * If you need sources for academic research, check [Google Scholar](https://scholar.google.com/) or [Elicit](http://elicit.org/), an AI research assistant.
 * Remember to critically assess the results and exercise judgment when selecting which ones to cite.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## 3\. Don't Replace Workplace Connections With ChatGPT
 
  Some [things that you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) might tempt you to anthropomorphize it or give it human attributes. For instance, you can ask ChatGPT for advice and chat with it if you need someone to talk to.
@@ -87,17 +92,15 @@ thumbnail: https://thmb.techidaily.com/6060180ff020afbbd02ae1895cf9d82d0058a11f9
 ![ChatGPT giving advice on workplace burnout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-45.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  But no matter how compassionate it sounds, ChatGPT isn't human. What sounds like human-generated sentences are only the results of ChatGPT predicting the next word or "token" in the sequence based on its training data. It isn't a sentient being with a will and mind of its own as you do.
 
  That said, ChatGPT can't substitute for human relationships and collaboration in the workplace. As the [Work and Well-being Initiative at Harvard University](https://workwellbeinginitiative.org/module-4-moderating-work-demands#:~:text=The%20evidence%20shows%20that%20positive,harmful%20effects%20of%20workplace%20stress.&text=Positive%20relationships%20at%20work%20are%20also%20good%20for%20the%20bottom%20line.) says, these human connections benefit you, helping improve your well-being and protecting you against workplace stress.
 
  Learning to work with the latest tech tools is important, but interacting with your team is also essential. Instead of relying on ChatGPT to replicate social connections, build your interrelational skills, interact with co-workers, and find the best people you can work with.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 4\. Don't Feed ChatGPT Ineffective Prompts
 
  Are you finding it hard to get the best responses out of ChatGPT when creating content? Providing context and giving precise instructions should solve your problem.
@@ -109,22 +112,21 @@ thumbnail: https://thmb.techidaily.com/6060180ff020afbbd02ae1895cf9d82d0058a11f9
 ![ChatGPT giving a wrong answer to a prompt asking for a summary of Eric Allen's article on Hackernoon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-44.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To help ChatGPT, we copy-pasted the article in parts and asked for a summary after each upload. This time, ChatGPT was able to accomplish the task accurately. At one point, it gave us a comment instead of a summary, but we redirected it using another prompt.
 
 ![Conversation with ChatGPT asking to summarize a blog on Hackernoon by Eric Allen, which was uploaded in parts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-43.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  This example was a learn-by-doing experiment on how to use ChatGPT to summarize long and technical articles effectively. However, you can now access many internet resources and [learn prompting techniques to improve your ChatGPT responses](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/).
 
  Using recommended prompts is not a fail-safe method against hallucinations, but it can help you deliver accurate results. You can also review the [best ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/) for more information on prompting techniques.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Maximize ChatGPT Capabilities, but Be Mindful of Its Limits
 
  ChatGPT offers unprecedented speed and convenience, but using it also demands caution and responsibility. Avoid overdepending on ChatGPT, use more appropriate tools for research, collaborate better with your team, and learn to use prompts effectively to maximize its benefits.
@@ -135,14 +137,11 @@ thumbnail: https://thmb.techidaily.com/6060180ff020afbbd02ae1895cf9d82d0058a11f9
 
  Before you take this issue lightly, know that misusing AI can lead to legal issues, reputational damage, and erroneous output. Let's explore the wrong ways content creators use ChatGPT so that you can avoid these problems.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,4 +150,24 @@ thumbnail: https://thmb.techidaily.com/6060180ff020afbbd02ae1895cf9d82d0058a11f9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-striking-setups-to-impress-online-audiences/"><u>[New] In 2024, Striking Setups to Impress Online Audiences</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-speech-tuning-made-simple-on-sony-playstation-consoles-for-2024/"><u>[New] Speech Tuning Made Simple on Sony PlayStation Consoles for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-luxury-car-accessories-for-the-modern-sj4000-driver/"><u>[Updated] Top 10 Luxury Car Accessories for the Modern SJ4000 Driver</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-preventing-discomfort-vives-motion-illness-tips/"><u>2024 Approved Preventing Discomfort Vive's Motion Illness Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversational-ai-breath-of-life-to-virtual-queries/"><u>Conversational AI: Breath of Life to Virtual Queries</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/draft-humoristic-visuals-with-adobe-suite/"><u>Draft Humoristic Visuals with Adobe Suite</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-harness-universal-gpt-power-from-anywhere/"><u>How to Harness Universal GPT Power From Anywhere</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-safely-resolve-google-chromes-misleading-critical-error-message/"><u>How to Safely Resolve Google Chrome's Misleading Critical Error Message</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-beat-coffee-stain-effects-with-ioss-complimentary-red-eye-fix-app/"><u>In 2024, Beat Coffee Stain Effects with iOS's Complimentary Red-Eye Fix App</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-11-pro-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 11 Pro Max Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/justifying-the-extra-expense-gpt-premium/"><u>Justifying the Extra Expense: GPT Premium</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-enhanced-docspace-workflows/"><u>Leveraging ChatGPT for Enhanced DocSpace Workflows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-saturated-gpt-window-error/"><u>Overcoming Saturated GPT Window Error</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-technology-dialogue-the-case-for-respectful-interaction/"><u>Smart Technology Dialogue: The Case for Respectful Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/third-party-ai-tools-security-or-red-flag/"><u>Third-Party AI Tools: Security or Red Flag?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-windows-experience-with-freedomgpt/"><u>Transform Your Windows Experience with FreedomGPT</u></a></li>
+</ul></div>
 

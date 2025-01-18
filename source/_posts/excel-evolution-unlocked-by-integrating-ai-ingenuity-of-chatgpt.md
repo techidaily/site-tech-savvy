@@ -1,7 +1,7 @@
 ---
 title: Excel Evolution Unlocked by Integrating AI Ingenuity of ChatGPT
-date: 2024-09-02T20:36:28.651Z
-updated: 2024-09-03T20:36:28.651Z
+date: 2025-01-11T17:29:32.977Z
+updated: 2025-01-18T16:58:16.640Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
 ![Asking ChatGPT a question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-question.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here is how it responded:
 
 ![ChatGPT creating a formula](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-answer.jpg)
@@ -66,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
 ![Excel sheet example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/excel-sheet-example.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We want to create a filter that will display the total sales made in the first quarter for the North region. We described this to ChatGPT and created a macro for this, as shown below:
 
 ![Excel macro example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/excel-macro-example-1.jpg)
@@ -90,8 +98,9 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 ![Macro result in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/macro-result.jpg)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use ChatGPT to Automate Sending Emails
 
  When managing a large team, automating tasks such as sending emails can be a lifesaver. Excel provides various methods to automate sending emails, which is especially useful when emailing a group of people with similar details on a regular basis. Additionally, incorporating ChatGPT can further streamline the email automation process for maximum efficiency.
@@ -103,16 +112,17 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 ![Use ChatGPT to automate sending emails](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/vba-to-automate-emails.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once we have the macro, we will save the module and run it by following the steps described above. As simple as that! Apart from these three methods we have listed of using ChatGPT in Excel, you can also use the chatbot to analyze and visualize data in Excel with the help of tools like Charts, and Data Analysis Toolpak. You can ask ChatGPT to explain how to use these tools effectively.
 
  Additionally, you can use ChatGPT to troubleshoot issues in Excel by providing it with the details of the error you are encountering. While there are a number of [things ChatGPT can't do in Excel](https://www.makeuseof.com/things-to-do-excel-chatgpt-cant/) yet, it's a great tool that can help you become a spreadsheet pro.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT to the Rescue
 
  ChatGPT is a valuable resource to get the most out of Excel. You can use it to create new formulas, get assistance with any spreadsheet errors, and even learn new skills by asking it to explain how certain features work. If used right, it can help you maximize your Excel productivity and get over any spreadsheet fears that you may have.
@@ -127,8 +137,6 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +144,22 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-leading-5-goggles-for-optimal-drone-pilot-viewing/"><u>[New] Leading 5 Goggles for Optimal Drone Pilot Viewing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-pcs-top-choice-essential-ps1-emulators/"><u>[Updated] In 2024, PC's Top Choice Essential PS1 Emulators</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-insider-tips-on-investing-in-top-hdr-cameras/"><u>[Updated] Insider Tips on Investing in Top HDR Cameras</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-professional-strategies-for-editing-full-spherical-video-in-premiere/"><u>[Updated] Professional Strategies for Editing Full Spherical Video in Premiere</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-vs-google-translate-which-is-better-at-translation/"><u>ChatGPT Vs. Google Translate: Which Is Better At Translation?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/command-the-conversation-5-vocal-techniques-for-gpt-mastery/"><u>Command the Conversation: 5 Vocal Techniques for GPT Mastery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/f4v-in-avi-converter-vrije-onlinetool-voor-format-omzetting/"><u>F4V in AVI Converter - Vrije Onlinetool Voor Format Omzetting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-tutorial-restore-broken-mp4-videos-using-easy-methods-for-both-pc-and-mac-users/"><u>Free Tutorial: Restore Broken MP4 Videos Using Easy Methods for Both PC and Mac Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-unlocked-for-all-yet-6-chatgpt-plus-advantages-remain/"><u>GPT-4: Unlocked For All, Yet 6 ChatGPT Plus Advantages Remain.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-apparition-camera-control-workshop/"><u>In 2024, Apparition Camera Control Workshop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/learn-to-effortlessly-utilize-microsoft-copilot-with-your-mac/"><u>Learn to Effortlessly Utilize Microsoft Copilot with Your Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openais-chatgpt-decoded-for-users/"><u>OpenAI’s ChatGPT Decoded for Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-privacy-from-chatgpts-scope/"><u>Protecting Privacy From ChatGPT's Scope</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streaming-smartly-finding-free-access-to-netflix-shows-and-movies/"><u>Streaming Smartly: Finding Free Access to Netflix Shows and Movies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-eus-digital-strategy-and-its-influence-on-the-development-of-ai-systems-such-as-chatgpt/"><u>The EU's Digital Strategy & Its Influence on the Development of AI Systems Such as ChatGPT</u></a></li>
+</ul></div>
 

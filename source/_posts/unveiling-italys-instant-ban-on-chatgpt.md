@@ -1,7 +1,7 @@
 ---
 title: Unveiling Italy's Instant Ban on ChatGPT
-date: 2024-09-02T20:35:24.869Z
-updated: 2024-09-03T20:35:24.869Z
+date: 2025-01-16T16:48:25.462Z
+updated: 2025-01-18T16:17:49.492Z
 tags:
   - chatgpt
   - open-ai
@@ -37,41 +37,36 @@ thumbnail: https://thmb.techidaily.com/b97dc23b10dda7eac6c715a762ae77f278d32f493
 
 ![ChatGPT Onboarding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-onboarding.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Italian regulator ensures data controllers follow the general obligations outlined in the EU's privacy law, and OpenAI falls short.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Unjustified Collection of Personal Data
 
  Asides from the breach of its privacy laws, the GDPD claims that there is no legal justification for OpenAI's massive collection and processing of personal data to train ChatGPT's algorithms. According to the Italian regulator, ChatGPT's information doesn't always match factual circumstances, so OpenAI can use falsified personal data.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. A Lack of Easily-Accessible and Transparent Information
 
  In addition, the Italian regulator pointed out that OpenAI doesn't inform users whose data it collects. This is another clear violation of the EU's privacy laws.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Lack of Age Verification Systems
 
  The GDPD announced that ChatGPT exposes inappropriate information to users under 13 because it lacks appropriate age detection mechanisms. This underage exposure violates the EU's GDPR, which states that individuals must clearly consent to the processing of their personal data. As underage individuals, they are not to consent on their behalf.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Risk of Data Breaches
 
  While citing a data breach reported on March 20th, 2023, the Italian regulator raised concerns about the chatbot's risk of data breaches. [Europol's announcement](https://www.europol.europa.eu/publications-events/publications/chatgpt-impact-of-large-language-models-law-enforcement) of the potential of criminals using ChatGPT to commit fraud and cybercrime likely fostered these concerns.
@@ -79,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/b97dc23b10dda7eac6c715a762ae77f278d32f493
  Data breaches also infringe on the country's privacy laws—all data processors must implement appropriate security measures.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Italy's ChatGPT Ban Could Be a Template for Other EU Countries
 
  The EU's GDPR is said to be the strictest privacy law in the world, and Italy's ban emphasizes the importance of data compliance in Europe. The Irish data authority has been reported to be studying the GDPD's actions with intentions to "coordinate" with the EU concerning the ban. Likewise, the UK's data regulator is said to have declared support for AI with the condition that it complies with data protection laws.
@@ -93,14 +89,11 @@ thumbnail: https://thmb.techidaily.com/b97dc23b10dda7eac6c715a762ae77f278d32f493
 
  This means that if you're in Italy, you'll now be unable to use the AI chatbot. Here's why.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,4 +102,18 @@ thumbnail: https://thmb.techidaily.com/b97dc23b10dda7eac6c715a762ae77f278d32f493
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-harness-the-hype-tactics-to-supercharge-your-social-media-status/"><u>[New] 2024 Approved Harness the Hype Tactics to Supercharge Your Social Media Status</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-network-security-for-2024/"><u>[New] Network Security for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/commanding-ai-premier-online-training-series/"><u>Commanding AI: Premier Online Training Series</u></a></li>
+<li><a href="https://win-online.techidaily.com/error-webpage-unavailable-404/"><u>Error: Webpage Unavailable (404)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210877371-9781633410442-fairies-pookas-and-changelings/"><u>Fairies, Pookas, and Changelings | Free Book</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/getting-up-to-date-netgear-a61ebox-wireless-adapter-windows-drivers/"><u>Getting Up-to-Date: Netgear A61ebox Wireless Adapter Windows Drivers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-from-download-to-implementation-installing-obs-on-a-macpc/"><u>In 2024, From Download to Implementation Installing OBS on a MacPC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-your-chatbot-revealing-too-much-neural-network-model-inversion-attacks-explained/"><u>Is Your Chatbot Revealing Too Much? Neural Network Model Inversion Attacks Explained</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolved-troubleshooting-and-repairing-csr-a10-graphics-driver-glitches-in-your-window-pc/"><u>Resolved: Troubleshooting and Repairing CSR A10 Graphics Driver Glitches in Your Window PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-vision-mastering-ai-art-with-free-dall-e-3-through-bing/"><u>Transform Your Vision: Mastering AI Art with Free DALL-E 3 Through Bing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uniting-messaging-and-ai-chatgpt-in-whatsapp-support/"><u>Uniting Messaging and AI: ChatGPT in WhatsApp Support</u></a></li>
+</ul></div>
 

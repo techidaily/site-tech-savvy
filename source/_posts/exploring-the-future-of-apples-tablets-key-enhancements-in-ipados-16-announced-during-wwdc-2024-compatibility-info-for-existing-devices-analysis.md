@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Future of Apple's Tablets: Key Enhancements in iPadOS 16 Announced During WWDC 2024, Compatibility Info for Existing Devices Analysis"
-date: 2025-01-10T19:58:28.542Z
-updated: 2025-01-12T19:33:01.767Z
+date: 2025-01-11T16:22:54.236Z
+updated: 2025-01-18T16:37:01.191Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,24 +126,24 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-reel-in-attention-by-emulating-tiktok-stardom-on-instagram-for-2024/"><u>[New] Reel In Attention by Emulating TikTok Stardom on Instagram for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dissecting-claude-pros-innovations-versus-gptplusplusplus/"><u>Dissecting Claude Pro's Innovations Versus GPT++Plus</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-online-converter-change-wmv-files-to-wav-format-moveave/"><u>Free Online Converter: Change WMV Files to WAV Format - Moveave</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/google-chrome-how-to-update-easily/"><u>Google Chrome How to Update [Easily]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/graphics-processing/"><u>Graphics Processing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-activate-the-hidden-admin-account-on-windows-11-7-and-8-a-comprehensive-guide/"><u>How to Activate the Hidden Admin Account on Windows 11, 7 and 8: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-construct-a-windows-11-bootable-restore-usb-a-step-by-step-guide/"><u>How to Construct a Windows 11 Bootable Restore USB: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-download-torrents-step-by-step/"><u>How to Download Torrents Step by Step</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-improve-gaming-performance-on-windows-11/"><u>How to Improve Gaming Performance on Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-install-fonts-for-windows-11-easily-solved/"><u>How to Install Fonts for Windows 11 Easily [Solved]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-open-task-manager-in-windows-10-solved/"><u>How to Open Task Manager in Windows 10 [Solved]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-overcome-the-windows-10-cannot-be-installed-error-code-80240020-detailed-solution-inside/"><u>How to Overcome the 'Windows 10 Cannot Be Installed' Error (Code 80240020) – Detailed Solution Inside</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-extract-and-save-video-previews-free-and-easy/"><u>In 2024, Extract and Save Video Previews, Free & Easy</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-se-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your iPhone SE</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/infinix-smart-7-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Infinix Smart 7 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://fox-place.techidaily.com/mover-fotos-em-windows-metodos-eficientes-e-diretos-explicados/"><u>Mover Fotos Em Windows: Métodos Eficientes E Diretos Explicados</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/prime-video-titans-the-tweeted-and-tested-binge-masters-for-2024/"><u>Prime Video Titans The #Tweeted and Tested Binge Masters for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/professional-steps-for-high-quality-powerpoint-replays-for-2024/"><u>Professional Steps for High-Quality PowerPoint Replays for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-innovative-functions-in-apples-upcoming-ios-18-for-mobile-devices-insights-by-zdnet/"><u>Top 5 Innovative Functions in Apple's Upcoming iOS 18 for Mobile Devices - Insights by ZDNET</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-simple-paths-to-start-recording-on-hp-computers/"><u>[New] 2024 Approved Simple Paths to Start Recording on HP Computers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1715760178749-new-how-to-record-lol-gameplay3-methods/"><u>[New] How to Record LOL Gameplay?(3 Methods)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-millisecond-metrics-for-a-20mb-digital-creation/"><u>[New] In 2024, Millisecond Metrics for a 20MB Digital Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bings-leap-into-ai-driven-search-excellence/"><u>Bing's Leap Into AI-Driven Search Excellence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-command-methods-for-personalized-chatgpt-interactions/"><u>Cutting-Edge Command Methods for Personalized ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-purpose-of-gptzero-in-text-analysis/"><u>Deciphering the Purpose of GPTZero in Text Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-secrecy-surrounding-chatgpt/"><u>Deciphering the Secrecy Surrounding ChatGPT</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-xr-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone XR</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-to-follow-tips-to-get-your-astro-a20-headset-microphone-working-again/"><u>Easy-to-Follow Tips to Get Your Astro A20 Headset Microphone Working Again</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/has-openai-already-lost-control-of-chatgpt/"><u>Has OpenAI Already Lost Control of ChatGPT?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-seamlessly-download-and-update-scansnap-driver-in-minutes/"><u>How to Seamlessly Download & Update ScanSnap Driver in Minutes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-12-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 12 with a Broken Screen?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-itel-p55t-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Itel P55T Phone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/maximizing-your-firefox-multitasking-with-ffxp/"><u>Maximizing Your Firefox Multitasking with FFXP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalize-your-mobile-experience-with-these-ai-apps-androidiphone/"><u>Personalize Your Mobile Experience with These AI Apps (Android/iPhone)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-tech-for-academic-advancement/"><u>Revolutionary Tech for Academic Advancement</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-programs-with-context-menu-additions/"><u>Streamlining Programs with Context Menu Additions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tips-on-recognizing-and-responding-to-fake-chatgpt-portals/"><u>Tips on Recognizing and Responding to Fake ChatGPT Portals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-4-innovative-ai-tale-crafting-tools/"><u>Top 4 Innovative AI Tale Crafting Tools</u></a></li>
 </ul></div>
 

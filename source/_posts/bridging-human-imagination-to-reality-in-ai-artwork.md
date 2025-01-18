@@ -1,7 +1,7 @@
 ---
 title: Bridging Human Imagination to Reality in AI Artwork
-date: 2024-09-02T20:41:18.761Z
-updated: 2024-09-03T20:41:18.761Z
+date: 2025-01-13T16:20:14.482Z
+updated: 2025-01-18T16:29:50.271Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/670a3d23e314a574aa8e5af4448af6d1aaae62996
 * [Sign Up for ChatGPT Plus to Access DALL-E](https://printrendy.pxf.io/xyboy5)
 * [How to Use DALL-E in a ChatGPT Chat](https://zonlipartnershipprogram.pxf.io/b0rbxy)
 * [How to Use DALL-E in the ChatGPT App](https://electronicx.pxf.io/xkwqkk)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -45,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/670a3d23e314a574aa8e5af4448af6d1aaae62996
 2. Click the **Upgrade plan** button in the bottom-left corner of the side panel, just above your name.  
 ![ChatGPT upgrade plan window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-02-26-am.png)
 3. Choose **Upgrade to Plus** (or **Upgrade to Team**).
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Fill in your payment information and click **Subscribe**.
 
  After doing this, you should now have access to DALL-E. It’s still a good idea to refresh your browser or log out and in again to make sure everything is in working order.
@@ -62,14 +63,13 @@ thumbnail: https://thmb.techidaily.com/670a3d23e314a574aa8e5af4448af6d1aaae62996
 2. Check the top-left corner of the chat to ensure that it says **ChatGPT 4**. If not, click the dropdown and select it.  
 ![Selecting GPT mode in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-01-09-am.png)
 3. Go down to the chat box and enter a prompt that starts with “**Generate an image of**…” or something similar.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![ChatGPT generating image of a tifer and rabbit having tea](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-06-12-am.png)
 4. Feel free to use follow-up prompts to improve the image to get it exactly how you want.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![ChatGPT generating an image in a different style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-08-39-am.png)
 
  You can download the image by clicking it and hitting the download button in the window's top-right corner.
@@ -77,8 +77,9 @@ thumbnail: https://thmb.techidaily.com/670a3d23e314a574aa8e5af4448af6d1aaae62996
  If you don’t want to use ChatGPT 4, you can use a dedicated DALL-E chat. Click **Explore** or **Explore GPTs** on the left-side menu. Look for **DALL-E** in the **By ChatGPT** section and click it. You can now follow the same instructions outlined above, or you can follow [this link](https://chat.openai.com/g/g-2fkFE8rbu-dall-e) to open a DALL-E chat.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use DALL-E in the ChatGPT App
 
  For those who don’t know, ChatGPT has an app available on Android and iOS. Once downloaded and logged in, ChatGPT subscribers can access DALL-E just like they can on the web.
@@ -87,16 +88,18 @@ thumbnail: https://thmb.techidaily.com/670a3d23e314a574aa8e5af4448af6d1aaae62996
 
 ![Choosing what GPT mode to use in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0105.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![ChatGPT generating an image in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0106.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![ChatGPT reworking an image in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0107.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  Here’s how to access DALL-E in the app:
@@ -121,8 +124,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +131,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-architects-crafting-fantasy-realms-for-marvel/"><u>[New] 2024 Approved Architects Crafting Fantasy Realms for Marvel</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/reative-content-concepts-for-vlogs-for-2024/"><u>[New] Creative Content Concepts for Vlogs for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/etailed-guidance-on-crafting-dynamic-yt-profiles/"><u>[New] Detailed Guidance on Crafting Dynamic YT Profiles</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-dji-aerial-lineup-standard-drone-professional-edition-4k-quality/"><u>[New] DJI Aerial Lineup Standard Drone, Professional Edition, 4K Quality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-step-by-step-guide-through-the-landscape-of-srt/"><u>[Updated] A Step-by-Step Guide Through the Landscape of SRT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-triumph-comparing-the-supremacy-of-gemini-and-plus-chatgpt/"><u>AI Triumph: Comparing the Supremacy of Gemini and Plus-ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/confronting-ai-titans-advanced-gemini-vs-plush-gpt/"><u>Confronting AI Titans: Advanced Gemini Vs. Plush GPT</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-guide-for-canon-printer-mg3620-drivers/"><u>Easy Installation Guide for Canon Printer MG3620 Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/identifying-fraudulent-ai-tools-in-ios-marketplace/"><u>Identifying Fraudulent AI Tools in iOS Marketplace</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-infinix-hot-30i-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Infinix Hot 30i with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-15-pro-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 15 Pro Passcode without a Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-era-of-conversation-gpt-3s-top-updates-unveiled/"><u>New Era of Conversation: GPT-3’s Top Updates Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revisit-and-refine-6-unnecessary-gpt-3-applications/"><u>Revisit and Refine: 6 Unnecessary GPT-3 Applications</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/syncing-songs-safely-with-insta-rules-for-2024/"><u>Syncing Songs Safely with Insta Rules for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-quintessential-ai-enhanced-presentation-gear/"><u>The Quintessential AI-Enhanced Presentation Gear</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trio-techniques-exploiting-the-combined-potential-of-chatgpt-and-wolframalpha/"><u>Trio Techniques: Exploiting the Combined Potential of ChatGPT & WolframAlpha</u></a></li>
+</ul></div>
 

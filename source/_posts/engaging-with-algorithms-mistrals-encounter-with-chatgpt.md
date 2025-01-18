@@ -1,7 +1,7 @@
 ---
 title: "Engaging with Algorithms: Mistral's Encounter With ChatGPT"
-date: 2025-01-06T00:39:24.269Z
-updated: 2025-01-12T23:34:11.847Z
+date: 2025-01-11T16:30:14.730Z
+updated: 2025-01-18T16:21:45.240Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 * [Le Chat vs. ChatGPT: Creativity](https://bluettius.sjv.io/dkpnv2)
 * [Le Chat vs. ChatGPT: Programming Skills](https://versadesk.pxf.io/xyboxx)
 * [Le Chat vs. ChatGPT: Common Sense and Logical Reasoning](https://ukaidot.sjv.io/daqnoj)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -48,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
  Mistral's Le Chat has been gaining traction within the AI chatbot community, with some observers tagging it as a potential rival to ChatGPT.
 
  But is this fledgling AI chatbot really worth the title? Is Mistral's Le Chat better than ChatGPT?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is Mistral AI's Le Chat?
 
@@ -75,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 ![ChatGPT describes itself-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-describes-itself-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And here's how Le Chat would describe itself as well:
 
 ![Le Chat Mistral describes itself](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-describes-itself.jpg)
@@ -87,13 +83,13 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 ![ChatGPT writes rap about cocumbers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-writes-rap-about-cocumbers.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And here's Le Chat's response:
 
 ![Le Chat Mistral writes song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-writes-song.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It might be a subjective issue, but ChatGPT's response seemed like the better option here. Le Chat's lyrics seemed quite wordy and didn't really read like something a rapper would put out. To test how both lyrics would sound if they were to be made into music, we used [Suno AI music generator to generate music](https://www.makeuseof.com/suno-ai-make-music-from-text-prompt/) from the lyrics. Three out of three trials, ChatGPT's lyrics sounded way better. Below are two samples from both AI chatbots, you can be the judge of which chatbot did better.
 
@@ -127,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
  I repeated a few more programming tests involving finding and fixing bugs, and ChatGPT consistently outperformed Le Chat. In some instances, Le Chat didn't even know what it was supposed to do. There's a good chance Le Chat can measure up to ChatGPT in some areas, but coding skills don't seem to be one of them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Le Chat vs. ChatGPT: Common Sense and Logical Reasoning
 
  An interesting twist with AI chatbots is their ability to solve complex tasks with ease but fail at simple ones that require basic common sense to complete. Many chatbots, both established ones like ChatGPT and new entrants like Le Chat, struggle when it comes to solving tasks requiring human-style common sense and logical reasoning. So, how do Le Chat and ChatGPT compare on this front?
@@ -142,7 +142,7 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 ![Le Chat Mistral logical reasoning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-logical-reasoning.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Both chatbots performed comparably on this test.
@@ -180,21 +180,22 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-funny-frenzy-top-10-tweets/"><u>[New] In 2024, Funny Frenzy Top 10 Tweets</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-recording-showdown-the-battle-for-the-best-screen-grabber/"><u>[New] In 2024, Recording Showdown The Battle for the Best Screen Grabber</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unlocking-retro-titles-best-pc-emulators-for-ps1-games/"><u>[Updated] In 2024, Unlocking Retro Titles Best PC Emulators for PS1 Games</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-realme-11-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-in-education-why-teachers-should-embrace-change-8-points/"><u>AI in Education: Why Teachers Should Embrace Change (8 Points)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-strategies-for-streamlined-3d-printing-processes/"><u>ChatGPT Strategies for Streamlined 3D Printing Processes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effortless-command-line-access-within-directories-expert-methods-uncovered/"><u>Effortless Command Line Access Within Directories - Expert Methods Uncovered</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experts-pick-the-ultimate-collection-of-iphone-16-and-iphone-16-pro-cases-featuring-maximum-durability-and-style-zdnet/"><u>Experts' Pick: The Ultimate Collection of iPhone 16 and iPhone 16 Pro Cases Featuring Maximum Durability & Style | ZDNET</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-samsung-galaxy-m34-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Samsung Galaxy M34 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intuitive-talking-to-ai-try-this-chrome-tool/"><u>Intuitive Talking to AI? Try This Chrome Tool</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/limited-offer-on-presidents-day-save-big-and-score-200-off-the-latest-macbook-pro-with-apple-silicon-m3-pro-chip-exclusive-at-zdnet-shop/"><u>Limited Offer on Presidents' Day: Save Big & Score $200 Off the Latest MacBook Pro with Apple Silicon - M3 Pro Chip Exclusive at ZDNet Shop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-graphic-glitches-a-solution-for-windows-11-and-10-images-issues/"><u>Resolving Graphic Glitches: A Solution for Windows 11 and 10 Images Issues</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-key-to-immersive-roleplay-zooming-into-roblox-worlds-for-2024/"><u>The Key to Immersive Roleplay Zooming Into Roblox Worlds for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlocking-the-secrets-behind-alan-wake-2s-postponed-debut/"><u>Unlocking The Secrets Behind Alan Wake 2'S Postponed Debut</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-the-solution-overcome-the-risky-battery-flaw-in-your-airtags-and-compatible-gadgets-expert-tips/"><u>Unlocking the Solution: Overcome the Risky Battery Flaw in Your AirTags and Compatible Gadgets - Expert Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/voice-enabled-chatgpt-for-your-android-device/"><u>Voice-Enabled ChatGPT for Your Android Device</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-effortless-transition-zip-to-subrip-srt-formatting/"><u>[New] 2024 Approved Effortless Transition ZIP to SubRip (SRT) Formatting</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-reversing-macos-sierra-update-to-os-x-el-capitan/"><u>[New] 2024 Approved Reversing MacOS Sierra Update to OS X El Capitan</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-plot-puns-on-pop-culture/"><u>2024 Approved Plot Puns on Pop Culture</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/combining-gpts-ingenuity-with-verse-formation/"><u>Combining GPT's Ingenuity with Verse Formation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversational-clarity-deciding-on-snapchat-ai-vs-gpt/"><u>Conversational Clarity: Deciding on Snapchat AI vs GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crypto-red-flags-how-to-detect-phony-bingcrypt-schemes/"><u>Crypto Red Flags: How to Detect Phony BingCrypt Schemes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-logitech-m510-experience-with-these-driver-update-tips/"><u>Enhance Your Logitech M510 Experience with These Driver Update Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-linguistic-dominance-the-gpt-bert-contest/"><u>Exploring Linguistic Dominance: The GPT-BERT Contest</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-edge-40-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Edge 40 Pro?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-path-to-success-starts-on-screen-10-must-see-films/"><u>In 2024, The Path to Success Starts on Screen 10 Must-See Films</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-through-python-and-gpt-3-collaboration/"><u>Innovating Through Python & GPT-3 Collaboration</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/iphone-gaming-pros-and-cons-finding-the-best-device-for-your-needs/"><u>IPhone Gaming Pros and Cons: Finding the Best Device for Your Needs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/leading-streaming-applications-for-enjoying-your-favorite-shows/"><u>Leading Streaming Applications for Enjoying Your Favorite Shows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-your-chatgpt-talks-accessible-to-all/"><u>Making Your ChatGPT Talks Accessible to All</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-mobile-mayhem-the-best-glitch-art-video-editing-apps/"><u>New 2024 Approved Mobile Mayhem The Best Glitch Art Video Editing Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-openai-transition-from-basic-to-advanced-ai-gpt-14/"><u>The OpenAI Transition: From Basic to Advanced AI (GPT-1–4)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-priority-amendments-for-a-user-centric-gpt-plugin-marketplace/"><u>Top Priority Amendments for a User-Centric GPT Plugin Marketplace</u></a></li>
 </ul></div>
 

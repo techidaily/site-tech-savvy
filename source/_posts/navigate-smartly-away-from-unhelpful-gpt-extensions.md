@@ -1,7 +1,7 @@
 ---
 title: Navigate Smartly Away From Unhelpful GPT Extensions
-date: 2025-01-10T17:01:38.691Z
-updated: 2025-01-12T21:19:03.729Z
+date: 2025-01-13T17:02:38.711Z
+updated: 2025-01-18T17:02:45.042Z
 tags:
   - chatgpt
   - open-ai
@@ -30,9 +30,17 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. I Am Rich
 
 ![The I Am Rich plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-i-am-rich-plugin-on-the-chatgpt-plugin-store.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The "I Am Rich" plugin is one of the most confusing plugins on the ChatGPT platform. If you're ever curious about what it does and go poking around—you're probably already wasting your time because the plugin does absolutely nothing. And this is not an exaggeration.
 
@@ -42,21 +50,21 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
  The app was swiftly taken off the Apple Store after several bad reviews. Was this plugin developed by the same person? We are not sure. But it sure has the same function—absolutely nothing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Aaron Web Browser
 
 ![Aaron Web Browser on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aaron-web-browser-on-the-chatgpt-plugin-store.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  “Built for scraping data from multiple website URLs.” This is the first sentence in the description for the plugin. One would think that the description accurately captures the plugin's capabilities, but upon closer inspection, it’s not entirely true. We tried to scrape data from 20 different URLs and only one went through.
 
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to [scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/)? Maybe ChatGPT plugins are not the right tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. AppyPie App Builder
 
@@ -82,17 +90,9 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
  It seems it was just applying a few prompt tricks and returning a not-so-enhanced copy of what ChatGPT would provide. There's really no sense of AI agents at work. It doesn't offer anything particularly different from what ChatGPT would do.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. A Movie Please (FilmFindr)
 
 ![FilmFindr plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/filmfindr-plugin-on-the-chatgpt-plugin-store.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The "A Movie Please" plugin is a movie recommendation tool to help ChatGPT users decide what to watch next. Although the plugin is not a dud (it actually makes movie recommendations), you're better off using ChatGPT without the plugin.
 
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
  For quality movie suggestions, you're better off prompting the base ChatGPT model directly [to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/). By going that route, you'll get far superior results compared to relying on the "A Movie Please" plugin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. ABC Website Maker
@@ -139,24 +139,22 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/avigating-youtube-comment-settings-tips-and-tricks-for-2024/"><u>[New] Navigating YouTube Comment Settings Tips and Tricks for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-pushing-boundaries-the-complete-breakdown-of-vce-22/"><u>[Updated] 2024 Approved Pushing Boundaries The Complete Breakdown of VCE 2.2</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-vigor-in-voice-assessment-version-8-for-2024/"><u>[Updated] Vigor in Voice Assessment Version 8 for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/access-immediately-explore-8-specially-designed-ais/"><u>Access Immediately: Explore 8 Specially Designed AIs</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-m34-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy M34 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://discover-best.techidaily.com/breaking-barriers-in-reading-texthelp-and-abbyys-solutions-for-dyslexia/"><u>Breaking Barriers in Reading: Texthelp™ and ABBYY's Solutions for Dyslexia</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-unveiled-the-power-of-10-customizations-for-better-dialogue/"><u>ChatGPT Unveiled: The Power of 10 Customizations for Better Dialogue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-ipad-pro-comparing-11-inch-and-129-inch-models-with-latest-m1m2-chips-expert-insights-from-zdnet/"><u>Choosing the Right iPad Pro: Comparing 11-Inch & 12.9-Inch Models with Latest M1/M2 Chips - Expert Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/e-galore-curating-the-funniest-10-short-form-web-series-ideas-for-2024/"><u>Giggle Galore Curating the Funniest 10 Short-Form Web Series Ideas for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unleash-potential-stardews-premium-mod-lineup-7-14/"><u>In 2024, Unleash Potential Stardew's Premium Mod Lineup #7-14</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/installing-latest-wireless-network-adapter-drivers-for-windows-10-and-11/"><u>Installing Latest Wireless Network Adapter Drivers for Windows 10 & 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-spaces-for-ai-inspired-artistry/"><u>Leading Spaces for AI-Inspired Artistry</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-bring-your-videos-to-life-best-live-photo-converter-apps-and-how-tos/"><u>New Bring Your Videos to Life Best Live Photo Converter Apps and How-Tos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premier-vr-movie-releases-worth-watching/"><u>Premier VR Movie Releases Worth Watching</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dark-side-of-advanced-generative-ai-technologies/"><u>The Dark Side of Advanced Generative AI Technologies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-role-of-cutting-edge-ai-technology-from-apple-in-shaping-the-future-of-the-iphone-16-insights/"><u>The Role of Cutting-Edge AI Technology From Apple in Shaping the Future of the iPhone 16 - Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-using-two-monitors-with-your-new-m3-macbook-pro-tips-and-tricks-on-zdnet/"><u>The Ultimate Guide to Using Two Monitors with Your New M3 MacBook Pro | Tips and Tricks on ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-3-essential-accessories-to-maintain-the-pristine-look-of-your-iphone-13-tips-from-zdnet/"><u>Top 3 Essential Accessories to Maintain the Pristine Look of Your iPhone 13 - Tips From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-choice-tablet-assessment-why-apples-new-ipad-with-m2-chip-is-your-ideal-purchase-insights/"><u>Top Choice Tablet Assessment: Why Apple's New iPad with M2 Chip Is Your Ideal Purchase - Insights</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-hand-tracking-deciphered-a-users-guide/"><u>[New] 2024 Approved Hand Tracking Deciphered A User's Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-detailed-exploration-samsungs-photo-editor-capabilities-2023/"><u>[New] A Detailed Exploration Samsung's Photo Editor Capabilities, 2023</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-skys-the-limit-with-dji-spark-an-in-depth-miniature-drone-study/"><u>[New] Sky's the Limit with DJI Spark An In-Depth Miniature Drone Study</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-framework-developing-transformative-lifestyle-broadcasts/"><u>[Updated] Framework Developing Transformative Lifestyle Broadcasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44cm6zw35pmc6zat44ot44oh44kq44gu44k544oi44oq44o844of44oz44kw5pya6ygp5yyw77ya5yid5a2m6icf44ov44os44oz44oj44oq44o844ks44kk44oj44cn/"><u>「長時間ビデオのストリーミング最適化：初学者フレンドリーガイド」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avchd/"><u>「AVCHDフォーマットをうまく扱うためのプレミアプロ対策：解決法とは？」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-leading-mp4-encoders-reviewed-mastering-the-art-of-high-quality-mp4-video-encoding/"><u>2024'S Leading MP4 Encoders Reviewed: Mastering the Art of High-Quality MP4 Video Encoding</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6ygo5y6744gr5lplusd5a2y44gv44km44gf44ot44oh44kq44gu6kaw6ig05lin6io944gu55cg55sx44go6kej5rg65rov/"><u>過去に保存されたビデオの視聴不能の理由と解決法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/audio-consistency-mastery-the-ultimate-guide-to-achieving-uniform-volume-across-tracks/"><u>Audio Consistency Mastery: The Ultimate Guide to Achieving Uniform Volume Across Tracks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/capturing-epic-moments-three-techniques-for-recording-wild-hearts-gaming-sessions-on-your-pc/"><u>Capturing Epic Moments: Three Techniques for Recording Wild Hearts Gaming Sessions on Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dvdipad2024/"><u>DVD素晴らしい世界をiPadに移して！2024年のチャート・アップデート</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-iphone-15-plus-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from iPhone 15 Plus</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y78-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo Y78 5G Phone without Google Account?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/steer-clear-of-virtual-reality-sickness/"><u>Steer Clear of Virtual Reality Sickness</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/sustaining-system-stability-returning-to-el-capitan-for-2024/"><u>Sustaining System Stability Returning to El Capitan for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030542351-webm/"><u>WebMビデオファイルをスムーズに再生する方法 - 問題解決ガイド</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding AI: OpenAI Uncovered"
-date: 2025-01-05T19:53:52.333Z
-updated: 2025-01-12T23:36:50.512Z
+date: 2025-01-13T17:16:40.240Z
+updated: 2025-01-18T17:20:01.662Z
 tags:
   - chatgpt
   - open-ai
@@ -50,17 +50,9 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 [Crunchbase reports](https://www.crunchbase.com/organization/openai/company%5Ffinancials) that OpenAI LP has amassed over $11.3B in funding over five rounds from its founders and contributors in addition to a $1 billion investment from Microsoft in 2019\. So it's no surprise that this research company has covered huge milestones.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. ChatGPT
 
 ![ChatGPT Plus Open On a Computer Monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/andrew-neel-elegvhbtbb4-unsplash.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [ChatGPT (Chat Generative Pre-trained Transformer)](http://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) was launched on November 30, 2022\. It can be used for text generation and translation, content creation, and even casual communication.
 
@@ -70,13 +62,13 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
  The latest generation, ChatGPT-4, has 45 billion parameters, which means it has been trained in a more extensive dataset of text and code than its predecessor, making it more accurate, creative, and fluent.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. DALL-E
 
 ![DALL-E Playground Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dall-e-playground-homepage.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [DALL-E is a generative AI model](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/) capable of generating images from text descriptions. It was created in January 2021 and has since undergone several improvements.
 
@@ -88,11 +80,19 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 ![codex js sandbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/codex-js-sandbox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Released in 2021, Codex was based on the language model GPT-3 family—an AI model that can generate code. It could create code that is as good, or even better, than those written by human programmers.
 
  Codex was able to generate code in various programming languages, including Python and Java. It could also translate over 200 languages, text, and code, and even translate between different programming languages.
 
  Though Codex was a nifty service, it was shut down in March 2023, with OpenAI recommending that users opt for ChatGPT instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Challenges and Controversies Faced by OpenAI
 
@@ -112,20 +112,20 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
  However, as AI advances, so do its applications and chances of being used for malicious purposes. This has led OpenAI to try to find a balance between hiding and sharing research, despite the former going against their mission.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Ethical Issues
 
  There have been cases where [OpenAI’s models have shown biased content](https://www.makeuseof.com/does-chatgpt-lie/) due to the type of training data they were built with. Addressing this problem is complicated as it will need a lot of fine-tuning and comprehensive data selection. And even at that, it would be almost impossible to eradicate biased results.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Competition
 
  OpenAI has numerous for-profit competitors, such as DeepMind (a subsidiary of Alphabet Inc.) and NVIDIA Corporation, which is also developing AI solutions. For OpenAI to remain at the forefront, there must be continued innovations and collaborations. This has led them to move from their non-profit declaration to a hybrid that welcomes funding.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does the Future Look Like for OpenAI?
@@ -151,24 +151,18 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-audio-to-video-makers-online/"><u>[New] In 2024, Audio to Video Makers Online</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-complete-guide-to-enthralling-boomers-on-snapchat-for-2024/"><u>[New] The Complete Guide to Enthralling Boomers on Snapchat for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-small-companies-guide-to-the-most-secure-video-tools/"><u>[Updated] In 2024, Small Companies' Guide to the Most Secure Video Tools</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-pros-and-cons-ios-screen-recorder-apps/"><u>[Updated] Pros and Cons IOS Screen Recorder Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-mastery-through-prompt-engineering-classes-online/"><u>AI Mastery Through Prompt Engineering Classes Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apex-6-goliaths-large-scale-nlp-masters-revealed/"><u>Apex 6 Goliaths: Large-Scale NLP Masters Revealed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-hype-vs-reality-top-5-misconceptions-about-replacing-human-writers/"><u>ChatGPT Hype vs Reality: Top 5 Misconceptions About Replacing Human Writers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expertise-for-selective-zooming-in-online-conferencing-google-meet/"><u>Expertise for Selective Zooming in Online Conferencing (Google Meet)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/instant-setup-guide-how-to-run-llama-2-on-your-computer/"><u>Instant Setup Guide: How to Run Llama 2 on Your Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-chatgpts-strengths-in-7-health-factors/"><u>Leveraging AI: ChatGPT's Strengths in 7 Health Factors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/maximizing-creativity-find-your-next-project-on-these-top-12-photo-websites/"><u>Maximizing Creativity - Find Your Next Project on These Top 12 Photo Websites</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/missteps-in-ai-conversations-a-critical-look/"><u>Missteps in AI Conversations - A Critical Look</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/rapid-diy-filming-ideas-for-aspiring-directors/"><u>Rapid DIY Filming Ideas for Aspiring Directors</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/scaling-youtube-influence-a-comprerancial-guide-to-creator-studios-potential/"><u>Scaling YouTube Influence A Comprerancial Guide to Creator Studio's Potential</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stabilizing-ai-imaginations-with-six-tailored-instructions/"><u>Stabilizing AI Imaginations with Six Tailored Instructions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-runners-digital-dream-top-virtual-reality-walkers/"><u>The Runner's Digital Dream Top Virtual Reality Walkers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-workforce-dynamics-with-ai-innovations/"><u>Transforming Workforce Dynamics with AI Innovations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-ais-creative-world-prompts-and-more/"><u>Unveiling AI's Creative World: Prompts and More</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-innovative-ways-to-control-your-iphones-picture-angles-for-2024/"><u>[New] Innovative Ways to Control Your iPhone's Picture Angles for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1716070283497-updated-in-2024-easy-gaming-memories-start-recording-now/"><u>[Updated] In 2024, Easy Gaming Memories Start Recording Now!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-who-takes-the-crown-of-video-broadcast-twitch-or-youtube/"><u>2024 Approved Who Takes the Crown of Video Broadcast? Twitch or YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-play-arquivos-avi-no-windows-10-download-livre-do-reprodutor-mais-eficiente/"><u>Como Play Arquivos AVI No Windows 10? Download Livre Do Reprodutor Mais Eficiente!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-gratuite-de-fichiers-wma-au-format-wav-avec-movavi-guide-rapide-et-facile/"><u>Conversion Gratuite De Fichiers WMA Au Format WAV Avec Movavi – Guide Rapide Et Facile</u></a></li>
+<li><a href="https://blog-min.techidaily.com/expert-techniques-for-transforming-mpeg-transport-streams-into-premium-quality-mp4-videos-on-macos-devices/"><u>Expert Techniques for Transforming MPEG Transport Streams Into Premium Quality MP4 Videos on macOS Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/freenfb-harmonies-instantly-for-2024/"><u>FreenFB Harmonies, Instantly for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-overlays-tips-and-techniques-for-enhanced-design/"><u>Mastering the Art of Overlays: Tips and Techniques for Enhanced Design</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-6-benefits-of-owning-an-apple-watch-insights-from-a-leading-tech-guru-on-wearable-devices/"><u>Top 6 Benefits of Owning an Apple Watch: Insights From a Leading Tech Guru on Wearable Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-convertisseur-video-open-source-pour-windows-les-meilleures-options-gratuites/"><u>Top Convertisseur Vidéo Open Source Pour Windows : Les Meilleures Options Gratuites</u></a></li>
+<li><a href="https://discover-great.techidaily.com/troubleshooting-guide-how-to-fix-non-syncing-finder-problems-on-macos-catalinamonterey/"><u>Troubleshooting Guide: How to Fix Non-Syncing Finder Problems on macOS Catalina/Monterey</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-the-10-most-excellent-mobile-devices-for-high-quality-video-shooting/"><u>Ultimate Guide: The 10 Most Excellent Mobile Devices for High-Quality Video Shooting</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover Exciting Updates: Dive Into the Best of Apple's iOS 18 Public Beta Highlights"
-date: 2025-01-06T20:51:20.308Z
-updated: 2025-01-13T00:08:49.175Z
+date: 2025-01-14T17:07:50.412Z
+updated: 2025-01-18T17:27:35.622Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. AI all around
@@ -55,7 +55,7 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -65,7 +65,7 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -77,7 +77,7 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -87,7 +87,7 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -128,21 +128,20 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-essential-products-from-tiktok-to-add-to-your-amazon-cart/"><u>[Updated] 2024 Approved Essential Products From TikTok to Add To Your Amazon Cart</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-detecting-instagram-disconnections-fast/"><u>[Updated] In 2024, Detecting Instagram Disconnections Fast</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-exploring-m1-capabilities-apples-laptop-dilemma/"><u>[Updated] In 2024, Exploring M1 Capabilities Apple's Laptop Dilemma</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-digital-image-combination/"><u>[Updated] Mastering the Art of Digital Image Combination</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-retro-reel-upgrade-converting-photographs-to-videos/"><u>2024 Approved Retro Reel Upgrade Converting Photographs to Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/canva-and-gpt-tools-for-batch-design-excellence/"><u>Canva & GPT: Tools for Batch Design Excellence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciding-factors-in-choosing-the-right-ai-helper/"><u>Deciding Factors in Choosing the Right AI Helper</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-savings-on-iphone-14plus-exceptional-all-day-battery-and-more-why-everyone-will-adore-this-smartphone-zdnet/"><u>Discover the Ultimate Savings on iPhone 14+ – Exceptional All-Day Battery & More! Why Everyone Will Adore This Smartphone | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dont-miss-out-on-the-new-apple-watch-series-10-start-preorder-today-and-unlock-discount-strategies-with-expert-guidance/"><u>Don't Miss Out on the New Apple Watch Series #10 – Start Preorder Today and Unlock Discount Strategies with Expert Guidance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-capability-as-a-health-information-beacon/"><u>GPT’s Capability as a Health Information Beacon</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/instant-shareability-from-tiktok-to-facebook-networks/"><u>Instant Shareability From TikTok to Facebook Networks</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-top-tier-ae-templates-for-poetic-visual-storytelling/"><u>New 2024 Approved Top-Tier AE Templates for Poetic Visual Storytelling</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/cting-integrity-while-boosting-your-youtube-followers-count-for-2024/"><u>Protecting Integrity While Boosting Your YouTube Followers Count for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-and-efficient-guide-downloading-and-installing-the-epson-et-4550-driver-on-your-windows-pc/"><u>Quick and Efficient Guide: Downloading and Installing the Epson ET-4550 Driver on Your Windows PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-connectivity-discover-the-perks-of-apple-enabling-iphone-nfc-for-external-apps-cnet-news/"><u>Revolutionizing Connectivity: Discover the Perks of Apple Enabling iPhone NFC for External Apps | CNET News</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformative-sheet-experience-via-ai-tech-chatgpt/"><u>Transformative Sheet Experience via AI Tech (ChatGPT)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-bridging-beats-unraveling-the-secrets-of-crossfade/"><u>[New] Bridging Beats Unraveling the Secrets of Crossfade</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-symphony-silhouette-audio-studio-mac-for-2024/"><u>[New] Symphony Silhouette Audio Studio Mac for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-mov-in-the-cloud-top-six-techniques-for-windows-11-users/"><u>[Updated] In 2024, .MOV in the Cloud - Top Six Techniques for Windows 11 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027985262-pciphoneandroid/"><u>「動画幅の設定変更：PC、iPhone、Androidマニュアル」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029514587-google-meet/"><u>「密かに録音：Google Meetの裏技はこれからどう進化しますか？」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028748565-5/"><u>「無限再生動画を実現するための5手順解説と方法」</u></a></li>
+<li><a href="https://win-guides.techidaily.com/benutzerfreundliche-anleitung-zum-automatischen-datenaustausch-auf-windows-systemen/"><u>Benutzerfreundliche Anleitung Zum Automatischen Datenaustausch Auf Windows-Systemen</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capture-clarity-enjoy-convenience-with-our-top-5-recorder-recommendations-for-2024/"><u>Capture Clarity, Enjoy Convenience with Our Top 5 Recorder Recommendations for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hyperx-headset-enhancements-modernizing-device-drivers/"><u>HyperX Headset Enhancements: Modernizing Device Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030262041-mp3/"><u>MP3ファイルのサンプリング周波数変更ガイド</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/pro-audio-editing-essentials-top-8-software-for-industry-experts-for-2024/"><u>Pro Audio Editing Essentials Top 8 Software for Industry Experts for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/troubleshooting-scan-issues-what-to-do-when-the-scanner-ignores-your-documents-tips-by-yl-software/"><u>Troubleshooting Scan Issues: What to Do When the Scanner Ignores Your Documents - Tips by YL Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028031263-windows/"><u>Windowsムービーメーカーを使用して簡単に動画編集・カット</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028213482-youtube-pc/"><u>YouTube ミュージックを動画編集で活用する手びき術 - PC/スマートフォン向けガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029367775-movavi/"><u>フリーツアルゴリズムとオンラインスクリプトで簡単にMOV画像をAVI形式に切り替えます</u></a></li>
 </ul></div>
 

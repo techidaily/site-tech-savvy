@@ -1,7 +1,7 @@
 ---
 title: Tech-Driven Survival Strategies From ChatGPT
-date: 2025-01-08T19:00:07.584Z
-updated: 2025-01-13T01:38:33.398Z
+date: 2025-01-13T16:30:23.521Z
+updated: 2025-01-18T16:48:41.130Z
 tags:
   - chatgpt
   - open-ai
@@ -30,13 +30,13 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Rely on ChatGPT in a Survival Situation?
 
 ![Man Carrying Camping Backpack Standing In-front of Tree](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-carrying-camping-backpack-standing-in-front-of-tree.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The rise of AI chatbots has taken the world by storm, and [generative AI can create fantastic art](https://www.makeuseof.com/how-create-ai-art-at-home/). You can also [use ChatGPT as a tool for creative writing](https://www.makeuseof.com/how-to-use-chatgpt-for-creative-writing/) or [employ AI to help detect faces in photographs](https://www.makeuseof.com/ai-cameras-object-detection-how-work/).
 
@@ -44,9 +44,17 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 
  So it's tempting while planning a wilderness vacation to eschew a trained guide and rely on ChatGPT to keep you safe in the great outdoors. But the question is, should you?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fight Off a Bear
 
 ![a brown bear looking mean](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-brown-bear-looking-mean.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Bears are found on every continent except Africa, and if you're backpacking through the wild and untamed spaces of the world, it's not inconceivable that you might encounter one. Unfortunately, while Wikipedia's [Bear Danger](https://en.wikipedia.org/wiki/Bear%5Fdanger) page contains some of the information we needed, there's little concrete advice. In a dangerous situation, we wouldn't have time to scan through the 1,042-word article.
 
@@ -81,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 ![an igloo style snow shelter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/an-igloo-style-snow-shelter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The weather's taken a turn for the worse, and having escaped the bears and enjoyed raw salmon for supper, you find yourself cold and afraid as high winds and snow whip around you. So you turn to your friendly chatbot for help.
@@ -100,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 
 ![Young Wolves Biting Each Other on Snow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/young-wolves-biting-each-other-on-snow-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Evading predators should always be high on your list while wilderness exploring, and ChatGPT's advice is similar to that offered when asked how to fight a bear.
 
  Broadly speaking, you should stay calm, not run, make yourself look big, and maintain eye contact. If the wolves begin to attack, ChatGPT advises using "any available objects as weapons to protect yourself. Focus on targeting their sensitive areas such as the eyes, nose, and throat."
@@ -107,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 **Rating: 4/10**
 
  We found the advice overly generic and showed a lack of understanding of how wolf packs hunt. ChatGPT also failed to mention that wolves are notoriously poor tree climbers and that by clambering up the nearest spruce, you can buy yourself some extra time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## There's a Dead Sheep in a Stream and No Other Water Source
 
@@ -125,10 +133,6 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 **Rating: 3/10**
 
  Telling us to find another water source when we've explicitly stated there isn't one is not helpful. And while boiling water or using purification chemicals will kill bacteria, portable water filters won't. Additionally, ChatGPT failed to give the most obvious answer: move upstream of the dead sheep.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Help! I've Now Fallen Down an Abandoned Mineshaft in the Dark, and Can't Walk or Call for Help
 
@@ -161,10 +165,6 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 
  The best advice is to wait for rescue. It's a known fact that certain Collie breeds are attracted to mineshafts and have been known to bring help from settlements in the area.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You Can't Depend on ChatGPT in an Emergency
 
  ChatGPT's advice was middling at best. Most of the answers it gave were common sense, and in several cases, it completely ignored parts of the prompt.
@@ -192,17 +192,21 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-selfie-verification-everything-you-need-to-know/"><u>[New] In 2024, Instagram Selfie Verification - Everything You Need to Know</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nobstructed-movie-magic-erasing-youtube-borders-for-2024/"><u>[New] Unobstructed Movie Magic Erasing YouTube Borders for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fine-tuning-virtual-presence-in-ms-teams/"><u>[Updated] Fine-Tuning Virtual Presence in MS Teams</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1-tailoring-your-microsoft-excel-a-step-by-step-guide-to-modifying-the-status-bar/"><u>1. Tailoring Your Microsoft Excel: A Step-by-Step Guide to Modifying the Status Bar</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/fixing-common-problems-with-youtube-app-on-android-phones-and-tablets/"><u>Fixing Common Problems with YouTube App on Android Phones & Tablets</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-msi-audio-driver-downloads-for-windows-operating-system/"><u>Free MSI Audio Driver Downloads for Windows Operating System</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722977226440-seamless-mediatek-vcom-driver-integration-download-options-inside/"><u>Seamless MediaTek VCOM Driver Integration: Download Options Inside</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stop-windows-update-installing-drivers-in-windows-11-solved/"><u>Stop Windows Update Installing Drivers in Windows 11 [Solved]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tech-hacks-adding-wireless-bluetooth-functionality-to-your-personal-computer/"><u>Tech Hacks: Adding Wireless Bluetooth Functionality to Your Personal Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-definitive-overview-of-superfetch-all-the-essentials-you-should-know/"><u>The Definitive Overview of SuperFetch: All the Essentials You Should Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-top-10-most-popular-torrent-sites-for-gaming-downloads/"><u>The Top 10 Most Popular Torrent Sites for Gaming Downloads</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-walkthrough-to-offline-minecraft-gaming-on-windows-11-systems/"><u>The Ultimate Walkthrough to Offline Minecraft Gaming on Windows 11 Systems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-expert-breakdown-vsdc-review-and-alternative-comparisons/"><u>[Updated] 2024 Approved Expert Breakdown VSDC Review & Alternative Comparisons</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-4k-camera-guide-low-cost-options-(1000/"><u>2024 Approved 4K Camera Guide Low-Cost Options <$1,000</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-rogue-realms-decades-best-representation/"><u>2024 Approved Rogue Realms Decade’s Best Representation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-practices-for-avoiding-writing-gaffes-with-chatgpt/"><u>Best Practices for Avoiding Writing Gaffes with ChatGPT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effective-techniques-for-setting-up-persistent-alarms-and-alerts-on-your-android-device/"><u>Effective Techniques for Setting Up Persistent Alarms and Alerts on Your Android Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embracing-new-era-gpt-3-web-and-plugin-updates/"><u>Embracing New Era: GPT-3 Web & Plugin Updates</u></a></li>
+<li><a href="https://facebook.techidaily.com/evolve-your-online-presence-move-beyond-fb/"><u>Evolve Your Online Presence, Move Beyond FB</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/examining-the-tech-in-djis-phantom-3-prototype/"><u>Examining the Tech in DJI's Phantom 3 Prototype</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-overcoming-connectivity-and-functionality-issues-in-tiktok/"><u>Expert Advice: Overcoming Connectivity and Functionality Issues in TikTok.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/forefront-vs-chatgpt-in-depth-insights-into-ai-competitiveness/"><u>Forefront vs ChatGPT: In-Depth Insights Into AI Competitiveness</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-robust-is-chatgpts-security-framework/"><u>How Robust Is ChatGPT's Security Framework?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-progress-deciphering-the-workings-of-ai-transfer-learning/"><u>Pioneering Progress: Deciphering the Workings of AI Transfer Learning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prevent-ai-data-collection-onsite/"><u>Prevent AI Data Collection Onsite</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-to-preserve-chatgpt-discussions/"><u>Strategies to Preserve ChatGPT Discussions</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-the-difference-antivirus-protection-vs-internet-security-solutions/"><u>Understanding the Difference: Antivirus Protection Vs. Internet Security Solutions</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/yl-software-showcases-premium-hd-background-graphics-featuring-singer-holly-valance/"><u>YL Software Showcases: Premium HD Background Graphics Featuring Singer Holly Valance</u></a></li>
 </ul></div>
 

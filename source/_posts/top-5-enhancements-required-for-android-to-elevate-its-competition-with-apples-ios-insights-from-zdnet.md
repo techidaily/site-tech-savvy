@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Enhancements Required for Android to Elevate Its Competition with Apple's iOS: Insights From ZDNet"
-date: 2025-01-10T19:59:43.803Z
-updated: 2025-01-12T16:20:24.374Z
+date: 2025-01-17T16:58:43.499Z
+updated: 2025-01-18T16:38:27.450Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,22 +126,24 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-navigating-to-the-leading-free-accurate-srt-translators-online-for-2024/"><u>[New] Navigating to the Leading Free, Accurate SRT Translators Online for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/blitz-photo-screening-for-windows-users/"><u>Blitz Photo Screening for Windows Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-ps4-controller-colors-interpreting-blue-white-red-and-orange-blinks/"><u>Decoding PS4 Controller Colors: Interpreting Blue, White, Red, and Orange Blinks</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enhance-your-engagement-on-youtube-with-text-emphasis-techniques-strikethrough-bold-and-italic-methods/"><u>Enhance Your Engagement on YouTube with Text Emphasis Techniques: Strikethrough, Bold, and Italic Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-restart-your-ps4-after-safe-mode-activation-a-comprehensive-guide/"><u>How to Restart Your PS4 After Safe Mode Activation – A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-take-screenshots-on-lenovo-laptop/"><u>How to Take Screenshots on Lenovo Laptop</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x7b-phone-without-password-by-drfone-android/"><u>How To Unlock Honor X7b Phone Without Password?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/hp-drivers-for-windows-10-download-easily/"><u>HP Drivers for Windows 10. Download Easily</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-lava-agni-2-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Lava Agni 2 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/latest-features-and-enhancements-in-windows-10-creators-update-insider-preview-version-1503-what-to-expect/"><u>Latest Features and Enhancements in Windows 10 Creator’s Update (Insider Preview Version 1503) - What to Expect</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-the-process-resetting-your-windows-7-machine-fully-formatting-without-external-support/"><u>Master the Process: Resetting Your Windows 7 Machine Fully Formatting Without External Support</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-crash-log-analysis-for-troubleshooting-windows-issues/"><u>Mastering Crash Log Analysis for Troubleshooting Windows Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximize-your-minecraft-experience-on-advanced-systems-pro-tips-to-resolve-low-fps-issues-new-guide/"><u>Maximize Your Minecraft Experience on Advanced Systems: Pro Tips to Resolve Low FPS Issues (New Guide)</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-excel-at-using-adobe-premiere-pro-software-for-splitting-videos-and-audio-learn-about-splitting-a-video-and-audio-using-dif/"><u>New 2024 Approved Do You Want to Excel at Using Adobe Premiere Pro Software for Splitting Videos and Audio? Learn About Splitting a Video and Audio Using Different Tools and Add a New Skill to Your Skillset with a Step-by-Step Guide in This Article</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-and-simple-methods-for-refreshing-graphics-drivers-on-a-windows-pc/"><u>Quick and Simple Methods for Refreshing Graphics Drivers on a Windows PC</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/quick-setup-for-hosting-online-seminars-on-pcmac/"><u>Quick Setup for Hosting Online Seminars on PC/Mac</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/1725289193202-winxvideo-ai/"><u>Winxvideo AI로 비디오 향상: 최고의 품질에 도전하세요!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-fine-tune-your-videos-mood-with-custom-sound-design/"><u>2024 Approved Fine-Tune Your Video's Mood with Custom Sound Design</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-samsung-galaxy-f15-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Samsung Galaxy F15 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-free-mac-video-conversion-tool-try-movavi-for-hassle-free-download-and-use/"><u>Best Free Mac Video Conversion Tool - Try Movavi for Hassle-Free Download and Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-gratuite-et-facile-de-fichiers-mp3-vers-format-webm-en-ligne-avec-movavi/"><u>Conversion Gratuite Et Facile De Fichiers MP3 Vers Format WebM en Ligne Avec Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-audio-file-switching-change-aiff-to-m4r-on-the-web-with-movevis-no-cost-tool/"><u>Effortless Audio File Switching: Change AIFF to M4R On the Web with MoveVi's No-Cost Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guia-paso-a-paso-como-desactivar-el-ruido-en-reuniones-de-zoom-con-movavi/"><u>Guía Paso a Paso: Cómo Desactivar El Ruido en Reuniones De Zoom Con Movavi</u></a></li>
+<li><a href="https://win-news.techidaily.com/guide-complet-pour-la-recuperation-gratuite-de-fichiers-image-apres-defaillance-du-disque/"><u>Guide Complet Pour La Récupération Gratuite De Fichiers Image Après Défaillance Du Disque</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-maximize-your-zoom-experience-with-top-three-strategies/"><u>In 2024, Maximize Your Zoom Experience with Top Three Strategies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-sony-xperia-10-v-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Sony Xperia 10 V Phones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/kostenlose-online-umwandlung-cr2-in-tiff-mit-movavi-hochwertige-ergebnisse-garantiert/"><u>Kostenlose Online-Umwandlung CR2 in TIFF Mit Movavi - Hochwertige Ergebnisse Garantiert</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/meta-quest-3-the-ultimate-vr-steal-at-512gb-on-prime-day-according-to-zdnet-octobers-unbeatable-deals/"><u>Meta Quest 3: The Ultimate VR Steal at 512GB on Prime Day, According to ZDNET | October's Unbeatable Deals!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-gratuitamente-cambia-archivos-mp3-a-linea-descubre-las-mejores-opciones-para-convertir-musica-en-streaming/"><u>Movavi Gratuitamente Cambia Archivos MP3 a Línea: Descubre Las Mejores Opciones Para Convertir Música en Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp3-file-creation-from-aifc-no-cost-easy-process-by-movavi/"><u>MP3 File Creation From AIFC - No Cost, Easy Process by Movavi</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/personalizing-your-firefox-browser-a-step-by-step-guide-by-yl-computing/"><u>Personalizing Your Firefox Browser: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/tips-for-faster-vimeo-video-viewing/"><u>Tips for Faster Vimeo Video Viewing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-12-viewer-apps-per-photo-su-windows-10-11-e-mac-os/"><u>Top 12 Viewer Apps per Photo Su Windows 10, 11 E Mac OS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-15-plus-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone 15 Plus Passcode without a Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m4b-and-m4v-movavi/"><u>오픈 소스를 바탕으로 M4B & M4V 포맷터를 구조화하는 게이트가 아닌 무료 해상학 - Movavi</u></a></li>
 </ul></div>
 

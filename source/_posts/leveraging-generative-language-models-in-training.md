@@ -1,7 +1,7 @@
 ---
 title: Leveraging Generative Language Models in Training
-date: 2024-09-02T20:34:41.139Z
-updated: 2024-09-03T20:34:41.139Z
+date: 2025-01-16T17:34:52.165Z
+updated: 2025-01-18T16:00:34.147Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
 ![Workout plan prompt for 25-year-old](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/workout-plan-prompt-for-25-year-old.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Simply inputting the client’s goals and current fitness levels while you ask ChatGPT to create the workout plan is a good starting point. After doing this, you can use other prompts and measures to create a more comprehensive workout plan.
 
 ## Include Preferences
@@ -53,23 +57,8 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
 ![Madi's workout plan by Chat GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/madi-s-workout-plan-by-chat-gpt.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Long prompts are great if you have many clients across a wide range of fitness specialties and goals. They save you time because you just have to gather all the client’s special information and feed them to ChatGPT in well-formed sentences. Not providing context is one of the [ChatGPT prompt mistakes](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) that long prompts can help you avoid.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## Review the Workout Plan
 
  Your expertise as a fitness trainer really comes into play here. You need to look at ChatGPT’s plan and make tweaks based on your knowledge of your client's needs, as you shouldn’t completely rely on AI for health or fitness advice.
@@ -81,11 +70,16 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
  So, because you must properly [plan rest days for optimum fitness](https://www.makeuseof.com/plan-workout-rest-days-optimum-fitness/), you may need to adjust the plan based on your client’s schedule. You could instruct ChatGPT to reschedule the rest days or reschedule them yourself while sticking to the AI’s exercise suggestions.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tweak the Plan to Make Room for Progress
 
  From time to time, you have to revisit the plan and make changes to accommodate your client’s growth. Based on what you have noticed from your client’s reports on how they feel during and after training or from watching them train, you can instruct ChatGPT to modify the workout plan it has created.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Increase Workout Intensity
 
@@ -93,10 +87,11 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
 ![Intensified workout plan by Chat GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/intensified-workout-plan-by-chat-gpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  For example, ChatGPT has modified the 25-year-old man’s home workout plan to make it more intense. From the image below, you’ll see that it has replaced normal push-ups with plyometric push-ups. And instead of planks, it has prescribed planks with shoulder taps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Add Other Forms of Training
 
@@ -104,14 +99,12 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
 ![Chat GPT including a gym day to a home workout plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chat-gpt-including-a-gym-day-to-a-home-workout-plan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Also, you can ask ChatGPT to add cardio, conditioning, CrossFit, or mobility exercises to a workout plan for an all-encompassing approach to fitness, depending on your client’s current needs and preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Vary the Exercises
 
  To avoid monotony and keep your client’s motivation high, you can also instruct ChatGPT to vary exercises. While this is similar to increasing exercise intensity, it is completely different because it only involves creating alternatives, not making the exercises more difficult.
@@ -128,14 +121,11 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
  One popular use case of ChatGPT in fitness is creating personalized workout plans. Fitness trainers with many clients can take advantage of this to simplify program planning and divert some of their time to other important facets of their job. Continue reading to learn how to use ChatGPT to ease your workflow as a fitness trainer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,4 +134,22 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/mplify-your-storytelling-seamlessly-insert-music-into-youtube-videos-for-2024/"><u>[New] Amplify Your Storytelling Seamlessly Insert Music Into YouTube Videos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-flawless-illustration-from-photographs-cross-platform-compatibility/"><u>[Updated] Flawless Illustration From Photographs Cross-Platform Compatibility</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-perfect-resolution-for-immersive-vr/"><u>[Updated] The Perfect Resolution for Immersive VR</u></a></li>
+<li><a href="https://driver-error.techidaily.com/affordable-high-definition-tv-viewing-in-depth-look-at-the-1byone-indoor-antenna-range/"><u>Affordable High-Definition TV Viewing: In-Depth Look at the 1ByOne Indoor Antenna Range</u></a></li>
+<li><a href="https://network-issues.techidaily.com/avoiding-common-video-editing-green-screen-failures-on-youtube/"><u>Avoiding Common Video Editing Green Screen Failures on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aws-ceo-reveals-exclusive-private-5g-offering-during-the-landmark-2021-reinvent-event-whats-next-for-cloud-connectivity/"><u>AWS CEO Reveals Exclusive Private 5G Offering During the Landmark 2021 Re:Invent Event – What's Next for Cloud Connectivity?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empower-your-vision-with-chatgpts-artificial-intelligence-skills/"><u>Empower Your Vision with ChatGPT's Artificial Intelligence Skills</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-job-search-with-smart-chatgpt-use/"><u>Enhancing Job Search with Smart ChatGPT Use</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-secrets-to-perfectly-screen-capturing-instagram-content/"><u>In 2024, Secrets to Perfectly Screen Capturing Instagram Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/my-podcast-journey-with-ai-texting/"><u>My Podcast Journey with AI Texting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preserving-the-past-long-term-storage-of-chatgpt-interactions/"><u>Preserving the Past: Long-Term Storage of ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scam-or-not-decoding-bingchats-crypto-claims/"><u>Scam or Not? Decoding BingChat's Crypto Claims</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/step-by-step-guide-installing-handbrake-libdvdcss-on-macos-and-windows-1011-with-illustrative-images/"><u>Step-by-Step Guide: Installing HandBrake Libdvdcss on macOS & Windows 10/11 with Illustrative Images</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/thwarting-artistic-mimicry-nightshades-guide-in-the-age-of-ai/"><u>Thwarting Artistic Mimicry: Nightshade's Guide in the Age of AI</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nd-mac-mp3-converter-unlock-your-music-from-youtube/"><u>Win & Mac MP3 Converter Unlock Your Music From YouTube</u></a></li>
+</ul></div>
 

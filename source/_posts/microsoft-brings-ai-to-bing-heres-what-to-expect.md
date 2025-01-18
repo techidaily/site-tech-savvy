@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Brings AI to Bing: Here's What to Expect"
-date: 2025-01-05T23:34:40.787Z
-updated: 2025-01-12T16:02:51.883Z
+date: 2025-01-12T17:32:53.463Z
+updated: 2025-01-18T17:07:19.786Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s OpenAI Got to Do With the New AI-Powered Bing?
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
  According to [Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) , Bing will be powered by the latest next-gen natural language AI model specifically trained for web searching. The AI model behind Microsoft Bing relies on improvements made on ChatGPT and GPT-3.5, making it much faster and more reliable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's New in Bing?
 
  Remember when searching was underwhelming and lousy using Bing? Thanks to the new AI web search companion, those days are far behind. Bing will now use AI at its core to deliver enhanced search results that are precisely relevant, allow you to generate content, and, best of all, integrate a brand new chat experience specialized to answering complex queries.
@@ -53,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 ![AI powered chat feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chat-new.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ` Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
@@ -65,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's New in Microsoft Edge?
@@ -76,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
 ![compose text with Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-ai-compose-new.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ` Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
  Building on the content-generation capabilities of ChatGPT,**Compose** within Microsoft Edge will let you generate content that customizes to the required tone, format, and length. You can compose emails to your coworkers, write about your new job in a post on LinkedIn, and even convert financial information into tables; the possibilities are limitless.
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
  You can use the**Chat** feature to answer complex queries, get detailed financial information on a company, figure out the best way to grill a steak, decide the best framework for your web application, and more.**Chat** relies on your prompts to comprehensively provide you with the best possible answers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Bing Reinvents Web Searching
@@ -105,22 +105,16 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-fb-video-frame-ratio-classifications/"><u>[New] 2024 Approved FB Video Frame Ratio Classifications</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-quick-path-to-virtual-self-building-metaverse-profiles-for-2024/"><u>[Updated] Quick Path to Virtual Self Building Metaverse Profiles for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/8-free-video-conferencing-software-for-windows-and-mac-for-2024/"><u>8 Free Video Conferencing Software for Windows and Mac for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-camon-20-pro-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Camon 20 Pro 5G</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-ai-advantage-with-bing-get-started-guide/"><u>Discover the AI Advantage with Bing: Get Started Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-best-8-ai-enhanced-chrome-plug-ins/"><u>Discover the Best 8 AI-Enhanced Chrome Plug-Ins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-beyond-openais-bounds-with-gpt/"><u>Exploring Beyond OpenAI's Bounds with GPT</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-did-the-mighty-great-wall-influence-key-events-and-transitions-throughout-chinese-history-an-analysis-by-yl-software-solutions/"><u>How Did the Mighty Great Wall Influence Key Events and Transitions Throughout Chinese History? – An Analysis by YL Software Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-response-engine-chatgpts-voice-emerges/"><u>Intelligent Response Engine: ChatGPT's Voice Emerges</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/keep-personal-details-clear-from-ai-screens/"><u>Keep Personal Details Clear From AI Screens</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/mobile-media-upload-share-videos-on-twitter-without-retweeting/"><u>Mobile Media Upload Share Videos on Twitter Without Retweeting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-future-without-iphone-13-and-15-pro-top-alternatives-to-consider/"><u>Navigating the Future without iPhone 13 and 15 Pro - Top Alternatives to Consider</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-practices-for-detaching-soundtracks-in-film-clips/"><u>New In 2024, Practices for Detaching Soundtracks in Film Clips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/next-level-splitting-tools-beyond-xsplit-for-2024/"><u>Next-Level Splitting Tools Beyond Xsplit for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safeguarding-against-unsaved-ai-dialogues/"><u>Safeguarding Against Unsaved AI Dialogues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strengthening-student-outcomes-with-ai-5-essential-uses-of-chatgpt-in-school/"><u>Strengthening Student Outcomes with AI: 5 Essential Uses of ChatGPT in School</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-final-cut-professionals-guide-to-top-10-plug-ins/"><u>The Final Cut Professional's Guide to Top 10 Plug-Ins</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-rhythm-rulers-elevating-instagram-posts-with-songs/"><u>[New] 2024 Approved Rhythm Rulers Elevating Instagram Posts with Songs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-channel-transformation-optimal-video-concepts-to-elevate-creativity/"><u>[Updated] Channel Transformation Optimal Video Concepts to Elevate Creativity</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-instagrams-square-videos-using-imovie/"><u>[Updated] In 2024, The Ultimate Guide to Instagram's Square Videos Using iMovie</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2023-streamline-post-tweeted-videos-to-whatsapp-for-2024/"><u>2023 Streamline Post Tweeted Videos to WhatsApp for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030304182-mp4/"><u>動画ファイルMP4におけるプロパティ設定と修正手順解説</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028362684-ts/"><u>高度なテクニックで「TSファイル」から明瞭に分離された音声解析: 第一・第二方法解説</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/assessment-the-second-generation-google-nest-hub-and-its-lack-of-a-camera-functionality/"><u>Assessment: The Second Generation Google Nest Hub and Its Lack of a Camera Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030387971-fc2/"><u>FC2ビデオダウンロード失敗原因とその時点での対策手順を学ぶ</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027605305-mkv/"><u>MKVファイルを携帯電話画面に表示する方法とトラブルシューティング</u></a></li>
+<li><a href="https://win-updates.techidaily.com/pros-and-cons-free-and-professional-editions-of-zune-video-converter-analysis/"><u>Pros and Cons: Free and Professional Editions of Zune Video Converter Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028495556-youtube/"><u>YouTube画面の拡張 - ビデオ画像サイズを効果的に増やすテクニック</u></a></li>
 </ul></div>
 

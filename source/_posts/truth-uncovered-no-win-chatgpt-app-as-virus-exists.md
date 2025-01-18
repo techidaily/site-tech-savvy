@@ -1,7 +1,7 @@
 ---
 title: "Truth Uncovered: No Win ChatGPT App as Virus Exists"
-date: 2025-01-10T19:36:52.420Z
-updated: 2025-01-12T20:12:55.690Z
+date: 2025-01-15T16:21:19.236Z
+updated: 2025-01-18T16:26:40.975Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ OpenAI's ChatGPT generative AI is being used for all manner of enterprising acti
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ChatGPT Desktop Client Is Actually Trojan Malware
 
  In February 2023, cybersecurity firm [Kaspersky reported](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022340/https://www.kaspersky.com/blog/chatgpt-stealer-win-client/47274/) that it had uncovered a malware campaign using ChatGPT as its lure, promising victims a free ChatGPT account with a $50 balance (to spend on [the premium version of ChatGPT](https://www.makeuseof.com/why-paid-chatgpt-professional-is-inevitable/)) and the use of a new ChatGPT desktop client.
@@ -41,13 +37,13 @@ OpenAI's ChatGPT generative AI is being used for all manner of enterprising acti
 ![chatgpt homepage march 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-homepage-march-2023.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![kaspersky malware chatgpt desktop client download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/kaspersky-malware-chatgpt-desktop-client-download-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: [Kaspersky](https://www.kaspersky.com/blog/chatgpt-stealer-win-client/47274/)
@@ -63,7 +59,7 @@ Close
  According to Kaspersky's research, the ChatGPT desktop client malware has been spotted across Asia, Africa, Europe, and America.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## PSA: There Is No ChatGPT Desktop Client
@@ -72,6 +68,10 @@ Close
 
  For now, the only way to [access ChatGPT is through your browser](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/), be that on your computer or your smartphone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3 Ways to Avoid ChatGPT Scams
 
 1. First up, make sure you're using the official ChatGPT website, and double-check the actual URL before signing up, adding your credentials, and so on: <https://chat.openai.com/> or <https://openai.com/blog/chatgpt>.
@@ -79,7 +79,7 @@ Close
 3. Make sure your antivirus software is up to date, and consider installing an additional [security tool like Malwarebytes Premium](https://www.makeuseof.com/tag/reasons-upgrade-malwarebytes-premium/) to mop up any other nasties.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Avoid Anything Claiming to Be a ChatGPT Client
@@ -105,21 +105,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-humor-on-the-go-iphones-edition/"><u>[New] 2024 Approved Humor on the Go IPhones Edition</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-mastering-time-lapse-a-guide-with-gopro-studio/"><u>[New] 2024 Approved Mastering Time-Lapse A Guide with GoPro Studio</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-investigating-dji-raptor-vr-headset-effectiveness-for-2024/"><u>[New] Investigating DJi Raptor VR Headset Effectiveness for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-quick-fixes-eliminate-ssgnatures-in-a-blink/"><u>[New] Quick Fixes Eliminate Ssgnatures in a Blink</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-steps-to-ensure-obs-captures-sound-effectively/"><u>[Updated] 2024 Approved Steps to Ensure OBS Captures Sound Effectively</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-impact-a-parents-guide-to-chatgpt/"><u>AI's Impact: A Parent's Guide to ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/controlling-ai-ensuring-positive-integration/"><u>Controlling AI: Ensuring Positive Integration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dive-into-intelligent-data-the-new-bing-search-app/"><u>Dive Into Intelligent Data: The New Bing Search App</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-ios-181-preview-release-featuring-enhanced-apple-ai-capabilities-get-your-access-today/"><u>New IOS 18.1 Preview Release Featuring Enhanced Apple AI Capabilities – Get Your Access Today!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionary-insights-7-ways-to-use-chatgpts-vision-ai/"><u>Revolutionary Insights: 7 Ways to Use ChatGPT's Vision AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sharing-wisdom-unveiling-your-chatgpt-experiences/"><u>Sharing Wisdom: Unveiling Your ChatGPT Experiences</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-best-10-elements-that-enthrall-filmora-users/"><u>The Best 10 Elements That Enthrall Filmora Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-when-dbghelpdll-is-unavailable-or-undetected/"><u>Troubleshooting Steps for When Dbghelp.dll Is Unavailable or Undetected</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/twitter-scams-battle-and-metasigs-rising-significance/"><u>Twitter Scams Battle and Metasig's Rising Significance</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/unveiling-microsofts-controversial-strategy-another-reason-for-user-discontent-analysis-by-zdnet/"><u>Unveiling Microsoft’s Controversial Strategy: Another Reason for User Discontent? - Analysis by ZDNet</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-10-best-image-to-video-makers-online-free-and-paid/"><u>Updated 2024 Approved 10 Best Image to Video Makers Online Free & Paid</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-video-conferencing-zooming-towards-youtube-streaming-excellence/"><u>[Updated] Mastering Video Conferencing Zooming Towards YouTube Streaming Excellence</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ete-walkthrough-to-grab-youtube-playlists-for-2024/"><u>Complete Walkthrough to Grab YouTube Playlists for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-duplicate-a-dvd-quickly-the-ultimate-guide-to-free-dvd-copying-software-top-picks/"><u>How to Duplicate a DVD Quickly: The Ultimate Guide to Free DVD Copying Software (Top Picks)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enhance-windows-11s-menu-by-excluding-options/"><u>How to Enhance Windows 11'S Menu by Excluding Options</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-file-sync-up-the-5-fundamental-ways-for-your-computer-upload/"><u>In 2024, File Sync-Up The 5 Fundamental Ways for Your Computer Upload</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/installing-aeon-nox-silvo-add-on-for-kodi-comprehensive-tutorial/"><u>Installing Aeon Nox Silvo Add-On for Kodi - Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/itunesm4amp3/"><u>ITunesでM4A音声ファイルをMP3にリバートする手順と、失敗時の別解法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-sharing-high-resolution-videos-on-whatsapp-explore-three-strategies-for-success/"><u>Mastering the Art of Sharing High-Resolution Videos on WhatsApp - Explore Three Strategies for Success</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Cutting-Edge Visual Tech in 8 Applications Using ChatGPT
-date: 2025-01-12T01:46:55.166Z
-updated: 2025-01-12T20:28:14.160Z
+date: 2025-01-15T17:29:07.937Z
+updated: 2025-01-18T16:52:40.460Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
  Depending on the context of the image, you can choose to enter a text-based prompt in addition to the image, or just let ChatGPT do its thing and let it analyze the attached picture.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Identifying Items or Describing Images
 
  For the curious ones among us who tend to find the most random of objects either on social media or during a walk down a busy street, identifying items has never been easier. Be it a one-of-a-kind speed camera or a really funky-looking pair of earphones, ChatGPT Vision does a pretty good job at identifying the objects you're inquiring about.
@@ -47,12 +51,16 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
  On the other hand, if you're just looking for a textual description of an image when you just can't formulate your thoughts into words, asking for a detailed description is a great way to use the new Vision feature in ChatGPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Recognizing Fictional Characters
 
 ![ChatGPT Vision recognizing a character from a popular TV series](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-vision-uses-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Can't seem to recognize that one character from a meme you have stored on your phone? Turns out, ChatGPT is quite remarkable at recognizing characters from popular media such as TV shows, movies, or anime.
 
@@ -64,23 +72,19 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
  With the Vision feature, you can ease the learning curve even further by simply uploading a picture of a wireframe or UI design and seeking ChatGPT for help with the actual code. Outside generating front-end code using wireframes, there are plenty of other ways you can [use ChatGPT for programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Translating Handwritten Text
 
  Although [Google Translate's many features](https://www.makeuseof.com/tag/google-translate-mobile-features/) are highly reliable, you can still mess around with translating handwritten text from old letters, notebooks, or other documents using ChatGPT Vision.
 
  Beyond basic translation, you can prompt it to categorize the information in a way that pleases you, summarize the text in a few words, or rewrite it in a completely different language.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Explaining Infographics
 
 ![ChatGPT Vision explaining an infograph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-vision-uses-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Particularly useful for students and teachers, you can get detailed explanations out of infographics such as pie or bar charts in a matter of seconds.
 
@@ -96,16 +100,12 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
 ![ChatGPT Vision providing constructive criticism of a photograph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-vision-uses-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  At a time when almost anybody can [create art using AI](https://www.makeuseof.com/ai-text-to-art-generators/), constructive criticism is what every true photographer and artist strives for, and although ChatGPT lacks the human touch, it may yield some very useful feedback.
 
  You can gain valuable insight in regard to composition, framing, colors, and overall style if you structure your prompt the right way. You can even go creative and upload a photo of a half-finished painting and ask ChatGPT for ideas.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Getting Help With Recipes
@@ -141,17 +141,16 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-photopony-pro-exploring-affordable-filters/"><u>[New] PhotoPony Pro Exploring Affordable Filters</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-no-cost-joke-factory-making-laughter-easy/"><u>2024 Approved No Cost Joke Factory Making Laughter Easy</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808305695-effortless-call-blocking-techniques-master-the-art-of-silencing-intruders-on-iphone-and-android/"><u>Effortless Call-Blocking Techniques: Master the Art of Silencing Intruders on iPhone and Android</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a1x-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A1x 5GFRP Lock</u></a></li>
-<li><a href="https://network-issues.techidaily.com/methods-to-stop-lenovo-screen-blinks/"><u>Methods to Stop Lenovo Screen Blinks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-invisible-hand-mastering-windows-11s-media-imports-for-2024/"><u>The Invisible Hand Mastering Windows 11'S Media Imports for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-ipad-air-protectors-thoroughly-reviewed-by-tech-experts-zdnet/"><u>Top-Rated iPad Air Protectors - Thoroughly Reviewed by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-excessive-cpu-load-issues-in-windows-10-effective-solutions-and-tips/"><u>Troubleshooting Excessive CPU Load Issues in Windows 10 – Effective Solutions and Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-boosting-your-minecraft-performance/"><u>Ultimate Guide: Boosting Your Minecraft Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-how-to-pair-a-wireless-mouse-with-windowsmac-os-devices/"><u>Ultimate Tutorial: How to Pair a Wireless Mouse with Windows/Mac OS Devices</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-nokia-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Nokia .</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/update-usb-drivers-in-windows-10-7-8-and-81-easily/"><u>Update USB Drivers in Windows 10, 7, 8 & 8.1. Easily!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-inside-the-world-of-vivacut-expert-editor-review-2024/"><u>[New] Inside the World of VivaCut Expert Editor Review 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-nlp-vs-machine-learning-essentials/"><u>Breaking Down NLP vs Machine Learning Essentials</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/delicious-directives-the-7-secrets-of-epic-food-vids/"><u>Delicious Directives The 7 Secrets of Epic Food Vids</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-creativity-unleashed-bings-dall-e-3-explained/"><u>Free Creativity Unleashed: Bing's DALL-E 3 Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guarding-against-glossed-over-nuances-by-ai-summarization-tools/"><u>Guarding Against Glossed Over Nuances by AI Summarization Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-lava-blaze-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Lava Blaze Pro 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-realtek-audio-issues-restoring-sound-on-digital-output/"><u>Solving Realtek Audio Issues: Restoring Sound on Digital Output</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swift-remedies-for-chatgpt-log-in-errors/"><u>Swift Remedies for ChatGPT Log-In Errors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-a-list-guide-to-instagram-photo-mastery/"><u>The A-List Guide to Instagram Photo Mastery</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-quadruplets-of-online-sharing-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Quadruplets of Online Sharing: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/travel-friendly-powershot-g9x2-elegant-and-featureful/"><u>Travel-Friendly PowerShot G9X2: Elegant & Featureful</u></a></li>
 </ul></div>
 

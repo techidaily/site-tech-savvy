@@ -1,7 +1,7 @@
 ---
 title: Six Key Concerns Overreliance on Machine Learning
-date: 2024-09-02T20:36:00.256Z
-updated: 2024-09-03T20:36:00.256Z
+date: 2025-01-13T17:01:00.976Z
+updated: 2025-01-18T17:33:28.994Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,10 @@ AI is transforming the world as we know it, with its impact felt across every in
 
  While this is just the nature of AI right now, you can see how this can become a problem. Most people don't fact-check their Google searches, and it's the same here with chatbots like ChatGPT. This can lead to misinformation, and we already have plenty of that to go around—which brings us to the second point.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. It Can Easily Be Used to Manipulate Information
 
  It's no secret that AI can be unreliable and prone to error, but one of its most insidious traits is its tendency to manipulate information. The problem is that AI lacks a nuanced understanding of your context, leading it to bend the facts to suit its own purposes.
@@ -43,9 +47,6 @@ AI is transforming the world as we know it, with its impact felt across every in
 
  Sure, you can easily write this off as a bug or a one-off mistake. However, this does not change the fact that these AI tools are imperfect, and we should proceed cautiously.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. It Can Hinder Your Creativity
 
 ![man with head on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-with-head-on-desk.jpg)
@@ -59,8 +60,9 @@ AI is transforming the world as we know it, with its impact felt across every in
  Using AI to supplement your research is different from solely relying on it to generate ideas.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. AI Can Easily Be Misused
 
  AI has brought about numerous breakthroughs across various fields. However, as with any technology, there is also the risk of misuse that can lead to dire consequences.
@@ -72,8 +74,9 @@ AI is transforming the world as we know it, with its impact felt across every in
  The availability of AI capabilities as open-source libraries have enabled anyone to access technologies like image and facial recognition. This poses a significant cybersecurity risk, as terrorist groups could use these technologies to launch terror attacks
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Limited Understanding of Context
 
  As mentioned earlier, AI has a very limited understanding of context, which can be a significant challenge in decision-making and problem-solving. Even if you provide AI with contextual information, it can miss the nuances and provide inaccurate or incomplete information that may lead to incorrect conclusions or decisions.
@@ -83,15 +86,13 @@ AI is transforming the world as we know it, with its impact felt across every in
  For example, consider a chatbot that is programmed to assist customers with their queries about a product. While the chatbot may be able to answer basic questions about the product's features and specifications, it may struggle to provide personalized advice or recommendations based on the customer's unique needs and preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. It Can't Replace Human Judgment
 
 ![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  When seeking answers to complex questions or making decisions based on subjective preferences, relying solely on AI can be risky.
 
  Asking an AI system to define the concept of friendship or to choose between two items based on subjective criteria can be a futile exercise. This is because AI lacks the ability to factor in human emotions, context, and the intangible elements essential to understanding and interpreting such concepts.
@@ -101,8 +102,9 @@ AI is transforming the world as we know it, with its impact felt across every in
  On the other hand, a human reviewer can provide a more nuanced and personalized review of the book by evaluating its literary value, relevance to the reader's interests, and other subjective factors that cannot be measured objectively.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Be Careful With Artificial Intelligence
 
  While AI has proven to be an incredibly powerful tool in various fields, it is essential to be aware of its limitations and potential biases. Trusting AI blindly can be risky and can have significant consequences, as the technology is still in its infancy and is far from perfect.
@@ -111,14 +113,11 @@ AI is transforming the world as we know it, with its impact felt across every in
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +126,26 @@ AI is transforming the world as we know it, with its impact felt across every in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-masterclass-in-capturing-conversations-for-later-review/"><u>[New] 2024 Approved Masterclass in Capturing Conversations for Later Review</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-quest-for-thrills-a-chronicle-of-action-adventures-best-ten/"><u>[New] Quest for Thrills A Chronicle of Action-Adventures' Best Ten</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-effortlessly-record-circles-iphone-techniques-for-fb-feed/"><u>[Updated] Effortlessly Record Circles IPhone Techniques for FB Feed</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-restoring-and-accessing-data-from-a-non-bootable-vintage-hdd-expert-guide-by-yl-computing/"><u>1. Restoring and Accessing Data From a Non-Bootable Vintage HDD: Expert Guide by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-vivo-y36i-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Vivo Y36i to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/alerting-against-deceptive-chatgpt-platforms/"><u>Alerting Against Deceptive ChatGPT Platforms</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/awaken-your-inner-german-top-25-idioms-to-perfect-your-speech/"><u>Awaken Your Inner German - Top 25 Idioms to Perfect Your Speech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-unchanged-rejecting-dumbness-claims/"><u>ChatGPT Unchanged: Rejecting Dumbness Claims</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-newest-fingerprint-drivers-on-your-windows-computer/"><u>Download and Install the Newest Fingerprint Drivers on Your Windows Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-dialogue-game-with-these-7-chrome-extension-tools/"><u>Elevate Your Dialogue Game with These 7 Chrome Extension Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/employing-chatgpt-in-cognitive-therapeutic-techniques/"><u>Employing ChatGPT in Cognitive Therapeutic Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/jesting-machines-of-chatgpt-are-they-comedic-contenders/"><u>Jesting Machines of ChatGPT: Are They Comedic Contenders?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-minutes-top-4-chatgpt-strategies-for-time-optimization/"><u>Master Your Minutes: Top 4 ChatGPT Strategies for Time Optimization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-automated-code-through-non-chatgpt-applications/"><u>Mastering Automated Code Through Non-ChatGPT Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-google-docs-and-sheets-with-chatgpt/"><u>Navigating Google Docs & Sheets with ChatGPT</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/past-meets-present-assessing-the-competence-of-the-vintage-netgear-cable-modem-router/"><u>Past Meets Present: Assessing the Competence of the Vintage Netgear Cable Modem Router</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-into-ai-navigate-with-help-from-our-9-communities/"><u>Step by Step Into AI: Navigate with Help From Our 9 Communities</u></a></li>
+<li><a href="https://win-lab.techidaily.com/the-ultimate-guide-to-the-top-5-android-video-compressors/"><u>The Ultimate Guide to the Top 5 Android Video Compressors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-skype-noise-issues-instantly-expert-tips-included/"><u>Troubleshoot Skype Noise Issues Instantly - Expert Tips Included</u></a></li>
+</ul></div>
 

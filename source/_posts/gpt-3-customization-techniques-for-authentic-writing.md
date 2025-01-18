@@ -1,7 +1,7 @@
 ---
 title: GPT-3 Customization Techniques for Authentic Writing
-date: 2025-01-07T23:58:22.109Z
-updated: 2025-01-12T21:34:18.467Z
+date: 2025-01-15T16:26:13.694Z
+updated: 2025-01-18T16:37:46.435Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/81bdcc97eef551e0f3a9b3144d7c585e9e69ed512
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 Ways to Teach ChatGPT to Write Like You
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/81bdcc97eef551e0f3a9b3144d7c585e9e69ed512
  Both options require a different approach, which you can check out below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Training ChatGPT With Samples of Your Work
@@ -60,10 +60,6 @@ Extract the writing style in the text provided below. Please study the tone, wor
  After using the prompt above, you should get a result similar to this:
 
 ![Result of writing Style extraction by ChatGPT-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/result-of-writing-style-extraction-by-chatgpt-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Of course, one sample might not be enough to thoroughly capture every aspect of your writing style. So, you can repeat the prompt above with three to five more samples within the same ChatGPT conversation. After iterating through the number of samples you wish to use, you can then use the prompt below to unify the extracted styles.
 
@@ -78,7 +74,7 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
  Also, for the best results, we recommend using GPT-4 and, specifically, the GPT-4 Code Interpreter plugin for the task. You'll be able to work with more text or even, ideally, stack several articles in a text or word file and ask ChatGPT to analyze the content for its writing style.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Training ChatGPT Using a Personal Preference Map (PPM)
@@ -110,7 +106,11 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 ![Using ChatGPT PPM on Claude AI chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/using-chatgpt-ppm-on-claude-ai-chatbot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make ChatGPT Work for You
@@ -136,18 +136,24 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-superior-methods-for-silent-video-production/"><u>[New] In 2024, Superior Methods for Silent Video Production</u></a></li>
-<li><a href="https://win-dash.techidaily.com/approachsolution/"><u>Approach/Solution:</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-stand-against-cyber-threats/"><u>Can ChatGPT Stand Against Cyber Threats?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-as-your-creative-muse-for-poems/"><u>ChatGPT as Your Creative Muse for Poems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/combat-lagging-instagram-effective-fixes-for-both-mobile-and-tablet-devices/"><u>Combat Lagging Instagram: Effective Fixes for Both Mobile and Tablet Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/googles-ai-gemini-exposed-scope-functions-and-progress/"><u>Google's AI Gemini Exposed: Scope, Functions & Progress</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-claude-pro-a-comparative-analysis-with-premium-chatgptplus/"><u>Inside Claude Pro: A Comparative Analysis with Premium ChatGPT+</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-printing-with-newly-released-hp-officejet-pro-8620-drivers-on-pcs/"><u>Optimize Printing with Newly Released HP OfficeJet Pro 8620 Drivers on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-to-resolving-no-sync-problems-in-to-do/"><u>Quick Guide to Resolving No Sync Problems in To Do</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tech-savvy-prompts-top-ai-instructive-platforms/"><u>Tech-Savvy Prompts: Top AI Instructive Platforms</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-every-moment-top-ideas-for-productive-podcast-sessions-for-2024/"><u>Transform Every Moment Top Ideas for Productive Podcast Sessions for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-choose-claude-unlocking-potential-through-advanced-ai/"><u>Why Choose Claude? Unlocking Potential Through Advanced AI</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/yl-softwares-exclusive-hd-imagery-of-lionel-messi-for-laptops-and-pcs-premium-wallpapers-and-screensavers/"><u>YL Software's Exclusive HD Imagery of Lionel Messi for Laptops and PCs – Premium Wallpapers & Screensavers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-how-to-edit-youtube-videos-in-adobe-premiere/"><u>[New] In 2024, How to Edit YouTube Videos in Adobe Premiere</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-taking-down-the-veil-youtubes-most-elusive-videos/"><u>[Updated] In 2024, Taking Down the Veil YouTube's Most Elusive Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-secrets-from-pros-how-to-convert-insta-videos-to-premium-mp4/"><u>2024 Approved Secrets From Pros How to Convert Insta Videos to Premium MP4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/20249/"><u>2024年に流行りそうな！ベスト9選 無料動画再生アプリランキングと応援ガイド⭐</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/3movavi/"><u>3最適な手段：MOVからAviへの品質保持変換ガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029389449-mp4/"><u>動画化テクニック：連続画像をMP4フォーマットに変換する方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029016473-4/"><u>最高の電話会議を実現するための4つの優れた通話録音ツール・アプリ</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-unmatched-portability-with-our-comprehensive-review-of-the-samsung-galaxy-chromebook-2-for-ultra-productive-users/"><u>Experience Unmatched Portability with Our Comprehensive Review of the Samsung Galaxy Chromebook 2 for Ultra-Productive Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oneplus-12-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change OnePlus 12 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-infinix-note-30-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Infinix Note 30 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-nubia-red-magic-8s-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nubia Red Magic 8S Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/premium-12-video-capture-apps-no-time-limit/"><u>Premium 12 Video Capture Apps, No Time Limit</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-nokia-c300-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Nokia C300 Black and White | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-get-noticed-by-recruiters-the-best-video-resume-creation-tools-free-templates/"><u>Updated In 2024, Get Noticed by Recruiters The Best Video Resume Creation Tools Free Templates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029934677-windows-11/"><u>Windows 11による簡単なビデオ編集テクニックのガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029912225-youtubepc/"><u>YouTube横ビデオをPC上で縦に再編成する最適な方法 - プロフェッショナルの動画変形術</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44ot44oh44kq6iom5pmv6zplusz5qw944ke5yq55p6c6zplusz5luy44gr55so44gu44km44kj44oz44oj44km44k644ki44ox44oq44kx44o844k344on44oz/"><u>ビデオ背景音楽や効果音付け用のウィンドウズアプリケーション</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029526361-youtube/"><u>ビデオに水紋を追加するためのシンプル・チュートリアル: YouTube編集ツール使用</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030562025-teams/"><u>プライベートでのTeamsミーティング録音 - イヤフォンを活用したスニークショット技術</u></a></li>
 </ul></div>
 

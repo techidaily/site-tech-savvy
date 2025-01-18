@@ -1,7 +1,7 @@
 ---
 title: "Mastering ChatGPT: Sidestep These Essential Errors"
-date: 2024-09-02T20:38:11.977Z
-updated: 2024-09-03T20:38:11.977Z
+date: 2025-01-13T16:55:26.286Z
+updated: 2025-01-18T16:05:25.546Z
 tags:
   - chatgpt
   - open-ai
@@ -51,9 +51,17 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 ![ChatGPT giving JSTOR links to wrong resources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-46.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  At first glance, the list looks credible. The JSTOR articles have impressive-sounding titles like "Constructing Hybrid Identity: Race and Nation in Sally Green's Half Bad Trilogy." But a Google search would quickly show that most links lead to the wrong JSTOR articles. One of the links led to a 404 landing page.
 
 ![chatGPT giving a link to a nonexistent JSTOR academic journal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-47.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In another example, we gave ChatGPT a more specific topic to research on to see if it would come up with better results. This is the prompt we used: I am writing a literary research paper on "The Heroine in British Young Adult and Coming-of-Age Contemporary Novels." Can you give me a literature review on this topic?
 
@@ -65,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 ![chatGPT giving bibliographic information to articles not found online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-48.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When prompted to give links to verify the information it provided, ChatGPT flatly refused this time. It said it didn't have web browsing capabilities and instead gave a list of bibliographic information. However, the data was still erroneous.
 
  The latest [ChatGPT release notes on OpenAI](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) show it now has web browsing capabilities. But these features have yet to be rolled out to every user. Also, as [TechCrunch](https://techcrunch.com/2023/03/23/openai-connects-chatgpt-to-the-internet/) points out, ChatGPT's results aren't necessarily the best on the internet since professionals can game search engine results.
@@ -75,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 * If you need sources for academic research, check [Google Scholar](https://scholar.google.com/) or [Elicit](http://elicit.org/), an AI research assistant.
 * Remember to critically assess the results and exercise judgment when selecting which ones to cite.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## 3\. Don't Replace Workplace Connections With ChatGPT
 
  Some [things that you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) might tempt you to anthropomorphize it or give it human attributes. For instance, you can ask ChatGPT for advice and chat with it if you need someone to talk to.
@@ -87,17 +96,15 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![ChatGPT giving advice on workplace burnout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-45.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  But no matter how compassionate it sounds, ChatGPT isn't human. What sounds like human-generated sentences are only the results of ChatGPT predicting the next word or "token" in the sequence based on its training data. It isn't a sentient being with a will and mind of its own as you do.
 
  That said, ChatGPT can't substitute for human relationships and collaboration in the workplace. As the [Work and Well-being Initiative at Harvard University](https://workwellbeinginitiative.org/module-4-moderating-work-demands#:~:text=The%20evidence%20shows%20that%20positive,harmful%20effects%20of%20workplace%20stress.&text=Positive%20relationships%20at%20work%20are%20also%20good%20for%20the%20bottom%20line.) says, these human connections benefit you, helping improve your well-being and protecting you against workplace stress.
 
  Learning to work with the latest tech tools is important, but interacting with your team is also essential. Instead of relying on ChatGPT to replicate social connections, build your interrelational skills, interact with co-workers, and find the best people you can work with.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Don't Feed ChatGPT Ineffective Prompts
 
  Are you finding it hard to get the best responses out of ChatGPT when creating content? Providing context and giving precise instructions should solve your problem.
@@ -109,22 +116,17 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![ChatGPT giving a wrong answer to a prompt asking for a summary of Eric Allen's article on Hackernoon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-44.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To help ChatGPT, we copy-pasted the article in parts and asked for a summary after each upload. This time, ChatGPT was able to accomplish the task accurately. At one point, it gave us a comment instead of a summary, but we redirected it using another prompt.
 
 ![Conversation with ChatGPT asking to summarize a blog on Hackernoon by Eric Allen, which was uploaded in parts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-43.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This example was a learn-by-doing experiment on how to use ChatGPT to summarize long and technical articles effectively. However, you can now access many internet resources and [learn prompting techniques to improve your ChatGPT responses](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/).
 
  Using recommended prompts is not a fail-safe method against hallucinations, but it can help you deliver accurate results. You can also review the [best ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/) for more information on prompting techniques.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Maximize ChatGPT Capabilities, but Be Mindful of Its Limits
 
  ChatGPT offers unprecedented speed and convenience, but using it also demands caution and responsibility. Avoid overdepending on ChatGPT, use more appropriate tools for research, collaborate better with your team, and learn to use prompts effectively to maximize its benefits.
@@ -135,14 +137,11 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
  Before you take this issue lightly, know that misusing AI can lead to legal issues, reputational damage, and erroneous output. Let's explore the wrong ways content creators use ChatGPT so that you can avoid these problems.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,4 +150,24 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-art-of-enticing-instagram-followers-a-puzzle-post-primer/"><u>[New] In 2024, The Art of Enticing Instagram Followers A Puzzle Post Primer</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unlock-business-potential-top-10-streamlined-channel-setup-ideas-on-youtube/"><u>[Updated] 2024 Approved Unlock Business Potential Top 10 Streamlined Channel Setup Ideas on YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-boost-your-fb-campaigns-the-critical-3-part-writing-strategy/"><u>[Updated] Boost Your FB Campaigns The Critical 3-Part Writing Strategy</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-chroma-chronicles-expertise-in-color-crafting/"><u>[Updated] In 2024, Chroma Chronicles Expertise in Color Crafting</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1725284786312-2024/"><u>【2024のおすすめ】高画質スキャンソフトウェアとサイトをご案内♪快適な機能付き無料版も利用可</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-smoothly-blend-images-and-movies-a-guide-to-windows-photos-and-storyremix/"><u>2024 Approved Smoothly Blend Images & Movies A Guide to Windows Photos and StoryRemix</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-for-the-ordinary-person-claude-versus-gpt-analysis/"><u>AI for the Ordinary Person: Claude Versus GPT Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-revolutionize-your-side-business-revenue/"><u>Can ChatGPT Revolutionize Your Side Business Revenue?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-workings-an-insight-into-chatgpts-shared-links/"><u>Decoding the Workings: An Insight Into ChatGPT’s Shared Links</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-gpt-4s-capabilities-at-no-extra-cost/"><u>Explore GPT-4's Capabilities at No Extra Cost</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-puzzling-problem-of-error-code-c0000005-in-win-os/"><u>Fixing the Puzzling Problem of Error Code C0000005 in Win-OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-idea-sparkler-to-experienced-prompt-architect-how-to-establish-a-flourishing-career-in-prompt-crafting/"><u>From Idea Sparkler to Experienced Prompt Architect: How To Establish a Flourishing Career in Prompt Crafting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interactive-ai-expertise-from-commands-to-contextual-replies/"><u>Interactive AI Expertise: From Commands to Contextual Replies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/minimizing-data-loss-in-chatgpt-interactions/"><u>Minimizing Data Loss in ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trust-but-verify-why-not-let-ai-handle-your-document-summaries/"><u>Trust, but Verify: Why Not Let AI Handle Your Document Summaries?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-claudes-magic-the-future-of-intelligent-automation/"><u>Unraveling Claude's Magic: The Future of Intelligent Automation</u></a></li>
+<li><a href="https://techidaily.com/what-to-do-if-iphone-15-plus-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone 15 Plus is not listed when I run the software? | Stellar</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Android/iOS and the Art of ChatGPT Usage
-date: 2025-01-06T19:05:26.107Z
-updated: 2025-01-12T17:12:04.977Z
+date: 2025-01-11T16:49:12.282Z
+updated: 2025-01-18T17:45:58.799Z
 tags:
   - chatgpt
   - open-ai
@@ -39,22 +39,22 @@ thumbnail: https://thmb.techidaily.com/1505d6f4180ef3234fcf66cf60e394c6b774b5274
 
 ![ChatGPT in App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-in-app-store.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
 ![ChatGPT demo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-demo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Now you can start using ChatGPT as you would on your computer. If you cannot download the app because it's unavailable in your area, you can try using ChatGPT through the web browser method or download the third-party apps listed below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using ChatGPT Through a Smartphone Web Browser
@@ -70,10 +70,14 @@ Close
 ![ChatGPT final disclaimer screen iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-final-disclaimer-screen-ios.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT conversation screen iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-conversation-screen-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -97,7 +101,15 @@ Close
 
 ![SiriGPT Shortcuts app iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-shortcuts-app-ios.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![SiriGPT insert API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-insert-api-key.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![SiriGPT prompt screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-prompt-screen.jpg)
 
@@ -106,7 +118,7 @@ Close
  That's certainly a lot of work, and whether it's worth it depends on how much you use the shortcut. At its worst, it's a neat party trick, but at its best, you have the power of GPT in your hands, now with the voice of Siri powering it. Again, this is not the most convenient way of accessing ChatGPT, but it's surprising how well it works when it does.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Third-Party ChatGPT Apps for Android and iOS
@@ -119,15 +131,7 @@ Close
 
 ![Perplexity AI app thread](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perplexity-ai-app-thread-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![perlexity-ai-invitation-screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perlexity-ai-invitation-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -137,17 +141,13 @@ Close
 
 ![Nova GPT Android app homescreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-homescreen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Nova GPT Android app prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-prompt.jpg)
 
-![Nova GPT Android app text to speech](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-text-to-speech.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Nova GPT Android app text to speech](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-text-to-speech.jpg)
 
 Close
 
@@ -182,24 +182,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-10-final-cut-pro-enhancers/"><u>[New] The Ultimate 10 Final Cut Pro Enhancers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-chart-a-course-to-6-figure-growth-with-powerful-tags-for-2024/"><u>[Updated] Chart a Course to 6-Figure Growth with Powerful #Tags for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-crafting-perfect-ad-videos-on-youtube-without-expense/"><u>[Updated] Crafting Perfect Ad Videos on YouTube Without Expense</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-skyrocket-to-youtube-partner-status-with-10k-vistas-goal/"><u>[Updated] In 2024, Skyrocket to YouTube Partner Status with 10K Vistas Goal</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-solving-sync-issues-between-cameras-and-obs/"><u>[Updated] Solving Sync Issues Between Cameras and OBS</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-complete-guide-to-twitters-paid-reach-and-impressions/"><u>2024 Approved The Complete Guide to Twitter's Paid Reach and Impressions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-hardware-breakdown-by-toms-electronic-wisdom/"><u>Advanced Hardware Breakdown by Tom's Electronic Wisdom</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/amazons-must-have-savings-in-august-2nce-unveiling-the-hottest-deals-according-to-zdnet/"><u>Amazon's Must-Have Savings in August 2Nce: Unveiling the Hottest Deals, According to ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-barriers-connect-with-chatgpt-from-anywhere/"><u>Breaking Barriers: Connect with ChatGPT From Anywhere</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-nubia-z50s-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Nubia Z50S Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/declutter-email-effortlessly-learn-how-one-handy-trick-can-organize-your-mail-with-zero-complex-rules-featured/"><u>Declutter Email Effortlessly: Learn How One Handy Trick Can Organize Your Mail with Zero Complex Rules, Featured !</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/demystifying-wsus-for-it-professionals-your-ultimate-information-hub/"><u>Demystifying WSUS for IT Professionals: Your Ultimate Information Hub</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-why-hackers-target-gpt-accounts/"><u>Dissecting Why Hackers Target GPT Accounts</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/into-the-world-of-enhanced-youtube-content-with-premium-subscription-for-2024/"><u>Dive Into the World of Enhanced YouTube Content with Premium Subscription for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/forefront-ai-explained-is-it-superior-to-chatgpt/"><u>Forefront AI Explained – Is It Superior to ChatGPT?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-bing-ai-chat-on-your-android-phones-keyboard/"><u>How to Use Bing AI Chat on Your Android Phone’s Keyboard</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-integration-of-microsoft-copilot-into-your-mac/"><u>Seamless Integration of Microsoft Copilot Into Your Mac</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-highest-quality-apple-watch-protectors-featured-on-zdnet/"><u>Ultimate Guide to the Highest Quality Apple Watch Protectors - Featured on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zdnets-expert-picks-the-ultimate-list-of-core-tools-for-your-pc-or-mac/"><u>ZDNet's Expert Picks: The Ultimate List of Core Tools for Your PC or Mac</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-essential-guide-to-creating-stellar-films-with-win11s-movie-maker/"><u>[New] In 2024, Essential Guide to Creating Stellar Films with Win11's Movie Maker</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-six-pioneering-steps-for-moving-mov-files-to-win-11/"><u>[New] Six Pioneering Steps for Moving MOV Files to Win 11</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-iphone-guide-engage-with-audio-content-seamlessly/"><u>[Updated] 2024 Approved IPhone Guide Engage with Audio Content Seamlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wmam4atop4/"><u>「WMAファイルをM4Aに自由に変えるためのベストツールTOP4」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-step-by-step-guide-effortless-setup-of-the-kingdom-add-on-in-your-kodi-media-center/"><u>1. Step-by-Step Guide: Effortless Setup of the Kingdom Add-On in Your Kodi Media Center</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/whatsapp/"><u>対話録画機能付きWhatsAppビデオチャット完全マスター手ブック</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024drm/"><u>新時代にぴったり！2024用無料ソフトでDRMから自由な鑑賞方法</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/accelerate-clearing-print-job-queue/"><u>Accelerate Clearing Print Job Queue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029984622-dvd/"><u>DVDのビデオ・ツリートップシステムフォルダーの安全な複製手順</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-realtek-audio-controller-drivers-for-windows-11-users/"><u>Effortless Installation: Realtek Audio Controller Drivers for Windows 11 Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-samsung-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Samsung</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-vivo-v30-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo V30 to Protect Your Individual Information</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-monetizing-carryminati-journey-to-2023-income/"><u>In 2024, Monetizing CarryMinati Journey to 2023 Income</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premium-soundscapes-gpodc-recommendations/"><u>In 2024, Premium Soundscapes GPodC Recommendations</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-samsung-galaxy-m14-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Samsung Galaxy M14 5G Location | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029484348-veoh/"><u>Veohで見たい映画やアニメ動画を安全にダウンロードする手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wav-and-m4a/"><u>WAV & M4A ファイル形式の違い：変換手段で覚え直しましょう</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windowstop12/"><u>Windowsパソコンに最適!ベストマイク録音ソフトウェアTOP12ピック</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027017437-wonderfox/"><u>WonderFoxアフィリエイト収入を最大化する方法</u></a></li>
 </ul></div>
 

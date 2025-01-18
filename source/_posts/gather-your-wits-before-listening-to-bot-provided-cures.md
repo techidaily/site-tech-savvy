@@ -1,7 +1,7 @@
 ---
 title: Gather Your Wits Before Listening to Bot-Provided Cures
-date: 2025-01-05T21:05:22.351Z
-updated: 2025-01-12T22:31:15.333Z
+date: 2025-01-14T17:31:00.365Z
+updated: 2025-01-18T16:40:29.709Z
 tags:
   - chatgpt
   - open-ai
@@ -28,16 +28,12 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. ChatGPT Has Limited Knowledge
 
 ![Pig-to-heart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pig-to-heart.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT does not know everything. According to OpenAI, ChatGPT has limited knowledge, particularly when it comes to what happened after September 2021\.
@@ -45,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
  ChatGPT does not have direct access to search engines or the internet. It was trained using a vast amount of text data from numerous sources, including books, websites, and other texts. It does not "know" the data it is delivering. Instead, ChatGPT uses text it has read to create predictions about the words to use and in what order.
 
  Therefore, it cannot get current news on developments in medical fields. Yes, ChatGPT is unaware of the pig-to-human heart transplant or any other very recent breakthroughs in medical science.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. ChatGPT May Produce Incorrect Information
 
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
  Because ChatGPT cannot independently research or verify material, it cannot differentiate between fact and fiction. Respected medical journals, including the Journal of the American Medical Association (JAMA), have established strict regulations that only humans can write scientific studies published in the journal. As a result, [you should constantly fact-check ChatGPT's responses](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. ChatGPT Does Not Physically Examine You
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
  ChatGPT cannot perform a complete virtual checkup or even a physical examination; it can only reply to the symptoms you provide as messages. For a patient's safety and care, errors in physical examination—or completely ignoring physical examination—can be harmful. Because ChatGPT didn't physically examine you, it will offer an incorrect diagnosis.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. ChatGPT Can Provide False Information
@@ -80,13 +80,13 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 
  When we inquired about the book, it replied that it was a "hypothetical" book that it created. ChatGPT won't tell you if a journal article or book is false if you don't inquire further.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. ChatGPT Is Just an AI Language Model
 
 ![ChatGPT Medical](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-medical.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Language models function by memorizing and generalizing text rather than examining or studying a patient's condition. Despite generating responses that match human standards in terms of language and grammar, [ChatGPT still contains a number of problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), much like other AI bots.
 
@@ -117,15 +117,17 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-analysis-ultimate-storage-choices/"><u>[Updated] In-Depth Analysis Ultimate Storage Choices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciding-factors-in-choosing-the-right-ai-helper/"><u>Deciding Factors in Choosing the Right AI Helper</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-savings-on-iphone-14plus-exceptional-all-day-battery-and-more-why-everyone-will-adore-this-smartphone-zdnet/"><u>Discover the Ultimate Savings on iPhone 14+ – Exceptional All-Day Battery & More! Why Everyone Will Adore This Smartphone | ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722965043920-free-guide-step-by-step-download-of-updated-geforce-rtx-3070-drivers-for-win11win10/"><u>Free Guide: Step-by-Step Download of Updated GeForce RTX 3070 Drivers for Win11/Win10!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mobile-marvels-the-leading-arvr-app-picks-for-2024/"><u>Mobile Marvels The Leading AR/VR App Picks for 2024</u></a></li>
-<li><a href="https://win-tips.techidaily.com/retrotransposons-can-transfer-genetic-information-via-an-rna-intermediate-that-reintegrates-into-the-dna/"><u>Retrotransposons Can Transfer Genetic Information via an RNA Intermediate that Reintegrates Into the DNA.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-connectivity-discover-the-perks-of-apple-enabling-iphone-nfc-for-external-apps-cnet-news/"><u>Revolutionizing Connectivity: Discover the Perks of Apple Enabling iPhone NFC for External Apps | CNET News</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782774-9781620552841-the-five-dharma-types/"><u>The Five Dharma Types | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transitioning-from-iphone-to-android-new-policies-may-simplify-the-process-techcrunch/"><u>Transitioning From iPhone to Android? New Policies May Simplify the Process | TechCrunch</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/ultimate-selection-of-superior-hexadrones/"><u>Ultimate Selection of Superior HexaDrones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/braving-new-waters-with-bard-google-aims-at-gpt-supremacy/"><u>Braving New Waters with 'Bard', Google Aims at GPT Supremacy</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-frustration-expert-tips-for-correcting-the-0xc000012f-error-in-windows-instantly/"><u>Bypassing Frustration: Expert Tips for Correcting the 0Xc000012f Error in Windows Instantly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbots-and-coins-elevating-your-crypto-game-with-gpt/"><u>Chatbots and Coins: Elevating Your Crypto Game with GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/corporate-cautionary-stories-top-5-tales-of-gpt-reluctance/"><u>Corporate Cautionary Stories: Top 5 Tales of GPT Reluctance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/download-and-deploy-llama-2-your-instructional-guide/"><u>Download & Deploy Llama 2: Your Instructional Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/genuine-vs-faux-chatbots-detect-and-protect-your-data/"><u>Genuine Vs. Faux ChatBots: Detect and Protect Your Data!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-apple-iphone-6s-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on Apple iPhone 6s online without jailbreak</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-xiaomi-redmi-note-13-proplus-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Xiaomi Redmi Note 13 Pro+ 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/snickerslide-social-media-memes-made-simple-for-2024/"><u>SnickerSlide Social Media Memes Made Simple for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-inadequate-system-resources-complete-guide-to-repair-services/"><u>Troubleshooting Inadequate System Resources - Complete Guide to Repair Services</u></a></li>
 </ul></div>
 

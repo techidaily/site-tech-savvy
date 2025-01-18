@@ -1,7 +1,7 @@
 ---
 title: "Mastery in Flagging Fakes: A Guide to GPT Recognition"
-date: 2024-09-02T20:35:52.763Z
-updated: 2024-09-03T20:35:52.763Z
+date: 2025-01-13T16:12:47.897Z
+updated: 2025-01-18T16:38:18.100Z
 tags:
   - chatgpt
   - open-ai
@@ -33,9 +33,9 @@ thumbnail: https://thmb.techidaily.com/4b7359aaf8e940a96bfa42de92bb50e50f03e20d4
  OpenAI's premium version of ChatGPT, known as ChatGPT Plus, offers users a range of extra features in exchange for the monthly subscription fee. ChatGPT Plus's newest feature, GPT call-outs or mentions, may prove very useful to you if you use various GPTs within the ChatGPT interface. So, how does this feature work, and how can it benefit you?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is ChatGPT's GPT Mentions Feature?
 
  As a ChatGPT Plus member, you can [enjoy custom GPTs from the Custom GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/). These are versions of ChatGPT that are tailored to help with specific tasks. Some [popular custom GPTs](https://www.makeuseof.com/best-custom-gpts/) include...
@@ -53,8 +53,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  So, how can you use this?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use the GPT Mentions Feature
 
  If you're using a few custom GPTs in separate conversations, you'll now see the pop-up below displayed above your chat text box.
@@ -67,27 +68,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![screenshot of chatgpt beta mentions feature being used in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mentions-chat.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  Now, you're chatting with Canva until you click "X" on the **Talking to Canva** tab that will appear above the chat text box.
 
 ![screenshot of active canva chat using beta gpt mentions feature on desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-canva-talking.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.
 
 ![screenshot of chatgpt custom gpt callout feature working with canva prompt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-talking-canva.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Of course, if you're not happy with Canva's initial response, you can make more specific requests to highlight what you're looking for. Maybe you want a specific font, or want a certain phrase used in the text of the graphic. Just ask, and the custom GPT should be able to comply.
 
  Note that, before a custom GPT connects with any other platform to retrieve data, it'll ask your permission to do so first. Just click **Allow** if you're happy to go ahead.
@@ -99,25 +91,16 @@ No advertising on the website.
 ![screenshot of kayak prompt result with chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-kayak-result.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After getting the results, we added the All Trails GPT to the chat using the GPT Mentions feature, and asked it to find trails near the hotels that KAYAK previously recommended.
 
 ![screenshot of alltrails gpt being used in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-alltrails-result.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, we have hotels, flights, and trails for our trip all in one chat!
 
@@ -131,8 +114,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +121,22 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-hot-tips-for-business-indispensable-items-you-cant-afford-to-miss-for-2024/"><u>[New] Hot Tips for Business Indispensable Items You Can't Afford To Miss for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1-understanding-sitelinks-comprehensive-guide-and-strategies-for-enhanced-seo-performance/"><u>1. Understanding Sitelinks: Comprehensive Guide & Strategies for Enhanced SEO Performance</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/crafting-professional-captions-with-top-online-aids-and-platforms-for-2024/"><u>Crafting Professional Captions with Top Online Aids and Platforms for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creative-ais-face-off-on-equal-ground-prompt/"><u>Creative AIs Face Off on Equal Ground Prompt</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/freed-chatgpt-windows-users-handbook/"><u>Freed ChatGPT Windows Users' Handbook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-choose-the-right-wi-fi-repeater-for-perfect-coverage-the-best-picks/"><u>How to Choose the Right Wi-Fi Repeater for Perfect Coverage - The Best Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-generative-language-models-in-training/"><u>Leveraging Generative Language Models in Training</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-top-time-lapse-video-editors-free-and-paid-options/"><u>New In 2024, Top Time-Lapse Video Editors Free and Paid Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/social-media-smarts-a-tale-of-two-ais/"><u>Social Media Smarts: A Tale of Two AIs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-fix-for-your-hp-laserjet-p2035-printers-driver-woes-in-the-windows-environment-solved/"><u>Step-by-Step Fix for Your HP LaserJet (P2035) Printer's Driver Woes in the Windows Environment [Solved]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-pc-chatter-with-nvidias-rtx-assistant/"><u>Streamlining PC Chatter with Nvidia's RTX Assistant</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-6-overlords-massive-nlp-innovators-crown/"><u>Ultimate 6 Overlords: Massive NLP Innovators Crown</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlimited-visual-inspiration-awaits-at-these-top-12-stock-photo-websites/"><u>Unlimited Visual Inspiration Awaits at These Top 12 Stock Photo Websites</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-infinix-zero-30-5g-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Infinix Zero 30 5G password or pattern lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-does-italy-immediately-prohibit-chatgpt/"><u>Why Does Italy Immediately Prohibit ChatGPT?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tapping Into Self-Awareness with GPT Tech
-date: 2024-09-02T20:35:50.189Z
-updated: 2024-09-03T20:35:50.189Z
+date: 2025-01-11T16:51:59.355Z
+updated: 2025-01-18T17:10:08.965Z
 tags:
   - chatgpt
   - open-ai
@@ -40,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
  If you've never used this chatbot, learn [how to get the best results from ChatGPT.](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Building Emotional Awareness
 
  Suppose you can't focus on work after a difficult interaction with a friend. Rather than trying to power through, consider instead pulling up ChatGPT and asking, "What might I be feeling if I can't concentrate on work after a disagreement with a friend?"
@@ -51,8 +52,9 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 ![Screenshot of ChatGPT providing EQ advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-16-at-8-50-37-am.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Suddenly, you're not just "feeling bad." You've got a more acute description of how you're feeling: tension and guilt. This articulation is the first step towards understanding and managing your emotions, which are crucial parts of EQ.
 
 ## Enhancing Empathy
@@ -70,15 +72,13 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 ![Screenshot of ChatGPT providing advice to develop EQ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-16-at-8-52-45-am.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  ChatGPT might offer something like, "You could say, 'I value our collaborative spirit and feel frustrated when my ideas aren't considered. Could we discuss how to ensure everyone's thoughts are taken into account?'"
 
  And with a simple AI interaction, you've just taken a feeling of frustration and crafted a constructive response—one that is not reactive or overly emotional. That is emotional self-regulation at its finest.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## ChatGPT and Relationship Skills
 
  Managing relationships can sometimes feel like a circus act. But what if you could practice your performance before the main show?
@@ -100,13 +100,15 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 ![Screenshot of ChatGPT providing follow up response regarding anxiety](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/3-2-anxiety-preso.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also ask follow-up questions for advice on how to regulate your anxiety. For example, ask, "How can I respond constructively when I'm criticized?" This prompt is like having a personal tutor for dealing with criticism—a key aspect of emotional self-regulation. Of course, you can always learn [how to write your own effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/).
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Making the Most of ChatGPT While Recognizing Limitations
 
  Let's pause and acknowledge that AI, for all its digital capabilities, isn't quite capable of capturing all the nuances of human emotion. However, while it's not a perfect substitute for a human, ChatGPT can serve as a springboard for emotional intelligence development.
@@ -119,14 +121,11 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
  If you're interested in developing your emotional intelligence, ChatGPT might be of use. As an AI language model, you can lean on it for a conversational workout to strengthen your emotional intelligence muscles. Let's explore how.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -135,4 +134,23 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-immersive-storytelling-harnessing-top-10-text-innovations-in-videos/"><u>[Updated] 2024 Approved Immersive Storytelling Harnessing Top 10 Text Innovations in Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-choosing-the-ultimate-action-cam-does-black-gopro-outshine-x1000v/"><u>[Updated] In 2024, Choosing the Ultimate Action Cam Does Black GoPro Outshine X1000V?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-elite-laughter-photo-composer-tool/"><u>2024 Approved Elite Laughter Photo Composer Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/achieving-optimal-health-through-chatgpt-strategies/"><u>Achieving Optimal Health Through ChatGPT Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-glossary-simplified-essential-terms-for-all-scales/"><u>AI Glossary Simplified: Essential Terms for All Scales</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-rivalry-unveiled-comparing-forefront-ai-and-the-chatgpt-model/"><u>AI Rivalry Unveiled: Comparing Forefront AI and the ChatGPT Model</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-showdown-is-gemini-more-effective-than-chatgpt/"><u>AI Showdown: Is Gemini More Effective Than ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-the-gap-between-human-and-machine-writing/"><u>Bridging the Gap Between Human and Machine Writing</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-s23-tactical-edition-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy S23 Tactical Edition Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/facilitating-online-discussions-with-ai-powered-tools/"><u>Facilitating Online Discussions with AI-Powered Tools</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-xs-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XS iOS? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-windows-movie-maker-your-gateway-into-the-world-of-digital-cartoons/"><u>In 2024, Windows Movie Maker Your Gateway Into the World of Digital Cartoons</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722990773004-sea-of-thieves-overcome-the-frustrating-loading-screen-issue/"><u>Sea of Thieves - Overcome the Frustrating Loading Screen Issue</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-ranking-ereader-devices-a-comprehensive-guide/"><u>Top-Ranking eReader Devices : A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-language-experience-why-claude-3-is-better-than-gpt-3/"><u>Transform Your Language Experience: Why Claude 3 Is Better Than GPT-3</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-power-of-visual-data-a-users-guide-to-finding-images-on-facebook/"><u>Unlock the Power of Visual Data: A User's Guide to Finding Images on Facebook</u></a></li>
+</ul></div>
 

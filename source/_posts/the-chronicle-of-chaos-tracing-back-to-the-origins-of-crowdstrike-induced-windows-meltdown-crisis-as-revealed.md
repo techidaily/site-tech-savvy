@@ -1,7 +1,7 @@
 ---
 title: "The Chronicle of Chaos: Tracing Back to the Origins of CrowdStrike-Induced Windows Meltdown Crisis , as Revealed"
-date: 2025-01-06T21:42:10.521Z
-updated: 2025-01-13T00:37:20.909Z
+date: 2025-01-17T16:49:26.984Z
+updated: 2025-01-18T16:22:45.224Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,17 +176,24 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-editorxperience-deep-dive-complete-look-at-androvids-features-for-2024/"><u>[New] EditorXperience Deep Dive – Complete Look at AndroVid's Features for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-affordable-subscriber-boost-buy-and-sell-youtube-views/"><u>[Updated] Affordable Subscriber Boost Buy & Sell YouTube Views</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-transform-stories-in-a-flash-free-extensions-and-mobile-magic/"><u>2024 Approved Transform Stories in a Flash – Free Extensions & Mobile Magic</u></a></li>
-<li><a href="https://some-tips.techidaily.com/affordable-high-quality-discover-how-apples-sub-100-airpods-counterpart-might-revolutionize-your-audio-experience/"><u>Affordable High-Quality: Discover How Apple's Sub-$100 AirPods Counterpart Might Revolutionize Your Audio Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehensive-microsoft-surface-pro-8-evaluation-the-ultimate-device-for-professionals-analysis-on-zdnet/"><u>Comprehensive Microsoft Surface Pro 8 Evaluation: The Ultimate Device for Professionals? - Analysis on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engaging-with-algorithms-mistrals-encounter-with-chatgpt/"><u>Engaging with Algorithms: Mistral's Encounter With ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/healthy-eating-strategies-using-gpt-assist/"><u>Healthy Eating Strategies Using GPT-Assist</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-12-mini-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your iPhone 12 mini</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-slow-motion-capture-with-android-a-beginners-guide/"><u>In 2024, Mastering Slow-Motion Capture with Android A Beginner's Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/safe-and-smart-the-ultimate-guide-to-choosing-the-perfect-phone-for-your-child-insights/"><u>Safe and Smart: The Ultimate Guide to Choosing the Perfect Phone for Your Child - Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-everyone-should-use-apple-pages-a-breakdown-of-its-5-essential-features-and-advantages/"><u>Why Everyone Should Use Apple Pages: A Breakdown of Its 5 Essential Features and Advantages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wrist-worn-wonders-compared-a-detailed-breakdown-of-google-pixel-watch-and-apple-watch-series-nine-for-savvy-consumers-zdnet/"><u>Wrist-Worn Wonders Compared: A Detailed Breakdown of Google Pixel Watch and Apple Watch Series Nine for Savvy Consumers | ZDNET</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-7-best-voice-changer-recorder-apps/"><u>[New] 2024 Approved Top 7 Best Voice Changer Recorder Apps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-ideal-internet-spots-curated-custom-tones-downloads/"><u>[New] Ideal Internet Spots Curated Custom Tones Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-switch-to-picture-in-picture-for-youtube-videos-on-iphones/"><u>[New] Switch to Picture-in-Picture for YouTube Videos on iPhones</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-dynamic-and-simple-building-a-subscriber-button-for-youtube-using-filmora/"><u>[Updated] In 2024, Dynamic and Simple Building a Subscriber Button for YouTube Using Filmora</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-15-fun-filled-multiplayer-titles-for-friends/"><u>2024 Approved 15 Fun-Filled Multiplayer Titles for Friends</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-pun-picture-studio-chucklecrafts/"><u>2024 Approved Pun Picture Studio ChuckleCrafts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analyzing-career-prospects-for-prompt-engineers/"><u>Analyzing Career Prospects for Prompt Engineers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/brace-yourself-for-fun-the-best-of-chatgpts-game-collection/"><u>Brace Yourself For Fun: The Best of ChatGPT's Game Collection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-resume-writing-via-chatgpt-techniques/"><u>Cutting-Edge Resume Writing via ChatGPT Techniques</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-updates-rtx-2070-super-graphics-card-drivers-for-windows-1011/"><u>Download & Updates: RTX 2070 Super Graphics Card Drivers for Windows 10/11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ai-frontiers-predicting-the-arrival-of-gpt-5/"><u>Exploring AI Frontiers: Predicting the Arrival of GPT-5?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-chatgpt-for-perfect-pre-interview-skills/"><u>Leverage ChatGPT for Perfect Pre-Interview Skills</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-6-typical-mishaps-in-chatgpt-conversations/"><u>Overcoming 6 Typical Mishaps in ChatGPT Conversations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-windows-11s-bluetooth-driver-hurdles-a-step-by-step-success-story/"><u>Overcoming Windows 11'S Bluetooth Driver Hurdles – A Step-by-Step Success Story</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/overcoming-windows-readiness-check-stagnation-expert-solutions/"><u>Overcoming Windows Readiness Check Stagnation: Expert Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/push-boundaries-of-dialogue-the-undiscovered-functions-in-chatgpt/"><u>Push Boundaries of Dialogue: The Undiscovered Functions in ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-gen-hackers-tracking-7-emerging-trends/"><u>The Next-Gen Hackers: Tracking 7 Emerging Trends</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-6-gratuit-logiciels-de-conversion-video-pour-mp4-guide-complet/"><u>Top 6 Gratuit Logiciels De Conversion Vidéo Pour MP4 : Guide Complet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/urgent-improvements-for-enriching-chatgpt-plugin-experience/"><u>Urgent Improvements for Enriching ChatGPT Plugin Experience</u></a></li>
 </ul></div>
 

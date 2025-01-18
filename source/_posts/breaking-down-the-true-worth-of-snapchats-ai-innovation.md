@@ -1,7 +1,7 @@
 ---
 title: Breaking Down the True Worth of Snapchat's AI Innovation
-date: 2025-01-07T21:44:03.571Z
-updated: 2025-01-12T16:00:33.769Z
+date: 2025-01-11T16:49:52.161Z
+updated: 2025-01-18T17:34:52.606Z
 tags:
   - chatgpt
   - open-ai
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fb
 ![Snapchat Logo on top of Blurred OpenAI Logos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-and-openai-logo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Snapchat uses the same [large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) (LLM) as ChatGPT. The GPT model is a powerful LLM that composes coherent paragraphs, adopts different writing styles, and uses everyday language. Its output almost seems indistinguishable from human writing.
@@ -43,14 +43,10 @@ thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fb
 ![Snapchat My AI Explaining the Details of an Image of an Object](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-recognizing-image-of-object.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Snapchat My AI Explaining the Elements of an Image of a Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/my-ai-recognizing-image-of-person.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -68,10 +64,6 @@ Close
 
 ![Snapchat My AI Continuing the Roleplay Request to Portray Ash from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-continuing-roleplay-request.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
 ## 3\. My AI Can Pull Real-Time Information
@@ -84,13 +76,13 @@ Close
 
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Try testing the limits of My AI’s accuracy. It pulls updated information from various publications and resources, including those on international events.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Snapchat’s Location Services Are Wholly Utilized
 
@@ -99,7 +91,7 @@ Close
 ![Asking Snapchat About Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-test.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
@@ -107,6 +99,10 @@ Close
 Close
 
  Just note that Snapchat also displays your active location if you enable GPS services. But you can turn off this feature to ensure more privacy, Click your avatar on the top-left corner of the screen, then go to > **Settings** \> **Privacy Controls** \> **My Location**. Toggle the Ghost Mode button to hide your location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. My AI Solves Intermediate Word Problems Correctly
 
@@ -117,6 +113,10 @@ Close
 ![Asking Snapchat a Probability and Statistics Math Problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-word-problem-probability.jpg)
 
 ![Asking Snapchat a Riddle About Family Relatives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-riddle-family-relatives.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -155,16 +155,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-how-to-pick-a-vr-gear-is-mobile-mobility-more-attractive-than-cable-connections/"><u>[New] 2024 Approved How to Pick a VR Gear Is Mobile Mobility More Attractive Than Cable Connections?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-mastering-zoom-for-fb-live-broadcasts/"><u>[New] 2024 Approved Mastering Zoom for FB Live Broadcasts</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-harnessing-techniques-for-superior-pics-free-of-charge/"><u>2024 Approved Harnessing Techniques for Superior Pics, Free of Charge</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-yet-reliable-the-omoton-t1-tablet-support-reviewed/"><u>Budget-Friendly Yet Reliable: The Omoton T1 Tablet Support Reviewed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-advice-from-toms-gadget-hub-unveiling-the-best-in-tech/"><u>Expert Advice From Tom's Gadget Hub: Unveiling the Best in Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-top-4-breakthrough-health-innovations-unveiled-by-apple-a-comprehensive-review/"><u>Exploring the Top 4 Breakthrough Health Innovations Unveiled by Apple: A Comprehensive Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-does-predictive-ai-make-its-predictions/"><u>How Does Predictive AI Make Its Predictions?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-avoid-falling-for-bingchats-pseudo-cryptocurrency-schemes/"><u>How to Avoid Falling for BingChat's Pseudo-Cryptocurrency Schemes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/journey-upgrade-unlock-pro-features-of-copilot/"><u>Journey Upgrade - Unlock Pro Features of Copilot</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/studio-luminance-ranking-the-best-17-light-devices-for-2024/"><u>Studio Luminance Ranking the Best 17 Light Devices for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-mp3-audio-devices-expert-review/"><u>Top Rated MP3 Audio Devices - Expert Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-10-hidden-functions-to-enhance-your-canva-artistry/"><u>[New] 2024 Approved Top 10 Hidden Functions to Enhance Your Canva Artistry</u></a></li>
+<li><a href="https://win-data.techidaily.com/discover-how-to-find-and-adjust-your-control-panel-settings-on-windows-os-with-yl-computings-expert-guide/"><u>Discover How to Find and Adjust Your Control Panel Settings on Windows OS with YL Computing's Expert Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/flawless-content-creation-the-4-biggest-mistakes-to-dodge-using-chatgpt/"><u>Flawless Content Creation - The 4 Biggest Mistakes to Dodge Using ChatGPT</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-peak-happiness-uprising-in-crowds/"><u>New 2024 Approved Peak Happiness Uprising in Crowds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preventing-predictable-problems-with-generative-tech/"><u>Preventing Predictable Problems with Generative Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-transforming-dall-e-webp-to-jpegpng/"><u>Step by Step: Transforming DALL-E WebP to JPEG/PNG</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-overlooked-foundation-of-ai-success-enhancing-machine-learning-with-essential-data-insights/"><u>The Overlooked Foundation of AI Success: Enhancing Machine Learning with Essential Data Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-dirt-5s-pc-crash-problem-solutions-unveiled/"><u>Troubleshooting Dirt 5'S PC Crash Problem: Solutions Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-enigma-of-chatbots-debunking-9-popular-beliefs/"><u>Unraveling the Enigma of Chatbots: Debunking 9 Popular Beliefs</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/vn-video-editor-for-windows-a-concise-review-for-2024/"><u>VN Video Editor for Windows A Concise Review for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zerogpt-and-detectors-can-they-be-trusted-completely/"><u>ZeroGPT & Detectors: Can They Be Trusted Completely?</u></a></li>
 </ul></div>
 

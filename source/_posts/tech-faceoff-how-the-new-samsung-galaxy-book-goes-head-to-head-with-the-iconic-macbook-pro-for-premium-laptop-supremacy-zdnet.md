@@ -1,7 +1,7 @@
 ---
 title: "Tech Faceoff: How the New Samsung Galaxy Book Goes Head-to-Head with the Iconic MacBook Pro for Premium Laptop Supremacy | ZDNet"
-date: 2025-01-06T19:07:15.095Z
-updated: 2025-01-13T01:07:18.903Z
+date: 2025-01-13T16:20:02.356Z
+updated: 2025-01-18T17:29:24.564Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ If you're going to be one of those people, read on.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 * [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)
@@ -36,10 +32,6 @@ If you're going to be one of those people, read on.
 * [The best robot vacuum and mop combos (and if they're worth the money)](https://www.zdnet.com/article/best-robot-vacuum-mop/)
 
 You don't want to mess up this transfer, because not only could you lose data, but the next person could end up being unable to use the iPhone you sold or gave them. Follow these steps for a successful result for both of you. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  1\. Update
 
@@ -61,6 +53,10 @@ These are the iPhones that can run iOS 15:
 
 If your iPhone is one of these and is not running the latest version of iOS 15, then I recommend upgrading to the latest release to get the best experience. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. Look out for apps that need additional handholding during a transfer
 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
@@ -76,7 +72,7 @@ I'd definitely check any banking and financial apps for any special process invo
 **Also:** [**The 5 best payment apps (Venmo isn't your only option)**](https://www.zdnet.com/article/best-payment-app/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3\. Protect your data
@@ -92,7 +88,7 @@ Don't have enough iCloud space? Don't worry! Apple will let you borrow some [tem
 **Also:** [**Here's a hidden way to increase your iCloud storage**](https://www.zdnet.com/article/the-secret-hidden-way-you-can-double-apples-maximum-2tb-icloud-storage-limit/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Get ready for the transfer
@@ -108,6 +104,10 @@ Tap **Get Started** to begin the process of backing up your iPhone and getting r
 Apple has made transferring to a new iPhone easy.
 
 Screenshot/Adrian Kingsley-Hughes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. Wiping the old iPhone
 
@@ -136,16 +136,16 @@ Remember, once you start this process, there's no going back!
 
 **Also:** [**iOS 15 privacy and security checklist**](https://www.zdnet.com/article/ios-15-ultimate-privacy-and-security/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### See also
 
 * [6 things you can do to give your devices a spring cleaning](https://www.zdnet.com/article/6-things-you-can-do-to-give-your-devices-a-spring-cleaning/)
 * [How to clean your Apple Watch in 5 steps](https://www.zdnet.com/article/how-to-clean-your-apple-watch-in-5-steps/)
 * [How to clean and sanitize your AirPods](https://www.zdnet.com/article/how-to-clean-and-sanitize-your-airpods/)
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
 
@@ -187,17 +187,20 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-new-standard-how-does-av1-outperform-vp9/"><u>[New] 2024 Approved The New Standard How Does AV1 Outperform VP9?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ow-to-block-youtube-ads-on-chromefirefoxandroidiphone-for-2024/"><u>[New] How to Block YouTube Ads on Chrome/Firefox/Android/iPhone for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-why-cant-i-see-video-on-sony-a6400-for-2024/"><u>[New] Why Can’t I See Video on Sony A6400 for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-eagle-eyes-for-blocks-no-more-chat-from-someone-for-2024/"><u>[Updated] Eagle Eyes for Blocks No More Chat From Someone for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gigglegraphyguild-funnyframestudio/"><u>2024 Approved GiggleGraphyGuild FunnyFrameStudio</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-practices-for-effective-chatgpt-interactions-from-github/"><u>Best Practices for Effective ChatGPT Interactions From Github</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-decision-making-with-top-5-artificial-intelligence-tools/"><u>Enhancing Decision-Making with Top 5 Artificial Intelligence Tools</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-brother-hl-l2370dw-drivers-easy-installation-guide-included/"><u>Get the Newest Brother HL-L2370DW Drivers - Easy Installation Guide Included</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-4-welcomes-everyone-despite-freedom-to-use-plus-continues-offering-6-superior-services/"><u>GPT-4 Welcomes Everyone: Despite Freedom to Use, Plus Continues Offering 6 Superior Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/self-esteem-in-study-habits-not-leaning-on-chatgpt/"><u>Self-Esteem in Study Habits: Not Leaning on ChatGPT</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/state-of-the-vr-industry-for-2024/"><u>State of the VR Industry for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unforeseen-consequences-of-upgrading-to-ios-18-community-insights-and-regrets-on-the-latest-apple-software/"><u>Unforeseen Consequences of Upgrading to iOS 18: Community Insights & Regrets on the Latest Apple Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-from-download-to-implementation-installing-obs-on-a-macpc/"><u>[Updated] 2024 Approved From Download to Implementation Installing OBS on a MacPC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-speech-clarity-mastering-googles-translation-technology-for-2024/"><u>[Updated] Speech Clarity Mastering Google’s Translation Technology for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/controlling-windows-11s-advanced-security-filter/"><u>Controlling Windows 11'S Advanced Security Filter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/deciphering-hulus-mystery-tips-and-tricks-for-overcoming-error-rununk13/"><u>Deciphering Hulu's Mystery: Tips and Tricks for Overcoming ERROR RUNUNK13</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-apple-iphone-12-pro-max-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From Apple iPhone 12 Pro Max without Password?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-a-composers-selection-the-best-10-websites-to-download-and-explore-diverse-montage-music-genres/"><u>New In 2024, A Composers Selection The Best 10 Websites to Download and Explore Diverse Montage Music Genres</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preserve-your-movie-night-magic-with-a-the-croods-dvd-copy/"><u>Preserve Your Movie Night Magic with a 'The Croods' DVD Copy!</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/quick-and-easy-methods-to-transform-any-video-into-iphone-compatible-formats/"><u>Quick & Easy Methods to Transform Any Video Into iPhone-Compatible Formats</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-and-simple-guide-converting-videos-to-mobile-friendly-format-in-seconds/"><u>Quick & Simple Guide: Converting Videos to Mobile-Friendly Format in Seconds!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-conversion-techniques-transforming-m2ts-files-into-mkv-format/"><u>Seamless Conversion Techniques: Transforming M2TS Files Into MKV Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-no-cost-transforming-individual-gifs-into-full-videos-for-your-pc/"><u>Step-by-Step Guide (No Cost): Transforming Individual GIFs Into Full Videos for Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-converting-mp3-files-into-aiff-format-on-mac-pc-or-online/"><u>Step-by-Step Guide: Converting MP3 Files Into AIFF Format on Mac, PC, or Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-mcpr-files-into-mp4-video-format/"><u>Step-by-Step Guide: Transforming MCPR Files Into MP4 Video Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-your-dvd-collection-with-a-professional-dvd-storage-system/"><u>Streamline Your DVD Collection with a Professional DVD Storage System</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/top-6-minecraft-survival-house-ideas-you-can-try-for-2024/"><u>Top 6 Minecraft Survival House Ideas You Can Try for 2024</u></a></li>
 </ul></div>
 

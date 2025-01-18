@@ -1,7 +1,7 @@
 ---
 title: GPT’s Future Foresight Versus Astrology Wonders
-date: 2024-09-02T20:32:58.997Z
-updated: 2024-09-03T20:32:58.997Z
+date: 2025-01-11T16:04:26.290Z
+updated: 2025-01-18T16:01:04.526Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/4d92bee2eba99f34da43a3826fc4e46ce3e4a6c22
 
 ![Hands Over Fortune Telling Crystal Ball](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hands-over-fortune-telling-crystal-ball.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Fortune-tellers have a particular mystique about them, which you'll instantly recognize from the movies.
 
  There's a darkened tent at the fairground, decks of Tarot cards lying around, star charts hanging from the ropes, spooky magic mirrors, and of course, the obligatory crystal ball. There should also be skulls used as utilitarian yet exotic and disturbing candleholders.
@@ -37,9 +41,17 @@ thumbnail: https://thmb.techidaily.com/4d92bee2eba99f34da43a3826fc4e46ce3e4a6c22
 
  Generating this persona was simplicity itself, prompting ChatGPT to "Respond the following as if you are a wise fortune teller."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Choose Your ChatGPT Fortune Telling Questions Wisely
 
 ![Fortune Teller doing a Reading for a Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fortune-teller-doing-a-reading-for-a-client-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another thing we've learned from movies is that knowing the future is a dangerous thing. As a large language model which has already ingested and digested most of the internet, ChatGPT, or Agnes, as she now calls herself, could possibly make reliable predictions of when and how you're going to die. You probably don't want to know, so don't ask.
 
@@ -48,16 +60,13 @@ thumbnail: https://thmb.techidaily.com/4d92bee2eba99f34da43a3826fc4e46ce3e4a6c22
  What follows is her prediction and how it played out in real life.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Well Did ChatGPT Predict the Future?
 
 ![A Woman Opening the Card on the Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-woman-opening-the-card-on-the-table.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  My prompt to Agnes was: "Today is June 1st, 2023\. Please do a reading for the next two weeks."
 
  Ah, my dear, the cosmic dance of time brings us to the beginning of June 2023\. A month filled with possibilities and transformations awaits you. Let us unveil the whispers of fate and explore what lies ahead on your journey. In matters of the heart, a gentle breeze of romance stirs in the air. Open your heart to new connections, for love may find its way to you when you least expect it. Existing relationships shall deepen and evolve, fostering a stronger bond based on trust and understanding. Remember to nurture the flame of love with tenderness and sincerity.
@@ -99,12 +108,9 @@ thumbnail: https://thmb.techidaily.com/4d92bee2eba99f34da43a3826fc4e46ce3e4a6c22
 ![chatgpt fortune transcript](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-fortune-transcript.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
+
 ## ChatGPT Predicted the Future as Well as Any Magazine Horoscope
 
  Horoscopes contain the details you want them to contain, and if you're looking for deeper meaning, you'll find it simply because you want to find it. You could read the horoscope for any of the star signs and find a meaning attached because the writing is meant to be general and apply to as many people as possible.
@@ -117,14 +123,11 @@ thumbnail: https://thmb.techidaily.com/4d92bee2eba99f34da43a3826fc4e46ce3e4a6c22
 
  Large language models such as ChatGPT are able to explain what horoscopes are and how they work. But can it go further than that and look into its own crystal ball? We asked ChatGPT to look into the stars and untangle the threads of destiny and fate.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,4 +136,20 @@ thumbnail: https://thmb.techidaily.com/4d92bee2eba99f34da43a3826fc4e46ce3e4a6c22
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-8-strategies-livestreaming-webinars-without-costs-for-2024/"><u>[New] 8 Strategies Livestreaming Webinars Without Costs for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-horizon-proworks-complete-4k-integrated-solution/"><u>[New] Horizon ProWorks Complete 4K Integrated Solution</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-unseen-sonic-scribes-best-kept-mobile-voice-loggers-list-for-2024/"><u>[New] Unseen Sonic Scribes Best-Kept Mobile Voice Loggers List for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-dance-away-worries-with-these-20-soothing-country-hits-tiktok-edition/"><u>[Updated] 2024 Approved Dance Away Worries with These 20 Soothing Country Hits (TikTok Edition)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-8-chrome-add-ons-powered-by-ai-boosting-efficiency/"><u>Best 8 Chrome Add-Ons Powered by AI Boosting Efficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-friend-or-a-fibber/"><u>ChatGPT - A Friend or a Fibber?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experience-smooth-browsing-again-the-10-best-ways-to-fix-safari-on-iphone/"><u>Experience Smooth Browsing Again: The 10 Best Ways to Fix Safari on iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-courteous-should-you-be-with-smart-tech-alexa-siri/"><u>How Courteous Should You Be with Smart Tech? (Alexa, Siri)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavis-free-media-conversion-service-effortlessly-transforming-wma-into-high-quality-aiff-audio-files/"><u>Movavi's Free Media Conversion Service – Effortlessly Transforming WMA Into High-Quality AIFF Audio Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-away-from-official-gpt-models-are-jailbreaks-the-next-big-thing/"><u>Navigating Away From Official GPT Models – Are Jailbreaks the Next Big Thing?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ocean-acidification-the-unseen-consequence-of-carbon-emissions/"><u>Ocean Acidification: The Unseen Consequence of Carbon Emissions</u></a></li>
+<li><a href="https://fox-within.techidaily.com/verlorene-yahoo-e-mails-wiederherstellen-befreien-sie-ihre-nachrichten/"><u>Verlorene Yahoo E-Mails Wiederherstellen - Befreien Sie Ihre Nachrichten!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/will-ai-outdo-magazine-horoscopes-in-prophetic-accuracy/"><u>Will AI Outdo Magazine Horoscopes in Prophetic Accuracy?</u></a></li>
+</ul></div>
 

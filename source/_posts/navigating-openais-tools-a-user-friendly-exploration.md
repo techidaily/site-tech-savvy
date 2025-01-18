@@ -1,7 +1,7 @@
 ---
 title: "Navigating OpenAI's Tools: A User-Friendly Exploration"
-date: 2025-01-07T22:13:34.491Z
-updated: 2025-01-12T21:26:53.192Z
+date: 2025-01-12T17:44:51.059Z
+updated: 2025-01-18T17:12:55.813Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Can the OpenAI API Do?
 
  The [OpenAI API](https://platform.openai.com/) packs in a bunch of utilities for programmers. If you intend to deliver in-app AI daily, OpenAI will make your life easier with the following abilities.
@@ -47,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
  After telling it to be "a helpful virtual assistant," here's how one of our command-line chats went with the GPT-3.5-turbo model:
 
 ![Chat completion chat CLI logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chat-completion-chat-cli-logs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can even improve the model's performance by supplying parameters like temperature, presence-penalty, frequency-penalty, and more. If you've ever used ChatGPT, you already know how OpenAI's chat completion model work.
 
@@ -67,7 +67,11 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 ![Text completion model test via CLI more complete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/text-completion-model-test-via-cli-more-complete.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Speech-to-Text
@@ -77,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
  However, OpenAI says there's no difference between its Whisper model and the one in open-source. So it offers endless opportunities for integrating a multilingual transcriber and translator AI into your app at scale.
 
  The endpoint usage is simple. All you have to do is to supply the model with an audio file and call the **openai.Audio.translate** or **openai.Audio.transcribe** endpoint to translate or transcribe it respectively. These endpoints accept a maximum file size of 25 MB and support most audio file types, including mp3, mp4, MPEG, MPGA, m4a, wav, and webm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Text Comparison
 
@@ -118,16 +118,12 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 
 ![Image generation test for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/image-generation-test-for-openai.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use the OpenAI API
 
 ![OpenAI API secret key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-api-secret-key-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ​​​​​ The OpenAI API usage is simple and follows the conventional API consumption pattern.
@@ -137,6 +133,10 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 3. Make API calls to your chosen model endpoints via a server-side language like Python or JavaScript (Node). Feed these to your custom APIs and test your endpoints.
 4. Then [fetch custom APIs via JavaScript](http://www.makeuseof.com/how-to-consume-apis-in-react-using-fetch-and-axios/) frameworks like React, Vue, or Angular.
 5. Present data (user requests and model responses) in a visually appealing UI, and your app is ready for real-world use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Can You Create With the OpenAI API?
 
@@ -150,7 +150,7 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 6. Create programming language-specific code completion plugins for code editors and integrated development environments (IDEs).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Build Endlessly With the OpenAI APIs
@@ -178,21 +178,16 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-expanding-youtube-audience-through-perpetual-creative-commons/"><u>[New] 2024 Approved Expanding YouTube Audience Through Perpetual Creative Commons</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-stepwise-strategy-for-transforming-your-youtube-videos-with-imovie/"><u>[Updated] In 2024, Stepwise Strategy for Transforming Your YouTube Videos with iMovie</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-navigating-the-world-of-virtual-engagements-effects-filters-and-more-for-2024/"><u>[Updated] Navigating the World of Virtual Engagements Effects, Filters, & More for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-artistic-anomaly-top-10-unique-affordable-mac-drawers-free/"><u>2024 Approved Artistic Anomaly Top 10 Unique, Affordable Mac Drawers (Free)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-future-worlds-converge-or-diverge-metaverse-vs-omniverse-debated/"><u>2024 Approved Future Worlds Converge or Diverge? Metaverse Vs. Omniverse Debated</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-tips-and-tricks-for-professional-audio-in-audacity/"><u>2024 Approved Tips and Tricks for Professional Audio in Audacity</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/alienware-dell/"><u>効果的な手順でAlienware DELLのシステムデータバックアップガイド</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/are-there-reports-of-nintendo-switch-online-service-interruptions-or-is-the-problem-localized/"><u>Are There Reports of Nintendo Switch Online Service Interruptions, or Is the Problem Localized?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-practices-for-effective-chatgpt-interactions-from-github/"><u>Best Practices for Effective ChatGPT Interactions From Github</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/building-serenity-daily-grounding-techniques-via-ai/"><u>Building Serenity: Daily Grounding Techniques via AI</u></a></li>
-<li><a href="https://discover-community.techidaily.com/creative-edge-in-video-making-discover-the-ultimate-14-content-creation-platforms/"><u>Creative Edge in Video Making: Discover the Ultimate 14 Content Creation Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-future-of-interactive-ai-platforms-in-europe-the-eus-ai-act-and-its-impact-on-gpt-like-systems/"><u>Decoding the Future of Interactive AI Platforms in Europe - The EU's AI Act and Its Impact on GPT-Like Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-decision-making-with-top-5-artificial-intelligence-tools/"><u>Enhancing Decision-Making with Top 5 Artificial Intelligence Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-4-welcomes-everyone-despite-freedom-to-use-plus-continues-offering-6-superior-services/"><u>GPT-4 Welcomes Everyone: Despite Freedom to Use, Plus Continues Offering 6 Superior Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/self-esteem-in-study-habits-not-leaning-on-chatgpt/"><u>Self-Esteem in Study Habits: Not Leaning on ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unforeseen-consequences-of-upgrading-to-ios-18-community-insights-and-regrets-on-the-latest-apple-software/"><u>Unforeseen Consequences of Upgrading to iOS 18: Community Insights & Regrets on the Latest Apple Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-set-of-free-photo-screen-shifts/"><u>[Updated] 2024 Approved Ultimate Set of Free Photo Screen Shifts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-marketplace-risks-with-chatgpt-apps-alerted/"><u>Apple's Marketplace Risks with ChatGPT Apps Alerted</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719578993417-dive-into-a-new-culture-mastering-croatian-here-are-the-top-7-reasons/"><u>Dive Into a New Culture - Mastering Croatian: Here Are The Top 7 Reasons</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/educators-guide-top-screen-capture-tools/"><u>Educator's Guide Top Screen Capture Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-professionalism-in-resume-crafting-chatgpt-techniques/"><u>Elevate Professionalism in Resume Crafting (ChatGPT Techniques)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ai-depths-power-less-to-powerful/"><u>Exploring AI Depths: Power-Less to Powerful</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-vivo-s17e-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Vivo S17e to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-honor-100-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Honor 100</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/solving-network-interface-dilemmas-with-ease-expert-tips-from-yl-software/"><u>Solving Network Interface Dilemmas with Ease - Expert Tips From YL Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-gap-in-self-review-systems/"><u>The Gap in Self-Review Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-ios-chatgpt-triumphs-over-browser-counterparts/"><u>Why iOS ChatGPT Triumphs Over Browser Counterparts</u></a></li>
 </ul></div>
 

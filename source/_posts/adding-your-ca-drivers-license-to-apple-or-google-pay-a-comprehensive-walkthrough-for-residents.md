@@ -1,7 +1,7 @@
 ---
 title: "Adding Your CA Driver’s License to Apple or Google Pay: A Comprehensive Walkthrough for Residents"
-date: 2025-01-09T22:56:20.641Z
-updated: 2025-01-12T23:57:52.048Z
+date: 2025-01-15T17:17:38.541Z
+updated: 2025-01-18T17:05:38.623Z
 tags:
   - apple
 categories:
@@ -28,17 +28,9 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to use Apple Pay online and in stores
 
 **What you need:** iPhone, banking information
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Set up Apple Pay in the Wallet app
 
@@ -70,10 +62,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -81,6 +69,10 @@ Double-clicking, or, rather, double-pressing, the button on the right side of yo
 Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
@@ -115,6 +107,10 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
@@ -122,10 +118,6 @@ You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there i
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -137,6 +129,10 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Apple Cash?
 
 [Apple Cash](https://www.zdnet.com/article/how-to-use-apple-cash-family-to-help-kids-develop-good-money-habits/) is a digital card in your Apple Wallet that you can use to send or receive money through the Messages app. Similar to [Venmo](https://www.zdnet.com/article/paypal-vs-venmo/) or [Cash App](https://www.zdnet.com/finance/what-is-cash-app-and-how-does-it-work-a-comprehensive-guide/), you can use Apple Cash to send a friend money to reimburse them for a meal, for example, and that friend can check out with their accumulated Apple Cash at merchants that support Apple Pay.
@@ -146,7 +142,7 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
@@ -162,6 +158,10 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -197,21 +197,18 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-enjoy-a-stream-of-nine-complete-christmas-capsules-on-youtube/"><u>[Updated] In 2024, Enjoy a Stream of Nine Complete Christmas Capsules on YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-proven-film-edits-that-enhance-visual-storytelling/"><u>[Updated] Proven Film Edits That Enhance Visual Storytelling</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beware-deceptions-uncover-the-truth-about-scam-ridden-mac-app-store/"><u>Beware Deceptions: Uncover the Truth About Scam-Ridden Mac App Store</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/conversione-mov-a-3g2-online-e-gratuita-con-movavi/"><u>Conversione MOV a 3G2 Online E Gratuita Con Movavi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-apples-hidden-gem-in-the-latest-iphone-software-update/"><u>Discovering Apple's Hidden Gem in the Latest iPhone Software Update</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/easily-organize-your-windows-ablenotifications-with-our-expert-tips-from-yl-computing-the-ultimate-how-to-guide/"><u>Easily Organize Your Windows Ablenotifications with Our Expert Tips From YL Computing – The Ultimate How-To Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exciting-gpt-enhancements-essential-new-features-announced/"><u>Exciting GPT Enhancements: Essential New Features Announced</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-how-to-easily-replace-or-remove-a-protective-layer-from-mobile-devices/"><u>Expert Advice: How to Easily Replace or Remove a Protective Layer From Mobile Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/keep-apple-devices-powered-and-cool-at-the-same-time-discover-our-latest-3-in-1-magsafe-dockstation/"><u>Keep Apple Devices Powered and Cool at the Same Time - Discover Our Latest 3-in-1 MagSafe DockStation!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionary-magsafe-battery-pack-sleek-design-and-rapid-charge/"><u>Revolutionary MagSafe Battery Pack: Sleek Design & Rapid Charge</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stop-the-storage-how-to-disable-chatgpts-memory-tracker/"><u>Stop the Storage: How to Disable ChatGPT’s Memory Tracker</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-rise-of-intelligent-entertainment-through-ai-innovation/"><u>The Rise of Intelligent Entertainment Through AI Innovation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-claude-pro-insights-into-its-functionality/"><u>Unveiling Claude Pro: Insights Into Its Functionality</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-top-list-best-5-tools-for-creating-talking-avatars/"><u>Updated Top List Best 5 Tools for Creating Talking Avatars</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/utilizing-multilingual-chatgpt-effectively/"><u>Utilizing Multilingual ChatGPT Effectively</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/whisking-together-a-perfect-dough-base/"><u>Whisking Together a Perfect Dough Base</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-essential-simple-shelter-strategies-in-mc/"><u>2024 Approved Essential Simple Shelter Strategies in MC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-hide-or-disable-suggestions-in-your-instagram-feed/"><u>How to Hide or Disable Suggestions in Your Instagram Feed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/implementing-precise-timing-features-for-engaged-youtube-audiences/"><u>Implementing Precise Timing Features for Engaged YouTube Audiences</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-nokia-c300-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Nokia C300 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-look-at-adobes-cloud-and-comparable-services/"><u>In 2024, In-Depth Look at Adobe's Cloud & Comparable Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-music-downloads-easily-change-soundcloud-songs-to-mp4-format-for-optimal-playback/"><u>Mastering Music Downloads: Easily Change SoundCloud Songs to MP4 Format for Optimal Playback</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp3windows-media-player-2024/"><u>MP3ファイルがうまく再生されない場合、Windows Media Player 2024で何をすべきか？解決策とヒント</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-driver-anomaly-corrected-display-normalized/"><u>Nvidia Driver Anomaly Corrected - Display Normalized</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preserving-video-fidelity-during-mov-file-format-change-to-m4v/"><u>Preserving Video Fidelity During MOV File Format Change to M4V</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-and-effective-guide-converting-mov-videos-into-mkv-format/"><u>Quick & Effective Guide: Converting MOV Videos Into MKV Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamlessly-merging-multiple-mp4-videos-a-simple-guide/"><u>Seamlessly Merging Multiple MP4 Videos: A Simple Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-own-copy-expert-tips-for-saving-loom-videos-using-3-proven-strategies/"><u>Secure Your Own Copy: Expert Tips for Saving Loom Videos Using 3 Proven Strategies</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-hp-printer-no-response/"><u>Troubleshooting HP Printer No Response</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Freed ChatGPT Windows Users' Handbook
-date: 2024-09-02T20:34:49.052Z
-updated: 2024-09-03T20:34:49.052Z
+date: 2025-01-12T17:36:32.267Z
+updated: 2025-01-18T16:24:56.907Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/fbaa6ca73b5c5357b713260d15cd44fa4ef0636a4
 
  Unlike ChatGPT, which is only usable through your browser when connected to the internet, FreedomGPT is an alternative you can install on your computer. You can then chat with it about anything you want without sharing your data with others.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Not Just Use ChatGPT?
 
  ChatGPT is admittedly awesome at what it does. It can be daunting to wrap your head around how these AI chatbots work, so take some time to check out [how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) if you're still learning about this topic.
@@ -38,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/fbaa6ca73b5c5357b713260d15cd44fa4ef0636a4
  That's why many companies have forbidden using ChatGPT internally, and why it's generally considered a bad idea to share sensitive information with it.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. OpenAI Sets Limits on How You Use ChatGPT
 
  Are you among those who believe that ChatGPT is getting progressively worse? Does it seem to perform slower than before, and the answers it provides becoming less useful? It's not your imagination.
@@ -61,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/fbaa6ca73b5c5357b713260d15cd44fa4ef0636a4
 
  With FreedomGPT's "app" part downloaded and installed, run its installed local instance.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## How to Download AI Models in FreedomGPT
 
  Although FreedomGPT is a complete AI chatbot solution, it initially lacks "the brains" that will allow you to interact with it: an AI model.
@@ -77,14 +78,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Even the most compact AI models can be multiple gigabytes in size, so it may take a while to download your chosen model. Fortunately, FreedomGPT will show you a download progress bar.  
 ![FreedomGPT Downloading Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-downloading-model-1.jpg)
 4. Once you've downloaded an AI mode, a new button will appear on the left, allowing you to **Select** which downloaded AI model you'd like to use.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![FreedomGPT AI Model Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-ai-model-selection-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Chat With FreedomGPT
 
  Fortunately, if you're familiar with ChatGPT, you'll notice that FreedomGPT's UI is very similar.
@@ -92,11 +91,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. The first thing you will see after choosing an AI model are some examples of prompts you can try out and information on its capabilities and limitations. If you want to try out one of the example prompts, click on it. However, you can type anything you wish in the input field at the bottom of FreedomGPT's window.  
 ![FreedomGPT Interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-interface-1.jpg)
 2. Press **Enter** after typing your prompt, and it will show up in FreedomGPT's conversation view. The AI model's response will appear below your prompt. If you don't like how it's going, you can cut a response short by clicking on the **Stop Responding** button, which appears while a reply is produced.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![FreedomGPT Chatting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-chatting-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Switch Models in FreedomGPT
 
@@ -107,9 +111,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. The model management panel is identical to the screen you saw when you first ran FreedomGPT. You can switch to another model from this panel by clicking on **Select** before its name or **Download** and install more models.  
 ![FreedomGPT Switch Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-switch-models-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Talk to an AI Whenever You Like With FreedomGPT
 
  Although it's less feature-rich and advanced than ChatGPT, FreedomGPT has many pros going for it You don't share whatever you type with others, it's available while you're offline, it's easy to set up and use, and best of all, it's free to use.
@@ -118,14 +119,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Unlike ChatGPT, which is only usable through your browser when connected to the internet, FreedomGPT is an alternative you can install on your computer. You can then chat with it about anything you want without sharing your data with others.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,4 +132,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-best-software-to-start-your-youtube-videos-off-strongly/"><u>[New] In 2024, The Best Software to Start Your YouTube Videos Off Strongly</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-revolutionize-your-discord-conversations-learn-to-pin-effectively-for-2024/"><u>[New] Revolutionize Your Discord Conversations Learn to Pin Effectively for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-ryan-kajis-riches-the-tale-of-youtubes-youngest-mogul/"><u>[Updated] 2024 Approved Ryan Kaji’s Riches The Tale of YouTube's Youngest Mogul</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adapting-to-mobile-using-gpt-3-effectively/"><u>Adapting to Mobile: Using GPT-3 Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/duel-of-the-dialogues-myai-or-googles-chatgpt-on-snapchat/"><u>Duel of the Dialogues: MyAI or Google's ChatGPT on Snapchat</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-the-constant-restart-challenge-in-your-windows-10-system/"><u>Easy Solutions for the Constant Restart Challenge in Your Windows 10 System</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-13t-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi 13T Pro Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-the-experts-selection-of-windows-compatible-noise-cancellation-applications/"><u>In 2024, The Experts Selection of Windows-Compatible Noise Cancellation Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/installation-guide-for-androids-chatgpt-widget/"><u>Installation Guide for Android's ChatGPT Widget</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/installing-bavarder-linuxs-chatgpt-routine/"><u>Installing Bavarder: Linux's ChatGPT Routine</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/oca6-due-to-mutations-in-p-gene-encoding-a-phosphatase-enzyme-involved-in-melanocyte-function-and-melanogenesis/"><u>OCA6 - Due to Mutations in P Gene Encoding a Phosphatase Enzyme Involved in Melanocyte Function and Melanogenesis.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/supercharge-productivity-with-these-chatgpt-plugins/"><u>Supercharge Productivity with These ChatGPT Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-elite-quartet-of-ai-hardware-innovations-taking-center-stage/"><u>The Elite Quartet of AI Hardware Innovations Taking Center Stage</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/top-free-hard-drive-sync-software-les-meilleurs-choix-pour-votre-mac-et-pc/"><u>Top Free Hard Drive Sync Software - Les Meilleurs Choix Pour Votre Mac Et PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/training-for-tech-writing-compelling-chatbot-queries/"><u>Training for Tech: Writing Compelling Chatbot Queries</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/using-ai-chatgpt-to-boost-sheet-productivity/"><u>Using AI: ChatGPT to Boost Sheet Productivity</u></a></li>
+</ul></div>
 

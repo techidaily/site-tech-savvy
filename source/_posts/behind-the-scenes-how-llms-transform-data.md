@@ -1,7 +1,7 @@
 ---
 title: "Behind the Scenes: How LLMs Transform Data"
-date: 2025-01-06T18:23:47.146Z
-updated: 2025-01-13T00:21:42.756Z
+date: 2025-01-13T17:03:09.846Z
+updated: 2025-01-18T16:50:07.464Z
 tags:
   - chatgpt
   - open-ai
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 
 ![Screenshot of question about bats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-bats.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  However, it isn't infallible, and as this example shows, sometimes you will need to supply additional information to get the desired response.
 
 ![Screenshot of out of context bat reply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-out-of-context-bat-reply.jpg)
@@ -64,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
  In this instance, we deliberately threw a bit of a curve ball to demonstrate how easily context is lost. But humans can misunderstand the context of questions too, and it only needs an extra prompt to correct the response.
 
 ![Screenshot of question about what type of wood is a bat made from](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-what-type-of-wood-is-a-bat-made-from.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To generate these responses, LLMs use a technique called natural language generation (NLG). This involves examining the input and using the patterns learned from its data repository to generate a contextually correct and relevant response.
 
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
  There is also an argument that ethical concerns can be considered a limitation of LLMs, but this subject falls outside the scope of this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 Examples of Popular LLMs
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
  Here are some of the most widely used LLMs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. GPT
@@ -107,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
  This is the initial LLM used by Google Bard, Google's AI chatbot. The version Bard was initially rolled out with was described as a "lite" version of the LLM. The more powerful PaLM iteration of the LLM superseded this.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. BERT
@@ -115,6 +115,10 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
  BERT stands for Bi-directional Encoder Representation from Transformers. The bidirectional characteristics of the model differentiate [BERT from other LLMs like GPT](https://www.makeuseof.com/what-is-bert-language-model-how-differ-gpt/).
 
  Plenty more LLMs have been developed, and offshoots are common from the major LLMs. As they develop, these will continue to grow in complexity, accuracy, and relevance. But what does the future hold for LLMs?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Future of LLMs
 
@@ -128,10 +132,6 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 4. **Greater Integration**: LLMs could become personal digital assistants. Think of Siri on steroids, and you get the idea. LLMs could become virtual assistants that help you with everything from suggesting meals to dealing with your correspondence.
 
  These are just a few of the areas where LLMs are likely to become a larger part of the way we live.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## LLMs Transforming and Educating
 
@@ -158,19 +158,17 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-bandicam-reviewed-the-latest-tech-enhancements-and-tips/"><u>[New] 2024 Approved Bandicam Reviewed The Latest Tech Enhancements and Tips</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-legitimate-techniques-for-video-popularity-surge/"><u>[Updated] Legitimate Techniques for Video Popularity Surge</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-excellence-in-streaming-zooms-6-cam-selection/"><u>2024 Approved Excellence in Streaming - Zoom’s #6 Cam Selection</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unrivaled-gaming-monitors-at-4k-quality/"><u>2024 Approved Unrivaled Gaming Monitors at 4K Quality</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210027112-9780744033427-a-history-of-magic-witchcraft-and-the-occult/"><u>A History of Magic, Witchcraft, and the Occult | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/asset-authorship-who-responsible-for-ais-intellectual-works/"><u>Asset Authorship: Who Responsible For AI's Intellectual Works?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oppo-a59-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-export-transferring-your-chatgpt-records/"><u>Navigating the Export: Transferring Your ChatGPT Records</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/repair-corrupted-photos-easily-using-our-free-downloading-toolkit/"><u>Repair Corrupted Photos Easily Using Our Free Downloading Toolkit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-cell-phone-bargains-on-the-4th-of-july-find-your-perfect-match-techradar/"><u>Top Cell Phone Bargains on the 4Th of July: Find Your Perfect Match | TechRadar</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-education-through-ai-top-student-centric-applications-of-chatgpt/"><u>Transforming Education Through AI: Top Student-Centric Applications of ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upgrade-your-display-game-with-apple-vision-pro-top-tips-for-scheduling-an-unbeatable-demo-zdnet/"><u>Upgrade Your Display Game with Apple Vision Pro - Top Tips for Scheduling an Unbeatable Demo | ZDNET</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fast-track-to-short-video-treasure-troves-free-access-for-2024/"><u>[New] Fast Track to Short Video Treasure Troves (Free Access) for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tep-by-step-making-youtube-video-thumbnails-mobile/"><u>[New] Step-by-Step Making YouTube Video Thumbnails (Mobile)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-ultimate-oculus-rift-game-hits-of-the-season/"><u>[New] Ultimate Oculus Rift Game Hits of the Season</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030489207-pc/"><u>「撮影素材の組み込みが楽 - PCとスマートフォンで動画への加工方法」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44cm44k544og44os44kq5aplusplus5bplusc44oy44od44oj44ov44kp44oz44oe44kk44kv44gn6auy5zob6loq44gq6yyy6zplusz44gr44gk44ge44gm5a2m44g244cn/"><u>「ステレオ対応ヘッドフォンマイクで高品質な録音について学ぶ」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029764512-android/"><u>最新の自由音楽プレイヤー - Androidユーザによるベスト選び！</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/discover-the-leading-youtube-clones-top-rated-free-video-hosting-services-online/"><u>Discover the Leading YouTube Clones: Top-Rated, Free Video Hosting Services Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029880424-handbrake/"><u>HandBrakeで動画を最適化するための簡単なガイド: コンパクト形式へ</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-permanently-delete-files-from-iphone-with-top-rated-eraser-apps/"><u>How to Permanently Delete Files From iPhone with Top-Rated Eraser Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030144340-iphone/"><u>IPhone動画フォーマット変換ガイド集</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-with-manycam-top-choice-in-virtual-webcam-and-broadcasting-apps/"><u>Live Streaming with ManyCam: Top Choice in Virtual Webcam and Broadcasting Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-quick-reference-mastering-text-meanings/"><u>Win11 Quick Reference: Mastering Text Meanings</u></a></li>
 </ul></div>
 

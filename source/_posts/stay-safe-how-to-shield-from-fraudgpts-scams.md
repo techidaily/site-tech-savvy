@@ -1,7 +1,7 @@
 ---
 title: Stay Safe! How to Shield From FraudGPT's Scams
-date: 2025-01-06T01:08:18.129Z
-updated: 2025-01-13T01:13:27.870Z
+date: 2025-01-11T17:22:29.605Z
+updated: 2025-01-18T17:21:05.039Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is FraudGPT?
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 ![A scammer using a fishing rod to steal data from a person’s laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scammer-using-a-fishing-rod-to-steal-data.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  FraudGPT is an AI tool powered by a large language model that is particularly fine-tuned to help cyber criminals commit cybercrime. The subscription-based AI tool allows threat actors to facilitate their criminal activities like carding, phishing, and malware creation.
@@ -47,12 +47,16 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
  To better picture the tool, you can think of FraudGPT as ChatGPT but for fraud. But how exactly does FraudGPT work, and how are cybercriminals using it?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Does FraudGPT Work?
 
 ![A collage of details involved in browsing displayed on top of a device help my a person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/web-of-trust.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-control-collage-concept%5F30589263.htm#query=safe%20browsing&position=45&from%5Fview=search&track=ais)
 
@@ -68,17 +72,9 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 
  So, to use the tool, criminals could just prompt the chatbot as they'd do with ChatGPT. They could ask it to, say, write a phishing email for Jane Doe, who works at company ABC, or maybe ask it to write malware using C++ to steal all the PDF files from a Windows 10 computer. Criminals would basically just come up with evil mechanization and let the chatbot do the heavy lifting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Can You Protect Yourself From FraudGPT?
 
 ![worrying about red flags online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/thinking-person-using-laptop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Despite being a new kind of tool, the threat posed by FraudGPT is not fundamentally different. You could say it introduces more automation and efficiency to already established methods of executing cybercrime.
 
@@ -92,6 +88,10 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 * Shred documents containing personally identifying or financial information when no longer needed.
 
  For more on how to protect yourself, read our guide on [how to protect yourself in the era of AI](https://www.makeuseof.com/how-to-protect-privacy-ai/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay Informed to Protect Yourself
 
@@ -118,20 +118,21 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-select-the-right-font-to-stand-out-on-youtube/"><u>[New] 2024 Approved Select the Right Font to Stand Out on YouTube</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-discover-free-pioneering-apps-to-supercharge-social-storytelling/"><u>[New] In 2024, Discover FREE Pioneering Apps to Supercharge Social Storytelling</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-strategies-and-costs-promoting-videos-effectively/"><u>[New] Strategies and Costs Promoting Videos Effectively</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-rhythmic-resonance-how-to-choose-music-for-online-fame/"><u>[Updated] 2024 Approved Rhythmic Resonance How to Choose Music for Online Fame</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-making-your-mark-with-effective-facebook-cover-vids-for-2024/"><u>[Updated] Making Your Mark with Effective Facebook Cover Vids for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-five-key-strategies-for-effective-script-narration/"><u>2024 Approved Five Key Strategies for Effective Script Narration</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-x100-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo X100 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-side-gigs-pc-building-tips-and-retro-handhelds/"><u>ChatGPT Side Gigs, PC Building Tips, and Retro Handhelds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empowering-your-smartphone-with-chatgpt-techniques/"><u>Empowering Your Smartphone with ChatGPT Techniques</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max Passcode without Computer?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/invest-in-security-not-ai-the-right-way-to-create-windows-11-keys/"><u>Invest in Security, Not AI: The Right Way to Create Windows 11 Keys</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-potential-within-chatgpts-token-boundaries/"><u>Maximizing Potential Within ChatGPT's Token Boundaries</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/these-9-fake-chatgpt-virus-and-malware-apps-can-steal-your-data/"><u>These 9 Fake ChatGPT Virus and Malware Apps Can Steal Your Data</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-11-creative-gpt-inquiries-to-shape-your-storys-characters/"><u>Top 11 Creative GPT Inquiries to Shape Your Story's Characters</u></a></li>
-<li><a href="https://win-blog.techidaily.com/trouble-with-battlefield-2042-and-directx-errors-our-step-by-step-solution-helps/"><u>Trouble with Battlefield 2042 and DirectX Errors? Our Step-by-Step Solution Helps!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-be-amongst-the-few-essential-metaverse-technology/"><u>[New] Be Amongst the Few Essential Metaverse Technology</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-enhancing-flight-experience-selecting-premium-fpv-drone-propellers/"><u>[New] Enhancing Flight Experience Selecting Premium FPV Drone Propellers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-expert-tips-for-youtube-channel-aesthetics-finding-optimal-sizes/"><u>[Updated] 2024 Approved Expert Tips for YouTube Channel Aesthetics Finding Optimal Sizes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-messenger-video-guide-dimensions-file-type-elapsed/"><u>2024 Approved Messenger Video Guide Dimensions, File Type, Elapsed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726224646325-movavi/"><u>優先選用 Movavi: 無枉情曲地改造你的音樂 – 轉換器自由對等服務</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-conversion-transforming-mxf-files-into-mp4-format-with-movavi/"><u>Free Online Conversion: Transforming MXF Files Into MP4 Format with Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuiti-convertitore-trp-a-mpg-di-movavi-ottimizza-i-tuoi-dati-online/"><u>Gratuiti Convertitore TRP a MPG Di Movavi: Ottimizza I Tuoi Dati Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-fix-errors-when-uploading-hevc-files-in-adobe-premiere-pro/"><u>How to Fix Errors When Uploading HEVC Files in Adobe Premiere Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-the-bmc-firmware-on-a-dell-idrac-server/"><u>How to Update the BMC Firmware on a Dell iDRAC Server</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-leveraging-consumer-reviews-for-youtube-wealth-creation/"><u>In 2024, Leveraging Consumer Reviews for YouTube Wealth Creation</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ize-video-potential-a-complete-guide-to-youtube-thumbnail-dimensions-for-2024/"><u>Maximize Video Potential A Complete Guide to YouTube Thumbnail Dimensions for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp3-to-aac-transformation-at-no-cost-discover-the-simplicity-of-movavis-online-service/"><u>MP3 to AAC Transformation at No Cost - Discover the Simplicity of Movavi's Online Service</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trasforma-immagini-png-in-gif-gratuitamente-online-con-movavi/"><u>Trasforma Immagini PNG in GIF Gratuitamente Online Con Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trois-techniques-innovantes-pour-retirer-un-objet-dune-image-en-2024/"><u>Trois Techniques Innovantes Pour Retirer Un Objet D'une Image en 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/une-solution-rapide-pour-transformer-des-files-ts-en-vob-essayez-gratuitement-movavi/"><u>Une Solution Rapide Pour Transformer Des Files Ts en Vob : Essayez Gratuitement Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-power-in-windows-11-banishing-slowness/"><u>Unleash Power in Windows 11: Banishing Slowness</u></a></li>
 </ul></div>
 

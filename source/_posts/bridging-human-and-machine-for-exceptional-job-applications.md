@@ -1,7 +1,7 @@
 ---
 title: Bridging Human and Machine for Exceptional Job Applications
-date: 2024-09-02T20:34:39.882Z
-updated: 2024-09-03T20:34:39.882Z
+date: 2025-01-13T17:01:05.783Z
+updated: 2025-01-18T17:14:37.746Z
 tags:
   - chatgpt
   - open-ai
@@ -57,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f261
 
  You may be wondering what ChatGPT means for the future of writers and if it means enormous unemployment lines are in your future. You might find some comfort in learning the [reasons why ChatGPT won’t take your writing job](https://www.makeuseof.com/why-chatgpt-wont-take-writing-job/ "5 Reasons Why ChatGPT Won’t Take Your Writing Job").
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Prompt ChatGPT to Write the Elements of Your Cover Letter
 
  Once you’ve submitted the job description, the next step is to ask for a cover letter. Instead of asking it to write one document, you can ask it to focus on each part of your cover letter to create a more focused one.
@@ -68,33 +65,36 @@ thumbnail: https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f261
 
 ![Screenshot of introductory paragraph by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-introductory-paragraph-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The first paragraph is where you provide basic details about who you are and why you want the job. You can also give a general overview of why you’re the right candidate for the job and why the position excites you.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Your Qualifications
 
 ![Screenshot of summary of qualifications by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-summary-of-qualifications-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The next part of your cover letter summarizes your experience and qualifications and how they apply to the job you’re applying for. This is where you can include stories about relevant projects or situations to give the hiring manager or recruiter some insight into how you work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Explain How You Align With the Company’s Values and Goals
 
 ![Screenshot of aligning with values and goals of organization by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-aligning-with-values-and-goals-of-organization-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In this section of your cover letter, you want to illustrate that you understand the company’s mission and have done your research on the company. You want to focus on how your goals align with the organization’s, and you can also include positive factors you’ve heard about the company culture.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Close With a Call to Action
 
 ![Screenshot of closing paragraph with call to action by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-closing-paragraph-with-call-to-action-by-chatgpt.jpg)
@@ -108,8 +108,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Image of a math mistake](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/image-of-a-math-mistake.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After the AI generates the different parts of your cover letter, you can put them together and read it out loud to see if it makes sense.
 
  Use the content ChatGPT generates as the foundation of your cover letter. You can add elements that add a personal touch to the cover letter, giving the reader an idea about your personality.
@@ -119,8 +120,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  This is why adding what makes you unique to the letter ChatGPT generates can be a vital part of using the platform for job applications and getting noticed. If you enjoy using the platform, you may be interested in learning about the [amazing ChatGPT Chrome extensions for better AI prompts and answers in browsers](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/ "6 Amazing ChatGPT Chrome Extensions for Better AI Prompts and Answers in Browsers").
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Work Smarter, Not Harder With ChatGPT
 
  Using ChatGPT can help you work more efficiently, increasing your productivity. You can use AI to generate documents as the foundation for any written content you’re working on.
@@ -131,14 +133,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Access to a platform that can create a cohesive document can be a godsend to people who dislike writing. While ChatGPT can help you increase your efficiency, you still have to review the documents it generates to ensure your cover letter gets noticed.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,4 +146,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-definitive-list-of-top-quality-mics-for-yt-styles/"><u>[New] In 2024, The Definitive List of Top-Quality Mics for YT Styles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-the-art-of-photo-editing-with-snapseed/"><u>[New] Master the Art of Photo Editing with Snapseed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-explore-8-leading-youtube-growth-strategies-for-2024/"><u>[Updated] Explore 8 Leading Youtube Growth Strategies for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-pexels-explained-how-to-maximize-your-use-of-public-domain-photos/"><u>2024 Approved Pexels Explained How to Maximize Your Use of Public Domain Photos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-counseling-from-ai-unveiling-5-new-bots/"><u>Cutting-Edge Counseling From AI: Unveiling 5 New Bots</u></a></li>
+<li><a href="https://win-webster.techidaily.com/downloadable-wall-art-cristiano-ronaldos-legendary-moments-with-manchester-united-high-quality-hd-graphics-by-yl-computing/"><u>Downloadable WALL ART: Cristiano Ronaldo's Legendary Moments with Manchester United - High-Quality HD Graphics by YL Computing</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/lg-monitor-troubleshooting-fixing-driver-issues-on-windows-operating-systems/"><u>LG Monitor Troubleshooting: Fixing Driver Issues on Windows Operating Systems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/refining-your-tiktok-profile-age-with-ease/"><u>Refining Your TikTok Profile Age with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-tabletop-experience-with-gpt-powered-imagination-boosting/"><u>Transformative Tabletop Experience with GPT-Powered Imagination Boosting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-mac-potential-chatgpt-use/"><u>Unlocking Mac Potential: ChatGPT Use</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-inside-tips-from-toms-hardware-experts/"><u>Unlocking Performance: Inside Tips From Tom’s Hardware Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-are-the-implications-of-altering-chatgpt/"><u>What Are the Implications of Altering ChatGPT?</u></a></li>
+</ul></div>
 

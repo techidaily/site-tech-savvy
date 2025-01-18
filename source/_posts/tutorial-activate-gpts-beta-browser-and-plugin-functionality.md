@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: Activate GPT's Beta Browser & Plugin Functionality"
-date: 2025-01-07T20:44:05.751Z
-updated: 2025-01-12T18:35:26.306Z
+date: 2025-01-11T17:38:26.584Z
+updated: 2025-01-18T16:23:00.821Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OpenAI Rolls Out Web Browsing and Plugins to ChatGPT Plus Users
@@ -39,7 +39,7 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 > If you are a ChatGPT Plus user, enjoy early access to experimental new features, which may change during development. We’ll be making these features accessible via a new beta panel in your settings, which is rolling out to all Plus users over the course of the next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are ChatGPT Plugins?
@@ -53,6 +53,10 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
  For example, when you gain access to ChatGPT Plugins, you'll be able to use the ChatGPT Kayak Plugin to search for and streamline holiday ideas, find the best deals, and create unique holiday ideas, all from the warm embrace of the ChatGPT interface.
 
  Unfortunately, my ChatGPT Plus account doesn't have access to any Plugins yet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Can Browse the Web
 
@@ -69,14 +73,10 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 ![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -90,15 +90,15 @@ Close
 
  Now, these aren't the most challenging data searches, but it shows that ChatGPT's Web Browsing tool is up and running proper.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Enable ChatGPT Plugins and Web Browsing
 
  You can enable ChatGPT Plugins and Web Browsing using the new Beta Features Settings options.
 
 ![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Head to your **Settings** in the bottom left-hand corner of the ChatGPT screen
 2. Select **Settings**
@@ -134,22 +134,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/educe-buffering-and-lag-turn-on-av1-in-youtube-settings-for-2024/"><u>[New] Reduce Buffering & Lag - Turn On AV1 in YouTube Settings for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-x-media-converter-desktop-version/"><u>2024 Approved X-Media Converter Desktop Version</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-down-unveiling-the-instant-italian-prohibition/"><u>ChatGPT Down: Unveiling the Instant Italian Prohibition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/edge-intelligence-breakdown-on-device-ai-functioning/"><u>Edge Intelligence Breakdown: On-Device AI Functioning</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficiently-managing-gpt-conversations-via-structured-directories/"><u>Efficiently Managing GPT Conversations via Structured Directories</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-correct-the-multiple-irp-complete-issues-leading-to-a-system-crash-on-windows/"><u>How to Correct the 'Multiple IRP Complete' Issues Leading to a System Crash on Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-shield-your-speech-from-gpt-written-records/"><u>How to Shield Your Speech From GPT’ Written Records</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-turn-on-chatgpts-new-beta-web-browsing-and-plugins-features/"><u>How to Turn on ChatGPT's New Beta Web Browsing and Plugins Features</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-2-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Lava Blaze 2 5G Bootloader Easily</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-comprehensive-look-at-razer-kiyo-webcam/"><u>In 2024, Comprehensive Look at Razer Kiyo Webcam</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inspiration-unleashed-nine-ways-chatgpt-bolsters-novelists/"><u>Inspiration Unleashed: Nine Ways ChatGPT Bolsters Novelists</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/proven-strategies-to-repair-unresponsive-laptop-audio-systems/"><u>Proven Strategies to Repair Unresponsive Laptop Audio Systems</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/seamless-obs-broadcast-setup-on-fb-for-2024/"><u>Seamless OBS Broadcast Setup on FB for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-uses-for-chatgpts-code-interpreter/"><u>Top 6 Uses for ChatGPT's Code Interpreter</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-meizu-21-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Meizu 21 Screen | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-elevating-video-experience-perfecting-the-mix-of-music-and-cinematography/"><u>Updated Elevating Video Experience Perfecting the Mix of Music and Cinematography</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-caution-is-essential-when-it-comes-to-ai/"><u>Why Caution Is Essential When It Comes to AI</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-synthesizing-success-in-metaverse-sales-techniques/"><u>[New] 2024 Approved Synthesizing Success in Metaverse Sales Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-directing-content-destination-from-imovie-files-to-youtube-platform/"><u>[New] In 2024, Directing Content Destination From iMovie Files To YouTube Platform</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-trailblazers-in-auditory-and-visual-creation-list/"><u>[New] Trailblazers in Auditory & Visual Creation List</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-key-metrics-to-track-igtv-video-analytics/"><u>[Updated] 2024 Approved Key Metrics to Track IGTV Video Analytics</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-how-to-add-videos-to-youtube-playlist/"><u>[Updated] How to Add Videos to YouTube Playlist?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-how-to-view-comments-on-youtube/"><u>[Updated] In 2024, How to View Comments on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/flvasfmovavi/"><u>在線免費FLV與ASF間改編工具，用Movavi進行影片格式轉換</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cambia-tus-archivos-de-video-mp4-a-formatos-de-alta-calidad-mpeg-4-sp-para-el-movil-sin-costo-alguno/"><u>Cambia Tus Archivos De Video MP4 a Formatos De Alta Calidad MPEG-4 SP Para El Móvil Sin Costo Alguno</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-sans-frais-de-videos-m4v-au-format-wma-en-ligne-via-movavi/"><u>Conversion Sans Frais De Vidéos M4V Au Format WMA En Ligne via Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertidor-gratuito-de-mp3-a-flac-en-linea-por-el-dia-movavi/"><u>Convertidor Gratuito De MP3 a FLAC en Línea Por El Día - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-online-file-converter-ram-arquivos-pelo-movavi/"><u>Gratis Online File Converter - Ram Arquivos Pelo Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuit-convertitore-di-file-wma-su-internet-con-movavi/"><u>Gratuit@ - Convertitore Di File WMA Su Internet Con Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-nokia-c02-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Nokia C02 Fingerprint Lock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-se-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone SE with iTunes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-tus-imagenes-jpeg-en-gratis-al-formato-gif-con-el-mejor-convertidor-en-linea/"><u>Transforma Tus Imágenes JPEG en Gratis Al Formato GIF Con El Mejor Convertidor en Línea</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformez-votre-fichier-amv-en-video-mp4-gratuite-online-avec-movavi/"><u>Transformez Votre Fichier AMV en Vidéo MP4 Gratuite - Online Avec Movavi</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/uncomplicated-online-music-conversion-top-6-free-ios-apps-for-video-and-audio-for-2024/"><u>Uncomplicated Online Music Conversion Top 6 Free iOS Apps for Video & Audio for 2024</u></a></li>
 </ul></div>
 

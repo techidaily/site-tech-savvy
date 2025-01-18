@@ -1,7 +1,7 @@
 ---
 title: "Chatbots on Guard: Protecting Privacy Against 3 Main Risks"
-date: 2024-09-02T20:34:32.167Z
-updated: 2024-09-03T20:34:32.167Z
+date: 2025-01-15T16:47:41.404Z
+updated: 2025-01-18T16:45:15.962Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 
  But the concerns don't stop here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How Does ChatGPT Learn?
 
  In order to provide information, large language models are trained with huge amounts of data. According to [Science Focus](https://www.sciencefocus.com/future-technology/gpt-3), ChatGPT-4 alone was fed 300 billion words of information during its training period. This isn't taken straight from a few encyclopedias. Rather, chatbot developers use masses of information from the internet to train their models. This can include data from books, movies, articles, Wikipedia entries, blog posts, comments, and even review sites.
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
  This is where things get a little blurry. If you ask ChatGPT-3.5 directly whether it has access to product reviews or article comments, you'll get a firm negative. As you can see in the screenshot below, GPT-3.5 states that it wasn't given access to user article comments or product reviews in its training.
 
 ![screenshot of chatgpt-3.5 conversation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-3-5-question.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Rather, it was trained using "a diverse range of text from the internet, including websites, books, articles, and other publicly available written material up until September 2021."
 
@@ -68,8 +76,9 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
  ChatGPT may be the biggest AI chatbot today, but chatbot privacy issues don't start and end with this provider. If you're using a shady chatbot with a lackluster privacy policy, your conversations may be misused, or highly sensitive information may be used in its training data.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Data Theft
 
  Like any online tool or platform, chatbots are vulnerable to cybercrime. Even if a chatbot did all it could to protect users and their data, there's always a chance that a savvy hacker will manage to infiltrate its internal systems.
@@ -83,8 +92,9 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
  In March 2023, MUO reported on a [fake ChatGPT Chrome extension stealing Facebook logins](https://www.makeuseof.com/fake-chatgpt-chrome-extension-steals-facebook-logins/). The plugin could exploit a Facebook backdoor to hack high-profile accounts and steal user cookies. This is just one example of numerous phony ChatGPT services designed to con unknowing victims.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Malware Infection
 
  If you're using a shady chatbot without realizing it, you may find the chatbot providing you with links to malicious websites. Maybe the chatbot has alerted you of a tempting giveaway, or provided a source for one of its statements. If the operators of the service have illicit intentions, the entire point of the platform may be to spread malware and scams via malicious links.
@@ -96,8 +106,9 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
  Additionally, you should never install any chatbot plugins and extensions without verifying their legitimacy first. Do a little research around the app to see if it's been well-reviewed, and also run a search of the app's developer to see if you find anything shady.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Chatbots Aren't Impervious to Privacy Issues
 
  Like most online tools nowadays, chatbots have been repeatedly criticized for their possible security and privacy pitfalls. Whether it's a chatbot provider cutting corners when it comes to user safety, or the ongoing risks of cyberattacks and scams, it's crucial that you know what your chatbot service is collecting on you, and whether it's employed adequate security measures.
@@ -110,14 +121,11 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 
  Millions of people now use AI chatbots worldwide, but there are some important privacy risks and concerns to keep in mind if you want to try out one of these tools.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +134,22 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-covertly-engage-with-fb-live-feeds/"><u>[New] Covertly Engage with FB Live Feeds</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-premier-choices-8-linux-editing-tools/"><u>[New] Premier Choices 8 Linux Editing Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-total-gaze-field-vr-device-overview/"><u>[Updated] Total Gaze Field VR Device Overview</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-unleashed-revolutionizing-task-management/"><u>ChatGPT Unleashed: Revolutionizing Task Management</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converting-text-to-tunes-employing-chatgpt-for-audio-crafting/"><u>Converting Text to Tunes: Employing ChatGPT for Audio Crafting</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-to-overcome-code-39-issues-on-your-windows-machine/"><u>Effective Solutions to Overcome Code 39 Issues on Your Windows Machine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/four-horizontal-sectors-regulating-the-future-of-ai/"><u>Four Horizontal Sectors Regulating the Future of AI</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-13-miniipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 13 mini/iPad Without Computer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hp-stream-11-laptop-portable-power-for-essential-pc-tasks/"><u>HP Stream 11 Laptop: Portable Power for Essential PC Tasks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-15-pro-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 15 Pro Lock Screen with Notifications?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-treacherous-waters-of-fraudgpt-interaction/"><u>Navigating the Treacherous Waters of FraudGPT Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-frontiers-in-programming-top-alternatives-to-chatgpt/"><u>New Frontiers in Programming: Top Alternatives to ChatGPT</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/picking-the-ideal-next-language-quest/"><u>Picking The Ideal Next-Language Quest</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/priorities-for-a-smooth-ai-conversation-experience/"><u>Priorities for a Smooth AI Conversation Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-do-it-yourself-with-upcoming-ai/"><u>Reimagining Do-It-Yourself with Upcoming AI</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "New Era of Employment: GPT's Replacement Potential?"
-date: 2024-09-02T20:37:17.305Z
-updated: 2024-09-03T20:37:17.305Z
+date: 2025-01-14T16:18:03.372Z
+updated: 2025-01-18T16:12:00.316Z
 tags:
   - chatgpt
   - open-ai
@@ -21,11 +21,19 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is ChatGPT?
 
 ![artificial intelligence brain connected to human being](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-4389372_1920-1.jpg)
 
 [ChatGPT is a chatbot](http://www.makeuseof.com/how-does-chatgpt-work/) that uses the GPT-3 (Generative Pretrained Transformer 3) framework, a highly advanced artificial intelligence (AI) model used for language processing developed by OpenAI. ChatGPT has more than 175 billion parameters, making it among the largest and most powerful language models available, and the model was trained using a massive amount of data from the internet and other sources.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do People Use ChatGPT?
 
@@ -39,16 +47,14 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
 
  These examples might make you think there’s [no limit to what ChatGPT can do](https://www.makeuseof.com/openai-lost-control-chatgpt/). However, that’s not an accurate assumption.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Will ChatGPT Replace Programmers?
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Whenever a new AI tool emerges on the tech scene, many people understandably wonder whether that innovation might get so advanced that it makes their jobs obsolete. Even people such as programmers, who have highly specialized skills, might face that worry.
 
  However, [ChatGPT’s limitations](http://www.makeuseof.com/openai-chatgpt-biggest-probelms/) make it incapable of entirely taking over programmers’ work. The ChatGPT site contains a sample interaction of someone using the tool to debug code, though.
@@ -64,9 +70,9 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some [criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/), ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Will ChatGPT Replace Other Jobs?
 
  You might wonder if [content writers should worry about ChatGPT](http://www.makeuseof.com/why-chatgpt-wont-take-writing-job/) taking their jobs. Fortunately, those professionals need not fear. ChatGPT responses are often repetitive and sometimes outdated, making them less valuable.
@@ -78,22 +84,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Elsewhere, people are explicitly [formatting questions to make ChatGPT ignore](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) its programming. That practice could spread misinformation. The question-and-answer site Stack Overflow also initiated a temporary ban on ChatGPT. Staff members explained the influx of ChatGPT-generated responses swamped content moderators who need some level of subject matter expertise to verify the accuracy, and [spotting generative AI written text](http://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) is next to impossible.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Deserves Caution
 
  The examples above and elsewhere highlight how ChatGPT might gradually change how employees work, but it won’t take over entire jobs. Instead, more people will start using ChatGPT to guide applicable parts of their workflows. If you’re thinking about using the chatbot for business, school, or pleasure, do so carefully and never assume you got wholly accurate answers.
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -102,4 +106,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-expert-techniques-for-converting-xml-ssa-to-high-end-srt/"><u>[New] 2024 Approved Expert Techniques for Converting XML, SSA to High-End SRT</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-elite-driving-sims-best-five-titles/"><u>[New] In 2024, Elite Driving Sims Best Five Titles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-subtitle-savant-strategies-for-unparalleled-srt-file-creation/"><u>[Updated] Subtitle Savant Strategies for Unparalleled SRT File Creation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-a-huge-impact-youtube-titles-that-sell/"><u>Crafting a Huge Impact YouTube Titles That Sell</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-choice-ultimate-list-of-premium-vpn-services-for-202n4-reviewed-on-zdnet/"><u>Experts' Choice: Ultimate List of Premium VPN Services for 202N4 Reviewed on ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-deep-learnings-concealed-mechanisms-ai-black-boxes-revealed/"><u>Exploring Deep Learning's Concealed Mechanisms: AI Black Boxes Revealed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-canva-tutorial-for-flawless-image-border-clearance/"><u>In 2024, Canva Tutorial for Flawless Image Border Clearance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/kid-safe-chatbot-interaction-unveiling-the-top-5-precautions/"><u>Kid-Safe Chatbot Interaction: Unveiling the Top 5 Precautions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-craft-integrating-gpt-my-bots-into-hobbies-and-artistry/"><u>Mastering the Craft: Integrating GPT-My Bots Into Hobbies and Artistry</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-tech-thinkers-debate-the-ai-landscape/"><u>Top 10 Tech Thinkers Debate the AI Landscape</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-how-to-modify-chatgpt/"><u>Understanding How to Modify ChatGPT</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/vloggers-ultimate-guide-to-best-gaming-microphones-for-2024/"><u>Vloggers' Ultimate Guide to Best Gaming Microphones for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wtv-a-avi-conversione-gratuita-e-on-line-con-convertitore-di-file-video-fast/"><u>WTV a AVI: Conversione Gratuita E On-Line Con Convertitore Di File Video Fast</u></a></li>
+</ul></div>
 

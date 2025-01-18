@@ -1,7 +1,7 @@
 ---
 title: AI's Imprint on Developer Routines
-date: 2025-01-08T18:16:53.326Z
-updated: 2025-01-12T21:57:11.176Z
+date: 2025-01-14T16:31:38.760Z
+updated: 2025-01-18T16:32:32.202Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
  The views on AI differ based on the profession and the level of experience of the developer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Profession
 
  SREs, security professionals, and game developers have unfavorable views on AI. This is possible because of security concerns brought about by feeding code or sensitive information to AI systems.
@@ -44,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
  For cloud developers, AI can help optimize infrastructure management by automating processes such as resource allocation, load balancing, monitoring, and performance tuning.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Experience
 
  Developers earlier in their careers and those learning to code are more likely to use AI tools possibly because it improves the speed of learning.
@@ -57,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 ### Countries
 
  Professional developers from India (83%), Brazil (78%), and Poland (70%) are among the developers using or planning to use AI tools in the future. This is probably because of the high growth of young developers from these countries. Developers from the United Kingdom, France, and Germany are less likely to use AI tools.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Are the Tasks Developers Are Using AI For?
 
@@ -73,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
  It’s worth noting that only a few developers are interested in using AI to collaborate with teammates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Benefits of AI for Developers
@@ -81,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  AI is beneficial to professional developers as well as those learning to code. Overall 33% see an increase in productivity as the most important benefit of using AI. Tools such as GitHub Copilot offer features like code suggestions, auto-completion, and error detection, which can significantly speed up the coding process.
@@ -94,13 +90,13 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
  The survey further categorized these benefits across different developer types. Increased productivity was a constant among all developer types.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Popular AI Tools That Developers Are Using in 2023
 
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Stack Overflow surveyed the popularity of various AI tools grouped between AI search tools and AI developer tools. From the data, developers are primarily using two tools, ChatGPT and GitHub Copilot.
 
@@ -117,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 ## How to Get Started With AI in Software Development
 
  As a software developer, you can get started with AI by incorporating code generation and editing tools in your development process. [Tools like GitHub Copilot](https://www.makeuseof.com/how-github-copilot-helps-you-code/) and Tabnine suggest code snippets based on the context as you type which can significantly cut down on development time. Additionally, ChatGPT is very useful for generating utility functions, UI components, and debugging code. With the right prompts, you can even [use ChatGPT to create web apps](https://www.makeuseof.com/chatgpt-how-build-web-app/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Future of AI-Assisted Software Development
 
@@ -139,22 +139,22 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-update-short-form-video-coverage/"><u>[New] In 2024, Update Short-Form Video Coverage</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-record-screen-on-huawei-mate-10p10-using-a-built-in-recorder/"><u>[Updated] How to Record Screen On Huawei Mate 10/P10 Using a Built-In Recorder</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-launchpad-for-newcomers-creating-a-successful-product-evaluation-vlog-for-2024/"><u>[Updated] Launchpad for Newcomers Creating a Successful Product Evaluation Vlog for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/amd-claims-epyc-cpu-outperforms-nvidias-arm-based-grace-superchip-by-double-in-various-tests/"><u>AMD Claims EPYC CPU Outperforms NVIDIA's ARM-Based Grace Superchip by Double in Various Tests</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-productivity-hacks-streamlining-your-everyday-tasks-with-proven-techniques-zdnet/"><u>Essential Productivity Hacks: Streamlining Your Everyday Tasks with Proven Techniques | ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/get-the-no-cost-videoaudio-format-changer-now-seamlessly-switch-your-files-from-any-source-to-mp4-and-save-mp3s/"><u>Get the No-Cost Video/Audio Format Changer Now – Seamlessly Switch Your Files From Any Source to MP4 and Save MP3s</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/hosting-charismatic-chats-keeping-audiences-hooked-live/"><u>Hosting Charismatic Chats Keeping Audiences Hooked Live</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-steelseries-arctis-5-microphone-issue-a-comprehensive-guide/"><u>How to Fix the SteelSeries Arctis 5 Microphone Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-api-integration-essentials/"><u>Mastering ChatGPT: API Integration Essentials</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/migrate-pictures-with-ease-mastering-the-move-from-google-photos-to-icloud-in-a-step-by-step-process/"><u>Migrate Pictures with Ease: Mastering the Move From Google Photos to iCloud in a Step-by-Step Process</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-rated-online-tools-for-converting-images-to-videos/"><u>New 2024 Approved Top-Rated Online Tools for Converting Images to Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/retrieving-ransacked-chatgpt-records/"><u>Retrieving Ransacked ChatGPT Records</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revision-imperatives-a-fresh-look-at-the-chatgpt-plugin-shop/"><u>Revision Imperatives: A Fresh Look at the ChatGPT Plugin Shop</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-gpt-primer-for-parent-guardians/"><u>The GPT Primer for Parent Guardians</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-new-frontier-of-ai-claudians-distinct-advantages-over-chatgpts-capabilities/"><u>The New Frontier of AI: Claudians' Distinct Advantages Over ChatGPT’s Capabilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-reviewed-non-apple-non-tile-wallet-airtag-offers-superior-tracking-in-depth-analysis/"><u>Top Reviewed Non-Apple, Non-Tile Wallet AirTag Offers Superior Tracking: In-Depth Analysis</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-action-cam-showdown-which-holds-the-crown-gopro-or-yi/"><u>[Updated] Action Cam Showdown Which Holds the Crown - GoPro or Yi?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-complexities-of-photo-hdr-in-photoshop/"><u>2024 Approved Navigating the Complexities of Photo-HDR in Photoshop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meta/"><u>音楽および動画META情報取得・確認・編集方法とソフトウェアレビュー</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-y100t-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo Y100t PC | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-how-to-take-long-exposure-shots-with-iphone/"><u>In 2024, How to Take Long Exposure Shots with iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone4k/"><u>IPhone上で最適化された4Kビデオ再生方法と問題解決ポイント</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-the-art-of-modifying-webex-meeting-captures-a-comprehensive-tutorial/"><u>Master the Art of Modifying Webex Meeting Captures - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-insta-ready-videos-three-simple-techniques-to-perfectly-crop-your-content/"><u>Mastering Insta-Ready Videos: Three Simple Techniques to Perfectly Crop Your Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-multifunctional-desktop-tools-a-guide-to-efficient-media-file-management/"><u>Mastering the Art of Multifunctional Desktop Tools: A Guide to Efficient Media File Management</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meet-the-future-of-portable-music-introducing-the-6th-gen-ipod-nano-from-apple/"><u>Meet the Future of Portable Music - Introducing the 6Th Gen iPod Nano From Apple</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nrg/"><u>Nrgファイル変換ガイド：ファイルをデコンプリメントし、新しい形式に</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reach-out-seamlessly-wonderfox-communication-solutions/"><u>Reach Out Seamlessly: WonderFox Communication Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-ending-non-registered-users-in-windows/"><u>Securely Ending Non-Registered Users in WIndows</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-c32-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from C32</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-gionee-f3-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Gionee F3 Pro Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-a-brief-review-of-capcut-translate-with-alternative-for-2024/"><u>Updated A Brief Review of CapCut Translate With Alternative for 2024</u></a></li>
 </ul></div>
 

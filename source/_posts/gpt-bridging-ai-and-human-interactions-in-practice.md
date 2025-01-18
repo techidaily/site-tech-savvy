@@ -1,7 +1,7 @@
 ---
 title: "GPT: Bridging AI and Human Interactions in Practice"
-date: 2024-09-02T20:35:35.883Z
-updated: 2024-09-03T20:35:35.883Z
+date: 2025-01-17T16:27:39.593Z
+updated: 2025-01-18T16:32:20.778Z
 tags:
   - chatgpt
   - open-ai
@@ -43,13 +43,14 @@ thumbnail: https://thmb.techidaily.com/d998ed1ce4fa21b446a75f0e6c9a8cf84aeb11cbd
 
  Many creators are using ChatGPT to brainstorm topic ideas. If you ask the tool to develop a list of topics, you'll probably find at least one or two that you think are worth exploring further. You can then do your own research and bring the content together in whatever form of media you'd prefer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Social Media Bios
 
 ![Man holding phone with Instagram on it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/man-holding-phone-with-instagram-on-it.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  Despite the problems that social media can cause, [having a presence on platforms like Twitter](https://www.makeuseof.com/how-to-make-twitter-profile-stand-out/) and Instagram can work in your favor. For example, you can demonstrate your expertise on a topic that you're passionate about—and potentially attract employment opportunities. Moreover, you can use social media to connect with an audience of like-minded people.
 
  Considering that social media bios typically aren't a lot of characters, it's easy to think of these as an afterthought. However, considering that you're fighting for attention with millions of other users, having something that instantly gives people an insight into who you are is crucial.
@@ -57,9 +58,9 @@ thumbnail: https://thmb.techidaily.com/d998ed1ce4fa21b446a75f0e6c9a8cf84aeb11cbd
  Creating a good social media bio can require a lot of thought, and you can use ChatGPT to help you create a draft. Once you've got a rough framework, you have more room to adjust everything to fit your personality.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Learning a New Language
 
 ![Photo of numerous countries' flags](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/joshua-fuller-tida-geog-s-unsplash.jpg)
@@ -71,11 +72,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Some users have asked ChatGPT for the most common words in their target language, and you can also ask the service how to translate certain words and phrases. On top of that, you might want to think about asking ChatGPT for a list of resources that you can add to your ecosystem.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503"><img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Market Research
 
 ![Two Work Areas at Home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/two-work-areas-at-home.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Whether you're an employee or a business owner, knowing what your customers want is crucial. Many companies make the mistake of spending a lot of time and energy creating products first, only to discover that nobody wants what they've made. However, market research can be challenging and time-consuming in equal measure.
 
@@ -92,24 +98,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  If you need additional information, you can always turn to a search engine later.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Software Development
 
 ![photo of a woman typing on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/woman-working-on-computer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  One of the most interesting ways that ChatGPT is being used is a little outside the box. As reported by [ABC News](https://www.abc.net.au/news/science/2023-01-25/chatgpt-midjourney-generative-ai-and-future-of-work/101882580), some people and companies are using the tool to help them with software development.
 
  In the article, one student in Australia mentioned that they had used the tool to help them write code. However, they also mentioned that human input still required to ensure everything was correct.
 
  Meanwhile, a company in Belgium mentioned that it was testing with ChatGPT to create software that would make it easier to put contracts together.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## You'll Find Several Uses for ChatGPT
 
  ChatGPT is an incredibly powerful tool, and you will find plenty of uses for it. From coming up with creative ideas to helping with software development, the solution looks like it'll disrupt several industries in the coming years.
@@ -120,14 +121,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  People in multiple industries have been using ChatGPT to improve their workflows and seek inspiration. If you're interested in finding out how the software is being used, you're in the right place; that's precisely what we'll discuss today.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +134,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-serene-strums-and-dance-steps-tiktoks-country-playlist-for-2024/"><u>[New] Serene Strums and Dance Steps TikTok's Country Playlist for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-tailoring-hashtags-for-impactful-fb-brand-presence/"><u>[New] Tailoring Hashtags for Impactful FB Brand Presence</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-livestream-quality-decision-opt-for-streamlabs-or-obs-in-2024/"><u>[Updated] Livestream Quality Decision Opt for Streamlabs or OBS, In 2024</u></a></li>
+<li><a href="https://discover-community.techidaily.com/digiarty-winx-dvdand/"><u>DIGIARTY WinX DVDマニュアル解説&設定方法 - 効果的な利用プログラム</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-ai-insights-into-advantages-threats/"><u>Dissecting AI: Insights Into Advantages, Threats</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excel-evolution-unlocked-by-integrating-ai-ingenuity-of-chatgpt/"><u>Excel Evolution Unlocked by Integrating AI Ingenuity of ChatGPT</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/facebook-photo-removal-a-comprehensive-guide-to-a-neater-profile/"><u>Facebook Photo Removal: A Comprehensive Guide to a Neater Profile</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-navigating-the-maze-of-youtube-short-mistakes/"><u>In 2024, Navigating the Maze of YouTube Short Mistakes</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-overcoming-freezing-problems-in-chrome-on-win10-computers/"><u>Step-by-Step Guide: Overcoming Freezing Problems in Chrome on Win10 Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-future-of-stories-top-4-innovative-ai-narrators/"><u>Unveiling the Future of Stories: Top 4 Innovative AI Narrators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-chatgpt-with-extensions/"><u>Unveiling the Power of ChatGPT with Extensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/write-less-achieve-more-with-ai-assistants/"><u>Write Less, Achieve More with AI Assistants</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/youtube-live-streaming-and-video-upload-encoder-recommendations/"><u>YouTube Live Streaming & Video Upload Encoder Recommendations</u></a></li>
+</ul></div>
 

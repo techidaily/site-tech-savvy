@@ -1,7 +1,7 @@
 ---
 title: Starting Your Journey with LangChain LLM
-date: 2024-09-02T20:35:44.983Z
-updated: 2024-09-03T20:35:44.983Z
+date: 2025-01-12T17:41:11.750Z
+updated: 2025-01-18T16:33:25.033Z
 tags:
   - chatgpt
   - open-ai
@@ -52,16 +52,13 @@ thumbnail: https://thmb.techidaily.com/8800b9d23bc87e05ba1bcbcb7871dcd72ced90a72
 * **Responses**: LangChain provides output parser tools to give answers in a suitable format as opposed to other LLMs whose model response consists of general text. When using AI in an application, it is preferred to have a structured response that you can program against.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Getting Started With LangChain LLM
 
  Now you will learn how to implement LangChain in a real use-case scenario to understand how it works. Before starting the development, you need to set up the development environment.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### Setting Up Your Development Environment
 
  First, [create a virtual environment](https://www.makeuseof.com/create-manage-python-virtual-environments/) and install the dependencies below:
@@ -77,8 +74,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
  The command above installs the packages and creates a virtual environment.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Import the Installed Dependencies
 
  First, import the necessary classes such as **LLMChain**, **OpenAI**, **ConversationChain**, and **PromptTemplate** from the **langchain** package.
@@ -88,6 +86,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 from langchain.memory import ConversationBufferWindowMemory`
 
  The LangChain classes outline and execute the language model chains.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Access OpenAI API Key
 
@@ -105,16 +107,10 @@ from langchain.memory import ConversationBufferWindowMemory`
 
 ![OpenAI API key naming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-naming.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You will receive a **secret key** prompt.
 
 ![OpenAI API key generated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-generated.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  Copy and store the API key in a safe place for future use.
 
 ## Developing an Application Using LangChain LLM
@@ -155,11 +151,16 @@ print(output)`
 
 ![Output of developing an application using LangChain](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-output.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Above is the expected output.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Rising Influence of LLMs
 
  LLMs consumption is growing rapidly and changing how humans interact with knowledge machines. Frameworks like LangChain are at the forefront of providing developers with a smooth and simple way to serve the LLMs to applications. Generative AI models like ChatGPT, Bard, and Hugging Face are also not left behind in advancing LLM applications.
@@ -170,14 +171,11 @@ print(output)`
 
  This article will provide an introduction to LangChain LLM. It will cover the basic concepts, how it compares to other language models, and how to get started with it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -186,4 +184,19 @@ print(output)`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-social-media-strategists-guide-top-10-ig-video-editing-apps/"><u>[New] Social Media Strategists' Guide Top 10 IG Video Editing Apps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-drone-shopping-secrets-hidden-insights-for-successful-buyers-for-2024/"><u>[Updated] Drone Shopping Secrets Hidden Insights for Successful Buyers for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-simultaneous-video-documentation/"><u>[Updated] In 2024, Simultaneous Video Documentation</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-network-security/"><u>[Updated] Network Security</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-streamlabs-competitors-in-the-livestream-arena/"><u>2024 Approved Streamlabs' Competitors in the Livestream Arena</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/factors-that-define-the-prompt-engineering-industry/"><u>Factors That Define the Prompt Engineering Industry</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/identifying-the-best-on-the-market-for-hdr-photography/"><u>Identifying the Best on the Market for HDR Photography</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interactive-engagement-gpts-role-in-reducing-loneliness/"><u>Interactive Engagement: GPT's Role in Reducing Loneliness</u></a></li>
+<li><a href="https://win-net.techidaily.com/locating-your-windows-server-2019-activation-code-using-powershell-a-step-by-step-guide/"><u>Locating Your Windows Server 2019 Activation Code Using PowerShell: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-prompt-engineering-in-ai-learning/"><u>Navigating Prompt Engineering in AI Learning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-gpt-decoded-essential-knowledge-for-families/"><u>The GPT Decoded: Essential Knowledge for Families</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/iuocpuocoplusodsplusocrplusocueodkplusodhplusocquoduplusocouocpdrpq5jluqbjgarpn7plo7dlpinmj5vjgqzjgqtjg4kg56ys5zub6yoo44ks44gu57s55lul44gx44gplus44gzig/"><u>ウィンクスビデオ・アイ:高度な音声変換ガイド 第四部をご紹介します</u></a></li>
+</ul></div>
 
