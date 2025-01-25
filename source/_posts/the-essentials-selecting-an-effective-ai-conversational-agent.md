@@ -1,7 +1,7 @@
 ---
 title: "The Essentials: Selecting an Effective AI Conversational Agent"
-date: 2024-08-29T19:48:21.580Z
-updated: 2024-08-30T19:48:21.580Z
+date: 2025-01-21T20:47:29.516Z
+updated: 2025-01-24T19:11:45.346Z
 tags:
   - chatgpt
   - open-ai
@@ -29,26 +29,28 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 * Data privacy is a concern when using chatbots like ChatGPT, so it's important to ensure the service has good privacy policies and avoids sharing personal information.
 * AI chatbots with better contextual understanding, like ChatGPT Plus, provide more detailed responses, distinguishing them from search engines.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Response Accuracy
 
  AI chatbots can sometimes fall prey to [AI Hallucination, meaning the output can be inaccurate or illogical](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/). While chatbots are good at responding to basic prompts, they occasionally struggle with longer or more complex questions. It's the kind of tradeoff you expect when talking about bleeding-edge technology.
 
 [Various factors affect chatbot accuracy](https://www.makeuseof.com/test-factors-ai-chatbots-accuracy/), such as comprehension and contextual memory. If you plan on subscribing to a chatbot service, try the free version first. Chatbots like ChatGPT and Perplexity have free versions that you can use to get an idea of accuracy. If the free version is good, the odds are that the paid version is even better.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Security and Data Privacy
 
 ![Man holding phone using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-holding-phone-using-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While many people are beginning to use AI tools, we're still in largely uncharted territory. It's hard to predict how AI will affect society and how we will deal with it. There are also concerns that chatbots like [ChatGPT represent a privacy risk](https://www.makeuseof.com/chatgpt-privacy-risk/). For example, ChatGPT developer OpenAI has stated that they review your ChatGPT conversations to further its training.
 
  It is uncertain how much data they're actually collecting and what they plan to do with it in the long term. The best you can do is ensure the service you're subscribing to has good privacy policies and you're not sharing personal data or private information with any generative AI chatbot.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Contextual Understanding
 
  While comparing [ChatGPT Plus and Perplexity AI](https://www.makeuseof.com/chatgpt-plus-vs-perplexity-which-is-best/), we found that Perplexity was faster while ChatGPT Plus had a better contextual understanding. This is why ChatGPT Plus outperforms most other chatbots regarding detailed responses. If an AI chatbot struggles with understanding context, it will start to hallucinate and give irrational responses.
@@ -57,41 +59,41 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
  The level of contextual understanding depends on the language model and how it's trained. Again, you should try the free version to check this for yourself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Knowledge Base
 
 ![Laptop screen showing computer codes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/laptop-screen-showing-computer-codes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Most AI chatbots are trained on a limited knowledge base. They have information cutoffs, meaning they can't access information released beyond a certain date. This is a well-known issue with ChatGPT, which is trained on data up to September 2021\.
 
  Access to the internet is an obvious fix to this problem. Microsoft's [Bing is now powered by AI](https://www.makeuseof.com/more-likely-to-use-bing-now-powered-by-ai/), meaning Bing AI Chat also has access to the web and can access relevant and updated information without any limits. [ChatGPT Plus also has this feature in the form of plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/), but you'll have to upgrade from the free version if you want to use them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 5\. Language Model
 
  The biggest difference between AI chatbots is the [type of large language model (LLM)](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) they use. For example, the free version of Perplexity uses GPT-3, while the paid version gives you access to GPT-4\. The situation is similar in the case of ChatGPT. Some chatbots, such as Bard, use Google's PaLM 2 LLM, with others use Meta's Llama or one of its many variants.
 
  Currently, most AI chatbots appear to use GPT-3 or GPT-4\. [While GPT-3 is quite capable, GPT-4 is much better](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained). The latter is better at understanding longer prompts, has better contextual understanding, and is trained on a larger dataset.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 6\. Multilingual Support
 
 ![Cell phone screens with Hello in different languages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/cell-phone-screens-with-hello-in-different-languages.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  One of the best AI chatbot features is the ability to converse in different languages. You can type in almost any language; most AI chatbots will respond in the same tongue. However, not all AI chatbots can do this. For example, while Perplexity AI can understand most languages, it still defaults to responding to English. Fortunately, you can specify the language you want.
 
  One of the [many downsides of Google Bard](https://www.makeuseof.com/google-bard-cons/) at launch was its limited language support. Google has since fixed that issue with an update, and Bard can now respond to any language you want.
 
  Multilingual support shouldn't be an issue as AI chatbots continue to improve. However, you should still try out a potential AI chatbot to ensure its translation features are up to par.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Cost and Plans
 
@@ -107,14 +109,11 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
  Most generative AI chatbots offer a subscription service that unlocks new features. However, how do you know you're choosing the right one? Here, we'll be discussing seven features that you should look out for when subscribing to one of these services.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,4 +122,24 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-premier-game-recorder-picks-excluding-the-mainstream-one/"><u>[Updated] 2024 Approved Premier Game Recorder Picks Excluding the Mainstream One</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-snaptwit-sucker-snatch-social-media-vids-with-ease/"><u>[Updated] 2024 Approved SnapTwit Sucker Snatch Social Media Vids with Ease</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-effortless-visual-transitions-using-instagram-chroma-keying/"><u>[Updated] In 2024, Effortless Visual Transitions Using Instagram Chroma Keying</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/creative-tims-pro-dashboard-solution-integrating-nuxt-laravel-and-json-api/"><u>Creative Tim's Pro Dashboard Solution: Integrating Nuxt, Laravel & JSON API</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/diy-subtitling-guide-enhancing-your-dvd-videos-for-better-accessibility/"><u>DIY Subtitling Guide: Enhancing Your DVD Videos for Better Accessibility</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-cannot-insert-object-error-in-excel-2016-step-by-step-guide-stellar-by-stellar-guide/"><u>Fixed Cannot Insert Object Error in Excel 2016 | Step-by-Step Guide | Stellar</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-top-rated-video-animation-software-for-smartphones-and-tablets/"><u>In 2024, Best Top-Rated Video Animation Software for Smartphones and Tablets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970672290-insignia-gaming-consoles-ultimate-toolkit-hdmi-to-lan-adapter-driver-for-xbox-available-now/"><u>Insignia Gaming Console's Ultimate Toolkit: HDMI to LAN Adapter Driver for Xbox - Available Now</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/struggling-with-weak-wifi-signal-try-this-essential-checklist-before-upgrading-your-router/"><u>Struggling with Weak Wifi Signal? Try This Essential Checklist Before Upgrading Your Router</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surprisingly-satisfied-my-experience-with-the-ring-spotlight-cam-pro-reviewed-by-tech-expert-on-zdnet/"><u>Surprisingly Satisfied: My Experience with the Ring Spotlight Cam Pro Reviewed by Tech Expert on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-powerhouse-android-device-with-incredible-heat-management-surpasses-your-iphone-in-cool-tech-abilities-zdnet/"><u>The Powerhouse Android Device with Incredible Heat Management Surpasses Your iPhone in Cool Tech Abilities | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-rise-of-two-wheeled-freedom-could-this-suv-of-bikes-challenge-traditional-automobiles-zdnet/"><u>The Rise of Two-Wheeled Freedom: Could This 'SUV of Bikes' Challenge Traditional Automobiles? | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-choosing-a-high-quality-portable-solar-charger-for-2n23-insights-from-zdnet/"><u>The Ultimate Guide to Choosing a High-Quality Portable Solar Charger for 2N23 - Insights From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-contemporary-compact-living-spaces-featuring-stylish-micro-dwellings/"><u>Top 5 Contemporary Compact Living Spaces Featuring Stylish Micro Dwellings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-premium-outdoor-camping-chairs-expert-reviews-and-comparison-techadvisor/"><u>Top 5 Premium Outdoor Camping Chairs - Expert Reviews & Comparison | TechAdvisor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-spooktacular-animatronic-creations-a-look-at-the-best-from-halloween-2022-zdnet/"><u>Top 5 Spooktacular Animatronic Creations: A Look at the Best From Halloween 2022 - ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-electric-bbq-grills-comprehensive-review-by-zdnet/"><u>Top Rated Electric BBQ Grills - Comprehensive Review by ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What Is AI and What Dangers Does It Pose?
-date: 2024-08-29T19:48:24.092Z
-updated: 2024-08-30T19:48:24.092Z
+date: 2025-01-17T16:33:49.906Z
+updated: 2025-01-24T22:24:29.129Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/0ae296ff7a8f964e6bc16106f5e3a8dd70bca5fe8
 
  Why are some people worried about the effects of artificial intelligence, and what dangers does artificial intelligence pose to use?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Artificial Intelligence?
 
  Artificial intelligence is the ability of a man-made machine or system to mimic and, in some ways, even surpass human intelligence. The term was coined by computer scientist John McCarthy in 1956, but the concept itself is much older.
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/0ae296ff7a8f964e6bc16106f5e3a8dd70bca5fe8
 
  The AI we use today, ANI (aka weak AI), is mainly about pattern recognition and making programmed inferences. In the same way we humans use our senses to navigate the world around us and act accordingly, AI uses the data we give it to do all sorts of things.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Examples of AI
 
  When you google something, AI displays the search results you're most likely to find helpful based on the keywords in your text. For example, on YouTube, AI recommends videos you're most likely to want to watch based on your watch history (and other factors).
@@ -46,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/0ae296ff7a8f964e6bc16106f5e3a8dd70bca5fe8
  We made AI for the same reason we make any technology: to reduce suffering and increase pleasure. Today, AI helps us translate languages, [avoid traffic jams](https://www.makeuseof.com/tag/how-google-predicts-traffic/), prevent fraud, manage inventory, [automate household chores](https://www.makeuseof.com/tech-ease-overwhelming-feeling-everyday-tasks-chores/), create diet plans, trade stocks, create content, [make artwork](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/), study analytics, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Are the Risks and Dangers of Using AI?
 
  Although AI is very helpful, it can also pose serious dangers to society. Perhaps the biggest one is unemployment. People usually enter the workforce in their 20s; that's two decades of care and education required to make someone economically useful.
@@ -61,9 +70,9 @@ thumbnail: https://thmb.techidaily.com/0ae296ff7a8f964e6bc16106f5e3a8dd70bca5fe8
  Furthermore, AI tools are now used to impersonate celebrities, politicians, and public figures via [deepfake technology](https://www.makeuseof.com/tag/what-are-deepfakes-explained/) and voice cloning. This is extremely dangerous for obvious reasons. Unfortunately, as the tech improves, it'll become more difficult to tell what's real and what's fake.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AI Should Be a Tool, Not a Weapon
 
  AI as a subject is very broad, and we've only scratched the surface. You've probably heard of and even tested AI chatbots like ChatGPT or Microsoft Bing's built-in chatbot, and perhaps that's where your interest in AI sparked.
@@ -76,14 +85,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Why are some people worried about the effects of artificial intelligence, and what dangers does artificial intelligence pose to use?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -92,4 +98,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-a-comprehensible-guide-to-softening-sound-via-lumafusion/"><u>[New] A Comprehensible Guide to Softening Sound via Lumafusion</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-dynamic-igtv-covers-design-and-update-strategies/"><u>[New] In 2024, Dynamic IGTV Covers Design & Update Strategies</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/all-in-one-iphone-support-package-solving-ios-challenges-seamlessly/"><u>All-in-One iPhone Support Package: Solving iOS Challenges Seamlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-ready-for-a-classic-bbq-and-sports-viewing-with-walmarts-discounted-outdoor-tv-sets-this-memorial-day-detailed-review-on-zdnet/"><u>Get Ready for a Classic BBQ & Sports Viewing with Walmart's Discounted Outdoor TV Sets This Memorial Day - Detailed Review on ZDNET!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-se-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone SE Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-master-your-labor-day-celebration-expert-advice-and-ideas-from-zdnet-to-make-it-a-hit/"><u>How To Master Your Labor Day Celebration: Expert Advice and Ideas From ZDNET to Make It a Hit!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-y100a-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo Y100A to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-cooling-solutions-ranking-the-5-premier-portable-freezers-for-gadgeteers-guide-2022/"><u>Innovative Cooling Solutions: Ranking the 5 Premier Portable Freezers for Gadgeteer's Guide, 2022</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-ecoflows-best-entry-level-battery-an-in-depth-analysis-tech-reviews-at-zdnet/"><u>Introducing EcoFlow's Best Entry-Level Battery: An In-Depth Analysis | Tech Reviews at ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/john-deere-secures-new-partnership-bolstering-right-to-repair-advocacy-zdnet/"><u>John Deere Secures New Partnership Bolstering Right to Repair Advocacy | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-deal-alert-secure-your-home-with-a-4-cam-blink-system-and-floodlight-for-just-80-zdnet-gadgets/"><u>Labor Day Deal Alert: Secure Your Home with a 4-Cam Blink System and Floodlight for Just $80 | ZDNet Gadgets</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-custom-control-commands-for-sound-adjustment/"><u>Win11 Custom Control Commands for Sound Adjustment</u></a></li>
+</ul></div>
 

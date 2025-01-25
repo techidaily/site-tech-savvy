@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Academic Writing: ChatGPT's Role"
-date: 2025-01-11T16:27:36.927Z
-updated: 2025-01-18T16:23:58.676Z
+date: 2025-01-17T16:58:53.358Z
+updated: 2025-01-24T16:45:09.260Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Draw Your Outline Without ChatGPT
 
 ![Outline of an essay on the history of German Shepherds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/outline-of-an-essay-on-the-history-of-german-shepherds.jpeg)
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
  If you use ChatGPT to prompt an outline for you, it could promote idea laziness, and you will find ChatGPT’s suggestions may have replaced the ones you could have produced on your own. So, get a piece of paper or a blank word processor page and create an outline for your essay.
 
  Also, ChatGPT will avoid controversial topics—even in an outline. Therefore, you might find yourself with an outline missing vital pieces of historical sections if you rely on it. This bias is one of the [major problems with OpenAI’s ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Prompt ChatGPT to Draw a Parallel Outline
 
@@ -59,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
  ChatGPT’s result is far more detailed than our outline. Here, you should adopt the parts of ChatGPT’s outline you would like to integrate into your own. Combine the best of the two and flesh out an outline that will guide you best as you write.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Create a ChatGPT Prompt for Each Section
@@ -72,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 
  Do not just copy and paste the information it generates; the next step is a vital second part of this methodology.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Confirm the Information With a Reputable Source
 
  As you begin to write, you must check if the information you’re getting from ChatGPT is indeed correct. You must do this because [ChatGPT occasionally hallucinates](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/), coming up with its own facts and making up sources when you ask it to direct you to where it got its information. In some cases, it blatantly refuses to tell you at all where it got its data.
@@ -86,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 
  The bottom line is that you should use a reputable source (such as a book from an authority or an official website) to support every important statement you put down. You can also learn how to [use Google to fact-check information](https://www.makeuseof.com/google-fact-check-information/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Use ChatGPT for Examples and Breakdowns
 
  It’s counterproductive to write about ideas that you don’t even understand yourself. When you reach a part of your essay that you don’t properly understand, you should go to ChatGPT and have it broken down for you.
@@ -93,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
  That’s really the one thing you can count on ChatGPT to do in this process. It has good skill in crafting useful examples and explaining complicated ideas in a form you can easily understand. A popular way of phrasing a prompt to make ChatGPT explain something complicated is adding “explain like I’m five” to your prompt.
 
 ![ChatGPT explaining German Shepher's hip and elbow dysplasia](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-explaining-german-shepher-s-hip-and-elbow-dysplasia.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here we used ChatGPT to break down hip and elbow dysplasia conditions in a way that is easier to understand. And it used analogies like jigsaw puzzles to paint a clearer image of what it might look like.
 
@@ -112,10 +108,14 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 
 ![ChatGPT showing the user how to add citations to their essay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-showing-the-user-how-to-add-citations-to-their-essay.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re having trouble with citation styles and how to integrate them into your essay, you can present your essay to ChatGPT, give it your sources, and ask it to weld them together for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Is a Tool, Not a Solution
@@ -143,24 +143,22 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-avoiding-pitfalls-in-submitting-to-apple/"><u>[New] Avoiding Pitfalls in Submitting to Apple</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-discovering-hidden-treasures-windows-11s-new-offerings/"><u>[New] In 2024, Discovering Hidden Treasures Windows 11'S New Offerings</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-maximizing-profits-the-ultimate-guide-to-youtube-revenue/"><u>[Updated] In 2024, Maximizing Profits The Ultimate Guide to YouTube Revenue</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-discover-the-ultimate-comfort-of-these-top-8-5ks/"><u>2024 Approved Discover the Ultimate Comfort of These Top 8 5Ks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-quick-video-sharing-tweet-it-up-no-need-for-retweets/"><u>2024 Approved Quick Video Sharing Tweet It Up - No Need for Retweets</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/dragon-ball-z-mastered-version-of-kakarot-resolving-previous-game-issues/"><u>Dragon Ball Z: Mastered Version of Kakarot - Resolving Previous Game Issues</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-vivo-v29e-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo V29e Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-y100i-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Vivo Y100i online without jailbreak</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-issue-amd-radeon-drivers-wont-start-properly/"><u>Solving the Issue: AMD Radeon Drivers Won't Start Properly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-setting-up-diggz-xenon-plus-and-a-complimentary-add-on-with-kodi-matrix-v19/"><u>Step-by-Step Tutorial: Setting Up Diggz Xenon Plus and a Complimentary Add-On with Kodi Matrix V19</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-converting-and-sharing-videos-from-youtube-to-tiktok/"><u>The Ultimate Guide to Converting and Sharing Videos From YouTube to TikTok</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-no-cost-mts-video-format-changer-transform-your-videos-into-mov-mp4-and-more-in-high-definition/"><u>Top No-Cost MTS Video Format Changer: Transform Your Videos Into MOV, MP4 & More in High Definition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-recommended-tools-for-downloading-content-from-myvidster-a-comprehensive-guide/"><u>Top Recommended Tools for Downloading Content From MyVidster: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transcoding-tvs-files-to-mp4-format-using-teamviewer-and-wonderfox-video-tools/"><u>Transcoding TVS Files to MP4 Format Using TeamViewer & WonderFox Video Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-avi-videos-into-high-quality-compact-h265-format-a-step-by-step-guide/"><u>Transforming AVI Videos Into High-Quality, Compact H.265 Format: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshoot-vlc-record-function-top-10-solutions-for-resolving-recording-issues/"><u>Troubleshoot VLC Record Function: Top 10 Solutions for Resolving Recording Issues!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-tips-how-to-enable-and-play-dvd-movies-on-a-lenovo-computer/"><u>Troubleshooting Tips: How to Enable and Play DVD Movies on a Lenovo Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-top-11-pc-microphone-recorders-on-the-market/"><u>Ultimate Guide to the Top 11 PC Microphone Recorders on the Market</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unboxing-and-testing-the-twelve-south-bookbook-v2-protective-case-for-macbooks/"><u>Unboxing & Testing the Twelve South BookBook V2 Protective Case for MacBooks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-quick-guide-to-instagram-video-speed-up-mobiledesktop/"><u>[New] 2024 Approved The Quick Guide to Instagram Video Speed-Up (Mobile/Desktop)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-mobile-editing-hacks-for-visual-storytelling/"><u>[New] In 2024, Mobile Editing Hacks for Visual Storytelling</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1715860527630-updated-internal-recorder-usage-for-capturing-screens-on-mate-series-and-p-series-mate-1020-p2010/"><u>[Updated] Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10).</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/35-deal-alert-the-ultimate-wireless-magnetic-charger-for-iphones-now-available/"><u>$35 Deal Alert: The Ultimate Wireless Magnetic Charger for iPhones, Now Available !</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-maximize-your-android-experience-with-these-top-5-ps2-games-apps/"><u>2024 Approved Maximize Your Android Experience with These Top 5 PS2 Games Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-leading-mac-models-according-to-experts/"><u>Discover the Leading Mac Models According to Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-win-conversations-the-freedgpt-method/"><u>Elevate Win Conversations: The FreedGPT Method</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embracing-nightshade-techniques-to-safeguard-originality-from-ai/"><u>Embracing Nightshade Techniques to Safeguard Originality From AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-guide-how-to-effortlessly-set-up-your-new-ipad-insights-from-zdnet/"><u>Essential Guide: How to Effortlessly Set Up Your New iPad - Insights From ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-changefake-your-xiaomi-redmi-note-12-pro-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Xiaomi Redmi Note 12 Pro 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/huge-labor-day-savings-get-the-new-2022-ipad-pro-up-to-700-cheaper-on-zdnet/"><u>Huge Labor Day Savings: Get the New 2022 iPad Pro Up To $700 Cheaper on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keep-your-apple-devices-powered-and-protected-with-our-top-pick-of-3-in-1-magsafe-chargers-innovative-tech-insights/"><u>Keep Your Apple Devices Powered & Protected with Our Top Pick of 3-in-1 MagSafe Chargers | Innovative Tech Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/kostenloser-wmv-zu-mp4-konverter-hochstens-2-qualitatsverlust-garantiert/"><u>Kostenloser WMV Zu MP4 Konverter - Höchstens 2% Qualitätsverlust Garantiert</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-final-cut-pro-essentials-how-to-create-engaging-videos-with-the-ken-burns-effect/"><u>New 2024 Approved Final Cut Pro Essentials How to Create Engaging Videos with the Ken Burns Effect</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-lol-downloading-problem-fix-your-slow-riot-client/"><u>Solving the LoL Downloading Problem: Fix Your Slow Riot Client</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-your-iphone-why-it-wont-ring-and-how-to-fix-it/"><u>Troubleshooting Your iPhone: Why It Won't Ring and How to Fix It</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uniting-chatgpt-and-iphones-siri-a-guide/"><u>Uniting ChatGPT & iPhone's Siri: A Guide</u></a></li>
 </ul></div>
 

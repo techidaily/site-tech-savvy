@@ -1,7 +1,7 @@
 ---
 title: "Introduction to LangChain LLM: A Beginner’s Guide"
-date: 2024-08-29T19:46:34.101Z
-updated: 2024-08-30T19:46:34.101Z
+date: 2025-01-22T20:45:51.318Z
+updated: 2025-01-24T22:31:40.362Z
 tags:
   - chatgpt
   - open-ai
@@ -52,11 +52,16 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 * **Responses**: LangChain provides output parser tools to give answers in a suitable format as opposed to other LLMs whose model response consists of general text. When using AI in an application, it is preferred to have a structured response that you can program against.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Getting Started With LangChain LLM
 
  Now you will learn how to implement LangChain in a real use-case scenario to understand how it works. Before starting the development, you need to set up the development environment.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Setting Up Your Development Environment
 
@@ -82,9 +87,6 @@ from langchain.memory import ConversationBufferWindowMemory`
 
  The LangChain classes outline and execute the language model chains.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Access OpenAI API Key
 
  Next, get the OpenAI API key. To access OpenAI’s API key, you must have an OpenAI account, then move to the [OpenAI API platform](https://platform.openai.com/).
@@ -93,31 +95,23 @@ from langchain.memory import ConversationBufferWindowMemory`
 
 ![OpenAI API key dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-dashboard.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  Next, click the **Create new secret key** button to get a new API key.
 
 ![OpenAI API key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-page.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Enter the requested name of the API key.
 
 ![OpenAI API key naming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-naming.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You will receive a **secret key** prompt.
 
 ![OpenAI API key generated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-generated.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  Copy and store the API key in a safe place for future use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Developing an Application Using LangChain LLM
 
@@ -157,7 +151,15 @@ print(output)`
 
 ![Output of developing an application using LangChain](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-output.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Above is the expected output.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Rising Influence of LLMs
 
@@ -169,14 +171,11 @@ print(output)`
 
  This article will provide an introduction to LangChain LLM. It will cover the basic concepts, how it compares to other language models, and how to get started with it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -185,4 +184,23 @@ print(output)`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-lenovos-secrets-to-effortless-screenshots-for-2024/"><u>[New] Lenovo's Secrets to Effortless Screenshots for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-capture-unrooted-sounds-in-android-4-methods/"><u>[Updated] 2024 Approved Capture Unrooted Sounds in Android [4 Methods]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flash-vids-unpacked-whats-inside/"><u>[Updated] 2024 Approved Flash Vids Unpacked What's Inside?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/babel-barrage-comparing-chatgpt-and-google-efforts/"><u>Babel Barrage: Comparing ChatGPT & Google Efforts</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-7-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 7</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/easy-conversion-techniques-for-camrec-videos-to-widely-used-codecs-like-avi/"><u>Easy Conversion Techniques for CAMREC Videos to Widely Used Codecs Like AVI</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-to-follow-instructions-for-setting-up-a-dual-monitor-system-on-your-windows-7-pc/"><u>Easy-to-Follow Instructions for Setting Up a Dual Monitor System on Your Windows 7 PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-parts-to-pc-masterpiece-constructing-an-epic-rtx-4070-and-2tb-storage-system-for-less-than-a-grand-during-amazons-exclusive-sale/"><u>From Parts to PC Masterpiece: Constructing an Epic RTX 4070 and 2TB Storage System for Less than a Grand During Amazon's Exclusive Sale</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-repair-pixel-damage-and-fix-screen-image-retention-quickly/"><u>How to Repair Pixel Damage and Fix Screen Image Retention Quickly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-high-dynamic-range-with-image-curving/"><u>In 2024, Mastering High Dynamic Range with Image Curving</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-nlp-titans-understanding-the-gpt-bert-chasm/"><u>Navigating NLP Titans: Understanding the GPT-BERT Chasm</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/realms-of-possibility-ai-and-the-reality-shift/"><u>Realms of Possibility: AI and the Reality Shift</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/significant-upgrades-for-a-smarter-more-intuitive-plugin-store/"><u>Significant Upgrades for a Smarter, More Intuitive Plugin Store</u></a></li>
+<li><a href="https://win-online.techidaily.com/strategies-pour-restaurer-une-partition-manquante-sous-windows-10-fonctionne-t-elle-vraiment/"><u>Stratégies Pour Restaurer Une Partition Manquante Sous Windows 10 - Fonctionne-T-Elle Vraiment?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-language-of-ai-key-jargon-for-the-curious-mind/"><u>The Language of AI: Key Jargon for the Curious Mind</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/transform-your-workflow-with-the-new-ipad-pro-m1-ultimate-portability-meets-desktop-calibre/"><u>Transform Your Workflow with the New iPad Pro M1 : Ultimate Portability Meets Desktop Calibre</u></a></li>
+</ul></div>
 

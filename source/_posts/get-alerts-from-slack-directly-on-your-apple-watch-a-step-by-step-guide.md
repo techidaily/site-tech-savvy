@@ -1,7 +1,7 @@
 ---
 title: Get Alerts From Slack Directly on Your Apple Watch - A Step-by-Step Guide
-date: 2025-01-15T16:04:48.937Z
-updated: 2025-01-18T16:11:33.553Z
+date: 2025-01-21T22:49:26.844Z
+updated: 2025-01-24T20:30:05.997Z
 tags:
   - apple
 categories:
@@ -35,14 +35,14 @@ But, even with all of this simplicity, you may still have questions. What if you
 
 **Also: [Want a new Apple Watch? We compared the 5 best models available](https://www.zdnet.com/article/best-apple-watch/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to set up an Apple Watch
 
 * **Materials needed**: The Apple Watch you wish to set up, and an iPhone owned by the watch's owner, or a family member.
 * **Estimated time**: 15 to 30 minutes (depending on how many apps need to be installed and if a backup is being restored).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 1: Charge your Apple Watch and bring it near your iPhone
 
@@ -58,10 +58,6 @@ They don't have to be quite this close, but the closer they are the faster the r
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 2: Scan the Apple Watch animation with your iPhone's camera or begin manual pairing
 
 Once you tap **Continue**, the Apple Watch should begin playing an animation of multicolored particles swirling in a sphere. This unique image helps kick off the [pairing process](https://www.zdnet.com/article/how-to-pair-and-unpair-apple-watch/) when you point your iPhone's camera at it. Use the onscreen frame to correctly place it within the camera's view. 
@@ -71,6 +67,10 @@ If there's an issue with your iPhone's camera, or something else is interfering 
 Make sure to capture the entire watch face in the defined frame during scanning. 
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 3: Restore an Apple Watch backup or start from scratch
 
@@ -85,6 +85,10 @@ In either case, you may be asked to apply [any required software updates to your
 It's much easier to restore from a backup if you have one for this watch, or an older Apple Watch available.
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 4: Sign in with your Apple ID to link the Apple watch to your iCloud account
 
@@ -101,6 +105,10 @@ During this step you can choose a standard four-digit passcode, create a longer 
 Setting a passcode on your Apple Watch unlocks some functionality that might otherwise be restricted with this security measure.
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 6: Customize your settings
 
@@ -130,10 +138,6 @@ Michael Gariffo/ZDNET
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can you set up an Apple Watch without an iPhone?
 
 Tapping "Set up for a Family Member" will get you started on this process.
@@ -149,7 +153,7 @@ The process is almost identical to the steps above, but requires the use of an A
 The main differences you'll run into during family setups are the requirement to assign the watch to a member of your family, choosing whether or not that family member can buy apps without your permission, and a few parental control settings, like disabling most functionality during "Schooltime," or setting up movement goals. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can you set up an Apple Watch with an iPad?
@@ -159,10 +163,6 @@ No. Unfortunately an iPhone is required to set up an Apple Watch, even if it won
 ## How can I change my watch face?
 
 We've got [a whole guide to help you](https://www.zdnet.com/article/how-to-change-your-apple-watch-face/) not only [swap out your Apple Watch face](https://www.zdnet.com/article/how-to-change-your-apple-watch-face/), but create the perfect one for your needs, complete with a video walkthrough. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How can I use Apple Music on my Apple Watch?
 
@@ -202,21 +202,15 @@ To do this, open the Watch app on your iPhone. Then, tap **My Watch**, followed 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-culinary-cinematography-essential-food-film-techniques/"><u>[New] Mastering Culinary Cinematography Essential Food Film Techniques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-chromatic-mastery-image-transformation-techniques/"><u>[Updated] Chromatic Mastery Image Transformation Techniques</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-effortless-free-extraction-of-youtube-desktops/"><u>[Updated] Effortless Free Extraction of YouTube Desktops</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/amplify-your-mobile-typing-experience-with-bing-ai-chat-technology/"><u>Amplify Your Mobile Typing Experience with Bing AI Chat Technology</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/como-clonar-un-disco-duro-de-windows-11-en-una-ssd-usando-gparted-un-tutorial-paso-a-paso/"><u>Cómo Clonar Un Disco Duro De Windows 11 en Una SSD Usando GParted: Un Tutorial Paso a Paso</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diving-deep-into-dialogue-unseen-advantages-of-chatgpt-tools/"><u>Diving Deep Into Dialogue: Unseen Advantages of ChatGPT Tools</u></a></li>
-<li><a href="https://fox-that.techidaily.com/effective-fixes-for-when-imessages-keep-showing-youre-disconnected-from-iphone-settings/"><u>Effective Fixes for When iMessages Keep Showing You’re Disconnected From iPhone Settings</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/enhancing-photo-video-capture-snapchat-and-mobile-guide/"><u>Enhancing Photo-Video Capture Snapchat & Mobile Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enjoy-solo-gameplay-how-to-start-minecraft-singleplayer-on-windows-10/"><u>Enjoy Solo Gameplay: How to Start Minecraft Singleplayer on Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-kitchen-clips-to-artificial-intelligence-unveiling-the-connection/"><u>From Kitchen Clips to Artificial Intelligence: Unveiling the Connection</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-to-perfectly-place-music-stickers-on-instagram-content-for-2024/"><u>How to Perfectly Place Music Stickers on Instagram Content for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ice-ages-or-not-the-truth-about-climate-patterns/"><u>Ice Ages or Not? The Truth About Climate Patterns</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-smart-shopping-for-cloud-storages-best-price-secrets-revealed/"><u>In 2024, Smart Shopping for Cloud Storages Best Price Secrets Revealed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quora-poe-your-key-to-ai-tech-integration/"><u>Quora POE: Your Key to AI Tech Integration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-entry-into-chatgpt-despite-login-hurdles/"><u>Seamless Entry Into ChatGPT Despite Login Hurdles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/verse-virtuosos-vs-artificial-shepherds-purebred-alpacas-rivalry/"><u>Verse Virtuosos vs Artificial Shepherds, Purebred Alpacas' Rivalry</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-transcending-platform-boundaries-from-tiktok-to-fb/"><u>[New] In 2024, Transcending Platform Boundaries From TikTok To FB</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-essential-tips-for-adapting-to-facebooks-algorithm-update-for-2024/"><u>[Updated] Essential Tips for Adapting to Facebook's Algorithm Update for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-carryminati-unmasked-the-monetary-milestones/"><u>[Updated] In 2024, CarryMinati Unmasked The Monetary Milestones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-swiftly-freeze-action-in-your-iphone-photography-journey/"><u>[Updated] Swiftly Freeze Action in Your iPhone Photography Journey</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-future-awaits-equipping-yourself-for-metaverse-life-top-7/"><u>[Updated] The Future Awaits Equipping Yourself for Metaverse Life (Top 7)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-distinctions-between-language-processors/"><u>Deciphering the Distinctions Between Language Processors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-chatgpt-and-bards-place-in-wealth-management/"><u>Decoding ChatGPT & Bard's Place in Wealth Management</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-instructions-to-activate-bluetooth-connectivity-for-windows-11-and-10-users/"><u>Simple Instructions to Activate Bluetooth Connectivity for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-decisions-when-investing-in-artificous-assistants/"><u>Top 10 Decisions When Investing in Artificous Assistants</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmasking-ai-influence-identifying-generated-texts/"><u>Unmasking AI Influence: Identifying Generated Texts</u></a></li>
 </ul></div>
 

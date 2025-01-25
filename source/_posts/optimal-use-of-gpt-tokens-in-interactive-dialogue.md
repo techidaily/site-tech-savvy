@@ -1,7 +1,7 @@
 ---
 title: Optimal Use of GPT Tokens in Interactive Dialogue
-date: 2024-08-29T19:50:19.339Z
-updated: 2024-08-30T19:50:19.339Z
+date: 2025-01-21T18:28:34.608Z
+updated: 2025-01-24T18:25:26.324Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/fb656afcca36e04556318b24814fb553c32e021b5
  One such factor is the token system, which continues to break the evolution cycle, bringing the app's utility to its knees. If you use ChatGPT, you might want to know about ChatGPT's tokens and what to do when you run out of tokens.
 
  Let's take a step back and give you an insight into all there is to know about the app's underlying working mechanisms.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's a ChatGPT Token?
 
@@ -55,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/fb656afcca36e04556318b24814fb553c32e021b5
 
 ![Tokenizer calculation from OpenAI's website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/tokenizer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As per the [OpenAI token calculator](https://platform.openai.com/tokenizer):
 
  A helpful rule of thumb is that one token generally corresponds to \~4 text characters for common English text. This translates to roughly ¾ of a word (100 tokens \~= 75 words).
@@ -66,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/fb656afcca36e04556318b24814fb553c32e021b5
 ![OpenAI dashboard with credit usage graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/token-dashboard-openai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### ChatGPT Plus: Is the Paid Subscription Worth It?
 
  To take it up a notch, you can even sign up for the [ChatGPT Plus Offer](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), which sets you back by $20 a month. Given the extensive usage and popularity of the entire AI model, here are the top features of the paid subscription model:
@@ -79,15 +88,13 @@ thumbnail: https://thmb.techidaily.com/fb656afcca36e04556318b24814fb553c32e021b5
  If you feel these features are entirely worth it and up your alley, you can enroll for the paid subscription and benefit from them immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Token Pricing Structure
 
 ![Set of black opened envelope and cash dollars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-karolina-grabowska-4386370.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  There are a few different application models available, which you can choose based on your requirements:
 
 | Model             | Input Price for 1000 tokens (prompt) | Output Price for 1000 tokens (completion) |
@@ -104,9 +111,6 @@ thumbnail: https://thmb.techidaily.com/fb656afcca36e04556318b24814fb553c32e021b5
 
  Ada is the fastest, while DaVinci is the most powerful model from this list of models. The prompt is the question, while the completion deals with the answers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Maximum Token Limits
 
  Each model allows you to set the maximum number of tokens within each query. This method controls the maximum number of tokens the application generates in a single call, limiting the output. The max\_token feature is quite useful, especially when you want to control the length of your output while avoiding overusing your token usage and credits. The default length is fixed at 2,048 tokens, while the maximum can be set at 4,096 tokens.
@@ -130,8 +134,9 @@ thumbnail: https://thmb.techidaily.com/fb656afcca36e04556318b24814fb553c32e021b5
  For example, within the ChatGPT model, the **prompt\_tokens + max\_tokens <= 4096** tokens**.**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Learn to Control Your ChatGPT Prompts for Best Results
 
  No matter how you use the AI-driven application, chances are you will have to devise ways to play smartly with your questions and phrases. Depending on your usage patterns, you will likely use ChatGPT extensively for every task.
@@ -144,14 +149,11 @@ thumbnail: https://thmb.techidaily.com/fb656afcca36e04556318b24814fb553c32e021b5
 
  Let's take a step back and give you an insight into all there is to know about the app's underlying working mechanisms.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -160,4 +162,20 @@ thumbnail: https://thmb.techidaily.com/fb656afcca36e04556318b24814fb553c32e021b5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-free-mobile-downloader-the-ultimate-apps-for-video-buffs/"><u>[New] 2024 Approved Free Mobile Downloader The Ultimate Apps for Video Buffs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/future-fusion-unlocking-mac-with-smartwatches/"><u>Future Fusion Unlocking Mac With Smartwatches</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocked-skies-cheapest-drones-that-dont-break-the-bank/"><u>In 2024, Unlocked Skies Cheapest Drones that Don't Break the Bank</u></a></li>
+<li><a href="https://win-community.techidaily.com/overcoming-windows-file-restoration-freeze-at-99-mark/"><u>Overcoming Window's File Restoration Freeze at 99% Mark</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/skyrocket-your-output-with-dev-like-thinking-strategies-expert-tips-by-zdnet/"><u>Skyrocket Your Output with Dev-Like Thinking Strategies – Expert Tips by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-for-securing-a-technology-position-with-microsoft-insights-from-zdnet/"><u>Strategies for Securing a Technology Position with Microsoft - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-talent-turnover-on-the-rise-one-in-four-professionals-eye-new-opportunutes-zdnet-survey-finds/"><u>Tech Talent Turnover on the Rise: One in Four Professionals Eye New Opportunutes, ZDNET Survey Finds</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/techniques-to-broadcast-youtube-media-on-facebook-platforms/"><u>Techniques to Broadcast YouTube Media on Facebook Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ai-revolution-in-hiring-why-your-specific-skill-set-matters-to-future-employers-zdnet/"><u>The AI Revolution in Hiring: Why Your Specific Skill Set Matters to Future Employers | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-job-reductions-in-major-technology-companies-beyond-the-headlines-zdnet/"><u>Understanding Job Reductions in Major Technology Companies: Beyond The Headlines | ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-playable-media-video-and-audio-codecs-on-apples-smart-television-interface/"><u>Understanding Playable Media: Video and Audio Codecs on Apple's Smart Television Interface</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-tech-employees-are-leaving-despite-office-luxuries-the-limits-of-pools-and-perks/"><u>Why Tech Employees Are Leaving Despite Office Luxuries: The Limits of Pools & Perks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/winning-the-war-on-talent-crisis-with-returning-experts-the-power-of-boomerang-workforce/"><u>Winning the War on Talent Crisis with Returning Experts - The Power of Boomerang Workforce</u></a></li>
+</ul></div>
 

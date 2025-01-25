@@ -1,7 +1,7 @@
 ---
 title: Transforming ChatGPT's Output to Match Personal Nuance
-date: 2024-08-29T19:50:03.587Z
-updated: 2024-08-30T19:50:03.587Z
+date: 2025-01-18T17:53:01.862Z
+updated: 2025-01-24T18:51:05.517Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/34ef4ca08c3dfcb784929375e3e95bcc8f2ba6210
 **SCROLL TO CONTINUE WITH CONTENT**
 
  Fortunately, with a few prompting techniques, you can train ChatGPT to adopt a unique writing style that matches yours.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2 Ways to Teach ChatGPT to Write Like You
 
@@ -48,6 +52,10 @@ Extract the writing style in the text provided below. Please study the tone, wor
 
 ![Result of writing Style extraction by ChatGPT-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/result-of-writing-style-extraction-by-chatgpt-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Of course, one sample might not be enough to thoroughly capture every aspect of your writing style. So, you can repeat the prompt above with three to five more samples within the same ChatGPT conversation. After iterating through the number of samples you wish to use, you can then use the prompt below to unify the extracted styles.
 
 Unify all the extracted writing styles and present them in a clear detailed form. Use the tone, word choice, sentence structure, pacing, explanations, and other stylistic elements you have extracted from the different samples provided to mimic this author's unique voice. Your instruction is to write an article on the topic: "Topic to write goes here." Maintain the author's perspective and attitudes while covering new subject. Write smoothly and convincingly in the author's distinctive voice.
@@ -61,8 +69,9 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
  Also, for the best results, we recommend using GPT-4 and, specifically, the GPT-4 Code Interpreter plugin for the task. You'll be able to work with more text or even, ideally, stack several articles in a text or word file and ask ChatGPT to analyze the content for its writing style.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Training ChatGPT Using a Personal Preference Map (PPM)
 
  A Personal Preference Map (PPM) is a key-value list of preferences ChatGPT can use to produce responses that better align with your preference. In this case, ChatGPT can extract a PPM from written samples to learn about your writing preferences and use it to replicate your writing style on demand. If you are unfamiliar with PPM, we've discussed it extensively in MakeUseOf's [eBook on Unlocking the Potential of ChatGPT](https://www.makeuseof.com/unlock-secrets-of-chatgpt-with-free-ebook-unlocking-the-potential-of-chatgpt/). It is lightweight and easy to read, so do check it out.
@@ -86,8 +95,9 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 ![Extracted PPM using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extracted-ppm.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Although the PPM approach is slightly more complex, it offers enormous attention to detail. While our previous method takes a more generalist approach to describing and applying an author's style, PPM can get as detailed as possible, far more than anyone can easily discern at first glance.
 
  Another advantage of using a PPM is the flexibility and portability it offers. You can easily tweak the writing style with precision by hanging a few words. You can also use the PPM in a different AI chatbot like Claude AI or Google Bard. We used the PPM above [on the Claude AI chatbot](https://www.makeuseof.com/what-is-claude-2-what-can-you-do-with-it/) and asked it to give it a topic to write. It was able to replicate as many of the stylistic elements used by the target author as possible.
@@ -95,11 +105,9 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 ![Using ChatGPT PPM on Claude AI chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/using-chatgpt-ppm-on-claude-ai-chatbot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Make ChatGPT Work for You
 
  The beauty of ChatGPT is its versatility—with the right guidance, the AI chatbot can be taught to write in practically any style you want. If you're tired of ChatGPT's soulless writing style, you don't have to settle for it. ChatGPT can do better than bland, generic outputs. With the right mix of training data, prompts, and feedback, you can transform this AI chatbot into your own writing doppelganger. Go for it.
@@ -108,14 +116,11 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
  Fortunately, with a few prompting techniques, you can train ChatGPT to adopt a unique writing style that matches yours.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +129,26 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-elevate-podcast-quality-with-advanced-garageband-editing-methods/"><u>[New] 2024 Approved Elevate Podcast Quality with Advanced GarageBand Editing Methods</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-experts-insight-downloading-audio-on-apple-gadgets-for-2024/"><u>[New] Expert's Insight Downloading Audio on Apple Gadgets for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-redefine-your-viewing-experience-without-xplit-for-2024/"><u>[New] Redefine Your Viewing Experience Without Xplit for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-playlist-embedding-on-sites-using-youtube/"><u>2024 Approved Playlist Embedding on Sites Using YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-social-media-music-rules-and-regulations/"><u>2024 Approved Social Media Music Rules and Regulations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unlocking-potential-in-marketing-with-strategic-use-of-hash-tags-on-facebook/"><u>2024 Approved Unlocking Potential in Marketing with Strategic Use of Hash Tags on Facebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-an-effective-programmers-showcase-a-step-by-step-guide/"><u>Creating an Effective Programmer's Showcase: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-most-effective-free-artificial-intelligence-courses-and-evaluate-the-value-of-ai-certifications-expert-analysis-by-zdnet/"><u>Discover the Most Effective Free Artificial Intelligence Courses & Evaluate the Value of AI Certifications | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-contribution-of-photographer-and-editor-robert-berkelder-at-movavi/"><u>Exploring the Contribution of Photographer and Editor, Robert Berkelder at Movavi</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/how-to-record-perfect-videos-in-total-quietude/"><u>How To Record Perfect Videos in Total Quietude</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-removing-backdrops-a-comprehensive-approach/"><u>In 2024, The Ultimate Guide to Removing Backdrops A Comprehensive Approach</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-tech-guide-handling-srt-on-a-mac/"><u>In 2024, The Ultimate Tech Guide Handling SRT on a Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-python-basics-with-our-newbie-friendly-course-secure-your-spot-at-only-40-before-the-offer-ends-zdnet/"><u>Master Python Basics with Our Newbie-Friendly Course: Secure Your Spot at Only $40 Before the Offer Ends - ZDNet!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-telephonic-job-assessments-key-techniques-for-advancing-to-face-to-face-discussions/"><u>Mastering Telephonic Job Assessments: Key Techniques for Advancing to Face-to-Face Discussions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preventing-post-graduation-burnout-effective-techniques-for-new-alumni-featured-on-zdnet/"><u>Preventing Post-Graduation Burnout: Effective Techniques for New Alumni Featured on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revitalizing-the-it-workforce-how-artificial-intelligence-alleviates-burnout-and-manages-fatigue-inducing-alerts-insights-from-zdnet/"><u>Revitalizing the IT Workforce: How Artificial Intelligence Alleviates Burnout and Manages Fatigue-Inducing Alerts | Insights From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-for-securing-a-technology-position-at-google-insights-from-zdnet/"><u>Strategies for Securing a Technology Position at Google: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-side-of-employee-turnover-at-leading-technology-companebs-understanding-the-bigger-picture-beyond-headcount-cuts/"><u>The Hidden Side of Employee Turnover at Leading Technology Companebs: Understanding the Bigger Picture Beyond Headcount Cuts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-coding-bootcamp-programs-expert-reviews-and-rankings/"><u>Top 10 Coding Bootcamp Programs : Expert Reviews & Rankings</u></a></li>
+</ul></div>
 

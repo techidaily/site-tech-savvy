@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down AI Barriers: The Power of Transfer Learning"
-date: 2024-08-29T19:50:43.268Z
-updated: 2024-08-30T19:50:43.268Z
+date: 2025-01-18T20:57:45.762Z
+updated: 2025-01-24T17:11:37.236Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 
  This works since cats and dogs share many traits the pre-trained model can already identify. Since the cat-classifying model can identify the various traits of a cat, such as having four legs, fur coats, and prominent snouts, the dog-classifying model can skip all the training to identify those traits and inherit them from the original model. After inheriting all those neural networks, you then cut off the last layers of the trained model used to identify the more specific traits of a cat and replace them with a dataset specific to dogs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What AI Models Can You Use for Transfer Learning?
 
  To use transfer learning, you'll need a pre-trained model. A pre-trained model is commonly known as an AI model trained for the purpose of gaining general knowledge on a particular subject or idea. These types of pre-trained models are purposely made for people to fine-tune and make more application-specific models. Some of the most popular pre-trained models are for NLP, like [BERT and GPT](https://www.makeuseof.com/gpt-vs-bert/), and computer vision, such as VGG19 and Inceptionv3\.
@@ -42,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
  You can get publicly available pre-trained models from places like TensorFlow Hub, Hugging Face, and the OpenAI model marketplace.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Benefits of Using AI Transfer Learning
 
  Transfer learning provides several benefits over training an AI model from scratch.
@@ -55,15 +60,13 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
  Training an AI model from scratch is possible, but you need greater resources to do so.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Does Transfer Learning Work?
 
 ![Transfer-Learning-Illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/final.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  In essence, there are three stages when it comes to transfer learning.
 
 * **Selecting a Pre-Trained Model:** A pre-trained model undergoes initial training using a sizable dataset from a source task, such as ImageNet, or a large collection of text. This initial training phase enables the model to acquire knowledge of general features and patterns found in the dataset. The amount of time and resources you save from transfer learning will depend on the similarities between the pre-trained model and the model you are trying to build.
@@ -73,9 +76,9 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
  There is more to it than the three stages, but this outline details roughly how the AI transfer learning process works, with some fine-tuning.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Limitations to AI Transfer Learning
 
  Although transfer learning is a valuable concept in training effective and reliable models, there are quite a few limitations that you need to know when using transfer learning to train a model.
@@ -87,8 +90,9 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
  So while transfer learning is a handy AI learning technique, limitations exist, and it isn't a silver bullet.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Should You Use Transfer Learning?
 
  Ever since the availability of pre-trained models, transfer learning has always been used to make more specialized models. There's really no reason not to use transfer learning if there's already a pre-trained model relevant to the problems your model will be solving.
@@ -99,14 +103,11 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 
  Without transfer learning, training an effective and reliable model will often be a resource-prohibitive endeavor, requiring lots of money, time, and expertise, with ChatGPT developer OpenAI estimated to have spent millions training GPT-3, GPT-3.5, and GPT-4\. With the power of transfer learning, you can train your own model as powerful as the latest GPT model with little resources in a short period.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -115,4 +116,20 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagrams-hidden-gems-tips-for-viral-content-creation/"><u>[Updated] 2024 Approved Instagram's Hidden Gems Tips for Viral Content Creation</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-art-of-haul-video-production-and-editing-techniques/"><u>[Updated] The Art of Haul Video Production and Editing Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-architects-at-work-exploring-the-skilled-professionals-shaping-tomorrows-technology-with-zdnet/"><u>AI Architects at Work: Exploring the Skilled Professionals Shaping Tomorrow's Technology with ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-impact-on-employment-discovering-emerging-job-roles-with-ambiguous-titles-zdnet-insights/"><u>AI's Impact on Employment: Discovering Emerging Job Roles with Ambiguous Titles | ZDNET Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beginning-your-career-in-technology-a-step-by-step-guide-for-newcomers-by-zdnet/"><u>Beginning Your Career in Technology: A Step-by-Step Guide for Newcomers by ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-aoc-external-screen-connection-errors-for-seamless-use-with-windows-11/"><u>Fixing AOC External Screen Connection Errors for Seamless Use with Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-remote-work-proven-strategies-for-maintaining-sharp-focus-at-home-insights-from-zdnet-experts/"><u>Mastering the Art of Remote Work: Proven Strategies for Maintaining Sharp Focus at Home, Insights From ZDNET Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-career-choices-why-picking-computer-science-can-lead-to-fewer-regrets-zdnet/"><u>Navigating Career Choices: Why Picking Computer Science Can Lead to Fewer Regrets | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-first-month-of-your-remote-position-a-step-by-step-weekly-breakdown/"><u>Navigating the First Month of Your Remote Position - A Step-by-Step Weekly Breakdown</u></a></li>
+<li><a href="https://facebook.techidaily.com/renewable-rush-at-fb-complete-energy-overhaul-for-the-future/"><u>Renewable Rush at FB: Complete Energy Overhaul for the Future</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-14-pro-lock-with-itunes-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 14 Pro lock with iTunes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-powerhouse-an-in-depth-review-of-linksys-velops-advanced-connectivity/"><u>Unveiling the Powerhouse: An In-Depth Review of Linksys Velop's Advanced Connectivity</u></a></li>
+</ul></div>
 

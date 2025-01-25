@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT in Excel: Transforming Data Workflows and Analysis"
-date: 2024-08-29T19:49:07.327Z
-updated: 2024-08-30T19:49:07.327Z
+date: 2025-01-18T20:26:10.803Z
+updated: 2025-01-24T19:26:39.357Z
 tags:
   - chatgpt
   - open-ai
@@ -35,9 +35,17 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 
 ![Asking ChatGPT a question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-question.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here is how it responded:
 
 ![ChatGPT creating a formula](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-answer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We followed the exact steps in our Excel spreadsheet, and the formula calculated the total sales accurately.
 
@@ -66,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 
 ![Excel sheet example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/excel-sheet-example.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We want to create a filter that will display the total sales made in the first quarter for the North region. We described this to ChatGPT and created a macro for this, as shown below:
 
 ![Excel macro example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/excel-macro-example-1.jpg)
@@ -90,8 +102,9 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 ![Macro result in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/macro-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use ChatGPT to Automate Sending Emails
 
  When managing a large team, automating tasks such as sending emails can be a lifesaver. Excel provides various methods to automate sending emails, which is especially useful when emailing a group of people with similar details on a regular basis. Additionally, incorporating ChatGPT can further streamline the email automation process for maximum efficiency.
@@ -103,15 +116,13 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 ![Use ChatGPT to automate sending emails](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/vba-to-automate-emails.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once we have the macro, we will save the module and run it by following the steps described above. As simple as that! Apart from these three methods we have listed of using ChatGPT in Excel, you can also use the chatbot to analyze and visualize data in Excel with the help of tools like Charts, and Data Analysis Toolpak. You can ask ChatGPT to explain how to use these tools effectively.
 
  Additionally, you can use ChatGPT to troubleshoot issues in Excel by providing it with the details of the error you are encountering. While there are a number of [things ChatGPT can't do in Excel](https://www.makeuseof.com/things-to-do-excel-chatgpt-cant/) yet, it's a great tool that can help you become a spreadsheet pro.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## ChatGPT to the Rescue
 
  ChatGPT is a valuable resource to get the most out of Excel. You can use it to create new formulas, get assistance with any spreadsheet errors, and even learn new skills by asking it to explain how certain features work. If used right, it can help you maximize your Excel productivity and get over any spreadsheet fears that you may have.
@@ -126,8 +137,6 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +144,21 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-assessing-sns-hdr-pros-worth-with-comparative-insight/"><u>[New] Assessing SNS HDR Pro's Worth with Comparative Insight</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-youtube-essentials-for-successful-channel-creation/"><u>[New] In 2024, Youtube Essentials for Successful Channel Creation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-brighter-horizons-is-intense-light-for-hdr-right/"><u>[Updated] Brighter Horizons Is Intense Light for HDR Right?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-immediate-silence-sudden-deletion-fears/"><u>[Updated] In 2024, Immediate Silence Sudden Deletion Fears</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-system-event-notification-service-connection-error-on-your-pc/"><u>How to Overcome 'System Event Notification Service Connection Error' On Your PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-prototyping-perfection-the-best-vector-software-of-the-year/"><u>In 2024, Prototyping Perfection The Best Vector Software of the Year</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/significant-financial-boost-abbyy-records-a-25-surge-in-revenue-during-2017/"><u>Significant Financial Boost: ABBYY Records a 25% Surge in Revenue During 2017</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-dvd-player-software-for-windows-11-and-macos-free-download/"><u>Top Rated DVD Player Software for Windows 11 & macOS: Free Download</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-perfect-windows-vpn-in-depth-reviews-and-comparisons-zdnet/"><u>Ultimate Guide to Choosing the Perfect Windows VPN: In-Depth Reviews & Comparisons | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-configuring-and-activating-an-iphone-vpn-with-ease-insights-from-zdnet/"><u>Ultimate Guide: Configuring & Activating an iPhone VPN with Ease - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ip-changes-when-and-why-it-matters-plus-best-practices-from-zdnet/"><u>Understanding IP Changes: When & Why It Matters + Best Practices From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlimited-cybersecurity-freedom-lock-in-a-long-term-vpn-deal-for-half-the-price-just-35-for-five-years/"><u>Unlimited Cybersecurity Freedom: Lock in a Long-Term VPN Deal for Half the Price - Just $35 for Five Years!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-web-barriers-with-opera-vpn-essential-tips-for-crafting-custom-access-rules-techexpertise-by-zdnet/"><u>Unlocking Web Barriers with Opera VPN: Essential Tips for Crafting Custom Access Rules | TechExpertise by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-ultimate-list-of-no-cost-vpns-thoroughly-tested-and-ranked-zdnet/"><u>Unveiling the Ultimate List of No-Cost VPNs , Thoroughly Tested & Ranked - ZDNET</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cautionary Voice: The Dangers of ChatGPT Data Exchanges"
-date: 2025-01-15T17:03:38.847Z
-updated: 2025-01-18T17:46:34.556Z
+date: 2025-01-18T16:13:58.560Z
+updated: 2025-01-24T19:31:14.772Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Leaked Confidential Information Via ChatGPT
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
  There's another layer of risk here, too. If employees use ChatGPT to look for bugs like they did with the Samsung leak, the code they type into the chat box will also be stored on OpenAI's servers. This could lead to breaches that have a massive impact on companies troubleshooting unreleased products and programs. We may even end up seeing information like unreleased business plans, future releases, and prototypes leaked, resulting in huge revenue losses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do ChatGPT Data Leaks Happen?
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 ![ChatGPT logo on dark green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ChatGPT’s privacy policy](https://openai.com/policies/privacy-policy) makes it clear that it records your conversations and shares the logs with other companies and its AI trainers. When someone (for example, a Samsung employee) types confidential information into the dialog box, it’s recorded and saved on ChatGPT’s servers.
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
  For example, if they paste a large contact list into the chat and ask the AI to isolate customers’ phone numbers from the data, ChatGPT then has those names and phone numbers in its records. Your private information is at the mercy of companies you did not share it with, which may not protect it well enough to keep you safe. There are a few things you can do to [keep yourself safe after a data breach](https://www.makeuseof.com/what-to-do-after-data-breach-how-to-protect-yourself/), but businesses should be responsible for preventing leaks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Moral of the Story: Don't Tell ChatGPT Your Secrets
@@ -89,20 +89,18 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-a-detailed-walkthrough-embedding-online-video-into-ms-presentations/"><u>[New] 2024 Approved A Detailed Walkthrough Embedding Online Video Into MS Presentations</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-ultimate-guide-instagrams-video-maximum-length-rule/"><u>[Updated] In 2024, Ultimate Guide Instagram's Video Maximum Length Rule</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-powerpoint-tips-adding-and-capturing-speech-sounds/"><u>[Updated] PowerPoint Tips Adding and Capturing Speech Sounds</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-under-100-budget-friendly-action-cams-top-choices-guide-for-2024/"><u>[Updated] Under-$100 Budget-Friendly Action Cams – Top Choices Guide for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-prime-virtual-locations-for-elevating-your-mp3-audio-levels/"><u>2024 Approved Prime Virtual Locations for Elevating Your MP3 Audio Levels</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-intuition-nine-catalysts-for-fantasy-blur/"><u>Artificial Intuition: Nine Catalysts for Fantasy Blur</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bings-smart-transformation-through-artificial-intelligence/"><u>Bing's Smart Transformation Through Artificial Intelligence</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Realme GT 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratis-graphics-best-open-source-ai-portfolio-apps/"><u>Gratis Graphics: Best Open Source AI Portfolio Apps</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-make-a-youtube-trailer-by-filmora/"><u>In 2024, How to Make a YouTube Trailer by Filmora</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/spark-conversations-with-these-10-youtube-reaction-ideas-for-2024/"><u>Spark Conversations with These 10 YouTube Reaction Ideas for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-art-of-sentiment-can-computers-understand-love-fear/"><u>The Art of Sentiment: Can Computers Understand Love, Fear?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformative-health-targets-crafting-with-chatgpt-expertise/"><u>Transformative Health Targets: Crafting with ChatGPT Expertise</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-non-functional-logitech-g633-microphone/"><u>Troubleshooting Steps for a Non-Functional Logitech G633 Microphone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-creative-potential-using-free-dall-e-3-on-bing-by-microsoft/"><u>Unleash Creative Potential: Using Free DALL-E 3 on Bing by Microsoft</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-art-of-matching-fpv-drones-with-ideal-blades/"><u>[New] The Art of Matching FPV Drones with Ideal Blades</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-efficient-video-editing-techniques-for-instagram-mac-edition/"><u>[Updated] 2024 Approved Efficient Video Editing Techniques for Instagram, Mac Edition</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-7-comedy-youtube-video-ideas-that-funny-people-can-try-for-2024/"><u>[Updated] 7 Comedy YouTube Video Ideas That Funny People Can Try for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-v27-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easing-life-writes-the-leading-5-mental-health-bots/"><u>Easing Life' Writes: The Leading 5 Mental Health Bots</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-dells-underappreciated-laptop-marvel-exceptional-capabilities-at-a-wallet-friendly-price-insights/"><u>Exploring Dell's Underappreciated Laptop Marvel: Exceptional Capabilities at a Wallet-Friendly Price - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hands-on-review-of-apples-newest-studio-display-is-its-impressive-27-retina-xdr-worth-the-price-tag-for-mac-enthusiasts/"><u>Hands-On Review of Apple's Newest Studio Display: Is Its Impressive 27 Retina XDR Worth the Price Tag for Mac Enthusiasts?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-ios-175-beta-2-revolutionizes-app-acquisition-for-eu-customers-via-the-internet-zdnet-analysis/"><u>How iOS 17.5 Beta 2 Revolutionizes App Acquisition for EU Customers via the Internet | ZDNet Analysis</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-dota-2-vac-ban-issues-tips-and-tricks-for-the-new-year/"><u>Overcoming Dota 2 VAC Ban Issues - Tips and Tricks for the New Year</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tips-to-spot-fake-bingpt-coins-and-stay-safe-in-crypto/"><u>Tips to Spot Fake BinGPT Coins and Stay Safe in Crypto</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-are-chatgpt-shared-links-and-how-do-they-work/"><u>What Are ChatGPT Shared Links and How Do They Work?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-chatgpt-fails-to-replace-human-writers-outright/"><u>Why ChatGPT Fails to Replace Human Writers Outright</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Android/iOS Accessibility with ChatGPT
-date: 2024-08-29T19:48:43.186Z
-updated: 2024-08-30T19:48:43.186Z
+date: 2025-01-20T21:36:32.681Z
+updated: 2025-01-24T20:33:31.382Z
 tags:
   - chatgpt
   - open-ai
@@ -38,7 +38,15 @@ thumbnail: https://thmb.techidaily.com/84a67b265f596974e97bfdda7a90a26dbf8d262c8
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT demo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-demo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -55,6 +63,10 @@ Close
 ![ChatGPT signup page iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-signup-page-ios.jpg)
 
 ![ChatGPT final disclaimer screen iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-final-disclaimer-screen-ios.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![ChatGPT conversation screen iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-conversation-screen-iphone.jpg)
 
@@ -80,20 +92,21 @@ Close
 
 ![SiriGPT Shortcuts app iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-shortcuts-app-ios.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![SiriGPT insert API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-insert-api-key.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![SiriGPT prompt screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-prompt-screen.jpg)
 
 Close
 
  That's certainly a lot of work, and whether it's worth it depends on how much you use the shortcut. At its worst, it's a neat party trick, but at its best, you have the power of GPT in your hands, now with the voice of Siri powering it. Again, this is not the most convenient way of accessing ChatGPT, but it's surprising how well it works when it does.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Third-Party ChatGPT Apps for Android and iOS
 
@@ -104,11 +117,16 @@ Close
 ![Perplexity AI app sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perplexity-ai-app-sources.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Perplexity AI app thread](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perplexity-ai-app-thread-1.jpg)
 
 ![perlexity-ai-invitation-screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perlexity-ai-invitation-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -119,13 +137,11 @@ Close
 ![Nova GPT Android app homescreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-homescreen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Nova GPT Android app prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Nova GPT Android app text to speech](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-text-to-speech.jpg)
 
 Close
@@ -138,9 +154,6 @@ Close
 
  Your best bet is to go with the official app or use the web version in the absence of it. But, then, the Siri Shortcuts method is great, too. Furthermore, if you need a third-party ChatGPT app, stick with our recommendations. However, if you want the best experience, stick to the official ChatGPT website or the official ChatGPT app, or try Microsoft's Bing AI Chat.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## The Power of AI in the Palm of Your Hands
 
  As AI grows exponentially, it's good to see that you can easily take advantage of it straight from your phone. Whether you use the official ChatGPT app, the web browser version, or a third-party app, you should be able to get the most out of these chatbots without much issue. Just remember that these AI chatbots can be confidently wrong a lot of times. As such, it is always important to do your research. While AI is a great tool, blindly trusting it is not the best idea.
@@ -149,14 +162,11 @@ Close
 
  For a long while after ChatGPT's launch, it was only accessible through its web app. If you wanted to access ChatGPT on your smartphone, it would also be through a browser. But there are other ways to access ChatGPT on your smartphone, starting with the official ChatGPT App for iOS.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -165,4 +175,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-play-srt-on-pcos-x/"><u>[New] In 2024, Play SRT on PC/OS X</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-charting-success-understanding-youtube-insights/"><u>[Updated] 2024 Approved Charting Success Understanding YouTube Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-insiders-look-at-creating-movies-using-windows-8-movie-maker/"><u>[Updated] The Insider's Look at Creating Movies Using Windows 8 Movie Maker</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adding-various-keyboards-on-gmails-web-interface-a-comprehensive-guide/"><u>Adding Various Keyboards on Gmail's Web Interface: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-in-the-workplace-boon-or-bane-for-professionals-unraveling-the-nuances-with-zdnet/"><u>AI in the Workplace: Boon or Bane for Professionals? Unraveling the Nuances with ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/becoming-an-accomplished-cio-five-key-techniques-to-elevate-your-professional-journey-guidance-by-zdnet/"><u>Becoming an Accomplished CIO: Five Key Techniques to Elevate Your Professional Journey - Guidance by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-productivity-with-these-3-must-have-cost-free-chrome-tools-zdnets-recommendations/"><u>Boost Your Productivity with These 3 Must-Have, Cost-Free Chrome Tools - ZDNet's Recommendations</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-thrills-of-terminal-gaming-on-linux/"><u>Discover the Thrills of Terminal Gaming on Linux</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-tecno-spark-10-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Tecno Spark 10 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x7b-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Honor X7b Phone without Google Account?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-video-quality-debate-the-pros-of-30-vs-60-fps/"><u>In 2024, Video Quality Debate The Pros of 30 Vs. 60 Fps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-strategies-for-reaching-a-million-view-goal/"><u>Master Strategies for Reaching a Million-View Goal</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-for-resolving-cant-find-dll-error-messages/"><u>Troubleshooting Steps for Resolving 'Can't Find DLL' Error Messages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-top-management-skills-5-essential-strategies-for-successful-leadership-insights-from-zdnet/"><u>Unlock Top Management Skills: 5 Essential Strategies for Successful Leadership | Insights From ZDNet</u></a></li>
+</ul></div>
 

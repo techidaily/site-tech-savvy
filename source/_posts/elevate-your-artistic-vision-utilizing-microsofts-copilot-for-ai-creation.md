@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Artistic Vision: Utilizing Microsoft's Copilot for AI Creation"
-date: 2024-09-02T20:31:38.078Z
-updated: 2024-09-03T20:31:38.078Z
+date: 2025-01-24T00:08:51.480Z
+updated: 2025-01-24T23:25:39.128Z
 tags:
   - chatgpt
   - open-ai
@@ -35,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d0
 
  That's right; you can use Microsoft Copilot to generate free AI images using DALL-E 3, and it's incredibly simple to do.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is Microsoft Copilot Image Creator?
 
  The [Official Microsoft Blog](https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/) first announced that AI image creation would be coming to Copilot on 21 March 2023\. At the time, Copilot was still called Bing AI Chat prior to its November 2023 name change.
@@ -49,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d0
  There are two "versions" of Copilot Image Creator, though they both work similarly. You can access the Copilot Image Creator directly from Microsoft Copilot within the Edge browser, which is an exclusive Edge feature. However, not wanting to cut potential users out, you can also access it in any browser by heading to the [Copilot Image Creator](https://copilot.microsoft.com/). I'll cover the differences between each option below, but both AI image creation tools follow the same premise: you input your words, and the AI tool turns them into unique images.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use Microsoft Copilot Image Generator
 
  Microsoft's Copilot Image Creator uses DALL-E 3 to create AI images. DALL-E 3 is the same AI text-to-image you'll find on ChatGPT Plus, OpenAI's premium $20 subscription tier. So here's the rub: you can use the same DALL-E 3 image creation tool with Copilot without paying a penny.
@@ -58,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d0
  Copilot Image Creator is completely free, which gives it a substantial advantage over ChatGPT Plus. It's also not the only [reason to use Microsoft Copilot instead of ChatGPT](https://www.makeuseof.com/reasons-to-use-copilot-instead-of-chatgpt/).
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Microsoft Copilot Image Creator in Edge
 
  If you use Microsoft's Edge browser, the easiest way to start using the Image Creator is in a regular Copilot chat. Ask Copilot to create an image, and it'll do its best to deliver a unique take on your input, providing four 1:1 images (it will not give you a 2:1 image or otherwise, no matter what input you try—but there is a reason for that!).
@@ -73,8 +72,9 @@ thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d0
 ![microsoft copilot image creator four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-four-images.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  However, from there, I selected the image I wanted to use, pressed the "expand" icon in the bottom right corner, and selected **Landscape**. Copilot auto-magically adjusted the original image into a 2:1 1792x1024, finally fulfilling my original request.
 
 Close
@@ -82,6 +82,10 @@ Close
  Next, I applied a few different styles to the image, opting for pixel art and origami for a unique touch. Other options include watercolor, block print, and steampunk. Each style applies seamlessly, and you can return to the original image at any time.
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Microsoft Copilot Image Creator in Any Browser
 
@@ -92,15 +96,13 @@ Close
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Second, the Image Creator available to all browsers uses a "boost" token system to provide speedy images. You start with 100 boosts, and each time you input a prompt, it uses a boost. Once your boosts run out, Image Creator won't prioritize your creations, and they can take a few minutes to appear. It doesn't appear to make a difference to quality, mind, just time.
 
  What I found interesting was that Image Creator images generated in Copilot on Edge will appear in your Image Creator recent images. Edits you make to the Copilot on Edge images will update across the two tools as you make them, but it's a one-way process.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should You Use Microsoft Copilot Image Creator or ChatGPT Plus With DALL-E 3?
 
  It's frustrating that Copilot Image Creator won't create a 2:1 image out of the box, but Microsoft's editing tool takes care of this with some extra clicks, so it's not too much of an issue.
@@ -121,8 +123,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +130,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-install.techidaily.com/accomplished-conexant-hd-audio-fix/"><u>[Accomplished]: Conexant HD Audio Fix</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-enhancing-focus-advanced-techniques-for-videoleap-zooming/"><u>[New] Enhancing Focus Advanced Techniques for VideoLeap Zooming</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-overlooked-elements-what-youre-missing-as-a-story-viewer/"><u>[Updated] In 2024, The Overlooked Elements What You're Missing as a Story Viewer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-gaming-thumbs-for-immersive-experience/"><u>2024 Approved Top Gaming Thumbs for Immersive Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ultimate-guide-top-screen-capture-apps-analysis/"><u>2024 Approved Ultimate Guide Top Screen Capture Apps Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adjustable-team-group-ddr5-memory-modules-with-enhanced-performance/"><u>Adjustable Team Group DDR5 Memory Modules with Enhanced Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beating-bots-at-the-game-of-words-human-writers-edge/"><u>Beating Bots at the Game of Words: Human Writers' Edge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beware-six-risks-with-unrestricted-ai-use/"><u>Beware! Six Risks With Unrestricted AI Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/breaking-through-burnout-promising-trends-for-overworked-tech-specialists-explore-with-zdnet/"><u>Breaking Through Burnout: Promising Trends for Overworked Tech Specialists | Explore with ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-intelligence-unchanged-claims-openai/"><u>ChatGPT Intelligence: Unchanged, Claims OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-chatbot-debate-gpt-pluses-versus-perplexities/"><u>Decoding the Chatbot Debate: GPT Pluses versus Perplexities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-registration-no-mobile-number-required-on-apps/"><u>Digital Registration: No Mobile Number Required on Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-productivity-as-a-freelance-writer-with-chatgpt-tools/"><u>Enhancing Productivity as a Freelance Writer with ChatGPT Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enigma-of-innovation-elons-new-frontier/"><u>Enigma of Innovation: Elon's New Frontier</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/experiencing-the-glory-of-my-beloved-series-through-apple-vision-pro-a-bittersweet-journey/"><u>Experiencing the Glory of My Beloved Series Through Apple Vision Pro - A Bittersweet Journey</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-gpt-3s-custom-instruction-mechanism/"><u>Navigating Through GPT-3’s Custom Instruction Mechanism</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-ultimate-adventure-anthology-top-10-game-selection-for-2024/"><u>The Ultimate Adventure Anthology – Top 10 Game Selection for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/virtual-reality-of-genuine-ppc-games/"><u>Virtual Reality of Genuine PPC Games</u></a></li>
+</ul></div>
 

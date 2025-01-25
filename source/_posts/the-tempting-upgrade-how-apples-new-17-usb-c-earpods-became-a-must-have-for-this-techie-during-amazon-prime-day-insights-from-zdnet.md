@@ -1,7 +1,7 @@
 ---
 title: "The Tempting Upgrade: How Apple's New $17 USB-C EarPods Became a Must-Have for This Techie During Amazon Prime Day - Insights From ZDNet"
-date: 2025-01-14T16:19:50.433Z
-updated: 2025-01-18T16:09:24.473Z
+date: 2025-01-17T23:06:42.410Z
+updated: 2025-01-25T00:51:25.906Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ Secondly, the microphone quality on Apple's wired EarPods is some of the best I'
 It should come as no surprise that I quickly bought another pair of USB-C [Apple EarPods](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-EarPods-Headphones-Built-Control%2Fdp%2FB0CHXC5ZDX%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6e09774b-02af-40f2-b15d-688a67e89fc7%7Cdtp&dtb=1) when they finally went on sale this morning. You can bet I'll be bringing them along for more plane rides and commutes throughout the summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,16 +71,16 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-origami-and-samurai-inspirations-for-minecraft-homes/"><u>[New] 2024 Approved Origami & Samurai Inspirations for Minecraft Homes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-enhancing-visibility-groundbreaking-techniques-for-health-campaigns/"><u>[Updated] 2024 Approved Enhancing Visibility Groundbreaking Techniques for Health Campaigns</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlock-clear-shots-instagram-storys-in-and-out-tactics/"><u>[Updated] 2024 Approved Unlock Clear Shots Instagram Story's In and Out Tactics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44cm44ov44kj44or44og6ako44k544k44kk44or44gn5yuv55s744ke5pig55s744ks44oq44oh44kk44kv44gz44kl44gf44kb44gu56m25qw144ks44kk44oj44cn/"><u>「フィルム風スタイルで動画や映画をリメイクするための究極ガイド」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/4-effective-ways-to-transform-mxf-videos-without-costing-a-penny/"><u>4 Effective Ways to Transform MXF Videos Without Costing a Penny</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-best-ways-to-transform-m4v-files-into-avi-format-a-comprehensive-guide/"><u>5 Best Ways to Transform M4V Files Into AVI Format: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030250047-vlc/"><u>音声が再生されないVLC動画 - 修正手順とそのトリック</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029569074-top5/"><u>最も優れた無料ビデオ編集アプリケーションTOP5推薦ランキング</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-motorola-moto-e13-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Motorola Moto E13 Phone Hassle-Free</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/leading-visual-voice-message-services-for-this-year-a-comprehensive-guide/"><u>Leading Visual Voice Message Services for This Year: A Comprehensive Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solutions-for-printer-disconnection-problem-on-network/"><u>Solutions for Printer Disconnection Problem on Network</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-step-by-step-how-to-upscalled-vids-on-instagram/"><u>[New] Step-by-Step How to Upscalled Vids on Instagram</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/outube-subscriber-awards-the-play-button-awards-for-creators/"><u>[New] YouTube Subscriber Awards The Play Button Awards for Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-barriers-unmasking-the-top-9-ai-bot-fallacies/"><u>Breaking Down Barriers: Unmasking the Top 9 AI Bot Fallacies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/download-ios-18-now-ultimate-guide-to-installation-and-compatible-iphone-models-exclusive-info/"><u>Download IOS 18 Now: Ultimate Guide to Installation and Compatible iPhone Models - Exclusive Info</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/education-reinvented-with-ai-top-5-school-applications-of-chatgpt/"><u>Education Reinvented with AI: Top 5 School Applications of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-the-powerhouses-googles-bard-and-microsofts-bing/"><u>Evaluating the Powerhouses: Google’s Bard & Microsoft's Bing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-best-performance-download-updated-drivers-for-your-nvidia-gtx-1650-super-on-windows-11/"><u>Get the Best Performance: Download Updated Drivers for Your NVIDIA GTX 1650 Super on Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-13-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 13</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-lgs-ultrafine-masterpiece-an-exhaustive-monitoring-guide/"><u>In 2024, LG's UltraFine Masterpiece An Exhaustive Monitoring Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-seamless-experience-with-iphone-vr-video-playback/"><u>In 2024, Seamless Experience with iPhone VR Video Playback</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-a-budget-friendly-deal-with-the-apple-watch-series-10-at-only-99-by-preordering-through-best-buy-order-now-gadgetguru/"><u>Score a Budget-Friendly Deal with the Apple Watch Series 10 at Only $99 by Preordering Through Best Buy - Order Now! | GadgetGuru</u></a></li>
 </ul></div>
 

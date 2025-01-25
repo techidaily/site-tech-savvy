@@ -1,7 +1,7 @@
 ---
 title: Top 10 Tech Thinkers Debate the AI Landscape
-date: 2024-08-29T19:46:29.094Z
-updated: 2024-08-30T19:46:29.094Z
+date: 2025-01-17T23:22:20.196Z
+updated: 2025-01-24T21:47:10.182Z
 tags:
   - chatgpt
   - open-ai
@@ -43,9 +43,6 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/14092
 
 ![Elon Musk Talking and Discussing With Hand Movements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/elon-musk-speaking-at-event.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 Image Credit: JD Lasica/[Wikimedia Common](https://commons.wikimedia.org/wiki/File:Elon%5FMusk%5F%283017880307%29.jpg)
 
  Elon Musk is notorious for his constant flip-flopping. Musk changes his mind consistently, from retracting controversial comments to [overhauling the UI of X](https://www.makeuseof.com/changes-elon-musk-twitter/), formerly known as Twitter. As expected, his opinions on AI are also all over the place.
@@ -58,14 +55,15 @@ Image Credit: JD Lasica/[Wikimedia Common](https://commons.wikimedia.org/wiki/Fi
 
 ![Mark Zuckerberg Talking at a Facebook Event](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/mark-zuckerberg-speaking-at-event.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Image Credit: Anthony Quintano/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mark%5FZuckerberg%5FF8%5F2019%5FKeynote%5F%2846985052514%29.jpg)
 
  Mark Zuckerberg is exploring ways to integrate AI into Meta platforms. He plans on introducing tools that target consumer demographics accurately, generate ad creatives, and simulate natural human conversations. We’ll likely see new features as [Meta advances its open-source LLM, Llama](https://www.makeuseof.com/what-is-llama-2-and-how-can-you-use-it/).
 
  Although disruptive, not everyone’s happy with these changes. Skeptics argue that these AI-driven features primarily focus on collecting user information and improving Meta’s ad business. They believe Meta will merely use AI to commodify data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Larry Page and Sergey Brin
 
@@ -79,26 +77,16 @@ Image Credits: [Marcin Mycielsk](https://commons.wikimedia.org/wiki/File:Larry%5
 
  Brin is a bit more cautious about AI. He commonly talks about the security risks that come with the emergence of AI-driven platforms, especially with the lack of regulation. That said, he also understands that AI will shape the future. Both Brin and Page are collaborating with Alphabet to develop a general-purpose AI model for Google.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Sundar Pichai
 
 ![Sundar Pichai Speaking in Documentary from Singapore Fintech Festival](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sundar-pichai-speaking-in-documentary.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 Image Credit: Eesan1969/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sundar%5FPichai,%5FCEO,%5FGoogle%5Fand%5FAlphabet%5FAt%5FSingapore%5FFinTech%5FFestival.png)
 
  Alphabet Group CEO Sundar Pichai strongly believes in AI’s potential. In an interview with [CBS News](https://www.cbsnews.com/video/google-ceo-ai-impact-to-be-more-profound-than-discovery-of-fire-electricity/) in April 2023, he even mentioned that AI rivals fire and electricity as humanity’s greatest discovery. It will supposedly change the way society functions.
 
  And even more interesting is that Pichai has been comparing AI with fire and electricity before the AI race started. A [CNBC](https://www.cnbc.com/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html) report shows that he already said the same in 2018\.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Bill Gates
 
 ![Bill Gates Speaking at Tech Event While Seated and Smiling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bill-gates-speaking-at-event.jpg)
@@ -113,18 +101,12 @@ Image Credit: Kuhlmann /MSC/[Wikimedia Commons](https://commons.wikimedia.org/wi
 
 ![Jeff Bezos on Dark Stage With Dim Lighting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/jeff-bezos-on-dark-background.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Image Credit: Daniel Oberhaus/[Flickr](https://www.flickr.com/photos/163370954@N08/32878819397)
 
  Jeff Bezos has always disputed [AI myths](https://www.makeuseof.com/myths-artificial-intelligence-arent-true/). In this 2018 [CNBC](https://www.cnbc.com/2018/05/11/jeff-bezos-on-ai-robots-wont-take-all-our-jobs.html) article, Bezos shares that [AI anxiety](https://www.makeuseof.com/resist-ai-anxiety-following-fast-developing-technology/) typically involves exaggerated misconceptions. He doesn’t believe AI can take our jobs or end humanity. On the contrary, technology will bring more job opportunities as sectors and consumer needs evolve.
 
  Bezos retained his optimistic stance on AI integration. He’s exploring ways to create a more futuristic, convenient shopping experience and retail industry through sophisticated models. Amazon will likely introduce more AI-driven features soon.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Tim Cook
 
 ![Tim Cook Apple CEO Under Lights on Stage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/tim-cook-under-ring-of-lights.jpg)
@@ -144,6 +126,10 @@ Image Credit: [Netflix](https://about.netflix.com/en/news/co-ceo-greg-peters-key
  Generative AI is slowly affecting the entertainment industry. Hollywood professionals fear sophisticated models might put writers, visual effects specialists, and artists out of work. [CNBC](https://www.cnbc.com/2023/07/05/how-ai-took-center-stage-in-the-hollywood-writers-strike.html) reports that most streaming platforms aren’t cash flow positive—they’ll likely minimize their overhead by replacing some of their workers with AI tools.
 
  Take Greg Peters, the CEO of Netflix, for example. [Netflix generates billions in revenue every quarter](https://www.statista.com/statistics/273883/netflixs-quarterly-revenue/), yet Peters still believes AI will make the production process even more cost-efficient. You can expect executives from less-popular entertainment companies to share the same stance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Larry Ellison
 
@@ -169,9 +155,6 @@ Image Credit: Oracle PR/[Flickr](https://www.flickr.com/photos/oracle%5Fimages/5
 
  So, what do voices like Sam Altman, Elon Musk, and Bill Gates have to say about AI?
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Sam Altman
 
 ![Sam Altman at Event TechCrunch Disrupt Event](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sam-altman-speaking-at-event.jpg)
@@ -186,9 +169,6 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/14092
 
 ![Elon Musk Talking and Discussing With Hand Movements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/elon-musk-speaking-at-event.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Image Credit: JD Lasica/[Wikimedia Common](https://commons.wikimedia.org/wiki/File:Elon%5FMusk%5F%283017880307%29.jpg)
 
  Elon Musk is notorious for his constant flip-flopping. Musk changes his mind consistently, from retracting controversial comments to [overhauling the UI of X](https://www.makeuseof.com/changes-elon-musk-twitter/), formerly known as Twitter. As expected, his opinions on AI are also all over the place.
@@ -197,9 +177,6 @@ Image Credit: JD Lasica/[Wikimedia Common](https://commons.wikimedia.org/wiki/Fi
 
  Musk will continue exploring AI despite his flip-flops. While he often talks about [how AI spreads misinformation](https://www.makeuseof.com/generative-ai-becoming-tool-for-disinformation/), he knows it will disrupt various industries.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## 3\. Mark Zuckerberg
 
 ![Mark Zuckerberg Talking at a Facebook Event](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/mark-zuckerberg-speaking-at-event.jpg)
@@ -222,9 +199,17 @@ Image Credits: [Marcin Mycielsk](https://commons.wikimedia.org/wiki/File:Larry%5
 
  Brin is a bit more cautious about AI. He commonly talks about the security risks that come with the emergence of AI-driven platforms, especially with the lack of regulation. That said, he also understands that AI will shape the future. Both Brin and Page are collaborating with Alphabet to develop a general-purpose AI model for Google.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Sundar Pichai
 
 ![Sundar Pichai Speaking in Documentary from Singapore Fintech Festival](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sundar-pichai-speaking-in-documentary.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: Eesan1969/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sundar%5FPichai,%5FCEO,%5FGoogle%5Fand%5FAlphabet%5FAt%5FSingapore%5FFinTech%5FFestival.png)
 
@@ -232,16 +217,10 @@ Image Credit: Eesan1969/[Wikimedia Commons](https://commons.wikimedia.org/wiki/F
 
  And even more interesting is that Pichai has been comparing AI with fire and electricity before the AI race started. A [CNBC](https://www.cnbc.com/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html) report shows that he already said the same in 2018\.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Bill Gates
 
 ![Bill Gates Speaking at Tech Event While Seated and Smiling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bill-gates-speaking-at-event.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Image Credit: Kuhlmann /MSC/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bill%5FGates%5FMSC%5F2017.jpg)
 
  Bill Gates feels optimistic about AI. Unlike other global tech leaders, he isn’t as concerned with the security and privacy risks that come with it. He outlines in [GatesNotes](https://www.gatesnotes.com/The-risks-of-AI-are-real-but-manageable) that the dangers are real but manageable. As such, tech companies and developers shouldn’t let these issues prevent them from advancing AI systems.
@@ -253,17 +232,15 @@ Image Credit: Kuhlmann /MSC/[Wikimedia Commons](https://commons.wikimedia.org/wi
 ![Jeff Bezos on Dark Stage With Dim Lighting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/jeff-bezos-on-dark-background.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Image Credit: Daniel Oberhaus/[Flickr](https://www.flickr.com/photos/163370954@N08/32878819397)
 
  Jeff Bezos has always disputed [AI myths](https://www.makeuseof.com/myths-artificial-intelligence-arent-true/). In this 2018 [CNBC](https://www.cnbc.com/2018/05/11/jeff-bezos-on-ai-robots-wont-take-all-our-jobs.html) article, Bezos shares that [AI anxiety](https://www.makeuseof.com/resist-ai-anxiety-following-fast-developing-technology/) typically involves exaggerated misconceptions. He doesn’t believe AI can take our jobs or end humanity. On the contrary, technology will bring more job opportunities as sectors and consumer needs evolve.
 
  Bezos retained his optimistic stance on AI integration. He’s exploring ways to create a more futuristic, convenient shopping experience and retail industry through sophisticated models. Amazon will likely introduce more AI-driven features soon.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## 8\. Tim Cook
 
 ![Tim Cook Apple CEO Under Lights on Stage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/tim-cook-under-ring-of-lights.jpg)
@@ -274,43 +251,33 @@ Image Credit: Mark Mathosian/[Flickr](https://www.flickr.com/photos/markgregory/
 
  Cook also believes that no single institution can control AI. He shares with [Good Morning America](https://www.goodmorningamerica.com/news/video/tim-cook-talks-new-apple-products-concerns-ai-99862624) that AI monitoring is necessary but challenging—tech companies must regulate themselves instead.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Greg Peters
 
 ![Greg Peters CEO Speaking on Stage at Netflix Event](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/greg-peters-speaking-on-stage.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 Image Credit: [Netflix](https://about.netflix.com/en/news/co-ceo-greg-peters-keynote-address-to-the-2023-mobile-world-congress)
 
  Generative AI is slowly affecting the entertainment industry. Hollywood professionals fear sophisticated models might put writers, visual effects specialists, and artists out of work. [CNBC](https://www.cnbc.com/2023/07/05/how-ai-took-center-stage-in-the-hollywood-writers-strike.html) reports that most streaming platforms aren’t cash flow positive—they’ll likely minimize their overhead by replacing some of their workers with AI tools.
 
  Take Greg Peters, the CEO of Netflix, for example. [Netflix generates billions in revenue every quarter](https://www.statista.com/statistics/273883/netflixs-quarterly-revenue/), yet Peters still believes AI will make the production process even more cost-efficient. You can expect executives from less-popular entertainment companies to share the same stance.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Larry Ellison
 
 ![Larry Ellison Speaking on Stage at Event With Microphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/larry-ellison-speaking-at-event.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: Oracle PR/[Flickr](https://www.flickr.com/photos/oracle%5Fimages/5016418080)
 
  Larry Ellison, the founder and chief technology officer of Oracle, saw his fortune skyrocket thanks to the AI race. [Statista](https://www.statista.com/statistics/269722/oracle-revenue-since-2005/) reports that Oracle made nearly $50 billion for the fiscal year 2023\. The company successfully capitalized on the sudden increase in demand for AI licensing and cloud platforms.
 
  Ellison plans on elevating Oracle’s cloud services by partnering with Cohere. It’s a tech startup that develops LLMs. A [Business Insider](https://www.businessinsider.com/oracle-chooses-cohere-ai-startup-best-alternative-openai-2023-6) report says Oracle might offer generative AI products if this collaboration goes well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Tech Leaders Feel About the AI Race
 
@@ -326,9 +293,6 @@ Image Credit: Oracle PR/[Flickr](https://www.flickr.com/photos/oracle%5Fimages/5
 
  So, what do voices like Sam Altman, Elon Musk, and Bill Gates have to say about AI?
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## 1\. Sam Altman
 
 ![Sam Altman at Event TechCrunch Disrupt Event](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sam-altman-speaking-at-event.jpg)
@@ -339,9 +303,6 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/14092
 
  Altman says AI will continue impacting various sectors because of its versatile nature—it has limitless potential. Developers can train it to perform virtually any task. Although innovative, he also understands that unregulated AI developments present privacy and security risks. [Altman even urges lawmakers to control the use and distribution of AI](https://www.makeuseof.com/why-openai-ceo-calling-for-more-ai-regulation/).
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Elon Musk
 
 ![Elon Musk Talking and Discussing With Hand Movements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/elon-musk-speaking-at-event.jpg)
@@ -368,9 +329,6 @@ Image Credit: Anthony Quintano/[Wikimedia Commons](https://commons.wikimedia.org
 
 ![Sergey Brin Wearing Google Glasses and Larry Page Speaking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/larry-page-and-sergey-brin-side-by-side-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Image Credits: [Marcin Mycielsk](https://commons.wikimedia.org/wiki/File:Larry%5FPage%5Fin%5Fthe%5FEuropean%5FParliament,%5F17.06.2009.jpg) i and [Thomas Hawk](https://www.flickr.com/photos/thomashawk/7050489913)/Wikimedia Commons
 
  Google’s spot as the number one search engine is at risk because of the AI race. The emergence of AI tools changes the way consumers access information online. A [New York Times](https://www.nytimes.com/2023/01/20/technology/google-chatgpt-artificial-intelligence.html) report even shows that Alphabet asked Larry Page and Sergey Brin, Google’s co-founders, to assess how Google Search can maintain its market share.
@@ -383,9 +341,6 @@ Image Credits: [Marcin Mycielsk](https://commons.wikimedia.org/wiki/File:Larry%5
 
 ![Sundar Pichai Speaking in Documentary from Singapore Fintech Festival](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sundar-pichai-speaking-in-documentary.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 Image Credit: Eesan1969/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sundar%5FPichai,%5FCEO,%5FGoogle%5Fand%5FAlphabet%5FAt%5FSingapore%5FFinTech%5FFestival.png)
 
  Alphabet Group CEO Sundar Pichai strongly believes in AI’s potential. In an interview with [CBS News](https://www.cbsnews.com/video/google-ceo-ai-impact-to-be-more-profound-than-discovery-of-fire-electricity/) in April 2023, he even mentioned that AI rivals fire and electricity as humanity’s greatest discovery. It will supposedly change the way society functions.
@@ -396,25 +351,16 @@ Image Credit: Eesan1969/[Wikimedia Commons](https://commons.wikimedia.org/wiki/F
 
 ![Bill Gates Speaking at Tech Event While Seated and Smiling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bill-gates-speaking-at-event.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Image Credit: Kuhlmann /MSC/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bill%5FGates%5FMSC%5F2017.jpg)
 
  Bill Gates feels optimistic about AI. Unlike other global tech leaders, he isn’t as concerned with the security and privacy risks that come with it. He outlines in [GatesNotes](https://www.gatesnotes.com/The-risks-of-AI-are-real-but-manageable) that the dangers are real but manageable. As such, tech companies and developers shouldn’t let these issues prevent them from advancing AI systems.
 
  Gates also believes that AI will solve its issues. Developers would eventually develop AI-driven platforms that filter AI content, trace cybercriminals, and bolster cybersecurity systems.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## 7\. Jeff Bezos
 
 ![Jeff Bezos on Dark Stage With Dim Lighting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/jeff-bezos-on-dark-background.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Image Credit: Daniel Oberhaus/[Flickr](https://www.flickr.com/photos/163370954@N08/32878819397)
 
  Jeff Bezos has always disputed [AI myths](https://www.makeuseof.com/myths-artificial-intelligence-arent-true/). In this 2018 [CNBC](https://www.cnbc.com/2018/05/11/jeff-bezos-on-ai-robots-wont-take-all-our-jobs.html) article, Bezos shares that [AI anxiety](https://www.makeuseof.com/resist-ai-anxiety-following-fast-developing-technology/) typically involves exaggerated misconceptions. He doesn’t believe AI can take our jobs or end humanity. On the contrary, technology will bring more job opportunities as sectors and consumer needs evolve.
@@ -425,18 +371,12 @@ Image Credit: Daniel Oberhaus/[Flickr](https://www.flickr.com/photos/163370954@N
 
 ![Tim Cook Apple CEO Under Lights on Stage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/tim-cook-under-ring-of-lights.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Image Credit: Mark Mathosian/[Flickr](https://www.flickr.com/photos/markgregory/37404092154)
 
  Tim Cook is very receptive to AI advancements. He started analyzing ChatGPT and how Apple can utilize similar language models when OpenAI launched it in November 2022\. After all, Apple has been using AI algorithms for years now. It might lose its massive market share if rival brands explore newer models first.
 
  Cook also believes that no single institution can control AI. He shares with [Good Morning America](https://www.goodmorningamerica.com/news/video/tim-cook-talks-new-apple-products-concerns-ai-99862624) that AI monitoring is necessary but challenging—tech companies must regulate themselves instead.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Greg Peters
 
 ![Greg Peters CEO Speaking on Stage at Netflix Event](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/greg-peters-speaking-on-stage.jpg)
@@ -452,8 +392,9 @@ Image Credit: [Netflix](https://about.netflix.com/en/news/co-ceo-greg-peters-key
 ![Larry Ellison Speaking on Stage at Event With Microphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/larry-ellison-speaking-at-event.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Image Credit: Oracle PR/[Flickr](https://www.flickr.com/photos/oracle%5Fimages/5016418080)
 
  Larry Ellison, the founder and chief technology officer of Oracle, saw his fortune skyrocket thanks to the AI race. [Statista](https://www.statista.com/statistics/269722/oracle-revenue-since-2005/) reports that Oracle made nearly $50 billion for the fiscal year 2023\. The company successfully capitalized on the sudden increase in demand for AI licensing and cloud platforms.
@@ -478,26 +419,20 @@ Image Credit: Oracle PR/[Flickr](https://www.flickr.com/photos/oracle%5Fimages/5
 
 ![Sam Altman at Event TechCrunch Disrupt Event](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sam-altman-speaking-at-event.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/14092193106)
 
  Sam Altman, the CEO of OpenAI, plays an integral role in the AI race. ChatGPT’s massive success worldwide prompted rival tech companies to experiment with [large language models (LLMs)](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/), paving the way for other AI platforms.
 
  Altman says AI will continue impacting various sectors because of its versatile nature—it has limitless potential. Developers can train it to perform virtually any task. Although innovative, he also understands that unregulated AI developments present privacy and security risks. [Altman even urges lawmakers to control the use and distribution of AI](https://www.makeuseof.com/why-openai-ceo-calling-for-more-ai-regulation/).
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Elon Musk
 
 ![Elon Musk Talking and Discussing With Hand Movements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/elon-musk-speaking-at-event.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Image Credit: JD Lasica/[Wikimedia Common](https://commons.wikimedia.org/wiki/File:Elon%5FMusk%5F%283017880307%29.jpg)
 
  Elon Musk is notorious for his constant flip-flopping. Musk changes his mind consistently, from retracting controversial comments to [overhauling the UI of X](https://www.makeuseof.com/changes-elon-musk-twitter/), formerly known as Twitter. As expected, his opinions on AI are also all over the place.
@@ -510,29 +445,16 @@ Image Credit: JD Lasica/[Wikimedia Common](https://commons.wikimedia.org/wiki/Fi
 
 ![Mark Zuckerberg Talking at a Facebook Event](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/mark-zuckerberg-speaking-at-event.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Image Credit: Anthony Quintano/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mark%5FZuckerberg%5FF8%5F2019%5FKeynote%5F%2846985052514%29.jpg)
 
  Mark Zuckerberg is exploring ways to integrate AI into Meta platforms. He plans on introducing tools that target consumer demographics accurately, generate ad creatives, and simulate natural human conversations. We’ll likely see new features as [Meta advances its open-source LLM, Llama](https://www.makeuseof.com/what-is-llama-2-and-how-can-you-use-it/).
 
  Although disruptive, not everyone’s happy with these changes. Skeptics argue that these AI-driven features primarily focus on collecting user information and improving Meta’s ad business. They believe Meta will merely use AI to commodify data.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 4\. Larry Page and Sergey Brin
 
 ![Sergey Brin Wearing Google Glasses and Larry Page Speaking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/larry-page-and-sergey-brin-side-by-side-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 Image Credits: [Marcin Mycielsk](https://commons.wikimedia.org/wiki/File:Larry%5FPage%5Fin%5Fthe%5FEuropean%5FParliament,%5F17.06.2009.jpg) i and [Thomas Hawk](https://www.flickr.com/photos/thomashawk/7050489913)/Wikimedia Commons
 
  Google’s spot as the number one search engine is at risk because of the AI race. The emergence of AI tools changes the way consumers access information online. A [New York Times](https://www.nytimes.com/2023/01/20/technology/google-chatgpt-artificial-intelligence.html) report even shows that Alphabet asked Larry Page and Sergey Brin, Google’s co-founders, to assess how Google Search can maintain its market share.
@@ -571,29 +493,24 @@ Image Credit: Daniel Oberhaus/[Flickr](https://www.flickr.com/photos/163370954@N
 
  Bezos retained his optimistic stance on AI integration. He’s exploring ways to create a more futuristic, convenient shopping experience and retail industry through sophisticated models. Amazon will likely introduce more AI-driven features soon.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Tim Cook
 
 ![Tim Cook Apple CEO Under Lights on Stage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/tim-cook-under-ring-of-lights.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 Image Credit: Mark Mathosian/[Flickr](https://www.flickr.com/photos/markgregory/37404092154)
 
  Tim Cook is very receptive to AI advancements. He started analyzing ChatGPT and how Apple can utilize similar language models when OpenAI launched it in November 2022\. After all, Apple has been using AI algorithms for years now. It might lose its massive market share if rival brands explore newer models first.
 
  Cook also believes that no single institution can control AI. He shares with [Good Morning America](https://www.goodmorningamerica.com/news/video/tim-cook-talks-new-apple-products-concerns-ai-99862624) that AI monitoring is necessary but challenging—tech companies must regulate themselves instead.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Greg Peters
 
 ![Greg Peters CEO Speaking on Stage at Netflix Event](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/greg-peters-speaking-on-stage.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Image Credit: [Netflix](https://about.netflix.com/en/news/co-ceo-greg-peters-keynote-address-to-the-2023-mobile-world-congress)
 
  Generative AI is slowly affecting the entertainment industry. Hollywood professionals fear sophisticated models might put writers, visual effects specialists, and artists out of work. [CNBC](https://www.cnbc.com/2023/07/05/how-ai-took-center-stage-in-the-hollywood-writers-strike.html) reports that most streaming platforms aren’t cash flow positive—they’ll likely minimize their overhead by replacing some of their workers with AI tools.
@@ -610,9 +527,6 @@ Image Credit: Oracle PR/[Flickr](https://www.flickr.com/photos/oracle%5Fimages/5
 
  Ellison plans on elevating Oracle’s cloud services by partnering with Cohere. It’s a tech startup that develops LLMs. A [Business Insider](https://www.businessinsider.com/oracle-chooses-cohere-ai-startup-best-alternative-openai-2023-6) report says Oracle might offer generative AI products if this collaboration goes well.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## How Tech Leaders Feel About the AI Race
 
  AI’s rapid evolution makes it unpredictable. Even tech leaders who play active roles in developing this technology can’t foresee emerging applications, challenges, and breakthroughs. Again, AI’s autonomous nature allows it to evolve by itself. If trainers feed AI systems enough datasets, they’ll continue learning and improving.
@@ -625,8 +539,6 @@ Image Credit: Oracle PR/[Flickr](https://www.flickr.com/photos/oracle%5Fimages/5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -634,4 +546,23 @@ Image Credit: Oracle PR/[Flickr](https://www.flickr.com/photos/oracle%5Fimages/5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-best-practices-selecting-devices-for-zoom-recording/"><u>[New] In 2024, Best Practices Selecting Devices for Zoom Recording</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-soundtrack-of-stills-visual-audio-crafting-for-2024/"><u>[New] The Soundtrack of Stills Visual-Audio Crafting for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-tricks-for-capturing-your-google-meeting-experience-flawlessly/"><u>[New] Top Tricks for Capturing Your Google Meeting Experience Flawlessly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-breakdown-of-youtubes-monetization-update-for-2024/"><u>[Updated] Breakdown of YouTube's Monetization Update for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-evolution-how-does-transfer-learning-impact-it/"><u>AI's Evolution: How Does Transfer Learning Impact It?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bert-and-gpt-demystified-nlp-model-showdown-explained/"><u>BERT & GPT Demystified: NLP Model Showdown Explained</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/broaden-your-reach-sharing-360-photos-via-smartphone-apps/"><u>Broaden Your Reach Sharing 360 Photos via Smartphone Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-online-dialogues-ai-enforced-language-barriers-explained/"><u>Decoding Online Dialogues: AI-Enforced Language Barriers Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/determining-chatgpts-maximum-response-length/"><u>Determining ChatGPT’s Maximum Response Length</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-headset-face-off-rift-vive-and-playstations-vr-standards/"><u>In 2024, Headset Face-Off Rift, Vive & PlayStation's VR Standards</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-meizu-21-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Meizu 21 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-full-media-potential-with-funimate-tools/"><u>In 2024, Unlock Full Media Potential with Funimate Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/probing-into-machine-learning-boon-or-bane-for-creative-writing/"><u>Probing Into Machine Learning: Boon or Bane for Creative Writing?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-unveils-eco-friendly-galaxy-s23-a-new-era-of-green-innovation/"><u>Samsung Unveils Eco-Friendly Galaxy S23: A New Era of Green Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tweet-no-more-smiley-face-linuss-disclosure-trojan-explanation-and-gpt-problems-uncovered/"><u>Tweet No More Smiley Face, Linus’s Disclosure, Trojan Explanation, & GPT Problems Uncovered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/verifying-virtual-medicine-tips-for-chatgpt-and-ai-sources/"><u>Verifying Virtual Medicine: Tips for ChatGPT and AI Sources</u></a></li>
+</ul></div>
 

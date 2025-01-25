@@ -1,7 +1,7 @@
 ---
 title: "Synergy in Silicon: Bots Tasked with Equal Creativity Goals"
-date: 2024-08-29T19:44:20.075Z
-updated: 2024-08-30T19:44:20.075Z
+date: 2025-01-22T17:59:50.238Z
+updated: 2025-01-25T00:46:08.367Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/2921f580a005bca983d6da9a3afb73cd46b329730
 * [Which Chatbot Did Best With Scripts?](https://godlikehost.sjv.io/vnbxzv)
 * [Which Chatbot Did Best With Social Media Bios?](https://eimmie.pxf.io/21emk7)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Microsoft Copilot excels in creating songs and social media bios, the results are both fun and balanced.
@@ -37,17 +41,15 @@ thumbnail: https://thmb.techidaily.com/2921f580a005bca983d6da9a3afb73cd46b329730
  ChatGPT, Google Gemini, and Microsoft Copilot—three popular chatbots with different capabilities. As useful as they are in everyday tasks, how would they perform with creative prompts for content like songs, short stories, and imaginative social media bios? Here are the experiment’s details and results.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How I Tested Three Popular Chatbots With Creative Prompts
 
  The methodology was simple. I composed a straightforward prompt for each type of creative content I wanted. Then I fed each prompt to a selection of [the best AI chatbots](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/) , namely ChatGPT, Google Gemini, and Microsoft Copilot.
 
  Working out which AI generator was the best came down to factors like originality, flow of writing, imaginative flair, and response time. Let's see how they did.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## Which Chatbot Did Best With Songs?
 
  To test each chatbot’s response to a combination of themes, whether normal or random, I went for the following prompt: “Write a song about achieving your dreams and make sure the lyrics feature a koala.”
@@ -56,16 +58,10 @@ thumbnail: https://thmb.techidaily.com/2921f580a005bca983d6da9a3afb73cd46b329730
 
 ![Microsoft Copilot Writing a New Song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/microsoft-copilot-writing-a-new-song.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
  Google Gemini had the fastest response time and went for a similar approach as Copilot—mixing both themes equally. But some of its imagery was strange and made little sense.
 
  ChatGPT wrote the longest song and used interesting lyrics, but the koala theme barely existed, especially when compared to what the other chatbots came up with. It also struggled to complete the song.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Which Chatbot Did Best With Poetry?
 
  Poems tend to be quite creative in their use of language, so the chatbot with the richest database and training would perform the best.
@@ -74,12 +70,16 @@ thumbnail: https://thmb.techidaily.com/2921f580a005bca983d6da9a3afb73cd46b329730
 
 ![ChatGPT Writes a Poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-writes-a-poem.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Copilot and Gemini were both less effective than ChatGPT in all these regards. However, you may find that results vary depending on the type of poem and the instructions you give each chatbot. Make a note of the many available [tips and tricks for better AI prompting](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Chatbot Did Best With Short Stories?
 
  The prompt for this creative content was as follows: “Write a story about a dinner party that your character is reluctant to attend. It should be 1000 words maximum.”
@@ -91,6 +91,10 @@ The ultimate burning program for all your needs!</a>
  The same applied to Gemini’s creation, except that its narration contained confusing elements in what seemed to be an attempt at imaginative expression. It was intriguing to see, but it missed the mark.
 
  Copilot’s writing style was smooth and accurate, but the story the chatbot automatically went for was boring, cliché even. Overall, there are better [AI story generators for serious writers](https://www.makeuseof.com/best-ai-story-generators/) who need some extra help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Chatbot Did Best With Scripts?
 
@@ -104,9 +108,6 @@ The ultimate burning program for all your needs!</a>
 
  An extra downside to ChatGPT was that one side of the script was cut off and unreadable. When I pointed out the problem, instead of offering a solution, the chatbot produced the exact same text with the same issue. One way to deal with this is to copy the script and paste it into a document, where you can read the scene in full.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which Chatbot Did Best With Social Media Bios?
 
  It’s true that you can [improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) , but you may be looking to develop a social media presence that’s more creative and less formal. While all three chatbots can help with that, one goes the extra mile.
@@ -131,8 +132,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +139,22 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-secrets-to-free-hd-video-grabs-from-facebook/"><u>[New] In 2024, Secrets to Free HD Video Grabs From Facebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-master-recorders-impact-on-efficient-screen-capturing/"><u>[New] Master Recorder's Impact on Efficient Screen Capturing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-best-frame-rate-30fps-vs-60fps-for-smooth-recordings/"><u>[Updated] Best Frame Rate 30Fps vs 60Fps for Smooth Recordings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sharpen-your-videography-skills-converting-standard-definition-to-hdr-excellence/"><u>2024 Approved Sharpen Your Videography Skills Converting Standard Definition to HDR Excellence</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-snapshots-and-snickers-the-art-of-memery/"><u>2024 Approved Snapshots and Snickers The Art of Memery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-text-tomorrows-generative-tech/"><u>Beyond Text: Tomorrow's Generative Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-risks-or-rewards-for-personal-information/"><u>ChatGPT: Risks or Rewards for Personal Information?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-internet-tips-for-the-jetsetter/"><u>Cutting-Edge Internet Tips for the Jetsetter</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-stratasys-latest-carbon-fiber-development-could-revolutionize-industry-usage-insights-from-zdnet/"><u>How Stratasys' Latest Carbon Fiber Development Could Revolutionize Industry Usage - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-chatgpt-potential-in-windows/"><u>Maximize ChatGPT Potential in Windows</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/no-cost-setup-guide-for-regular-hourly-windows-1087-system-backups/"><u>No Cost Setup Guide for Regular Hourly Windows 10/8/7 System Backups</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preventing-and-resolving-live-conversation-errors-on-gpt/"><u>Preventing and Resolving Live Conversation Errors on GPT</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-google-pixel-8-pro-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Google Pixel 8 Pro has been deleted.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-cleanup-for-chatgpt-records/"><u>The Ultimate Cleanup for ChatGPT Records</u></a></li>
+<li><a href="https://win-data.techidaily.com/top-six-proven-fixes-for-when-gmail-stops-syncing-with-outlook-macos-a-comprehensive-guide/"><u>Top Six Proven Fixes for When Gmail Stops Syncing With Outlook macOS: A Comprehensive Guide</u></a></li>
+</ul></div>
 

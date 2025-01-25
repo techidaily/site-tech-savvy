@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Zoom Integration with Vision Pro Headsets: Prepare for Unusual Virtual Encounters!"
-date: 2025-01-15T16:14:13.377Z
-updated: 2025-01-18T16:33:53.495Z
+date: 2025-01-20T16:39:50.005Z
+updated: 2025-01-25T00:20:35.559Z
 tags:
   - apple
 categories:
@@ -40,10 +40,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Airplane Mode
 
 The Apple Vision Pro does have two modes related to travel: Airplane Mode and Travel Mode. 
@@ -63,6 +59,10 @@ Screenshot by David Gewirtz/ZDNET
 You can also turn on Airplane Mode directly from the Settings panel. Open Settings from the main dashboard and flip the toggle on. 
 
 Screenshot by David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Travel Mode
 
@@ -95,12 +95,16 @@ As mentioned above, Travel Mode and Airplane Mode are independent settings. That
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Planes, trains, automobiles - and boats
 
 While I have no intention of taking my Vision Pro out and about, I have had a chance to review the experiences shared by others online. Here are some thoughts for each of the vehicle types you're likely to be traveling in -- _as a passenger_. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Airplanes
 
@@ -112,6 +116,10 @@ You'll need to account for where the battery goes, where your [travel case](http
 
 That said, as long as you have enough battery power (or [spare batteries](https://www.apple.com/shop/product/MW283LL/A/apple-vision-pro-battery)), your experience on a plane should be fairly straightforward as this was a use case Apple clearly designed for. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Trains
 
 ZDNET's [Matthew Miller has used the Vision Pro while commuting](https://www.zdnet.com/article/i-used-the-apple-vision-pro-for-my-8-hour-work-day-and-it-left-me-wanting-more/) by train in the Seattle area. He, too, found the cramped quarters a bit of a challenge, because moving your arms is a bit tough when there's a good chance you'll whack the person sitting in the seat next to you. 
@@ -121,7 +129,7 @@ ZDNET's [Matthew Miller has used the Vision Pro while commuting](https://www.zdn
 He also found that the lenses tended to fog up. While not necessarily a deal-killer, lens issues can be a serious problem when using the device, especially in a humid environment. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Automobiles
@@ -133,10 +141,6 @@ Highway travel, particularly on long stretches of the national highway system in
 **Also: [Connected cars, powered by AI, will make up 95% of all vehicles on the road by 2030](https://www.zdnet.com/article/connected-cars-powered-by-ai-will-make-up-95-of-all-vehicles-on-the-road-by-2030/)**
 
 Travel mode will certainly help, but expect it to blink in and out depending on what's going on outside the vehicle. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Shipboard travel
 
@@ -151,10 +155,6 @@ I've been on ships in rough seas, and here's the thing: You don't want to be wat
 I've also lived through devastating earthquakes. The [Loma Prieta earthquake](https://en.wikipedia.org/wiki/1989%5FLoma%5FPrieta%5Fearthquake) had a magnitude of 6.9, lasted approximately 15 seconds, and destroyed much of the San Francisco area. Sailing on rough seas is like being in a quake as large or larger than the Loma Prieta quake, but doing it for three, six, 12, or even 24 _hours_. 
 
 If you're sailing and the vessel is rolling or heaving, give up on the entertainment, and do your best not to hurl your lunch. In fact, try not to eat any lunch. Just hang in there until it's over. There will be time to watch _Avatar: The Way of Water_ in 3D another day, when the seas are calm and so is your stomach lining. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Situational awareness
 
@@ -211,14 +211,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-pros-to-follow-vr-industry-trailblazers/"><u>[New] 2024 Approved Pros to Follow VR Industry Trailblazers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-bringing-images-to-life-windows-and-mac-text-integration-techniques-for-2024/"><u>[New] Bringing Images to Life Windows & Mac Text Integration Techniques for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-ultimate-guide-optimal-sub-to-srt-conversion-with-top-8-tools-for-2024/"><u>[Updated] Ultimate Guide Optimal Sub to Srt Conversion with Top 8 Tools for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solutions-for-overcoming-error-in-moderation-on-chatgpt/"><u>Solutions for Overcoming 'Error in Moderation' On ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-converting-flac-audio-to-aac-with-ease-for-windows-macos-and-web-applications/"><u>Step-by-Step Tutorial: Converting FLAC Audio to AAC with Ease for Windows, MacOS & Web Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-selection-of-4-free-and-easy-avi-file-format-changers-for-pcs-and-macs/"><u>The Ultimate Selection of 4 Free and Easy AVI File Format Changers for PCs & Macs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-10-youtube-editing-apps-and-software-recommendations/"><u>Top 10 YouTube Editing Apps & Software Recommendations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-4-instagram-reels-audio-extractors-choose-the-best-one/"><u>Top 4 Instagram Reels Audio Extractors - Choose the Best One!</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/what-is-haul-video-and-how-to-make-a-catchy-try-on-haul-video/"><u>What Is Haul Video and How to Make a Catchy Try on Haul Video</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rofessionalizing-slides-with-youtube-videos/"><u>[New] Professionalizing Slides with YouTube Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-free-visual-treasury-select-10-sites-included/"><u>[Updated] Free Visual Treasury – Select 10 Sites Included</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-constructing-authenticity-in-documentaries/"><u>[Updated] In 2024, Constructing Authenticity in Documentaries</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/adjusting-your-mouse-configurations-a-guide-using-the-windows-control-panel-by-yl-software/"><u>Adjusting Your Mouse Configurations: A Guide Using the Windows Control Panel by YL Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-update-top-3-new-functionalities-unveiled-in-upcoming-apple-airpod-models-only-available-this-autumn/"><u>Exclusive Update: Top 3 New Functionalities Unveiled in Upcoming Apple AirPod Models - Only Available This Autumn!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-converter-transforming-wmv-files-into-mp4-format-for-both-mac-and-windows-10/"><u>Free Online Converter: Transforming WMV Files Into MP4 Format for Both Mac and Windows 10</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/free-streaming-and-downloading-of-naruto-episodes-in-various-formats-mp4-mov-avi/"><u>Free Streaming & Downloading of Naruto Episodes in Various Formats - MP4, MOV, AVI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-concepts-to-canvas-ai-driven-painting-via-chatgpt/"><u>From Concepts to Canvas: AI-Driven Painting via ChatGPT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-facetime-call-history-on-iphone-14-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover FaceTime Call History on iPhone 14 Plus | Stellar</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-cutting-edge-tips-for-live-rl-broadcasting/"><u>In 2024, Cutting-Edge Tips for Live RL Broadcasting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/novel-concepts-with-nine-chatgpt-writing-assistance-techniques/"><u>Novel Concepts with Nine ChatGPT Writing Assistance Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-platforms-for-ai-idea-exchange/"><u>Pioneering Platforms for AI Idea Exchange</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smartphone-market-shift-samsung-leads-over-iphone-as-emerging-brands-challenge-top-players/"><u>Smartphone Market Shift: Samsung Leads Over iPhone as Emerging Brands Challenge Top Players</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-iphone-bargains-unbeatable-offers-in-july-2024-spotted-by-zdnet/"><u>Top iPhone Bargains: Unbeatable Offers in July 2024 - Spotted by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-revolutionary-ipados-18-at-wwdc-2024-makes-me-jump-ship-to-apple-insights/"><u>Why the Revolutionary iPadOS 18 at WWDC 2024 Makes Me Jump Ship to Apple - Insights</u></a></li>
 </ul></div>
 

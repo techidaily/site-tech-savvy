@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Essentials Android Must Improve to Challenge Apple's iOS Dominance: Insights"
-date: 2025-01-13T16:42:36.927Z
-updated: 2025-01-18T17:52:58.973Z
+date: 2025-01-17T17:04:22.373Z
+updated: 2025-01-24T21:56:26.788Z
 tags:
   - apple
 categories:
@@ -29,14 +29,10 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Apple Intelligence will bring to the company's operating system platforms
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### AI on the device and in the cloud
 
@@ -69,7 +65,7 @@ Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-c
 **Room for improvement:** While Apple's intention to be LLM-agnostic is a positive sign for the company's AI strategy, I had hoped for a broader embrace of third-party platforms, particularly health, finance, and education, with AI integration. However, this shift will have to come with developers embracing the new [SiriKit, App Intents, Core ML, Create ML, and other APIs](https://www.zdnet.com/article/apple-coders-rejoice-your-programming-tools-just-got-a-big-free-ai-boost/). Deeper integration with specialized AI providers could significantly enhance Apple Intelligence's functionality and versatility.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Smart notifications and writing tools
@@ -81,7 +77,7 @@ Smart notifications in Apple's operating systems will leverage on-device LLMs to
 **Room for improvement:** Building on the Reduce Interruptions Focus, further development in proactive assistance features that anticipate user needs based on past behavior and context would be beneficial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI image generation and Genmoji
@@ -113,7 +109,7 @@ Lastly, enhancing AI capabilities across all Apple products, including Siri, App
 **Room for improvement:** We also haven't heard anything about [HomePod](https://www.zdnet.com/home-and-office/home-entertainment/homepod-vs-homepod-mini-which-one-of-apples-smart-speakers-is-right-for-you/) or Apple TV with Apple Intelligence, although neither of these products has the computational power to perform on-device generative AI. Similarly, there were no mentions of new AI capabilities in [WatchOS](https://www.zdnet.com/article/every-apple-watch-model-that-will-support-watchos-11-and-which-ones-wont/). While these devices might be able to use some of the cloud capabilities of Apple Intelligence, this was not brought up in the keynote. Additionally, with its M2 chip, the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/) is powerful enough to handle Apple Intelligence on-device features. Still, the keynote did not discuss what would be coming to that device specifically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The developer story
@@ -139,6 +135,10 @@ Finally, the new Translation API will be unveiled. It will help developers build
 **Also: [Apple unveils an on-device AI image generator for iPhone, iPad, and Mac](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/)**
 
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
 
@@ -180,19 +180,14 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-to-origins-the-step-by-step-image-trackback/"><u>[New] 2024 Approved Instagram to Origins The Step-by-Step Image Trackback</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-videos-start-with-top-youtube-intro-tips-for-2024/"><u>[New] Elevate Your Video's Start with Top YouTube Intro Tips for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-soundscapes-synergy-ideal-dj-videos-to-download/"><u>[New] Soundscapes Synergy Ideal DJ Videos to Download</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-visuals-with-precision-5-top-tips-for-pros/"><u>2024 Approved Crafting Visuals with Precision 5 Top Tips for Pros</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-overcoming-inaudibility-in-obs-captured-audio/"><u>2024 Approved Overcoming Inaudibility in OBS Captured Audio</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chagpt-for-the-entrepreneurs-wallet-an-analytical-look/"><u>ChaGPT for the Entrepreneur's Wallet: An Analytical Look</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/cinematic-craftsman-corner-qanda-hub-for-2024/"><u>Cinematic Craftsman Corner Q&A Hub for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/comprendre-limportance-de-la-sauvegarde-block-par-block-et-comment-cela-ameliore-la-securite-de-vos-donnees/"><u>Comprendre L'importance De La Sauvegarde Block Par Block Et Comment Cela Améliore La Sécurité De Vos Données</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/da-vincis-digital-palette-the-best-image-ideas-yet/"><u>Da Vinci's Digital Palette: The Best Image Ideas Yet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/erase-your-chatgpt-footprints/"><u>Erase Your ChatGPT Footprints</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/freelancers-ai-assistant-showdown-which-language-tool-prevails/"><u>Freelancer's AI Assistant Showdown: Which Language Tool Prevails?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/freelancers-ai-decision-guide-weighing-bing-chat-and-chatgpt/"><u>Freelancer's AI Decision Guide: Weighing Bing Chat & ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-android-widget-tutorial/"><u>Mastering ChatGPT: Android Widget Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-complimentary-languages-apps-a-must-try-list/"><u>Top 5 Complimentary Languages Apps : A Must-Try List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-beware-the-web-of-counterfeit-subscriber-networks-online/"><u>[Updated] 2024 Approved Beware the Web of Counterfeit Subscriber Networks Online</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-youtubes-revenue-boost-new-500-subs-milestone/"><u>[Updated] 2024 Approved YouTube's Revenue Boost New 500 Subs Milestone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-intelligent-web-applications-using-chatgpt/"><u>Building Intelligent Web Applications Using ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/da-vincis-digital-dreamscapes-the-cutting-edge-of-visual-prompts/"><u>Da Vinci’s Digital Dreamscapes: The Cutting Edge of Visual Prompts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-oppo-f25-pro-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Oppo F25 Pro 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpts-my-gpt-bots-to-learn-board-games-create-images-and-much-more/"><u>How to Use ChatGPT's My GPT Bots to Learn Board Games, Create Images, and Much More</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/last-minute-october-deals-for-gamers-save-up-to-1k-during-the-prime-day-sale-zdnet-newsletter/"><u>Last-Minute October Deals for Gamers: Save Up to $1K During the Prime Day Sale | ZDNET Newsletter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-horizon-in-ai-unveiling-gpt-4/"><u>New Horizon in AI: Unveiling GPT-4</u></a></li>
+<li><a href="https://facebook.techidaily.com/unwrapping-the-5-most-affecting-facebook-slip-ups/"><u>Unwrapping the 5 Most Affecting Facebook Slip-Ups</u></a></li>
 </ul></div>
 

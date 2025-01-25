@@ -1,7 +1,7 @@
 ---
 title: "Dispelling Fears: No Decline in ChatGPT Smarts"
-date: 2024-08-29T19:46:23.883Z
-updated: 2024-08-30T19:46:23.883Z
+date: 2025-01-17T17:47:35.992Z
+updated: 2025-01-24T19:42:15.907Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,10 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is ChatGPT Getting Worse?
 
  It's something many ChatGPT users have wondered: is ChatGPT getting dumber? OpenAI releases frequent updates to ChatGPT designed to tweak its responses, safety, and more, [using user feedback](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/), prompts, and user data to inform its direction.
@@ -30,6 +34,10 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
  The easiest way for most ChatGPT users to check how its responses have changed over time is to repeat a previously used prompt (preferably from the earlier days of ChatGPT) and analyze the two outputs.
 
  Responses requiring specific outputs, like those involving coding and math, are likely easiest to compare directly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stanford Study Suggests ChatGPT Drop Off
 
@@ -43,9 +51,17 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
 
 ![chatgpt study answers changing chart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
 ![chatgpt study answers changing chart explanations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart-explanations.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
@@ -55,9 +71,6 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
  The report explains that ChatGPT's large language model chain of thought "did not work" when presented with the questions in June. Conversation drift has always been a notable issue with LLMs, but the extreme variance in responses suggests performance issues and changes to ChatGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Is ChatGPT Getting Worse? OpenAI Says No
 
  Is it just a coincidence that both casual and prolific ChatGPT users are noticing ChatGPT's changing quality?
@@ -69,8 +82,9 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
  Still, that didn't stop numerous responses to his tweet detailing how users have found ChatGPT's responses wanting, with many taking the time to annotate prompts and responses.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can OpenAI Restore ChatGPT to Its Original State?
 
  The early days of ChatGPT seem long in the distance now; November 2022 is a hazy memory, and the world of AI moves fast.
@@ -81,14 +95,11 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -97,4 +108,22 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-allinone-vmix-companion-for-2024/"><u>[New] AllInOne VMix Companion for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-discover-strength-in-cinema-our-list-of-motivational-flicks/"><u>[New] Discover Strength in Cinema Our List of Motivational Flicks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-facetime-call-screen-recording-the-beginners-guide/"><u>[New] FaceTime Call Screen Recording The Beginner's Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-your-entry-level-equipment-checklist-for-youtube-success/"><u>2024 Approved Your Entry-Level Equipment Checklist for YouTube Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-stellar-presentations-with-the-power-of-chatgpt-ai/"><u>Crafting Stellar Presentations with the Power of ChatGPT AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-writing-empowering-word-with-gpt/"><u>Cutting Edge Writing: Empowering Word with GPT</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-se-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone SE Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-moto-g24-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Motorola Moto G24?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-your-productivity-uncovering-7-gpt-secrets-to-efficiency/"><u>Optimize Your Productivity: Uncovering 7 GPT Secrets to Efficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tales-reimagined-integrating-chatgpt-in-creative-writing/"><u>Tales Reimagined: Integrating ChatGPT in Creative Writing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-tech-trailblazers-next-endeavor/"><u>The Tech Trailblazer’s Next Endeavor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/truthgpt-unveiled-police-raid-mullvad-vpn-the-best-free-pc-games-and-mechanical-keyboards-explained/"><u>TruthGPT Unveiled, Police Raid Mullvad VPN, the Best Free PC Games, and Mechanical Keyboards Explained</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-prep-list-unbeatable-amazon-offers-before-the-big-prime-event-insights-from-zdnet/"><u>Ultimate Prep List: Unbeatable Amazon Offers Before the Big Prime Event - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-core-of-gpt4alls-operation/"><u>Unveiling the Core of GPT4All's Operation</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-y100-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y100 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

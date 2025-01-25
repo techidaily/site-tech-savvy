@@ -1,7 +1,7 @@
 ---
 title: The Plain Truth About Virtual Conversations - Dispelling AI Bot Fables
-date: 2024-08-29T19:49:04.667Z
-updated: 2024-08-30T19:49:04.667Z
+date: 2025-01-19T20:06:15.716Z
+updated: 2025-01-24T23:00:08.462Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/0f7cc598462e00e671398d3de2bdb7c71a59af5f2
 
  It is complex, it is clever, and to some extent, you could argue the presence of intelligence—but not sentience. Any “intelligence” present in these tools is created by training them on massive amounts of data. In this sense, they are more akin to an incredibly powerful and flexible database than a sentient being.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Chatbots Can Handle Any Type of Task or Request
 
  While chatbots can be considered as something of a technological Swiss army knife, there are distinct limitations as to what they can achieve. This is apparent when working with complex or highly-specialized topics. But even simple tasks can throw them.
@@ -41,15 +45,20 @@ thumbnail: https://thmb.techidaily.com/0f7cc598462e00e671398d3de2bdb7c71a59af5f2
 
 ![Screenshot of ChatGPT answering question about Google Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-question-about-google-bard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, just to be clear, there are known limitations to ChatGPT and the age of the data it can reference. That question was deliberately set up to expose this. However, we asked Bard the same question when [comparing Google Bard vs. ChatGPT](https://www.makeuseof.com/chatgpt-vs-google-bard/), and it got it wrong too:
 
 ![Screenshot of ChatGPT answering question about Google Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-question-about-google-bard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Chatbots may be clever, but they aren’t capable of any type of task and will sometimes fail on the simplest of questions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 3\. Chatbots Are a Threat to Humanity
 
  The problem here is that people are mixing up productivity tools with Robocop. Chatbots may pose a job threat to some people, and they may disrupt certain industries. But it would be an exaggeration to claim that they are a threat to humanity as a whole.
@@ -63,8 +72,9 @@ thumbnail: https://thmb.techidaily.com/0f7cc598462e00e671398d3de2bdb7c71a59af5f2
  But it would say that. Wouldn't it?
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. AI Chatbots Are Infallible
 
  Nothing could be further from the truth. As the tools themselves go to great pains to explain, they may generate incorrect information. The problem is that generative AI chatbots rely on [huge databases called large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) (LLMs).
@@ -73,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/0f7cc598462e00e671398d3de2bdb7c71a59af5f2
 
 [AI hallucinations are a common form of error](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) that all too often shows just how fallible these tools are.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Chatbots Will Replace Human Interaction
 
  The answer to this question can hark back to the section on sentience. Chatbots can mimic human responses and can certainly competently answer factual questions (mostly) and help in many ways. However, they cannot understand emotions, human experiences, and many of the nuances of conversation.
@@ -90,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/0f7cc598462e00e671398d3de2bdb7c71a59af5f2
 
  The speed at which these tools are developing is part of the reason behind this myth. The boundaries of what this technology can do are being pushed at a rapid pace and the initial iterations that were primarily text-based are already considered old-fashioned.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## 7\. Chatbots Will Always Provide Unbiased Responses
 
  Unfortunately, this is not the case. The potential for biased responses is always there with AI chatbots. The root of the problem can be traced back to the LLMs. The vast amount of data that chatbots reference does, inevitably, contain bias. These biases can include gender, race, nationality, and broader societal biases.
@@ -101,9 +105,6 @@ thumbnail: https://thmb.techidaily.com/0f7cc598462e00e671398d3de2bdb7c71a59af5f2
 
  However, for the moment at least, the potential for biased responses is an unresolved issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Chatbots Are Actually Real Humans
 
 ![Picture of mechanical typewriter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/picture-of-mechanical-typewriter.jpg)
@@ -119,8 +120,9 @@ thumbnail: https://thmb.techidaily.com/0f7cc598462e00e671398d3de2bdb7c71a59af5f2
  The training process could be likened to the testing process of non-AI software. Training involves predefining their objectives, designing their architecture, and teaching them to generate responses based on the data in the relevant LLM. This entire progress still requires human intervention and programming expertise.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AI Chatbots: Separating Fact From Fiction
 
  The rapid uptake in the use of these tools has perpetuated a whole host of myths. Some of them are absolute nonsense, and some of them have a grain or two of truth. What is clear is that there is a lot of misinformation surrounding AI chatbots that needs to be clarified.
@@ -133,14 +135,11 @@ thumbnail: https://thmb.techidaily.com/0f7cc598462e00e671398d3de2bdb7c71a59af5f2
 
  Let’s untangle fact and fiction as we explore the top AI chatbot myths.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,4 +148,21 @@ thumbnail: https://thmb.techidaily.com/0f7cc598462e00e671398d3de2bdb7c71a59af5f2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-easy-steps-to-extract-instagram-video-files-from-pcmac/"><u>[New] 2024 Approved Easy Steps to Extract Instagram Video Files From PC/Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-laughs-in-a-click-building-hilarious-memes/"><u>[New] Laughs in a Click Building Hilarious Memes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-anonymous-footage-blurring-private-sections-in-video-for-2024/"><u>[Updated] Anonymous Footage Blurring Private Sections in Video for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elevating-your-live-experience-with-recorded-content/"><u>[Updated] Elevating Your Live Experience with Recorded Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-how-to-chat-on-google-meet-complete-guide/"><u>2024 Approved How to Chat on Google Meet [Complete Guide]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-new-era-of-preventative-care-quick-health-assessment-begins-with-public-bathroom-visit-revealed-by-zdnet/"><u>A New Era of Preventative Care: Quick Health Assessment Begins With Public Bathroom Visit, Revealed by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-zero-fee-iphone-vpn-applications-reviewed-and-ranked-by-experts-at-zdnet/"><u>Best Zero Fee iPhone VPN Applications Reviewed and Ranked by Experts at ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-encrypted-pathway-in-depth-review-of-proton-vpn-and-nordvpn-for-secure-browsing/"><u>Choosing the Right Encrypted Pathway: In-Depth Review of Proton VPN and NordVPN for Secure Browsing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-vpn-nordvpn-vs-surfshark-a-detailed-comparison-for-optimal-privacy/"><u>Choosing the Right VPN: NordVPN Vs. Surfshark - A Detailed Comparison for Optimal Privacy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/current-most-affordable-and-effective-vpn-services-reviewed-for-your-peace-of-mind-online/"><u>Current Most Affordable and Effective VPN Services Reviewed for Your Peace of Mind Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-selection-of-free-iphone-vpn-services-as-reviewed-by-zdnet/"><u>Discover the Ultimate Selection of Free iPhone VPN Services, as Reviewed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-instructions-installing-and-setting-up-router-vpn-services/"><u>Easy Instructions: Installing and Setting Up Router VPN Services</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-latency-and-silence-in-valorants-voice-communication-windows/"><u>Fixing Latency and Silence in Valorant's Voice Communication (Windows)</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1728494045760-windows-11-3/"><u>Windows 11用におすすめ! トップ復元ポイントスクリプト3種類</u></a></li>
+</ul></div>
 

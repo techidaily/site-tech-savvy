@@ -1,7 +1,7 @@
 ---
 title: "Gemini's Milestone: Redefining Value at $1M Tokens"
-date: 2024-08-29T19:47:28.922Z
-updated: 2024-08-30T19:47:28.922Z
+date: 2025-01-19T17:59:51.965Z
+updated: 2025-01-25T00:49:40.418Z
 tags:
   - chatgpt
   - open-ai
@@ -15,11 +15,19 @@ thumbnail: https://thmb.techidaily.com/ed24203618acc19422dc1e656e53cdd94b5421786
 
 ## Gemini's Milestone: Redefining Value at $1M Tokens
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is a Context Window?](https://united.elfm.net/zqobdx)
 * [Why Gemini 1.5's Context Window Is a Big Deal](https://homestyler.sjv.io/y209g3)
 * [Will Gemini 1.5 Live Up to Expectations?](https://uperfect.sjv.io/g1jgba)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -35,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/ed24203618acc19422dc1e656e53cdd94b5421786
 
  It sounds like a massive upgrade and could set Gemini apart. It's a little difficult to grasp its full extent—but Gemini's enormous context window could be a game changer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## What Is a Context Window?
 
  While responding to your queries, like explaining a concept or summarizing a text, AI models have a limit on how much data they can consider to generate a response. The limit on the text size it can consider is called a context window.
@@ -48,15 +52,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  At the time of writing, Anthropic's Claude 2.1's 200k context window is the largest context window of any generally available AI model. This is followed by GPT-4 Turbo with a 128k context window. Google Gemini 1.5 is bringing a one million context window, four times larger than anything in the market. This leads to the big question: what's the big deal with a one million token context window?
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Gemini 1.5's Context Window Is a Big Deal
 
 ![Gemini app running on an Android phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gemini-app-running-on-an-android-phone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Smartmockups](https://smartmockups.com/mockup/oiB7aZ8XtYS)
 
  To put it in a clearer perspective, Claude AI's 200k context window means it can digest a book of around 150,000 words and provide answers to it. That's massive. But Google's Gemini 1.5 would be able to digest 700,000 words at a go!
@@ -74,15 +76,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  In short, Gemini 1.5's larger context window may significantly improve the performance of its AI model, reducing hallucination and significantly increasing accuracy and ability to follow instructions better.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Will Gemini 1.5 Live Up to Expectations?
 
 ![gemini advanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gemini-advanced.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If everything goes as planned, Gemini 1.5 could potentially outperform [the best AI models in the market](https://www.makeuseof.com/best-large-language-models/). However, considering Google's many failures at building a stable AI model, it's important to err on the side of caution. Bumping up the context window of a model alone doesn't automatically make the model better.
 
  I've used Claude 2.1's 200k context window for months since its release, and one thing is clear to me—a larger context window can indeed improve context sensitivity, but problems with the core model performance can make larger context a problem of its own.
@@ -99,8 +103,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +110,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-ultimate-plan-for-building-your-ideal-youtube-playlist/"><u>[New] In 2024, The Ultimate Plan for Building Your Ideal YouTube Playlist</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-navigating-the-path-to-youtube-video-co-creation-and-partnerships-for-2024/"><u>[Updated] Navigating the Path to YouTube Video Co-Creation & Partnerships for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-forthcoming-mixed-reality-headset-faces-significant-warnings-exclusive-details-on-zdnet/"><u>Apple's Forthcoming Mixed Reality Headset Faces Significant Warnings - Exclusive Details on ZDNET</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/celebrated-20-independent-pubg-photo-sequences-for-2024/"><u>Celebrated 20 Independent PUBG Photo Sequences for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/combining-forces-the-transformative-impact-of-ai-and-5g-on-future-technology-breakthroughs-analysis-by-zdnet/"><u>Combining Forces: The Transformative Impact of AI and 5G on Future Technology Breakthroughs | Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-metas-latest-breakthrough-an-advanced-ai-capable-of-recognizing-objects-within-photos-significance-unveiled-techinsight/"><u>Exploring Meta’s Latest Breakthrough: An Advanced AI Capable of Recognizing Objects Within Photos - Significance Unveiled | TechInsight</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ios-update-1751-fixes-glitch-restoring-archived-photos-technewszd/"><u>IOS Update 17.5.1 Fixes Glitch Restoring Archived Photos - TechNewsZD</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/macbook-pro-power-on-issues-heres-how-you-can-fix-them/"><u>MacBook Pro Power On Issues? Here's How You Can Fix Them</u></a></li>
+<li><a href="https://discover-great.techidaily.com/mastering-video-extraction-a-comprehensive-tutorial-on-downloading-from-jw-player/"><u>Mastering Video Extraction: A Comprehensive Tutorial on Downloading From JW Player</u></a></li>
+<li><a href="https://extra-support.techidaily.com/monitor-matters-how-to-opt-for-the-best-visual-experience-with-4k-displays-for-2024/"><u>Monitor Matters How to Opt for the Best Visual Experience with 4K Displays for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-telecommuting-with-virtual-reality-and-digital-twin-technology-in-engineering-roles-insights-from-zdnet/"><u>Revolutionizing Telecommuting with Virtual Reality & Digital Twin Technology in Engineering Roles - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secrets-unveiled-mastering-your-apple-vision-pro-purchase-with-expert-facial-scanning-techniques/"><u>Secrets Unveiled: Mastering Your Apple Vision Pro Purchase with Expert Facial Scanning Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-apple-watch-shield-the-ultimate-guard-for-your-device/"><u>Top-Rated Apple Watch Shield: The Ultimate Guard for Your Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbelievable-deal-amazon-offers-apple-vision-pro-with-exceptional-200-price-cut-limited-time-offer/"><u>Unbelievable Deal: Amazon Offers Apple Vision Pro with Exceptional $200 Price Cut - Limited Time Offer</u></a></li>
+</ul></div>
 

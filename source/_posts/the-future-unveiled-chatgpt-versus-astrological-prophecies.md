@@ -1,7 +1,7 @@
 ---
 title: "The Future Unveiled: ChatGPT Versus Astrological Prophecies"
-date: 2024-08-29T19:45:01.957Z
-updated: 2024-08-30T19:45:01.957Z
+date: 2025-01-17T19:25:45.563Z
+updated: 2025-01-24T17:46:31.994Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/3e42d7d3d66b1bb7fc10d0f6ca519d43c3162c70f
 
 ![Hands Over Fortune Telling Crystal Ball](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hands-over-fortune-telling-crystal-ball.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Fortune-tellers have a particular mystique about them, which you'll instantly recognize from the movies.
 
  There's a darkened tent at the fairground, decks of Tarot cards lying around, star charts hanging from the ropes, spooky magic mirrors, and of course, the obligatory crystal ball. There should also be skulls used as utilitarian yet exotic and disturbing candleholders.
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/3e42d7d3d66b1bb7fc10d0f6ca519d43c3162c70f
 > "Greetings, dear seeker of knowledge. I am Agnes, a wise fortune teller, here to unravel the mysteries that lie before you. Ask your question, and I shall peer into the veiled realm of destiny to provide you with the guidance you seek."
 
  Generating this persona was simplicity itself, prompting ChatGPT to "Respond the following as if you are a wise fortune teller."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Choose Your ChatGPT Fortune Telling Questions Wisely
 
@@ -48,15 +56,17 @@ thumbnail: https://thmb.techidaily.com/3e42d7d3d66b1bb7fc10d0f6ca519d43c3162c70f
  What follows is her prediction and how it played out in real life.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Well Did ChatGPT Predict the Future?
 
 ![A Woman Opening the Card on the Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-woman-opening-the-card-on-the-table.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  My prompt to Agnes was: "Today is June 1st, 2023\. Please do a reading for the next two weeks."
 
  Ah, my dear, the cosmic dance of time brings us to the beginning of June 2023\. A month filled with possibilities and transformations awaits you. Let us unveil the whispers of fate and explore what lies ahead on your journey. In matters of the heart, a gentle breeze of romance stirs in the air. Open your heart to new connections, for love may find its way to you when you least expect it. Existing relationships shall deepen and evolve, fostering a stronger bond based on trust and understanding. Remember to nurture the flame of love with tenderness and sincerity.
@@ -98,11 +108,9 @@ thumbnail: https://thmb.techidaily.com/3e42d7d3d66b1bb7fc10d0f6ca519d43c3162c70f
 ![chatgpt fortune transcript](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-fortune-transcript.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## ChatGPT Predicted the Future as Well as Any Magazine Horoscope
 
  Horoscopes contain the details you want them to contain, and if you're looking for deeper meaning, you'll find it simply because you want to find it. You could read the horoscope for any of the star signs and find a meaning attached because the writing is meant to be general and apply to as many people as possible.
@@ -115,14 +123,11 @@ thumbnail: https://thmb.techidaily.com/3e42d7d3d66b1bb7fc10d0f6ca519d43c3162c70f
 
  Large language models such as ChatGPT are able to explain what horoscopes are and how they work. But can it go further than that and look into its own crystal ball? We asked ChatGPT to look into the stars and untangle the threads of destiny and fate.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,4 +136,22 @@ thumbnail: https://thmb.techidaily.com/3e42d7d3d66b1bb7fc10d0f6ca519d43c3162c70f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-eliminating-blemishes-in-image-downloads-for-2024/"><u>[Updated] Eliminating Blemishes in Image Downloads for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/compress-to-caption-zip-to-srt-for-video-editors-for-2024/"><u>Compress to Caption ZIP-to-SRT for Video Editors for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialogue-design-innovation-tailoring-bots-through-gpt/"><u>Dialogue Design Innovation: Tailoring Bots Through GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-conversation-to-cinema-guided-chatgpt-views/"><u>From Conversation to Cinema: Guided ChatGPT Views</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-ais-evolving-threat-spectrum/"><u>Generative AI's Evolving Threat Spectrum</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-enhancing-meetings-screen-capture-with-webcam/"><u>In 2024, Enhancing Meetings Screen Capture with Webcam</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-from-grainy-greyscale-to-dynamic-highs-a-complete-hdr-conversion/"><u>In 2024, From Grainy Greyscale to Dynamic Highs A Complete HDR Conversion</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-realme-11-pro-easily-by-drfone-android/"><u>In 2024, How To Unlock a Realme 11 Pro Easily?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-gt-5-240w-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme GT 5 (240W) online without jailbreak</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/obs-vs-modern-broadcasting-tools-a-comparison/"><u>OBS Vs. Modern Broadcasting Tools A Comparison</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-fix-guide-curing-chatgpt-real-time-errors/"><u>Quick-Fix Guide: Curing ChatGPT Real-Time Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safeguard-your-data-from-counterfeit-chatbots/"><u>Safeguard Your Data From Counterfeit ChatBots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secrets-of-success-incorporating-chatgpt-into-interview-practices/"><u>Secrets of Success: Incorporating ChatGPT Into Interview Practices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-solution-effective-ways-to-repair-your-facebook-messaging-app-when-it-stops-working/"><u>Step-by-Step Solution: Effective Ways to Repair Your Facebook Messaging App When It Stops Working</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-complete-guide-for-capturing-stunning-details-on-film-for-2024/"><u>The Complete Guide for Capturing Stunning Details on Film for 2024</u></a></li>
+</ul></div>
 

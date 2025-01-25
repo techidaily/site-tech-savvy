@@ -1,7 +1,7 @@
 ---
 title: "Beginning Moment: Try Out 8 Personal GPT Creations"
-date: 2025-01-16T16:58:31.796Z
-updated: 2025-01-18T16:17:50.169Z
+date: 2025-01-22T16:05:25.490Z
+updated: 2025-01-24T16:13:23.292Z
 tags:
   - chatgpt
   - open-ai
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Resume and Cover Letter Creator
 
 ![Screenshot of Custom GPT Resume Maestro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/resume-maestro.jpg)
@@ -46,9 +42,17 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
  Here's a guide on [how to create your first custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/) if you're not sure how to.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Translation Tool
 
 ![Screenshot of Custom GPT called Pidgin Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pidgin-hero-description-card.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the weeks following ChatGPT's release, we tested [ChatGPT's ability to translate text compared to Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/). While Google's translation tool performed admirably against the massive power that is ChatGPT, it struggled with certain languages like Pidgin English, a widely spoken Creole in parts of West Africa. Although ChatGPT was better in this aspect, it also struggled as well.
 
@@ -56,21 +60,21 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 **Try this GPT:**[Pidgin Hero](https://chat.openai.com/g/g-CcgN0HIuC-pidgin-hero).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Programming Project Assistant
 
 ![Custom chatgpt screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It is no news that [ChatGPT can write code](https://www.makeuseof.com/chatgpt-programming-practical-uses/). It could write code since the days of GPT-3.5 and has improved significantly with the arrival of GPT-4 and the GPT-4 Turbo. However, although the chatbot is quite adept at solving programming problems, it doesn't perform particularly well within the context of a single project since it has a limited context window and cannot soak up all the details of a project to provide a context-specific solution.
 
  You can deploy custom GPTs to solve this problem. Simply prompt the chatbot to create a specialized GPT that focuses on the programming languages used in your project, then upload your entire project files, including a detailed description of what you're trying to build. Whenever you run into a problem with the project, prompt the GPTs, and you'll get a much more precise and relevant solution than you'd get from your regular ChatGPT.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Personal Movie Recommender
 
@@ -82,13 +86,13 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 **Try this GPT**: [K-Drama Hero](https://chat.openai.com/g/g-WhObLzfn5-k-drama-hero).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Interactive Text and Image Games
 
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Another very exciting use case for GPTs is creating games. You can bring almost any text and image-based games you can think of into reality. You can program, modify the rules, and play games like Tic-Tac-Toe, Hangman, Word Ladder, and more. We've previously created a list of simple but [interesting games you can play with ChatGPT](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/). You can spice those games up by invoking the DALL-E image creator to create scenery and characters on the go.
 
@@ -115,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 ## 7\. Niche Tools for Work
 
 ![Custom GPT for Work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-work.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Could custom GPTs improve your workflow or automate tasks in your job? For many roles, the answer is yes. Consider your typical work responsibilities and identify repetitive or time-consuming areas that could benefit from AI assistance.
 
@@ -155,15 +155,18 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-two-ways-to-keep-your-insta-reels-accessible-anytime/"><u>[New] In 2024, Two Ways to Keep Your Insta Reels Accessible Anytime</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-new-era-for-website-user-engagement/"><u>AI's New Era for Website User Engagement</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/blending-human-ideas-with-ai-imagery-in-chatgpt-4-and-dall-e/"><u>Blending Human Ideas with AI Imagery in ChatGPT-4 & DALL-E</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/comparing-easy-flexible-recording-tools-for-mac-users-for-2024/"><u>Comparing Easy, Flexible Recording Tools for Mac Users for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-impactful-relation-between-paperclip-maximization-and-advanced-ai-technology/"><u>Exploring the Impactful Relation Between Paperclip Maximization & Advanced AI Technology</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-power-of-zoom-with-your-chrome-os-device/"><u>In 2024, Unlocking the Power of Zoom with Your Chrome OS Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/inside-the-circuitry-unveiling-tech-secrets-at-toms-gadget-corner/"><u>Inside the Circuitry: Unveiling Tech Secrets at Tom's Gadget Corner</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/integrating-instagram-effects-into-pre-existing-content/"><u>Integrating Instagram Effects Into Pre-Existing Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-your-lifestyles-ultimate-boost/"><u>Leveraging ChatGPT: Your Lifestyle's Ultimate Boost</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-13-pro-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 13 Pro Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-ultimate-picsart-analysis-and-tutorial/"><u>[New] In 2024, Ultimate PicsArt Analysis & Tutorial</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unexplained-tilted-images-on-instagrams-video-section-for-2024/"><u>[New] Unexplained Tilted Images on Instagram's Video Section for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtubes-beauty-titans-whos-leading/"><u>[New] YouTube's Beauty Titans Who's Leading ?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertly-tailored-shots-with-10-initial-free-customizable-lut-packages/"><u>[Updated] Expertly Tailored Shots with 10 Initial Free, Customizable LUT Packages</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-free-audio-apps-for-your-ios-device-a-selection-of-8/"><u>Best Free Audio Apps for Your iOS Device: A Selection of 8</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-dialogue-dynamics-tailoring-ai-through-create-a-gpt/"><u>Building Dialogue Dynamics: Tailoring AI Through Create a GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-i-expect-variable-response-length-in-chatgpt-conversations/"><u>Can I Expect Variable Response Length in ChatGPT Conversations?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-the-art-of-high-quality-photo-for-free/"><u>Mastering the Art of High Quality Photo for Free</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scoop-up-the-ultimate-apple-offers-of-july-2e-steal-of-a-deal-iphones-bargains-on-apple-watches-and-ipads-expert-tips/"><u>Scoop Up the Ultimate Apple Offers of July 2E: Steal-of-a-Deal iPhones, Bargains on Apple Watches & iPads | Expert Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-tablet-picks-in-depth-reviews-and-comparisons-zdnet/"><u>Top-Rated Tablet Picks : In-Depth Reviews & Comparisons - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-7-ways-to-harness-chatgpts-visual-abilities/"><u>Unlocking Potential: 7 Ways to Harness ChatGPT's Visual Abilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visual-visionaries-using-chatgpt-for-innovative-images/"><u>Visual Visionaries: Using ChatGPT for Innovative Images</u></a></li>
 </ul></div>
 

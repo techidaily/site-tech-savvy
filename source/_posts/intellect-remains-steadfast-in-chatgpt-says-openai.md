@@ -1,7 +1,7 @@
 ---
 title: Intellect Remains Steadfast in ChatGPT, Says OpenAI
-date: 2024-08-29T19:48:06.039Z
-updated: 2024-08-30T19:48:06.039Z
+date: 2025-01-23T18:11:47.409Z
+updated: 2025-01-24T22:12:10.441Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,10 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is ChatGPT Getting Worse?
 
  It's something many ChatGPT users have wondered: is ChatGPT getting dumber? OpenAI releases frequent updates to ChatGPT designed to tweak its responses, safety, and more, [using user feedback](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/), prompts, and user data to inform its direction.
@@ -30,6 +34,10 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
  The easiest way for most ChatGPT users to check how its responses have changed over time is to repeat a previously used prompt (preferably from the earlier days of ChatGPT) and analyze the two outputs.
 
  Responses requiring specific outputs, like those involving coding and math, are likely easiest to compare directly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stanford Study Suggests ChatGPT Drop Off
 
@@ -43,9 +51,17 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
 
 ![chatgpt study answers changing chart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
 ![chatgpt study answers changing chart explanations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart-explanations.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
@@ -56,8 +72,9 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
  The report explains that ChatGPT's large language model chain of thought "did not work" when presented with the questions in June. Conversation drift has always been a notable issue with LLMs, but the extreme variance in responses suggests performance issues and changes to ChatGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is ChatGPT Getting Worse? OpenAI Says No
 
  Is it just a coincidence that both casual and prolific ChatGPT users are noticing ChatGPT's changing quality?
@@ -68,9 +85,6 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
  Still, that didn't stop numerous responses to his tweet detailing how users have found ChatGPT's responses wanting, with many taking the time to annotate prompts and responses.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Can OpenAI Restore ChatGPT to Its Original State?
 
  The early days of ChatGPT seem long in the distance now; November 2022 is a hazy memory, and the world of AI moves fast.
@@ -81,14 +95,11 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -97,4 +108,23 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-comprehensive-guide-to-showmores-efficient-recording-tools-for-2024/"><u>[New] Comprehensive Guide to ShowMore's Efficient Recording Tools for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-export-live-webcam-video-through-vlc-for-2024/"><u>[New] Export Live Webcam Video Through VLC for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-organizing-your-youtube-content-with-ease/"><u>[Updated] 2024 Approved Organizing Your YouTube Content with Ease</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-mac-6-video-grabber-apps/"><u>[Updated] Essential Mac 6 Video Grabber Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-the-art-of-scriptwriting-for-viral-youtube-content/"><u>[Updated] Mastering the Art of Scriptwriting for Viral YouTube Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-seamless-gamewatching-unlock-nba-livestream-top-15-hacks/"><u>2024 Approved Seamless Gamewatching Unlock NBA Livestream (Top 15 Hacks)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-iphone-6-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from iPhone 6 or iPad?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unlockingluxurycameratech-post-mycam/"><u>In 2024, UnlockingLuxuryCameraTech Post-MyCam</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavi-converti-immagini-mef-in-formato-jpeg-gratuito-online/"><u>Movavi: Converti Immagini MEF in Formato JPEG Gratuito Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prepare-for-severe-winter-weather-and-save-big-get-40-off-on-anker-generators-zdnet/"><u>Prepare for Severe Winter Weather & Save Big – Get 40% Off on Anker Generators | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quickly-find-lost-pets-with-rings-budget-friendly-tag-for-dogs-and-cats-expert-insights-on-10-gadget/"><u>Quickly Find Lost Pets with Ring’s Budget-Friendly Tag for Dogs and Cats | Expert Insights on $10 Gadget</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-home-for-less-grab-the-ultimate-floodlight-and-outdoor-camera-combo-from-blink-at-just-80-in-time-for-labor-day-explore-tech-deals/"><u>Secure Your Home for Less: Grab the Ultimate Floodlight & Outdoor Camera Combo From Blink at Just $80 in Time for Labor Day – Explore Tech Deals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/slash-prices-secrets-to-saving-big-up-to-200-off-on-gopro-hero-11-cam/"><u>Slash Prices: Secrets to Saving Big - Up to $200 Off on GoPro Hero 11 Cam</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surprisingly-delighted-my-experience-with-the-ring-spotlight-cam-pro-a-review-by-zdnet/"><u>Surprisingly Delighted: My Experience with the Ring Spotlight Cam Pro - A Review by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-beammaster-pro/"><u>The BeamMaster Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-budget-friendly-prefab-homes-costing-less-than-50000-building-your-house-from-a-kit-tech-insights/"><u>Top 5 Budget-Friendly Prefab Homes Costing Less Than $50,000: Building Your House From a Kit - Tech Insights</u></a></li>
+</ul></div>
 

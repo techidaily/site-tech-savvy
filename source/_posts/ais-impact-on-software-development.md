@@ -1,7 +1,7 @@
 ---
 title: AI's Impact on Software Development
-date: 2025-01-14T16:44:49.391Z
-updated: 2025-01-18T17:33:11.951Z
+date: 2025-01-22T20:20:54.581Z
+updated: 2025-01-24T23:50:16.754Z
 tags:
   - chatgpt
   - open-ai
@@ -26,15 +26,15 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Overall Sentiments of Developers Towards AI
 
  As mentioned, AI is growing in popularity among developers. According to the [Stack Overflow 2023 survey](https://survey.stackoverflow.co/2023/), 70% are already using or plan to use AI tools in their development process with 44% already using the tools now and 26% planning to.
 
  The views on AI differ based on the profession and the level of experience of the developer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Profession
 
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 
  For cloud developers, AI can help optimize infrastructure management by automating processes such as resource allocation, load balancing, monitoring, and performance tuning.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Experience
 
  Developers earlier in their careers and those learning to code are more likely to use AI tools possibly because it improves the speed of learning.
@@ -59,12 +55,16 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
  On the other hand, 42.2% of developers with more than 21+ years of experience are less favorable to AI. This may be because they want to see whether the hype surrounding AI will die down before committing to a certain tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Countries
 
  Professional developers from India (83%), Brazil (78%), and Poland (70%) are among the developers using or planning to use AI tools in the future. This is probably because of the high growth of young developers from these countries. Developers from the United Kingdom, France, and Germany are less likely to use AI tools.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are the Tasks Developers Are Using AI For?
 
@@ -80,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  AI is beneficial to professional developers as well as those learning to code. Overall 33% see an increase in productivity as the most important benefit of using AI. Tools such as GitHub Copilot offer features like code suggestions, auto-completion, and error detection, which can significantly speed up the coding process.
 
  Professional developers saw improved productivity (37.4%) as the main benefit with greater efficiency (27.9%) and speed of learning (27.4%) being secondary.
@@ -91,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
  The survey further categorized these benefits across different developer types. Increased productivity was a constant among all developer types.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Popular AI Tools That Developers Are Using in 2023
@@ -109,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
  GitHub Copilot is the most popular AI coding assistant. 70% + respondents who worked with GitHub Copilot want to work with it again. Additionally, 59%+ of Tabnine users and 50% of AWS Code Whisperer users want to use GitHub Copilot.
 
  This slow adoption of a wide variety of AI tools can be attributed to skepticism about AI accuracy with only 2.85% of developers highly trusting AI output. This distrust can be attributed to tools like ChatGPT providing incorrect output sometimes. This output, when used, can cause significant damage to an application. When using these tools, it's always a good idea to first verify the output.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Get Started With AI in Software Development
 
@@ -139,16 +139,18 @@ thumbnail: https://thmb.techidaily.com/9d142af41b1de506fdf32554a7ece9543f1d4a28a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-melody-migration-made-easy-a-guide-to-the-best-free-youtube-downloading-apps/"><u>[New] 2024 Approved Melody Migration Made Easy A Guide to the Best Free YouTube Downloading Apps</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-efficient-facebook-video-upload-on-computer-and-mobile-systems-for-2024/"><u>[Updated] Efficient Facebook Video Upload on Computer & Mobile Systems for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/canva/"><u>動画分割手順を教える! Canvaで簡易操作法と代用方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5yuv55s744gu44gw44kp44gk44gn44gm5q2i44gplus44kl5pa55rov77ya56k65a6f44gr44k544og44o844k65yyw44gz44kl44gf44kb44gu44os44oz44oi44go44ov44k2/"><u>動画のざわつきが止まる方法：確実にスムーズ化するためのヒントとワザ</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ac-3-vs-aac/"><u>AC-3 Vs. AAC：主要な違いとファイル間変換手順</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cdawav/"><u>CDA音声ファイルからWAV形式への簡単な変換手順 -初学者向けチュートリアル</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/dji-robomaster-s1-review/"><u>DJI RoboMaster S1 Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-guide-to-maximizing-creativity-with-picsart/"><u>In 2024, In-Depth Guide to Maximizing Creativity with PicsArt</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-tutorial-unveiling-arlos-secure-and-connected-safety-system/"><u>In-Depth Tutorial: Unveiling Arlo’s Secure and Connected Safety System</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/proven-strategies-for-inclusion-in-the-apple-catalog-for-2024/"><u>Proven Strategies for Inclusion in the Apple Catalog for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/symbolizing-sound-designing-a-captivating-podcast-image-for-2024/"><u>Symbolizing Sound Designing a Captivating Podcast Image for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-tale-of-two-faces-iphone-x-and-samsung-compared/"><u>[New] A Tale of Two Faces IPhone X & Samsung Compared</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pushing-boundaries-exploring-iphone-xs-unique-lens-tech/"><u>[New] Pushing Boundaries Exploring iPhone X's Unique Lens Tech</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-understanding-auto-hdr-techniques-in-modern-cameras/"><u>[New] Understanding Auto HDR Techniques in Modern Cameras</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-power-of-symbolism-in-crafting-effective-podcast-logos/"><u>2024 Approved The Power of Symbolism in Crafting Effective Podcast Logos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-android-with-chatgpt-widget-use/"><u>Enhance Android With ChatGPT Widget Use</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-6-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone 6</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/kid-friendly-smartphones-children-today-safe-and-fun/"><u>Kid-Friendly, Smartphones, Children Today, Safe, and Fun.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-the-art-of-directive-design-discover-7-digital-strategies/"><u>Master the Art of Directive Design: Discover 7 Digital Strategies</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/mastering-image-comments-for-your-online-galleries-using-flipbuilders-tools/"><u>Mastering Image Comments for Your Online Galleries Using FlipBuilder's Tools</u></a></li>
+<li><a href="https://win-popular.techidaily.com/resolvez-le-probleme-dinstallation-de-windows-11-build-23h2-avec-ces-7-correctifs-essentiels/"><u>Résolvez Le Problème D'installation De Windows 11 (Build 23H2) Avec Ces 7 Correctifs Essentiels</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-mute-mystery-restoring-sounds-in-roblox-for-windows-1110-users/"><u>Solving the Mute Mystery: Restoring Sounds in Roblox for Windows 11/10 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tactical-stealth-in-retaining-chatgpt-interactions/"><u>Tactical Stealth in Retaining ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-with-gpt-3-openai-style/"><u>Unlocking Potential with GPT-3, OpenAI Style</u></a></li>
 </ul></div>
 

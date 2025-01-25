@@ -1,7 +1,7 @@
 ---
 title: WinChatGPT Setup Guide
-date: 2024-08-29T19:50:30.204Z
-updated: 2024-08-30T19:50:30.204Z
+date: 2025-01-22T22:53:16.813Z
+updated: 2025-01-24T18:20:01.613Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 
  To pin the ChatGPT app, press the **Win** key and type ChatGPT. Right-click the app icon and select **Pin to Start** or **Taskbar**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Uninstall the ChatGPT Web App on Edge
 
 ![uninstall chatgpt edge app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chatgpt-edge-app.jpg)
@@ -64,15 +68,14 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 2. Click the **three-dots menu** in the top right corner.  
 ![chatgpt create chrome shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut.jpg)
 3. Select **More Tools** and then **Create Shortcut**.
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Enter a name in the **Create shortcut** popup.  
 ![chatgpt create chrome shortcut create](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut-create.jpg)
 5. Select the **Open as window** option. Without this, the ChatGPT shortcut will open the site in a new Chrome window instead of in its standalone window.
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 6. Click **Create** to finish.
 
  You can open the ChatGPT Chrome shortcut from the Start menu. Right-click on the Shortcut to add it to the Start menu and taskbar.
@@ -88,16 +91,14 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 
  In addition to this, you can [install websites as desktop apps on Windows](https://www.makeuseof.com/websites-desktop-apps-windows/) using tools like WebCatalog. It allows you to turn web pages into desktop apps, organize them, and even switch between multiple accounts without logging out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Run ChatGPT Natively Using an Unofficial Project
 
 ![chat gpt github unofficial project running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project-running-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  A developer on GitHub has posted an unofficial ChatGPT project which runs natively on the Windows computer. To use the app, you need to log in using the ChatGPT credentials. It works similarly to the AI chatbot web app but offers some additional features.
 
  Since it is a third-party project, we recommend you [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) to be able to undo the changes in case something goes awry.
@@ -121,8 +122,9 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 ![uninstall chatgpt unofficial client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-chatgpt-unofficial-client.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 1. Press **Win + I** to open **Settings**.
 2. Next, open the **Apps** tab and click **Installed Apps**.
 3. Search for the ChatGPT app, click the **three-dots** menu next to the app name and select **Uninstall**.
@@ -130,8 +132,9 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
  Once done, you might also want to delete the setup file from the Downloads folder in File Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Install ChatGPT as a Windows App
 
  Adding ChatGPT as a Windows app lets you access the app in a standalone window. This removes the hassle of visiting the site frequently to use the service.
@@ -144,14 +147,11 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 
  At the time of writing, OpenAI hasn't released an official app for ChatGPT on the Chrome Web Store or the Microsoft Store. Please be cautious while searching for any purported ChatGPT app on these and other app marketplaces.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -160,4 +160,26 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-insta-audio-handbook-choosing-music-wisely/"><u>[New] 2024 Approved The Insta-Audio Handbook Choosing Music Wisely</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ptimal-film-and-camera-choices-for-youtube-vloggers-for-2024/"><u>[New] Optimal Film & Camera Choices for YouTube Vloggers for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlock-the-secrets-of-effective-video-cropping-for-instagram/"><u>[Updated] Unlock the Secrets of Effective Video Cropping for Instagram</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-capabilities-or-ai-supported-skills-discover-what-top-employers-really-want/"><u>AI Capabilities or AI-Supported Skills? Discover What Top Employers Really Want!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/combating-developer-burnout-strategies-companies-use-to-boost-well-being-and-productivity/"><u>Combating Developer Burnout: Strategies Companies Use to Boost Well-Being & Productivity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-step-by-step-strategy-how-to-secure-employment-in-top-tech-firms-insights-from-zdnet/"><u>Comprehensive Step-by-Step Strategy: How to Secure Employment in Top Tech Firms - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/distortion-driven-the-artists-guide-to-altered-text/"><u>Distortion Driven The Artist's Guide to Altered Text</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embracing-quiet-quitting-a-rising-trend-employers-must-understand-insights-from-zdnet/"><u>Embracing 'Quiet Quitting': A Rising Trend Employers Must Understand - Insights From ZDNet</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/enhancing-digital-presence-with-vimeo-sharing-for-2024/"><u>Enhancing Digital Presence with Vimeo Sharing for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/enhancing-remote-communication-with-effective-skype-screen-sharing-for-2024/"><u>Enhancing Remote Communication with Effective Skype Screen Sharing for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-leading-free-artificial-intelligence-courses-and-assess-value-of-ai-certifications/"><u>Explore the Leading Free Artificial Intelligence Courses & Assess Value of AI Certifications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/financial-tech-experts-call-for-creative-intellects-to-revolutionize-ai-rejecting-dependence-on-simplistic-prompts-zdnet/"><u>Financial Tech Experts Call for Creative Intellects to Revolutionize AI, Rejecting Dependence on Simplistic Prompts | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-asus-rog-phone-7-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Asus ROG Phone 7 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-12-pro-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 12 Pro to iPad? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-quality-podcasts-iphone-and-ipad-tips-for-intense-interviewing/"><u>In 2024, Crafting Quality Podcasts IPhone & iPad Tips for Intense Interviewing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/learn-artificial-intelligence-imagery-skills-at-zero-cost-unlock-free-course-hacks-on-udemy-as-revealed-by-zdnet/"><u>Learn Artificial Intelligence Imagery Skills at Zero Cost: Unlock Free Course Hacks on Udemy, as Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/lucrative-tech-expertise-unveiling-the-top-10-highest-paying-it-skills-for-profit-maximization/"><u>Lucrative Tech Expertise: Unveiling the Top 10 Highest Paying IT Skills for Profit Maximization</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-extraction-hardware-and-drivers-compatibility-issue-heres-how-to-resolve-it/"><u>Rainbow Six Extraction Hardware & Drivers Compatibility Issue? Here's How to Resolve It</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-checklist-setting-up-your-home-office-for-success-tips-from-zdnet/"><u>Ultimate Checklist: Setting Up Your Home Office for Success | Tips From ZDNet</u></a></li>
+</ul></div>
 

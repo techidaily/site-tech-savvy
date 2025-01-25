@@ -1,7 +1,7 @@
 ---
 title: "Organizing Dialogues: The Power of Precision in ChatGPT"
-date: 2024-08-29T19:49:19.978Z
-updated: 2024-08-30T19:49:19.978Z
+date: 2025-01-18T16:51:18.123Z
+updated: 2025-01-24T16:40:42.155Z
 tags:
   - chatgpt
   - open-ai
@@ -37,38 +37,38 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
  Launch ChatGPT to check ChatGPT Folders installed correctly. You should now find a new toolbar atop your ChatGPT conversation history with options to create a New Conversation and, most importantly, a New Folder. You'll also note that a tree structure now exists alongside your ChatGPT conversations, which you can use to select specific chats you want to move into a folder, delete, and so on.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Create a New Folder, Add Your Conversations
 
  From here, you can begin creating new folders to manage your ChatGPT conversations.
 
 ![adding chatgpt conversations to folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adding-chatgpt-conversations-to-folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. From the top bar, select **New Folder**. Give it a name.
 2. Now, select any ChatGPT conversations you want to add by selecting the check box.
 3. You can either drag and drop the selected folders into your new folder or right-click and select **Move to > New Folder**.  
 ![moving chatgpt conversations to new folder chatgpt folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/moving-chatgpt-conversations-to-new-folder-chatgpt-folders.jpg)
 4. Select your folder. It will open using the same tree structure, where you'll find your grouped conversations.
+
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. **Optional**: Inside your new folder, select the **New Folder** button once more to create a subfolder. Use the same steps as before to transfer ChatGPT conversations to the subfolder.
 
 ![chatgpt folders with nested conversations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-folders-with-nested-conversations.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. How to Delete a Folder and Reset Your Conversations
 
  Deleting a folder and resetting your conversations are two different processes, but you'll want to know about both.
@@ -79,14 +79,12 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
 ![chatgpt folders reset conversations and folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-folders-reset-conversations-and-folders.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Select the three-line button at the top of the ChatGPT history, then **Reset folders and conversations**. Doing so will remove all of the ChatGPT Folders you've created and return your ChatGPT conversations to their original state. Note that this isn't the same as [deleting your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Are ChatGPT Folders the ChatGPT Future?
 
  The additional functionality ChatGPT Folders brings to ChatGPT is most welcome.
@@ -107,14 +105,11 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
  That's where the ChatGPT Folders Chrome extension comes into play, allowing you to organize, structure, and pin your ChatGPT conversations. Here's how it works.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,4 +118,19 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-perfectly-smooth-window-snap-tool/"><u>[New] 2024 Approved Perfectly Smooth Window Snap Tool</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pinnacle-srt-upgrades-elevating-your-tech-game/"><u>[New] Pinnacle SRT Upgrades Elevating Your Tech Game</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-green-walls-in-grey-buildings-a-step-towards-eco-cities/"><u>[Updated] In 2024, Green Walls in Grey Buildings A Step Towards Eco-Cities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-budget-friendly-audio-the-best-bang-for-your-buck-bluetooth-speaker-on-test-zdnet-review/"><u>Affordable Budget-Friendly Audio: The Best Bang-for-Your-Buck Bluetooth Speaker on Test | ZDNet Review</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/alleviating-hp-printer-error-code-oxc4eb827f/"><u>Alleviating HP Printer Error: Code OXC4EB827F</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-dvd-conversion-software-compatible-with-windows-amoled-on-smart-devices-convert-dvds-into-avimp4h264-for-android-iphone-and-ipad-free/"><u>Effortless DVD Conversion Software Compatible with Windows Amoled on Smart Devices - Convert DVDs Into AVI/MP4/H264 for Android, iPhone & iPad (Free)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-ultimate-camping-audio-experience-best-speakers-of-2n24-zdnet/"><u>Exploring the Ultimate Camping Audio Experience: Best Speakers of 2N24 | ZDNET</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-nokia-c12-frp-by-drfone-android/"><u>Full Guide to Bypass Nokia C12 FRP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-depth-analysis-marshall-motif-anc-headphones-user-experience-and-features/"><u>In-Depth Analysis: Marshall Motif ANC Headphones - User Experience & Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-your-digital-talk-leading-web-based-text-to-speech-apps-for-chrome-for-2024/"><u>Mastering Your Digital Talk Leading Web-Based Text-to-Speech Apps for Chrome for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-glitches-find-solutions-now/"><u>Tackling Windows Glitches: Find Solutions Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-affordable-soundbar-picks-your-ultimate-guide-by-zdnet/"><u>Top Affordable Soundbar Picks : Your Ultimate Guide by ZDNet</u></a></li>
+</ul></div>
 

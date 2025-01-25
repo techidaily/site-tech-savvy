@@ -1,7 +1,7 @@
 ---
 title: "Seven Pathways: Generative AI's Impact on Labor Markets"
-date: 2024-09-02T20:32:03.263Z
-updated: 2024-09-03T20:32:03.263Z
+date: 2025-01-19T16:05:35.525Z
+updated: 2025-01-24T20:33:22.049Z
 tags:
   - chatgpt
   - open-ai
@@ -48,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 ![Man Working on a Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/man-techie.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We saw how Google is integrating [generative AI in Google Workspace apps](https://www.makeuseof.com/google-workspace-generative-ai/) such as Gmail, Docs, Sheets, Slides, and more. Microsoft is doing the same with its Office 365 suite of productivity apps. Many more companies are implementing the tech on their own products too.
 
  Since these generative AI capabilities in workspace apps are still in testing and haven't been fully rolled out yet, you might dismiss them as a fad. But that would be a huge mistake. Once developed and available to everyone, these AI tools will help skyrocket productivity for white-collar workers around the world.
@@ -58,16 +59,14 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 
  For some, this might be alarming, as they fear they might lose their jobs. And though that is a valid fear, you may find reassurance in knowing the [reasons AI can't replace humans at work](https://www.makeuseof.com/reasons-artificial-intelligence-cant-replace-humans/). What's perhaps more likely is that AI will simply remove the drudgery out of office work and allow more room for planning and creative thought.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Creative Jobs Will Become Much Easier
 
 ![Two women looking at a computer and iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creative-activities-that-boost-your-mental-health.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Speaking of creativity, creative AI tools like DALL-E and Midjourney have taken the art world by storm. We won't get into how many artists are protesting against the use of such tools, as they deem it unfair to have them use their copyrighted artwork for reference.
 
  On a more practical note, creative AI tools will allow artists, graphic designers, interior designers, fashion designers, and product designers to work and come up with new ideas much faster. By having the AI create a rough first draft for you, it allows you the flexibility to quickly make tweaks and adjustments later on to churn out original content faster.
@@ -80,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 
 ![Illustration of two computers and app icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/illustration-of-two-computers-and-app-icons.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Planning, organizing, designing, and scheduling a social media campaign is no easy task. There are so many things that you need to keep in mind, such as your brand image, tonality, target audience, brand colors, style guide, and more. It's a job that requires an entire team of creative people.
 
  With generative AI, however, that may no longer be the case. We may soon see the launch of AI tools so capable, they can run month-long social media campaigns all by themselves with little to no oversight.
@@ -91,26 +94,25 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 ![A clock and a calendar with stationery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Reminders-Notion-Feature-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Given how generative AI will allow many of us to work much faster than before, it's fair to assume that some jobs will see a decline in the number of hours required, leading to shorter workdays.
 
  Since [human capital will become less necessary](https://www.makeuseof.com/types-of-jobs-risk-ai/) going forward, companies will increasingly embrace automation in white-collar jobs. But since some level of human intervention will still be required, employees in some industries will be asked to work fewer hours.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Blue-Collar Jobs Will Become Far More Lucrative
 
 ![Feature cover of a happy construction worker behind his desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/feature-cover-of-a-happy-construction-worker-behind-his-desk.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Blue-collar jobs such as farmer, plumber, electrician, mechanic, construction worker, and more are likely to become far more lucrative than ever before in history—perhaps even more than some white-collar jobs. Why? Because unlike white-collar work, many blue-collar jobs require manual labor and cannot be easily automated.
 
  Generative AI can easily learn the patterns of a desk job and produce useful results, but all of those capabilities are limited to software. This is not to say that AI isn't used in some blue-collar jobs, as it is, but software alone can't fix a leaky toilet, plow land, build a house, perform pest control, remove dents from your car, or repair a broken air conditioner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Adapt and Work With AI
 
  The trends we've listed above may not happen instantly, but given the rate at which generative AI is improving, it would be foolish to think that it won't affect the job market and your place in it.
@@ -121,14 +123,11 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 
  Like most cases, the truth is probably somewhere in the middle. To help you know what to expect and better prepare yourself, we're listing down some of our top predictions on how generative AI will change the job market in the next few years.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +136,21 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-transition-your-facebook-vids-into-stellar-hd/"><u>[New] In 2024, How to Transition Your Facebook Vids Into Stellar HD</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-essential-quicktime-lapse-maker-5/"><u>2024 Approved Essential Quicktime-Lapse Maker #5</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-vocal-alteration-tricks-for-pubg-players/"><u>2024 Approved Quick Vocal Alteration Tricks for PUBG Players</u></a></li>
+<li><a href="https://facebook.techidaily.com/are-facebook-quizzes-a-cybersecurity-risk/"><u>Are Facebook Quizzes a Cybersecurity Risk?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/complete-control-over-your-youtube-viewing-experience-for-2024/"><u>Complete Control Over Your YouTube Viewing Experience for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-clutter-in-communication-mastering-the-chatgpt-folder-system/"><u>Conquer Clutter in Communication: Mastering the ChatGPT Folder System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hone-your-prompt-writing-skills-for-maximum-chatgpt-impact/"><u>Hone Your Prompt Writing Skills for Maximum ChatGPT Impact</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/mastering-file-management-transferring-data-across-directories-with-ease-guidance-by-yl-software-professionals/"><u>Mastering File Management: Transferring Data Across Directories with Ease - Guidance by YL Software Professionals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-ai-landscape-learn-from-our-9-community-experts/"><u>Navigating the AI Landscape: Learn From Our 9 Community Experts</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-phantom-v-flip-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Phantom V Flip Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-turing-test-defined-and-chances-for-a-new-champion/"><u>The Turing Test Defined & Chances for a New Champion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncovering-the-basics-of-langchain-tech/"><u>Uncovering The Basics of LangChain Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-usechatgpt-co-pilot-features-and-capabilities/"><u>Understanding UseChatGPT Co-Pilot: Features & Capabilities</u></a></li>
+</ul></div>
 

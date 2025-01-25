@@ -1,7 +1,7 @@
 ---
 title: "Accelerating Innovation: ChatGPT's Impact on 3D Manufacturing"
-date: 2024-09-02T20:31:56.069Z
-updated: 2024-09-03T20:31:56.069Z
+date: 2025-01-21T19:24:21.004Z
+updated: 2025-01-24T18:20:13.558Z
 tags:
   - chatgpt
   - open-ai
@@ -23,9 +23,17 @@ thumbnail: https://thmb.techidaily.com/e300204a9c5c4ef99d0dbdbfe019e1c08c97d2c1f
 
  For makers and 3D printing enthusiasts, ChatGPT offers a wealth of tools that make it much easier to make your projects come together. But how can you use ChatGPT for 3D printing?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can ChatGPT Help With 3D Printing?
 
 ![creality k1 max 3d printer - printing benchy moving so fast](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/creality-k1-max-3d-printer-printing-benchy-moving-so-fast.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
 
@@ -53,9 +61,6 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
 
  While ChatGPT certainly has the ability to create STL files of greater complexity, OpenAI can’t dedicate the resources required for this sort of operation to free users. This is still an excellent tool for those who would like to build an understanding of how STL files work, though.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## Generate 3D Model Scripts for CAD Software With ChatGPT
 
  Many 3D modeling tools have the ability to generate 3D models using scripts. This isn’t always the most effective way to make 3D models when you have to write the script yourself, but ChatGPT can generate the script for you.
@@ -66,22 +71,20 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
 
 ![ChatGPT generated Blender Python script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-cube-python.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you have your script copied, you can load up Blender and head to the Scripting workspace. By default, you should see a script console on the left of the screen. Paste the ChatGPT-generated script into the console pane and hit the **Enter** key to see your 3D model appear in the 3D workspace.
 
 ![Blender script generated cube](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/blender-script-generated-cube.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Like when generating an STL file with ChatGPT, there are limitations in place that mean that the chatbot won’t try to create scripts that are too time-consuming. Thankfully, though, you can find paid services around the web that expand ChatGPT’s script-writing abilities. You can [learn how to access GPT-4](https://www.makeuseof.com/how-to-use-gpt4/) to enhance your 3D printing even further.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Else Can ChatGPT Help With 3D Printing?
 
  As you can see, ChatGPT has a lot of potential for 3D printing enthusiasts, but it doesn’t stop with generating scripts and STL files. OpenAI’s chatbot can offer support and advice with a variety of 3D printing questions.
@@ -92,8 +95,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * **3D Printer Settings**: [Choosing the correct settings for the material you are 3D printing with](https://www.makeuseof.com/fdm-3d-printer-settings-and-what-they-do/) is a challenge, especially when you encounter defects and issues with your prints. You can use ChatGPT to troubleshoot your 3D printer settings and help you choose the best ones for your prints.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Getting the Most Out of ChatGPT for 3D Printing
 
  It’s important to remember that the full scope of ChatGPT is yet to be discovered. In the meantime, you can experiment when you ask this chatbot for help with 3D printing, whether to generate STL files or 3D model scripts, or to check and repair G-code files. It’s worth taking the time to refine the questions you ask to get the best results.
@@ -108,8 +112,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +119,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-step-by-step-transferring-snapshots-from-social-platform-to-device/"><u>[New] 2024 Approved Step-by-Step Transferring Snapshots From Social Platform to Device</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ideal-steadicams-for-captivating-high-quality-shoots-on-your-dslr-camera-for-2024/"><u>[Updated] Ideal Steadicams for Captivating, High-Quality Shoots on Your DSLR Camera for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-best-mac-screen-capture-tools/"><u>2024 Approved Best Mac Screen Capture Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-giggle-engineer-apocalyptic-comic-relief/"><u>2024 Approved Giggle Engineer Apocalyptic Comic Relief</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/collaboration-in-a-connected-world-mastering-chatgpts-six-uses/"><u>Collaboration in a Connected World: Mastering ChatGPT's Six Uses</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/youtube-suggested-content-now-for-2024/"><u>Halt YouTube Suggested Content Now for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-nvidia-quadro-graphics-card-on-windows-11-direct-clipboard-handling-driver-guide-and-download/"><u>How to Update NVIDIA Quadro Graphics Card on Windows 11 - Direct Clipboard Handling Driver Guide and Download</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-building-brands-earning-dollars-a-comprehensive-guide-to-insta-sponsorships/"><u>In 2024, Building Brands, Earning Dollars A Comprehensive Guide to Insta-Sponsorships</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-education-why-teachers-should-embrace-ais-potential/"><u>Redefining Education: Why Teachers Should Embrace AI's Potential</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-unlocking-the-joys-of-ifunnys-meme-app-for-2024/"><u>Step-by-Step Unlocking the Joys of iFunny's Meme App for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-is-inclusive-your-guide-to-gpt-4/"><u>The Future Is Inclusive: Your Guide to GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-new-dimensions-chatbots-and-creative-endeavors/"><u>Unveiling New Dimensions: Chatbots and Creative Endeavors</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Sifting Through Scam Rumors About TruthCoin
-date: 2025-01-15T16:39:57.087Z
-updated: 2025-01-18T16:40:44.529Z
+date: 2025-01-18T16:17:15.204Z
+updated: 2025-01-24T17:35:54.782Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is TruthGPT Coin? Why Are There Two TruthGPT Coins?
@@ -38,15 +38,23 @@ thumbnail: https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc1
 
 ![truthgpt home page-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/truthgpt-home-page-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The first project claims to be powered by an AI model developed in-house called Elon Musk AI. The TruthGPT website is full of images of Musk, poor-quality digital images, fake endorsements, and more (along with other prominent crypto figures, such as Binance's Changpeng Zhao). After signing up, you can ask the "AI" questions, but the responses are extremely slow and look to me to be hand-written in places. You'll also find fake accounts for big names in crypto, like Elon Musk, Satoshi Nakamoto, and Michael Saylor.
 
 ![truthgpt elon musk fake account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/truthgpt-elon-musk-fake-account.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![truthgpt example account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/truthgpt-example-account.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -54,15 +62,7 @@ Close
 
 ![second truthgpt coin website home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/second-truthgpt-coin-website-home-page.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, the second TruthGPT Coin has linked itself to [Elon Musk's TruthGPT AI project](https://www.makeuseof.com/what-is-truthgpt/) to gain a semblance of legitimacy, though it notes that TruthGPT Coin is a community effort and isn't affiliated with Musk. It doesn't feature any Musk imagery but talks about him throughout the site and claims to use artificial intelligence to "seek out and evaluate information in order to arrive at the most accurate and reliable understanding of the world."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is TruthGPT Coin a Scam?
 
@@ -79,7 +79,7 @@ Close
  The TruthGPT Coin entry on [CoinMarketCap](https://coinmarketcap.com/currencies/truthgpt/) also suggests something fishy is going on. It currently displays a banner informing would-be users that, "According to [Gopluslabs](https://gopluslabs.io/token-security/1/0xaf75d880b3128981d1fed3292fc02e3fb37acd53), the smart contract of the following asset can be modified by the contract creator (for example: disable selling, change fees, mint new tokens, or transfer tokens). Please exercise caution before taking any action and DYOR."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Watch Out for Scam Tokens Involving ChatGPT, AI, and Elon Musk
@@ -109,17 +109,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-best-soundstage-networking/"><u>[Updated] 2024 Approved Best Soundstage Networking</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-elite-8-tools-transforming-digital-images/"><u>[Updated] In 2024, Elite 8 Tools Transforming Digital Images</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-from-dreamer-to-doer-sign-up-for-a-youtube-channel/"><u>[Updated] In 2024, From Dreamer To Doer Sign Up for a YouTube Channel</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-lenovo-ideapad-series-solid-construction-meets-user-friendly-experience/"><u>Comprehensive Review of the Lenovo Ideapad Series: Solid Construction Meets User Friendly Experience</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/conversion-gratuit-de-fichier-wav-vers-swf-en-ligne-utilisez-movavi-sans-frais/"><u>Conversion Gratuit De Fichier WAV Vers SWF en Ligne - Utilisez Movavi Sans Frais</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-navigating-to-your-distinctive-tiktok-tag/"><u>In 2024, Navigating to Your Distinctive TikTok Tag</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-building-a-bootable-drive-with-rufus-on-windows-11/"><u>Step-by-Step Guide: Building a Bootable Drive with Rufus on Windows 11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/streamlined-conversion-of-youtube-content-for-2024/"><u>Streamlined Conversion of YouTube Content for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-methods-for-converting-your-dvd-collection-into-high-quality-mp3-files/"><u>Top 5 Methods for Converting Your DVD Collection Into High-Quality MP3 Files</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-7-premier-free-software-for-iso-image-creation/"><u>Top 7 Premier Free Software for ISO Image Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-dvd-to-avc-editor-software-of-2024-for-windows-10-and-11-users/"><u>Top DVD to AVC Editor Software of 2024 for Windows 10 and 11 Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-avi-video-conversion-top-tools-and-tricks-for-converting-videos-with-precision/"><u>Ultimate Guide to AVI Video Conversion: Top Tools & Tricks for Converting Videos with Precision</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-ultimate-adventure-anthology-top-10-game-selection/"><u>[New] 2024 Approved The Ultimate Adventure Anthology – Top 10 Game Selection</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagrams-mirror-reflecting-true-selfie-essence/"><u>[Updated] In 2024, Instagram's Mirror Reflecting True Selfie Essence</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-essential-guide-to-playstation-45-audio-tweaks/"><u>[Updated] The Essential Guide to PlayStation 4/5 Audio Tweaks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-detailed-analysis-of-mozillas-popup-functionality/"><u>A Detailed Analysis of Mozilla's Popup Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-logic-pro-evolves-with-new-artificial-intelligence-features-transforming-ios-and-macos-music-production-as-covered/"><u>Apple's Logic Pro Evolves with New Artificial Intelligence Features, Transforming iOS and macOS Music Production as Covered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-apple-airpods-pro-gen-3-review-key-enhancements-explored-techradar/"><u>Comprehensive Apple AirPods Pro Gen 3 Review - Key Enhancements Explored | TechRadar</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s24-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S24 Phones with/without a PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apples-new-nfc-feature-opens-doors-for-third-party-developers-unlock-your-potential-with-the-updated-iphone/"><u>How Apple's New NFC Feature Opens Doors for Third-Party Developers: Unlock Your Potential with the Updated iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-resurrect-your-chatgpt-usage-post-block/"><u>How to Resurrect Your ChatGPT Usage Post-Block</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-18-unveiled-discover-the-top-6-ai-enhancements-for-your-iphone-and-anticipate-future-upgrades-insights/"><u>IOS 18 Unveiled: Discover the Top 6 AI Enhancements for Your iPhone and Anticipate Future Upgrades - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-domestic-life-chatgpts-6-productivity-methods/"><u>Revolutionize Domestic Life: ChatGPT's 6 Productivity Methods</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-nubia-red-magic-9-proplus-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Nubia Red Magic 9 Pro+ to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-shells-role-in-accessing-gpt-powered-conversation/"><u>The Shell's Role in Accessing GPT-Powered Conversation</u></a></li>
 </ul></div>
 

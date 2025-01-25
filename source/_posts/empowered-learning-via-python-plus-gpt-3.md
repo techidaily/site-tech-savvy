@@ -1,7 +1,7 @@
 ---
 title: Empowered Learning via Python + GPT-3
-date: 2024-08-29T19:46:47.640Z
-updated: 2024-08-30T19:46:47.640Z
+date: 2025-01-18T00:07:28.683Z
+updated: 2025-01-24T21:42:10.038Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 
  CopyAI uses it to generate copywriting content for websites, blogs, advertisements, emails, and social media. Lex uses GPT-3 to answer research questions, Algolia for semantic search, and Replier to create branded replies to customer reviews. Here's how you can use OpenAI's GPT-3 model with Python to get started on building your AI-powered application.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is GPT-3?
 
 [OpenAI's GPT-3](https://www.makeuseof.com/how-to-use-gpt-3-openai-playground/) is the third-generation Generative Pre-trained Transformer. It is a Machine Learning model with over 175 billion parameters, almost the entire internet. This gives it immense capabilities to answer a wide range of questions and perform tasks that would otherwise take a lot of manual effort.
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 
  If you're wondering what GPT-3 is capable of, then you can explore some of the [creative uses for GPT-3 in OpenAI Playground](https://www.makeuseof.com/creative-uses-for-gpt-3-openai-playground/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Generating the API Key
 
  To use GPT-3 with Python you need to generate an API key. To view your API key, follow these steps:
@@ -41,15 +49,16 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 2. Click on your profile and select the **View API Keys** button.  
 ![View API Key of OpenAI website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/view-api-key-of-openai-website-1.jpg)
 3. Click on **Create new secret key** to generate your API key.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Create Secret API Screen of OpenAI website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/create-secret-api-screen-of-openai-website.jpg)
 4. Copy your API key and keep it in a secure location as you won't be able to view it again.
 
  OpenAI's GPT-3 API charges you based on the number of tokens (words) you use to interact with it. Luckily, OpenAI provides $18 of credit for free for the first three months, so you can explore it and experiment according to your needs.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## Building a Python Program to Use the GPT-3 API
 
  You can find the source code of this program in its [GitHub repository](https://github.com/makeuseofcode/GPT-3-With-Python).
@@ -95,8 +104,9 @@ main()`
  Put it all together and use Artificial Intelligence to answer your questions.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Output of Your GPT-3-Enabled Python Program
 
  When you run the program, it will ask you to enter a question. On entering the prompt, "Write a poem in 5 lines about how Iron Man is the greatest superhero of all time," the program produced the following impressive output:
@@ -104,11 +114,9 @@ main()`
 ![Output of using GPT3 with Python](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/output-of-using-gpt3-with-python.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
+
 ## GPT-3 Has Many Interesting Applications
 
  You can use GPT-3 to accomplish some pretty amazing feats. You use it as a chatbot that will give you fresh realistic answers on every prompt. You can generate poems, scripts, stories, slogans, essays, headlines, and a lot more. You can even summarize long pieces of text, generate code, converse infinitely, and get conversation based on past prompts as well.
@@ -125,8 +133,6 @@ main()`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +140,21 @@ main()`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-frugal-flight-assemblies-budget-friendly-drones-ranking/"><u>[New] 2024 Approved Frugal Flight Assemblies Budget-Friendly Drones Ranking</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-reviewing-the-future-moto-z2s-intelligent-features-for-2024/"><u>[New] Reviewing The Future Moto Z2's Intelligent Features for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-precision-screening-advanced-tips-for-hp-laptop-recording/"><u>2024 Approved Precision Screening Advanced Tips for HP Laptop Recording</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-nubia-red-magic-8s-proplus-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Nubia Red Magic 8S Pro+ FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-distance-collaboration-for-tech-experts-using-vr-and-digital-twins-a-zdnet-exploration/"><u>Enhancing Distance Collaboration for Tech Experts Using VR and Digital Twins – A ZDNet Exploration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-samsungs-new-vr-frontier-the-much-anticipated-xr-headset-teased-at-july-2024-unpacked-zdnet-insights/"><u>Exploring Samsung's New VR Frontier: The Much-Anticipated XR Headset Teased at July 2024 Unpacked | ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-lenovo-thinkreality-a3-for-top-notch-mr-fun-findings-by-zdnet/"><u>Exploring the Lenovo ThinkReality A3 for Top-Notch MR Fun: Findings by ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-v29e-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo V29e Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-stream-apples-immersive-3d-experiences-on-your-oculus-quest-a-step-by-step-guide/"><u>How to Stream Apple's Immersive 3D Experiences on Your Oculus Quest: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oneplus-nord-n30-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from OnePlus Nord N30 5G Phones with/without a PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meta-announces-release-of-groundbreaking-ar-glasses-following-quest-prototype-triumph-exclusive-details-from-zdnet/"><u>Meta Announces Release of Groundbreaking AR Glasses Following Quest Prototype Triumph - Exclusive Details From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolution-in-augmented-reality-unveiling-apples-upcoming-headset-with-groundbreaking-ocular-and-manual-recognition-as-reported-by-zdnet/"><u>Revolution in Augmented Reality: Unveiling Apple’s Upcoming Headset with Groundbreaking Ocular & Manual Recognition, as Reported by ZDNET</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/turbocharge-your-instagram-videos-online-tactics/"><u>Turbocharge Your Instagram Videos Online Tactics</u></a></li>
+</ul></div>
 

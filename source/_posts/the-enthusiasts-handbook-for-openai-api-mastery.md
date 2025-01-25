@@ -1,7 +1,7 @@
 ---
 title: The Enthusiast’s Handbook for OpenAI API Mastery
-date: 2024-08-29T19:50:01.772Z
-updated: 2024-08-30T19:50:01.772Z
+date: 2025-01-23T22:01:50.575Z
+updated: 2025-01-24T19:56:19.840Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 
  The [OpenAI API](https://platform.openai.com/) packs in a bunch of utilities for programmers. If you intend to deliver in-app AI daily, OpenAI will make your life easier with the following abilities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Chat
 
  The OpenAI API chat completion endpoint helps the end user to spin up a natural, human-friendly interactive session with a virtual assistant using the GPT-3.5-turbo model.
@@ -42,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
  You can even improve the model's performance by supplying parameters like temperature, presence-penalty, frequency-penalty, and more. If you've ever used ChatGPT, you already know how OpenAI's chat completion model work.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Text Completion
 
  The text completion API provides conversational, text insertion, and text completion functionalities based on advanced GPT-3.5 models.
@@ -60,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 
 ![Text completion model test via CLI more complete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/text-completion-model-test-via-cli-more-complete.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Speech-to-Text
 
  You can transcribe and translate audio speech using the OpenAI transcription and translation endpoints. The speech-to-text endpoints are based on the Whisper v2-large model, developed through large-scale weak supervision.
@@ -70,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
  However, OpenAI says there's no difference between its Whisper model and the one in open-source. So it offers endless opportunities for integrating a multilingual transcriber and translator AI into your app at scale.
 
  The endpoint usage is simple. All you have to do is to supply the model with an audio file and call the **openai.Audio.translate** or **openai.Audio.transcribe** endpoint to translate or transcribe it respectively. These endpoints accept a maximum file size of 25 MB and support most audio file types, including mp3, mp4, MPEG, MPGA, m4a, wav, and webm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Text Comparison
 
@@ -79,9 +85,6 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 
  Although the OpenAI documentation says you can use the other first-generation embedding models, the former is better with a cheaper price point. However, OpenAI warns that the embedding model might show social bias towards certain people, as proven in tests.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Code Completion
 
  The code completion endpoint is built on the OpenAI Codex, a set of models trained using natural language and billions of code lines from public repositories.
@@ -96,12 +99,6 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 
 ![OpenAI code completion command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-code-completion-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### Image Generation
 
  This is one of the most intuitive features of the OpenAI API. Based on the DALL.E image model, the OpenAI API's image functionality features endpoints for generating, editing, and creating image variations from natural language prompts.
@@ -116,13 +113,22 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 
 ![Image generation test for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/image-generation-test-for-openai.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use the OpenAI API
 
 ![OpenAI API secret key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-api-secret-key-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  ​​​​​ The OpenAI API usage is simple and follows the conventional API consumption pattern.
 
 1. Install the **openai** package using pip: **pip install openai**.If using Node instead, you can do so using npm: **npm install openai**.
@@ -152,14 +158,11 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 
  OpenAI's APIs feature many valuable endpoints that make AI integration easy. Let's explore the power of OpenAI APIs to see how they can benefit you.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,4 +171,20 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-dissecting-viral-trends-for-immersive-fb-ad-content/"><u>[New] Dissecting Viral Trends for Immersive FB Ad Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-capture-flawless-footage-top-choices-of-tripods-for-youtubers/"><u>[Updated] Capture Flawless Footage Top Choices of Tripods for YouTubers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/driver-installation-u-are-u-reader-v45-download/"><u>Driver Installation: U-Are-U Reader V4.5 Download</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-remote-work-revolutionizes-office-dynamics-stay-alert-zdnet/"><u>How Remote Work Revolutionizes Office Dynamics - Stay Alert! | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-strategies-and-pitfalls-in-crafting-an-unforgettable-cybersecurity-cv-insights-from-zdnet/"><u>Key Strategies & Pitfalls in Crafting an Unforgettable Cybersecurity CV - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-your-pathway-into-apple-expert-strategies-and-confidential-guide/"><u>Mastering Your Pathway Into Apple: Expert Strategies and Confidential Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overwhelmed-by-tasks-learn-how-to-supercharge-your-workflow-using-the-pomodoro-technique-zdnet/"><u>Overwhelmed by Tasks? Learn How to Supercharge Your Workflow Using the Pomodoro Technique | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reverse-your-snaps-with-ease-an-ultimate-guide-for-snapchat-users/"><u>Reverse Your Snaps with Ease: An Ultimate Guide for Snapchat Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/speedy-video-processing-for-youtube-tricks-to-render-and-upload-fast-for-2024/"><u>Speedy Video Processing for YouTube Tricks to Render & Upload Fast for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-role-of-a-chief-ai-officer-key-responsibilities-and-steps-towards-achieving-the-position/"><u>The Role of a Chief AI Officer: Key Responsibilities & Steps Towards Achieving the Position</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-2024-approved-best-tool-to-translate-youtube-video-to-arabic/"><u>Updated 2024 Approved Best Tool to Translate YouTube Video to Arabic</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-sound-on-dell-devices-with-realtek/"><u>Updating Sound on Dell Devices with Realtek</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/updating-your-linkedin-credentials-made-simple-expert-tips-and-reasons-zdnet/"><u>Updating Your LinkedIn Credentials Made Simple - Expert Tips & Reasons | ZDNet</u></a></li>
+</ul></div>
 

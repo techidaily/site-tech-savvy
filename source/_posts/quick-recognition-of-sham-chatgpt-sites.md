@@ -1,7 +1,7 @@
 ---
 title: Quick Recognition of Sham ChatGPT Sites
-date: 2024-08-29T19:45:11.828Z
-updated: 2024-08-30T19:45:11.828Z
+date: 2025-01-23T23:30:29.654Z
+updated: 2025-01-25T00:19:09.918Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/a26306e3d205a36c4a6b9d44bd1cf9f948f504e38
 
  The following signs can help you spot a ChatGPT phishing website.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Domain Name
 
 ![image showing a browser address bar having www written in it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/14258330557_9ef7718fc5_c.jpg)
@@ -46,21 +50,13 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
 
  All are seemingly linked to ChatGPT; all are completely fake.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Website Design and Layout
 
 ![ChatGPT's homepage displayed on a laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-s-homepage-displayed-on-a-laptop-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Phishing websites often mimic the design of official ChatGPT or OpenAI websites. Using the official layout, they mislead users into believing they are buying a product from the official site.
 
@@ -69,8 +65,9 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
  If a website contains the word "ChatGPT," but its design or layout is completely different from the official site, it could be a genuine service website. However, before you trust it, you should check out the website thoroughly to see what it offers.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### What the Website Is Trying to Sell You
 
  As of this writing, anyone can access ChatGPT-3.5 for free. If a website demands you pay a few cents or a dollar to access ChatGPT-3.5, it's a scam. Similarly, you can only purchase ChatGPT Plus (and ChatGPT-4) subscriptions from the official website. If scammers offer a cheaper price as a [reason to subscribe to ChatGPT Plus](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/), it's probably trying to trap you in a scam.
@@ -82,8 +79,9 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
 ![A Hook Stealing Login Credentials From a Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/phishing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The following signs can help you assess the credibility and trustworthiness of a suspicious website selling ChatGPT-related products:
 
 * Check the website's age. If a website is just a few weeks old, your best bet should be to stay away.
@@ -93,22 +91,16 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
 * If there is no padlock symbol beside the website URL and you see "Non-secure" written there, the website doesn't have the [SSL-protection](https://www.makeuseof.com/tag/ssl-certificate-need-one/), which is a phishing sign.  
 ![official chatgpt website with https lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/official-chatgpt-website-with-https-lock.jpg)
 * Search using the website's URL on Google or any other search engine. If there are bad reviews or negative comments about the website on public forums, that's another sign it could be malicious.
+
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * If there are no details about the company that owns the website or the site lacks important pages (like a privacy policy or contact page), it might be a scam.
 * If the website doesn't have any reviews or online presence, that suggests it's pretty new, so it's best to steer clear of it.
 
  We know criminals will try everything to trick unsuspecting users into their scams. But knowing most of the signs of a ChatGPT phishing site gives you a big advantage and boosts your security.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## What Should You Do if You Spot a ChatGPT Phishing Website?
 
  If you see any signs mentioned above or the website appears suspicious at first glance, report it immediately (for example, to CISA in the USA and the NCSC in the UK—both national computer crime agencies for their respective countries). Do not use your personal information, not even to log in, and do not use credit cards or other financial information. Also, avoid downloading attachments or clicking website links.
@@ -119,9 +111,6 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
 
 ![handcuffed hands typing on a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/handcuffed-hands-typing-on-a-keyboard.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you have already fallen victim to a ChatGPT phishing website, you can take a few steps to undo some of the damage.
 
 * If you've just landed on a phishing site and haven't done anything else, you're probably safe. All you have to do is leave the website and never visit it again.
@@ -141,14 +130,11 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,4 +143,20 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-streamlining-presentations-webcam-screen-capture-techniques/"><u>[Updated] Streamlining Presentations Webcam Screen Capture Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-voice-customization-made-easy/"><u>2024 Approved Instagram Voice Customization Made Easy</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-pinnacle-of-funny-photo-artistry/"><u>2024 Approved Pinnacle of Funny Photo Artistry</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/comprehensive-troubleshooting-how-to-repair-file-explorer-issues-and-restore-access/"><u>Comprehensive Troubleshooting: How to Repair File Explorer Issues & Restore Access</u></a></li>
+<li><a href="https://media-tips.techidaily.com/from-raw-to-ready-the-photographers-roadmap-to-changing-nef-into-jpg-format/"><u>From RAW to Ready: The Photographer's Roadmap to Changing NEF Into JPG Format</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/ideal-matches-free-and-paid-ultra-hd-playback-tools-for-windows-macos-for-2024/"><u>Ideal Matches Free & Paid Ultra HD Playback Tools for Windows, macOS for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-account-liberation-freeing-your-fb-identity/"><u>In 2024, Account Liberation Freeing Your FB Identity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/installing-and-mastering-microsoft-copilot-for-macos-developers/"><u>Installing and Mastering Microsoft Copilot for macOS Developers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimal-plug-ins-for-unmatched-gpt-and-vs-code-performance/"><u>Optimal Plug-Ins for Unmatched GPT & VS Code Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-content-creation-four-slip-ups-to-skip-in-chatgpt/"><u>Strategic Content Creation: Four Slip-Ups to Skip in ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-10-best-chatgpt-crypto-prompts/"><u>The 10 Best ChatGPT Crypto Prompts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/transforming-data-with-emoticons-customize-excel-cells-for-visual-impact-and-responsiveness/"><u>Transforming Data with Emoticons: Customize Excel Cells for Visual Impact and Responsiveness</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitters-emoji-free-linuss-unmasking-insights-trojans-explored-and-chatgpt-flaws-highlighted/"><u>Twitters Emoji-Free, Linus's Unmasking Insights, Trojans Explored, & ChatGPT Flaws Highlighted</u></a></li>
+</ul></div>
 

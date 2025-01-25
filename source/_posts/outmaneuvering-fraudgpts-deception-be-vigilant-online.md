@@ -1,7 +1,7 @@
 ---
 title: Outmaneuvering FraudGPT's Deception - Be Vigilant Online
-date: 2024-08-29T19:45:56.456Z
-updated: 2024-08-30T19:45:56.456Z
+date: 2025-01-22T17:12:42.556Z
+updated: 2025-01-24T19:15:45.641Z
 tags:
   - chatgpt
   - open-ai
@@ -23,9 +23,17 @@ thumbnail: https://thmb.techidaily.com/8d1de21c666386207e0a2c0896dc0647ebc82a413
 
  A new ChatGPT-styled tool, FraudGPT, is gaining traction among cybercriminals, allowing them to automate and better execute a large part of their fraud operations. Anyone can become a victim, so it is important to stay informed. Here's everything we know about FraudGPT so far.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is FraudGPT?
 
 ![A scammer using a fishing rod to steal data from a person’s laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scammer-using-a-fishing-rod-to-steal-data.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  FraudGPT is an AI tool powered by a large language model that is particularly fine-tuned to help cyber criminals commit cybercrime. The subscription-based AI tool allows threat actors to facilitate their criminal activities like carding, phishing, and malware creation.
 
@@ -36,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/8d1de21c666386207e0a2c0896dc0647ebc82a413
 ## How Does FraudGPT Work?
 
 ![A collage of details involved in browsing displayed on top of a device help my a person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/web-of-trust.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-control-collage-concept%5F30589263.htm#query=safe%20browsing&position=45&from%5Fview=search&track=ais)
 
@@ -51,16 +63,14 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 
  So, to use the tool, criminals could just prompt the chatbot as they'd do with ChatGPT. They could ask it to, say, write a phishing email for Jane Doe, who works at company ABC, or maybe ask it to write malware using C++ to steal all the PDF files from a Windows 10 computer. Criminals would basically just come up with evil mechanization and let the chatbot do the heavy lifting.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## How Can You Protect Yourself From FraudGPT?
 
 ![worrying about red flags online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/thinking-person-using-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Despite being a new kind of tool, the threat posed by FraudGPT is not fundamentally different. You could say it introduces more automation and efficiency to already established methods of executing cybercrime.
 
  Criminals using the tool would, at least theoretically, be able to write more convincing phishing emails, better plan scams, and create more effective malware, but they'd mostly still rely on the established ways of executing their nefarious plans. As a result, the established ways to protect yourself still apply:
@@ -75,17 +85,9 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
  For more on how to protect yourself, read our guide on [how to protect yourself in the era of AI](https://www.makeuseof.com/how-to-protect-privacy-ai/).
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay Informed to Protect Yourself
 
  The emergence of tools like FraudGPT reminds us that despite all the good that AI can do for us, it still represents a very potent tool in the hands of threat actors.
@@ -96,14 +98,11 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 
  A new ChatGPT-styled tool, FraudGPT, is gaining traction among cybercriminals, allowing them to automate and better execute a large part of their fraud operations. Anyone can become a victim, so it is important to stay informed. Here's everything we know about FraudGPT so far.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,4 +111,26 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-securing-perfection-top-10-free-mac-screen-recorders-unveiled/"><u>[New] In 2024, Securing Perfection TOP 10 FREE Mac Screen Recorders Unveiled</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-enrich-your-visuals-captions-on-the-go-in-instagram/"><u>[Updated] 2024 Approved Enrich Your Visuals Captions on the Go in Instagram</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-diving-into-benqs-bl2711u-a-professional-4k-monitor-analysis/"><u>[Updated] Diving Into BenQ’s BL2711U - A Professional 4K Monitor Analysis</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-step-by-step-guide-to-wirecast-facebook-livestreams/"><u>2024 Approved Step-by-Step Guide to Wirecast Facebook Livestreams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024avi/"><u>2024年の最新ビデオ編集ツール：AVIカット、トリミング、スプライシング用の無料ソフトウェアを紹介</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-your-gpt-experience-steer-clear-of-mistakes/"><u>Enhancing Your GPT Experience: Steer Clear of Mistakes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/futuristic-computing-unveiling-this-seasons-quintessential-ai-innovations/"><u>Futuristic Computing: Unveiling This Season's Quintessential AI Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-application-safe-or-unsafe-in-cybersecurity/"><u>GPT's Application: Safe or Unsafe? In Cybersecurity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-for-professional-resume-success/"><u>Harnessing ChatGPT for Professional Résumé Success</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-football-game-analysis-premier-insights-in-graphs/"><u>In 2024, Football Game Analysis Premier Insights in Graphs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-conversations-merging-siri-and-chatgpt-on-iphone/"><u>Innovative Conversations: Merging Siri & ChatGPT on iPhone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leading-speed-change-audio-utilities-list/"><u>Leading Speed-Change Audio Utilities List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-missteps-and-myths-surrounding-ai-messaging/"><u>The Missteps and Myths Surrounding AI Messaging</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-tale-of-two-sides-in-the-vr-revolution-for-2024/"><u>The Tale of Two Sides in the VR Revolution for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/trois-techniques-rapides-pour-deplacer-votre-systeme-dexploitation-windows-7-vers-un-nouveau-disque-dur/"><u>Trois Techniques Rapides Pour Déplacer Votre Système D'Exploitation Windows 7 Vers Un Nouveau Disque Dur</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-googles-ai-gemini-vision-workings-and-development/"><u>Understanding Google's AI Gemini: Vision, Workings & Development</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-gpt-assisted-research-techniques/"><u>Utilizing GPT-Assisted Research Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visionaries-unite-global-insights-on-ai-advancements/"><u>Visionaries Unite: Global Insights on AI Advancements</u></a></li>
+</ul></div>
 

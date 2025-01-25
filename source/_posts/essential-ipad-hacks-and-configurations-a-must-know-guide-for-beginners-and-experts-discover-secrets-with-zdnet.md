@@ -1,7 +1,7 @@
 ---
 title: "Essential iPad Hacks & Configurations: A Must-Know Guide for Beginners & Experts - Discover Secrets with ZDNet"
-date: 2025-01-11T16:27:55.928Z
-updated: 2025-01-18T16:10:10.022Z
+date: 2025-01-20T16:40:00.531Z
+updated: 2025-01-24T20:26:45.466Z
 tags:
   - apple
 categories:
@@ -75,7 +75,7 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
@@ -89,7 +89,7 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Hide your notifications from prying eyes
@@ -99,7 +99,7 @@ Sometimes, you just want to keep the contents of your iPad's notifications to yo
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
@@ -117,7 +117,7 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Make sure your screen is refreshing as fast as possible
@@ -137,7 +137,7 @@ I've always felt like the Control Center is slightly underrated for all the stuf
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
@@ -180,24 +180,17 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-obs-studio-showdown-with-bandicam-the-ultimate-test/"><u>[New] OBS Studio Showdown with Bandicam The Ultimate Test</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-enhance-audience-reach-share-twitch-videos-on-facebook/"><u>[Updated] 2024 Approved Enhance Audience Reach Share Twitch Videos on Facebook</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-a-new-chapter-for-recording-tech-dive-into-the-2023-apeaksoft-update/"><u>[Updated] A New Chapter for Recording Tech? Dive Into the 2023 Apeaksoft Update</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-lut-applications-in-ae/"><u>[Updated] Mastering LUT Applications in AE</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-the-visual-distortions-in-rust-programming/"><u>Fixing the Visual Distortions in Rust Programming</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/free-hevc-video-compression-software-for-windows-11-users/"><u>Free HEVC Video Compression Software for Windows 11 Users</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-unleashing-online-music-potential-with-imovie-and-youtube/"><u>In 2024, Unleashing Online Music Potential with iMovie & YouTube</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-inverted-soundscapes-the-premier-backwards-music-videos-for-2024/"><u>New Inverted Soundscapes The Premier Backwards Music Videos for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimize-your-macos-for-baldurs-gate-3-with-crossover-tips/"><u>Optimize Your macOS for Baldur’s Gate 3 with CrossOver Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-guide-transfer-youtube-vids-to-google-drive-for-zero-expense/"><u>Seamless Guide: Transfer YouTube Vids to Google Drive for Zero Expense</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-capturing-gameplay-footage-using-nvidias-geforce-shadow-play/"><u>Step-by-Step Guide: Capturing Gameplay Footage Using NVIDIA's GeForce Shadow Play</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-converting-flac-audio-files-to-m4a-format-in-windows/"><u>Step-by-Step Guide: Converting FLAC Audio Files to M4A Format in Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-avi-speeches-into-high-quality-wav-format/"><u>Step-by-Step Guide: Transforming AVI Speeches Into High-Quality WAV Format</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-your-swf-videos-into-mp4-format/"><u>Step-by-Step Guide: Transforming Your SWF Videos Into MP4 Format</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-process-transforming-avchd-videos-in-handbrake-and-discovering-the-best-substitutes/"><u>Step-by-Step Process: Transforming AVCHD Videos in HandBrake and Discovering the Best Substitutes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/stepwise-approach-to-snagging-youtube-playlists-efficiently-for-2024/"><u>Stepwise Approach to Snagging YouTube Playlists Efficiently for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-ranking-video-transcoder-effortlessly-convert-from-high-mb-to-low-mb-files/"><u>Top-Ranking Video Transcoder: Effortlessly Convert From High MB to Low MB Files</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-vlc-video-downloads-a-step-by-step-guide/"><u>Troubleshooting VLC Video Downloads: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-effortless-ripping-of-dvds-using-top-online-ripping-tools/"><u>Ultimate Guide: Effortless Ripping of DVDs Using Top Online Ripping Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-data-driven-odyssey-of-youtubes-statistical-storytelling-2017/"><u>[New] The Data-Driven Odyssey of YouTube's Statistical Storytelling (2017)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-art-of-audible-alteration-a-journey-through-cost-free-audio-effects-software/"><u>[Updated] 2024 Approved The Art of Audible Alteration A Journey Through Cost-Free Audio Effects Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-leading-srs-tuning-methods-for-macwin-users/"><u>[Updated] In 2024, Leading SRS Tuning Methods for Mac/Win Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-pixel-queens-rising-youtubes-top-10/"><u>[Updated] Pixel Queens Rising YouTube's #Top 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/80-less-on-the-apple-watch-se-2nd-generation-post-prime-day-bargains-insights/"><u>$80 Less on the Apple Watch SE (2Nd Generation): Post-Prime Day Bargains - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmented-adventures-strategies-to-transform-your-dungeons-and-dragons/"><u>Augmented Adventures: Strategies to Transform Your Dungeons & Dragons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/forging-an-ai-that-harmonizes-with-humanity/"><u>Forging an AI that Harmonizes with Humanity</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-y100a-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Vivo Y100A to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-investing-in-exclusive-ai-craftsmanship-worthwhile/"><u>Is Investing in Exclusive AI Craftsmanship Worthwhile?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316566-9781401925970-the-journey-home/"><u>The Journey Home | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforma-tu-archivos-m4a-en-formatos-flv-sin-coste-con-nuestro-conversor-online-gratis-y-eficiente-movavi/"><u>Transforma Tu Archivos M4A en Formatos FLV Sin Coste Con Nuestro Conversor Online Gratis Y Eficiente - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-full-potential-of-self-ai-wisdom-from-chatgpt/"><u>Unlock the Full Potential of Self: AI Wisdom From ChatGPT</u></a></li>
 </ul></div>
 

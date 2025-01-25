@@ -1,7 +1,7 @@
 ---
 title: The Essential ChatGPT Handbook
-date: 2024-08-29T19:51:33.625Z
-updated: 2024-08-30T19:51:33.625Z
+date: 2025-01-20T19:17:10.584Z
+updated: 2025-01-24T21:25:43.790Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
 ## What Is ChatGPT?
 
 ![Home page of ChatGPT website october 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/home-page-of-chatgpt-website-october-2023.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT is a generative AI chatbot that can answer almost any question you have—just as if Google were a person you could have a casual conversation with.
 
@@ -57,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
 
 ![ChatGPT interface October 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-interface-october-2023.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Using ChatGPT is simple, thanks to a minimalist interface. After the ChatGPT login page, like an ordinary messaging app, you type in the text box and hit enter or click the send button (paper airplane symbol).
 
  Responses are generated quite fast, appearing directly underneath your question. Any follow-up questions will be added to the conversation thread, which you can look back on at any time.
@@ -70,15 +71,13 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
 
 ![Asking ChatGPT to summarize a response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/asking-chatgpt-to-summarize-a-response.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What to Ask ChatGPT
 
 ![Asking ChatGPT for a few iconic places to visit in NYC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/asking-chatgpt-for-a-few-iconic-places-to-visit-in-nyc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Many people turn to Google when they want to ask how something works, but sifting through a website takes time. Instead of putting that question to the internet, you can use ChatGPT to get a quick and straightforward answer.
 
@@ -95,8 +94,9 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
  It doesn't stop there, though. ChatGPT can create graphs, explain difficult concepts, generate unique stories with images (using ChatGPT Plus), and more. Effectively, your imagination is the only limitation.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the ChatGPT App?
 
 [ChatGPT has an app for iOS and Android](https://www.makeuseof.com/how-to-use-chatgpt-on-android-and-ios/) that is worth checking out. Having the app on your phone is convenient for quick queries. Plus, the messaging style interface is a natural fit for mobile use.
@@ -105,26 +105,33 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
 
 ![text box and microphone icon in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096282_y.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Sound being converted to text in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096281_y.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![A response in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096280_y.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  Make sure to try out the speech-to-text option, which lets you use the microphone to ask your question out loud instead of typing. This adds another layer of ease and accessibility, which we enjoy.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Browsing the Internet With ChatGPT
 
 ![chatgpt with internet access october 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/chatgpt-with-internet-access-october-2023.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As we mentioned earlier, ChatGPT can access the internet, and it's a game changer. To get this feature, you will [need a subscription to ChatGPT Plus](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/), which will set you back $20 per month. However, the chance to access real-time information might be worth it to you.
 
@@ -140,9 +147,6 @@ Close
 
 ![Asking ChatGPT how to bully someone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/asking-chatgpt-how-to-bully-someone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This moderation isn't perfect, and people are finding ways to get around the restrictions all the time. But in the spirit of helping to create a safe AI chatbot, feel free to use the thumbs up/thumbs down buttons to provide feedback and help steer the model in the right direction.
 
  A text box will appear asking you to explain the issues, alongside a few check boxes asking whether the answer was harmful/unsafe, not true, or not helpful.
@@ -161,14 +165,11 @@ Close
 
  Want to learn how to use ChatGPT? We've got you covered.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -177,4 +178,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-how-to-make-macbook-pro-video-tutorials-easy/"><u>[Updated] 2024 Approved How to Make Macbook Pro Video Tutorials Easy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-chatgpts-capabilities-an-automated-approach-to-proofreading-texts/"><u>Assessing ChatGPT's Capabilities: An Automated Approach to Proofreading Texts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-new-companion-for-modern-dating/"><u>ChatGPT: A New Companion for Modern Dating</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-solutions-for-fixing-voice-chat-glitches-in-pubg/"><u>Common Solutions for Fixing Voice Chat Glitches in PUBG</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convert-video-files-easily-with-movavis-free-offline-and-web-based-mkv-to-m4v-tool/"><u>Convert Video Files Easily with Movavi's FREE Offline and Web-Based MKV to M4V Tool.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discreet-preservation-of-dialogues-with-gpt-assistant/"><u>Discreet Preservation of Dialogues with GPT Assistant</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exposing-pseudo-authors-detecting-ai-written-pieces/"><u>Exposing Pseudo-Authors: Detecting AI Written Pieces</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-classic-to-curvy-embracing-distorted-photography-styles/"><u>From Classic to Curvy Embracing Distorted Photography Styles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-become-an-efficient-time-warrior-with-these-15-task-packed-listening-habits/"><u>In 2024, Become an Efficient Time Warrior with These 15 Task-Packed Listening Habits</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-the-power-of-post-production-colors/"><u>In 2024, Harnessing the Power of Post-Production Colors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maintaining-confidentiality-with-adaptive-chatgpts/"><u>Maintaining Confidentiality with Adaptive ChatGPTs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-the-art-of-conversation-overlooked-strengths-in-ai-tools/"><u>Master the Art of Conversation: Overlooked Strengths in AI Tools</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/navigating-parental-control-features-on-windows-pcs-with-expert-advice-from-yl-software/"><u>Navigating Parental Control Features on Windows PCs with Expert Advice From YL Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsungs-futuristic-tv-lineup-now-promises-7-years-of-free-ai-enhanced-software-improvements-according-to-zdnet-analysis/"><u>Samsung's Futuristic TV Lineup Now Promises 7 Years of Free AI-Enhanced Software Improvements, According to ZDNET Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-gameplay-chatgpt-dall-e-for-diverse-dandd-characters/"><u>Transforming Gameplay: ChatGPT, DALL-E for Diverse D&D Characters</u></a></li>
+</ul></div>
 

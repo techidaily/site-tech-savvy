@@ -1,7 +1,7 @@
 ---
 title: "Tech-Tinged Tenderninas: AI Love Scams Exposed"
-date: 2024-08-29T19:44:35.447Z
-updated: 2024-08-30T19:44:35.447Z
+date: 2025-01-21T18:48:34.327Z
+updated: 2025-01-24T20:48:20.126Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/38a10dded96ded9495ccb2173f240c20a69acb6b4
 
  And with the proliferation of generative AI tools, romance scams are becoming even easier to execute. They lower the barriers to entry. Here are seven common ways romance scammers exploit AI—plus how you can protect yourself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Sending AI-Generated Emails en Masse
 
  Spam emails are getting harder to filter. Romance scammers abuse generative AI tools to write misleading, convincing messages and create multiple accounts within hours. They approach hundreds almost instantly.
@@ -33,9 +37,17 @@ thumbnail: https://thmb.techidaily.com/38a10dded96ded9495ccb2173f240c20a69acb6b4
 
  Stay safe by avoiding spam messages entirely. Limit your engagement with strangers, regardless of how they look or what they offer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Responding to More Conversations Quickly
 
 ![Various Messaging Apps on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/messaging-apps-on-phone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Bots are spreading like wildfire online. [Imperva](https://www.imperva.com/resources/resource-library/reports/2023-imperva-bad-bot-report/) reports that bad bots made up 30 percent of automated web traffic in 2022\. You’ll find one within seconds of swiping through Tinder matches.
 
@@ -56,15 +68,13 @@ Close
 ![Generating Three Images from One Image of a Girl](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ai-generated-image-of-girls-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Yes, they have flaws. But note that we used a free tool running an outdated text-to-image model. Scammers produce more realistic output with sophisticated iterations. They can quickly render hundreds of customized, manipulated photos from just a few samples.
 
  Unfortunately, AI images are hard to detect. Your best bet would be to do a [reverse image search](https://www.makeuseof.com/tag/reverse-image-search-apps/) and sift through relevant results.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Building Deceptively Authentic-Looking Profiles
 
  Bots approach victims en masse. So romance scammers who prefer a targeted scheme create just one or two authentic-looking profiles. They’ll use AI to seem convincing. Generative AI tools can compose authentic-looking descriptions that sound natural and genuine; bad grammar will no longer be an issue.
@@ -73,9 +83,6 @@ Close
 
 ![Asking ChatGPT to Write Hobbies for a Dating Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-suggesting-good-hobbies.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  And here’s ChatGPT writing an entire biography for your dating profile.
 
 ![Asking ChatGPT to Create a Dating Profile for a Female](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-creating-dating-profile-bio.jpeg)
@@ -84,9 +91,6 @@ Close
 
  These cybercriminals are skilled at manipulating victims. The best tactic is to avoid engaging with them right from the get-go. Don’t let them say anything. Otherwise, you might gradually fall for their deception and gaslighting methods.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Exploiting Deepfake Technology for Sexual Extortion
 
  AI advanced deepfake tools at an alarmingly fast rate. New technologies reduce [minor imperfections in deepfake videos](https://www.makeuseof.com/how-do-deepfakes-work-and-who-is-using-them/), like unnatural blinking, uneven skin tones, distorted audio, and inconsistent elements.
@@ -99,9 +103,6 @@ Close
 
  Don’t cave in if you get targeted. Call 1-800-CALL-FBI, send an FBI tip, or visit your local FBI field office should you find yourself in this situation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## 6\. Integrating AI Models With Brute-Force Hacking Systems
 
  While open-source language models support some AI advancements, they’re also prone to exploitation. Criminals will take advantage of anything. You can’t expect them to ignore the algorithm behind highly sophisticated language models like [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) and [OpenAssistant](https://huggingface.co/OpenAssistant).
@@ -111,8 +112,9 @@ Close
  You have no control over what scammers do. To protect your accounts, make sure you [create a truly secure password](https://www.makeuseof.com/what-makes-a-password-truly-secure/) comprising special characters, alphanumeric combinations, and 14+ characters.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Imitating Real People With Voice Cloning
 
  AI voice generators started as a cool toy. Users would turn sample tracks of their favorite artists into covers or even new songs. Take Heart on My Sleeve as an example. TikTok user [Ghostwriter977](https://www.tiktok.com/@ghostwriter977) made a super-realistic song imitating Drake and The Weeknd, although neither artist sang it.
@@ -131,14 +133,11 @@ Close
 
  And with the proliferation of generative AI tools, romance scams are becoming even easier to execute. They lower the barriers to entry. Here are seven common ways romance scammers exploit AI—plus how you can protect yourself.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,4 +146,17 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/2024-approved-reimagine-your-content-with-advanced-number-edits-in-tiktok/"><u>2024 Approved Reimagine Your Content with Advanced Number Edits in TikTok</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-auto-gpt-thrive-on-its-own/"><u>Can Auto-GPT Thrive on Its Own?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/capture-and-keep-long-term-chat-gpt-storage/"><u>Capture & Keep: Long-Term Chat GPT Storage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-document-creation-chatgpt-word-partnership-for-efficiency/"><u>Conquer Document Creation: ChatGPT-Word Partnership for Efficiency</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-samsung-galaxy-s23-ultra-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Samsung Galaxy S23 Ultra Phone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-digital-dollars-earn-from-youtubers-in-8-ways/"><u>In 2024, Digital Dollars Earn From YouTubers in 8 Ways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/launching-into-langchain-an-easy-guide/"><u>Launching Into LangChain: An Easy Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/pixelperfect-toolkit-guidebook/"><u>PixelPerfect Toolkit Guidebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-asus-rog-ally-dock-line-up-2024/"><u>Ultimate ASUS ROG Ally Dock Line-Up 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/visual-upgrade-engine-windows-mac-and-online-edition/"><u>Visual Upgrade Engine – Windows, Mac & Online Edition</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Safety Advisory: ChatGPT for Windows—Not a Security Risk"
-date: 2024-08-29T19:45:54.036Z
-updated: 2024-08-30T19:45:54.036Z
+date: 2025-01-18T16:03:19.762Z
+updated: 2025-01-24T19:50:29.466Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,10 @@ OpenAI's ChatGPT generative AI is being used for all manner of enterprising acti
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT Desktop Client Is Actually Trojan Malware
 
  In February 2023, cybersecurity firm [Kaspersky reported](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022340/https://www.kaspersky.com/blog/chatgpt-stealer-win-client/47274/) that it had uncovered a malware campaign using ChatGPT as its lure, promising victims a free ChatGPT account with a $50 balance (to spend on [the premium version of ChatGPT](https://www.makeuseof.com/why-paid-chatgpt-professional-is-inevitable/)) and the use of a new ChatGPT desktop client.
@@ -30,6 +34,10 @@ OpenAI's ChatGPT generative AI is being used for all manner of enterprising acti
  Once the user clicks the link, it transports them to a page that looks exactly like the official ChatGPT site, albeit with the addition of a **Download For Windows** button. As you can probably guess, when you click the download button, you don't receive a new trial version of a ChatGPT desktop client. Below you can see the real site, followed by the fake ChatGPT site.
 
 ![chatgpt homepage march 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-homepage-march-2023.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![kaspersky malware chatgpt desktop client download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/kaspersky-malware-chatgpt-desktop-client-download-page.jpg)
 
@@ -45,6 +53,10 @@ Close
 
  According to Kaspersky's research, the ChatGPT desktop client malware has been spotted across Asia, Africa, Europe, and America.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## PSA: There Is No ChatGPT Desktop Client
 
  Although the temptation of a new ChatGPT desktop client trial is alluring, no such product exists at the current time, nor has OpenAI given any signal that a full desktop client for ChatGPT is in the works.
@@ -52,8 +64,9 @@ Close
  For now, the only way to [access ChatGPT is through your browser](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/), be that on your computer or your smartphone.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3 Ways to Avoid ChatGPT Scams
 
 1. First up, make sure you're using the official ChatGPT website, and double-check the actual URL before signing up, adding your credentials, and so on: <https://chat.openai.com/> or <https://openai.com/blog/chatgpt>.
@@ -61,8 +74,9 @@ Close
 3. Make sure your antivirus software is up to date, and consider installing an additional [security tool like Malwarebytes Premium](https://www.makeuseof.com/tag/reasons-upgrade-malwarebytes-premium/) to mop up any other nasties.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Avoid Anything Claiming to Be a ChatGPT Client
 
  For now, there is no ChatGPT desktop client. ChatGPT is only available through your browser, and for the time being, that's how the situation will stay.
@@ -71,14 +85,11 @@ Close
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,4 +98,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-the-ultimate-film-guide-top-15-timeless-stop-motion-classics/"><u>[New] The Ultimate Film Guide - Top 15 Timeless Stop Motion Classics</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-perfecting-your-pics-kinemaster-methods/"><u>[Updated] Perfecting Your Pics KineMaster Methods</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/auf-digitalisieren-und-konvertieren-von-dvd-discs-zu-digitalen-videos-unter-verwendung-von-windows-tmac-systemen-einfache-methoden-erklart/"><u>Auf Digitalisieren Und Konvertieren Von DVD-Discs Zu Digitalen Videos Unter Verwendung Von Windows T/Mac Systemen - Einfache Methoden Erklärt</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-futures-how-gpt-4-will-reshape-diy/"><u>Crafting Futures: How GPT-4 Will Reshape DIY</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-8-most-innovative-ai-apps-for-your-smartphone/"><u>Explore the 8 Most Innovative AI Apps for Your Smartphone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/forge-authentic-literary-figures-with-these-11-chatgpt-ideas/"><u>Forge Authentic Literary Figures with These 11 ChatGPT Ideas</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-xs-max-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone XS Max?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-perfecting-self-portraits-iphones-burst-capability/"><u>In 2024, Perfecting Self-Portraits IPhone's Burst Capability</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/premium-karaoke-streaming-service-with-fresh-tracks-for-festive-celebrations-on-october-9-2021/"><u>Premium Karaoke Streaming Service with Fresh Tracks for Festive Celebrations on October 9, 2021</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-windows-11-dialer-opens/"><u>Step-by-Step: Windows 11 Dialer Opens</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-giants-in-big-data-natural-language-processing/"><u>Top 6 Giants in Big Data Natural Language Processing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-obs-recording-settings-of-2024-expert-tips-from-movavi/"><u>Top OBS Recording Settings of 2024: Expert Tips From Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725288450885-winx-dvd/"><u>WinX の公式 ゲームコピーサイト - フリー版 映像DVDダウナラソフと高解像度ビデオ変換ツール</u></a></li>
+</ul></div>
 

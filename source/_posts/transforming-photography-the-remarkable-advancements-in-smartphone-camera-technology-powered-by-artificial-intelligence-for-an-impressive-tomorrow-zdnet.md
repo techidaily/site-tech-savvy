@@ -1,7 +1,7 @@
 ---
 title: "Transforming Photography: The Remarkable Advancements in Smartphone Camera Technology Powered by Artificial Intelligence for an Impressive Tomorrow | ZDNet"
-date: 2025-01-11T16:54:19.790Z
-updated: 2025-01-18T16:36:42.139Z
+date: 2025-01-17T22:34:46.742Z
+updated: 2025-01-24T16:08:06.847Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,20 +126,19 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-humor-at-your-fingertips-complimentary-toolset/"><u>[New] 2024 Approved Humor at Your Fingertips - Complimentary Toolset</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-cutting-edge-editing-with-youtubes-studio-editor/"><u>[New] In 2024, Cutting-Edge Editing with YouTube's Studio Editor</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-photography-at-the-tip-of-your-fingers-top-10-apps/"><u>[New] In 2024, Photography at the Tip of Your Fingers – Top 10 Apps</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-blueprint-to-dominate-with-your-spotify-ad-campaign/"><u>[Updated] The Blueprint to Dominate With Your Spotify Ad Campaign</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-bots-collide-who-will-outshine-gpt-plus-or-perplexity/"><u>AI Bots Collide: Who Will Outshine, GPT Plus Or Perplexity?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/copilot-unlocks-free-advanced-uses-for-gpt-4/"><u>Copilot Unlocks Free, Advanced Uses for GPT-4</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newly-released-realtek-bluetooth-drivers-for-enhanced-performance-in-windows-11-and-10/"><u>Download the Newly Released Realtek Bluetooth Drivers for Enhanced Performance in Windows 11 and 10</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/download-top-rated-free-mkv-to-mp3-converter-easy-and-fast-transcoding-tool/"><u>Download Top Rated Free MKV to MP3 Converter - Easy and Fast Transcoding Tool</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-series-progress-the-upcoming-gpt-5-release-date/"><u>GPT-Series Progress: The Upcoming GPT-5 Release Date?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/grab-tailor-made-cost-free-outro-videos/"><u>Grab Tailor-Made, Cost-Free Outro Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-brighten-and-balance-photos-with-easy-ps-tips/"><u>In 2024, Brighten and Balance Photos with Easy PS Tips</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-rotating-reality-in-images-mastering-the-art-of-spinning-visual-content-for-maximum-impact-on-social-media-platforms/"><u>In 2024, Rotating Reality in Images Mastering the Art of Spinning Visual Content for Maximum Impact on Social Media Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/law-and-ai-navigating-chatgpts-legal-impact/"><u>Law & AI: Navigating ChatGPT's Legal Impact</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-brush-in-the-cloud-crafting-vivid-ai-art-with-gpt/"><u>The Brush in the Cloud: Crafting Vivid AI Art with GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truth-unveiled-falsehood-of-win-chatgpt-client-malware/"><u>Truth Unveiled: Falsehood of Win ChatGPT Client Malware</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-advanced-techniques-for-embedding-srt-into-mp4-files-for-2024/"><u>[Updated] Advanced Techniques for Embedding SRT Into MP4 Files for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-guides-for-gathering-live-video-conversations/"><u>[Updated] In 2024, Guides for Gathering Live Video Conversations</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/bring-snapchat-to-your-desktop-a-comprehensive-tutorial/"><u>Bring Snapchat to Your Desktop: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-fathers-day-with-an-elite-ibuypower-gaming-computer-present/"><u>Conquer Father's Day with an Elite iBUYPOWER Gaming Computer Present!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/find-the-ultimate-macos-vpn-solution-in-depth-analysis-and-rankings-from-industry-authorities/"><u>Find the Ultimate macOS VPN Solution: In-Depth Analysis & Rankings From Industry Authorities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-ais-influence-ethical-considerations-in-content-creation/"><u>Navigating AI's Influence: Ethical Considerations in Content Creation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-audio-preferences-podcasts-or-youtube/"><u>Navigating Audio Preferences Podcasts or YouTube?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-spark-20-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Spark 20 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seamless-integration-combining-b-roll-and-main-scenes-for-2024/"><u>Seamless Integration Combining B-Roll and Main Scenes for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-anticipated-arrival-of-apples-latest-earbuds-everything-you-need-to-know-for-an-easy-preorder-experience/"><u>The Anticipated Arrival of Apple's Latest Earbuds: Everything You Need to Know for an Easy Preorder Experience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-realme-narzo-60-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Realme Narzo 60 5G Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/virtual-detective-chronicles-engage-in-4-ai-infused-enigmas/"><u>Virtual Detective Chronicles: Engage in 4 AI-Infused Enigmas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-claude-3-could-be-your-new-go-to-over-chatgpts-version/"><u>Why Claude 3 Could Be Your New Go-To Over ChatGPT's Version</u></a></li>
 </ul></div>
 

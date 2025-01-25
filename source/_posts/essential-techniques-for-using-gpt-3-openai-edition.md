@@ -1,7 +1,7 @@
 ---
 title: Essential Techniques for Using GPT-3, OpenAI Edition
-date: 2024-08-29T19:45:10.628Z
-updated: 2024-08-30T19:45:10.628Z
+date: 2025-01-21T16:20:16.836Z
+updated: 2025-01-24T23:54:59.882Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/24e0dc51e12f5b9f055cecc6a506d7d138fabdda0
 
  Now, want to give it a try? Here's how you use GPT-3 in OpenAI Playground.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Create an Account
 
 1. Head to [OpenAI](https://openai.com/api/) and click **Get Started**.
@@ -50,27 +54,18 @@ thumbnail: https://thmb.techidaily.com/24e0dc51e12f5b9f055cecc6a506d7d138fabdda0
 
 ![Screenshot of Complete mode interface in OpenAI Playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-complete-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also experiment with the **Edit** mode, which you can use to submit a text and check for grammatical errors.
 
  To get the most out of GPT-3, you will need to think of a good prompt. Good prompts are specific and give context to help GPT-3 generate an appropriate answer. As a demonstration, we asked GPT-3 to "list a few names for a small dog."
 
 ![Screenshot of OpenAI Playground prompt completion.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/openai-playground-prompt-dog-names.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The response listed different names for small dog **breeds** like Poodle, Chihuahua, and Yorkshire Terrier. However, we were hoping to get some suggestions for pet names. So let's try again, this time using the keywords "pet names" and "small fluffy dog."
 
  This time, the results turned out closer to what we imagined with a list of names like Biscuit, Fido, and Gizmo.
 
 ![Screenshot of OpenAI Playground prompt completion listing dog pet names.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/openai-playground-prompt-dog-pet-names.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 3\. Experiment With Different Ideas and Prompts
 
  Asking GPT-3 to suggest a few names for your pet dog is just the tip of the iceberg; there is so much more you can do with it, including generating content, summarizing information, and translating text. There are plenty of [creative uses for GPT-3](https://www.makeuseof.com/creative-uses-for-gpt-3-openai-playground/), from writing a bedtime story for your children to creating a social media bio text.
@@ -78,13 +73,11 @@ thumbnail: https://thmb.techidaily.com/24e0dc51e12f5b9f055cecc6a506d7d138fabdda0
 ![Screenshot showing GPT-3 translating a phrase into five languages.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/gpt3-translate-language.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  These days, AI is finding its way into all sorts of apps. You can check out [all the things you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/), which, as mentioned, is an AI chatbot built by the same company and developed using the GPT-3 language model.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Keep Track of Your OpenAI Playground Credits
 
 ![Screenshot of usage stats in OpenAI Playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-usage-stats.jpg)
@@ -94,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/24e0dc51e12f5b9f055cecc6a506d7d138fabdda0
  Tokens are used to calculate the fees, and they are based on how many words, or groups of characters, you use in a prompt; this also includes the text result you get from GPT-3\. You can see how many tokens you use each time in the bottom right of the text box area.
 
  Tokens are then translated to dollars, of which you have $5 to spend in the first three months (previously $18). It's a strange pricing model to wrap your head around at first, but what matters is that it's more than enough to play with. When we tested it out over a couple of days, we only used $0.11 from our total.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Switch to a Different GPT Model
 
@@ -108,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/24e0dc51e12f5b9f055cecc6a506d7d138fabdda0
 * **Ada:** The fastest model in the family with the lowest costs; use this model if you don't require precise answers. It's especially recommended for creative applications rather than generating detailed and exact information.
 
  Remember that you'll still incur costs for each model you choose, but the cost per token will vary.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Improve Your Results
 
@@ -130,17 +131,9 @@ thumbnail: https://thmb.techidaily.com/24e0dc51e12f5b9f055cecc6a506d7d138fabdda0
 ![openai playground gpt-4 model option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-playground-gpt-4-model-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Among [GPT-4's best new features](https://www.makeuseof.com/best-new-gpt4-features-explained/) is the ability to submit images to the model, which it can understand, discuss, and respond to through text. It's an incredible new advancement that makes the system multi-modal.
 
  Currently, only users with access to OpenAI's GPT-4 API can use the GPT-4 model in OpenAI Playground if they've spent $0.50 or more for accounts created after August 18, 2023, or $1 or more for accounts created prior to this. Alternatively, if you have a paid subscription, you can [use GPT-4 on ChatGPT](https://www.makeuseof.com/how-to-use-gpt4/).
@@ -150,8 +143,9 @@ thumbnail: https://thmb.techidaily.com/24e0dc51e12f5b9f055cecc6a506d7d138fabdda0
  This is one reason why it's still worth playing around in GPT-3\. There are many people who are curious about generative AI and want to try it out for fun. So, while you wait for the latest model to become available, GPT-3 is your playground.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## OpenAI Playground: Open to Everyone
 
  You don't need special knowledge of machine learning systems to play around with GPT-3\. It's simple to use and easy to fine-tune; all you have to do is start with a prompt.
@@ -160,14 +154,11 @@ thumbnail: https://thmb.techidaily.com/24e0dc51e12f5b9f055cecc6a506d7d138fabdda0
 
  On the surface, the website looks geared toward programmers, but we'll show you that it's just as accessible to someone with no coding knowledge. If you're waiting for the next GPT model to be released, why not spend some time experimenting in OpenAI's Playground?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -176,4 +167,24 @@ thumbnail: https://thmb.techidaily.com/24e0dc51e12f5b9f055cecc6a506d7d138fabdda0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/aptivating-audiences-on-a-shoestring-budget-youtube-shorts-success-tips-for-2024/"><u>[New] Captivating Audiences on a Shoestring Budget – YouTube Shorts Success Tips for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-network-security/"><u>[Updated] 2024 Approved Network Security</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-screenmagic-pro-the-windows-10-companion-for-2024/"><u>[Updated] ScreenMagic Pro The Windows 10 Companion for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-best-4-choices-unhackable-video-meetings-for-small-firms/"><u>2024 Approved Best 4 Choices Unhackable Video Meetings for Small Firms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-blockade-strategies-for-fixing-chatgpt-errors/"><u>Bypassing Blockade: Strategies for Fixing ChatGPT Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-suspend-mode-on-devices-using-windows-11/"><u>Bypassing Suspend Mode on Devices Using Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-chatai-create-a-gpt-driven-solution/"><u>Enhancing ChatAI: Create a GPT-Driven Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-online-meetings-through-ai-assistance/"><u>Enhancing Online Meetings Through AI Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ai-understanding-the-mechanics-behind-prompt-injection-attacks/"><u>Exploring AI: Understanding the Mechanics Behind Prompt Injection Attacks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-poco-c55-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Poco C55 Phone?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-simple-procedure-reverse-video-order-via-vlc/"><u>In 2024, Simple Procedure Reverse Video Order via VLC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/llama-2-unveiling-its-purpose-and-practical-uses/"><u>Llama 2: Unveiling Its Purpose & Practical Uses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamlessly-running-llama-2-on-your-local-device/"><u>Seamlessly Running Llama 2 on Your Local Device</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/srt-to-subcap-mastery-in-3-steps/"><u>SRT to SUBCAP Mastery in 3 Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-double-edged-sword-chatgpt-advanced/"><u>The Double-Edged Sword: ChatGPT Advanced</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-ai-potential-7-effective-strategies-explained/"><u>Unlocking AI Potential: 7 Effective Strategies Explained</u></a></li>
+</ul></div>
 

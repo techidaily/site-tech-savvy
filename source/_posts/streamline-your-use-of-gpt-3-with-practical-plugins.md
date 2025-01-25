@@ -1,7 +1,7 @@
 ---
 title: Streamline Your Use of GPT-3 With Practical Plugins
-date: 2024-08-29T19:50:09.624Z
-updated: 2024-08-30T19:50:09.624Z
+date: 2025-01-21T20:07:46.858Z
+updated: 2025-01-24T21:19:28.546Z
 tags:
   - chatgpt
   - open-ai
@@ -37,9 +37,17 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 
  The app was swiftly taken off the Apple Store after several bad reviews. Was this plugin developed by the same person? We are not sure. But it sure has the same function—absolutely nothing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Aaron Web Browser
 
 ![Aaron Web Browser on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aaron-web-browser-on-the-chatgpt-plugin-store.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  “Built for scraping data from multiple website URLs.” This is the first sentence in the description for the plugin. One would think that the description accurately captures the plugin's capabilities, but upon closer inspection, it’s not entirely true. We tried to scrape data from 20 different URLs and only one went through.
 
@@ -48,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 ## 3\. AppyPie App Builder
 
 ![Appypie App builder on ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/appypie-app-builder-on-chatgpt-plugin-store.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  AppyPie is a popular no-code app-building platform. It's relatively easy to use, and you can deploy fully functional mobile apps in a very short time without having to write a single line of code.
 
@@ -60,41 +72,33 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
  Sure, it seems a bit unreasonable to expect a working text-to-app plugin that can spit out apps on demand. But in an era where chatbots can write code and where text-to-image and text-to-video are a thing, text-to-app is not that ridiculous of an expectation.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. AI Agents
 
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you go by the definition of an AI agent, it’s easy to get excited about what the “AI Agents” plugin promises to do. The plugin self-describes as a plugin to help you “unleash the power of multiple AIs.” The idea is to take a complex goal, break it into subtasks, and then leverage the power of multiple AI agents specializing in each subtask to achieve the big goal you set for it.
 
  It, at least in theory, is supposed to be able to do something akin to [what AutoGPT does](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/). Unfortunately, irrespective of the complexity of the task we set for it, the plugin couldn't deliver anything.
 
  It seems it was just applying a few prompt tricks and returning a not-so-enhanced copy of what ChatGPT would provide. There's really no sense of AI agents at work. It doesn't offer anything particularly different from what ChatGPT would do.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## 5\. A Movie Please (FilmFindr)
 
 ![FilmFindr plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/filmfindr-plugin-on-the-chatgpt-plugin-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  The "A Movie Please" plugin is a movie recommendation tool to help ChatGPT users decide what to watch next. Although the plugin is not a dud (it actually makes movie recommendations), you're better off using ChatGPT without the plugin.
 
  Once you've provided a description of the kind of movie you want, the plugin only ever recommends movies that are available on Amazon's Prime streaming service. If you have a niche taste in movies, you'll find the recommendations to be mediocre at best.
 
  For quality movie suggestions, you're better off prompting the base ChatGPT model directly [to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/). By going that route, you'll get far superior results compared to relying on the "A Movie Please" plugin.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. ABC Website Maker
 
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
@@ -103,9 +107,6 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## ChatGPT's Plugin Store: Quantity Over Quality?
 
  Rather than hastening progress, the "quantity over quality" trajectory that the ChatGPT plugin store seems to be towing is promoting lacklustre plugins that clutter the store. These plugins divert attention from other more promising tools that could truly push ChatGPT to new heights. Nonetheless, we hope that as the plugin store matures, higher-quality offerings will surface.
@@ -118,14 +119,11 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,4 +132,26 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-the-mechanics-of-voice-over-production-in-videos/"><u>[Updated] 2024 Approved Mastering the Mechanics of Voice Over Production in Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-reviewing-acid-pro-seeking-substitutes/"><u>[Updated] In 2024, Reviewing ACID Pro Seeking Substitutes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/achieve-professional-growth-top-5-strategies-for-enhancing-expertise-and-expanding-job-prospects/"><u>Achieve Professional Growth: Top 5 Strategies for Enhancing Expertise & Expanding Job Prospects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/achieve-workplace-success-discover-five-tactics-to-skyrocket-your-career-trajectory-zdnet/"><u>Achieve Workplace Success: Discover Five Tactics to Skyrocket Your Career Trajectory | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-a-productive-workforce-harnessing-generative-ai-securely-insiders-guide-zdnet/"><u>Building a Productive Workforce: Harnessing Generative AI Securely - Insider's Guide (ZDNet)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/developers-under-fire-unveiling-the-recruitment-issues-driving-burnout-in-the-tech-industry-zdnet-analyses/"><u>Developers Under Fire: Unveiling the Recruitment Issues Driving Burnout in the Tech Industry | ZDNET Analyses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-strategies-for-organizing-non-intrusive-informational-meetings/"><u>Effective Strategies for Organizing Non-Intrusive Informational Meetings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evolving-roles-in-the-digital-age-from-building-to-using-ai-for-all-employees-zdnet-analysis/"><u>Evolving Roles in the Digital Age: From Building to Using AI for All Employees | ZDNet Analysis</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-timeless-moments-iphones-prolonged-shots-guide/"><u>In 2024, Capturing Timeless Moments IPhone’s Prolonged Shots Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-infinix-note-30i-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Infinix Note 30i Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unveiling-secrets-how-to-dominate-fb-searches-with-these-10-hacks/"><u>In 2024, Unveiling Secrets How to Dominate FB Searches with These 10 Hacks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/issanlilar-arasindaki-yatirim-sistemleri-ve-nakliye-politikalari/"><u>İşsanlılar Arasındaki Yatırım Sistemleri Ve Nakliye Politikaları</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/limited-time-offer-the-alluring-deal-of-the-season-hp-envy-x360-touchscreen-laptop-at-40-off-for-only-499-shop-smart/"><u>Limited-Time Offer: The Alluring Deal of the Season – HP Envy X360 Touchscreen Laptop at 40% Off for Only $499 | Shop Smart !</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-interview-process-ingenious-tips-for-acquiring-positions-at-microsoft-insights-from-zdnet-experts/"><u>Mastering the Interview Process: Ingenious Tips for Acquiring Positions at Microsoft – Insights From ZDNet Experts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/swiftpodcasts-guide-for-iphone-users-download-made-simple/"><u>SwiftPodcasts Guide for iPhone Users - Download Made Simple</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transitioning-from-nursing-to-technology-a-comprehensive-guide/"><u>Transitioning From Nursing to Technology: A Comprehensive Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitters-videography-policy-including-aspect-ratios-is-crucial/"><u>Twitter's Videography Policy Including Aspect Ratios Is Crucial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-success-in-tech-how-heeding-data-scientists-can-elevate-your-career-path/"><u>Unlocking Success in Tech: How Heeding Data Scientists Can Elevate Your Career Path</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Strengthening Student Outcomes with AI: 5 Essential Uses of ChatGPT in School"
-date: 2025-01-14T16:57:14.546Z
-updated: 2025-01-18T16:22:04.301Z
+date: 2025-01-19T23:13:13.766Z
+updated: 2025-01-24T22:53:50.466Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Develop Crash Study Plans
 
  You have a few weeks to that all-important examination, but you feel you've been ghosting through your classes and are ill-prepared for what's coming. So how do you cover your coursework within a limited time? Well, with the proper prompts, ChatGPT can come to your rescue.
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
  Provide ChatGPT with your free days, preferred study time, study duration, and target topics, if any, and ChatGPT will generate a crash study plan to help you navigate heavy coursework in a few days or weeks.
 
 ![ChatgGPT prompt for crash study plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatggpt-prompt-for-crash-study-plan.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We prompted ChatGPT to make a study plan for an "Introduction to JavaScript programming" course, and here's the result:
 
@@ -58,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 
 ![Arithmetic series problem - long method](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/arithmetic-series-problem-long-method.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, you can also ask ChatGPT for a shortcut to solving the problem. For example, when we asked ChatGPT to provide a shortcut, the AI chatbot generated the following results:
 
 ![shortcut for solving arithemetic series](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/shortcut-for-solving-arithemetic-series.jpg)
@@ -68,11 +72,11 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 
 ![arithmetic series Visual representation shortcut by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/visual-reprentation-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have a preferred way that makes it easy for you to learn, ChatGPT can help present complex problems in that way to make it easier for you to understand.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Stay Ahead of the Learning Curve
 
@@ -81,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
  Provide the AI chatbot with a course outline or a topic you are currently learning in class, and ChatGPT will generate the most likely lessons to come up next and some tips to help you prepare for your upcoming classes. You can also ask the chatbot to generate some questions that could be asked in class. What better way to get some positive feedback in class?
 
 ![stay ahead of the learning curve with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/stay-ahead-of-the-learning-curve-with-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Summarize Long Text and Extract Key Points
 
@@ -95,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 > Whenever I provide a prompt, simply reply with a full stop (period). Keep doing this until I ask for a summary of all the text provided.
 
  After using the prompt, split the text you wish to summarize into bits and feed the entirety of it to ChatGPT. After you've provided the entire text, prompt it to extract the key point or create a summary of a certain length from the text you've provided.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Improve or Review Creative Writing
 
@@ -109,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 ![complete story by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/complete-story-by-chatgp.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Rather than outright asking ChatGPT to write an essay, you can write yours and use the following prompts to improve your work:
@@ -120,10 +124,6 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 * Identity possible fluffs or bits of text that don't add meaning to the text in quotes
 * What key points are missing in the text?
 * Suggests some improvements that would make the text suitable for a \[target audience\].
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use ChatGPT Cautiously In Education
 
@@ -144,14 +144,19 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/2024-approved-breakthrough-technology-for-screens-showmores-revolutionary-recorder/"><u>2024 Approved Breakthrough Technology for Screens ShowMore's Revolutionary Recorder</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/craft-a-unique-gpt-framework/"><u>Craft a Unique GPT Framework</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-language-assistants-the-case-of-bing-chat-vs-gpt-3-for-professionals/"><u>Decoding Language Assistants: The Case of Bing Chat Vs. GPT-3 for Professionals</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-infinite-views-looping-videos-on-your-iphone/"><u>In 2024, Infinite Views Looping Videos on Your iPhone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/initiate-local-gratis-conversational-ai-via-gpt4all/"><u>Initiate Local, Gratis Conversational AI via GPT4All</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/perfect-your-palate-with-ai-enhanced-gourmet-guidance/"><u>Perfect Your Palate with AI-Enhanced Gourmet Guidance</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/seamless-setup-swift-sharing-the-essential-guide-to-ifunny-apps/"><u>Seamless Setup, Swift Sharing The Essential Guide to iFunny Apps</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/surveying-the-spectrum-of-windows-movie-maker-updates/"><u>Surveying the Spectrum of Windows Movie Maker Updates</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/zooms-path-to-visual-impact-adding-video-filters-tutorial/"><u>Zoom's Path to Visual Impact Adding Video Filters Tutorial</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-enhance-visibility-youtube-thumbnails-made-simple/"><u>[New] 2024 Approved Enhance Visibility YouTube Thumbnails Made Simple</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-choosing-the-right-fps-30-or-60-which-is-better/"><u>[New] Choosing the Right FPS 30 or 60, Which Is Better?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-physical-presence-vs-virtual-validation/"><u>[Updated] 2024 Approved Physical Presence vs Virtual Validation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-echovideo-capture-toolkit-for-fb/"><u>2024 Approved EchoVideo Capture Toolkit for FB</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chagpt-profits-exploration-8-potential-income-streams/"><u>ChaGPT Profits Exploration - 8 Potential Income Streams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-the-cost-of-tunes-a-guide-to-snagging-a-budget-friendly-apple-music-subscription-for-students/"><u>Cutting the Cost of Tunes: A Guide to Snagging a Budget-Friendly Apple Music Subscription for Students</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/performance-based-seismic-design-pbsd-focuses-on-achieving-specific-performance-objectives-using-nonlinear-analysis-to-predict-damage-levels/"><u>Performance-Based Seismic Design (PBSD) Focuses on Achieving Specific Performance Objectives, Using Nonlinear Analysis to Predict Damage Levels.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premium-cryptographic-inquiry-strategies-with-ai/"><u>Premium Cryptographic Inquiry Strategies with AI</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/srt-to-subtitles-subc-practical-steps-for-conversion/"><u>SRT to Subtitles (SUBC) Practical Steps for Conversion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-smartwatch-reviews-of-2024-in-depth-analysis-by-tech-experts/"><u>Top-Ranking Smartwatch Reviews of 2024 - In-Depth Analysis by Tech Experts</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-apple-iphone-se-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from Apple iPhone SE iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-differences-in-ai-interaction-gpt-against-bing/"><u>Unveiling Differences in AI Interaction: GPT Against Bing</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/yl-softwares-captivating-roaring-lions-collection-premium-wallpapers-pictures-and-graphics/"><u>YL Software's Captivating Roaring Lions Collection: Premium Wallpapers, Pictures & Graphics</u></a></li>
 </ul></div>
 

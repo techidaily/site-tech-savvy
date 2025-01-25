@@ -1,7 +1,7 @@
 ---
 title: Leveraging Untapped Potentials in ChatGPT for Better Talks
-date: 2024-09-02T20:32:44.220Z
-updated: 2024-09-03T20:32:44.220Z
+date: 2025-01-19T19:44:41.614Z
+updated: 2025-01-24T16:28:29.659Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/f3acba4ab3a16a6eb071b7ad05fb5dc6bcda3ad9b
 
  Furthermore, Read Aloud can speak in 37 different languages but will also try to auto-detect whatever language it's reading.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2  Personalized Responses
 
  ChatGPT's Custom Instructions give you greater control over how the AI chatbot responds to your inputs. [ChatGPT's custom instructions can range](https://www.makeuseof.com/best-ways-to-use-chatgpt-custom-instructions/) from in-depth information about your life, business, or otherwise, to simple instructions, such as making sure it only uses imperial measurements or always responds with your name.
@@ -48,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/f3acba4ab3a16a6eb071b7ad05fb5dc6bcda3ad9b
 
  That's a small example, but illustrates how you might shape ChatGPT's output towards your daily use, saving you time each day.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3  ChatGPT Memory and Temporary Chat
 
  ChatGPT Memory and Temporary Chat are two features launching together, aimed to give ChatGPT better recall—and a way to avoid that recall altogether.
@@ -60,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/f3acba4ab3a16a6eb071b7ad05fb5dc6bcda3ad9b
 ![openai chatgpt memory options and management panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-chatgpt-memory-options-and-management-panel.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [OpenAI](https://help.openai.com/en/articles/8590148-memory-faq)
 
  Part of ChatGPT's Memory is the supposition you're talking to it about anything and everything. It gives an example of "You mention that you have a toddler and that she loves jellyfish. When you ask ChatGPT to help create her birthday card, it suggests a jellyfish wearing a party hat." That's cute, no doubt, but it's not the sort of information most folks are providing to ChatGPT regularly (at least, I assume not).
@@ -71,8 +73,9 @@ thumbnail: https://thmb.techidaily.com/f3acba4ab3a16a6eb071b7ad05fb5dc6bcda3ad9b
  At the time of writing, ChatGPT Memory is only available to a small number of users, but the wider roll-out of this long-expected feature is due in 2024\.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Temporary Chat
 
  Now, when OpenAI launched ChatGPT's Memory feature, many were worried about the additional privacy implications. ChatGPT already uses a lot of data to continually train its models, and with the addition of memory, some were worried there would be no way to converse with ChatGPT privately.
@@ -80,22 +83,24 @@ thumbnail: https://thmb.techidaily.com/f3acba4ab3a16a6eb071b7ad05fb5dc6bcda3ad9b
 ![chatgpt temporary chat option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-temporary-chat-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [OpenAI](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
 
  In response, OpenAI revealed ideas for [Temporary Chat](https://help.openai.com/en/articles/8914046-temporary-chat-faq), a mode that enables "a conversation with a blank slate." In Temporary Chat mode, ChatGPT won't be aware of any previous conversations or memory, but would still use your custom instructions if set. It's a little like Incognito or Private mode in a browser.
 
  Unfortunately, at the time of writing, Temporary Chat mode is only available to a small number of users, limiting the amount of people using it. However, when it arrives, it'll be a useful tool for those moments you want to ask ChatGPT a question but don't want it linked to your profile forever more.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4  Free Trial Invites
 
  Want to share ChatGPT Plus with your buddies, but they don't have the cash for the subscription? Well, you can use a ChatGPT Plus free trial invite to grant them a 14-day free ChatGPT Plus experience, with access to every feature.
 
  The only real downside to the ChatGPT Plus free trial is that anyone taking it has to sign up for an account using a credit or debit card—which means the card will be charged straight away when the trial ends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5  Shared Links
 
@@ -103,23 +108,17 @@ thumbnail: https://thmb.techidaily.com/f3acba4ab3a16a6eb071b7ad05fb5dc6bcda3ad9b
 
 ![chatgpt shared links with share name option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-shared-links-with-share-name-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Anyone with the link can view the ChatGPT conversation. Those with a ChatGPT account can continue the conversation, taking over from you (making it a somewhat collaborative process). Those without an account can just scroll through and see what transpired between you and the AI chatbot.
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
  So, here are five ChatGPT features you're not using but absolutely should be.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +127,23 @@ thumbnail: https://thmb.techidaily.com/f3acba4ab3a16a6eb071b7ad05fb5dc6bcda3ad9b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-all-inclusive-list-of-prime-no-money-streaming-applications-and-software/"><u>[New] 2024 Approved All-Inclusive List of Prime No-Money Streaming Applications & Software</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-direct-video-tweet-to-twitter-apps-no-retweets-involved/"><u>[New] 2024 Approved Direct Video Tweet to Twitter Apps, No Retweets Involved</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715860274631-updated-efficient-chrome-os-snaps-4-techniques-to-try/"><u>[Updated] Efficient Chrome OS Snaps - 4 Techniques to Try!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/5-effective-techniques-to-transform-h264-files-into-mp4-format/"><u>5 Effective Techniques to Transform H.264 Files Into MP4 Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp4aiffmovavi/"><u>在线免费MP4转换为AIFF：通过Movavi实现无障碍音频格式转换</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversione-gratuita-di-video-m4v-a-mov-su-internet-tramite-il-servizio-convertimovavi/"><u>Conversione Gratuita Di Video M4V a MOV Su Internet Tramite Il Servizio ConvertiMovavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/going-off-the-grid-your-complete-guide-to-wireless-internet-solutions/"><u>Going Off the Grid? Your Complete Guide to Wireless Internet Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/le-migliori-applicazioni-visualizzatrici-foto-windows-macos-e-windows-11/"><u>Le Migliori Applicazioni Visualizzatrici Foto: Windows, macOS E Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximizing-inner-illumination-with-natures-glow-for-2024/"><u>Maximizing Inner Illumination with Nature's Glow for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-pcx-file-conversion-at-no-cost-effortless-image-format-switching-with-fastpcx-convert/"><u>Online PCX File Conversion at No Cost - Effortless Image Format Switching with FastPCX Convert</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimizing-audio-output-solutions-for-low-sound-levels-on-windows-11-systems/"><u>Optimizing Audio Output: Solutions for Low Sound Levels on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sin-complicaciones-descubre-las-claves-de-la-restauracion-fotografica-antigua-en-7-pasos-faciles-guiado-por-movavi/"><u>Sin Complicaciones: Descubre Las Claves De La Restauración Fotográfica Antigua en 7 Pasos Fáciles, Guiado Por Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-upgrade-ultimatum-going-from-previous-windows/"><u>The Upgrade Ultimatum Going From Previous Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-meta-quest-3s-ai-features-faster-than-apple-vision-pro-the-ultimate-setup-guide/"><u>Unlocking Meta Quest 3'S AI Features Faster Than Apple Vision Pro – The Ultimate Setup Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows-11/"><u>Windows 11用無成本的屏幕錄制工具: 我推薦你應使用的前七種!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avi-to-m4v/"><u>무료 AVI to M4V 크리티오그라피의 방법 – 모바비 대상</u></a></li>
+</ul></div>
 

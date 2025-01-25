@@ -1,7 +1,7 @@
 ---
 title: OpenAI's ChatGPT Unlocked
-date: 2024-08-29T19:46:57.810Z
-updated: 2024-08-30T19:46:57.810Z
+date: 2025-01-22T22:33:45.302Z
+updated: 2025-01-24T22:45:26.717Z
 tags:
   - chatgpt
   - open-ai
@@ -29,11 +29,19 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 
 ![Home page of ChatGPT website october 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/home-page-of-chatgpt-website-october-2023.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT is a generative AI chatbot that can answer almost any question you have—just as if Google were a person you could have a casual conversation with.
 
  ChatGPT is special because it doesn't feel like you're talking to a computer. It can converse in natural language and remember things you've asked before, and in the first of its kind, it can understand voice and images too. If you took a picture of the contents inside your refrigerator, for example, it could suggest something you might want to cook for dinner based on the ingredients you have.
 
  Developed by OpenAI, ChatGPT was trained on an enormous amount of data from the internet, which probably included troves of information from places like Wikipedia, blogs, how-to websites, and scientific articles. [ChatGPT can now browse the web](https://www.makeuseof.com/what-chatgpt-accessing-up-to-date-information-means/), adding more power to an incredible tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How ChatGPT Works
 
@@ -56,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 ## How to Use ChatGPT
 
 ![ChatGPT interface October 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-interface-october-2023.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Using ChatGPT is simple, thanks to a minimalist interface. After the ChatGPT login page, like an ordinary messaging app, you type in the text box and hit enter or click the send button (paper airplane symbol).
 
@@ -85,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 
  It doesn't stop there, though. ChatGPT can create graphs, explain difficult concepts, generate unique stories with images (using ChatGPT Plus), and more. Effectively, your imagination is the only limitation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the ChatGPT App?
 
 [ChatGPT has an app for iOS and Android](https://www.makeuseof.com/how-to-use-chatgpt-on-android-and-ios/) that is worth checking out. Having the app on your phone is convenient for quick queries. Plus, the messaging style interface is a natural fit for mobile use.
@@ -92,43 +108,33 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 ![ChatGPT has been downloaded in the AppStore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096283_y.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![text box and microphone icon in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096282_y.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Sound being converted to text in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096281_y.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![A response in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096280_y.jpg)
 
 Close
 
  Make sure to try out the speech-to-text option, which lets you use the microphone to ask your question out loud instead of typing. This adds another layer of ease and accessibility, which we enjoy.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Browsing the Internet With ChatGPT
 
 ![chatgpt with internet access october 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/chatgpt-with-internet-access-october-2023.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As we mentioned earlier, ChatGPT can access the internet, and it's a game changer. To get this feature, you will [need a subscription to ChatGPT Plus](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/), which will set you back $20 per month. However, the chance to access real-time information might be worth it to you.
 
  As we have noted, however, it comes with pros and cons. It can access more accurate and up-to-date information about current events, but it's entirely susceptible to misinformation and trolls. Take ChatGPTs answers with a grain of salt, and always do further research if you plan to use the info in a high-risk application.
 
  Avoid using ChatGPT for medical advice, and don't ask it for investment tips. It is, after all, simply an AI chatbot and not a doctor or an oracle.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Is There Anything ChatGPT Can't Do?
 
  An ongoing area of development is making sure that ChatGPT doesn't cause harm, including things like hate speech, giving instructions for illegal activities, and producing fake information.
@@ -137,9 +143,6 @@ Close
 
 ![Asking ChatGPT how to bully someone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/asking-chatgpt-how-to-bully-someone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  This moderation isn't perfect, and people are finding ways to get around the restrictions all the time. But in the spirit of helping to create a safe AI chatbot, feel free to use the thumbs up/thumbs down buttons to provide feedback and help steer the model in the right direction.
 
  A text box will appear asking you to explain the issues, alongside a few check boxes asking whether the answer was harmful/unsafe, not true, or not helpful.
@@ -147,8 +150,9 @@ Close
 ![ChatGPT provide feedback text box for negative response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-provide-feedback-text-box-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Entering a New Era of AI Chatbots
 
  ChatGPT is a fascinating AI tool that can answer burning questions, explain tricky concepts, or brainstorm creative ideas—just to name a few uses. The ability to ask follow-up questions means you can get to the information you are looking for much faster than crawling through the internet.
@@ -161,14 +165,11 @@ Close
 
  Want to learn how to use ChatGPT? We've got you covered.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -177,4 +178,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-google-pixel-8-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Google Pixel 8 Pro Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-lava-blaze-curve-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Lava Blaze Curve 5G Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-infinix-hot-30-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Infinix Hot 30 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/limited-time-offer-get-your-discounted-oculus-quest-2-now-for-only-199-zdnet/"><u>Limited Time Offer: Get Your Discounted Oculus Quest 2 Now For Only $199 | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-obstacles-in-digital-twin-implementation-a-guide-of-7-key-issues-for-business-success-zdnet/"><u>Overcoming Obstacles in Digital Twin Implementation - A Guide of 7 Key Issues for Business Success | ZDNet</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/reaching-into-shared-snippets-of-life-on-messenger/"><u>Reaching Into Shared Snippets of Life on Messenger</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-honor-70-lite-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Honor 70 Lite 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-giants-samsung-google-and-qualcomm-unite-for-groundbreaking-xr-collaboration-before-apple-enters-the-arena-exclusive-insights-zdnet/"><u>Tech Giants Samsung, Google & Qualcomm Unite for Groundbreaking XR Collaboration Before Apple Enters the Arena: Exclusive Insights | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-top-virtual-reality-challenge-usage-strategy-according-to-an-industry-pro-zdnet/"><u>The Top Virtual Reality Challenge? Usage Strategy, According to an Industry Pro | ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-metaverse-marketing-mysteries/"><u>Unveiling Metaverse Marketing Mysteries</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-real-time-audio-leveling-with-final-cut-pro-xs-autoduck-feature/"><u>Updated In 2024, The Ultimate Guide to Real-Time Audio Leveling with Final Cut Pro Xs AutoDuck Feature</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-is-quest-3-outshining-other-virtual-reality-headsets-unveiling-key-user-preferences-at-zdnet/"><u>Why Is Quest 3 Outshining Other Virtual Reality Headsets? Unveiling Key User Preferences at ZDNet</u></a></li>
+</ul></div>
 

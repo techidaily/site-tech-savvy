@@ -1,7 +1,7 @@
 ---
 title: Harnessing Microsoft’s Copilot to Elevate AI Artistry Standards
-date: 2025-01-14T17:07:21.835Z
-updated: 2025-01-18T17:43:03.137Z
+date: 2025-01-18T22:45:53.366Z
+updated: 2025-01-24T19:24:22.679Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 * [What Is Microsoft Copilot Image Creator?](https://ancheer.sjv.io/y96bgp)
 * [How to Use Microsoft Copilot Image Generator](https://my-balance-meals.pxf.io/1r0rrg)
 * [Should You Use Microsoft Copilot Image Creator or ChatGPT Plus With DALL-E 3?](https://turbotech.pxf.io/pyx4je)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -54,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 
  There are two "versions" of Copilot Image Creator, though they both work similarly. You can access the Copilot Image Creator directly from Microsoft Copilot within the Edge browser, which is an exclusive Edge feature. However, not wanting to cut potential users out, you can also access it in any browser by heading to the [Copilot Image Creator](https://copilot.microsoft.com/). I'll cover the differences between each option below, but both AI image creation tools follow the same premise: you input your words, and the AI tool turns them into unique images.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Microsoft Copilot Image Generator
 
  Microsoft's Copilot Image Creator uses DALL-E 3 to create AI images. DALL-E 3 is the same AI text-to-image you'll find on ChatGPT Plus, OpenAI's premium $20 subscription tier. So here's the rub: you can use the same DALL-E 3 image creation tool with Copilot without paying a penny.
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
  Copilot Image Creator is completely free, which gives it a substantial advantage over ChatGPT Plus. It's also not the only [reason to use Microsoft Copilot instead of ChatGPT](https://www.makeuseof.com/reasons-to-use-copilot-instead-of-chatgpt/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Microsoft Copilot Image Creator in Edge
@@ -80,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 
 ![microsoft copilot image creator four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-four-images.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  However, from there, I selected the image I wanted to use, pressed the "expand" icon in the bottom right corner, and selected **Landscape**. Copilot auto-magically adjusted the original image into a 2:1 1792x1024, finally fulfilling my original request.
 
 Close
@@ -91,6 +87,10 @@ Close
  Next, I applied a few different styles to the image, opting for pixel art and origami for a unique touch. Other options include watercolor, block print, and steampunk. Each style applies seamlessly, and you can return to the original image at any time.
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Microsoft Copilot Image Creator in Any Browser
 
@@ -100,13 +100,13 @@ Close
 
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Second, the Image Creator available to all browsers uses a "boost" token system to provide speedy images. You start with 100 boosts, and each time you input a prompt, it uses a boost. Once your boosts run out, Image Creator won't prioritize your creations, and they can take a few minutes to appear. It doesn't appear to make a difference to quality, mind, just time.
 
  What I found interesting was that Image Creator images generated in Copilot on Edge will appear in your Image Creator recent images. Edits you make to the Copilot on Edge images will update across the two tools as you make them, but it's a one-way process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Should You Use Microsoft Copilot Image Creator or ChatGPT Plus With DALL-E 3?
 
@@ -137,18 +137,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-redefining-visual-impact-how-to-change-and-add-tweets-video-previews/"><u>[Updated] Redefining Visual Impact How to Change and Add Tweets' Video Previews</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-sony-xperia-1-v-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Sony Xperia 1 V Activity | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-break-into-everyones-heart-clever-tips-and-examples-for-tinder-bios/"><u>2024 Approved Break Into Everyone's Heart - Clever Tips & Examples for Tinder Bios</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/access-the-latest-ios-181-developer-preview-unveiling-apples-ai-capabilities-and-steps-for-participation/"><u>Access the Latest iOS 18.1 Developer Preview: Unveiling Apples AI Capabilities & Steps for Participation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-crypto-limitations-of-chatgpt-analyst-tools/"><u>Decoding Crypto: Limitations of ChatGPT Analyst Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/excel-mastery-unraveled-where-chatgpt-lags/"><u>Excel Mastery Unraveled: Where ChatGPT Lags</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hassle-free-method-update-battery-driver-software-on-your-windows-device/"><u>Hassle-Free Method: Update Battery Driver Software on Your Windows Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-secure-the-latest-drivers-for-your-epson-xp-245-printer-compatibility-with-windows-os-7-8-and-10/"><u>How to Secure the Latest Drivers for Your Epson XP-245 Printer: Compatibility with Windows OS 7, 8 & 10</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-copycatting-charisma-making-ingenious-parodies/"><u>In 2024, Copycatting Charisma Making Ingenious Parodies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mindful-mental-aid-responsible-ai-in-counseling/"><u>Mindful Mental Aid: Responsible AI in Counseling</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-real-and-unreal-top-8-ai-advances/"><u>Revolutionizing Real & Unreal: Top 8 AI Advances</u></a></li>
-<li><a href="https://win-blog.techidaily.com/stop-baldurs-gate-iii-from-crashing-on-your-computer-with-these-fixes/"><u>Stop Baldur's Gate III From Crashing on Your Computer with These Fixes</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1640694-9780698176218-the-energies-of-love/"><u>The Energies of Love | Free Book</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-pinnacle-of-participation-chronicling-the-most-upvoted-posts-on-reddit/"><u>[New] 2024 Approved The Pinnacle of Participation Chronicling the Most Upvoted Posts on Reddit</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-detailed-overview-of-xvision-labs-comprehensive-study/"><u>[Updated] 2024 Approved Detailed Overview of XVision Lab's Comprehensive Study</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-exploring-dji-phantom-3s-advanced-aerial-capabilities/"><u>[Updated] Exploring DJI Phantom 3’S Advanced Aerial Capabilities</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-exploring-social-networking-youtube-content-on-fb/"><u>[Updated] Exploring Social Networking YouTube Content on FB</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-authentic-user-experiences-through-chatgpt-generated-persons/"><u>Crafting Authentic User Experiences Through ChatGPT-Generated Persons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-professional-growth-with-these-6-reasons-to-use-chatgpt/"><u>Empowering Professional Growth with These 6 Reasons to Use ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-ai-in-the-art-of-mixed-drinks/"><u>Evaluating AI in the Art of Mixed Drinks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-free-up-iphone-6-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up iPhone 6 Plus Space | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/identifying-and-troubleshooting-computer-hardware-issues-a-guide-by-yl-computing/"><u>Identifying and Troubleshooting Computer Hardware Issues: A Guide by YL Computing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-hero5-session-vs-hero-session/"><u>In 2024, GoPro Hero5 Session Vs Hero Session</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-understanding-mixed-realitys-impact-on-interaction/"><u>In 2024, Understanding Mixed Reality's Impact on Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/latest-update-apples-rumored-return-with-airpower-could-the-iconic-wireless-charger-be-making-a-comeback/"><u>Latest Update: Apple's Rumored Return with AirPower - Could the Iconic Wireless Charger Be Making a Comeback?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-efficiency-top-4-chatgpt-strategies-for-productivity-boost/"><u>Maximizing Efficiency: Top 4 ChatGPT Strategies for Productivity Boost</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-world-of-artificial-intelligence-the-role-of-chatbot-censorship/"><u>Navigating the World of Artificial Intelligence: The Role of Chatbot Censorship</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/social-media-storytelling-enhanced-by-gpt-3/"><u>Social Media Storytelling Enhanced by GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transcending-communication-can-claude-surpass-chatgpt/"><u>Transcending Communication: Can Claude Surpass ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrading-with-the-newest-tech-a-comprehensive-guide-to-choosing-between-iphone-15-pro-and-iphone-13-pro-wired-opinion/"><u>Upgrading with the Newest Tech: A Comprehensive Guide to Choosing Between IPhone 15 Pro and IPhone 13 Pro | Wired Opinion</u></a></li>
 </ul></div>
 

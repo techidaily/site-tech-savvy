@@ -1,7 +1,7 @@
 ---
 title: "Bard Vs. ChatGPT: Google's New AI Showdown Announced"
-date: 2024-09-02T20:31:34.498Z
-updated: 2024-09-03T20:31:34.498Z
+date: 2025-01-17T16:33:22.511Z
+updated: 2025-01-24T18:09:17.170Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
 
  **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Google's Bard AI?
 
  Bard is a Google-owned experimental AI language model capable of generating human-sounding responses to prompts or inputs given. It is built on top of Google's powerful conversational language model, LaMDA (Language Model for Dialogue Applications).
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
  Image Credit:[Google](https://blog.google/technology/ai/bard-google-ai-search-updates/)
 
  Unlike ChatGPT, Sundar Pichai explained that Bard will initially only be available to a few trusted testers, with plans to scale to more users. The announcement also showcased what the initial release would look like with several examples—some of which look strikingly similar to what ChatGPT would do. So, is Bard going to be just another ChatGPT?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Google Bard Could Be Better Than ChatGPT
 
@@ -50,8 +58,9 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
  In simpler terms, this would mean Google's Bard would be able to provide fresh, up-to-date responses while ChatGPT would, unfortunately, be limited to information relating to events, not beyond 2021 (ChatGPT's current data training cut-off).
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Will Google Bard Work?
 
  From the demonstrations Google has provided, it's not entirely clear whether Bard will exist as a standalone prompt-response web interface like ChatGPT "after the initial testing phase."
@@ -59,8 +68,9 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
  However, in typical Google fashion, Google will almost certainly push to deeply integrate Bard into most of its products, including Google Search, akin to what Microsoft is trying to do with Bing and other Microsoft products using ChatGPT technology.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Google's Bard Demonstration Features Factual Issues
 
  But despite the interest and understandable hype with Google's Bard announcement, its first demonstration didn't go well. Eagle-eyed astronomers quickly pointed out that at least one of the "facts" delivered by Bard was completely wrong. For example, Bard stated that the James Webb Space Telescope "took the very pictures of a planet outside of our own solar system," but the European Very Large Telescope accomplished that accolade in 2004.
@@ -68,8 +78,9 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
  Bard is still in its very early stages, but its false statement was a clear indicator of the issues of integrating conversational AI technology deeper into general internet search, where many will trust what is written.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Will Google's Bard AI Be Better Than ChatGPT?
 
  Google has been sitting on a wealth of truly phenomenal AI tools, only periodically giving the public a glimpse of what it has to offer.
@@ -82,8 +93,6 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +100,23 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-get-started-signing-up-for-a-youtube-channel/"><u>[Updated] How to Get Started Signing Up for a YouTube Channel</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-checklist-for-selecting-prime-streaming-services-of-cricket/"><u>[Updated] The Ultimate Checklist for Selecting Prime Streaming Services of Cricket</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-top-8-tools-for-efficiently-planning-instagram-content/"><u>[Updated] Top 8 Tools for Efficiently Planning Instagram Content</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-oneplus-open-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock OnePlus Open Phone When You Forget the Password</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-video-conversion-tools-for-uploading-your-avchd-content-to-an-ipad-pro-in-no-time/"><u>Best Video Conversion Tools for Uploading Your AVCHD Content to an iPad Pro in No Time!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-review-the-kubuntu-powered-ir14-an-emerging-choice-for-kde-plasma-enthusiasts-insights-from-zdnet/"><u>Comprehensive Review: The Kubuntu-Powered IR14, An Emerging Choice for KDE Plasma Enthusiasts - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cracking-the-language-code-insights-into-gpts-translation-mechanism/"><u>Cracking the Language Code: Insights Into GPT's Translation Mechanism</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-gpts-present-working-state/"><u>Discovering GPT's Present Working State</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-your-analysis-game-with-these-chatgpt-techniques/"><u>Enhance Your Analysis Game with These ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-feasible-to-employ-chatgpt-as-an-editing-assistant/"><u>Is It Feasible to Employ ChatGPT as an Editing Assistant?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/malware-mayhem-spot-and-skip-googles-misleading-bard-app/"><u>Malware Mayhem: Spot and Skip Google's Misleading Bard App</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/maximizing-your-social-media-impact-group-photosvideos-on-ig-for-2024/"><u>Maximizing Your Social Media Impact Group Photos/Videos on IG for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-picks-the-ultimate-guide-to-the-top-performing-2-in-1-laptops/"><u>Top Picks: The Ultimate Guide to the Top Performing 2-in-1 Laptops</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-advancing-ai-intensifies-our-digital-threats/"><u>Why Advancing AI Intensifies Our Digital Threats</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-businesses-are-steering-clear-of-chatgpts-impact/"><u>Why Businesses Are Steering Clear of ChatGPT's Impact</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-wheel-turns-slow-for-chatgpt-4-compared-to-35/"><u>Why the Wheel Turns Slow for ChatGPT-4 Compared to 3.5?</u></a></li>
+</ul></div>
 

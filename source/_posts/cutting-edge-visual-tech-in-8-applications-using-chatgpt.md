@@ -1,7 +1,7 @@
 ---
 title: Cutting-Edge Visual Tech in 8 Applications Using ChatGPT
-date: 2025-01-15T17:29:07.937Z
-updated: 2025-01-18T16:52:40.460Z
+date: 2025-01-21T16:16:47.714Z
+updated: 2025-01-24T23:46:54.045Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is ChatGPT Vision?
 
  ChatGPT Vision allows users to attach images or screenshots with their usual text-based prompts and have the AI work wonders. Tasks that were previously too difficult, or outright impossible to attain with just text input can now be accomplished with the help of the added image processing capabilities.
@@ -38,11 +42,11 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
 ![Icon to upload an image in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-vision-uses.jpg)
 
- Depending on the context of the image, you can choose to enter a text-based prompt in addition to the image, or just let ChatGPT do its thing and let it analyze the attached picture.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Depending on the context of the image, you can choose to enter a text-based prompt in addition to the image, or just let ChatGPT do its thing and let it analyze the attached picture.
 
 ## 1\. Identifying Items or Describing Images
 
@@ -51,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
  On the other hand, if you're just looking for a textual description of an image when you just can't formulate your thoughts into words, asking for a detailed description is a great way to use the new Vision feature in ChatGPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Recognizing Fictional Characters
@@ -59,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 ![ChatGPT Vision recognizing a character from a popular TV series](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-vision-uses-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Can't seem to recognize that one character from a meme you have stored on your phone? Turns out, ChatGPT is quite remarkable at recognizing characters from popular media such as TV shows, movies, or anime.
@@ -79,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
  Beyond basic translation, you can prompt it to categorize the information in a way that pleases you, summarize the text in a few words, or rewrite it in a completely different language.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Explaining Infographics
@@ -103,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
  At a time when almost anybody can [create art using AI](https://www.makeuseof.com/ai-text-to-art-generators/), constructive criticism is what every true photographer and artist strives for, and although ChatGPT lacks the human touch, it may yield some very useful feedback.
 
  You can gain valuable insight in regard to composition, framing, colors, and overall style if you structure your prompt the right way. You can even go creative and upload a photo of a half-finished painting and ask ChatGPT for ideas.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Getting Help With Recipes
 
@@ -141,16 +141,22 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-inside-the-world-of-vivacut-expert-editor-review-2024/"><u>[New] Inside the World of VivaCut Expert Editor Review 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-down-nlp-vs-machine-learning-essentials/"><u>Breaking Down NLP vs Machine Learning Essentials</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/delicious-directives-the-7-secrets-of-epic-food-vids/"><u>Delicious Directives The 7 Secrets of Epic Food Vids</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-creativity-unleashed-bings-dall-e-3-explained/"><u>Free Creativity Unleashed: Bing's DALL-E 3 Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guarding-against-glossed-over-nuances-by-ai-summarization-tools/"><u>Guarding Against Glossed Over Nuances by AI Summarization Tools</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-lava-blaze-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Lava Blaze Pro 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-realtek-audio-issues-restoring-sound-on-digital-output/"><u>Solving Realtek Audio Issues: Restoring Sound on Digital Output</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/swift-remedies-for-chatgpt-log-in-errors/"><u>Swift Remedies for ChatGPT Log-In Errors</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-a-list-guide-to-instagram-photo-mastery/"><u>The A-List Guide to Instagram Photo Mastery</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-quadruplets-of-online-sharing-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Quadruplets of Online Sharing: Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/travel-friendly-powershot-g9x2-elegant-and-featureful/"><u>Travel-Friendly PowerShot G9X2: Elegant & Featureful</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-elevating-your-footage-pro-tips-for-impressive-gopro-timelapses/"><u>[New] 2024 Approved Elevating Your Footage Pro Tips for Impressive GoPro Timelapses</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-streaming-virtual-classrooms/"><u>[New] In 2024, Streaming Virtual Classrooms</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-from-game-to-giga-full-ps4-capture-using-obs/"><u>[Updated] 2024 Approved From Game to Giga Full PS4 Capture Using OBS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-guide-to-top-8-linux-screenshot-solutions/"><u>[Updated] Guide to Top 8 Linux Screenshot Solutions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-control-over-your-ig-content-exposure/"><u>[Updated] In 2024, Control Over Your IG Content Exposure</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-infinix-smart-7-unlock-without-password-by-drfone-android/"><u>5 Solutions For Infinix Smart 7 Unlock Without Password</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-recalls-latest-ios-test-version-as-users-report-iphone-breakdowns-exclusive-coverage/"><u>Apple Recalls Latest iOS Test Version as Users Report iPhone Breakdowns | Exclusive Coverage</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-logitech-g203-drivers-compatible-with-windows-7-10-and-11/"><u>Get the Latest Logitech G203 Drivers: Compatible with Windows 7, 10 & 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/google-is-launching-an-ai-called-bard-to-compete-with-chatgpt/"><u>Google Is Launching An AI Called Bard to Compete With ChatGPT</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-earn-big-with-little-experience-discover-the-top-13-reddit-money-ways/"><u>In 2024, Earn Big with Little Experience - Discover the Top 13 Reddit Money Ways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pixel-watch-3-versus-apple-watch-series-9-showdown-the-ultimate-guide-to-finding-your-perfect-smartwatch-insights-from-zdnet/"><u>Pixel Watch 3 versus Apple Watch Series 9 Showdown: The Ultimate Guide to Finding Your Perfect Smartwatch - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-using-gpt-4-on-chatgpt-now/"><u>Step-by-Step Guide: Using GPT-4 on ChatGPT Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-enjoying-apples-stunning-3d-experience-on-the-meta-quest-3/"><u>Step-by-Step Tutorial: Enjoying Apple's Stunning 3D Experience on the Meta Quest 3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-talks-with-overlooked-gpt-capabilities/"><u>Transforming Talks with Overlooked GPT Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-your-workspace-essential-tips-for-running-a-home-office-on-your-ipad-pro-insights/"><u>Transforming Your Workspace: Essential Tips for Running a Home Office on Your iPad Pro - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-truth-what-led-to-the-massive-crowdstrike-windows-meltdown-a-historical-perspective/"><u>Unveiling The Truth: What Led To The Massive CrowdStrike Windows Meltdown - A Historical Perspective</u></a></li>
 </ul></div>
 

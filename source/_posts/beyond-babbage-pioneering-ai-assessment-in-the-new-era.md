@@ -1,7 +1,7 @@
 ---
 title: "Beyond Babbage: Pioneering AI Assessment in the New Era"
-date: 2024-09-02T20:32:38.407Z
-updated: 2024-09-03T20:32:38.407Z
+date: 2025-01-20T19:20:10.686Z
+updated: 2025-01-24T17:35:33.180Z
 tags:
   - chatgpt
   - open-ai
@@ -42,23 +42,25 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
  It's possible that [future AI models like ChatGPT-5](https://www.makeuseof.com/when-will-gpt5-launch/) could pass the Turing test. If that happens, we would need different tests combined with the Turing test to identify if we're talking to an AI or a human. Here are the best Turing test alternatives:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. The Marcus Test
 
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the [New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
 
  At the moment, [GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/), but so far, there is currently no AI model that can comprehend videos like a human. [Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. The Visual Turing Test
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
@@ -71,20 +73,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the [thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014\.
 
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However, [artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Reverse Turing Test
 
 ![person using chatgpt on their laptop](https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db6256e6386dbd78a8fb134b9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  How about the Turing test, but done in reverse? Instead of trying to find out if you're talking to a human, the objective of the [reverse Turing test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c) is to trick the AI into believing you're an AI. However, you also need another AI model to answer the same questions using text.
 
  For instance, if ChatGPT-4 is the interrogator, you could enroll Google Bard and another human as participants. If the AI model can correctly identify the human participant based on the answers, it has passed the test.
@@ -95,12 +95,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  According to the AI classification framework developed by [Chris Saad](https://docsend.com/view/et7755yasfpj3iy6), the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance, [ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/), describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
 
@@ -118,8 +119,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +126,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-6-best-free-apps-to-compress-videos-on-android/"><u>[New] In 2024, 6 Best Free Apps to Compress Videos on Android</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nstantly-accessible-downloading-youtube-playlists-effortlessly-for-2024/"><u>[New] Instantly Accessible Downloading YouTube Playlists Effortlessly for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-platform-power-play-obs-versus-twitch-studio/"><u>[Updated] 2024 Approved Platform Power Play OBS Versus Twitch Studio</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-samsung-galaxy-s23-fe-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Samsung Galaxy S23 FE to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5ywo6z2i5a2457pluss6zu75b2x57eo6lyv5pon5l2c5rwb56il77ym6ycy6zqo54mi6ygg56il6kqy5acc6kej5rg65pa55qgi/"><u>全面學習電影編輯操作流程，進階版遠程課堂解決方案</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-lista-dos-top-12-editores-de-video-com-efeitos-gelidos-para-criar-conteudo-impactante/"><u>A Lista Dos Top 12 Editores De Vídeo Com Efeitos Gélidos Para Criar Conteúdo Impactante</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/byb-e430-led-swing-arm-light-fixture-review-exceptional-quality-and-design/"><u>BYB E430 LED Swing Arm Light Fixture Review: Exceptional Quality and Design</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-cambiar-facilmente-tu-musica-con-el-convertidor-mp3-a-ogg-gratuitamente-en-la-web-de-movavi/"><u>Cómo Cambiar Fácilmente Tu Música Con El Convertidor MP3 a Ogg Gratuitamente en La Web De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversor-gratuito-de-arquivos-wav-para-flac-on-line-movavi/"><u>Conversor Gratuito De Arquivos WAV Para FLAC On-Line - Movavi</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/essential-tips-for-high-quality-audacity-recording/"><u>Essential Tips for High-Quality Audacity Recording</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-from-tweets-to-device-storage-android-and-iphone-gif-steps/"><u>In 2024, From Tweets to Device Storage Android & iPhone GIF Steps</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/les-meilleurs-screen-capture-gratuit-pour-mac-en-2024-la-selection-finale-de-12-choix-par-movavi/"><u>Les Meilleurs Screen Capture Gratuit Pour Mac en 2024: La Sélection Finale De 12 Choix Par Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/limparte-arquivos-gratuitamente-on-line-com-o-movavi-sem-custo-sem-complicacoes/"><u>Limparte Arquivos Gratuitamente On-Line Com O Movavi - Sem Custo, Sem Complicações!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-picture-editing-learn-how-to-trim-images-using-movavis-advanced-tools/"><u>Mastering the Art of Picture Editing - Learn How to Trim Images Using Movavi's Advanced Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-gif-mpeg/"><u>MOVAVI에서 GIF에서 MPEG로의 단순함 - 인터넷 상대 무료 이미지 전환기</u></a></li>
+<li><a href="https://games-able.techidaily.com/reframing-the-debate-6-counterarguments-against-mac-gaming/"><u>Reframing the Debate: 6 Counterarguments Against Mac Gaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/telechargement-gratuit-convertissez-vos-fichiers-mod-en-wma-sans-effort-avec-movavi/"><u>Téléchargement Gratuit : Convertissez Vos Fichiers MOD en WMA Sans Effort Avec Movavi</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-video-enhancement-through-strategic-illumination-methods-for-2024/"><u>YouTube Video Enhancement Through Strategic Illumination Methods for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking Verse Potential with Intelligent AI Assistance
-date: 2024-08-29T19:48:44.447Z
-updated: 2024-08-30T19:48:44.447Z
+date: 2025-01-22T00:14:45.419Z
+updated: 2025-01-24T23:58:31.775Z
 tags:
   - chatgpt
   - open-ai
@@ -49,13 +49,14 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 
  After you know the topic of your poem, ask ChatGPT what kind of structure and form should be written about the theme. It’ll give you an option and ask if you want to continue. If it chooses a format you’re not interested in, just ask for something different.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Co-Create Word Choice and Imagery
 
 ![ChatGPT poetry wording corrections](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-wording.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There’s a chance that ChatGPT may come up with the perfect poem on the first try. However, chances are with your guidance, it could be better. There may be some word choices that don’t quite harmonize with the poem or maybe the imagery isn’t quite hitting the mark.
 
  The best way to handle this situation is to tell ChatGPT which lines you don’t like and why. It’ll come up with some better choices that you can choose from.
@@ -63,8 +64,9 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
  But don’t forget, you always have the option of coming up with your diction and telling ChatGPT to change its wording to yours.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Add Engaging Poetic Devices
 
 ![ChatGPT creating a haiku about napping](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-poetic-device.jpeg)
@@ -77,23 +79,22 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 
 ![ChatGPT proofreading and refining a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-proofreading.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [ChatGPT makes for a good proofreader](https://www.makeuseof.com/can-chatgpt-be-used-as-proofreader/) and editor for all your creative writing, poetry included. Even if you’re working with the AI throughout the whole writing process, it’s still a good idea to have it check for any errors. It may also be able to find a way to make the poem sound better.
 
  Ask ChatGPT to proofread and refine your poem and see what corrections it comes up with. It is advised that you read through the lines carefully to make sure it still reads well.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using ChatGPT as a Guide Instead
 
  Let’s say you’re a bit nervous about using AI, and you would rather your writing be 100% your work—that is perfectly fine. There are simple ways to use ChatGPT that won’t make you feel like it did the work for you.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Explore Poetry Prompts
 
 ![ChatGPT creating poetry prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-prompts.jpeg)
@@ -102,13 +103,14 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 
  ChatGPT’s poetry prompts are especially effective when you’re stuck with massive writer’s block and aren’t sure how to proceed in your craft.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Ask for Advice
 
 ![ChatGPT options for how to make a poem sound better](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-advice.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Treat ChatGPT like a friend about to read your latest piece of creative writing. You’re open to advice, but every comment and criticism isn’t going to make it to the final draft.
 
  If you have a poem drafted or even just a few lines, you can ask the AI if it has any advice to make it better. Take the suggestions lightly and apply the ones you feel will help your piece of writing.
@@ -117,37 +119,35 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 
 ![ChatGPT describing the petals of a cherry blossom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-research.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  ChatGPT has a plethora of knowledge at its disposal. If you’re writing a poem about a certain place or object, see if the AI can give the information you need to you. It’s like having a little virtual assistant on demand.
 
  Simply ask ChatGPT for some information about the thing you need to know, and it’ll give you as many facts as you want. You can even ask for descriptions to help you create the imagery for your readers.
 
  Keep in mind that if you’ve already begun a conversation about poetry with ChatGPT and ask for it to describe something, you’re likely going to get a poem. In your request for the information, simply clarify not to give it to you in poetic form.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Discuss Poetry Elements
 
 ![ChatGPT poetic device options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-poetic-elements.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Instead of asking ChatGPT to add poetic devices to your poem, ask it for a list of them. You can choose which elements you believe will work best in your poetry and come up with the words yourself.
 
  Not only does this still make you the only contributor to your poetry, but you’ll also learn to use poetic devices you may not have come across before. ChatGPT is a great way to learn more about your skillset.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Things to Look Out For
 
  Though ChatGPT can be a great resource, [you shouldn’t blindly trust everything AI produces](https://www.makeuseof.com/reasons-you-shouldnt-trust-artificial-intelligence/). In terms of creating poetry, here are a couple of things to look out for.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Robots Make Terrible Poets
 
@@ -161,9 +161,6 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 
  When in doubt, look up the information yourself to determine if it’s correct or not.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Write Your Next Poem Using ChatGPT
 
  AI writing assistants are well-rounded programs that can help with so many different projects—poetry being one of them. The best part is that it’s completely up to you how much or how little it helps you in your craft.
@@ -176,14 +173,11 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 
  Keep reading to learn how to use ChatGPT to help you write poetry—whether it’s as a collaboration or as a guide.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -192,4 +186,22 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/updated-strategies-to-become-a-top-notch-interviewer/"><u>[Updated] Strategies to Become a Top-Notch Interviewer</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-tapping-into-no-cost-melodies-for-video-projects/"><u>[Updated] Tapping Into No-Cost Melodies for Video Projects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-10-digital-landscape-replacers-for-videos/"><u>2024 Approved Best 10 Digital Landscape Replacers for Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-top-5-gaming-monitors-tailored-for-playstation-and-xbox/"><u>2024 Approved Top 5 Gaming Monitors Tailored for PlayStation & Xbox</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-ultimate-user-handbook-youtube-conduct-codes/"><u>2024 Approved Ultimate User Handbook YouTube Conduct Codes</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-email-experience-less-keystrokes-fewer-typos-using-google-snippets-zdnet/"><u>Revolutionize Your Email Experience - Less Keystrokes, Fewer Typos Using Google Snippets | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-conversion-of-google-drive-files-into-microsoft-docx-a-step-by-step-guide/"><u>Seamless Conversion of Google Drive Files Into Microsoft Docx: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-emails-activating-do-not-track-feature-in-thunderbird-and-its-benefits/"><u>Secure Your Emails: Activating 'Do Not Track' Feature in Thunderbird and Its Benefits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/struggling-with-weak-wi-fi-establish-a-wired-network-in-your-house-sans-ethernet-cable-expert-advice-by-zdnet/"><u>Struggling with Weak Wi-Fi? Establish a Wired Network in Your House Sans Ethernet Cable - Expert Advice by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-4-intelligent-writing-gadgets-a-zdnet-review/"><u>Top 4 Intelligent Writing Gadgets : A ZDNet Review</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/top-5-methods-for-efficiently-copying-data-from-hard-drive-to-solid-state-drive/"><u>Top 5 Methods for Efficiently Copying Data From Hard Drive to Solid State Drive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ai-chatbot-picks-navigating-through-chatgpt-microsofts-copilot-and-more-exploring-the-future-of-digital-conversations/"><u>Top AI Chatbot Picks : Navigating Through ChatGPT, Microsoft's Copilot & More - Exploring the Future of Digital Conversations!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-strategies-shared-by-industry-leaders-helping-female-professionals-excel-in-information-technology/"><u>Top Strategies Shared by Industry Leaders: Helping Female Professionals Excel in Information Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tunetinker-tweaking-the-audio-map-for-2024/"><u>TuneTinker Tweaking the Audio Map for 2024</u></a></li>
+</ul></div>
 

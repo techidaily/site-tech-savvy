@@ -1,7 +1,7 @@
 ---
 title: Unveiling Hardware Secrets with Tom – The Authority in Technology Reviews
-date: 2024-08-29T19:50:26.671Z
-updated: 2024-08-30T19:50:26.671Z
+date: 2025-01-17T18:25:56.295Z
+updated: 2025-01-24T19:56:56.865Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,20 +53,21 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  But even if having a local image generator / chatbot is really valuable to you, you don't need a special PC or an on-case screen on the case to get those features. MSI may have its own branded apps, but it's likely using the same chat and image generation that's available elsewhere. Anyone who has a decent graphics card can download and install Stable Diffusion image generator or LLama for chat. If you have an RTX card, try[ComfyUI](https://github.com/comfyanonymous/ComfyUI) , which is a very powerful frontend for Stable Diffusion.
 
  What you can't get elsewhere is a full HD screen that takes up the entire front surface of your chassis. We have seen some cases with screens on the front -- the[Jonsbo D41](https://www.jonsbo.com/en/products/D41MESHSCREENBlack.html) comes to mind. But MSI's display takes up the entire space and is meant to be an integral part of the user experience, not just a cute special effect.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -71,8 +76,18 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-precisely-how-to-disconnect-from-your-outdated-linkedin-account/"><u>[Updated] In 2024, Precisely How To Disconnect From Your Outdated LinkedIn Account</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-sweet-slumber-scenes-video-critique/"><u>2024 Approved Sweet Slumber Scenes Video Critique</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-expands-educational-opportunities-with-new-ai-training-programs-for-thousands-of-learners-zdnet/"><u>Apple Expands Educational Opportunities with New AI Training Programs for Thousands of Learners | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/becoming-a-virtual-communicator-learn-the-eight-secrets-of-successful-zoom-presentations-from-industry-leaders/"><u>Becoming a Virtual Communicator: Learn the Eight Secrets of Successful Zoom Presentations From Industry Leaders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-the-cv-innovative-approaches-to-hiring-by-tech-industry-leaders-zdnet/"><u>Beyond the CV: Innovative Approaches to Hiring by Tech Industry Leaders | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-an-effective-coding-showcase-a-guide-inspired-by-zdnet/"><u>Creating an Effective Coding Showcase: A Guide Inspired by ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/techniques-for-effective-group-communication-on-facebook/"><u>Techniques for Effective Group Communication on Facebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unlocking-the-potential-of-your-ppt-with-professional-recording-for-2024/"><u>Unlocking the Potential of Your PPT with Professional Recording for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-inspired-strategies-for-developing-your-programming-portfolio/"><u>ZDNet-Inspired Strategies for Developing Your Programming Portfolio</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->

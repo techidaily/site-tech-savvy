@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Accounts: A Cybercriminal's Playground?"
-date: 2024-08-29T19:50:14.456Z
-updated: 2024-08-30T19:50:14.456Z
+date: 2025-01-22T19:21:41.691Z
+updated: 2025-01-25T00:39:44.706Z
 tags:
   - chatgpt
   - open-ai
@@ -23,11 +23,19 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
 
  So what for? Why are ChatGPT accounts becoming a major attraction for hackers? What’s the reason behind the sudden surge in stolen ChatGPT accounts?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Are ChatGPT Accounts Being Hacked?
 
  An [investigation report](https://www.group-ib.com/media-center/press-releases/stealers-chatgpt-credentials/) by cybersecurity research firm, Group-IB has revealed that over 100,000 ChatGPT accounts have been compromised at the time of writing, and are being pawned off in covert black markets. The accounts which were stolen in a non-selective hacking campaign are typically compromised by threat actors using info stealer malware, some of which has been sitting in their victim’s computers even before the launch of ChatGPT.
 
  So why are hackers going after ChatGPT accounts, and why are people willing to pay for these stolen accounts?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Stealing Sensitive Information
 
@@ -41,25 +49,18 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
 
  Aware of such threats, companies like Google and Samsung—as well as Microsoft, a major backer of OpenAI—have all either warned or explicitly banned their staff from sharing company data with the AI chatbot. The fact that these companies are issuing such warnings means that mistakes might already be happening.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Reselling ChatGPT Accounts
 
  While most of the world can access the ChatGPT website, some countries are officially banned from the platform. At the time of writing, China, with more than a billion potential users, is on this list. While residents from banned countries can use a VPN and other measures to bypass this restriction, buying cheap, stolen premium accounts is also appealing. This naturally creates a market for stolen [ChatGPT Plus accounts](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), some of which are auctioned off to more than one user. With a readily available market, hackers are naturally incentivized to steal ChatGPT accounts.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Protect Your ChatGPT Account
 
  Since ChatGPT accounts have become a prime target for hackers, how can you protect your ChatGPT account? Here are two ways to stay safe.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### 1\. Set Up Two-Factor Authentication (2FA) on Your Account
 
 [Multi-factor authentication like 2FA](https://www.makeuseof.com/what-is-multi-factor-authentication/) is the gold standard for securing your online accounts; your ChatGPT account is no exception. Here's how to set up 2FA for your ChatGPT account:
@@ -70,13 +71,15 @@ The powerful video editing program for your Windows PC</a>
 ![how to set up multifactor authentication on chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-on-2fa-on-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Unfortunately, at the time of writing, the 2FA feature has been temporarily disabled. If you can access the feature at the time of reading this, turn it on. If not, check back and turn it on whenever OpenAI restores this vital feature.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Clear Your ChatGPT Conversations
 
  As secure as it is, two-factor authentication is not a fool-proof security measure. To ensure that the sensitive information you've shared in your ChatGPT conversations doesn't fall into the wrong hands, regularly clear your [saved ChatGPT conversations](https://www.makeuseof.com/save-chatgpt-chats/). To do this:
@@ -84,9 +87,6 @@ The powerful video editing program for your Windows PC</a>
 1. Tap your account name in the bottom left corner of your ChatGPT interface.
 2. Go to **Clear Conversations > Confirm clear conversations** to delete all your saved conversations.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Protect Your ChatGPT Accounts From Hackers
 
  While the threat of losing your ChatGPT account might not seem like something to lose sleep over, losing it to malicious actors could be a big problem. ChatGPT should receive the same level of attention you give to other sensitive accounts like your email, especially if you use it for a wide range of personal tasks. Don't be caught unaware: take the necessary steps to protect your ChatGPT account and yourself.
@@ -95,14 +95,11 @@ The powerful video editing program for your Windows PC</a>
 
  So what for? Why are ChatGPT accounts becoming a major attraction for hackers? What’s the reason behind the sudden surge in stolen ChatGPT accounts?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -111,4 +108,18 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unmatched-budget-friendly-camera-challenges/"><u>[Updated] Unmatched Budget-Friendly Camera Challenges</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/addressing-printer-no-show-on-windows-me-edition/"><u>Addressing Printer No-Show on Windows ME Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artwork-security-in-the-age-of-generative-ais-how-to-enforce-copyright-protection-successfully/"><u>Artwork Security in the Age of Generative AIs: How to Enforce Copyright Protection Successfully</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/improve-your-python-skills-with-linkedins-complimentary-ai-training-program-insights-from-zdnet/"><u>Improve Your Python Skills with LinkedIn's Complimentary AI Training Program - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-infinix-note-30-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Infinix Note 30 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/landing-your-dream-job-during-economic-downturns-strategies-from-zdnet/"><u>Landing Your Dream Job During Economic Downturns: Strategies From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-skills-in-ai-imaging-at-no-cost-with-this-smart-udemy-strategy-learn-now-futuretech-insights/"><u>Revolutionize Your Skills in AI Imaging at No Cost with This Smart Udemy Strategy - Learn Now | FutureTech Insights</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-windows-display-problems-how-to-restore-correct-settings-with-help-from-yl-software/"><u>Troubleshooting Windows Display Problems: How to Restore Correct Settings with Help From YL Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-phenomenon-of-rapid-change-a-guide-to-disruptive-innovation-tech-insight/"><u>Unraveling the Phenomenon of Rapid Change: A Guide to Disruptive Innovation | Tech Insight</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/what-is-chatgpt-in-2024/"><u>What Is ChatGPT, In 2024</u></a></li>
+</ul></div>
 

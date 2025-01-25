@@ -1,7 +1,7 @@
 ---
 title: Integrating GPT Into Therapeutic Communication Practices
-date: 2025-01-16T17:46:50.672Z
-updated: 2025-01-18T17:00:19.248Z
+date: 2025-01-22T23:51:01.455Z
+updated: 2025-01-24T17:43:11.687Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ChatGPT and Cognitive Behavioral Therapy
 
  What makes ChatGPT suitable for the purpose of engaging in CBT? Well, ChatGPT has been trained on a wealth of data, including findings from psychological research, making it capable of grasping context and engaging in meaningful rhetoric.
@@ -55,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
  At the same time, if something feels off or not quite clicking, you can adjust your questions or simply tell ChatGPT in no uncertain terms that it needs to try a different approach or line of reasoning.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Writing Effective Prompts for CBT Practice
@@ -66,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 
  A good prompt is like giving your GPS coordinates. It leads to a focused, relevant, and in the case of psychotherapy, insightful conversations. Being vague is like telling your GPS, "Take me somewhere fun." You might end up at the world's largest potato museum when you hoped for the beach.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Creating Effective Prompts for CBT With ChatGPT
 
  First and foremost, set ChatGPT up to be a CBT therapist. Consider the following example:
@@ -73,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
  "Imagine you are a world-renowned psychotherapist who uses Cognitive Behavioral Therapy to treat patients of all types. You are well-versed in the most efficient methods for helping people overcome personal struggles using CBT. You are an educator, scientist, and all-around warm-hearted person who understands how to help people. You have a sense of humor, a sharp wit, clarity in communication, and the ability to tell engaging stories and anecdotes to communicate the point you're trying to make. You also ask questions when uncertain so that you can deliver the best possible advice. You also want to help people discover for themselves the issues they are having, and empower them with practical advice on how to improve their own well-being."
 
 ![ChatGPT being trained as CBT therapist-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/1-chatgpt-being-trained-as-cbt-therapist-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can tweak the above in a way that works best for you.
 
@@ -91,7 +87,11 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 ![ChatGPT response with actions that can be taken today](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-chatgpt-response-with-actions-that-can-be-taken-today.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Precautions and Limitations of Using ChatGPT for CBT
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 * Consider reaching out to a real professional for deep or complex issues since ChatGPT might lack clinical judgment and intuition.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using ChatGPT as a CBT Professional to Improve Mental Well-Being
@@ -131,15 +131,17 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-transform-your-memories-into-engaging-facebook-slides/"><u>[Updated] In 2024, Transform Your Memories Into Engaging Facebook Slides</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-fps-fanatics-resource-for-fast-controls-and-extensions/"><u>2024 Approved FPS Fanatics' Resource for Fast Controls and Extensions</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/demystifying-copyright-policies-for-your-instagram-playlist/"><u>Demystifying Copyright Policies for Your Instagram Playlist</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-best-copilotplus-integration-in-new-tech-unveiled-at-ifa-2024-spotlight-on-versatile-gaming-performance-and-cutting-edge-innovations/"><u>Discover the Best Copilot+ Integration in New Tech Unveiled at IFA 2024 - Spotlight on Versatile Gaming Performance and Cutting-Edge Innovations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortlessly-change-your-videos-soundtrack-from-mp4-to-mp3-on-a-windows-machine/"><u>Effortlessly Change Your Video's Soundtrack From MP4 to MP3 on a Windows Machine</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/emeditor-personalized-text-editor-menu-options/"><u>EmEditor: Personalized Text Editor Menu Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/festive-fun-the-ultimate-list-of-kids-christmas-flicks/"><u>Festive Fun: The Ultimate List of Kids' Christmas Flicks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fixing-the-time-lag-in-handbrake-video-conversion-tips-and-tricks-for-perfect-audio-alignment/"><u>Fixing the Time Lag in HandBrake Video Conversion: Tips & Tricks for Perfect Audio Alignment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-conference-call-ultimate-guide-to-recording-calls-without-fuss/"><u>Free Conference Call: Ultimate Guide to Recording Calls Without Fuss</u></a></li>
-<li><a href="https://fox-where.techidaily.com/secure-your-corporate-assets-with-proven-data-preservation-methods-and-guidelines/"><u>Secure Your Corporate Assets with Proven Data Preservation Methods & Guidelines</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/everaging-tags-boost-engagement-and-traffic-for-videos/"><u>[New] Leveraging Tags Boost Engagement and Traffic for Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-virtual-quality-assurance-examining-apps-with-vll/"><u>[Updated] 2024 Approved Virtual Quality Assurance Examining Apps with VLL</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-6-virtual-reality-vr-gloves-to-check-out/"><u>[Updated] Top 6 Virtual Reality (VR) Gloves to Check Out</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-15-superior-action-camera-replacements-to-gopro/"><u>[Updated] Unveiling 15 Superior Action Camera Replacements to GoPro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elite-selection-of-keyboards-for-2t4y-in-depth-testing-and-expert-opinions-featured-on-zdnet/"><u>Elite Selection of Keyboards for 2T4y: In-Depth Testing and Expert Opinions Featured on ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-role-in-achieving-career-aspirations/"><u>GPT's Role in Achieving Career Aspirations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bridging-art-and-technology-a-comprehensive-guide-to-the-top-10-websites-for-graffiti-fonts/"><u>In 2024, Bridging Art and Technology A Comprehensive Guide to the Top 10 Websites for Graffiti Fonts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-or-update-ch340g-serial-interface-drivers-on-windows-11-step-by-step-tutorial/"><u>Install or Update CH340G Serial Interface Drivers on Windows 11: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/masterclass-in-ai-exploring-chatgpts-premium-edge/"><u>Masterclass in AI: Exploring ChatGPT's Premium Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11s-past-text-recall-capabilities/"><u>Optimizing Windows 11'S Past Text Recall Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-workouts-maximizing-benefits-and-safety/"><u>Tailored Workouts: Maximizing Benefits & Safety</u></a></li>
+<li><a href="https://win-superb.techidaily.com/tips-for-spotting-defective-hardware-components-in-windows-systems-insights-from-yl-software/"><u>Tips for Spotting Defective Hardware Components in Windows Systems: Insights From YL Software</u></a></li>
 </ul></div>
 

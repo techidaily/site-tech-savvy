@@ -1,7 +1,7 @@
 ---
 title: Avoiding the Blind Spots of Computer-Based Psychological Support
-date: 2024-08-29T19:46:32.854Z
-updated: 2024-08-30T19:46:32.854Z
+date: 2025-01-18T23:09:44.516Z
+updated: 2025-01-24T20:29:14.199Z
 tags:
   - chatgpt
   - open-ai
@@ -41,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/fc8887d59721c7da8e208813dadb0a36f15829b69
 
  Likewise, ask about disproven methods. Blindly following controversial, groundless practices based on alternative medicine may worsen your condition. Stick to evidence-based options.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Security Restrictions Prohibit Certain Topics
 
  AI developers set restrictions during the training phase. Ethical and moral guidelines stop amoral AI systems from presenting harmful data. Otherwise, crooks could exploit them endlessly.
@@ -51,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/fc8887d59721c7da8e208813dadb0a36f15829b69
  Although beneficial, guidelines also impede functionality and versatility. Take Bing AI as an example. Its rigid restrictions prevent it from discussing sensitive matters.
 
  However, you should be free to share your negative thoughts—they’re a reality for many. Suppressing them may just cause more complications. Only guided, evidence-based treatment plans will help patients overcome unhealthy coping mechanisms.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. AI Can’t Prescribe Medication
 
@@ -64,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/fc8887d59721c7da8e208813dadb0a36f15829b69
 
 ![ChatGPT Can't Provide Prescription Medication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-prescription-medication.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Chatbots Present Generic Information
 
  AI answers general knowledge questions about mental health. You can use them to study basic treatment options, spot common symptoms, and research similar cases. Proper research helps you build self-awareness. Recovery will go smoother if you understand your mental state and emotional triggers.
@@ -72,14 +77,12 @@ thumbnail: https://thmb.techidaily.com/fc8887d59721c7da8e208813dadb0a36f15829b69
 
 ![ChatGPT Gives Generic Advice on Panic Attack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-panic-attack-advice.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A professional counselor or therapist would go beyond what AI suggests. You can use AI output as a starting point to better understand academic journals and research papers, but be sure to do deeper research or consult a professional.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Self-Diagnoses Are Rarely Accurate
 
  AI enables self-diagnoses. Instead of paying for therapy, patients ask chatbots to mimic mental health professionals. It’s quicker and cheaper than booking consultations.
@@ -90,11 +93,12 @@ thumbnail: https://thmb.techidaily.com/fc8887d59721c7da8e208813dadb0a36f15829b69
 
 ![ChatGPT Can't Determine Your Disease Based on Symptoms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-explaining-anxiety-symptoms.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As a general rule, avoid self-diagnosis altogether. Getting on the wrong treatment plan or overlooking symptoms will cause more complications.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## 7\. AI Has No Access to Your Medical Records
 
  Generative AI tools like [ChatGPT learn from conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/). They use contextual memory to remember the details you mention, thus improving output accuracy and relevance.
@@ -103,18 +107,15 @@ thumbnail: https://thmb.techidaily.com/fc8887d59721c7da8e208813dadb0a36f15829b69
 
 ![Sharing Finance Problems With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/telling-chatgpt-about-finance-problems.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  With enough context, AI could start providing personalized plans. The problem is that generative AI tools have token limits—they only remember a finite amount of data.
 
 ![ChatGPT Addressing the Root Cause of Finance-Related Anxiety](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-finance-related-anxiety.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  The exact limits vary per platform. Bing Chat starts new chats after 20 turns, while ChatGPT remembers the last 3,000 words of conversations. But either way, neither tool will accommodate all your medical records. At best, generative AI tools can only string together select information, such as recent diagnoses or your current emotions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Machines Can’t Empathize With You
 
@@ -128,16 +129,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Bing Chat Can't Empathize With Someone With Depression](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-depression.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Meanwhile, ChatGPT asks open-ended questions but provides simplistic tips you’ll find anywhere else online.
 
 ![ChatGPT Giving Advice for Depression and Debt Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-advice-for-depression.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. AI Doesn’t Track Your Progress
 
  Managing the symptoms of mental illnesses involves long-term treatment and observation. There’s no easy remedy for mental health conditions. Like most patients, you might try several programs. Their effects vary from person to person—carelessly committing to generic options yields negligible results.
@@ -145,6 +144,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Many find the process overwhelming. And that’s why you should seek help from educated, empathetic professionals instead of advanced language models.
 
  Look for people who’ll support you throughout your journey. They should track your progress, assess which treatment plans work, address persistent symptoms, and analyze your mental health triggers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## You Can’t Replace Consultations With AI Chatbots
 
@@ -162,8 +165,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +172,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-windows-hdplus-excellence-navigating-through-high-dynamic-range-worlds/"><u>[New] 2024 Approved Windows HD+ Excellence Navigating Through High Dynamic Range Worlds</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-ultimate-free-guide-to-youtube-ad-videos/"><u>[New] In 2024, The Ultimate Free Guide to YouTube Ad Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-pixels-personal-soundtrack-a-selection-guide/"><u>[Updated] Pixel's Personal Soundtrack A Selection Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbot-interaction-patterns-for-realistic-discussions/"><u>Chatbot Interaction Patterns for Realistic Discussions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/debunking-ai-myths-inadequate-cryptocurrency-expertise/"><u>Debunking AI Myths: Inadequate Cryptocurrency Expertise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-ais-reliability-chatgpt-style/"><u>Evaluating AI's Reliability - ChatGPT Style</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/examining-alternative-use-of-restricted-gpt-features/"><u>Examining Alternative Use of Restricted GPT Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exercise-plans-crafted-with-safety-and-efficiency-in-mind/"><u>Exercise Plans Crafted with Safety and Efficiency in Mind</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-get-the-latest-microsoft-surface-pro-4-driver-software-for-windows-systems/"><u>How to Get the Latest Microsoft Surface Pro 4 Driver Software for Windows Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/implementing-effective-privacy-rules-for-youth-on-facebook/"><u>Implementing Effective Privacy Rules for Youth on Facebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-tips-uploading-to-apple-podcast-network/"><u>In 2024, Quick Tips Uploading to Apple Podcast Network</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-views-navigating-chatgpt-for-film-recommendations/"><u>Maximizing Views: Navigating ChatGPT for Film Recommendations</u></a></li>
+<li><a href="https://win11.techidaily.com/system-tray-simplified-the-art-of-minimizing-apps-on-windows/"><u>System Tray Simplified: The Art of Minimizing Apps on Windows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-ultimate-guide-to-youtube-screen-recording-for-2024/"><u>The Ultimate Guide to YouTube Screen Recording for 2024</u></a></li>
+</ul></div>
 

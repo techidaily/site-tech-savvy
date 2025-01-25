@@ -1,7 +1,7 @@
 ---
 title: "Navigating OpenAI's Tools: A User-Friendly Exploration"
-date: 2025-01-12T17:44:51.059Z
-updated: 2025-01-18T17:12:55.813Z
+date: 2025-01-23T23:01:07.529Z
+updated: 2025-01-24T22:57:32.369Z
 tags:
   - chatgpt
   - open-ai
@@ -28,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Can the OpenAI API Do?
 
  The [OpenAI API](https://platform.openai.com/) packs in a bunch of utilities for programmers. If you intend to deliver in-app AI daily, OpenAI will make your life easier with the following abilities.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Chat
 
@@ -43,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
  After telling it to be "a helpful virtual assistant," here's how one of our command-line chats went with the GPT-3.5-turbo model:
 
 ![Chat completion chat CLI logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chat-completion-chat-cli-logs.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can even improve the model's performance by supplying parameters like temperature, presence-penalty, frequency-penalty, and more. If you've ever used ChatGPT, you already know how OpenAI's chat completion model work.
 
@@ -62,16 +66,16 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 
 ![Text completion model test via CLI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/text-completion-model-test-via-cli.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, increasing the max\_tokens to 70 generated more coherent thoughts:
 
 ![Text completion model test via CLI more complete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/text-completion-model-test-via-cli-more-complete.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Speech-to-Text
@@ -123,7 +127,7 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 ![OpenAI API secret key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-api-secret-key-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ​​​​​ The OpenAI API usage is simple and follows the conventional API consumption pattern.
@@ -135,7 +139,7 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 5. Present data (user requests and model responses) in a visually appealing UI, and your app is ready for real-world use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Can You Create With the OpenAI API?
@@ -148,10 +152,6 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 4. Fix subtitles and translations for videos, audio, and live conversations using the speech-to-text model endpoint.
 5. Identify negative sentiments in your app using the OpenAI embedding model endpoint.
 6. Create programming language-specific code completion plugins for code editors and integrated development environments (IDEs).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Build Endlessly With the OpenAI APIs
 
@@ -178,16 +178,18 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-set-of-free-photo-screen-shifts/"><u>[Updated] 2024 Approved Ultimate Set of Free Photo Screen Shifts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-marketplace-risks-with-chatgpt-apps-alerted/"><u>Apple's Marketplace Risks with ChatGPT Apps Alerted</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719578993417-dive-into-a-new-culture-mastering-croatian-here-are-the-top-7-reasons/"><u>Dive Into a New Culture - Mastering Croatian: Here Are The Top 7 Reasons</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/educators-guide-top-screen-capture-tools/"><u>Educator's Guide Top Screen Capture Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-professionalism-in-resume-crafting-chatgpt-techniques/"><u>Elevate Professionalism in Resume Crafting (ChatGPT Techniques)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-ai-depths-power-less-to-powerful/"><u>Exploring AI Depths: Power-Less to Powerful</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-vivo-s17e-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Vivo S17e to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-honor-100-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Honor 100</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/solving-network-interface-dilemmas-with-ease-expert-tips-from-yl-software/"><u>Solving Network Interface Dilemmas with Ease - Expert Tips From YL Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-gap-in-self-review-systems/"><u>The Gap in Self-Review Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-ios-chatgpt-triumphs-over-browser-counterparts/"><u>Why iOS ChatGPT Triumphs Over Browser Counterparts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-youtube-view-bots-how-to-increase-youtube-views/"><u>[New] 2024 Approved YouTube View Bots How to Increase YouTube Views?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-is-your-content-flourishing-consider-an-mcn-partnership/"><u>[New] In 2024, Is Your Content Flourishing? Consider an MCN Partnership</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ng-the-excess-a-guide-to-shortening-youtube-videos/"><u>Cutting the Excess A Guide to Shortening YouTube Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/data-security-with-chatgpt-features/"><u>Data Security with ChatGPT Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-strategies-for-teamwork-on-apple-pages-using-icloud-insights-from-zdnet/"><u>Effective Strategies for Teamwork on Apple Pages Using iCloud - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-chorus-to-clips-soundtracking-in-imovie/"><u>In 2024, Chorus to Clips Soundtracking in iMovie</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-perfect-stitching-of-gopro-videos-into-complete-360-imagery/"><u>In 2024, Perfect Stitching of GoPro Videos Into Complete 360 Imagery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-realism-refined-how-to-use-motion-blur-in-faces-using-picsart/"><u>In 2024, Realism Refined How to Use Motion Blur in Faces Using Picsart</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-dyson-ontrac-the-innovative-wireless-earphones-set-to-outshine-apple-airpods-pro/"><u>Introducing Dyson OnTrac: The Innovative Wireless Earphones Set to Outshine Apple AirPods Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-battery-lifespan-on-your-apple-watch-with-these-8-game-changing-configuration-adjustments-expert-tips/"><u>Maximize Battery Lifespan on Your Apple Watch with These 8 Game-Changing Configuration Adjustments | Expert Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/moderate-noise-levels/"><u>Moderate Noise Levels:</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/cket-views-essential-youtube-seo-enhancements-uncovered-for-2024/"><u>Skyrocket Views Essential YouTube SEO Enhancements Uncovered for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-computers-expert-picks-by-zdnet/"><u>Top-Ranking Mac Computers : Expert Picks by ZDNet</u></a></li>
 </ul></div>
 

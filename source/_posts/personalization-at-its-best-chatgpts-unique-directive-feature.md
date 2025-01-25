@@ -1,7 +1,7 @@
 ---
 title: "Personalization at Its Best: ChatGPT's Unique Directive Feature"
-date: 2024-09-02T20:32:09.754Z
-updated: 2024-09-03T20:32:09.754Z
+date: 2025-01-21T16:39:38.477Z
+updated: 2025-01-24T21:29:25.565Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 
  Now, ChatGPT is leveling up with a game-changing new feature called Custom Instructions. The new feature will give ChatGPT the ability to retain specific instructions, context, and preferences between chats. Here's how to get started with Custom Instructions on ChatGPT.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the ChatGPT Custom Instructions Feature?
 
 ![Custom instructions feature on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/custom-instructions-feature-on-screen.jpg)
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
  In a nutshell, the Custom Instructions feature is a cross-session memory that allows ChatGPT to retain key instructions across chat sessions. It provides ChatGPT users with the means to give standing instructions that the AI chatbot will recall and apply in later chats, preventing the need for repetitive back-and-forth explanations.
 
  The Custom Instructions feature is currently being rolled out to ChatGPT Plus users. According to [OpenAI's announcement](https://openai.com/blog/custom-instructions-for-chatgpt), Custom Instructions will be rolled out to all Chatgpt users subsequently. So, if you are using a free-tier account, you might have to wait a bit longer. As an aside, early access to new features is a good [reason to upgrade to a ChatGPT Plus account](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/). Without a doubt, the Custom Instructions feature is the single most important personalization feature introduced to ChatGPT since the chatbot was launched in November 2022\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn On Custom Instructions in ChatGPT
 
@@ -48,17 +56,24 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 2. You'll now find a new option labeled **Custom instructions**; click on it to reveal the Custom Instructions editor.  
 ![turning on the custom instructions feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turning-on-the-custom-instructions-feature.jpg)
 3. Up next, you'll find two fields for providing custom instruction. Click on **Show tips** below each editor to see some examples of what kind of instructions should be provided on both fields.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * For the first editor, provide information about yourself.  
    ![Answering custom instructions question 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/answering-custom-instructions-question-1.jpg)  
    * For the second editor, you can provide information about how you want ChatGPT's response to be.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    ![Answering custom instructions question 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/answering-custom-instructions-question-2.jpg)
 4. After entering your custom instructions on both fields, click **Save.**
 
  Once your instructions have been saved, your account is ready to use the Custom Instructions feature. If you are still unsure what to do with this incredible new feature, we have a few ideas for you.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## What Can You Do With ChatGPT Custom Instructions?
 
  What you can do with Custom Instructions all boils down to your imagination; the list of things you could do is endless. Here are some ideas you can try right now.
@@ -72,8 +87,9 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
  The urge to provide personal information to ChatGPT might increase with the introduction of this new feature, but [avoid providing any sensitive information to ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/), even in the instructions' editor. If you have plugins turned on for your account, third-party plugin developers can access any sensitive information you share using the feature.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Personalize ChatGPT to Your Taste
 
  With ChatGPT's Custom Instructions feature, the AI chatbot can finally stay "in the loop" on key details like your background, communication style, and recurring requests. This will eliminate the frustration of constantly reorienting a forgetful ChatGPT every time you start a chat session.
@@ -84,14 +100,11 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 
  Now, ChatGPT is leveling up with a game-changing new feature called Custom Instructions. The new feature will give ChatGPT the ability to retain specific instructions, context, and preferences between chats. Here's how to get started with Custom Instructions on ChatGPT.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -100,4 +113,24 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-art-of-playback-anarchy-youtube-playlists-unordered-again/"><u>[New] The Art of Playback Anarchy YouTube Playlists Unordered Again</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-fixing-failed-video-uploads-on-facebook-live-features/"><u>[Updated] 2024 Approved Fixing Failed Video Uploads on Facebook Live Features</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-virtual-expeditions-youtubes-top-immersive-titles/"><u>[Updated] 2024 Approved Virtual Expeditions YouTube's Top Immersive Titles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-effortless-edits-bending-image-into-shape/"><u>2024 Approved Effortless Edits Bending Image Into Shape</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversational-innovations-snapchat-vs-gpt-powered-chatter/"><u>Conversational Innovations: Snapchat vs GPT-Powered Chatter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-gpt-plugins-and-their-functions/"><u>Essential GPT Plugins & Their Functions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harness-ai-for-the-best-chatgpt-in-interview-prep/"><u>Harness AI for the Best: ChatGPT in Interview Prep</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/just-start-chatting-chatgpt-ready/"><u>Just Start Chatting - ChatGPT Ready!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/izing-your-youtube-video-presentation/"><u>Optimizing Your YouTube Video Presentation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-on-configuring-windows-devices-with-offline-driver-installation-techniques/"><u>Step-by-Step Tutorial on Configuring Windows Devices with Offline Driver Installation Techniques</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/story-2-the-overeager-lab-technician-answer-c/"><u>Story 2: The Overeager Lab Technician (Answer C)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essence-of-claude-ai-pioneering-change-and-efficiency/"><u>The Essence of Claude AI: Pioneering Change and Efficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-leader-in-content-creation-notion-ai-or-chatgpt/"><u>The Next Leader in Content Creation: Notion AI or ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-free-video-chat-options-to-replace-skype/"><u>Top Free Video Chat Options to Replace Skype</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/turing-test-decoded-prospects-for-excellence/"><u>Turing Test Decoded: Prospects for Excellence</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Oppo K11 5G? | Dr.fone</u></a></li>
+</ul></div>
 

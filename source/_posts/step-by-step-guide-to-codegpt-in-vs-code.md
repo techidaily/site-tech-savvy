@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to CodeGPT in VS Code
-date: 2025-01-14T17:19:43.892Z
-updated: 2025-01-18T17:04:22.432Z
+date: 2025-01-21T16:38:25.999Z
+updated: 2025-01-24T22:27:58.490Z
 tags:
   - chatgpt
   - open-ai
@@ -44,9 +44,17 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 
 ![OpenAI API homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-api-key-view.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, you will be directed to the **API keys** page. Click on the **Create new secret key** option. Then, name and generate your secret key.
 
 ![OpenAI API key naming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-api-generation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This is the API key that you will use to connect the OpenAI [large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) to CodeGPT. Copy it to your clipboard.
 
@@ -62,15 +70,7 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 
 ![CodeGPT API command on VSCode command palette](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-command-pallete.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click on it and paste your API key on the prompt that appears. Save it by pressing **Enter**. Finally, reload VS Code to start using CodeGPT.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Generating Code With CodeGPT
 
@@ -80,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 
 ![CodeGPT generating code from a comment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-comment-code-generation.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can then copy and paste the code into your script. This method is not tidy as the response has text on it.
 
  To generate code by chatting with CodeGPT, click on the CodeGPT chat icon on the left sidebar. This will open a chat window.
@@ -87,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 ![CodeGPT chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-chat.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then input your request and click **Send**. In this case, the request is for a simple calculator. CodeGPT will process your request and generate your code in the chat window.
@@ -95,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 ![CodeGPT code generation in the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-code-generation-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click on the "insert code" arrow to automatically paste the code into your script. As you can see, this method is more tidy. The generated code is as shown below:
@@ -134,7 +138,7 @@ else:
  When you run the code it works correctly. With just a single prompt, you were able to create a simple calculator.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Refactoring Your Code With CodeGPT
@@ -142,10 +146,6 @@ else:
  To refactor your code, select the code that you want to refactor, then right-click on it and select **Refactor CodeGPT**. In the **Refactor CodeGPT** dialog box, enter your prompt describing the refactoring that you want to perform. For example, you could enter "refactor this code to use [a for loop](https://www.makeuseof.com/learn-for-loops-in-python/) instead of [a while loop](https://www.makeuseof.com/learn-while-loop-in-python/)".
 
  CodeGPT will generate new code that implements the requested refactoring.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Explaining Your Code With CodeGPT
 
@@ -204,22 +204,18 @@ def divide(x, y):
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-in-depth-look-at-fraps-screen-capture/"><u>[New] 2024 Approved In-Depth Look at Fraps Screen Capture</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-privacy-first-reader-of-facebook-snapshots-for-2024/"><u>[New] Privacy-First Reader of Facebook Snapshots for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ecuring-financial-stability-through-beauty-content-for-2024/"><u>[New] Securing Financial Stability Through Beauty Content for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-vs-human-writers-top-5-areas-where-machines-fall-short/"><u>AI vs Human Writers: Top 5 Areas Where Machines Fall Short</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/complete-guide-to-cleaning-up-figma-canvases-for-2024/"><u>Complete Guide to Cleaning Up Figma Canvases for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/copilot-standard-meets-pro-features-and-benefits-analysis/"><u>CoPilot Standard Meets Pro: Features & Benefits Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-the-magic-of-dandd-integrating-ai-assisted-creativity/"><u>Enhance the Magic of D&D: Integrating AI-Assisted Creativity</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2013-file-is-not-in-recognizable-format-by-stellar-guide/"><u>Error Solved Excel 2013 file is not in recognizable format</u></a></li>
-<li><a href="https://facebook.techidaily.com/exploring-new-realms-of-digital-connections-on-fb/"><u>Exploring New Realms of Digital Connections on FB</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-minds-discuss-global-ai-trends/"><u>Leading Minds Discuss Global AI Trends</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-text-tech-openais-tailored-language-model-store/"><u>Mastering Text Tech: OpenAI’s Tailored Language Model Store</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/precision-in-persona-development-with-chatgpt-assistance/"><u>Precision in Persona Development with ChatGPT Assistance</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-how-to-fix-the-system-restore-failed-with-code-0x80-error-on-windows-11/"><u>Step-by-Step Solution: How to Fix the 'System Restore Failed with Code 0X80' Error on Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/strategies-for-restoring-functionality-in-case-of-mozilla-thunderbird-not-starting-up/"><u>Strategies for Restoring Functionality in Case of Mozilla Thunderbird Not Starting Up</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-best-tools-for-supercharging-your-browsers-ai-talking-power/"><u>The Best Tools for Supercharging Your Browsers' AI Talking Power</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-role-of-shap-explainer-in-ai-interpretability/"><u>The Role of SHAP Explainer in AI Interpretability</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-15-innovative-tools-perfecting-your-virtual-tone/"><u>Top 15 Innovative Tools Perfecting Your Virtual Tone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-spectrum-surge-tools-for-sharper-web-videos/"><u>[New] 2024 Approved Spectrum Surge Tools for Sharper Web Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-professional-packing-for-personal-filmmaking/"><u>[New] Professional Packing for Personal Filmmaking</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-potential-with-apples-m1-max-clip/"><u>[New] Unlocking Potential with Apple's M1 Max Clip</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-safe-fitness-program-design-for-you/"><u>AI-Powered, Safe Fitness Program Design for You</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-gap-with-nvidias-rtx-conversational-assistant/"><u>Bridging Gap with Nvidia’s RTX Conversational Assistant</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-secure-your-travel-documentation-instant-free-passport-image-generation-tool/"><u>In 2024, Secure Your Travel Documentation Instant FREE Passport Image Generation Tool</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-essential-free-photo-layering-tools-on-iosandroid/"><u>In 2024, Top 10 Essential Free Photo Layering Tools on iOS/Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interrogating-the-webs-blockade-on-gptbot-usage-policies/"><u>Interrogating the Web's Blockade on GPTBot Usage Policies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-portability-and-performance-transport-vast-data-storage-368tb-in-style-using-wd-ultrastar-transporters-cutting-edge-features/"><u>Maximize Portability & Performance - Transport Vast Data Storage (368TB) In Style Using WD Ultrastar Transporter's Cutting-Edge Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/netflix-playback-problems-heres-a-guide-to-fixing-the-title-trouble/"><u>Netflix Playback Problems? Here's a Guide to Fixing the Title Trouble</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-adding-the-q-sports-extension-in-kodi-version-194/"><u>Step-by-Step Guide to Adding the Q Sports Extension in Kodi Version 19.4</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-into-hardware/"><u>Tom's Tech Review: Expert Insights Into Hardware</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-ai-powered-counseling-chats-overcoming-psychological-hurdles/"><u>Top 5 AI-Powered Counseling Chats: Overcoming Psychological Hurdles</u></a></li>
 </ul></div>
 

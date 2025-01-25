@@ -1,7 +1,7 @@
 ---
 title: "Academic Writing Under AI Scrutiny: Are Student Papers Still Relevant?"
-date: 2024-08-29T19:44:08.640Z
-updated: 2024-08-30T19:44:08.640Z
+date: 2025-01-20T20:32:10.383Z
+updated: 2025-01-24T22:55:17.286Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/2a273f712bdefb0197e2ef416580913d5bec78575
 **SCROLL TO CONTINUE WITH CONTENT**
 
  So, has ChatGPT rendered student essays dead? Should educational institutions find a new way to gauge subject competence?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is the Purpose of the Student Essay?
 
@@ -51,13 +55,14 @@ thumbnail: https://thmb.techidaily.com/2a273f712bdefb0197e2ef416580913d5bec78575
 
 ![chatgpt site open on desktop monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chat-gpt-pc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is the basic gist of [how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/): when you ask ChatGPT anything, it doesn't send you to an article or a website. Instead, it goes through all its stored information and recognizes patterns based on what it has learned. From there, it will return an answer it predicts will satisfy your need.
 
  ChatGPT and generative AI generally do not analyze information for you. However, it will deliver results that previous writers have already processed. And, based on your question, it can also give you related results.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## AI as a Learning Tool: Harnessing ChatGPT to Improve Understanding
 
  As we've discussed above, AI is a powerful tool for learning. Moreover, because it understands the nuances of language, it can deliver far more accurate results. For example, we asked Google and ChatGPT the following question:
@@ -70,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/2a273f712bdefb0197e2ef416580913d5bec78575
 
 ![was google search controversial chatgpt question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/was-google-search-controversial-chatgpt-question.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This result shows how AI and ChatGPT can make research faster and easier for students. And although ChatGPT did not reveal its sources, I can use its results as a springboard for further investigation.
 
  In a conversation with my colleagues, one of MUO's writers, [Garling Wu](https://www.makeuseof.com/author/garling-wu/), said this about using ChatGPT in the academe:
@@ -99,28 +101,26 @@ thumbnail: https://thmb.techidaily.com/2a273f712bdefb0197e2ef416580913d5bec78575
 
  So, how can teachers, professors, and educators change the student essay to make it evolve with AI?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Make the Questions More Pointed or Personal
 
  The biggest thing that generative AI like ChatGPT cannot do is write about personal experience. After all, a student's life isn't generally available online, so generative AI cannot predict that student's life.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### Write Essay Questions in the Context of Current Events
 
 ![news and current affairs on a newspaper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/news-and-current-affairs-on-a-newspaper.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The free version of ChatGPT, the most popular generative AI today, is only updated up to September 2021 at the time of writing. So, it would help to ask essay questions relating to events that happened in the past three months.
 
  However, students with access to ChatGPT Plus or GPT-4 get a fully updated version of ChatGPT. So, as part of checking essays, the teacher should also quiz the student on what they wrote.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Students Should Present Their Essays as Reports
 
  Instead of assigning the same topic to all students, educators can give different subjects to students or groups of students. And once they've written or prepared their essay, they could present it to the class.
@@ -128,13 +128,18 @@ DbSchema database designer for all databases, schema design in the team, schema 
  This ensures that the students are truly knowledgeable in their assigned topic. And to further the discussion, the professor should encourage the student audience to ask questions. This will help the reporting student or group and the rest of the class think analytically.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Essays Should Be Written Offline During Class or Exams
 
  If an essay is the best way to determine a student's understanding of a topic, then it should be limited in the classroom during on-paper exams. That way, the student must rely solely on their knowledge to explain a topic.
 
 ![two students essay writing during class](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/essay-writing-during-class.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Essays Can Still Gauge Student Knowledge and Competence
 
@@ -148,14 +153,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  So, has ChatGPT rendered student essays dead? Should educational institutions find a new way to gauge subject competence?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +166,24 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-a-compreayers-guide-to-selecting-a-top-4k-lens/"><u>[New] 2024 Approved A Compreayer's Guide to Selecting a Top 4K Lens</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-art-of-captioning-images-with-text/"><u>[New] In 2024, The Art of Captioning Images with Text</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-mp3-to-video-stream-mp3-to-youtube-in-3-easy-steps/"><u>[Updated] MP3 to Video Stream MP3 to YouTube in 3 Easy Steps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-quick-win-strategies-for-replying-on-discord-platforms/"><u>[Updated] Quick-Win Strategies for Replying on Discord Platforms</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-blueprint-to-dominate-social-platforms/"><u>[Updated] The Blueprint to Dominate Social Platforms</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-virtual-venue-video-archivist/"><u>2024 Approved Virtual Venue Video Archivist</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-dramas-weaving-tales-with-chatgpt-rpgs/"><u>AI-Driven Dramas: Weaving Tales with ChatGPT RPGs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-we-rely-on-chatgpts-honesty/"><u>Can We Rely on ChatGPT's Honesty?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-mixology-mastery-showcase/"><u>ChatGPT's Mixology Mastery Showcase</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-ai-minds-gpt-4-vs-gpt-35-analysis/"><u>Comparing AI Minds: GPT-4 Vs. GPT-3.5 Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/google-news-update-what-you-need-to-know/"><u>Google News Update: What You Need to Know</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-y02t-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo Y02T?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-gionee-f3-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-and-easy-changing-dall-e-webp-images-into-jpegpng/"><u>Quick & Easy: Changing DALL-E WebP Images Into JPEG/PNG</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-journeying-in-chatgpt-inspired-rpgs/"><u>Step by Step: Journeying in ChatGPT-Inspired RPGs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-personalizing-chatgpts-language/"><u>The Art of Personalizing ChatGPT's Language</u></a></li>
+</ul></div>
 

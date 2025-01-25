@@ -1,7 +1,7 @@
 ---
 title: Assessing the Trustworthiness of ChatGPT
-date: 2024-08-29T19:50:39.571Z
-updated: 2024-08-30T19:50:39.571Z
+date: 2025-01-22T23:57:49.730Z
+updated: 2025-01-24T17:52:11.048Z
 tags:
   - chatgpt
   - open-ai
@@ -21,9 +21,17 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where Does ChatGPT Get Its Information From?
 
 ![chatgpt live chat open on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chat-gpt-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In its training period, ChatGPT was fed data from sources across the web, such as government and agency websites, scientific journals, studies, news articles, podcasts, online forums, books, databases, films, documentaries, and social media.
 
@@ -32,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
  Something worth noting here is that ChatGPT has only been fed data that existed before 2021\. This means that the chatbot cannot answer questions relating to recent events. ChatGPT also does not have access to the internet. The data it was fed in training is the only kind it uses to fulfill user prompts.
 
  But is ChatGPT only providing you with the facts, or is some more ambiguous information mixed in with its responses? Additionally, can ChatGPT lie to you?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Does ChatGPT Lie?
 
@@ -61,8 +73,9 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
  In another response in the same conversation, ChatGPT stated that "it's always a good idea to verify any information \[it provides\] with other sources."
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can You Trust ChatGPT?
 
  Because it can provide false information, you clearly [cannot trust ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/) 100% of the time.
@@ -72,22 +85,20 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
  Because of this, it's best to check any information that ChatGPT gives you, especially if you're requesting information about recent events. Double-checking this data by referring to other sources can help you determine if ChatGPT's right in what it is saying and can prevent you from making ill-advised decisions.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Is Useful but Not Always Truthful
 
  Unfortunately, you cannot rely on ChatGPT to provide truthful, unbiased information 100% of the time. This AI-powered chatbot is undeniably helpful and can help you in various ways, but it's always worth verifying whether the information it provides is factual.
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -96,4 +107,22 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discovering-clarity-in-your-craft-our-choice-of-top-12-vlogging-cameras/"><u>[New] In 2024, Discovering Clarity in Your Craft Our Choice of Top 12 Vlogging Cameras</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-youtubes-edge-design-tips-for-compelling-video-thumbnails/"><u>[Updated] 2024 Approved YouTube's Edge Design Tips for Compelling Video Thumbnails</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-learn-to-flip-film-sequences-on-iphone/"><u>[Updated] Learn to Flip Film Sequences on iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-solutions-reducing-it-professional-burnout-and-combatting-alert-overload-with-advanced-tech-strategies/"><u>AI Solutions: Reducing IT Professional Burnout & Combatting Alert Overload with Advanced Tech Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-intelligence-profiles-in-pioneering-ai-developers-featured-by-zdnet/"><u>Building Intelligence: Profiles in Pioneering AI Developers Featured by ZDNet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-your-asmr-empire-key-concepts-and-best-practices/"><u>Building Your ASMR Empire Key Concepts and Best Practices</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-group-administrators-and-the-legal-storm-with-amazon/"><u>Facebook's Group Administrators and the Legal Storm with Amazon</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-teslas-robotaxi-project-news-pricing-forecasts-expected-launch-date-and-potential-specifications/"><u>Inside Tesla's Robotaxi Project - News, Pricing Forecasts, Expected Launch Date and Potential Specifications</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/professional-tech-resume-design-ideas-and-resources-curated-selections-from-zdnet/"><u>Professional Tech Resume Design Ideas and Resources - Curated Selections From ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-science-of-writing-gripping-documentaries-for-2024/"><u>The Science of Writing Gripping Documentaries for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-essential-interpersonal-abilities-needed-in-the-technology-industry-insights-from-zdnet/"><u>Top 5 Essential Interpersonal Abilities Needed in the Technology Industry - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-tech-professionals-are-walking-away-beyond-pool-tables-no-incentive-can-retain-top-talent/"><u>Why Tech Professionals Are Walking Away: Beyond Pool Tables, No Incentive Can Retain Top Talent</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-duolingo-review-engaging-and-simple-language-mastery-with-zero-cost/"><u>ZDNet Duolingo Review: Engaging & Simple Language Mastery with Zero Cost</u></a></li>
+</ul></div>
 

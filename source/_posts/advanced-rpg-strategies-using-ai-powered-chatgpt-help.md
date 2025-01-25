@@ -1,7 +1,7 @@
 ---
 title: Advanced RPG Strategies Using AI-Powered ChatGPT Help
-date: 2024-08-29T19:47:49.157Z
-updated: 2024-08-30T19:47:49.157Z
+date: 2025-01-24T00:23:09.361Z
+updated: 2025-01-24T19:16:35.854Z
 tags:
   - chatgpt
   - open-ai
@@ -56,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
  If you don’t know which VTT to use for your D&D game, we have a list of [the best VTTs for D&D](https://www.makeuseof.com/the-best-virtual-tabletops-vtts-to-play-dd-and-other-rpgs/) you can work with.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Generating Loot Is a Lot Faster
 
  Generating loot might also be difficult to do on the fly as a game master. It’s hard to come up with balanced and relevant loot items for players unless you have years of improvisational experience.
@@ -71,8 +72,9 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 ![Five D&D 5e items generated as loot by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/five-d-d-5e-items-generated-as-loot-by-chatgpt.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Helps With Rule Lawyering
 
  Even the most experienced D&D game masters don’t know all the game's rules. There are so many classes, subclasses, spells, abilities, and items that it might be impossible to internalize all the rules. You can use ChatGPT to search for and settle debates on rules that pop up while playing a game.
@@ -84,8 +86,9 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
  In the image above, ChatGPT resolved a scenario where the players had to find a handprint stain in a burgled room as an Investigation roll, not a Perception roll. Additionally, it also gave its reasons why, which could be a great explanation for players who would like to argue.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Calculations and Simulating Results
 
  Game masters are tasked with a lot during the course of the game. One of these things is simulating physics and running calculations to ensure that things happen as they would in a realistic scenario.
@@ -96,11 +99,12 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 
 ![ChatGPT calculating the distance an arrow has to travel to hit its target](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-calculating-the-distance-an-arrow-has-to-travel-to-hit-its-target.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It’s still worth noting that sometimes the AI may generate wrong results, as that’s one of the [issues with OpenAI’s ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/). You should still use your discretion as a game master and a human to make the right calls.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## For More Immersive NPC Dialogues
 
  Some games can get pretty immersive, and as a game master, you can use ChatGPT to keep up. Players can get lost in character and begin to ask very specific questions to NPCs.
@@ -110,11 +114,9 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 ![ChatGPT answering the question on how a bard should string their lute](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-answering-the-question-on-how-a-bard-should-string-their-lute.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ## There’s More AI Can Do in Your Games
 
  We only listed here all the things ChatGPT can do. But there are still other free AI products you can use to enhance your games. There are AIs that can generate images that you can use for scenes and characters.
@@ -131,8 +133,6 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +140,26 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-ultimate-selection-top-voice-recorders-for-macos/"><u>[New] 2024 Approved The Ultimate Selection Top Voice Recorders for MacOS</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/istorical-wisdom-on-youtube-for-students-for-2024/"><u>[New] Historical Wisdom on YouTube for Students for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-comprehensive-guide-unraveling-google-podcasts-app/"><u>[New] In 2024, Comprehensive Guide Unraveling Google Podcasts App</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-top-strategies-for-zoom-use-with-a-chrome-os-device/"><u>[Updated] In 2024, Top Strategies for Zoom Use with a Chrome OS Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/challenging-ai-with-poetry-how-a-classic-sonnet-outperformed-chatgpt-in-creative-trial-by-zdnet/"><u>Challenging AI with Poetry: How a Classic Sonnet Outperformed ChatGPT in Creative Trial by ZDNet</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-poco-f5-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Poco F5 Pro 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/dissecting-metaverse-and-multimetase-what-sets-them-apart-for-2024/"><u>Dissecting Metaverse and Multimetase What Sets Them Apart for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/free-and-reliable-tp-link-drivers-get-them-today-on-windows/"><u>Free & Reliable TP Link Drivers - Get Them Today on Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/instasong-rights-guidelines/"><u>InstaSong Rights Guidelines</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-lenovos-mac-studio-alternative-a-superior-windows-option-revealed/"><u>Introducing Lenovo's Mac Studio Alternative: A Superior Windows Option Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/on-deck-unbeatable-offers-on-arlo-pro-5s-your-dream-security-system-awaits/"><u>On Deck! Unbeatable Offers on Arlo Pro 5S – Your Dream Security System Awaits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-sprinkler-controllers-reviewed-the-leading-choices-for-your-garden-in-2s22-comprehensive-guide-on-zdnet/"><u>Smart Sprinkler Controllers Reviewed: The Leading Choices for Your Garden in 2S22 | Comprehensive Guide on ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-high-performance-coolers-reviewed-insights-from-zdnet/"><u>Top 5 High-Performance Coolers Reviewed - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-must-have-party-essentials-for-unforgettable-outdoor-celebrations-insights-from-zdnet/"><u>Top 6 Must-Have Party Essentials for Unforgettable Outdoor Celebrations - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-entry-level-portable-power-bank-a-comprehensive-review-of-ecoflow-river-3-highly-recommended-by-tech-expert-on-zdnet/"><u>Top Entry-Level Portable Power Bank: A Comprehensive Review of EcoFlow River 지스 3 - Highly Recommended by Tech Expert on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-video-doorbells-on-the-market-a-comprehensive-review-by-zdnet/"><u>Top Rated Video Doorbells on the Market - A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-review-for-beginners-unpacking-the-capabilities-of-the-newly-tested-ecoflow-river-ebook/"><u>Top Review for Beginners: Unpacking the Capabilities of the Newly Tested EcoFlow River Ebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-portable-solar-generators-for-outdoor-adventures-comprehensive-testing-and-reviews-by-tech-gurus/"><u>Top-Rated Portable Solar Generators for Outdoor Adventures: Comprehensive Testing & Reviews by Tech Gurus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-video-doorbells-expert-review-and-buyers-guide-by-techradar/"><u>Top-Rated Video Doorbells : Expert Review & Buyer's Guide by TechRadar</u></a></li>
+</ul></div>
 

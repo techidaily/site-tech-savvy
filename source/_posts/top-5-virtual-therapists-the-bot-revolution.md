@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Virtual Therapists: The Bot Revolution"
-date: 2024-08-29T19:47:39.191Z
-updated: 2024-08-30T19:47:39.191Z
+date: 2025-01-21T16:41:27.583Z
+updated: 2025-01-24T23:03:06.013Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/46486d3cf08c5d74abeb420acca02a4bdb0158ce8
 
 ![SommerAI is trained on CBT and SFBT models of psychological treatment to provide mental health through a chat bot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/best-online-ai-chatgpt-chat-bot-therapists-mental-health-sommer-ai.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Sommer is a ChatGPT-based app that uses two evidence-backed and methodical types of mental health treatment, CBT and SFBT. [Cognitive behavioral therapy (CBT)](https://www.makeuseof.com/cbt-apps-improve-mental-health/) focuses on identifying and overcoming harmful thought patterns by analyzing past events. Solution-focused Brief Therapy (SFBT) is a short-term, goal-oriented therapeutic process where instead of identifying causes for the current problem, the objective is to find solutions in actionable and practical ways. Sommer uses NASA's psychological research on these two methods to create a trained ChatGPT-like therapist.
 
  After logging in with your Google account, you'll have to pick which type of therapy you want to try. Then, start a new chat and answer the questions that SommerAI asks. The more detailed and communicative you are, the better the bot responds. Your chats are saved in your account, so when you revisit it later, you can choose to start a new chat for a new topic or revisit that topic and take the conversation further; in the latter, the AI should perform better as it has more data from the past chat.
@@ -44,15 +48,13 @@ thumbnail: https://thmb.techidaily.com/46486d3cf08c5d74abeb420acca02a4bdb0158ce8
  Apart from these two main chat therapy bots, SommerAI also offers **Healthy Nuggets**. These small actions, habits, or exercises will boost your mental health.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Mindsum Bot
 
 ![Mindsum AI is a chat therapist tool to find out more information about mental health theories and practices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/best-online-ai-chatgpt-chat-bot-therapists-mental-health-mindsum.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  Mindsum is a UK-based non-profit organization aimed at distributing mental health information and tools through technology. It has recently created an AI chatbot called Mindsum Bot, which can give anyone the correct information about any mental health questions and guide them in seeking professional help.
 
  Mindsum says the bot was built on GPT technology and layered with their own AI models. It is trained on three evidence-based clinically-tested therapeutic practices: CBT, IPT, and DBT. Interpersonal Therapy (IPT) is a short-term depression treatment focusing on social interactions. Dialectical Behavior Therapy (DBT) is a modified type of CBT that teaches how to regulate emotions, develop coping mechanisms, and be more mindful.
@@ -60,25 +62,17 @@ thumbnail: https://thmb.techidaily.com/46486d3cf08c5d74abeb420acca02a4bdb0158ce8
  This training and backing of an established mental health organization makes Mindsum Bot much more reliable than other therapy chatbots. It's not restricted to UK users, as anyone worldwide can use it. The makers recommend using it as a place to vent your thoughts when you don't have someone to listen to them, and Mindsum Bot will even help you identify the right time to seek professional advice if needed.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. JungGPT
 
 ![JungGPT is an empathetic therapist chatbot that feels like you're talking to a friend](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/best-online-ai-chatgpt-chat-bot-therapists-mental-health-junggpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Of all the therapist chatbots we tested for this article, JungGPT felt the most natural. It uses casual language and reframes what you've written while offering empathy and asking a question that could take you to the next step in resolving the situation. The whole process makes it feel like you're talking to a friend.
 
  JungGPT has been trained on several texts and a language model that facilitates emotional understanding. The makers at Ventura UX are quick to point this out. "While JungGPT does have a 'form' of empathy, it does not feel empathy itself, but understands it based on its training to do so and through analyzing text in different context."
@@ -89,9 +83,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Lotus is a therapist chatbot that also includes a journal and a goal-tracker, to save notes and suggestions from previous chats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/best-online-ai-chatgpt-chat-bot-therapists-mental-health-lotus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Lotus is one of the quickest therapist chatbot apps you can use. Head to the web app, and you're ready to start chatting. The makers say, "Unlike other language models, Lotus has been meticulously trained on millions of user conversations to enhance its effectiveness and provide tailored solutions for individuals seeking support."
 
  While you don't need to register for an account to use Lotus, it's best that you do. With that account, you get a built-in journal and goals tracker. When you're conversing with the chatbot, Lotus will suggest concrete steps to tackle the issues you are having. It will then prompt you to add these as small goals or to add the complete response to your journal.
@@ -99,8 +90,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  This way, you can revisit Lotus and quickly go through the main parts of the previous conversation. It also serves as a quick reminder of your goals, and Lotus will use those in any follow-up conversations you have.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AI Helps But Isn't a Replacement for Therapy
 
  While we stated this at the start of this article, it's worth reiterating that these AI chatbots cannot substitute for a qualified professional mental health counselor. All the above apps explicitly state that and encourage you to seek help if you're dealing with severe mental health problems. These ChatGPT apps are better suited for instant, short-term, or minor issues and resolutions.
@@ -115,8 +107,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +114,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-quick-vimeo-transformation-tips-easy-to-create-gifs/"><u>[Updated] In 2024, Quick Vimeo Transformation Tips Easy-to-Create GIFs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/5-best-bandicam-mac-alternatives/"><u>5 Best Bandicam Mac Alternatives</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-y36-lock-screen-password-by-drfone-android/"><u>How To Change Vivo Y36 Lock Screen Password?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/problemlos-samsung-datenwanderung-losungen-fur-unerwartete-fehler/"><u>Problemlos Samsung-Datenwanderung - Lösungen Für Unerwartete Fehler</u></a></li>
+<li><a href="https://article-posts.techidaily.com/revolutionize-your-earning-game-with-top-13-strategies-for-novices-on-reddit/"><u>Revolutionize Your Earning Game with Top 13 Strategies for Novices on Reddit</u></a></li>
+<li><a href="https://article-files.techidaily.com/stitch-together-photographs-the-montage-masterclass-for-2024/"><u>Stitch Together Photographs The Montage Masterclass for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-highest-quality-electric-leaf-blowers/"><u>Ultimate Guide to the Highest Quality Electric Leaf Blowers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unforeseen-delight-in-depth-analysis-of-the-ring-spotlight-cam-pros-impressive-features-insights-from-zdnet/"><u>Unforeseen Delight: In-Depth Analysis of the Ring Spotlight Cam Pro's Impressive Features | Insights From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-the-power-of-an-exceptionally-durable-android-smartphone-a-tale-of-heat-resistance-vs-your-common-iphone/"><u>Unleash the Power of an Exceptionally Durable Android Smartphone: A Tale of Heat Resistance Vs. Your Common iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/winters-essential-toolkit-your-complete-guide-to-selecting-and-purchasing-the-perfect-snowblower-expert-tips-and-reviews/"><u>Winter's Essential Toolkit: Your Complete Guide to Selecting and Purchasing the Perfect Snowblower - Expert Tips & Reviews</u></a></li>
+</ul></div>
 

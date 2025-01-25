@@ -1,7 +1,7 @@
 ---
 title: "Responsible Caretaking: Integrating GPT Into Therapy"
-date: 2025-01-11T17:01:17.095Z
-updated: 2025-01-18T16:04:42.844Z
+date: 2025-01-19T23:44:57.591Z
+updated: 2025-01-24T17:07:39.271Z
 tags:
   - chatgpt
   - open-ai
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
  No, it doesn't have a framed degree hanging on its wall or years of expensive training from an Ivy League university. However, it can mimic therapeutic techniques based on your prompts. And even though it's not a real person, [ChatGPT can provide reliable health information](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/), if you know how to use it correctly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The Art of Prompting for Mental Health Information
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 ![Screenshot of ChatGPT giving advice for managing stress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-08-12-am.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, to mimic a trauma-informed counseling session, you might describe your situation followed by a question such as, "How can I approach managing stress with a trauma-informed perspective?"
@@ -57,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
  Here's the best part: you're not limited to one persona. You can switch between a Stoic philosopher, a Zen master, or a modern psychologist, depending on your mood. It's like having a team of therapists at your fingertips, minus the outrageous costs.
 
  Remember though, your AI pal is not psychic. It won't remember past conversations or know your personal history unless you tell it. So, the more details you can provide ahead of your question, the more tailored ChatGPT's response will be. Don't shy away from providing some context with your prompts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Advanced Chat GPT Training
 
@@ -70,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 
 ![Screenshot of ChatGPT giving Stoic advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-06-50-am.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By providing this additional context, you're helping ChatGPT generate more specific, tailored advice. Or, let's say you're struggling with a personal relationship. You could ask, "I had an argument with my friend because of a misunderstanding, and it's causing me a lot of distress. What would a therapist suggest I do to resolve this situation?"
 
  By layering your prompts in this way, you're training ChatGPT to provide more specific, relevant advice. You can also supercharge your prompt by adding something like, "Ask any follow-up questions to understand the situation better before providing a response". This will result in a response that more closely approximates a conversation with a mental health coach.
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 ![Stoic advice provided by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-04-47-am.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting Healthy Boundaries With Your AI
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
  Furthermore, if you're dealing with complex issues or deep-seated traumas, a trained human therapist will be able to provide a level of understanding, empathy, and care that ChatGPT can't. It's okay to need human help. It's okay to seek it, and it's okay to accept it. No algorithm can replace the nuanced understanding, the shared experiences, and the simple, comforting presence of another human being.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using ChatGPT as a Mental Health Coach
@@ -131,22 +131,24 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-simplify-your-design-process-how-to-remove-background-in-figma/"><u>[New] 2024 Approved Simplify Your Design Process How To Remove Background in Figma</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-wired-versus-broadcasted-analyzing-wirecast-and-obs/"><u>[Updated] 2024 Approved Wired versus Broadcasted Analyzing Wirecast and OBS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/alert-beware-of-fake-chatgpt-windows-app/"><u>Alert: Beware Of Fake 'ChatGPT Windows App'</u></a></li>
-<li><a href="https://fox-http.techidaily.com/best-pfr-rate-to-elevate-sluggish-video-flow/"><u>Best PFR Rate to Elevate Sluggish Video Flow</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-in-class-ai-creative-workshops/"><u>Best-in-Class AI Creative Workshops</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/canvas-of-the-code-creating-ai-art-through-chatgpt/"><u>Canvas of the Code: Creating AI Art Through ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-online-interactions-gpt-3-beta-integration/"><u>Elevating Online Interactions: GPT-3 Beta Integration</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/giggle-geniuses-selecting-superior-memery-apps/"><u>Giggle Geniuses Selecting Superior Memery Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-preeminent-free-websites-for-aspiring-vector-designers/"><u>In 2024, Guide to Preeminent Free Websites for Aspiring Vector Designers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-hiding-while-livestreaming-on-instagram/"><u>In 2024, The Art of Hiding While Livestreaming on Instagram</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/investigating-any-flaws-in-chatgpts-shield/"><u>Investigating Any Flaws in ChatGPT’s Shield</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-the-landscape-of-fb-med-ad-optimization/"><u>Navigating the Landscape of FB Med Ad Optimization</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/originality-in-conversational-ai-systems/"><u>Originality in Conversational AI Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/smooth-gaming-alert-eradicating-delays-in-fortnite-once-and-for-all/"><u>Smooth Gaming Alert: Eradicating Delays in Fortnite Once and For All!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/swift-solutions-to-overcome-streaming-problems-on-gpt/"><u>Swift Solutions to Overcome Streaming Problems on GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-quest-for-authenticity-differentiating-fake-from-genuine-ai-outputs/"><u>The Quest for Authenticity: Differentiating Fake From Genuine AI Outputs</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/the-ultimate-guide-to-vertical-video-editing-on-mobile-devices-for-2024/"><u>The Ultimate Guide to Vertical Video Editing on Mobile Devices for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/21-vegas-pros-impact-on-sports-betting-analysis-for-2024/"><u>'21 Vegas Pro's Impact on Sports Betting Analysis for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-abletons-pathway-to-harmonious-declines-for-2024/"><u>[New] Ableton's Pathway to Harmonious Declines for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exclusive-game-recordings-tools/"><u>[Updated] Exclusive Game Recordings Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-crafting-wide-angle-photos-with-a-fisheye-effect/"><u>[Updated] In 2024, Crafting Wide-Angle Photos with a Fisheye Effect</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-secrets-to-the-ultimate-5-free-pinterest-video-loader/"><u>[Updated] Secrets to the Ultimate 5-Free Pinterest Video Loader</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-ai-driven-text-creation-and-enterprise-usage/"><u>Demystifying AI-Driven Text Creation and Enterprise Usage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-iphone-16-against-iphone-cuarto-de-siglo-considerations-for-upgrading-apples-base-model-analysis-by-zdnet/"><u>Evaluating iPhone 16 Against iPhone Cuarto De Siglo, Considerations for Upgrading Apple's Base Model – Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-conversation-to-connection-claudians-vs-gpt-the-top-4-enhancements-explored/"><u>From Conversation to Connection: Claudians vs GPT - The Top 4 Enhancements Explored</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-mastering-the-basics-of-free-ipod-video-converter-factory-software/"><u>Guide: Mastering the Basics of Free iPod Video Converter Factory Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-tecno-camon-20-premier-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Tecno Camon 20 Premier 5G</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-device-to-inshot-a-guide-to-audio-integration/"><u>In 2024, From Device to InShot A Guide to Audio Integration</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-game-magic-discover-4-ways-to-preserve-your-gaming-sessions/"><u>In-Game Magic Discover 4 Ways to Preserve Your Gaming Sessions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m3-vs-m1-macbook-pro-is-it-time-to-switch-to-apples-newest-innovation-a-comprehebate-for-tech-enthusiasts/"><u>M3 vs M1 MacBook Pro: Is It Time to Switch to Apple's Newest Innovation? A Comprehebate for Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-resilient-chatgpt-sign-in/"><u>Mastering the Art of Resilient ChatGPT Sign-In</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/should-you-use-a-local-llm-9-pros-and-cons/"><u>Should You Use a Local LLM? 9 Pros and Cons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-tech-titans-duel-googles-palm-2-and-openais-gpt-4/"><u>The Tech Titans Duel: Google's PaLM 2 & OpenAI's GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-36-unbeatable-prime-day-offers-on-apples-exclusive-deals-you-cant-miss/"><u>Top 36 Unbeatable Prime Day Offers on Apples - Exclusive Deals You Can't Miss!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-download-vn-video-editor-for-mac-or-explore-mac-friendly-alternatives-for-2024/"><u>Updated Download VN Video Editor for Mac or Explore Mac-Friendly Alternatives for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/who-controls-copyright-to-computational-art/"><u>Who Controls Copyright to Computational Art?</u></a></li>
 </ul></div>
 

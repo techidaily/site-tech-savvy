@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential: ChatGPT's 6 Innovative Uses in Analytics"
-date: 2024-09-02T20:31:15.536Z
-updated: 2024-09-03T20:31:15.536Z
+date: 2025-01-18T16:35:16.117Z
+updated: 2025-01-24T16:45:03.297Z
 tags:
   - chatgpt
   - open-ai
@@ -29,11 +29,19 @@ thumbnail: https://thmb.techidaily.com/29a96f3bcc3b841b4f8961d6c829c37b0d1cbb55b
 
 ![The response from ChatGPT on a prompt that ask it how to segment customer data.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image3-v1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Suppose you want to write a script to automate a business process. You can ask ChatGPT for ideas on how to get started. All you have to do is ask it for a prompt via the chat and wait for its response. You can ask further questions or alternative viewpoints from the response.
 
 > **Case Study:** I have a business problem. I want to [create a dashboard in Excel](https://www.makeuseof.com/create-interactive-excel-dashboard/) to segment and track the behavior of my customer. I currently run a coffee shop, and a few make orders via my e-commerce website.
 >
 > What kind of information should I collect from my customers? What key performance indicators should I measure? Which tool and type of visualization should I use? Also, what kind of cohort analysis, and what will you recommend I incorporate for my user segmentation?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Fixing Bugs and Troubleshooting
 
@@ -57,11 +65,16 @@ CALCULATE(
 
 ![A prompt from ChatGPT that displays the explaination of a code block](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image6-v1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT proves helpful when attempting to understand a long or complex piece of code. To comprehend the code in these situations, copy and paste the code you're attempting to understand and request a response by saying, "Explain this code."
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. To Write, Edit and Generate Codes, Formula, and Syntax
 
  In the same way that ChatGPT may be used to interpret complex coding. You can request that it create the code or syntax for you.
@@ -88,23 +101,18 @@ else:
 
 ![A prompt that display clearly written code by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image4-v1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Learning New Skills
 
  We have an article on how you can [add a static date and time in Google Sheets](https://www.makeuseof.com/add-static-date-time-google-sheets/). You can use ChatGPT to learn more about this topic or how to do something similar in a different application. For example, how to add a static date and time in Tableau.
 
 ![A prompt that show how to add a static date and time in Tableau.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image5-v1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By writing a prompt, you can learn about new features and skills, or how to use a specific function in your favorite analytical tool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## 6\. Document Your Codes
 
  Codes that have comments are easier to read. But you can admit that everyone finds the process boring and monotonous. ChatGPT can perform this task effortlessly and with great accuracy and efficiency.
@@ -133,8 +141,6 @@ else:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,8 +163,6 @@ else:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,8 +178,6 @@ else:
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -259,16 +261,6 @@ ORDER BY e.employee_id;`
 
 ![A prompt reply from ChatGPT that show a fully commented SQL code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image2-v1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Data Analysts Can Use ChatGPT in Their Work
 
  Powerful AI solutions like ChatGPT boost everyone's productivity, even data analysts. Using ChatGPT's natural language processing capabilities and asking the right prompt, data analysts can quickly and accurately get ideas and insight into their tasks.
@@ -285,8 +277,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -294,4 +284,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beat-boulevard-optimal-dj-video-downloads/"><u>[New] 2024 Approved Beat Boulevard Optimal DJ Video Downloads</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-ultimate-instructions-for-prolonged-iphone-shots-for-2024/"><u>[New] The Ultimate Instructions for Prolonged iPhone Shots for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-fb-video-direction-whats-the-right-angle/"><u>[Updated] 2024 Approved FB Video Direction What's the Right Angle?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-capturing-emotion-ensuring-authenticity-in-your-youtube-videos-for-2024/"><u>[Updated] Capturing Emotion Ensuring Authenticity in Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-every-degree-top-9-techniques-for-vr-filmmaking/"><u>[Updated] Explore Every Degree Top 9 Techniques for VR Filmmaking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbots-method-for-replicating-natural-speech/"><u>Chatbot's Method for Replicating Natural Speech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-pro-vs-chatgpt-plus-a-compreran-analysis/"><u>Claude Pro Vs. ChatGPT Plus: A Compreran Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-test-results-the-best-alternative-to-apple-and-tiles-wallet-airtags-revealed-on-zdnet/"><u>Exclusive Test Results: The Best Alternative to Apple and Tile's Wallet AirTags Revealed on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-ineligible-topics-in-language-models/"><u>Exploring the Ineligible Topics in Language Models</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-build-your-wealth-on-youtube-a-guide-to-creating-content-without-ads/"><u>In 2024, Build Your Wealth on YouTube A Guide to Creating Content Without Ads</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-htc-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your HTC Device SIM</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/jalan-lurus-dengan-membengok-fotografi-dalam-onedrive-5-langkah-kritis/"><u>Jalan Lurus Dengan Membengok Fotografi Dalam OneDrive: 5 Langkah Kritis.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-edge-ai-hardware-tech-the-futures-five-titans/"><u>Leading-Edge AI Hardware Tech: The Future's Five Titans</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/living-lightly-top-9-strategies-from-chatgpt-wisdom/"><u>Living Lightly: Top 9 Strategies From ChatGPT Wisdom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-boundaries-top-8-innovations-blurring-reality/"><u>Redefining Boundaries: Top 8 Innovations Blurring Reality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-best-ways-to-refine-your-chatgpt-interactions/"><u>Unveiling the Best Ways to Refine Your ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-your-chatgpt-with-todays-gpt-4-features/"><u>Upgrade Your ChatGPT with Today's GPT-4 Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-a-vpn-for-secure-gpt-dialogues/"><u>Utilizing a VPN for Secure GPT Dialogues?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeo-revenue-rise-how-to-harness-the-power-of-ads-for-2024/"><u>Vimeo Revenue Rise How to Harness the Power of Ads for 2024</u></a></li>
+</ul></div>
 

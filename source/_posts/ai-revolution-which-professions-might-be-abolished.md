@@ -1,7 +1,7 @@
 ---
 title: "AI Revolution: Which Professions Might Be Abolished?"
-date: 2024-08-29T19:43:41.658Z
-updated: 2024-08-30T19:43:41.658Z
+date: 2025-01-20T17:04:36.142Z
+updated: 2025-01-24T22:16:30.775Z
 tags:
   - chatgpt
   - open-ai
@@ -21,9 +21,17 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is ChatGPT?
 
 ![artificial intelligence brain connected to human being](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-4389372_1920-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [ChatGPT is a chatbot](http://www.makeuseof.com/how-does-chatgpt-work/) that uses the GPT-3 (Generative Pretrained Transformer 3) framework, a highly advanced artificial intelligence (AI) model used for language processing developed by OpenAI. ChatGPT has more than 175 billion parameters, making it among the largest and most powerful language models available, and the model was trained using a massive amount of data from the internet and other sources.
 
@@ -40,15 +48,17 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
  These examples might make you think there’s [no limit to what ChatGPT can do](https://www.makeuseof.com/openai-lost-control-chatgpt/). However, that’s not an accurate assumption.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Will ChatGPT Replace Programmers?
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Whenever a new AI tool emerges on the tech scene, many people understandably wonder whether that innovation might get so advanced that it makes their jobs obsolete. Even people such as programmers, who have highly specialized skills, might face that worry.
 
  However, [ChatGPT’s limitations](http://www.makeuseof.com/openai-chatgpt-biggest-probelms/) make it incapable of entirely taking over programmers’ work. The ChatGPT site contains a sample interaction of someone using the tool to debug code, though.
@@ -63,9 +73,6 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
 
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some [criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/), ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Will ChatGPT Replace Other Jobs?
 
  You might wonder if [content writers should worry about ChatGPT](http://www.makeuseof.com/why-chatgpt-wont-take-writing-job/) taking their jobs. Fortunately, those professionals need not fear. ChatGPT responses are often repetitive and sometimes outdated, making them less valuable.
@@ -77,22 +84,20 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
  Elsewhere, people are explicitly [formatting questions to make ChatGPT ignore](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) its programming. That practice could spread misinformation. The question-and-answer site Stack Overflow also initiated a temporary ban on ChatGPT. Staff members explained the influx of ChatGPT-generated responses swamped content moderators who need some level of subject matter expertise to verify the accuracy, and [spotting generative AI written text](http://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) is next to impossible.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Deserves Caution
 
  The examples above and elsewhere highlight how ChatGPT might gradually change how employees work, but it won’t take over entire jobs. Instead, more people will start using ChatGPT to guide applicable parts of their workflows. If you’re thinking about using the chatbot for business, school, or pleasure, do so carefully and never assume you got wholly accurate answers.
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -101,4 +106,21 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-affordable-recorders-roundup-best-games-software-for-2024/"><u>[New] Affordable Recorders' Roundup Best Games Software for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-webcam-ingenuity-for-productivity-boost/"><u>[New] Webcam Ingenuity for Productivity Boost</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-navigate-nature-androids-animated-adventure-series/"><u>[Updated] 2024 Approved Navigate Nature Android’s Animated Adventure Series</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analyzing-the-implications-of-free-access-to-information-in-modern-digital-libraries-the-case-of-the-internet/"><u>Analyzing the Implications of Free Access to Information in Modern Digital Libraries: The Case of the Internet</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/break-into-the-heart-of-a-tiktok-live-session/"><u>Break Into the Heart of a TikTok Live Session</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-fitness-watch-examined-the-fitbit-versa-lite-review/"><u>Budget-Friendly Fitness Watch Examined - The Fitbit Versa Lite Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-remote-opportunities-6-innovative-applications/"><u>ChatGPT & Remote Opportunities: 6 Innovative Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversational-gold-how-to-supercharge-chatgpts-interaction/"><u>Conversational Gold: How to Supercharge ChatGPT's Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-capabilities-of-claude-2/"><u>Decoding the Capabilities of Claude 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-onlyoffice-with-chatgpt-for-seamless-collaboration/"><u>Enhancing ONLYOFFICE with ChatGPT for Seamless Collaboration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-ai-creativity-results-revealed-from-a-unified-challenge-to-three-bots/"><u>Evaluating AI Creativity: Results Revealed From a Unified Challenge to Three Bots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-disruption-to-dominance-6-strategies-for-ai-ready-professionals/"><u>From Disruption to Dominance: 6 Strategies for AI-Ready Professionals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/google-pixel-watch-3-exclusive-breaking-down-rumors-on-pricing-structure-release-windows-and-tech-specs/"><u>Google Pixel Watch 3 Exclusive – Breaking Down Rumors on Pricing Structure, Release Windows, and Tech Specs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-optimizing-video-content-with-perfect-youtube-titles/"><u>In 2024, Optimizing Video Content with Perfect YouTube Titles</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "GPT-Powered Gameplay: The D&D Advantage Guide"
-date: 2024-08-29T19:48:45.696Z
-updated: 2024-08-30T19:48:45.696Z
+date: 2025-01-20T22:19:22.500Z
+updated: 2025-01-24T16:38:44.581Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 ![ChatGPT answering question on the history of Sky City](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-answering-question-on-the-history-of-sky-city.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, ChatGPT isn’t very good with original creativity and won’t be good with naming things. You should come up with names yourself if you wish for more original names.
 
 ## ChatGPT Is Good at Descriptions
@@ -56,9 +60,9 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  If you don’t know which VTT to use for your D&D game, we have a list of [the best VTTs for D&D](https://www.makeuseof.com/the-best-virtual-tabletops-vtts-to-play-dd-and-other-rpgs/) you can work with.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Generating Loot Is a Lot Faster
 
  Generating loot might also be difficult to do on the fly as a game master. It’s hard to come up with balanced and relevant loot items for players unless you have years of improvisational experience.
@@ -72,8 +76,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Five D&D 5e items generated as loot by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/five-d-d-5e-items-generated-as-loot-by-chatgpt.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Helps With Rule Lawyering
 
  Even the most experienced D&D game masters don’t know all the game's rules. There are so many classes, subclasses, spells, abilities, and items that it might be impossible to internalize all the rules. You can use ChatGPT to search for and settle debates on rules that pop up while playing a game.
@@ -83,8 +88,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![ChatGPT suggesting to use an Investigation roll for a D&D scenario](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-suggesting-to-use-an-investigation-roll-for-a-d-d-scenario.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the image above, ChatGPT resolved a scenario where the players had to find a handprint stain in a burgled room as an Investigation roll, not a Perception roll. Additionally, it also gave its reasons why, which could be a great explanation for players who would like to argue.
 
 ## Calculations and Simulating Results
@@ -97,10 +103,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![ChatGPT calculating the distance an arrow has to travel to hit its target](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-calculating-the-distance-an-arrow-has-to-travel-to-hit-its-target.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  It’s still worth noting that sometimes the AI may generate wrong results, as that’s one of the [issues with OpenAI’s ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/). You should still use your discretion as a game master and a human to make the right calls.
 
 ## For More Immersive NPC Dialogues
@@ -112,11 +114,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![ChatGPT answering the question on how a bard should string their lute](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-answering-the-question-on-how-a-bard-should-string-their-lute.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
+
 ## There’s More AI Can Do in Your Games
 
  We only listed here all the things ChatGPT can do. But there are still other free AI products you can use to enhance your games. There are AIs that can generate images that you can use for scenes and characters.
@@ -133,8 +133,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +140,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-behind-the-scenes-windows-pc-essentials-for-flawless-live-tv-screen-capture/"><u>[New] Behind the Scenes Windows PC Essentials for Flawless Live TV Screen Capture</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-digital-painting-choosing-between-srgb-and-rgb/"><u>[New] Digital Painting Choosing Between Srgb & Rgb</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gourmet-gurus-who-you-should-subscribe-to-for-2024/"><u>[New] Gourmet Gurus Who You Should Subscribe To for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-monthly-earnings-from-youtube-as-a-content-creator/"><u>[New] In 2024, Monthly Earnings From YouTube as a Content Creator</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-iphone-timelapses-efficient-recording-tips/"><u>2024 Approved Master iPhone Timelapses Efficient Recording Tips</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/exploring-the-reasons-behind-your-computers-intermittent-freezing-and-crashing-a-guide-by-yl-software-experts/"><u>Exploring the Reasons Behind Your Computer's Intermittent Freezing and Crashing: A Guide by YL Software Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-enabling-safaris-default-tab-opening-setting-tips-from-zdnet/"><u>Guide: Enabling Safari's Default Tab Opening Setting – Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-setting-up-your-chromebook-with-a-wireless-network-printer-easy-steps-from-zdnet/"><u>Guide: Setting Up Your Chromebook with a Wireless Network Printer – Easy Steps From ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-safeguard-personal-information-expert-tips-for-securing-browsing-activity-as-recommended-by-zdnet/"><u>How to Safeguard Personal Information: Expert Tips for Securing Browsing Activity, as Recommended by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-hybrid-work-pitfalls-proven-techniques-for-sustaining-effective-remote-and-office-integration-expert-advice-from-zdnet/"><u>Navigating Hybrid Work Pitfalls: Proven Techniques for Sustaining Effective Remote and Office Integration | Expert Advice From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-shift-strategies-for-maintaining-employee-engagement-in-hybrid-and-in-office-environments/"><u>Navigating the Shift: Strategies for Maintaining Employee Engagement in Hybrid and In-Office Environments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalizing-maps-customize-your-journey-using-famous-icons-like-master-chief-and-boy-george-on-waze/"><u>Personalizing Maps: Customize Your Journey Using Famous Icons Like Master Chief & Boy George on Waze</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-comprehensible-guide-to-game-stability-solve-your-10-main-issues/"><u>The Comprehensible Guide to Game Stability: Solve Your 10 Main Issues</u></a></li>
+</ul></div>
 

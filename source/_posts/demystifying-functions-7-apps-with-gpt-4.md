@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Functions: 7 Apps with GPT-4"
-date: 2025-01-15T16:59:17.096Z
-updated: 2025-01-18T16:19:27.481Z
+date: 2025-01-19T19:49:20.803Z
+updated: 2025-01-24T16:31:20.344Z
 tags:
   - chatgpt
   - open-ai
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/410b1a4d385c6e4b30f8c2bafd9b2a73f332bf695
 ![Picture of Duolingo Max App Logo-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-of-duolingo-max-app-logo-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
@@ -55,6 +55,10 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
 
 ![Picture Introducing Virtual Volunteer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-introducing-virtual-volunteer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The use of AI in our lives has been the source of many heated discussions. However, there are some areas where there can be little argument that AI has a positive effect. Be My Eyes is one such example. The app is designed to make the world more accessible for visually impaired people.
 
 ### How Does Be My Eyes Use GPT-4?
@@ -68,6 +72,10 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
 ## 3\. Khan Academy
 
 ![Screenshot of Khan Academy Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-khan-academy-homepage.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the topic of worthwhile causes, another early adopter of GPT-4 is Khan Academy, a [free online course platform](https://www.khanacademy.org/signup). This non-profit organization's mission statement is to offer free, world-class education to anyone.
 
@@ -94,25 +102,17 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
 
  The Khan Academy app is free across all platforms; students and teachers can sign up online to join [Khan Academy](https://www.khanacademy.org/signup).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Stripe
 
 ![Screenshot of Stripe Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-stripe-homepage.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Stripe is a payment processing platform that allows all types of businesses to accept and send payments online and provides other business management tools.
 
  OpenAI—the brains behind the brains of GPT-4—is already in collaboration with Stripe. Now, Stripe is integrating GPT-4 into its platform. The company already used GPT-3 for simple tasks, but integrating GPT-4 means AI will play a bigger role in the company's processes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How Stripe Intends to Use GPT-4
 
@@ -130,15 +130,15 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
 
 ![Screenshot of ChatSonic homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatsonic-homepage.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Image Credit: ChatSonic
 
  ChatSonic can be described as a Swiss army knife for business owners, freelancers, writers, content creators, and anyone else really. The list of potential customers for this app is a testament to its versatility.
 
  The app is an upgraded version of WriteSonic, a writing aid based on ChatGPT 3.5\. WriteSonic is the foundation that ChatSonic was built on; GPT-4 adds the extra functionality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What Can You Do With ChatSonic?
 
@@ -152,27 +152,27 @@ Image Credit: ChatSonic
 
  ChatSonic is free to try, and the paid version starts at $12.67 per month. Full details are available on the [WriteSonic](https://writesonic.com/chat) website.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Bing AI
 
 ![Screenshot_of Bing app opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot_of-bing-app-opening-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Screenshot of Bing Chat Opening Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-opening-screen.jpg)
 
 ![Screenshot of Bing answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-answering-query.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
  Microsoft was an early adopter of GPT-4, which it integrated into its Bing search page. A Bing app is now available for Android and iOS, bringing the power of GPT-4 to the mobile masses.
 
  The Bing app is representative of the next generation of search engines and, in true ChatGPT style, is capable of far more than just listing relevant results.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What Can You Use the Bing AI App For?
 
@@ -189,13 +189,13 @@ Close
 
 **Download**: Bing AI for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2023057/https://play.google.com/store/apps/details?id=com.microsoft.bing) | [iOS](https://apps.apple.com/us/app/bing-your-ai-copilot/id345323231) (Free)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Petey
 
 ![Screenshot of Petey home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-petey-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: Petey Assistant
 
@@ -238,21 +238,17 @@ Image Credit: Petey Assistant
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-boosting-social-reach-share-tiktoks-with-a-twist-of-twitter/"><u>[Updated] In 2024, Boosting Social Reach Share TikToks with a Twist of Twitter</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/instagramsns/"><u>「Instagramや他のSNSへ投稿前に、動画をいかにして完璧な正方形サイズに調整するか」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/itunesmp3/"><u>「ITunesでMP3を再生できない？解決策と原因考察」</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-freebuy-one-lut-bundle-for-canon-pros/"><u>2024 Approved Free/Buy-One-LUT Bundle for Canon Pros</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-vivo-s17-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Vivo S17 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/elite-video-capturing-technology-for-podcasts-for-2024/"><u>Elite Video Capturing Technology for Podcasts for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-methods-to-bypass-blu-ray-regional-lockout-across-various-players/"><u>Free Methods to Bypass Blu-Ray Regional Lockout Across Various Players</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-your-no-cost-win11-dvd-ripper-and-converter-software-now/"><u>Get Your No-Cost Win11 DVD Ripper & Converter Software Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-enable-video-looping-feature-in-vlc-player-quick-and-easy-methods/"><u>How to Enable Video Looping Feature in VLC Player - Quick and Easy Methods</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-p55-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from P55 5G?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-learn-the-safest-ways-to-extract-and-convert-youtube-tracks-to-mp3/"><u>In 2024, Learn the Safest Ways to Extract and Convert YouTube Tracks to MP3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iwara/"><u>Iwaraコンテンツをダウンロード保存するための詳細な手順: 最強の方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/latest-enhancement-of-wonderfox-the-advanced-video-downloader-is-released/"><u>Latest Enhancement of WonderFox: The Advanced Video Downloader Is Released!</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixes-for-gtfo-game-lagging-frame-rate-hiccups-and-optimizing-pc-gaming-experience/"><u>Resolved: Fixes for GTFO Game Lagging, Frame Rate Hiccups, and Optimizing PC Gaming Experience</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-defy-2-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Defy 2? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transforming-moments-samsungs-time-lapse-tutorial/"><u>Transforming Moments Samsung's Time-Lapse Tutorial</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-complete-guide-to-proficient-periscope-operation/"><u>[Updated] Complete Guide to Proficient Periscope Operation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-series-se-watch-gets-an-update-on-the-horizon-unveiling-affordable-tech-advancements-zdnet/"><u>Apple’s Series SE Watch Gets an Update on the Horizon - Unveiling Affordable Tech Advancements | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-top-5-exciting-features-of-apples-ios-18-preview-a-sneak-peek-from-zdnet/"><u>Explore the Top 5 Exciting Features of Apple's iOS 18 Preview: A Sneak Peek From ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harness-the-power-of-zoom-on-your-windows-10-pc-for-2024/"><u>Harness the Power of Zoom on Your Windows 10 PC for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-look-at-advanced-technology-with-toms-hardware-insights/"><u>Inside Look at Advanced Technology with Tom's Hardware Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pivotal-points-in-adopting-bot-driven-assistance/"><u>Pivotal Points in Adopting Bot-Driven Assistance</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-xiaomi-14-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Xiaomi 14 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-innovations-discover-the-latest-advancements-coming-to-iphone-ipad-mac-and-beyond-this-autumn-with-cutting-edge-ai-integration-tech-news-by-zdnet.m81/"><u>Upcoming Innovations: Discover the Latest Advancements Coming to iPhone, iPad, Mac, and Beyond This Autumn with Cutting-Edge AI Integration | Tech News by ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v29-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V29 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/web-wonders-weekly-review/"><u>Web Wonders Weekly Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-iphone-14-still-wins-over-the-iphone-16-pro-key-insights-from-a-tech-expert/"><u>Why the iPhone 14 Still Wins Over the iPhone 16 Pro: Key Insights From a Tech Expert</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/guide-to-gaining-from-google-a-stepwise-strategy-for-tracking-youtube-income-for-2024/"><u>Your Guide to Gaining From Google A Stepwise Strategy for Tracking YouTube Income for 2024</u></a></li>
 </ul></div>
 

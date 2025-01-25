@@ -1,7 +1,7 @@
 ---
 title: Discover How to Leverage OpenAI's APIs Effectively
-date: 2025-01-11T17:19:14.975Z
-updated: 2025-01-18T17:13:35.668Z
+date: 2025-01-21T21:21:01.077Z
+updated: 2025-01-24T20:28:03.126Z
 tags:
   - chatgpt
   - open-ai
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
  The [OpenAI API](https://platform.openai.com/) packs in a bunch of utilities for programmers. If you intend to deliver in-app AI daily, OpenAI will make your life easier with the following abilities.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Chat
 
  The OpenAI API chat completion endpoint helps the end user to spin up a natural, human-friendly interactive session with a virtual assistant using the GPT-3.5-turbo model.
@@ -50,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
  You can even improve the model's performance by supplying parameters like temperature, presence-penalty, frequency-penalty, and more. If you've ever used ChatGPT, you already know how OpenAI's chat completion model work.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Text Completion
 
  The text completion API provides conversational, text insertion, and text completion functionalities based on advanced GPT-3.5 models.
@@ -66,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
 ![Text completion model test via CLI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/text-completion-model-test-via-cli.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, increasing the max\_tokens to 70 generated more coherent thoughts:
 
 ![Text completion model test via CLI more complete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/text-completion-model-test-via-cli-more-complete.jpg)
@@ -77,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
  However, OpenAI says there's no difference between its Whisper model and the one in open-source. So it offers endless opportunities for integrating a multilingual transcriber and translator AI into your app at scale.
 
  The endpoint usage is simple. All you have to do is to supply the model with an audio file and call the **openai.Audio.translate** or **openai.Audio.transcribe** endpoint to translate or transcribe it respectively. These endpoints accept a maximum file size of 25 MB and support most audio file types, including mp3, mp4, MPEG, MPGA, m4a, wav, and webm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Text Comparison
 
@@ -100,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
 ![OpenAI code completion command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-code-completion-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Image Generation
 
  This is one of the most intuitive features of the OpenAI API. Based on the DALL.E image model, the OpenAI API's image functionality features endpoints for generating, editing, and creating image variations from natural language prompts.
@@ -119,12 +115,20 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 ![Image generation test for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/image-generation-test-for-openai.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the OpenAI API
 
 ![OpenAI API secret key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-api-secret-key-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ​​​​​ The OpenAI API usage is simple and follows the conventional API consumption pattern.
 
@@ -133,10 +137,6 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 3. Make API calls to your chosen model endpoints via a server-side language like Python or JavaScript (Node). Feed these to your custom APIs and test your endpoints.
 4. Then [fetch custom APIs via JavaScript](http://www.makeuseof.com/how-to-consume-apis-in-react-using-fetch-and-axios/) frameworks like React, Vue, or Angular.
 5. Present data (user requests and model responses) in a visually appealing UI, and your app is ready for real-world use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Can You Create With the OpenAI API?
 
@@ -150,7 +150,7 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 6. Create programming language-specific code completion plugins for code editors and integrated development environments (IDEs).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Build Endlessly With the OpenAI APIs
@@ -178,24 +178,19 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-techniques-for-high-quality-rl-footage/"><u>[New] Techniques for High-Quality RL Footage</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-android-users-the-top-6-video-downloaders-for-easy-access/"><u>[Updated] In 2024, Android Users The Top 6 Video Downloaders for Easy Access</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-newcomers-notebook-navigating-through-pixel-perfect-videos/"><u>2024 Approved The Newcomer’s Notebook Navigating Through Pixel-Perfect Videos</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/2024-approved-webm-vs-mp4-top-converters-to-switch-formats-seamlessly/"><u>2024 Approved WebM vs MP4 Top Converters to Switch Formats Seamlessly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mkv3/"><u>完全無損失でMKVを切り分ける3方法：高画質維持のコツ</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-free-after-effects-title-templates-for-2024/"><u>Best Free After Effects Title Templates for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/efficiently-backup-and-access-with-google-drive-a-guide-to-transferring-folders-and-files-on-ws-2-cu-server-2008/"><u>Efficiently Backup and Access with Google Drive: A Guide to Transferring Folders & Files on WS 2 Cu Server 2008</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expert-online-workshop-title-author/"><u>Expert Online Workshop Title Author</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-windows-compatible-drivers-for-hp-officejet-pro-6970-download-now/"><u>Get the Newest Windows-Compatible Drivers for HP OfficeJet Pro 6970 - Download Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-solutions-to-overcome-vlcs-cfhd-codec-error-and-ensure-smooth-playback/"><u>Simple Solutions to Overcome VLC's CFHD Codec Error and Ensure Smooth Playback</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-tips-and-tricks-how-to-stream-content-via-usb-onto-your-philips-smart-tv/"><u>Simple Tips & Tricks: How To Stream Content via USB Onto Your Philips Smart TV</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplify-sound-editing-with-these-4-strategies-to-normalize-wav-audio-files/"><u>Simplify Sound Editing with These 4 Strategies to Normalize WAV Audio Files</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solving-premiere-pro-buffering-issues-discover-over-10-effective-fixes/"><u>Solving Premiere Pro Buffering Issues: Discover Over 10 Effective Fixes</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/streamlining-your-presentations-vimeo-video-embedding-in-powerpoint-for-2024/"><u>Streamlining Your Presentations Vimeo Video Embedding in PowerPoint for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-10-no-cost-sites-for-hd-movie-streams-of-blockbuster-films/"><u>Top 10 No-Cost Sites for HD Movie Streams of Blockbuster Films</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-picks-for-alac-audio-format-a-complete-guide-to-transforming-and-saving-your-music-in-apple-lossless/"><u>Top Picks for ALAC Audio Format: A Complete Guide to Transforming and Saving Your Music in Apple Lossless</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-and-resolving-windows-n-11s-xbox-game-bar-malfunctions-effectively/"><u>Troubleshooting and Resolving Windows N 11'S Xbox Game Bar Malfunctions Effectively!</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/sh-growth-potential-simple-strategies-for-video-success-for-2024/"><u>Unleash Growth Potential Simple Strategies for Video Success for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/xbox-one-movie-transfer-how-to-watch-files-offloaded-onto-a-flash-drive/"><u>Xbox One Movie Transfer: How to Watch Files Offloaded Onto a Flash Drive</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-experience-the-new-unleash-a-set-of-50-designs-for-free/"><u>[Updated] 2024 Approved Experience the New Unleash a Set of 50 Designs for Free</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-iphone-showdown-comparing-the-iphone-16-and-iphone-15-for-your-next-upgrade-techradar/"><u>Apple iPhone Showdown: Comparing the iPhone 16 and iPhone 15 for Your Next Upgrade | TechRadar</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/cutting-edge-portability-meets-connectivity-explore-the-moko-multi-fold-keyboard/"><u>Cutting Edge Portability Meets Connectivity - Explore the MoKo Multi-Fold Keyboard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-latest-ipados-16-innovations-revealed-at-apples-wwdc-202n4-a-breakdown-of-new-features-and-targeted-ipad-models-digital-trends/"><u>Discover the Latest iPadOS 16 Innovations Revealed at Apple's WWDC 202N4: A Breakdown of New Features & Targeted iPad Models | Digital Trends</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-value-of-cytrons-uno-rp2040-board-for-cost-conscious-makers/"><u>Exploring the Value of Cytron's Uno RP2040 Board for Cost-Conscious Makers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-chaos-to-calm-strategic-folder-use-for-chatgpt-control/"><u>From Chaos to Calm: Strategic Folder Use for ChatGPT Control</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-does-openais-shap-enlighten-machine-learning/"><u>How Does OpenAI's SHAP Enlighten Machine Learning?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-three-proven-steps-for-archiving-your-favorite-discord-shows/"><u>In 2024, Three Proven Steps for Archiving Your Favorite Discord Shows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-the-pioneering-world-of-openai/"><u>Inside the Pioneering World of OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-minds-when-ai-entered-our-world/"><u>Pioneering Minds: When AI Entered Our World</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/streamline-your-playback-secrets-of-gameye/"><u>Streamline Your Playback Secrets of GamEye</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tech-hacks-easily-integrating-bluetooth-audio-gear-with-your-computer-system/"><u>Tech Hacks: Easily Integrating Bluetooth Audio Gear with Your Computer System</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/omplete-youtubers-guide-to-editing-in-premiere-pro-for-2024/"><u>The Complete Youtuber's Guide to Editing in Premiere Pro for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-popping-sounds-from-speakers-in-windows-operating-systems-solved/"><u>Troubleshooting Popping Sounds From Speakers in Windows Operating Systems (SOLVED)</u></a></li>
 </ul></div>
 

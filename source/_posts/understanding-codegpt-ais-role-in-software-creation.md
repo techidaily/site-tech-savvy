@@ -1,7 +1,7 @@
 ---
 title: "Understanding CodeGPT: AI’s Role in Software Creation"
-date: 2024-08-29T19:49:26.114Z
-updated: 2024-08-30T19:49:26.114Z
+date: 2025-01-18T22:54:51.164Z
+updated: 2025-01-24T19:26:24.359Z
 tags:
   - chatgpt
   - open-ai
@@ -15,11 +15,19 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 
 ## Understanding CodeGPT: AI’s Role in Software Creation
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is CodeGPT?](https://zonlipartnershipprogram.pxf.io/b0rbxy)
 * [How Much Does CodeGPT Cost?](https://coinrule.sjv.io/rqzonv)
 * [Can CodeGPT Really Write Code?](https://sentrypc.7eer.net/dkpkgn)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -34,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
  If you're looking for an AI-powered assistant to help you write code, chances are you've encountered CodeGPT. It's one of many AI-powered tools you can use to assist you when programming. But can CodeGPT actually write code?
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is CodeGPT?
 
  CodeGPT is a dedicated extension that uses different artificial intelligence (AI) models to help programmers write and fix code. It includes various features geared towards faster and easier programming, including auto-completion, code explanation, refactoring, documentation, unit testing, error-checking, and bug-fixing. It also has a ChatGPT-like interface you can access from your code editor.
@@ -45,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
  While there are several [code editors for Linux](https://www.makeuseof.com/best-ide-code-editors-for-linux/), macOS, and Windows, CodeGPT is only available in two. Today, you can either [install and use CodeGPT in VS Code](https://www.makeuseof.com/install-use-codegpt-in-vs-code/) or in Cursor, which is a fork of VS Code.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Much Does CodeGPT Cost?
 
  You can download and install CodeGPT for free, but using the extension comes at a cost. CodeGPT offers various subscription packages that you can pay for if you need unlimited access.
@@ -56,8 +66,9 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
  Bear in mind that you'll need to pay for unlimited usage of third-party AI models like OpenAI's GPT-4 model, for example. Although you can [access Open AI's GPT-4 model for free](https://www.makeuseof.com/ways-access-gpt-4-free/), you cannot do so from within VS Code or Cursor.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can CodeGPT Really Write Code?
 
  To evaluate this, we'll use the extension to help us generate two different code samples in Python.
@@ -148,8 +159,6 @@ with open('output.csv', 'w', newline='') as output_file:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +166,26 @@ with open('output.csv', 'w', newline='') as output_file:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-complete-guide-to-windows-movie-maker-60-downloading/"><u>[Updated] 2024 Approved Complete Guide to Windows Movie Maker 6.0 Downloading</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-exploring-the-efficiency-of-modern-tunefab-recorders/"><u>[Updated] 2024 Approved Exploring the Efficiency of Modern Tunefab Recorders</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-how-to-add-music-to-a-video-on-iphone-for-free/"><u>[Updated] How to Add Music to a Video on iPhone for FREE</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-avoiding-pitfalls-common-mistakes-in-instagram-filmmaking/"><u>[Updated] In 2024, Avoiding Pitfalls Common Mistakes in Instagram Filmmaking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-acoustic-bliss-500-yamaha-soundbar-vs-1000-jbl-a-budget-friendly-audio-revelation/"><u>Affordable Acoustic Bliss: $500 Yamaha Soundbar Vs. $1,000 JBL - A Budget-Friendly Audio Revelation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-razer-leviathan-v2-soundbar-stunning-visuals-meet-impressive-acoustics-zdnet-insightful-review/"><u>Exploring the Razer Leviathan V2 Soundbar: Stunning Visuals Meet Impressive Acoustics | ZDNET Insightful Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-high-costs-to-audio-bliss-how-switching-from-a-klipsch-soundbar-to-jbl-upgraded-my-listening-experience-insights-by-zdnet/"><u>From High Costs to Audio Bliss: How Switching From a Klipsch Soundbar to JBL Upgraded My Listening Experience - Insights by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/homepod-vs-homepod-mini-showdown-a-deep-dive-into-audio-excellence-apples-larger-pod-takes-the-crown/"><u>HomePod Vs. HomePod Mini Showdown: A Deep Dive Into Audio Excellence - Apple's Larger Pod Takes the Crown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-create-the-ideal-vinyl-experience-expert-picks-for-unbeatable-turnstiles-amplifiers-and-accessories-zdnet/"><u>How to Create the Ideal Vinyl Experience: Expert Picks for Unbeatable Turnstiles, Amplifiers, and Accessories | ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-frame-rate-drops-and-latency-in-guilty-gear-strive/"><u>How to Overcome Frame Rate Drops and Latency in Guilty Gear Strive</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-quickly-print-singlemultiple-pages-from-a-digital-flipbook-on-flipbuilder/"><u>How to Quickly Print Single/Multiple Pages From a Digital Flipbook on FlipBuilder</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 6 Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-voice-assistants-amazon-enhances-alexa-with-cutting-edge-anthropic-ai-technology-zdnet/"><u>Revolutionizing Voice Assistants: Amazon Enhances Alexa with Cutting-Edge Anthropic AI Technology | ZDNet</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/solutions-to-overcome-system-unsteadiness-with-yl-software-expertise/"><u>Solutions to Overcome System Unsteadiness with YL Software Expertise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-identifying-faulty-hardware-in-windows-1011/"><u>Techniques for Identifying Faulty Hardware in Windows 10/11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-best-smart-speakers-with-wi-fi-connectivity-expert-picks-by-zdnet/"><u>The Best Smart Speakers with Wi-Fi Connectivity - Expert Picks by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-affordable-bluetooth-wireless-speakers-below-50-expert-picks-by-zdnet/"><u>Top 5 Affordable Bluetooth Wireless Speakers Below $50: Expert Picks by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-childrens-headphones-professional-recommendations-techradar/"><u>Top-Rated Children's Headphones : Professional Recommendations | TechRadar</u></a></li>
+</ul></div>
 

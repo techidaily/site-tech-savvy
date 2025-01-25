@@ -1,7 +1,7 @@
 ---
 title: Investigating TruthGPT's Tokens Validity
-date: 2024-08-29T19:50:06.041Z
-updated: 2024-08-30T19:50:06.041Z
+date: 2025-01-17T17:11:06.117Z
+updated: 2025-01-24T17:34:24.797Z
 tags:
   - chatgpt
   - open-ai
@@ -23,17 +23,29 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 
  It's no wonder the authorities are giving serious attention to TruthGPT Coin, a cryptocurrency labeled as an "Artificial Intelligence investment scam" by Texas State regulators. It has called for the scam crypto promotion to halt immediately—but what is TruthGPT Coin, anyway?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is TruthGPT Coin? Why Are There Two TruthGPT Coins?
 
  There are two projects using the name "TruthGPT Coin." One uses the Binance Smart Chain, while the other is an Ethereum ERC-20 token, but both appear to use the $TRUTH ticker. It's not clear if there is a specific link between the projects, as the general approach of each differs in quality.
 
 ![truthgpt home page-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/truthgpt-home-page-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The first project claims to be powered by an AI model developed in-house called Elon Musk AI. The TruthGPT website is full of images of Musk, poor-quality digital images, fake endorsements, and more (along with other prominent crypto figures, such as Binance's Changpeng Zhao). After signing up, you can ask the "AI" questions, but the responses are extremely slow and look to me to be hand-written in places. You'll also find fake accounts for big names in crypto, like Elon Musk, Satoshi Nakamoto, and Michael Saylor.
 
 ![truthgpt elon musk fake account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/truthgpt-elon-musk-fake-account.jpg)
 
 ![truthgpt example account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/truthgpt-example-account.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -42,6 +54,10 @@ Close
 ![second truthgpt coin website home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/second-truthgpt-coin-website-home-page.jpg)
 
  Now, the second TruthGPT Coin has linked itself to [Elon Musk's TruthGPT AI project](https://www.makeuseof.com/what-is-truthgpt/) to gain a semblance of legitimacy, though it notes that TruthGPT Coin is a community effort and isn't affiliated with Musk. It doesn't feature any Musk imagery but talks about him throughout the site and claims to use artificial intelligence to "seek out and evaluate information in order to arrive at the most accurate and reliable understanding of the world."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is TruthGPT Coin a Scam?
 
@@ -58,9 +74,9 @@ Close
  The TruthGPT Coin entry on [CoinMarketCap](https://coinmarketcap.com/currencies/truthgpt/) also suggests something fishy is going on. It currently displays a banner informing would-be users that, "According to [Gopluslabs](https://gopluslabs.io/token-security/1/0xaf75d880b3128981d1fed3292fc02e3fb37acd53), the smart contract of the following asset can be modified by the contract creator (for example: disable selling, change fees, mint new tokens, or transfer tokens). Please exercise caution before taking any action and DYOR."
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Watch Out for Scam Tokens Involving ChatGPT, AI, and Elon Musk
 
  ChatGPT launched in late 2022\. Since then, we've seen numerous crypto scams attempt to leverage OpenAI's chatbot and the explosion in AI technology. Then, when Elon Musk announced his TruthGPT as a counterweight to perceived bias in ChatGPT and other AI chatbots, it added another angle for scammers, the allure of using Musk's name, crypto, and AI providing a potent combination.
@@ -73,14 +89,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  It's no wonder the authorities are giving serious attention to TruthGPT Coin, a cryptocurrency labeled as an "Artificial Intelligence investment scam" by Texas State regulators. It has called for the scam crypto promotion to halt immediately—but what is TruthGPT Coin, anyway?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -89,4 +102,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-sites-performance-using-cookiebot-tools/"><u>Boost Your Site's Performance Using Cookiebot Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-remote-work-and-returning-to-offices-pros-outweigh-cons-but-challenges-may-arise-insights-by-zdnet/"><u>Comparing Remote Work and Returning to Offices: Pros Outweigh Cons, But Challenges May Arise | Insights by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-work-life-discover-five-key-tactics-for-career-enhancement-zdnet/"><u>Elevate Your Work Life: Discover Five Key Tactics for Career Enhancement | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-remote-work-is-redefining-workplace-norms-stay-alert-insights-from-zdnet/"><u>How Remote Work Is Redefining Workplace Norms: Stay Alert - Insights From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-add-motion-blur-effect-to-photos-in-photoshop/"><u>In 2024, How to Add Motion Blur Effect to Photos in Photoshop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-new-norms-how-remote-work-is-redefining-professional-spaces-insights-from-zdnet/"><u>Navigating New Norms: How Remote Work Is Redefining Professional Spaces – Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/e-aggregators-for-securing-affiliates-on-googles-platform-for-2024/"><u>Online Aggregators for Securing Affiliates on Google's Platform for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/speaking-words-into-sound-your-pathway-to-excellence-for-2024/"><u>Speaking Words Into Sound Your Pathway to Excellence for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/strategies-de-partenariat-efficaces-avec-winxdvd-pour-une-croissance-optimale/"><u>Stratégies De Partenariat Efficaces Avec WinXDVD Pour Une Croissance Optimale</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-ultimate-fix-for-broken-headphone-connection-in-windows-10-devices/"><u>The Ultimate Fix for Broken Headphone Connection in Windows 10 Devices</u></a></li>
+</ul></div>
 

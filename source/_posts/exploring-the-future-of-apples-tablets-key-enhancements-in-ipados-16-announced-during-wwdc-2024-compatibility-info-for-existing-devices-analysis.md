@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Future of Apple's Tablets: Key Enhancements in iPadOS 16 Announced During WWDC 2024, Compatibility Info for Existing Devices Analysis"
-date: 2025-01-11T16:22:54.236Z
-updated: 2025-01-18T16:37:01.191Z
+date: 2025-01-18T00:05:38.081Z
+updated: 2025-01-24T17:23:46.262Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,24 +126,18 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-simple-paths-to-start-recording-on-hp-computers/"><u>[New] 2024 Approved Simple Paths to Start Recording on HP Computers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1715760178749-new-how-to-record-lol-gameplay3-methods/"><u>[New] How to Record LOL Gameplay?(3 Methods)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-millisecond-metrics-for-a-20mb-digital-creation/"><u>[New] In 2024, Millisecond Metrics for a 20MB Digital Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bings-leap-into-ai-driven-search-excellence/"><u>Bing's Leap Into AI-Driven Search Excellence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-edge-command-methods-for-personalized-chatgpt-interactions/"><u>Cutting-Edge Command Methods for Personalized ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-the-purpose-of-gptzero-in-text-analysis/"><u>Deciphering the Purpose of GPTZero in Text Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-the-secrecy-surrounding-chatgpt/"><u>Deciphering the Secrecy Surrounding ChatGPT</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-xr-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone XR</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-to-follow-tips-to-get-your-astro-a20-headset-microphone-working-again/"><u>Easy-to-Follow Tips to Get Your Astro A20 Headset Microphone Working Again</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/has-openai-already-lost-control-of-chatgpt/"><u>Has OpenAI Already Lost Control of ChatGPT?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-seamlessly-download-and-update-scansnap-driver-in-minutes/"><u>How to Seamlessly Download & Update ScanSnap Driver in Minutes</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-12-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 12 with a Broken Screen?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-itel-p55t-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Itel P55T Phone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/maximizing-your-firefox-multitasking-with-ffxp/"><u>Maximizing Your Firefox Multitasking with FFXP</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/personalize-your-mobile-experience-with-these-ai-apps-androidiphone/"><u>Personalize Your Mobile Experience with These AI Apps (Android/iPhone)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionary-tech-for-academic-advancement/"><u>Revolutionary Tech for Academic Advancement</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-programs-with-context-menu-additions/"><u>Streamlining Programs with Context Menu Additions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tips-on-recognizing-and-responding-to-fake-chatgpt-portals/"><u>Tips on Recognizing and Responding to Fake ChatGPT Portals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-4-innovative-ai-tale-crafting-tools/"><u>Top 4 Innovative AI Tale Crafting Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-vision-pro-review-a-tale-of-an-unfulfilling-workday-as-spotted/"><u>Apple Vision Pro Review: A Tale of an Unfulfilling Workday as Spotted</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/beyond-ageing-language-learnings-untapped-potential/"><u>Beyond Ageing: Language Learning's Untapped Potential</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-list-elite-choices-for-personalized-weather-systems/"><u>Comprehensive List: Elite Choices for Personalized Weather Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-free-comparable-ais-beyond-sora/"><u>Discover Free, Comparable AIs Beyond Sora</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209723696-9781633534841-eclectic-wicca/"><u>Eclectic Wicca | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-homes-with-apple-powered-robots-revolutionizing-assistance-and-convenience-at-your-fingertps/"><u>Future Homes with Apple-Powered Robots: Revolutionizing Assistance and Convenience at Your Fingertps</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/is-your-google-drive-vulnerable-to-ransomware-insights-from-malwarefox/"><u>Is Your Google Drive Vulnerable to Ransomware: Insights From MalwareFox</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolving-chatgpt-glitches-on-ios-devices/"><u>Resolving ChatGPT Glitches on iOS Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-workouts-with-apples-latest-tech-the-2023-airpods-pro-heart-rate-fitness-companion/"><u>Revolutionize Your Workouts with Apple's Latest Tech: The 2023 AirPods Pro Heart Rate Fitness Companion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-compendium-of-ai-enhanced-note-managers/"><u>The Ultimate Compendium of AI Enhanced Note Managers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-googles-innovative-language-strategist-palm-2/"><u>Unveiling Google's Innovative Language Strategist: PaLM 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-dull-truth-why-you-might-find-apples-latest-ai-innovations-from-wwdc-underwhelming-and-thats-a-good-thing/"><u>Unveiling the Dull Truth: Why You Might Find Apple’s Latest AI Innovations From WWDC Underwhelming – And That's a Good Thing!</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-techniques-for-embedding-images-into-music-tracks/"><u>Updated Techniques for Embedding Images Into Music Tracks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Pioneering Advanced Fabrication with AI-Powered ChatGPT
-date: 2024-08-29T19:47:08.519Z
-updated: 2024-08-30T19:47:08.519Z
+date: 2025-01-18T17:36:05.117Z
+updated: 2025-01-25T00:26:37.710Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/5cbe5314b93a999758b5a00e2527a722031ccfee9
 **SCROLL TO CONTINUE WITH CONTENT**
 
  For makers and 3D printing enthusiasts, ChatGPT offers a wealth of tools that make it much easier to make your projects come together. But how can you use ChatGPT for 3D printing?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can ChatGPT Help With 3D Printing?
 
@@ -54,8 +58,9 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
  While ChatGPT certainly has the ability to create STL files of greater complexity, OpenAI can’t dedicate the resources required for this sort of operation to free users. This is still an excellent tool for those who would like to build an understanding of how STL files work, though.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Generate 3D Model Scripts for CAD Software With ChatGPT
 
  Many 3D modeling tools have the ability to generate 3D models using scripts. This isn’t always the most effective way to make 3D models when you have to write the script yourself, but ChatGPT can generate the script for you.
@@ -67,21 +72,19 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
 ![ChatGPT generated Blender Python script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-cube-python.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once you have your script copied, you can load up Blender and head to the Scripting workspace. By default, you should see a script console on the left of the screen. Paste the ChatGPT-generated script into the console pane and hit the **Enter** key to see your 3D model appear in the 3D workspace.
 
 ![Blender script generated cube](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/blender-script-generated-cube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  Like when generating an STL file with ChatGPT, there are limitations in place that mean that the chatbot won’t try to create scripts that are too time-consuming. Thankfully, though, you can find paid services around the web that expand ChatGPT’s script-writing abilities. You can [learn how to access GPT-4](https://www.makeuseof.com/how-to-use-gpt4/) to enhance your 3D printing even further.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Else Can ChatGPT Help With 3D Printing?
 
  As you can see, ChatGPT has a lot of potential for 3D printing enthusiasts, but it doesn’t stop with generating scripts and STL files. OpenAI’s chatbot can offer support and advice with a variety of 3D printing questions.
@@ -92,8 +95,9 @@ The ultimate burning program for all your needs!</a>
 * **3D Printer Settings**: [Choosing the correct settings for the material you are 3D printing with](https://www.makeuseof.com/fdm-3d-printer-settings-and-what-they-do/) is a challenge, especially when you encounter defects and issues with your prints. You can use ChatGPT to troubleshoot your 3D printer settings and help you choose the best ones for your prints.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Getting the Most Out of ChatGPT for 3D Printing
 
  It’s important to remember that the full scope of ChatGPT is yet to be discovered. In the meantime, you can experiment when you ask this chatbot for help with 3D printing, whether to generate STL files or 3D model scripts, or to check and repair G-code files. It’s worth taking the time to refine the questions you ask to get the best results.
@@ -108,8 +112,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +119,24 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-techniques-for-efficiently-storing-fb-messenger-conversations-for-2024/"><u>[New] Techniques for Efficiently Storing FB Messenger Conversations for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-beginning-your-first-fb-giveaway-announcement/"><u>[Updated] 2024 Approved Beginning Your First FB Giveaway Announcement</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-breathe-life-into-tweets-animating-insta-story-texts/"><u>[Updated] Breathe Life Into Tweets Animating Insta Story Texts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-cutting-edge-iphone-techniques-for-slow-motion/"><u>[Updated] Cutting Edge iPhone Techniques for Slow Motion</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-samsung-galaxy-a34-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Samsung Galaxy A34 5G Through Google Earth?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-samsung-galaxy-m54-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Samsung Galaxy M54 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/installation-de-lenvironnement-dwindows-10-guide-complet-et-detaille/"><u>Installation De L'environnement D'Windows 10: Guide Complet Et Détaillé</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/launch-of-apple-vision-pro-exploring-the-future-at-the-developers-conference-tech-news/"><u>Launch of Apple Vision Pro: Exploring the Future at the Developers Conference - Tech News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-stanford-ai-innovation-the-demise-of-bulky-virtual-reality-gear-on-horizon/"><u>Revolutionary Stanford AI Innovation: The Demise of Bulky Virtual Reality Gear on Horizon</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-fitness-how-meta-quest-transformed-my-workout-routine-a-deep-dive-into-the-supernatural-app-experience/"><u>Revolutionize Your Fitness: How Meta Quest Transformed My Workout Routine - A Deep Dive Into the Supernatural App Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/samsung-delays-vr-headset-release-eyes-late-2024-launch-after-project-vision-pro-led-advancements/"><u>Samsung Delays VR Headset Release, Eyes Late 2024 Launch After Project Vision Pro LED Advancements</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/en-content-edge-with-studios-advanced-features-for-2024/"><u>Sharpen Content Edge with Studio's Advanced Features for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-mastering-the-art-of-returning-your-apple-vision-pro/"><u>Step-by-Step Guide: Mastering the Art of Returning Your Apple Vision Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-visionary-leap-how-qualcomms-alignment-with-google-and-samsung-is-shaping-future-mr-smart-glasses/"><u>The Next Visionary Leap: How Qualcomm's Alignment with Google and Samsung Is Shaping Future MR Smart Glasses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-the-workplace-with-xr-and-digital-twins-a-comprehensive-enterprise-strategy-for-enhanced-user-interaction-insights-by-zdnet/"><u>Transforming the Workplace with XR & Digital Twins: A Comprehensive Enterprise Strategy for Enhanced User Interaction - Insights by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-spatial-computing-functionality-and-implementation-insights/"><u>Understanding Spatial Computing: Functionality & Implementation Insights</u></a></li>
+</ul></div>
 

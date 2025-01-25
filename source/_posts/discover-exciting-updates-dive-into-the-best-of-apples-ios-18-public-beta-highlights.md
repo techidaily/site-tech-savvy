@@ -1,7 +1,7 @@
 ---
 title: "Discover Exciting Updates: Dive Into the Best of Apple's iOS 18 Public Beta Highlights"
-date: 2025-01-14T17:07:50.412Z
-updated: 2025-01-18T17:27:35.622Z
+date: 2025-01-20T21:33:26.431Z
+updated: 2025-01-24T17:41:25.240Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. AI all around
@@ -55,7 +55,7 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -65,7 +65,7 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -77,7 +77,7 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -87,7 +87,7 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -128,20 +128,22 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-bridging-beats-unraveling-the-secrets-of-crossfade/"><u>[New] Bridging Beats Unraveling the Secrets of Crossfade</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-symphony-silhouette-audio-studio-mac-for-2024/"><u>[New] Symphony Silhouette Audio Studio Mac for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-mov-in-the-cloud-top-six-techniques-for-windows-11-users/"><u>[Updated] In 2024, .MOV in the Cloud - Top Six Techniques for Windows 11 Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726027985262-pciphoneandroid/"><u>「動画幅の設定変更：PC、iPhone、Androidマニュアル」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029514587-google-meet/"><u>「密かに録音：Google Meetの裏技はこれからどう進化しますか？」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028748565-5/"><u>「無限再生動画を実現するための5手順解説と方法」</u></a></li>
-<li><a href="https://win-guides.techidaily.com/benutzerfreundliche-anleitung-zum-automatischen-datenaustausch-auf-windows-systemen/"><u>Benutzerfreundliche Anleitung Zum Automatischen Datenaustausch Auf Windows-Systemen</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/capture-clarity-enjoy-convenience-with-our-top-5-recorder-recommendations-for-2024/"><u>Capture Clarity, Enjoy Convenience with Our Top 5 Recorder Recommendations for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hyperx-headset-enhancements-modernizing-device-drivers/"><u>HyperX Headset Enhancements: Modernizing Device Drivers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030262041-mp3/"><u>MP3ファイルのサンプリング周波数変更ガイド</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/pro-audio-editing-essentials-top-8-software-for-industry-experts-for-2024/"><u>Pro Audio Editing Essentials Top 8 Software for Industry Experts for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/troubleshooting-scan-issues-what-to-do-when-the-scanner-ignores-your-documents-tips-by-yl-software/"><u>Troubleshooting Scan Issues: What to Do When the Scanner Ignores Your Documents - Tips by YL Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028031263-windows/"><u>Windowsムービーメーカーを使用して簡単に動画編集・カット</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028213482-youtube-pc/"><u>YouTube ミュージックを動画編集で活用する手びき術 - PC/スマートフォン向けガイド</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029367775-movavi/"><u>フリーツアルゴリズムとオンラインスクリプトで簡単にMOV画像をAVI形式に切り替えます</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-8-best-screen-capture-tools-for-linux/"><u>[New] Top 8 Best Screen Capture Tools for Linux</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unlock-creative-expression-incor-points-on-sharing-gifs-on-snapchat/"><u>[New] Unlock Creative Expression Incor Points on Sharing Gifs on Snapchat</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-capture-lol-fun-top-3-gameplay-recording-tips/"><u>[Updated] Capture LOL Fun Top 3 Gameplay Recording Tips</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-swift-guide-image-to-youtube-thumbnail-transformation-techniques/"><u>2024 Approved Swift Guide Image to YouTube Thumbnail Transformation Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dive-into-gptzeros-capabilities-for-textual-source-identification/"><u>Dive Into GPTZero's Capabilities for Textual Source Identification</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-innovation-to-action-google-reveals-revolutionary-ai-bard/"><u>From Innovation to Action: Google Reveals Revolutionary AI, 'Bard'</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-fix-window-compatible-csr8510-a10-graphics-card-driver-errors-solution/"><u>How to Fix Window-Compatible CSR8510 A10 Graphics Card Driver Errors - SOLUTION</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/identifying-ai-delusions-recognizing-fake-data-interpretations/"><u>Identifying AI Delusions: Recognizing Fake Data Interpretations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inquiries-beyond-the-reach-of-gpt/"><u>Inquiries Beyond the Reach of GPT</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/introduction-to-spanish-salutations-decoding-and-practicing-10-key-expressions/"><u>Introduction To Spanish Salutations: Decoding & Practicing 10 Key Expressions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-apple-for-authentic-chatai-services/"><u>Navigating Apple for Authentic ChatAI Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-core-underlying-processes-in-predictive-ai/"><u>The Core Underlying Processes in Predictive AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-11-irresistible-last-minute-holiday-purchase-offers/"><u>Top 11 Irresistible Last-Minute Holiday Purchase Offers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-t-mobiles-intra-network-wifi-roaming-a-guide/"><u>Understanding T-Mobile's Intra-Network WiFi Roaming: A Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/veiled-preservation-of-private-gpt-interactions/"><u>Veiled Preservation of Private GPT Interactions</u></a></li>
 </ul></div>
 

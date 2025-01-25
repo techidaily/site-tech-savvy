@@ -1,7 +1,7 @@
 ---
 title: "Stepping Up Your Game: GPT-3 and OpenAI Tools"
-date: 2025-01-16T16:48:15.522Z
-updated: 2025-01-18T17:49:43.392Z
+date: 2025-01-20T23:12:42.088Z
+updated: 2025-01-24T17:34:04.206Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is OpenAI Playground?
 
  In November 2021, the waitlist was removed for GPT-3, allowing more people to use the OpenAI API. But what most people don't know is that a version of GPT-3 is accessible through the OpenAI Playground.
@@ -43,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
  ChatGPT is the front-facing implementation of GPT-3.5 and GPT-4, allowing users to interact with the language model and generate responses. Whereas OpenAI Playground is more akin to a development tool and comes with more options and flexibility that allow for the testing of specific models (perhaps before being integrated into a project or for research projects).
 
  Now, want to give it a try? Here's how you use GPT-3 in OpenAI Playground.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Create an Account
 
@@ -59,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 
 ![Screenshot of Complete mode interface in OpenAI Playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-complete-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also experiment with the **Edit** mode, which you can use to submit a text and check for grammatical errors.
 
  To get the most out of GPT-3, you will need to think of a good prompt. Good prompts are specific and give context to help GPT-3 generate an appropriate answer. As a demonstration, we asked GPT-3 to "list a few names for a small dog."
@@ -71,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 
 ![Screenshot of OpenAI Playground prompt completion listing dog pet names.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/openai-playground-prompt-dog-pet-names.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Experiment With Different Ideas and Prompts
 
  Asking GPT-3 to suggest a few names for your pet dog is just the tip of the iceberg; there is so much more you can do with it, including generating content, summarizing information, and translating text. There are plenty of [creative uses for GPT-3](https://www.makeuseof.com/creative-uses-for-gpt-3-openai-playground/), from writing a bedtime story for your children to creating a social media bio text.
@@ -83,16 +83,12 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 
  These days, AI is finding its way into all sorts of apps. You can check out [all the things you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/), which, as mentioned, is an AI chatbot built by the same company and developed using the GPT-3 language model.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Keep Track of Your OpenAI Playground Credits
 
 ![Screenshot of usage stats in OpenAI Playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-usage-stats.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Before getting carried away with using OpenAI Playground, quickly look at your usage stats to see how many credits you have to spend. In the top right corner of the page, click on **Personal** \> **Manage account**, then click **Usage** from the navigation bar on the left.
@@ -100,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
  Tokens are used to calculate the fees, and they are based on how many words, or groups of characters, you use in a prompt; this also includes the text result you get from GPT-3\. You can see how many tokens you use each time in the bottom right of the text box area.
 
  Tokens are then translated to dollars, of which you have $5 to spend in the first three months (previously $18). It's a strange pricing model to wrap your head around at first, but what matters is that it's more than enough to play with. When we tested it out over a couple of days, we only used $0.11 from our total.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Switch to a Different GPT Model
 
@@ -115,6 +115,10 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 
  Remember that you'll still incur costs for each model you choose, but the cost per token will vary.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Improve Your Results
 
  The **Temperature** setting is a key parameter to play with if you want to fine-tune your results. When the temperature is set to **zero** you will get the same answer from GPT-3, even if you resubmit the exact same prompt. Raising this number will result in more varied and unpredictable answers.
@@ -125,23 +129,19 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 
 ![Three screenshots of GPT-3 generated text offering different answers for the same prompt.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-3-settings-tempearture.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is a great parameter to play around with if you want to use GPT-3 to generate ideas, such as brainstorming video ideas for YouTube or generating new social media posts. Understanding this one setting can help you to fine-tune the results you get from GPT-3\.
 
  There are lots of ways that an AI language model can help you in day-to-day tasks. For more handy tools to help you write, check out the [best AI writing extensions for Google Chrome.](https://www.makeuseof.com/best-ai-writing-extensions-chrome/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can You Use GPT-4 in OpenAI Playground?
 
  When OpenAI released GPT-3 to the world, the pace of development drastically picked up in the field of generative AI. Within several months of GPT-3 being open to the public and the launch of GPT-3.5 through ChatGPT, [OpenAI announced GPT-4](https://www.makeuseof.com/openai-launches-gpt-4-artificial-intelligence-model/), bringing new functions to the artificial intelligence model.
 
 ![openai playground gpt-4 model option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-playground-gpt-4-model-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Among [GPT-4's best new features](https://www.makeuseof.com/best-new-gpt4-features-explained/) is the ability to submit images to the model, which it can understand, discuss, and respond to through text. It's an incredible new advancement that makes the system multi-modal.
 
@@ -174,14 +174,19 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-tutorial-on-turning-on-the-second-layer-of-security-with-gmails-2fa/"><u>A Comprehensive Tutorial on Turning On the Second Layer of Security with Gmail'S 2FA</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/elevate-your-viewing-experience-top-rated-vr-video-conversion-software-for-2024/"><u>Elevate Your Viewing Experience Top-Rated VR Video Conversion Software for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-stock-strategy-streams-the-most-valuable-online-sources/"><u>In 2024, Stock Strategy Streams The Most Valuable Online Sources</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrate-ai-in-your-web-experience-signup-to-bing/"><u>Integrate AI in Your Web Experience: Signup to Bing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-links-between-instagram-and-tiktok-for-2024/"><u>Navigating Links Between Instagram and TikTok for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-3d-design-to-production-with-chatgpt-insights/"><u>Transforming 3D Design to Production with ChatGPT Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-loves-mysteries-with-ai-innovation/"><u>Unlocking Love's Mysteries with AI Innovation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-razer-gpu-drivers-on-any-windows-os-download-latest-versions-compatible-with-win11-win10-win8-and-more/"><u>Update Your Razer GPU Drivers on Any Windows OS: Download Latest Versions Compatible with Win11, Win10, Win8 & More</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-are-chatgpt-jailbreaks-should-you-use-them/"><u>What Are ChatGPT Jailbreaks? Should You Use Them?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-step-by-step-streaming-on-discord-tips-to-engage-and-retain-viewers/"><u>[New] In 2024, Step-by-Step Streaming on Discord Tips to Engage and Retain Viewers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-non-gopro-waterproof-cameras-a-detailed-list/"><u>[New] Top Non-GoPro Waterproof Cameras A Detailed List</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-charting-the-stars-instagrams-leading-25-trailblazers-in-digital-dominion-for-2024/"><u>[Updated] Charting the Stars Instagram’s Leading 25 Trailblazers in Digital Dominion for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-highlight-reel-of-2022-skating-stars/"><u>[Updated] Ultimate Highlight Reel of 2022 Skating Stars</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/code-creation-contenders-github-copilot-vs-chatgpts-skills/"><u>Code Creation Contenders: GitHub Copilot Vs. ChatGPT's Skills</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-integration-of-latest-lexmark-printer-driver/"><u>Effortless Integration of Latest Lexmark Printer Driver</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emoji-free-twitter-stream-linuss-hidden-tech-trojans-explained-and-ai-chatbot-woes/"><u>Emoji-Free Twitter Stream, Linus's Hidden Tech, Trojans Explained, & AI ChatBot Woes.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/freelancer-dilemma-bing-chat-vs-chatgpt8-must-know-points/"><u>Freelancer Dilemma: Bing Chat Vs. ChatGPT—8 Must-Know Points</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-8-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 8 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lg-360-camera-full-review-2023-update-for-2024/"><u>LG 360 Camera Full Review -2023 Update for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-career-goals-with-chatgpt/"><u>Maximizing Career Goals with ChatGPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimize-your-pc-to-stop-stuttering-during-fortnite-battles/"><u>Optimize Your PC to Stop Stuttering During Fortnite Battles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overreliance-on-algorithms-in-patient-care-might-lead-to-wrong-treatment/"><u>Overreliance on Algorithms in Patient Care Might Lead to Wrong Treatment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/say-goodbye-to-a-messy-inbox-with-this-simple-technique-no-need-for-rigid-filters-or-separate-email-addresses/"><u>Say Goodbye to a Messy Inbox with This Simple Technique: No Need for Rigid Filters or Separate Email Addresses</u></a></li>
 </ul></div>
 

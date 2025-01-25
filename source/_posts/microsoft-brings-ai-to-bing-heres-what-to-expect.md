@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Brings AI to Bing: Here's What to Expect"
-date: 2025-01-12T17:32:53.463Z
-updated: 2025-01-18T17:07:19.786Z
+date: 2025-01-22T22:46:15.598Z
+updated: 2025-01-24T20:20:48.697Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s OpenAI Got to Do With the New AI-Powered Bing?
@@ -38,9 +38,17 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
 ![openai logo on code background feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/openai-logo-on-code-background-feature.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microsoft recently invested nearly 10 billion dollars into OpenAI, and Bing’s new AI prowess is just the start of this long-term strategic partnership.
 
  According to [Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) , Bing will be powered by the latest next-gen natural language AI model specifically trained for web searching. The AI model behind Microsoft Bing relies on improvements made on ChatGPT and GPT-3.5, making it much faster and more reliable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's New in Bing?
 
@@ -49,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 ![AI powered chat feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chat-new.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ` Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
@@ -60,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's New in Microsoft Edge?
 
  Over the past few years, Microsoft has significantly improved Edge with incredible features that have allowed it to compete directly against Google Chrome. With the latest capabilities of Bing + AI, Microsoft has made Edge even more potent with new AI features and an updated look.
@@ -72,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
 ![compose text with Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-ai-compose-new.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ` Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
  Building on the content-generation capabilities of ChatGPT,**Compose** within Microsoft Edge will let you generate content that customizes to the required tone, format, and length. You can compose emails to your coworkers, write about your new job in a post on LinkedIn, and even convert financial information into tables; the possibilities are limitless.
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
  You can use the**Chat** feature to answer complex queries, get detailed financial information on a company, figure out the best way to grill a steak, decide the best framework for your web application, and more.**Chat** relies on your prompts to comprehensively provide you with the best possible answers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Bing Reinvents Web Searching
@@ -105,16 +105,18 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-rhythm-rulers-elevating-instagram-posts-with-songs/"><u>[New] 2024 Approved Rhythm Rulers Elevating Instagram Posts with Songs</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-channel-transformation-optimal-video-concepts-to-elevate-creativity/"><u>[Updated] Channel Transformation Optimal Video Concepts to Elevate Creativity</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-instagrams-square-videos-using-imovie/"><u>[Updated] In 2024, The Ultimate Guide to Instagram's Square Videos Using iMovie</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2023-streamline-post-tweeted-videos-to-whatsapp-for-2024/"><u>2023 Streamline Post Tweeted Videos to WhatsApp for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030304182-mp4/"><u>動画ファイルMP4におけるプロパティ設定と修正手順解説</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028362684-ts/"><u>高度なテクニックで「TSファイル」から明瞭に分離された音声解析: 第一・第二方法解説</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/assessment-the-second-generation-google-nest-hub-and-its-lack-of-a-camera-functionality/"><u>Assessment: The Second Generation Google Nest Hub and Its Lack of a Camera Functionality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030387971-fc2/"><u>FC2ビデオダウンロード失敗原因とその時点での対策手順を学ぶ</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726027605305-mkv/"><u>MKVファイルを携帯電話画面に表示する方法とトラブルシューティング</u></a></li>
-<li><a href="https://win-updates.techidaily.com/pros-and-cons-free-and-professional-editions-of-zune-video-converter-analysis/"><u>Pros and Cons: Free and Professional Editions of Zune Video Converter Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028495556-youtube/"><u>YouTube画面の拡張 - ビデオ画像サイズを効果的に増やすテクニック</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-vdsc-vidmaster-tale-a-comprehensive-evaluation/"><u>[New] In 2024, VDSC VidMaster Tale A Comprehensive Evaluation</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-intellectual-property-rules-for-instagram-beats-for-2024/"><u>[Updated] Intellectual Property Rules for Instagram Beats for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dive-into-the-details-unveiling-the-secrets-behind-espnpluss-innovative-viewing-experience/"><u>Dive Into the Details: Unveiling the Secrets Behind ESPN+'s Innovative Viewing Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-platforms-for-ai-enhanced-storytelling/"><u>Exclusive Platforms for AI-Enhanced Storytelling</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-free-fix-swiftly-vanish-coffee-stains-from-your-iphone-pics/"><u>In 2024, Free Fix Swiftly Vanish Coffee Stains From Your iPhone Pics</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-vivo-y100a-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo Y100A Lock Screen Password</u></a></li>
+<li><a href="https://techtrends.techidaily.com/les-10-meilleurs-correcteurs-video-gratuit-ai-en-ligne-compatibles-avec-windows-et-mac-choisissez-le-meilleur/"><u>Les 10 Meilleurs Correcteurs Vidéo Gratuit AI en Ligne Compatibles Avec Windows Et Mac : Choisissez Le Meilleur</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-win-11-adjusting-proxy-preferences/"><u>Navigating Win 11: Adjusting Proxy Preferences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essential-tutorial-for-offline-llama-2-running/"><u>The Essential Tutorial for Offline Llama 2 Running</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/timeframe-tension-why-does-chatgpt-4-take-longer/"><u>Timeframe Tension: Why Does ChatGPT-4 Take Longer?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-ultimate-choice-ring-or-nest-for-your-home-security/"><u>Unveiling the Ultimate Choice: Ring or Nest for Your Home Security?</u></a></li>
+<li><a href="https://win-help.techidaily.com/wie-man-einzelne-systemabbilder-dateien-aus-der-sicherung-von-windows-11-extrahiert/"><u>Wie Man Einzelne Systemabbilder-Dateien Aus Der Sicherung Von Windows 11 Extrahiert</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/your-first-steps-into-ai-begin-with-our-9-communities/"><u>Your First Steps Into AI: Begin with Our 9 Communities</u></a></li>
 </ul></div>
 

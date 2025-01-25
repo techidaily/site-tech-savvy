@@ -1,7 +1,7 @@
 ---
 title: "Bard by Google: Pioneering a Future Beyond ChatGPT"
-date: 2024-08-29T19:48:25.303Z
-updated: 2024-08-30T19:48:25.303Z
+date: 2025-01-19T22:02:14.080Z
+updated: 2025-01-24T16:07:35.760Z
 tags:
   - chatgpt
   - open-ai
@@ -29,13 +29,25 @@ thumbnail: https://thmb.techidaily.com/6ff66889aaf2236739a2923efe4cfc57f9cd9ea7a
 
 ![google bard on smartphone example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/google-bard-on-smartphone-example.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit:[Google](https://blog.google/technology/ai/bard-google-ai-search-updates/)
 
  Unlike ChatGPT, Sundar Pichai explained that Bard will initially only be available to a few trusted testers, with plans to scale to more users. The announcement also showcased what the initial release would look like with several examples—some of which look strikingly similar to what ChatGPT would do. So, is Bard going to be just another ChatGPT?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Google Bard Could Be Better Than ChatGPT
 
 ![An illustration of an AI bot performing meeting analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/AI-Meeting-Assistant-for-Online-Meetings-Featured-Image.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT was released on November 30, 2022, after a lengthy development period. The entire development process, including the base technology that powers it, spanned several years. At first glance, this would mean Google had less than three months to build a product to rival ChatGPT, a product built on years of evolving technology.
 
@@ -50,9 +62,9 @@ thumbnail: https://thmb.techidaily.com/6ff66889aaf2236739a2923efe4cfc57f9cd9ea7a
  In simpler terms, this would mean Google's Bard would be able to provide fresh, up-to-date responses while ChatGPT would, unfortunately, be limited to information relating to events, not beyond 2021 (ChatGPT's current data training cut-off).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Will Google Bard Work?
 
  From the demonstrations Google has provided, it's not entirely clear whether Bard will exist as a standalone prompt-response web interface like ChatGPT "after the initial testing phase."
@@ -60,17 +72,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  However, in typical Google fashion, Google will almost certainly push to deeply integrate Bard into most of its products, including Google Search, akin to what Microsoft is trying to do with Bing and other Microsoft products using ChatGPT technology.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Google's Bard Demonstration Features Factual Issues
 
  But despite the interest and understandable hype with Google's Bard announcement, its first demonstration didn't go well. Eagle-eyed astronomers quickly pointed out that at least one of the "facts" delivered by Bard was completely wrong. For example, Bard stated that the James Webb Space Telescope "took the very pictures of a planet outside of our own solar system," but the European Very Large Telescope accomplished that accolade in 2004.
 
  Bard is still in its very early stages, but its false statement was a clear indicator of the issues of integrating conversational AI technology deeper into general internet search, where many will trust what is written.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Will Google's Bard AI Be Better Than ChatGPT?
 
  Google has been sitting on a wealth of truly phenomenal AI tools, only periodically giving the public a glimpse of what it has to offer.
@@ -83,8 +93,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +100,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-capture-clarity-complimentary-photo-refining-app/"><u>[New] Capture Clarity - Complimentary Photo Refining App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-montage-apps-8-leading-options-iphoneandroid/"><u>[New] The Ultimate Guide to Montage Apps 8 Leading Options (iPhone/Android)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-digital-arcade-over-a-hundred-game-channels/"><u>[Updated] In 2024, Digital Arcade Over a Hundred Game Channels</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/converti-file-mpe-a-formato-avi-online-gratuitamente-con-movavi/"><u>Converti File MPE a Formato AVI Online Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/day-two-highlights-from-ces-2023-top-tech-innovations-unveiled-zdnets-exclusive-coverage/"><u>Day Two Highlights From CES 2023: Top Tech Innovations Unveiled - ZDNet's Exclusive Coverage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-top-contender-for-wyze-camera-lovers-how-the/"><u>Discovering the Top Contender for Wyze Camera Lovers: How The</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dive-into-computing-with-toms-hardware-experts-your-ultimate-resource-for-gadget-analysis/"><u>Dive Into Computing with Tom's Hardware Experts: Your Ultimate Resource for Gadget Analysis</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/elevate-conversational-impact-how-to-pin-messages-wisely-in-discord/"><u>Elevate Conversational Impact How to Pin Messages Wisely in Discord</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-labor-day-offer-secure-your-home-for-under-80-with-blinks-multi-cam-floodlight-setup/"><u>Exclusive Labor Day Offer! Secure Your Home for Under $80 with Blink's Multi-Cam Floodlight Setup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-review-the-ultimate-guide-to-the-jackery-explorer-1500-pro-a-top-tier-portable-charger/"><u>Expert Review: The Ultimate Guide to the Jackery Explorer 1500 Pro - A Top-Tier Portable Charger!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-extraordinary-heat-defying-abilities-of-a-sturdy-android-device-overshadowing-the-mundane-iphone/"><u>Explore the Extraordinary Heat-Defying Abilities of a Sturdy Android Device, Overshadowing the Mundane iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-more-bang-for-your-buck-how-the-ring-spotlight-cam-pro-outperforms-expectations-on-sale-this-labor-day-zdnet-insight/"><u>Get More BANG FOR YOUR BUCK: How the Ring Spotlight Cam Pro Outperforms Expectations on Sale This Labor Day | ZDNET Insight</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/securing-group-discussions-on-hangouts-for-2024/"><u>Securing Group Discussions on Hangouts for 2024</u></a></li>
+</ul></div>
 

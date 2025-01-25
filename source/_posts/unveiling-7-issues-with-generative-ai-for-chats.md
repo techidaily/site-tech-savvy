@@ -1,7 +1,7 @@
 ---
 title: Unveiling 7 Issues with Generative AI for Chats
-date: 2024-08-29T19:45:46.855Z
-updated: 2024-08-30T19:45:46.855Z
+date: 2025-01-18T22:58:59.259Z
+updated: 2025-01-24T16:42:28.735Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/4d8b9cd04159907d6ffd8170ace131d919d2ce436
 **SCROLL TO CONTINUE WITH CONTENT**
 
  But should we? Using AI technology for productivity, education, and entertainment makes sense. However, companies are now thinking about putting it directly in our messaging apps, and this can prove destructive. Here are seven reasons why.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. AI Chatbots Tend to Hallucinate
 
@@ -45,9 +49,6 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
 
  Using AI to write emails, for example, is understandable since it's a professional interaction, but using it in personal conversations will not be something anyone would want to encourage. Once the novelty of the tech fades, it'll become rude to use it in this context.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 3\. AI Cannot Copy Your Unique Tonality
 
  Generative AI tools today already allow you to change the tonality of your message, such as formal, cheerful, or neutral depending on who you are writing to and how you want to come across. [Magic Compose in Google Messages](https://www.makeuseof.com/ai-powered-features-coming-to-android/), for example, allows you to do the same.
@@ -59,8 +60,9 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
  Up until AI tools allow you the option to train their language model based on your chat history, they will not be able to replicate your unique dialect and eccentricities. That said, this challenge is not that hard to solve, so we might see it being implemented soon.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Writing Good Prompts Takes Time
 
 ![Man Texting on Mobile Phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/man-mobile.jpg)
@@ -72,17 +74,15 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
  The time it might take to refine your prompts and get useable responses will be, in most cases, more than the time it would've taken you if you just wrote the messages yourself.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. AI May Produce Offensive Results
 
  Aside from accuracy, bias is one of the [biggest problems with generative AI](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/). Some people perceive AI as unbiased since it doesn't have its own motives. However, the people behind these AI tools are ultimately humans with their own biases.
 
  In other words, bias is baked into the system. AI doesn't inherently understand what's considered offensive and what's not, so it might, for instance, be trained to be biased against certain groups of people or certain cultures—hence producing offensive results in the process.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. AI May Not Understand Sarcasm or Humor
 
  AI's understanding of figures of speech, such as irony and metaphor, is improving over time, but it's still far from being at a point where it can be used in a conversation to recognize humor. When asking Google's Bard to be sarcastic, for example, the results were hit-or-miss.
@@ -92,8 +92,9 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
  In some cases, it was genuinely funny and played along with my sarcasm. But in other cases, it either defaulted back to an unfunny cookie-cutter response or simply refused to participate in the conversation altogether, saying that as it's just a LLM, it can't help me with my query.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reliance on AI May Lead to Poor Communication
 
  Another subtle yet substantial problem with integrating generative AI into messaging apps is how it can affect our ability to communicate. If we increasingly rely on AI to converse with each other, it may hinder our ability to [train our emotional intelligence](https://www.makeuseof.com/ways-increase-your-emotional-intelligence/) and social skills.
@@ -101,8 +102,9 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
  The point here is that the more we outsource our social needs to AI, the worse we will get at communicating ideas through organic means. In other words, the more you use AI to talk to your contacts, the more likely you may be to degrade the quality of your relationships.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Not Everything Needs to Have AI
 
  Oftentimes, with the advent of new technology, we are so busy figuring out how to use it that we fail to argue whether we should be using it in the first place.
@@ -113,14 +115,11 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
 
  But should we? Using AI technology for productivity, education, and entertainment makes sense. However, companies are now thinking about putting it directly in our messaging apps, and this can prove destructive. Here are seven reasons why.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -129,4 +128,26 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-a-guide-to-tailoring-your-hashtag-strategy-for-maximum-engagement-and-conversion-rates-on-facebook/"><u>[New] 2024 Approved A Guide to Tailoring Your Hashtag Strategy for Maximum Engagement and Conversion Rates on Facebook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pro-editors-insight-restore-true-colors-to-faded-iphone-hdr-in-adobe-premiere/"><u>[Pro Editor's Insight] Restore True Colors to Faded iPhone HDR in Adobe Premiere</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-comprehensive-guide-screenflow-pro-on-macos-for-2024/"><u>[Updated] Comprehensive Guide ScreenFlow Pro on macOS for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-optimal-techniques-to-record-your-snapchat-stories/"><u>2024 Approved Optimal Techniques to Record Your Snapchat Stories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-chatgpts-memory-of-your-private-talks/"><u>Avoiding ChatGPT's Memory of Your Private Talks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypass-ais-windows-11-keys-at-your-own-risk/"><u>Bypass AI's Windows 11 Keys at Your Own Risk</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/easily-set-up-and-link-your-professional-mail-in-microsoft-outlook-a-detailed-tutorial/"><u>Easily Set Up and Link Your Professional Mail in Microsoft Outlook: A Detailed Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-guide-updating-windows-battery-driver-software-with-ease/"><u>Effortless Guide: Updating Windows Battery Driver Software with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-ai-experience-top-reasons-to-choose-claude-3-over-chatgpt/"><u>Elevate Your AI Experience: Top Reasons to Choose Claude 3 OVER ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209659317-hidden-in-plain-sight-your-sd-card-solution/"><u>Hidden in Plain Sight - Your SD Card Solution!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-smart-7-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Smart 7.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-ais-frailty-understanding-how-prompt-injections-work/"><u>Inside AI's Frailty: Understanding How Prompt Injections Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insights-on-codegpt-envisioning-a-world-with-ai-coders/"><u>Insights on CodeGPT: Envisioning a World with AI Coders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-enhanced-multilingual-acquisition/"><u>Leveraging ChatGPT for Enhanced Multilingual Acquisition</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-in-2024-how-to-add-bitmoji-to-keyboard/"><u>New In 2024, How to Add Bitmoji to Keyboard?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-conversations-with-chatgpts-wolfram-integration/"><u>Optimizing Conversations with ChatGPT's Wolfram Integration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-msstdfmtdll-file-not-present-or-unreachable-errors/"><u>Resolving 'msstdfmt.dll' File Not Present or Unreachable Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/selecting-chatgpt-as-a-tool-for-enhancing-mental-health-outcomes/"><u>Selecting ChatGPT as a Tool for Enhancing Mental Health Outcomes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-flip-side-using-ai-to-combat-malware/"><u>The Flip Side: Using AI to Combat Malware</u></a></li>
+</ul></div>
 

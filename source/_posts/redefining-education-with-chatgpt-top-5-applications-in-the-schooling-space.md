@@ -1,7 +1,7 @@
 ---
 title: "Redefining Education with ChatGPT: Top 5 Applications in the Schooling Space"
-date: 2024-08-29T19:51:03.981Z
-updated: 2024-08-30T19:51:03.981Z
+date: 2025-01-20T20:24:41.653Z
+updated: 2025-01-24T18:28:33.854Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f
 
 ![ChatgGPT prompt for crash study plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatggpt-prompt-for-crash-study-plan.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We prompted ChatGPT to make a study plan for an "Introduction to JavaScript programming" course, and here's the result:
 
 ![ChatGPT crash course plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-crash-course-plan.jpg)
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f
 * Refine the plan to place \[more/less\] emphasis on certain topics.
 * Refine the plan to add \[minutes/hours\] breaks during study hours.
 * Refine the plan to allocate \[more/less\] time to practical sessions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Identify Shortcuts or Tricks for Complex Course Problems
 
@@ -70,11 +78,9 @@ thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f
 ![stay ahead of the learning curve with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/stay-ahead-of-the-learning-curve-with-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 4\. Summarize Long Text and Extract Key Points
 
  Most of what you'll do as a student involves reading long texts and making summaries or key points. ChatGPT is impressively good at text summarization and extracting key points from voluminous texts. It could be an incredibly useful reading companion, helping you make sense of large texts without having to read through the entirety of them. Instead, copy the text in bits, feed it to ChatGPT, and ask it to make summaries or identify the key points from it.
@@ -85,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f
 
  After using the prompt, split the text you wish to summarize into bits and feed the entirety of it to ChatGPT. After you've provided the entire text, prompt it to extract the key point or create a summary of a certain length from the text you've provided.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Improve or Review Creative Writing
 
 [ChatGPT is very impressive in generating creative work](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) like letters, essays, and academic writing. Although some students have chosen the rather unethical part of outsourcing the entire writing process to ChatGPT, the tool can be utilized for reviewing and improving something you wrote rather than asking the chatbot to write it from scratch.
@@ -97,15 +100,13 @@ thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f
 ![Essay for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/essay-for-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We put together a short story in a haphazard manner, as shown in the screenshot above, and asked ChatGPT to clean it up. Here's the result:
 
 ![complete story by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/complete-story-by-chatgp.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
  Rather than outright asking ChatGPT to write an essay, you can write yours and use the following prompts to improve your work:
 
 * Rewrite the text in quotes using correct grammar (but do not rewrite actual quotes!)
@@ -116,20 +117,18 @@ thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f
 * Suggests some improvements that would make the text suitable for a \[target audience\].
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use ChatGPT Cautiously In Education
 
  While ChatGPT is undoubtedly an impressive learning companion, it is important to understand that the tool is still a development product. Using ChatGPT as the sole source of information in academic settings is not advisable; the chatbot cannot separate fact from fiction. While we encourage you to make the best use of ChatGPT for learning, use it with caution.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +137,23 @@ thumbnail: https://thmb.techidaily.com/d9de24816d3ddace39801c0414212d66853043d5f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-best-ways-to-record-video-without-sound/"><u>[New] Best Ways to Record Video Without Sound</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-quick-guide-merging-igtv-with-instagram-stories/"><u>[New] Quick Guide Merging IGTV with Instagram Stories</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-direct-hit-at-simplifying-livestreaming/"><u>[Updated] Direct Hit at Simplifying Livestreaming</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unlocking-simplicity-your-guide-to-direct-signup-buttons/"><u>[Updated] In 2024, Unlocking Simplicity Your Guide to Direct Signup Buttons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-its-impact-on-writers-job-prospects-5challenges/"><u>ChatGPT & Its Impact on Writers' Job Prospects - #5Challenges</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-plus-a-language-learning-powerhouse-for-modern-learners/"><u>ChatGPT Plus: A Language Learning Powerhouse for Modern Learners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-your-secret-weapon-in-cover-letter-writing/"><u>ChatGPT: Your Secret Weapon in Cover Letter Writing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ideal-top-ten-video-calls-applications-for-alltech-for-2024/"><u>Ideal Top-Ten Video Calls Applications for Alltech for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-oppo-a1-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Oppo A1 5G Phone?</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-sites-for-the-savvy-employee-insights-and-strategies/"><u>Social Sites for the Savvy Employee: Insights & Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synthesizing-smart-tech-for-crypto-conversation-top-8-tools-guide/"><u>Synthesizing Smart Tech for Crypto Conversation – Top 8 Tools Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-flaws-of-ai-chatbots-top-8-issues-with-gpt/"><u>The Flaws of AI Chatbots: Top 8 Issues with GPT</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-role-of-look-up-tables-in-cinematic-coloring/"><u>The Role of Look-Up Tables in Cinematic Coloring</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/translating-languages-in-real-time-how-chatgpt-works-its-magic/"><u>Translating Languages in Real-Time: How ChatGPT Works Its Magic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-unplugged-headphones-yet-still-hear-audio-from-laptop/"><u>Troubleshooting Guide: Unplugged Headphones Yet Still Hear Audio From Laptop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-corporate-concerns-the-5-most-significant-arguments-for-banning-gpt/"><u>Unveiling Corporate Concerns: The 5 Most Significant Arguments for Banning GPT</u></a></li>
+</ul></div>
 

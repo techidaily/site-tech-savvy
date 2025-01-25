@@ -1,7 +1,7 @@
 ---
 title: "Access Immediately: Explore 8 Specially Designed AIs"
-date: 2025-01-11T16:25:41.035Z
-updated: 2025-01-18T16:44:43.262Z
+date: 2025-01-22T19:15:31.318Z
+updated: 2025-01-24T16:54:40.132Z
 tags:
   - chatgpt
   - open-ai
@@ -31,12 +31,16 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Resume and Cover Letter Creator
 
 ![Screenshot of Custom GPT Resume Maestro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/resume-maestro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I built a custom GPT called "Resume Maestro." Once it receives a job post description, it immediately comes up with a resume with the right professional details included. It captures everything from names and contact details to work experience, educational history, and achievements. It also writes a cover letter that isn't just tailored to the job post but also aligns with personal experiences relevant to the job. Better still, its output is immediately available for download as a PDF or Word file, all under ten seconds.
 
@@ -46,12 +50,16 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
  Here's a guide on [how to create your first custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/) if you're not sure how to.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Translation Tool
 
 ![Screenshot of Custom GPT called Pidgin Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pidgin-hero-description-card.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the weeks following ChatGPT's release, we tested [ChatGPT's ability to translate text compared to Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/). While Google's translation tool performed admirably against the massive power that is ChatGPT, it struggled with certain languages like Pidgin English, a widely spoken Creole in parts of West Africa. Although ChatGPT was better in this aspect, it also struggled as well.
@@ -59,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
  To improve translation capabilities for Pidgin, I created a custom GPT for Pidgin translation. How? I fed it dozens of expert Pidgin dictionaries and linguistic resources. After re-testing ChatGPT against Google Translate on Pidgin text, the results were striking—ChatGPT significantly outperformed Google Translate by nearly all metrics. This example highlights the power of building custom GPTs for specific translation tasks, irrespective of language. With the right training data, these customized chatbots can surpass even the best general translation tools. Fancy playing around with Pidgin?
 
 **Try this GPT:**[Pidgin Hero](https://chat.openai.com/g/g-CcgN0HIuC-pidgin-hero).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Programming Project Assistant
 
@@ -75,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 ## 4\. Personal Movie Recommender
 
 ![movie recommender Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/movie-recommender-custom-gpt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Let's be honest, Netflix can be horrible at suggesting what to watch next. I asked classic ChatGPT to recommend some historical Korean TV shows. I wanted shows with themes of power, royalty, heroism, and war. The result was a mixed bag. Some options were strong, while others seemed randomly selected based on popularity rather than relevance.
 
@@ -116,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
 ![Custom GPT for Work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-work.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Could custom GPTs improve your workflow or automate tasks in your job? For many roles, the answer is yes. Consider your typical work responsibilities and identify repetitive or time-consuming areas that could benefit from AI assistance.
 
  For example, as a graphic designer side gig, I built a custom GPT to create geometric Google-inspired logos using my client's brand colors: blue, red, yellow, and green. I trained it by uploading several examples of logos we designed in this style. Now, when prompted to create a logo for anything, the GPT generates professional logo options that meet the brand requirements. While a simple illustration, it demonstrates how tailored GPTs can replicate elements of human work.
@@ -127,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 **Try this GPT**: [Colorful Creations](https://chat.openai.com/g/g-e7klUPLGp-colorful-creations).
 
  Another example I tried was building a GPT for interior design. After teaching the GPT the kind of designs I liked, prompting the GPT to provide interior design ideas based on certain parameters was quite easy. With custom GPTs, there are many angles to explore; it all boils down to what you do and how creative you get. The possibilities to leverage GPTs are vast across professions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Custom GPTs: Endless Possibilities for Work and Fun
 
@@ -155,19 +155,17 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-excellence-professional-editing-techniques-revealed/"><u>[Updated] 2024 Approved Instagram Excellence Professional Editing Techniques Revealed</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unleash-creativity-a-comprehensive-guide-to-instagrams-gif-features/"><u>[Updated] Unleash Creativity A Comprehensive Guide to Instagram's GIF Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/battling-fraudgpt-threats-essential-protection-tactics/"><u>Battling FraudGPT Threats: Essential Protection Tactics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/data-driven-dialogue-building-personalized-ai-engagement/"><u>Data-Driven Dialogue: Building Personalized AI Engagement</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/hack-proof-chatterbots-a-must-do-guide/"><u>Hack-Proof Chatterbots: A Must-Do Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-iphone-7-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on iPhone 7 or iPad?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-x50-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor X50.</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-motorola-edge-40-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Motorola Edge 40 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-vivo-y200e-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Vivo Y200e 5G Phones with/without a PC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/occupational-change-are-careers-vulnerable-to-ai/"><u>Occupational Change: Are Careers Vulnerable to AI?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionary-chatgpt-tweaks-youll-love/"><u>Revolutionary ChatGPT Tweaks You'll Love!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-operational-principles-behind-openais-gpt-3-sharing/"><u>The Operational Principles Behind OpenAI's GPT-3 Sharing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-golivepod-steps-for-a-hassle-free-podcast-broadcast-experience/"><u>[New] GoLivePod Steps for a Hassle-Free Podcast Broadcast Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-how-to-find-the-optimal-balance-equipment-for-drone-photography/"><u>[Updated] 2024 Approved How To Find the Optimal Balance Equipment for Drone Photography</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-from-front-to-back-the-instagram-art-of-flipping-visuals-with-ease-for-2024/"><u>[Updated] From Front to Back The Instagram Art of Flipping Visuals with Ease for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/99-for-superior-performance-experience-the-ultimate-airflow-with-the-new-black-noctua-nh-d12l/"><u>$99 for Superior Performance! Experience the Ultimate Airflow with the New Black Noctua NH-D12L</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-ground-rules-of-e-storytelling-techniques/"><u>2024 Approved Ground Rules of E-Storytelling Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accessible-registration-how-to-use-whatsapp-without-a-number/"><u>Accessible Registration: How to Use WhatsApp without a Number</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artful-resume-design-using-chatgpt-as-a-tool/"><u>Artful Résumé Design: Using ChatGPT as a Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ios-version-of-chatgpt/"><u>Discover the iOS Version of ChatGPT</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-laying-the-groundwork-15-basic-shots-every-director-needs/"><u>In 2024, Laying the Groundwork 15 Basic Shots Every Director Needs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfected-presentations-with-the-help-of-chatgpt-insights/"><u>Perfected Presentations with the Help of ChatGPT Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-nokia-c32-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Nokia C32 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-updated-macbook-air-apple-introduces-13-and-15-models-featuring-the-powerful-m3-processor-key-updates-detailed/"><u>Unveiling the Updated MacBook Air: Apple Introduces 13 & 15 Models Featuring the Powerful M3 Processor - Key Updates Detailed !</u></a></li>
 </ul></div>
 

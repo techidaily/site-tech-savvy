@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Work Efficiency: The Role of ChatGPT as a Personal Assistant"
-date: 2025-01-16T16:38:17.430Z
-updated: 2025-01-18T16:46:46.092Z
+date: 2025-01-19T22:31:42.285Z
+updated: 2025-01-24T23:22:23.688Z
 tags:
   - chatgpt
   - open-ai
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 
 ![interaction with ChatGPT asking it to arrange tasks via the ABCDE method](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t184949-148.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After asking ChatGPT to help you prioritize tasks, try using these follow-up prompts:
 
 * **Add a task to your task list**: “ChatGPT, please add ‘Prepare presentation for the marketing meeting’ to my to-do list for tomorrow.”
@@ -60,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 
  Tip: Avoid giving long-winded and complicated instructions to get the best results. Keep each request as simple and as straightforward as possible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Ask ChatGPT for Writing Assistance
 
  ChatGPT is not just a task manager; it’s also a versatile writing assistant. Whether you need help crafting a compelling email, polishing a report, or generating creative content, ChatGPT can lend a virtual hand.
@@ -69,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
  In this prompt, we asked ChatGPT for resume writing assistance in [creating a one-page resume](https://www.makeuseof.com/create-one-page-resume/). We used the prompt: “Can you help me create a resume summary? Let me know what details you need.”
 
 ![interacting with chatgpt to help write a resume summary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t185502-413.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We added “Let me know what details you need” in our prompt to help ChatGPT come up with the best answer. ChatGPT gives results based on what it knows. If you want the outcome to be more specific, provide it with solid information.
 
@@ -83,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 3. “Generate a creative tagline for our upcoming marketing campaign centered around \[product/service\].”
 4. “Give \[number\] synonyms for \[word\]."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Ask ChatGPT to Help With Email-Related Tasks
 
  Dealing with overflowing email inboxes can be overwhelming, especially for remote workers. ChatGPT can come to the rescue by assisting with various email-related tasks.
@@ -93,19 +101,11 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 
 ![chatgpt summary of an email using bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t190106-778.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Other email prompts you can use:
 
 * “ChatGPT, compose an email to \[recipient\] regarding our meeting tomorrow and include the agenda.”
 * “Summarize the key points from the email thread about \[subject\] so I can quickly catch up.”
 * “Can you suggest a follow-up email template for when a client expresses interest in our product?”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Ask ChatGPT to Assist You in Gaining New Skills and Expertise
 
@@ -116,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 ![conversation with ChatGPT about HIPAA privacy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t190351-135.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As of this writing, ChatGPT can provide information up to its last knowledge update in September 2021\. [Forbes](https://www.forbes.com.au/news/innovation/chatgpt-removes-september-2021-knowledge-cutoff/) reports that Open AI will soon remove the knowledge cut-off restriction for all users. However, the timeline for this update is still unclear.
@@ -138,10 +138,6 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 
 ![conversation with ChatGPT asking for sitcom recommendations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t191243-497.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We used the following prompt for this example: “I want to watch a good sitcom this weekend. I enjoyed Friends and The Big Bang Theory. Can you give other recommendations?” ChatGPT gave ten sitcoms that fit our bill for a good weekend laugh.
 
  Other prompts to try:
@@ -151,6 +147,10 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 * “I’m planning a vacation to \[destination\]. Can you recommend some must-visit attractions and activities?”
 
  Tip: ChatGPT is designed to understand and respond to natural language queries, so feel free to communicate with it conversationally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Say Hello to Your Personal Assistant, ChatGPT
 
@@ -177,17 +177,24 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-photo-editing-removing-backdrops-with-picsart/"><u>[New] Mastering Photo Editing Removing Backdrops with Picsart</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-exceptional-upgrades-for-gopro-captures/"><u>[Updated] 2024 Approved Exceptional Upgrades for GoPro Captures</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726227193729-movavipgmbmp/"><u>移動視頻格式自由瀏覽：用Movavi無限制地從PGM改變成BMP</u></a></li>
-<li><a href="https://win-online.techidaily.com/how-to-get-just-the-sound-converting-mp4-video-files-to-audio-for-free-windows/"><u>How to Get Just the Sound - Converting MP4 Video Files to Audio for Free (Windows)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-14-pro-max-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 14 Pro Max When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/installation-error-windows-10-version-1607-upgrade-fails/"><u>Installation Error: Windows 10 Version 1607 Upgrade Fails</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mark-your-calendars-for-march-the-second-gen-ipad-revolution-with-enhanced-features-is-set-to-hit-shelves-soon/"><u>Mark Your Calendars for March: The Second-Gen iPad Revolution with Enhanced Features Is Set to Hit Shelves Soon!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-format-transformation-techniques-for-changing-videoaudio-types/"><u>Mastering Format Transformation: Techniques for Changing Video/Audio Types</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp4xbox-360/"><u>MP4再生秘技※Xbox 360版 - トラブル解決のコツを学んでみて!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp4-ts-how-to/"><u>MP4への高品質変換: TSファイルから最良級で保存 - How To</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-youtube-scriptwriting-with-chatgpt-tips-and-tricks/"><u>Transform Your YouTube Scriptwriting with ChatGPT - Tips and Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-your-gameplay-solving-fps-drops-in-titanfall-2-quickly-and-easily/"><u>Boost Your Gameplay: Solving FPS Drops in Titanfall 2 Quickly & Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-googles-gemini-the-projects-core-objectives-and-workings/"><u>Delving Into Google's Gemini: The Project’s Core Objectives and Workings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-chatgpt-pioneering-the-artificial-intelligence-frontier/"><u>Discovering ChatGPT: Pioneering the Artificial Intelligence Frontier</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-tips-for-chatgpt-plugin-implementation/"><u>Essential Tips for ChatGPT Plugin Implementation</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-winxps-notorious-error-0x80300024/"><u>Fixing WinXP's Notorious Error 0X80300024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-start-to-finish-seamless-editing-with-kinemaster-for-2024/"><u>From Start to Finish Seamless Editing with Kinemaster for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/high-quality-console-gameplay-capture-using-pcs-for-2024/"><u>High-Quality Console Gameplay Capture Using PCs for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-v30-lite-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo V30 Lite 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-fake-followers-trap-on-youtube-landscapes/"><u>In 2024, Unveiling Fake Followers' Trap on YouTube Landscapes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intro-to-langchain-a-light-on-large-model-logic/"><u>Intro to LangChain: A Light on Large Model Logic</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/october-marks-new-launch-date-for-apples-ai-capabilities-industry-updates-covered-by-zdnet/"><u>October Marks New Launch Date for Apple's AI Capabilities; Industry Updates Covered by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pathways-through-ai-your-openai-primer/"><u>Pathways Through AI: Your OpenAI Primer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalizing-your-control-experience-on-iphone-with-ios-18-expert-tips-and-tricks/"><u>Personalizing Your Control Experience on iPhone with iOS 18: Expert Tips and Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shave-minutes-off-your-workday-with-these-plugins/"><u>Shave Minutes Off Your Workday With These Plugins</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/solving-quick-fix-popcorn-time-loading-errors-easy-repair-guide/"><u>Solving Quick-Fix Popcorn Time Loading Errors - Easy Repair Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-art-of-scroll-mastery-in-win-810/"><u>The Art of Scroll Mastery in Win 8/10</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ate-list-free-best-ios-video-editor-tools/"><u>Ultimate List Free, Best iOS Video Editor Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-exclusive-apples-phase-out-of-apple-pay-later-and-anticipation-for-a-replacement-service/"><u>ZDNet Exclusive: Apple's Phase-Out of Apple Pay Later & Anticipation for a Replacement Service</u></a></li>
 </ul></div>
 

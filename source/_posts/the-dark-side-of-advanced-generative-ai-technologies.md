@@ -1,7 +1,7 @@
 ---
 title: The Dark Side of Advanced Generative AI Technologies
-date: 2025-01-12T17:34:50.876Z
-updated: 2025-01-18T17:36:04.751Z
+date: 2025-01-23T20:04:28.861Z
+updated: 2025-01-24T18:49:42.551Z
 tags:
   - chatgpt
   - open-ai
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 ![Accessing the Open-Source Codes of HuggingFace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/huggingface-open-source-codes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Jailbreaking Prompts Trick LLMs
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 ![Jailbreaking ChatGPT With DAN Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-dan-jailbreak-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here’s ChatGPT with a bold yet false statement.
@@ -76,20 +76,12 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 
 ![ChatGPT Roleplaying as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-tomie-roleplays.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And here’s Bing Chat refusing to play an “immoral” persona.
 
 ![Bing Chat Refusing to Roleplay as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-tomie-roleplay.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. New Generative AI Tools Hit the Market Regularly
@@ -108,12 +100,16 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 
  While OpenAI quickly resolved the issue, it emphasizes the importance of system regulation and risk management. AI is maturing faster than anyone anticipated. Even tech leaders worry that this superintelligent technology could cause massive damage in the wrong hands.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. AI Is Still Evolving
 
 ![ChatGPT, Bard, Bing, and Snapchat AI Logos Side by Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/different-ai-logos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  AI is still evolving. While [the use of AI in cybernetics dates back to 1940](https://coe.int/en/web/artificial-intelligence/history-of-ai), modern machine learning systems and language models only recently emerged. You can’t compare them with the first implementations of AI. Even relatively advanced tools like Siri and Alexa pale in comparison to LLM-powered chatbots.
@@ -121,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
  Although they may be innovative, experimental features also create new issues. [High-profile mishaps with machine learning technologies](https://www.makeuseof.com/examples-machine-learning-artificial-intelligence-went-wrong/) range from flawed Google SERPs to biased chatbots spitting racial slurs.
 
  Of course, developers can fix these issues. Just note that crooks won’t hesitate to exploit even seemingly harmless bugs—some damages are irreversible. So be careful when exploring new platforms.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Many Don’t Understand AI Yet
 
@@ -165,20 +165,16 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-harnessing-the-power-of-visual-education-techniques/"><u>[New] 2024 Approved Harnessing the Power of Visual Education Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-haste-assessment-of-windows-documents/"><u>[New] Haste Assessment of Windows Documents</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-make-a-statement-pushing-thumbnail-visual-impact-with-fantasy-bgs/"><u>[Updated] Make a Statement Pushing Thumbnail Visual Impact with Fantasy BGs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-ai-unveiling-transfer-learning-mechanisms/"><u>Demystifying AI: Unveiling Transfer Learning Mechanisms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-discourse-divergence-what-sets-gpt-and-bingbot-apart/"><u>Digital Discourse Divergence: What Sets GPT and BingBot Apart?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-presentation-quality-harnessing-the-potential-of-chatgpt/"><u>Enhancing Presentation Quality: Harnessing the Potential of ChatGPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-repair-the-missing-file-warning-addressing-mfc42dll-deficiency/"><u>How To Repair The 'Missing File' Warning: Addressing mfc42.dll Deficiency</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Nokia G22? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-tecno-pop-7-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Tecno Pop 7 Pro Phone?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-conversations-just-add-chatgpt-and-android/"><u>Mastering Conversations - Just Add ChatGPT & Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-deadlines-with-the-assistance-of-chatgpt/"><u>Mastering Deadlines with the Assistance of ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smart-owners-integrating-these-pioneering-five-ai-solutions/"><u>Smart Owners: Integrating These Pioneering Five AI Solutions</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/switching-sides-in-depth-look-at-nintendos-lite-vs-oled-versions/"><u>Switching Sides: In-Depth Look at Nintendo's Lite vs OLED Versions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-the-401-unauthorized-access-issue/"><u>Ultimate Guide: Resolving the 401 Unauthorized Access Issue</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-iphone-6s-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your iPhone 6s has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-a-beginners-blueprint-to-proficiently-use-zd-soft-screen-recorder/"><u>[New] In 2024, A Beginner's Blueprint to Proficiently Use ZD Soft Screen Recorder</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-choosing-between-obs-studio-and-bandicam-for-screen-capture-for-2024/"><u>[Updated] Choosing Between OBS Studio and Bandicam for Screen Capture for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fabricate-fascinating-face-painting-gifs-on-giphy/"><u>2024 Approved Fabricate Fascinating Face-Painting Gifs on Giphy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-block-spotifys-predicted-podcast-selections/"><u>2024 Approved How to Block Spotify's Predicted Podcast Selections</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-elite-conversationalists-gpt-vs-bing-showcase/"><u>AI's Elite Conversationalists - GPT Vs. Bing Showcase</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialogic-tools-for-mythmaking-gpts-promise/"><u>Dialogic Tools for Mythmaking: GPT's Promise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-companion-in-natures-unpredictability/"><u>Digital Companion in Nature's Unpredictability</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-motorola-edge-40-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Motorola Edge 40 Safely | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-infinix-zero-30-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Infinix Zero 30 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/savings-alert-apple-watch-se-2nd-generation-drops-to-even-lower-prices-since-prime-day-ends-zdnet/"><u>Savings Alert: Apple Watch SE 2Nd Generation Drops to Even Lower Prices Since Prime Day Ends | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-clear-cut-essence-of-ai/"><u>The Clear Cut Essence of AI</u></a></li>
 </ul></div>
 

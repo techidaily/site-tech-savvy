@@ -1,7 +1,7 @@
 ---
 title: The Dilemma of Aligning Artificial Intelligence
-date: 2024-08-29T19:51:07.688Z
-updated: 2024-08-30T19:51:07.688Z
+date: 2025-01-23T17:41:51.372Z
+updated: 2025-01-24T21:33:49.129Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 
  While we won't be running into SkyNet for the foreseeable future, AI is getting better than humans at several things. That's where the AI control problem comes into play.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The AI Control Problem Explained
 
  The AI control problem is the idea that AI will eventually become better at making decisions than humans. In accordance with this theory, if humans don't set things up correctly beforehand, we won't have a chance to fix things later, meaning AI will have effective control.
@@ -35,19 +39,28 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 
  If an AI system were to surpass human intelligence without the proper safeguards, the result could be catastrophic. Such systems could assume control of physical resources as many tasks are achieved better or more efficiently. Since AI systems are designed to achieve maximum efficiency, losing control could lead to severe consequences.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Does the AI Control Problem Apply?
 
  The main problem is that the better an AI system gets, the harder it is for a human supervisor to monitor the technology to ensure manual control can be taken over easily should the system fail. Additionally, the human tendency to rely on an automated system is higher when the system performs reliably most of the time.
 
 ![Image of a laptop with AI on the screen and ChatGPT in different fonts in the background](https://thmb.techidaily.com/176a1a151aeb9ebfdcfd4bd623625c32ca353b5d86117d513193a67649a60b72.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A great example of this is the [Tesla Full-Self Driving (FSD) suite](https://www.makeuseof.com/what-is-tesla-fsd-how-does-it-work/). While the car can drive itself, it requires a human to have their hands on the steering wheel, ready to take control of the car should the system malfunction. However, as these AI systems get more reliable, even the most alert human's attention will begin to vary, and dependency on the autonomous system will increase.
 
  So what happens when cars start driving at speeds humans can't keep up with? We'll end up surrendering control to the car's autonomous systems, meaning an AI system will be in control of your life, at least until you reach your destination.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can the AI Control Problem Be Solved?
 
  There are two answers to whether or not the AI control problem can be solved. First, if we interpret the question literally, the control problem can't be solved. There's nothing we can do that directly targets the human tendency to rely on an automated system when it performs reliably and more efficiently most of the time.
@@ -61,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
  The DCAF approach always puts a human operator at the helm of an automated system, ensuring that their input controls the most important parts of the system's decision-making process. If a system is engaging enough for a human operator to pay attention constantly, the control problem can be solved.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can We Ever Truly Control AI?
 
  As AI systems become more advanced, capable, and reliable, we'll continue offloading more tasks to them. However, the AI control problem can be solved with the right precautions and safeguards.
@@ -73,14 +87,11 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 
  While we won't be running into SkyNet for the foreseeable future, AI is getting better than humans at several things. That's where the AI control problem comes into play.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -89,4 +100,21 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-obs-studio-vs-fraps-which-is-a-better-screen-capture-software-in-2024/"><u>[New] OBS Studio vs Fraps – Which Is A Better Screen Capture Software, In 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-crafting-visual-narratives-adding-memorable-story-emoji-images/"><u>[Updated] 2024 Approved Crafting Visual Narratives Adding Memorable Story Emoji Images</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-cutting-edge-video-techniques-with-apple-music/"><u>[Updated] 2024 Approved Cutting-Edge Video Techniques with Apple Music</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-dynamic-designs-mastering-motion-blur-in-adobe-ai-creations/"><u>[Updated] 2024 Approved Dynamic Designs Mastering Motion Blur in Adobe AI Creations</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-top-10-soothing-games-to-ease-anxiety/"><u>[Updated] 2024 Approved Top 10 Soothing Games to Ease Anxiety</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-efficiency-with-10-leading-chatgpt-plugins/"><u>Boost Efficiency with 10 Leading ChatGPT Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compreenas-a-comprehensive-guide-to-claude-2s-use/"><u>Compreenas a Comprehensive Guide to Claude 2'S Use</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrected-aspect-ratio-for-flexible-display/"><u>Corrected Aspect Ratio for Flexible Display</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-the-conceptual-equivalence-between-the-internet-and-an-inclusive-non-commercialized-library-system/"><u>Dissecting the Conceptual Equivalence Between the Internet and an Inclusive, Non-Commercialized Library System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-task-execution-with-these-4-powerful-chatgpt-methods/"><u>Enhance Task Execution with These 4 Powerful ChatGPT Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-global-dialogue-with-chatgpts-translation-features/"><u>Enhancing Global Dialogue with ChatGPT's Translation Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722888618687-navigate-through-the-best-free-email-services-our-top-10-favorites-revealed/"><u>Navigate Through the Best Free Email Services: Our Top 10 Favorites Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-list-of-playstation-5s-exclusive-game-offerings/"><u>The Definitive List of PlayStation 5'S Exclusive Game Offerings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-easy-way-to-retain-and-transfer-your-chatgpt-engagements/"><u>The Easy Way to Retain and Transfer Your ChatGPT Engagements</u></a></li>
+</ul></div>
 

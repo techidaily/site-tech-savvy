@@ -1,7 +1,7 @@
 ---
 title: Maximizing Excel Potential via Three ChatGPT Techniques
-date: 2024-08-29T19:48:33.038Z
-updated: 2024-08-30T19:48:33.038Z
+date: 2025-01-20T18:18:45.286Z
+updated: 2025-01-24T17:03:55.935Z
 tags:
   - chatgpt
   - open-ai
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 
 ![ChatGPT creating a formula](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-answer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We followed the exact steps in our Excel spreadsheet, and the formula calculated the total sales accurately.
 
 ![Results in the Excel sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/excel-sheet-results.jpg)
@@ -66,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 
 ![Excel sheet example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/excel-sheet-example.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We want to create a filter that will display the total sales made in the first quarter for the North region. We described this to ChatGPT and created a macro for this, as shown below:
 
 ![Excel macro example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/excel-macro-example-1.jpg)
@@ -81,17 +89,27 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 6. Click **Save** to save the macro file.  
 ![Save the macro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/save-macro.jpg)
 7. Now, return to your worksheet and head over to the **Developer** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click on **Macros** and choose **FilterData** from the list.
 9. Finally, hit **Run**.  
 ![Run the macro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-macro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This macro will now filter your data to show only the sales for the targeted region.
 
 ![Macro result in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/macro-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use ChatGPT to Automate Sending Emails
 
  When managing a large team, automating tasks such as sending emails can be a lifesaver. Excel provides various methods to automate sending emails, which is especially useful when emailing a group of people with similar details on a regular basis. Additionally, incorporating ChatGPT can further streamline the email automation process for maximum efficiency.
@@ -102,17 +120,10 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 
 ![Use ChatGPT to automate sending emails](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/vba-to-automate-emails.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Once we have the macro, we will save the module and run it by following the steps described above. As simple as that! Apart from these three methods we have listed of using ChatGPT in Excel, you can also use the chatbot to analyze and visualize data in Excel with the help of tools like Charts, and Data Analysis Toolpak. You can ask ChatGPT to explain how to use these tools effectively.
 
  Additionally, you can use ChatGPT to troubleshoot issues in Excel by providing it with the details of the error you are encountering. While there are a number of [things ChatGPT can't do in Excel](https://www.makeuseof.com/things-to-do-excel-chatgpt-cant/) yet, it's a great tool that can help you become a spreadsheet pro.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT to the Rescue
 
  ChatGPT is a valuable resource to get the most out of Excel. You can use it to create new formulas, get assistance with any spreadsheet errors, and even learn new skills by asking it to explain how certain features work. If used right, it can help you maximize your Excel productivity and get over any spreadsheet fears that you may have.
@@ -127,8 +138,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +145,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-no-more-hidden-shorts-just-visible-ones/"><u>[Updated] 2024 Approved No More Hidden Shorts, Just Visible Ones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fun-at-no-cost-top-quality-gratuitous-meme-templates/"><u>[Updated] Fun at No Cost Top Quality, Gratuitous Meme Templates</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-windows-cannot-connect-to-the-printer-issue-easily/"><u>Fix Windows Cannot Connect to the Printer Issue. Easily!</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-82-of-executives-are-embracing-remote-work-trends-over-the-next-couple-of-years-insights-from-zdnet/"><u>How 82% of Executives Are Embracing Remote Work Trends Over the Next Couple of Years – Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-manage-and-prevent-discomfort-in-your-mice-operating-hand-tips-shared-by-zdnet/"><u>How to Manage and Prevent Discomfort in Your Mice-Operating Hand – Tips Shared by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hybrid-work-success-top-5-tips-from-industry-experts-as-featured-on-zdnet/"><u>Hybrid Work Success: Top 5 Tips From Industry Experts as Featured on ZDNet</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-assessing-ffmpegs-prowess-in-original-audio-extraction/"><u>In 2024, Assessing FFmpeg’s Prowess in Original Audio Extraction</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-visualize-vibrancy-generate-memes-with-kapwing/"><u>In 2024, Visualize Vibrancy Generate Memes with Kapwing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-notion-for-peak-productivity-a-comprehensive-reveal-of-its-benefits-and-usage/"><u>Leveraging Notion for Peak Productivity: A Comprehensive Reveal of Its Benefits and Usage</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-interstellar-dominance-in-depth-insights-into-stellaris-strategy-game/"><u>Mastering Interstellar Dominance: In-Depth Insights Into Stellaris Strategy Game</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-pitch-perfection-how-to-persuade-decision-makers-of-the-value-in-your-revolutionary-idea-expert-tips-by-zdnet/"><u>Mastering Pitch Perfection: How to Persuade Decision-Makers of the Value in Your Revolutionary Idea | Expert Tips by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-tab-management-in-the-arc-browser-boost-performance-by-utilizing-space-innovations/"><u>Mastering Tab Management in the Arc Browser: Boost Performance by Utilizing Space Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-mix-of-home-and-office-insights-for-a-winning-hybrid-work-strategy-advice-from-leaders-zdnet/"><u>Mastering the Mix of Home and Office: Insights for a Winning Hybrid Work Strategy - Advice From Leaders | ZDNET</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/unlock-creative-potential-crafting-tiktok-videos-using-templates-for-2024/"><u>Unlock Creative Potential Crafting TikTok Videos Using Templates for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726227430937-wmv/"><u>WMV파일을 오토바이오그래피 형식으로 무료로 전환하는 방법 - 모브바이비</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "GPT Pluses Vs. Perplexities: AI's Top Contenders"
-date: 2024-08-29T19:47:44.180Z
-updated: 2024-08-30T19:47:44.180Z
+date: 2025-01-18T19:26:12.125Z
+updated: 2025-01-24T22:55:02.029Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/c2364ce1ce1631cf3307292a0e382081e93d8f200
 
  This **Copilot** mode is powered by GPT-4, but you are limited to five prompts every four hours. ChatGPT Plus has a similar restriction, as you are limited to 25 prompts every three hours.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Functionality
 
 ![ChatGPT plugin gallery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugins.jpg)
@@ -46,8 +50,9 @@ thumbnail: https://thmb.techidaily.com/c2364ce1ce1631cf3307292a0e382081e93d8f200
  Both of them are useful AI tools for entirely different purposes. Perplexity is a great free tool for conducting research, while ChatGPT can help you summarize that research and make it presentable.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Pricing
 
  ChatGPT Plus charges $20/month (which may not sound like a lot to many) for its services. On the other hand, Perplexity is available completely free of cost and seems quite aggressive with its business model. Of course, it may try to monetize the service in the future.
@@ -56,26 +61,24 @@ thumbnail: https://thmb.techidaily.com/c2364ce1ce1631cf3307292a0e382081e93d8f200
 
  Then again, [ChatGPT Plus is still well worth the money](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), especially if you want access to GPT-4 and priority access to new features. There's no clear winner here, as Perplexity is also worth trying out, considering it's free.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## 4\. Responses
 
  To compare the performance in terms of responses, we conducted a series of tests between the two chatbots. We presented the same questions to both language models for a better analysis.
 
 ![ChatGPT 4 response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-4-response.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The tests revealed that ChatGPT Plus consistently outperformed Perplexity by providing detailed and clear responses. In addition, it demonstrated a superior ability to provide well-reasoned and elaborative answers.
 
 ![Perplexity AI response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-response.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Perplexity produced responses of decent quality but lacked the level of clarity and detail exhibited by ChatGPT Plus. However, while the answers might not be elaborate, they are accurate. You'll often find that Perplexity is great at finding sources that help you find the right answers.
 
 ## 5\. Supported Platforms
@@ -88,9 +91,6 @@ No advertising on the website.
 
 ![Perplexity AI Chat Interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-chat-interface.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![Perplexity AI Popular Topics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-popular-topics.PNG)
 
 Close
@@ -101,9 +101,6 @@ Close
 
 ![ChatGPT Models Speed and Stability](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-models-speed-and-stability.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Perplexity AI is noticeably faster than any other chatbot or AI search engine. The GPT-3 version quickly searches the web and curates a response inspired by different sources. This ability to access real-time information makes it faster than ChatGPT.
 
  However, the default GPT-3.5 model in ChatGPT Plus isn't slow by any means. [It's faster than the GPT-4 model](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) and much quicker than the legacy GPT-3.5 model in the free version. Either way, neither chatbot will bother you regarding speed unless you're using GPT-4\. The newest LLM is inherently slow right now, regardless of the platform.
@@ -111,8 +108,9 @@ Close
  Both of these chatbots are also matched in terms of stability. OpenAI gives priority access to Plus subscribers, so you can access the service even during peak usage hours. Perplexity AI has a relatively smaller user base, and stability issues aren't something to worry about.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Comparison With Bing
 
  Microsoft's investment in OpenAI allowed them to incorporate a version of GPT-4 into Bing. Bing Chat is their newest AI-powered chatbot/search engine, which has been highly impressive. You can use it on the web and phone by downloading the Bing AI app.
@@ -131,14 +129,11 @@ Close
 
  With that in mind, let's pit the two against each other across various categories (like base technology, response quality, and stability) to determine which is better trained to be your virtual chatting/research assistant.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,4 +142,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-transformative-editing-experience-windows-photos-meets-story-remix/"><u>[Updated] 2024 Approved Transformative Editing Experience Windows Photos Meets Story Remix</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-pro-audio-recording-excellence-with-audacity-for-2024/"><u>[Updated] Pro Audio Recording Excellence with Audacity for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-top-video-doorbell-picks-and-reviews-by-techsavvypro/"><u>2024'S Top Video Doorbell Picks & Reviews by TechSavvyPro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-firsthand-account-keeping-your-entire-home-running-on-ecoflows-portable-generator/"><u>A Firsthand Account: Keeping Your Entire Home Running on EcoFlow's Portable Generator</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-most-innovative-and-chic-small-residences-of-2022-a-modern-tiny-home-showcase/"><u>Discover the Most Innovative and Chic Small Residences of 2022: A Modern Tiny Home Showcase</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elite-selection-of-outdoor-home-theater-projectors-professional-ratings-and-detailed-evaluations-by-zdnet/"><u>Elite Selection of Outdoor Home Theater Projectors: Professional Ratings & Detailed Evaluations by ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-samsung-galaxy-a23-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Samsung Galaxy A23 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-itel-p55t-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Itel P55T Fingerprint Lock</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-honor-magic-5-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Honor Magic 5 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-ultimate-streaming-hits-for-movie-lovers/"><u>In 2024, Ultimate Streaming Hits for Movie Lovers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamlessly-linking-your-beatwave-earbuds-with-windows-10-or-11-troubleshooting-tips-and-solutions/"><u>Seamlessly Linking Your BeatWave Earbuds with Windows 10 or 11 – Troubleshooting Tips and Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-premium-camping-chair-reviews-exploring-comfort-and-durability/"><u>Top 5 Premium Camping Chair Reviews - Exploring Comfort & Durability</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-mowing-experience-with-the-most-enjoyable-remote-controlled-lawnmower-insights-from-zdnet/"><u>Transform Your Mowing Experience with the Most Enjoyable Remote-Controlled Lawnmower - Insights From ZDNet</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-elevate-your-content-with-the-best-free-video-translator-apps-for-2024/"><u>Updated Elevate Your Content with the Best Free Video Translator Apps for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+</ul></div>
 

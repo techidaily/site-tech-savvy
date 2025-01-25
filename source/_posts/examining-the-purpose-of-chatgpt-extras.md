@@ -1,7 +1,7 @@
 ---
 title: Examining the Purpose of ChatGPT Extras
-date: 2025-01-11T17:26:10.822Z
-updated: 2025-01-18T17:22:26.800Z
+date: 2025-01-22T00:51:23.674Z
+updated: 2025-01-24T22:21:48.092Z
 tags:
   - chatgpt
   - open-ai
@@ -20,15 +20,15 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Are ChatGPT's Default Plugins?](https://coinrule.sjv.io/rqzonv)
 * [How to Use ChatGPT's Standard Plugins](https://turtlebeachus.sjv.io/vmebyo)
 * [How to Use ChatGPT's Plugins on Mobile](https://getlyla.pxf.io/ek9gkg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -56,12 +56,16 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 
  When you open your ChatGPT Plus account, each of these plugins will be active by default, meaning you don't need to activate anything manually to use them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use ChatGPT's Standard Plugins
 
  If you don't have a ChatGPT Plus account, you won't be able to access these plugins. So, consider signing up for the $20 monthly premium plan if you want to overcome this barrier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Browse with Bing
@@ -73,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
  Once you make the request, you'll be told that GPT is currently searching the web. It may take ten or so seconds to get your results or longer if your connection is patchy, OpenAI's servers are overwhelmed, or your request contains detailed information that takes time to search for.
 
 ![chatgpt search with bing whats the weather jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-search-with-bing-whats-the-weather-jan-2024.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When ChatGPT provides a response based on a web search, the source will always be provided in the bracketed quotation marks (**\["\]**) at the end of the response. You can regenerate the response if you're unhappy with the initial output by clicking on the circular arrow symbol under the response.
 
@@ -92,22 +100,14 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 
 ![chatgpt-dalle output mouse next to river](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-dalle-output-mouse-next-to-river.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, we ask for changes.
 
 ![chatgpt-dalle mouse next to river changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-dalle-mouse-next-to-river-changed-colour.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Though we asked ChatGPT to keep the image identical aside from one change, it made the change but also changed almost everything else about the image. Keep this downside in mind when using this plugin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Code Interpreter
@@ -115,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
  If you want to write, run, or be provided with code in the Python language, [ChatGPT's Code Interpreter](https://www.makeuseof.com/chatgpt-code-interpreter-uses/) can help. With this plugin, you can request code excerpts, have ChatGPT analyze and execute code, and enjoy the option to upload files within the chat for review.
 
 ![screenshot of ChatGPT python response in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-python-response.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If ChatGPT picks up on any errors in your code, it will notify you and provide a correction.
 
@@ -139,6 +135,10 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
  The process of using any of these standard plugins is the same on the [ChatGPT mobile app](https://www.makeuseof.com/how-to-use-chatgpt-on-android-and-ios/) as it is on your desktop. Make your request in your prompt, and as long as you're signed in to your ChatGPT Plus account, the relevant plugin should work automatically.
 
 ![screenshot of chatgpt web search result in mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-search.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![screenshot of ChatGPT mobile app dall-e response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-dalle.jpg)
 
@@ -169,20 +169,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-expert-timekeeping-tools-without-a-price/"><u>[New] 2024 Approved Expert Timekeeping Tools Without a Price</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-inside-the-top-10-virtual-reality-smartphone-gaming-for-2024/"><u>[New] Inside the Top 10 Virtual Reality Smartphone Gaming for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premium-selection-of-mp4-devices/"><u>[New] Premium Selection of MP4 Devices</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-mastering-hd-video-the-best-android-players/"><u>2024 Approved Mastering HD Video The Best Android Players</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-policy-scope-and-structure/"><u>AI Policy: Scope & Structure</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-chatgpts-effect-on-online-anonymity/"><u>Assessing ChatGPT's Effect on Online Anonymity</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/elevate-gaming-experience-get-latest-nvidia-drivers/"><u>Elevate Gaming Experience: Get Latest Nvidia Drivers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-the-accuracy-of-cgp-in-medicine/"><u>Evaluating the Accuracy of CGP in Medicine</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fusing-technology-and-innovation-constructing-web-applications-with-gpt-3/"><u>Fusing Technology and Innovation: Constructing Web Applications with GPT-3</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-dreamer-to-doer-sign-up-for-a-youtube-channel/"><u>In 2024, From Dreamer To Doer Sign Up for a YouTube Channel</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209863368-9780648391210-oak-trees-gift/"><u>Oak Tree's Gift | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-search-technology-meets-you-bings-ai-powered-android-and-ios/"><u>Seamless Search Technology Meets You - Bing's AI-Powered Android & iOS</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-samsung-galaxy-xcover-7-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Samsung Galaxy XCover 7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/upgrade-to-advanced-gpu-software-for-gtx-1060/"><u>Upgrade to Advanced GPU Software for GTX 1060</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/virtual-companionship-using-chatgpt-to-connect-people/"><u>Virtual Companionship: Using ChatGPT to Connect People</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-becoming-an-expert-broadcaster-streaming-high-quality-video-online-for-2024/"><u>[Updated] Becoming an Expert Broadcaster Streaming High-Quality Video Online for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-augmented-reality-on-android-a-step-towards-future-viewing/"><u>[Updated] In 2024, Augmented Reality on Android - A Step Towards Future Viewing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-engagement-hook-generator/"><u>[Updated] Prime Engagement Hook Generator</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-apple-enhances-icloud-functionality-on-windows-platform-exciting-new-updates-revealed/"><u>1. Apple Enhances iCloud Functionality on Windows Platform: Exciting New Updates Revealed!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clash-of-the-cutting-edge-gemini-vs-plush-chatgptplusplus/"><u>Clash of the Cutting Edge: Gemini Vs. Plush ChatGPT++</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/embrace-the-new-year-with-an-epic-deal-save-96-on-mondly-premium-access/"><u>Embrace the New Year with an Epic Deal - Save 96% on Mondly Premium Access!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-culinary-superpowers-unleash-potential-with-7-chatgpt-methods/"><u>Get Culinary Superpowers: Unleash Potential With 7 ChatGPT Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-your-iphone-15-pro-max-for-only-one-cent-on-amazon-the-surprising-deal-inside-zdnet/"><u>Get Your iPhone 15 Pro Max for Only One Cent on Amazon – The Surprising Deal Inside | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-enhanced-document-and-pdf-chat-options/"><u>GPT-Enhanced Document & PDF Chat Options</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-leveraging-youtube-top-5-digital-strategies-for-brand-success/"><u>In 2024, Leveraging YouTube Top 5 Digital Strategies for Brand Success</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/medical-misinformation-risks-with-tech-assistance/"><u>Medical Misinformation Risks with Tech Assistance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-battlefields-how-to-restore-audio-on-your-battlefield-4-game/"><u>Silent Battlefields: How to Restore Audio on Your Battlefield 4 Game</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sustaining-zen-programming-mindfulness-into-life-via-chatgpt/"><u>Sustaining Zen: Programming Mindfulness Into Life via ChatGPT</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/tech-savvy-guide-to-excellent-recording-apps-for-2024/"><u>Tech-Savvy Guide to Excellent Recording Apps for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/three-year-hiatus-ends-with-new-findings-on-iphones-zdnet-insights/"><u>Three Year Hiatus Ends with New Findings on iPhones | ZDNet Insights</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/tout-sur-lenregistrement-de-videos-mobiles-7-methodes-avec-movavi/"><u>Tout Sur L'enregistrement De Vidéos Mobiles : 7 Méthodes Avec Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-ai-talk-twist-gpt-vs-bingbot-breakdown/"><u>Unraveling the AI Talk Twist: GPT Vs. BingBot Breakdown</u></a></li>
 </ul></div>
 

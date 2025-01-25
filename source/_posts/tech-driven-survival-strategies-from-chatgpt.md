@@ -1,7 +1,7 @@
 ---
 title: Tech-Driven Survival Strategies From ChatGPT
-date: 2025-01-13T16:30:23.521Z
-updated: 2025-01-18T16:48:41.130Z
+date: 2025-01-18T20:07:14.733Z
+updated: 2025-01-25T00:26:56.765Z
 tags:
   - chatgpt
   - open-ai
@@ -34,27 +34,15 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 
 ![Man Carrying Camping Backpack Standing In-front of Tree](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-carrying-camping-backpack-standing-in-front-of-tree.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The rise of AI chatbots has taken the world by storm, and [generative AI can create fantastic art](https://www.makeuseof.com/how-create-ai-art-at-home/). You can also [use ChatGPT as a tool for creative writing](https://www.makeuseof.com/how-to-use-chatgpt-for-creative-writing/) or [employ AI to help detect faces in photographs](https://www.makeuseof.com/ai-cameras-object-detection-how-work/).
 
  And while [ChatGPT doesn't always tell the truth](https://www.makeuseof.com/does-chatgpt-lie/), it's no secret that [AI is replacing workers](https://www.makeuseof.com/can-chatgpt-replace-me/) across all sectors.
 
  So it's tempting while planning a wilderness vacation to eschew a trained guide and rely on ChatGPT to keep you safe in the great outdoors. But the question is, should you?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Fight Off a Bear
 
 ![a brown bear looking mean](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-brown-bear-looking-mean.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Bears are found on every continent except Africa, and if you're backpacking through the wild and untamed spaces of the world, it's not inconceivable that you might encounter one. Unfortunately, while Wikipedia's [Bear Danger](https://en.wikipedia.org/wiki/Bear%5Fdanger) page contains some of the information we needed, there's little concrete advice. In a dangerous situation, we wouldn't have time to scan through the 1,042-word article.
 
@@ -72,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 
 ![fresh salmon on ice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fresh-salmon-on-ice.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're off-grid and out-of-touch, keeping yourself fed has to be a priority. Fortunately, in our scenario, there's a river nearby, and you can see the silver flashes of salmon as they swim upstream to the spawning grounds. Unfortunately, you don't have any rods or nets.
 
  After acknowledging that "catching salmon without fishing equipment can be challenging, as they are typically caught using fishing gear such as rods, reels, and lures," ChatGPT was remarkably helpful.
@@ -88,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 
 ![an igloo style snow shelter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/an-igloo-style-snow-shelter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The weather's taken a turn for the worse, and having escaped the bears and enjoyed raw salmon for supper, you find yourself cold and afraid as high winds and snow whip around you. So you turn to your friendly chatbot for help.
 
  The first piece of advice is spot-on: "Seek natural shelters." ChatGPT suggests you look for any natural formations that can provide some level of protection from the elements—including caves, rock formations, dense tree groves, or large snow drifts.
@@ -104,13 +92,13 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 
  While we're not 100% certain that you'll survive the night, we feel that following ChatGPT's advice will dramatically increase your chances.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## I'm Being Hunted by a Pack of Wolves. What Should I Do?
 
 ![Young Wolves Biting Each Other on Snow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/young-wolves-biting-each-other-on-snow-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Evading predators should always be high on your list while wilderness exploring, and ChatGPT's advice is similar to that offered when asked how to fight a bear.
 
@@ -120,9 +108,17 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 
  We found the advice overly generic and showed a lack of understanding of how wolf packs hunt. ChatGPT also failed to mention that wolves are notoriously poor tree climbers and that by clambering up the nearest spruce, you can buy yourself some extra time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## There's a Dead Sheep in a Stream and No Other Water Source
 
 ![Person Cleaning Hands under running Water](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/person-cleaning-hands-under-running-water.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Water is even more important than food, but drinking from a polluted water source can make you ill or even cause death.
 
@@ -137,6 +133,10 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 ## Help! I've Now Fallen Down an Abandoned Mineshaft in the Dark, and Can't Walk or Call for Help
 
 ![rough collie in snow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/rough-collie-in-snow.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You should always take care while wandering unfamiliar environs at night, and you should also know that a [good rechargeable flashlight](https://www.makeuseof.com/best-rechargeable-flashlights/) is an essential part of any survival kit. Maybe you fell in while delirious after drinking the contaminated water.
 
@@ -192,21 +192,24 @@ thumbnail: https://thmb.techidaily.com/4cd20a372cf5d8d85118f9e3b7dd7c90b1aca1c5d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-expert-breakdown-vsdc-review-and-alternative-comparisons/"><u>[Updated] 2024 Approved Expert Breakdown VSDC Review & Alternative Comparisons</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-4k-camera-guide-low-cost-options-(1000/"><u>2024 Approved 4K Camera Guide Low-Cost Options <$1,000</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-rogue-realms-decades-best-representation/"><u>2024 Approved Rogue Realms Decade’s Best Representation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-practices-for-avoiding-writing-gaffes-with-chatgpt/"><u>Best Practices for Avoiding Writing Gaffes with ChatGPT</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effective-techniques-for-setting-up-persistent-alarms-and-alerts-on-your-android-device/"><u>Effective Techniques for Setting Up Persistent Alarms and Alerts on Your Android Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embracing-new-era-gpt-3-web-and-plugin-updates/"><u>Embracing New Era: GPT-3 Web & Plugin Updates</u></a></li>
-<li><a href="https://facebook.techidaily.com/evolve-your-online-presence-move-beyond-fb/"><u>Evolve Your Online Presence, Move Beyond FB</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/examining-the-tech-in-djis-phantom-3-prototype/"><u>Examining the Tech in DJI's Phantom 3 Prototype</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-overcoming-connectivity-and-functionality-issues-in-tiktok/"><u>Expert Advice: Overcoming Connectivity and Functionality Issues in TikTok.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/forefront-vs-chatgpt-in-depth-insights-into-ai-competitiveness/"><u>Forefront vs ChatGPT: In-Depth Insights Into AI Competitiveness</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-robust-is-chatgpts-security-framework/"><u>How Robust Is ChatGPT's Security Framework?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-progress-deciphering-the-workings-of-ai-transfer-learning/"><u>Pioneering Progress: Deciphering the Workings of AI Transfer Learning</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prevent-ai-data-collection-onsite/"><u>Prevent AI Data Collection Onsite</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-to-preserve-chatgpt-discussions/"><u>Strategies to Preserve ChatGPT Discussions</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-the-difference-antivirus-protection-vs-internet-security-solutions/"><u>Understanding the Difference: Antivirus Protection Vs. Internet Security Solutions</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/yl-software-showcases-premium-hd-background-graphics-featuring-singer-holly-valance/"><u>YL Software Showcases: Premium HD Background Graphics Featuring Singer Holly Valance</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-experts-take-on-magix-video-pro-x/"><u>[New] 2024 Approved Expert's Take on Magix Video Pro X</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-android-screenshots-made-simple-top-8-free-applications-revealed-for-2024/"><u>[New] Android Screenshots Made Simple – Top 8 Free Applications Revealed for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-learn-illustration-magic-a-guide-to-adobe-motion-blur-for-2024/"><u>[New] Learn Illustration Magic A Guide to Adobe Motion Blur for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-delicious-dynamos-youtubers-for-your-food-journey-for-2024/"><u>[Updated] Delicious Dynamos YouTubers for Your Food Journey for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-tools-top-8-mirrorless-cams-for-professional-filmmakers/"><u>[Updated] In 2024, Essential Tools Top 8 Mirrorless Cams For Professional Filmmakers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-pioneering-ig-video-influence-crafting-an-excellent-marketing-plan/"><u>[Updated] In 2024, Pioneering IG Video Influence Crafting an Excellent Marketing Plan</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/background-screen-video-recording-full-guide-for-2024/"><u>Background Screen Video Recording Full Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-preset-limits-advantages-of-more-chatgpt-tokens/"><u>Beyond Preset Limits: Advantages of More ChatGPT Tokens</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creative-crossroads-chatgpt-and-visual-brainstorms/"><u>Creative Crossroads: ChatGPT & Visual Brainstorms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/illusions-unveiled-8-ways-ai-transforms-views/"><u>Illusions Unveiled: 8 Ways AI Transforms Views</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oppo-reno-8t-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-itel-a05s-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Itel A05s Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-intelligent-bing-powered-by-microsoft-ai/"><u>Introducing Intelligent Bing, Powered by Microsoft AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-strategies-rectifying-top-6-auto-gpt-hiccups/"><u>Key Strategies: Rectifying Top 6 Auto-GPT Hiccups</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-conversations-10-upgrades-to-chatgpt/"><u>Revolutionizing Conversations: 10 Upgrades to ChatGPT</u></a></li>
+<li><a href="https://network-issues.techidaily.com/taming-the-beast-resolving-fallout-4-pc-problems/"><u>Taming the Beast: Resolving Fallout 4 PC Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-ipad-air-with-apples-new-m2-chip-your-definitive-guide-and-why-its-the-best-choice-for-consumers-techradar/"><u>The Ultimate iPad Air with Apple's New M2 Chip: Your Definitive Guide and Why It's The Best Choice for Consumers | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-fitness-coaching-gpt-powered-approaches/"><u>Transforming Fitness Coaching: GPT-Powered Approaches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ai-prompts-career-stability-analysis/"><u>Understanding AI Prompts: Career Stability Analysis</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting up LibreOffice on Your Mac - A FREE Microsoft Office Substitute!"
-date: 2025-01-12T17:25:33.802Z
-updated: 2025-01-18T17:42:08.528Z
+date: 2025-01-21T21:06:24.302Z
+updated: 2025-01-24T18:25:20.458Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ iTunes is dead. iTunes has been dead since 2019\. Alas, poor iTunes, we knew you
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -40,7 +40,7 @@ But iTunes is dead. Actually, that's not entirely true. Its ghost lingers on. Ap
 Apple Music hasn't been tied to iTunes for account management since 2019\. Now, for those of us who have moved on from our iTunes days, we can cancel an Apple Music subscription either from the web or from iOS device Settings. Let's look at both. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your Web browser
@@ -60,7 +60,7 @@ David Gewirtz/Screenshot
 Once you're on the Manage screen, choose Cancel Subscription. That should do it for you. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your iPhone or iPad
@@ -121,20 +121,21 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-elite-mac-graphic-preserver/"><u>[New] 2024 Approved Elite Mac Graphic Preserver</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/rom-dull-to-delightful-text-that-tumbles-and-twirls/"><u>[New] From Dull to Delightful Text that Tumbles and Twirls</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-vs-microsoft-bing-ai-vs-google-bard-which-is-the-best-ai-chatbot/"><u>ChatGPT Vs. Microsoft Bing AI Vs. Google Bard: Which Is the Best AI Chatbot?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/craft-your-next-chapter-top-5-ai-powered-sites-and-apps-for-reading-selection/"><u>Craft Your Next Chapter: Top 5 AI-Powered Sites & Apps for Reading Selection</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-steps-to-refresh-your-pcs-wi-fi-driver-in-windows-11-or-10/"><u>Easy Steps to Refresh Your PC's Wi-Fi Driver in Windows 11 or 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evolution-of-ai-systems-anticipating-gpt-5s-debut/"><u>Evolution of AI Systems: Anticipating GPT-5's Debut?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-chatgpt-with-kids-and-adults-alike/"><u>Exploring ChatGPT with Kids and Adults Alike</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/halt-comparing-virtual-assistants-dive-into-distinct-traits/"><u>Halt Comparing Virtual Assistants: Dive Into Distinct Traits</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-apple-iphone-6-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 6 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-remove-youtube-sneak-peeks-for-uninterrupted-views/"><u>In 2024, Remove YouTube Sneak Peeks for Uninterrupted Views</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/key-aspects-opting-for-ai-assisted-therapy-via-chatgpt/"><u>Key Aspects: Opting for AI-Assisted Therapy via ChatGPT</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/r-class-in-live-streaming-your-pathway-to-successful-youtube-channels-via-wirecast/"><u>Master Class in Live Streaming Your Pathway to Successful Youtube Channels via WireCast</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-nvidia-method-to-perfect-gaming-replays-for-2024/"><u>The NVIDIA Method to Perfect Gaming Replays for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-verdict-on-kooteks-effective-notebook-cooling-solution/"><u>The Ultimate Verdict on Kootek's Effective Notebook Cooling Solution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-7-benefits-ai-driven-health-consults/"><u>Unveiling 7 Benefits: AI-Driven Health Consults</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-channel-your-inner-narrative-impactful-life-stories-yt/"><u>[New] In 2024, Channel Your Inner Narrative Impactful Life Stories YT</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-rhythmic-resonance-how-to-choose-music-for-online-fame/"><u>[Updated] Rhythmic Resonance How to Choose Music for Online Fame</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-beginners-handbook-to-instagrams-most-popular-feature-reels-for-2024/"><u>[Updated] The Beginner’s Handbook to Instagram’s Most Popular Feature – Reels for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-peeking-at-high-resolution-display-innovation-the-dell-p2715q-review/"><u>2024 Approved Peeking at High-Resolution Display Innovation - The Dell P2715Q Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-discontinues-premium-finewoven-case-series-in-favor-of-newly-released-beats-collaborations-a-deep-dive-analysis/"><u>Apple Discontinues Premium FineWoven Case Series in Favor of Newly-Released Beats Collaborations: A Deep Dive Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-mobile-gaming-experience-on-a-phone-ranked-and-analyzed-digital-trends/"><u>Best Mobile Gaming Experience on a Phone - Ranked and Analyzed | Digital Trends</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-conversions-optimizing-your-site-with-smart-analytics/"><u>Cookiebot-Enabled Conversions: Optimizing Your Site with Smart Analytics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-tutorial-configuring-and-enabling-remote-desktop-feature-in-windows-11/"><u>Easy Tutorial: Configuring and Enabling Remote Desktop Feature in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fraudgpt-detection-tips-to-keep-you-secure-online/"><u>FraudGPT Detection: Tips to Keep You Secure Online</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-6-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 6 to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-stealthy-tactics-for-superior-iosipados-update-oversight-insider-strategies-revealed-by-zdnet/"><u>Mastering Stealthy Tactics for Superior iOS/iPadOS Update Oversight - Insider Strategies Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dangers-of-delegating-care-to-chatbots/"><u>The Dangers of Delegating Care to Chatbots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essence-of-ai-threat-landscape-prompt-injections-uncovered/"><u>The Essence of AI Threat Landscape - Prompt Injections Uncovered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-11-unbeatable-discounts-on-apple-watches-in-june-july-2-your-ultimate-guide-by-zdnet/"><u>Top 11 Unbeatable Discounts on Apple Watches in June-July 2#: Your Ultimate Guide by ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-2023-guide-leading-innovative-smart-home-products/"><u>Ultimate 2023 Guide: Leading Innovative Smart Home Products</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-gpts-latest-milestones-gpt-1-to-4/"><u>Understanding GPT's Latest Milestones (GPT-1 to 4)</u></a></li>
 </ul></div>
 

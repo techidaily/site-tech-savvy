@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Now: HPE and AMD Team Up to Create El Capitan, The Fastest-Ever Supercomputer Upon Completion"
-date: 2024-08-29T19:47:07.511Z
-updated: 2024-08-30T19:47:07.511Z
+date: 2025-01-23T16:06:47.099Z
+updated: 2025-01-24T20:34:18.686Z
 tags:
   - desktop
 categories:
@@ -29,6 +29,10 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +54,22 @@ For just $59, musicians now have a new option for a purpose-built musical comput
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-exploring-entertainment-youtubes-integration-with-fb/"><u>[Updated] 2024 Approved Exploring Entertainment YouTube's Integration with FB</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comparing-gopro-and-polaroids-video-editors-for-filmmakers/"><u>[Updated] Comparing GoPro & Polaroid's Video Editors for Filmmakers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-exploring-9-zero-price-editors-for-youtube-content-for-2024/"><u>[Updated] Exploring 9 Zero Price Editors for YouTube Content for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-love-in-song-ultimate-listening-guide-to-proposals-for-2024/"><u>[Updated] Love in Song Ultimate Listening Guide to Proposals for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-needs-to-adopt-these-3-tactics-to-save-to-rescue-the-vision-pro-according-to-zdnet/"><u>Apple Needs to Adopt These 3 Tactics to Save To Rescue the Vision Pro, According to ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/behind-the-scenes-how-qualcomm-samsung-and-google-are-shaping-the-future-of-augmented-experiences-through-innovative-smart-glasses-techinsights-by-zdnet/"><u>Behind the Scenes: How Qualcomm, Samsung, and Google Are Shaping the Future of Augmented Experiences Through Innovative Smart Glasses | TechInsights by ZDNET</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-apples-refusal-of-payment-cards-a-guide-to-6-alternative-fixes/"><u>Bypassing Apple's Refusal of Payment Cards: A Guide to 6 Alternative Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/common-issues-with-corsair-keyboards-and-proven-techniques-for-resolution/"><u>Common Issues with Corsair Keyboards and Proven Techniques for Resolution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-future-of-navigation-how-geospatial-ar-enhances-google-maps-for-revolutionary-city-viewing-zdnet/"><u>Discover the Future of Navigation: How Geospatial AR Enhances Google Maps for Revolutionary City Viewing | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-combo-marvels-what-if-for-your-apple-vision-pro-absolutely-free/"><u>Discover the Ultimate Combo: Marvel's What If...? For Your Apple Vision Pro – Absolutely Free!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-virtual-office-universe-a-deep-dive-into-full-time-remote-work-with-vr-technology-zdnet-insights/"><u>Exploring the Virtual Office Universe: A Deep Dive Into Full-Time Remote Work with VR Technology | ZDNet Insights</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-a-newbies-compendium-of-best-cinematography-devices-35mm-pands/"><u>In 2024, A Newbie's Compendium of Best Cinematography Devices (35Mm-P&S)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-real-time-recording-rivalry-obs-versus-shadowreplay/"><u>In 2024, Real-Time Recording Rivalry OBS Versus ShadowReplay</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-apple-vision-pro-mastering-the-latest-spatial-personalization-tools/"><u>Unveiling Apple Vision Pro: Mastering the Latest Spatial Personalization Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/weekly-tech-roundup-ai-breakthroughs-advanced-chatbot-systems-and-next-gen-ar-taking-center-stage-insights-by-zdnet/"><u>Weekly Tech Roundup: AI Breakthroughs, Advanced Chatbot Systems & Next-Gen AR Taking Center Stage | Insights by ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->

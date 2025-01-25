@@ -1,7 +1,7 @@
 ---
 title: "Unveiling NLP Marvels: Contrasting GPT & BERT Models"
-date: 2025-01-11T16:56:53.173Z
-updated: 2025-01-18T17:33:44.046Z
+date: 2025-01-19T21:49:18.701Z
+updated: 2025-01-24T16:23:49.258Z
 tags:
   - chatgpt
   - open-ai
@@ -28,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Explaining GPT-3 and GPT-4
 
 ![ChatGPT screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/04/screenshot-2023-04-21-at-5-45-17-pm.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  GPT-3 (Generative Pre-trained Transformer 3) is an autoregressive language model launched by OpenAI in June 2020\. It utilizes a transformer architecture with 175 billion parameters, making it one of the largest language models ever constructed.
 
@@ -49,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
  This allows the model to understand the meaning of words in context and, in turn, better comprehend language structures. With BERT, Google can now provide more accurate search results for complex queries—particularly those that rely on prepositions such as "for," "to," and "from."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Main Differences Between GPT and BERT
@@ -69,16 +77,12 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
  GPT is trained using a unidirectional (causal) language modeling objective, where it predicts the next word given the context of previous words. That's one of the main reasons why GPT is so popular for content generation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Training Data
 
 ![Image showing data points and connectors in an abstract manner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dataset-unsplash.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  BERT and GPT differ in the types of training data they use. BERT is trained using a masked language model, meaning certain words are masked, and the algorithm has to predict what the next word is likely to be. This helps train the model and makes it more contextually accurate.
 
@@ -91,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
  As for GPT-4, training data information is a bit scarce, but it's quite likely that the GPT-4 is trained on a similarly diverse dataset, potentially including newer sources and an even larger volume of data to improve its understanding of natural language and its ability to generate contextually relevant responses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Use Cases
@@ -113,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
  Unlike ChatGPT, which lets anyone leverage the GPT model, BERT is not as readily available. First, you'll have to download the originally published [Jupyter Notebook](http://colab.research.google.com/drive/1ywsvwO6thOVOrfagjjfuxEf6xVRxbUNO) for BERT and then set up a development environment using Google Colab or TensorFlow.
 
  If you don't want to worry about using a [Jupyter Notebook](https://www.makeuseof.com/get-started-with-jupyter-notebook/) or aren't as technical, you could consider using ChatGPT, which is as simple as just logging into a website. However, we've also covered [how to use Jupyter Notebook](http://www.makeuseof.com/get-started-with-jupyter-notebook/), which should give you a good starting point.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## BERT and GPT Show the Capabilities of AI
 
@@ -143,21 +143,18 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-elevating-your-role-a-guide-to-exceptional-interviews-for-2024/"><u>[New] Elevating Your Role A Guide to Exceptional Interviews for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-boost-instagram-growth-with-advanced-analysis-platforms/"><u>[Updated] Boost Instagram Growth with Advanced Analysis Platforms</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-boosting-views-from-zeros-the-top-10-reasons-and-fixes-for-2024/"><u>[Updated] Boosting Views From Zeros The Top 10 Reasons & Fixes for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-dictators-who-controls-ai/"><u>Digital Dictators: Who Controls AI?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dodge-scams-authentic-gpt-usage/"><u>Dodge Scams: Authentic GPT Usage</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/elevating-your-social-media-presence-with-igtv-videos/"><u>Elevating Your Social Media Presence with IGTV Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fitness-pros-and-chatgpt-prompt-perfection/"><u>Fitness Pros and ChatGPT Prompt Perfection</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-evaluating-screencast-software-the-bandicamcamtasia-comparison/"><u>In 2024, Evaluating Screencast Software The Bandicam/Camtasia Comparison</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-zdsoft-in-a-nutshell-video-capture-insights/"><u>In 2024, ZDSoft in a Nutshell Video Capture Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-chatgpt-is-not-losing-smarts-openai-confirms/"><u>No, ChatGPT Is Not Losing Smarts - OpenAI Confirms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synthesizing-truth-and-illusion-with-ai/"><u>Synthesizing Truth & Illusion with AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-comparative-benefits-of-digital-versus-traditional-libraries-in-contemporary-society/"><u>The Comparative Benefits of Digital Versus Traditional Libraries in Contemporary Society</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-chatgpt-4s-slower-pace-vs-gpt-35/"><u>Understanding ChatGPT-4's Slower Pace Vs. GPT-3.5</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/be-to-dailymotion-transferring-videos-seamlessly-for-2024/"><u>YouTube to Dailymotion Transferring Videos Seamlessly for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-capturing-brilliance-with-the-q500-drone/"><u>[New] Capturing Brilliance with the Q500 Drone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-cutting-edge-commerce-vrs-role-in-modernizing-industries/"><u>[Updated] In 2024, Cutting-Edge Commerce VR's Role in Modernizing Industries</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-professional-guide-to-moving-videos-from-youtube-to-dailymotion/"><u>[Updated] In 2024, Professional Guide to Moving Videos From YouTube to Dailymotion</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-rhythms-ally-finding-best-dj-content-online/"><u>[Updated] Rhythm's Ally Finding Best DJ Content Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-face-off-my-snapchat-vs-bings-skype-bot/"><u>AI Face-Off: My Snapchat vs Bing's Skype Bot</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-input-speed-learn-from-typingaid/"><u>Boost Input Speed: Learn From TypingAid</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breakthrough-in-accessibility-how-apples-latest-feature-enables-eye-gestures-to-command-your-ios-devices-analysis-by-zdnet/"><u>Breakthrough in Accessibility: How Apple's Latest Feature Enables Eye Gestures to Command Your iOS Devices | Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-efficiency-4-chatgpt-based-tactics-for-time-management/"><u>Enhancing Efficiency: 4 ChatGPT-Based Tactics for Time Management</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gptclosedqs-reopening-schedule-pursuit/"><u>GPTClosedQs: Reopening Schedule Pursuit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-apple-watch-endurance-with-our-expert-tips-on-key-configuration-tweaks/"><u>Maximize Apple Watch Endurance with Our Expert Tips on Key Configuration Tweaks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-a-failed-authentication-fixing-401-http-status-codes/"><u>Troubleshooting a Failed Authentication: Fixing 401 HTTP Status Codes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-a-superior-mac-vpn-in-depth-testing-and-expert-analysis-by-zdnet/"><u>Ultimate Guide to Choosing a Superior Mac VPN: In-Depth Testing & Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-and-dolby-troubles-how-to-correctly-install-the-missing-dolby-audio-driver/"><u>Windows 10 and Dolby Troubles: How to Correctly Install the Missing Dolby Audio Driver</u></a></li>
 </ul></div>
 

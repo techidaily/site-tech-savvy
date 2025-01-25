@@ -1,7 +1,7 @@
 ---
 title: "Craftsmanship Redefined: Generating Novelty in AI Through Microsoft Copilot"
-date: 2024-08-29T19:47:00.332Z
-updated: 2024-08-30T19:47:00.332Z
+date: 2025-01-19T00:06:59.589Z
+updated: 2025-01-24T22:25:28.308Z
 tags:
   - chatgpt
   - open-ai
@@ -15,11 +15,19 @@ thumbnail: https://thmb.techidaily.com/6c068dd9c7ff9ad108362423509c28dd6ffe162b7
 
 ## Craftsmanship Redefined: Generating Novelty in AI Through Microsoft Copilot
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Microsoft Copilot Image Creator?](https://ancheer.sjv.io/y96bgp)
 * [How to Use Microsoft Copilot Image Generator](https://my-balance-meals.pxf.io/1r0rrg)
 * [Should You Use Microsoft Copilot Image Creator or ChatGPT Plus With DALL-E 3?](https://turbotech.pxf.io/pyx4je)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -36,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/6c068dd9c7ff9ad108362423509c28dd6ffe162b7
  That's right; you can use Microsoft Copilot to generate free AI images using DALL-E 3, and it's incredibly simple to do.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is Microsoft Copilot Image Creator?
 
  The [Official Microsoft Blog](https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/) first announced that AI image creation would be coming to Copilot on 21 March 2023\. At the time, Copilot was still called Bing AI Chat prior to its November 2023 name change.
@@ -55,8 +64,9 @@ thumbnail: https://thmb.techidaily.com/6c068dd9c7ff9ad108362423509c28dd6ffe162b7
  Copilot Image Creator is completely free, which gives it a substantial advantage over ChatGPT Plus. It's also not the only [reason to use Microsoft Copilot instead of ChatGPT](https://www.makeuseof.com/reasons-to-use-copilot-instead-of-chatgpt/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Microsoft Copilot Image Creator in Edge
 
  If you use Microsoft's Edge browser, the easiest way to start using the Image Creator is in a regular Copilot chat. Ask Copilot to create an image, and it'll do its best to deliver a unique take on your input, providing four 1:1 images (it will not give you a 2:1 image or otherwise, no matter what input you try—but there is a reason for that!).
@@ -69,9 +79,6 @@ thumbnail: https://thmb.techidaily.com/6c068dd9c7ff9ad108362423509c28dd6ffe162b7
 
 ![microsoft copilot image creator four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-four-images.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  However, from there, I selected the image I wanted to use, pressed the "expand" icon in the bottom right corner, and selected **Landscape**. Copilot auto-magically adjusted the original image into a 2:1 1792x1024, finally fulfilling my original request.
 
 Close
@@ -80,9 +87,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Microsoft Copilot Image Creator in Any Browser
 
  If you don't use Edge, you can use Copilot Image Creator in any browser with its dedicated site. The Copilot Image Creator site is mostly the same but with a couple of differences.
@@ -91,20 +95,14 @@ Close
 
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
  Second, the Image Creator available to all browsers uses a "boost" token system to provide speedy images. You start with 100 boosts, and each time you input a prompt, it uses a boost. Once your boosts run out, Image Creator won't prioritize your creations, and they can take a few minutes to appear. It doesn't appear to make a difference to quality, mind, just time.
 
  What I found interesting was that Image Creator images generated in Copilot on Edge will appear in your Image Creator recent images. Edits you make to the Copilot on Edge images will update across the two tools as you make them, but it's a one-way process.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Should You Use Microsoft Copilot Image Creator or ChatGPT Plus With DALL-E 3?
 
  It's frustrating that Copilot Image Creator won't create a 2:1 image out of the box, but Microsoft's editing tool takes care of this with some extra clicks, so it's not too much of an issue.
@@ -125,8 +123,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +130,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-journey-into-virtual-realms-best-8-metaverse-visors-and-goggles/"><u>[New] Journey Into Virtual Realms Best 8 Metaverse Visors & Goggles</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-master-the-art-of-preserving-your-musical-journey/"><u>[New] Master the Art of Preserving Your Musical Journey</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-next-level-video-top-webcam-filters-for-flawless-broadcasts/"><u>[New] Next Level Video Top Webcam Filters for Flawless Broadcasts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-top-picks-explore-the-best-new-windows-10-apps-and-games/"><u>[New] Top Picks Explore the Best New Windows 10 Apps and Games</u></a></li>
+<li><a href="https://discover-best.techidaily.com/1725287127474-windows-1110/"><u>专家选择：Windows 11/10最佳视频编码工具之一——速度和安全并重的十大解决方案</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-breakthrough-at-stanford-paves-the-way-for-seamless-vr-experiences-bidding-farewell-to-heavy-headsets-zdnet/"><u>AI Breakthrough at Stanford Paves the Way for Seamless VR Experiences, Bidding Farewell to Heavy Headsets | ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cinematographe-queries-explained/"><u>Cinematographe Queries Explained</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-hp-deskjet-2652-drivers-on-your-pc-running-windows-111087/"><u>Download and Install HP DeskJet 2652 Drivers on Your PC Running Windows 11/10/8/7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expect-swift-arrival-how-fast-youll-get-your-new-apple-vision-pro-revealed/"><u>Expect Swift Arrival: How Fast You'll Get Your New Apple Vision Pro Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/finnish-innovators-challenge-apple-with-revolutionary-vr-headset-ideal-for-enterprises-zdnet/"><u>Finnish Innovators Challenge Apple with Revolutionary VR Headset, Ideal for Enterprises | ZDNet</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pixelprofessionalzoom7-expertly-scaling-your-photography/"><u>In 2024, PixelProfessionalZoom7 Expertly Scaling Your Photography</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-potential-of-tech-breakthroughs-how-2-surveys-made-2023-a-record-breaking-year-for-progress-exclusive-insights-from-zdnet/"><u>Unlocking The Potential Of Tech Breakthroughs: How 2 Surveys Made 2023 a Record-Breaking Year for Progress - Exclusive Insights From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-do-users-prefer-quest-3-over-other-metavr-headsets-exploring-top-user-favorite-factors/"><u>Why Do Users Prefer Quest 3 Over Other Metavr Headsets? Exploring Top User-Favorite Factors</u></a></li>
+</ul></div>
 

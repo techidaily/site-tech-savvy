@@ -1,7 +1,7 @@
 ---
 title: Personalizing Websites with AI-Powered Searches
-date: 2024-08-29T19:49:09.805Z
-updated: 2024-08-30T19:49:09.805Z
+date: 2025-01-22T16:24:30.569Z
+updated: 2025-01-24T21:59:40.492Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/7fab9a6185158d097b206408c1b02e98fd2b514b0
 
 ![Google's search page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/google-search-engine.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Whenever you search for something online through a search engine like Google or Bing, complex bots crawl through millions of web pages to generate the most relevant results for your query. Once this happens, you can click any link on the search engine results page (SERP) and be redirected to the website providing the information.
 
  The more users visit a specific website, the more visibility, traffic, and revenue it can generate using advertising and affiliate marketing strategies, among others. This is why businesses invest in search engine optimization (SEO) strategies to ensure their websites rank on the first page of results—allowing them to get more visibility and revenue.
@@ -45,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/7fab9a6185158d097b206408c1b02e98fd2b514b0
 
 ![Microsoft Bing search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-search-ai.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  So, instead of manually going through multiple websites to find the information you're looking for, you can save time by getting more personalized responses from the AI chatbot. In addition, you can ask follow-up questions for more precision and specificity. For example, you could ask the chatbot to narrow your search to TVs within a specific price range or those with gaming features. From here, you can head straight to Amazon to buy the product.
@@ -55,9 +63,6 @@ Close
 
 ![Screenshot showing Google snippet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/google-snippet-search.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## The Potential Implications of AI-Powered Search Engines
 
  Although it is still too early to know precisely how generative AI search will change websites, there are a few potential implications we can anticipate. Considering the traditional search model basically works by trading traffic for free content, online publications struggling with decreased web traffic may suffer from lower advertising revenue and find it harder to stay afloat.
@@ -66,38 +71,24 @@ Close
 
  Some online publications might have to rely on AI content generators to write their articles, as they are cheaper and can churn out content faster than humans. This could lead to more bland, unauthentic, and low-quality content on the internet, as [ChatGPT-like tools aren't good enough to replace skilled writers](https://www.makeuseof.com/why-chatgpt-wont-take-writing-job/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Case for Human-Written Content
 
 ![A woman using her computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/human-content-writer.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Large language models like ChatGPT rely on vast text databases to generate coherent and plausible-sounding responses. Considering the complexity of their tasks, these chatbots need training using high-quality data and feedback to get better at providing personalized answers.
 
  Consequently, as seen in the smart TV example above, integrating AI chatbots within search engines means they will need access to current, factual, and reliable content written by skilled human writers to provide the best responses. This is particularly important for health and news verticals that require accurate and real-time information.
 
  Thus, current and accurate information written by knowledgeable and skilled writers creates a positive feedback loop with generative AI search engines and ensures they provide users with more factual and up-to-date responses.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Websites Can Adapt in the Age of AI-Powered Search Engines
 
  Independent websites and generative search engines may need to coexist for this new search model to work. In this regard, websites must adopt new strategies and approaches to remain relevant in an AI-driven search engine world. This includes:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### 1\. Producing High-Quality Niche Content That Provides Value
 
  Although ChatGPT-like tools have been wowing users with their writing prowess, they lack the depth, accuracy, and factual correctness that human-written content provides. These tools are notorious for producing bland, shallow, and generic content, which is not good enough for some users.
@@ -105,8 +96,9 @@ Close
  Content creators can capitalize on these weak points and fill in the gap to drive more website traffic by producing high-quality, niche content that covers specific topics from different angles and provides unique perspectives to users.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Using Social Media to Drive Traffic to Websites
 
 ![An illustration showing some social media app logos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/social-media-apps.jpg)
@@ -125,13 +117,18 @@ Close
 
 [Skilled content writers outperform AI chatbots](https://www.makeuseof.com/ways-content-writers-outperform-ai/) by fact-checking and producing relatable content that instills trust and confidence in readers. By becoming a trusted source of information, independent websites can differentiate themselves from AI-generated content and become the go-to place for readers looking for factual information.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Embracing Subscription Models
 
  If all of the above fails to boost website traffic, then online publishers can embrace subscription models to increase their revenue. Subscription models typically provide readers access to exclusive and premium content for a fixed fee without dealing with ads. Online publishers can use this business model to monetize their content and compensate for the lost ad revenue due to AI generative search.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AI-Powered Search Could Change the Internet as We Know It
 
  It's still early to know how AI-driven search engines will change independent websites, as we have only covered one possibility. However, what is certain is that there will be some change, and this will significantly depend on how you and other users will respond to this new search model.
@@ -142,14 +139,11 @@ Close
 
  AI-powered search engines will significantly impact how you find and consume content online and the future of websites. While this is still a gray area, this article will explore one of several potential ways AI chatbot-driven search engines could affect independent websites.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,4 +152,16 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-channel-honor-roll-play-button-and-follower-awards/"><u>[New] In 2024, Channel Honor Roll - Play Button & Follower Awards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-pc-hardware-expert-insights-from-toms-tech-corner/"><u>Discover the Latest in PC Hardware: Expert Insights From Tom's Tech Corner</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhanced-ensuring-smooth-operations-of-the-virtual-battleground-hyper-scape-on-your-computer/"><u>Enhanced: Ensuring Smooth Operations of the Virtual Battleground - Hyper Scape on Your Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fingerprint-sensor-no-reading-on-pc/"><u>Fingerprint Sensor: No Reading on PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-integrating-visuals-smoothly-mastering-snap-camera-in-microsoft-teams/"><u>In 2024, Integrating Visuals Smoothly Mastering Snap Camera in Microsoft Teams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-3-optimal-vpn-services-for-seamless-olympic-games-viewing-experience-insights-from-zdnet/"><u>Top 3 Optimal VPN Services for Seamless Olympic Games Viewing Experience - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-current-promotions-unlock-the-latest-secrets-of-affordable-vpn-services/"><u>Top Current Promotions: Unlock the Latest Secrets of Affordable VPN Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-free-vpn-services-of-2024-reviewed-by-professionals-zdnets-ultimate-guide/"><u>Top Free VPN Services of 2024 Reviewed by Professionals - ZDNet's Ultimate Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-gaming-vpns-indepth-analysis-and-reviews-techradar/"><u>Top-Rated Gaming VPNs: InDepth Analysis & Reviews - TechRadar</u></a></li>
+</ul></div>
 

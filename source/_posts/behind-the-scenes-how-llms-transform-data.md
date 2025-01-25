@@ -1,7 +1,7 @@
 ---
 title: "Behind the Scenes: How LLMs Transform Data"
-date: 2025-01-13T17:03:09.846Z
-updated: 2025-01-18T16:50:07.464Z
+date: 2025-01-23T16:43:07.244Z
+updated: 2025-01-24T20:14:08.927Z
 tags:
   - chatgpt
   - open-ai
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 
  Of course, having a huge database of text is one thing, but LLMs need to be trained to make sense of it to produce human-like responses. How it does this is what we cover next.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do LLMs Work?
 
  How do LLMs use these repositories to create their responses? The first step is to analyze the data using a process called deep learning.
@@ -61,15 +65,15 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 
 ![Screenshot of question about what type of wood is a bat made from](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-what-type-of-wood-is-a-bat-made-from.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To generate these responses, LLMs use a technique called natural language generation (NLG). This involves examining the input and using the patterns learned from its data repository to generate a contextually correct and relevant response.
 
  But LLMs go deeper than this. They can also tailor replies to suit the emotional tone of the input. When combined with contextual understanding, the two facets are the main drivers that allow LLMs to create human-like responses.
 
  To summarize, LLMs use a massive text database with a combination of deep learning and NLG techniques to create human-like responses to your prompts. But there are limitations to what this can achieve.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are the Limitations of LLMs?
 
@@ -85,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
  There is also an argument that ethical concerns can be considered a limitation of LLMs, but this subject falls outside the scope of this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 Examples of Popular LLMs
@@ -94,21 +98,17 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 
  Here are some of the most widely used LLMs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. GPT
 
  Generative Pre-trained Transformer (GPT) is perhaps the most widely known LLM. GPT-3.5 powers the ChatGPT platform used for the examples in this article, while the newest version, GPT-4, is available [through a ChatGPT Plus subscription](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Microsoft also uses the latest version [in its Bing Chat platform](https://www.makeuseof.com/chatgpt-vs-bing-chat-best-generative-ai-chatbot/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. LaMDA
 
  This is the initial LLM used by Google Bard, Google's AI chatbot. The version Bard was initially rolled out with was described as a "lite" version of the LLM. The more powerful PaLM iteration of the LLM superseded this.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. BERT
 
@@ -117,7 +117,7 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
  Plenty more LLMs have been developed, and offshoots are common from the major LLMs. As they develop, these will continue to grow in complexity, accuracy, and relevance. But what does the future hold for LLMs?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Future of LLMs
@@ -158,17 +158,22 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-fast-track-to-short-video-treasure-troves-free-access-for-2024/"><u>[New] Fast Track to Short Video Treasure Troves (Free Access) for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tep-by-step-making-youtube-video-thumbnails-mobile/"><u>[New] Step-by-Step Making YouTube Video Thumbnails (Mobile)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-ultimate-oculus-rift-game-hits-of-the-season/"><u>[New] Ultimate Oculus Rift Game Hits of the Season</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030489207-pc/"><u>「撮影素材の組み込みが楽 - PCとスマートフォンで動画への加工方法」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44cm44k544og44os44kq5aplusplus5bplusc44oy44od44oj44ov44kp44oz44oe44kk44kv44gn6auy5zob6loq44gq6yyy6zplusz44gr44gk44ge44gm5a2m44g244cn/"><u>「ステレオ対応ヘッドフォンマイクで高品質な録音について学ぶ」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029764512-android/"><u>最新の自由音楽プレイヤー - Androidユーザによるベスト選び！</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/discover-the-leading-youtube-clones-top-rated-free-video-hosting-services-online/"><u>Discover the Leading YouTube Clones: Top-Rated, Free Video Hosting Services Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029880424-handbrake/"><u>HandBrakeで動画を最適化するための簡単なガイド: コンパクト形式へ</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-permanently-delete-files-from-iphone-with-top-rated-eraser-apps/"><u>How to Permanently Delete Files From iPhone with Top-Rated Eraser Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030144340-iphone/"><u>IPhone動画フォーマット変換ガイド集</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/live-streaming-with-manycam-top-choice-in-virtual-webcam-and-broadcasting-apps/"><u>Live Streaming with ManyCam: Top Choice in Virtual Webcam and Broadcasting Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-quick-reference-mastering-text-meanings/"><u>Win11 Quick Reference: Mastering Text Meanings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-cost-effective-tactics-in-video-promotions/"><u>[Updated] Cost-Effective Tactics in Video Promotions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-crafting-memories-a-complete-guide-to-the-top-6-minecraft-recordings-techniques/"><u>2024 Approved Crafting Memories A Complete Guide to the Top 6 Minecraft Recordings Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-get-it-right-three-pro-tips-for-lol-gameplay-captures/"><u>2024 Approved Get It Right Three Pro Tips for LOL Gameplay Captures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/amazing-deal-alert-grab-your-new-ipad-at-only-199-with-amazons-labor-day-discount-the-latest/"><u>Amazing Deal Alert: Grab Your New iPad at Only $199 with Amazon's Labor Day Discount - The Latest !</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-note-13-proplus-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Xiaomi Redmi Note 13 Pro+ 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-elevates-my-fav-tv-show-viewing-a-tale-of-joy-strangeness-and-exhaustion-coverage/"><u>Apple Vision Pro Elevates My Fav TV Show Viewing - A Tale of Joy, Strangeness & Exhaustion | Coverage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-cybersecurity-unveiling-the-hidden-dangers-to-bank-data/"><u>ChatGPT and Cybersecurity: Unveiling the Hidden Dangers to Bank Data</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-ai-syntax-the-essential-vocabulary-list/"><u>Deciphering AI Syntax: The Essential Vocabulary List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-how-apples-innovative-vision-pro-headset-will-revolutionize-the-market-with-a-customized-library-of-more-than-600-new-apps-expert-insights/"><u>Discover How Apple's Innovative Vision Pro Headset Will Revolutionize the Market with a Customized Library of More than 600 New Apps – Expert Insights</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-xiaomi-redmi-12-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Xiaomi Redmi 12? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-top-20-tiktok-anthems-discovering-todays-hip-hop-stars/"><u>In 2024, Top 20 TikTok Anthems Discovering Today’s Hip-Hop Stars</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prompt-designers-in-demand-fact-or-fiction/"><u>Prompt Designers in Demand: Fact or Fiction?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/quick-tips-turning-off-igtv/"><u>Quick Tips Turning Off IGTV</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-presentations-with-smart-ai-technology/"><u>Revolutionizing Presentations with Smart AI Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-guide-to-snapping-photos-of-your-desktop-learn-with-windows-11/"><u>The Complete Guide to Snapping Photos of Your Desktop – Learn with Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-faux-fabric-of-fiction-spotting-ai-spun-stories/"><u>The Faux Fabric of Fiction: Spotting AI-Spun Stories</u></a></li>
 </ul></div>
 

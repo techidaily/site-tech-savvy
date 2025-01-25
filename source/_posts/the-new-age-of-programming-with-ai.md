@@ -1,7 +1,7 @@
 ---
 title: The New Age of Programming with AI
-date: 2024-08-29T19:43:29.631Z
-updated: 2024-08-30T19:43:29.631Z
+date: 2025-01-21T18:02:02.627Z
+updated: 2025-01-24T18:34:40.276Z
 tags:
   - chatgpt
   - open-ai
@@ -21,11 +21,19 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Overall Sentiments of Developers Towards AI
 
  As mentioned, AI is growing in popularity among developers. According to the [Stack Overflow 2023 survey](https://survey.stackoverflow.co/2023/), 70% are already using or plan to use AI tools in their development process with 44% already using the tools now and 26% planning to.
 
  The views on AI differ based on the profession and the level of experience of the developer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Profession
 
@@ -40,25 +48,23 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
  For cloud developers, AI can help optimize infrastructure management by automating processes such as resource allocation, load balancing, monitoring, and performance tuning.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Experience
 
  Developers earlier in their careers and those learning to code are more likely to use AI tools possibly because it improves the speed of learning.
 
  On the other hand, 42.2% of developers with more than 21+ years of experience are less favorable to AI. This may be because they want to see whether the hype surrounding AI will die down before committing to a certain tool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Countries
 
  Professional developers from India (83%), Brazil (78%), and Poland (70%) are among the developers using or planning to use AI tools in the future. This is probably because of the high growth of young developers from these countries. Developers from the United Kingdom, France, and Germany are less likely to use AI tools.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Are the Tasks Developers Are Using AI For?
 
  Developers are using AI for different tasks and these tasks vary between developers learning to code and professional developers.
@@ -70,8 +76,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  It’s worth noting that only a few developers are interested in using AI to collaborate with teammates.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Benefits of AI for Developers
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
@@ -90,9 +97,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  Stack Overflow surveyed the popularity of various AI tools grouped between AI search tools and AI developer tools. From the data, developers are primarily using two tools, ChatGPT and GitHub Copilot.
 
  Among the AI search tools, ChatGPT is the most popular tool. 79% of developers who use it want to use it again next year. Following closely behind in popularity were Bing AI and Google Bard AI.
@@ -105,9 +109,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  This slow adoption of a wide variety of AI tools can be attributed to skepticism about AI accuracy with only 2.85% of developers highly trusting AI output. This distrust can be attributed to tools like ChatGPT providing incorrect output sometimes. This output, when used, can cause significant damage to an application. When using these tools, it's always a good idea to first verify the output.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Get Started With AI in Software Development
 
  As a software developer, you can get started with AI by incorporating code generation and editing tools in your development process. [Tools like GitHub Copilot](https://www.makeuseof.com/how-github-copilot-helps-you-code/) and Tabnine suggest code snippets based on the context as you type which can significantly cut down on development time. Additionally, ChatGPT is very useful for generating utility functions, UI components, and debugging code. With the right prompts, you can even [use ChatGPT to create web apps](https://www.makeuseof.com/chatgpt-how-build-web-app/).
@@ -118,14 +119,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,4 +132,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-backpack-essentials-for-filming-tours/"><u>[Updated] 2024 Approved Backpack Essentials for Filming Tours</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-ultimate-snapchat-boomerang-handbook/"><u>[Updated] 2024 Approved The Ultimate Snapchat Boomerang Handbook</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-converting-ephemeral-content-fb-messenger-video-secrets-revealed/"><u>[Updated] In 2024, Converting Ephemeral Content FB Messenger Video Secrets Revealed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-transforming-viewers-into-livelihood-with-right-numbers/"><u>[Updated] Transforming Viewers Into Livelihood with Right Numbers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-the-limits-10-ai-breakthroughs/"><u>Beyond the Limits: 10 AI Breakthroughs</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/comprehensive-kodi-user-manual-in-depth-insights-for-effective-usage-chapters-1-6-unveiled/"><u>Comprehensive Kodi User Manual: In-Depth Insights for Effective Usage – Chapters 1-6 Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-personalized-ai-utilizing-gpt-for-tailored-chatbot/"><u>Crafting Personalized AI: Utilizing GPT for Tailored ChatBot</u></a></li>
+<li><a href="https://media-tips.techidaily.com/efficiently-convert-your-video-content-into-animation-a-guide-with-10-strategies/"><u>Efficiently Convert Your Video Content Into Animation: A Guide with 10 Strategies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-efficient-scratching-tool-for-chromeos/"><u>In 2024, Efficient Scratching Tool for ChromeOS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-performance-how-to-avoid-windows-glitches-while-playing-star-citizen/"><u>Optimizing Performance: How to Avoid Windows Glitches While Playing Star Citizen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-content-through-ai/"><u>Revolutionize Your Content Through AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stanzas-struggle-against-digital-minds-purebred-alpacas/"><u>Stanzas Struggle Against Digital Minds, Purebred Alpacas</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tutorial-etape-par-etape-pour-creation-de-videos-en-haute-resolution-et-qualite-superieure/"><u>Tutorial Étape Par Étape Pour Création De Vidéos en Haute Résolution Et Qualité Supérieure</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-effective-chatgpt-api-strategies/"><u>Unlocking Potential: Effective ChatGPT API Strategies</u></a></li>
+</ul></div>
 

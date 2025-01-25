@@ -1,7 +1,7 @@
 ---
 title: "Adding Your CA Driver’s License to Apple or Google Pay: A Comprehensive Walkthrough for Residents"
-date: 2025-01-15T17:17:38.541Z
-updated: 2025-01-18T17:05:38.623Z
+date: 2025-01-22T17:50:55.351Z
+updated: 2025-01-25T00:48:54.352Z
 tags:
   - apple
 categories:
@@ -62,6 +62,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -69,10 +73,6 @@ Double-clicking, or, rather, double-pressing, the button on the right side of yo
 Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
@@ -96,7 +96,15 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I set up Apple Pay from my iPhone Settings?
 
@@ -107,10 +115,6 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
@@ -118,6 +122,10 @@ You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there i
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -130,7 +138,7 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Apple Cash?
@@ -140,10 +148,6 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 **Also: [Have you used Cash App in the last 6 years? You might be eligible for $2,500](https://www.zdnet.com/article/have-you-used-cash-app-within-the-past-six-years-you-might-be-eligible-for-2500/)**
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
 
@@ -158,10 +162,6 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -197,18 +197,22 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-essential-simple-shelter-strategies-in-mc/"><u>2024 Approved Essential Simple Shelter Strategies in MC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-hide-or-disable-suggestions-in-your-instagram-feed/"><u>How to Hide or Disable Suggestions in Your Instagram Feed</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/implementing-precise-timing-features-for-engaged-youtube-audiences/"><u>Implementing Precise Timing Features for Engaged YouTube Audiences</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-nokia-c300-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Nokia C300 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-look-at-adobes-cloud-and-comparable-services/"><u>In 2024, In-Depth Look at Adobe's Cloud & Comparable Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-music-downloads-easily-change-soundcloud-songs-to-mp4-format-for-optimal-playback/"><u>Mastering Music Downloads: Easily Change SoundCloud Songs to MP4 Format for Optimal Playback</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp3windows-media-player-2024/"><u>MP3ファイルがうまく再生されない場合、Windows Media Player 2024で何をすべきか？解決策とヒント</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-driver-anomaly-corrected-display-normalized/"><u>Nvidia Driver Anomaly Corrected - Display Normalized</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/preserving-video-fidelity-during-mov-file-format-change-to-m4v/"><u>Preserving Video Fidelity During MOV File Format Change to M4V</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-and-effective-guide-converting-mov-videos-into-mkv-format/"><u>Quick & Effective Guide: Converting MOV Videos Into MKV Format</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamlessly-merging-multiple-mp4-videos-a-simple-guide/"><u>Seamlessly Merging Multiple MP4 Videos: A Simple Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-your-own-copy-expert-tips-for-saving-loom-videos-using-3-proven-strategies/"><u>Secure Your Own Copy: Expert Tips for Saving Loom Videos Using 3 Proven Strategies</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-hp-printer-no-response/"><u>Troubleshooting HP Printer No Response</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-crafting-chorus-in-a-click-essential-insights-into-shortform-song-videos/"><u>[New] 2024 Approved Crafting Chorus in a Click Essential Insights Into Shortform Song Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ite-size-beats-characters-in-soundscape-for-2024/"><u>[New] Bite-Size Beats Characters in Soundscape for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-breakthrough-strategies-for-effective-fb-health-promotion-for-2024/"><u>[New] Breakthrough Strategies for Effective FB Health Promotion for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-making-a-mark-creating-standout-slideshows-for-facebook-networks/"><u>[Updated] 2024 Approved Making a Mark Creating Standout Slideshows for Facebook Networks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-ultimate-path-to-a-thriving-instagram-community/"><u>2024 Approved The Ultimate Path to a Thriving Instagram Community</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adaptive-wellness-tools-select-8-gpt-integrations/"><u>Adaptive Wellness Tools: Select 8 GPT Integrations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-facilitated-mindfulness-for-less-stress/"><u>AI-Facilitated Mindfulness for Less Stress</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/busting-scams-crackdown-on-vpns-exposed/"><u>Busting Scams: Crackdown on VPNs Exposed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dealing-with-moisture-alerts-on-iphones-effective-remedies-and-expert-tips/"><u>Dealing With Moisture Alerts on iPhones: Effective Remedies and Expert Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-a-list-hd-screen-recorders-for-optimal-performance/"><u>In 2024, A-List HD Screen Recorders for Optimal Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-troubleshooting-ensuring-seamless-bluetooth-connectivity-for-windows-10-tips-and-guides/"><u>Master the Art of Troubleshooting: Ensuring Seamless Bluetooth Connectivity for Windows 10 (Tips & Guides)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/rotating-iphone-photos-for-perfect-angles/"><u>Rotating iPhone Photos for Perfect Angles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-benefits-of-using-apple-pages-why-you-need-this-app-on-your-device/"><u>Top 5 Benefits of Using Apple Pages: Why You Need This App on Your Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/true-academic-success-beyond-chatgpts-capabilities/"><u>True Academic Success Beyond ChatGPT's Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-apples-vision-intelligent-home-assistants-on-tomorrows-horizon-insights-and-predictions/"><u>Unveiling Apple's Vision: Intelligent Home Assistants on Tomorrow’s Horizon | Insights and Predictions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visual-voyage-navigating-through-dall-e-iiis-imaginative-landscapes/"><u>Visual Voyage: Navigating Through DALL-E III’s Imaginative Landscapes</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/coreldraw/"><u>クイック修正：CorelDRAWから消えたファイルの回復法</u></a></li>
 </ul></div>
 

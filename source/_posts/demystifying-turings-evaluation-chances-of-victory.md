@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Turing's Evaluation: Chances of Victory?"
-date: 2025-01-11T17:47:06.184Z
-updated: 2025-01-18T16:48:27.271Z
+date: 2025-01-18T16:13:59.572Z
+updated: 2025-01-24T19:41:17.973Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,13 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the Turing Test?
 
 ![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Originally called "The Imitation Game," the Turing Test was developed by Alan Turing. Despite its name, the Turing Test is not a true test—at least, not in the common sense of the word. It's more of a thought experiment. Nevertheless, Alan Turing was a highly influential mathematician who formalized many concepts that led to the birth of computer science.
 
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Drawbacks of the Turing Test
@@ -67,9 +67,17 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
 
@@ -82,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Google's LaMBDA
@@ -103,19 +111,11 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if [AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### ChatGPT
 
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.
 
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Turing Test Has Not Been Definitively Passed
 
@@ -144,24 +144,21 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-dos-and-donts-of-instagram-live-for-2024/"><u>[New] The Do's and Don'ts of Instagram Live for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-picks-free-video-editing-software-to-watch/"><u>[New] Top Picks Free Video Editing Software to Watch</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-affordable-gopros-where-to-buy-with-best-price-for-2024/"><u>[Updated] Affordable GoPros Where to Buy with Best Price for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-crafting-quality-videos-a-guide-to-apple-device-screen-recording/"><u>2024 Approved Crafting Quality Videos A Guide to Apple Device Screen Recording</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-innovative-strategies-for-srt-creation-and-enhancement/"><u>2024 Approved Innovative Strategies for SRT Creation and Enhancement</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1728492023439-hddssdhdd/"><u>古いHDDから新しいSSDまたはHDDへのクローン作成方法 - 再インストール不要</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/windows-pc3/"><u>無料のビデオカッタープログラム：Windows PC専用ベスト3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chaos-control-harnessing-9-gpt-inspired-approaches/"><u>Chaos Control: Harnessing 9 GPT-Inspired Approaches</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dive-into-dialogue-w-chatgpt-today/"><u>Dive Into Dialogue W/ ChatGPT Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exclusive-realms-for-artificial-intelligence-prompt-sharing/"><u>Exclusive Realms for Artificial Intelligence Prompt Sharing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-y27-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo Y27 5G</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-your-iphone-15-splash-proof-unveiling-its-waterproof-capabilities/"><u>Is Your iPhone 15 Splash-Proof? Unveiling Its Waterproof Capabilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-quoras-pathway-to-engage-with-botsllms/"><u>Leveraging Quora's Pathway to Engage with Bots/LLMs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-global-chatgpt-usage/"><u>Mastering the Art of Global ChatGPT Usage</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/step-into-a-world-of-fantasy-with-the-elder-scrolls-v-skyrim-for-switch-an-immersive-rpg-journey-revealed/"><u>Step Into a World of Fantasy with The Elder Scrolls V - Skyrim for Switch: An Immersive RPG Journey Revealed</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211323768-9798988311072-the-wheel-of-the-woman/"><u>The Wheel of the Woman | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-platforms-to-download-high-quality-copyright-free-indian-melodies-for-professional-use/"><u>Top 5 Platforms to Download High-Quality, Copyright-Free Indian Melodies for Professional Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-for-securely-acquiring-mx-player-app-on-windows-operating-systems-including-windows-11108187/"><u>Ultimate Tutorial for Securely Acquiring MX Player App on Windows Operating Systems Including Windows 11/10/8.1/8/7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wma-to-mp3-transformation-guide-updated-effortless-strategies-both-offline-and-on-the-web/"><u>WMA to MP3 Transformation Guide (Updated): Effortless Strategies , Both Offline and On the Web</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-cutting-edge-speedy-frame-compiler/"><u>[New] 2024 Approved Cutting Edge Speedy Frame Compiler</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-acid-pro-reviewed-comparable-professional-tools-explored/"><u>[New] In 2024, ACID Pro Reviewed Comparable Professional Tools Explored</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-enhancing-imagery-with-smart-layers-in-photoshop/"><u>[Updated] 2024 Approved Enhancing Imagery with Smart Layers in Photoshop</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-inside-look-the-power-of-recmeister-capturing-features/"><u>2024 Approved Inside Look The Power of Recmeister Capturing Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-deception-recognize-the-scams/"><u>ChatGPT Deception: Recognize the Scams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-codegpt-real-world-coding-capabilities/"><u>Delving Into CodeGPT: Real-World Coding Capabilities</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-ace-2-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus Ace 2 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-apples-enhanced-logic-pro-ai-powered-virtual-bandmates-for-ipad-and-mac-explore-the-future-of-music-creation/"><u>Introducing Apple's Enhanced Logic Pro: AI-Powered Virtual Bandmates for iPad & Mac - Explore the Future of Music Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keeping-secrets-safe-in-custom-gpt-environments/"><u>Keeping Secrets Safe in Custom GPT Environments</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/pro-free-mac-screen-logger-for-2024/"><u>Pro-Free Mac Screen Logger for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synergizing-ai-and-messaging-for-excellent-support/"><u>Synergizing AI and Messaging for Excellent Support</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-duel-of-data-and-discourse-mistral-versus-gpt-3/"><u>The Duel of Data and Discourse: Mistral Versus GPT-3</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-the-v-game-crashes-and-freezing-issues/"><u>Troubleshooting Steps: Resolving the 'V' Game Crashes and Freezing Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-ipad-air-outshines-the-ipad-pro-in-this-review-insider-tips-and-thoughts-from-zdnet/"><u>Why the iPad Air Outshines the iPad Pro in This Review - Insider Tips and Thoughts From ZDNet</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-11-users-guide-troubleshooting-and-fixing-video-dxgkrnl-fatal-error-bsod/"><u>Windows 11 User's Guide: Troubleshooting and Fixing Video Dxgkrnl Fatal Error BSOD</u></a></li>
 </ul></div>
 

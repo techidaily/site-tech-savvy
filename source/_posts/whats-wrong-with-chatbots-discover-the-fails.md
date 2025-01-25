@@ -1,7 +1,7 @@
 ---
 title: What's Wrong with Chatbots? - Discover the Fails
-date: 2024-09-02T20:31:22.025Z
-updated: 2024-09-03T20:31:22.025Z
+date: 2025-01-19T23:50:00.811Z
+updated: 2025-01-24T17:31:59.473Z
 tags:
   - chatgpt
   - open-ai
@@ -31,9 +31,17 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
  When put in messaging apps, the amount of harm it can do is even greater since people might use it to (intentionally or unintentionally) spread misinformation among their contacts and on social media, proliferate propaganda, and foster echo chambers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. People Don't Like Talking to Bots
 
 ![Small orange and silver robot sitting on carpeted floor with a laptop in front of it.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-robot-working-on-laptop-computer-artificial-intelligence-concept-3d-rendering-generative-ai)
 
@@ -45,9 +53,6 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
 
  Using AI to write emails, for example, is understandable since it's a professional interaction, but using it in personal conversations will not be something anyone would want to encourage. Once the novelty of the tech fades, it'll become rude to use it in this context.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## 3\. AI Cannot Copy Your Unique Tonality
 
  Generative AI tools today already allow you to change the tonality of your message, such as formal, cheerful, or neutral depending on who you are writing to and how you want to come across. [Magic Compose in Google Messages](https://www.makeuseof.com/ai-powered-features-coming-to-android/), for example, allows you to do the same.
@@ -58,24 +63,23 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
 
  Up until AI tools allow you the option to train their language model based on your chat history, they will not be able to replicate your unique dialect and eccentricities. That said, this challenge is not that hard to solve, so we might see it being implemented soon.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Writing Good Prompts Takes Time
 
 ![Man Texting on Mobile Phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/man-mobile.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  Getting desired results from an AI chatbot heavily depends on the quality of your prompt. If you write a bad prompt, you're going to get a bad response and will have to refine the prompt until you get a satisfactory result.
 
  This process makes sense when you want to write long-form content but is extremely inefficient when writing multiple, short responses in an informal conversation.
 
  The time it might take to refine your prompts and get useable responses will be, in most cases, more than the time it would've taken you if you just wrote the messages yourself.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. AI May Produce Offensive Results
 
@@ -83,24 +87,14 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
 
  In other words, bias is baked into the system. AI doesn't inherently understand what's considered offensive and what's not, so it might, for instance, be trained to be biased against certain groups of people or certain cultures—hence producing offensive results in the process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. AI May Not Understand Sarcasm or Humor
 
  AI's understanding of figures of speech, such as irony and metaphor, is improving over time, but it's still far from being at a point where it can be used in a conversation to recognize humor. When asking Google's Bard to be sarcastic, for example, the results were hit-or-miss.
 
 ![Google Bard chatbot attempting to be sarcastic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-bard-chatbot-attempting-to-be-sarcastic.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  In some cases, it was genuinely funny and played along with my sarcasm. But in other cases, it either defaulted back to an unfunny cookie-cutter response or simply refused to participate in the conversation altogether, saying that as it's just a LLM, it can't help me with my query.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## 7\. Reliance on AI May Lead to Poor Communication
 
  Another subtle yet substantial problem with integrating generative AI into messaging apps is how it can affect our ability to communicate. If we increasingly rely on AI to converse with each other, it may hinder our ability to [train our emotional intelligence](https://www.makeuseof.com/ways-increase-your-emotional-intelligence/) and social skills.
@@ -108,8 +102,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The point here is that the more we outsource our social needs to AI, the worse we will get at communicating ideas through organic means. In other words, the more you use AI to talk to your contacts, the more likely you may be to degrade the quality of your relationships.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Not Everything Needs to Have AI
 
  Oftentimes, with the advent of new technology, we are so busy figuring out how to use it that we fail to argue whether we should be using it in the first place.
@@ -120,14 +115,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  But should we? Using AI technology for productivity, education, and entertainment makes sense. However, companies are now thinking about putting it directly in our messaging apps, and this can prove destructive. Here are seven reasons why.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +128,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-stunning-colors-top-11-methods-for-professional-grading-and-correction/"><u>[Updated] Capture Stunning Colors Top 11 Methods for Professional Grading & Correction</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-old-wallpaper-3-efficient-methods/"><u>Eliminate Old Wallpaper: 3 Efficient Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-data-privacy-in-bot-to-human-talk/"><u>Ensuring Data Privacy in Bot-to-Human Talk</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-camon-30-pro-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Tecno Camon 30 Pro 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-crafting-a-trailers-soundtrack-a-guide/"><u>In 2024, Crafting a Trailer's Soundtrack A Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-word-chatgpt-powered-doc-automation/"><u>Mastering Word: ChatGPT-Powered Doc Automation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-avidemux-audio-not-playing-fix-it-now/"><u>New Avidemux Audio Not Playing? Fix It Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premier-selection-of-20-dynamic-chatgpt-sessions-on-github/"><u>Premier Selection of 20 Dynamic ChatGPT Sessions on GitHub</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-prototyping-via-chatgpt-techniques/"><u>Revolutionizing Prototyping via ChatGPT Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/supreme-comedic-picture-maker/"><u>Supreme Comedic Picture Maker</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolutionary-path-advanced-ai-conversations/"><u>The Evolutionary Path: Advanced AI Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-your-potent-ai-agent-top-tactics-for-perfectly-structured-chatgpt-prompts/"><u>Unleash Your Potent AI Agent: Top Tactics for Perfectly Structured ChatGPT Prompts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/visual-storytelling-made-easy-free-vfx-websites-for-2024/"><u>Visual Storytelling Made Easy - Free VFX Websites for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/which-conversational-ai-takes-the-lead-gpt-vs-huggingface/"><u>Which Conversational AI Takes the Lead: GPT Vs. HuggingFace</u></a></li>
+</ul></div>
 

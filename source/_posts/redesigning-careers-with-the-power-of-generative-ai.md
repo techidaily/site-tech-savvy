@@ -1,7 +1,7 @@
 ---
 title: Redesigning Careers with the Power of Generative AI
-date: 2024-08-29T19:48:54.856Z
-updated: 2024-08-30T19:48:54.856Z
+date: 2025-01-19T20:40:32.344Z
+updated: 2025-01-24T17:34:12.053Z
 tags:
   - chatgpt
   - open-ai
@@ -48,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
 ![Man Working on a Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/man-techie.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We saw how Google is integrating [generative AI in Google Workspace apps](https://www.makeuseof.com/google-workspace-generative-ai/) such as Gmail, Docs, Sheets, Slides, and more. Microsoft is doing the same with its Office 365 suite of productivity apps. Many more companies are implementing the tech on their own products too.
 
  Since these generative AI capabilities in workspace apps are still in testing and haven't been fully rolled out yet, you might dismiss them as a fad. But that would be a huge mistake. Once developed and available to everyone, these AI tools will help skyrocket productivity for white-collar workers around the world.
@@ -63,8 +64,9 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
 ![Two women looking at a computer and iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creative-activities-that-boost-your-mental-health.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Speaking of creativity, creative AI tools like DALL-E and Midjourney have taken the art world by storm. We won't get into how many artists are protesting against the use of such tools, as they deem it unfair to have them use their copyrighted artwork for reference.
 
  On a more practical note, creative AI tools will allow artists, graphic designers, interior designers, fashion designers, and product designers to work and come up with new ideas much faster. By having the AI create a rough first draft for you, it allows you the flexibility to quickly make tweaks and adjustments later on to churn out original content faster.
@@ -74,8 +76,9 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
  Generative AI hasn't quite mastered video creation yet, but given the rapid advancement of these tools, we wouldn't be surprised if we start seeing AI-made videos that are watchable (if not great) by the end of 2023\. Once good enough, filmmakers may use the tech for inspiration too.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. AI Will Run Fully-Automated Social Media Campaigns
 
 ![Illustration of two computers and app icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/illustration-of-two-computers-and-app-icons.jpg)
@@ -87,8 +90,9 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
  All you'll need to do, as a social media manager, is simply type your requirements along with contextual specifics such as company history, product description, target audience, tonality, and the timeline of the campaign. The tool will take care of the rest; it'll create designs, schedule posts, put up stories, and respond to comments on your behalf.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Automation Will Lead to Shorter Workdays
 
 ![A clock and a calendar with stationery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Reminders-Notion-Feature-1.jpg)
@@ -98,15 +102,13 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
  Since [human capital will become less necessary](https://www.makeuseof.com/types-of-jobs-risk-ai/) going forward, companies will increasingly embrace automation in white-collar jobs. But since some level of human intervention will still be required, employees in some industries will be asked to work fewer hours.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Blue-Collar Jobs Will Become Far More Lucrative
 
 ![Feature cover of a happy construction worker behind his desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/feature-cover-of-a-happy-construction-worker-behind-his-desk.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  Blue-collar jobs such as farmer, plumber, electrician, mechanic, construction worker, and more are likely to become far more lucrative than ever before in history—perhaps even more than some white-collar jobs. Why? Because unlike white-collar work, many blue-collar jobs require manual labor and cannot be easily automated.
 
  Generative AI can easily learn the patterns of a desk job and produce useful results, but all of those capabilities are limited to software. This is not to say that AI isn't used in some blue-collar jobs, as it is, but software alone can't fix a leaky toilet, plow land, build a house, perform pest control, remove dents from your car, or repair a broken air conditioner.
@@ -121,14 +123,11 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
 
  Like most cases, the truth is probably somewhere in the middle. To help you know what to expect and better prepare yourself, we're listing down some of our top predictions on how generative AI will change the job market in the next few years.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +136,18 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-secrets-of-effective-screen-capture-with-dell-devices/"><u>[New] 2024 Approved Secrets of Effective Screen Capture with Dell Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-visionary-visions-guiding-principles-for-stunning-images/"><u>[New] 2024 Approved Visionary Visions Guiding Principles for Stunning Images</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-thumbnail-design-for-engagement-a-youtube-resizing-guide/"><u>[New] In 2024, Thumbnail Design for Engagement A YouTube Resizing Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-adjusting-google-meet-display-mobile-and-laptop-focus/"><u>[Updated] 2024 Approved Adjusting Google Meet Display Mobile and Laptop Focus</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-composition-and-tints-mastering-color-usage-for-2024/"><u>[Updated] Composition and Tints Mastering Color Usage for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-fix-wsd-device-on-windows-os/"><u>Driver Fix: WSD Device on Windows OS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-green-are-electric-vehicles-really/"><u>How ‘Green’ Are Electric Vehicles, Really?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-privacy-with-protonvpns-browser-plug-ins-essential-steps-for-chromium-and-mozilla-users/"><u>Mastering Privacy with ProtonVPN's Browser Plug-Ins: Essential Steps for Chromium & Mozilla Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/professional-assessment-the-leading-budget-friendly-vpns-in-202-zdnet/"><u>Professional Assessment: The Leading Budget-Friendly VPNs in 202^) | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-and-affordable-vpn-deals-with-atlasvpn-enjoy-a-whopping-83-price-cut-in-our-special-privacy-promotion/"><u>Secure & Affordable VPN Deals with AtlasVPN - Enjoy a Whopping 83% Price Cut in Our Special Privacy Promotion!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-surfing-with-vpn-mastering-iphone-connection-settings-for-privacy-protection/"><u>Secure Surfing with VPN: Mastering iPhone Connection Settings for Privacy Protection</u></a></li>
+</ul></div>
 

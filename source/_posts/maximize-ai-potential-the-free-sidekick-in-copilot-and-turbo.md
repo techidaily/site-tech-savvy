@@ -1,7 +1,7 @@
 ---
 title: "Maximize AI Potential: The Free Sidekick in Copilot & Turbo"
-date: 2025-01-17T16:15:07.405Z
-updated: 2025-01-18T16:26:39.802Z
+date: 2025-01-23T20:17:00.623Z
+updated: 2025-01-24T20:16:02.438Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,13 @@ thumbnail: https://thmb.techidaily.com/396dd6f1f5f85b43c32a2f0c48b141d6c784c244e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is GPT-4 Turbo?
 
 ![gpt-4 logo on smartphone screen](https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fedee62792e7be872d16bace959.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-photo/portland-usa-mar-15-2023-webpage-2275173419)
 
@@ -46,28 +46,28 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
 
  If you want to bring Copilot up faster, you can do so by pressing **Win + C**. Or, if you're lucky enough to own a [laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/), just press that to bring up the assistant at any time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Use GPT-4 Turbo for Free on Other Devices
 
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don't have a Copilot button yet or use a different operating system, you can still use the [Copilot website](https://copilot.microsoft.com/). Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.
@@ -79,7 +79,7 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 ![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  GPT-4 Turbo is very powerful, but it's only as good as what you feed it. Here are a few tips to get the most out of GPT-4 Turbo and Copilot.
@@ -107,16 +107,22 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-a-practical-handbook-for-recording-virtual-play-battles/"><u>[New] 2024 Approved A Practical Handbook for Recording Virtual Play Battles</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-navigate-your-way-to-youtube-fame-a-guide-to-25-proven-techniques/"><u>[New] In 2024, Navigate Your Way to YouTube Fame A Guide to 25 Proven Techniques</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-designing-pinnacle-canon-temp-video-series/"><u>[Updated] 2024 Approved Designing Pinnacle Canon Temp Video Series</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-excellent-mac-bandicam-substitutes-5/"><u>2024 Approved Excellent Mac Bandicam Substitutes [#5]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/3mp4/"><u>3優れた無料方法：MP4動画からフレーム画像を取得・保存するステップバイステップガイド</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/adjusting-parameters-a-comprehensive-guide-to-fine-tuning-your-output-options/"><u>Adjusting Parameters: A Comprehensive Guide to Fine-Tuning Your Output Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-windows-11-compatible-dvd-to-avi-video-converters-reviewed/"><u>Best Windows 11 Compatible DVD to AVI Video Converters Reviewed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/buy-wonderfox-flash-to-gif-transformer-a-must-have-tool-for-easy-file-conversion/"><u>Buy WonderFox Flash to Gif Transformer: A Must-Have Tool for Easy File Conversion</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-se-2020-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone SE (2020) Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ved-no-display-for-youtube-shorts/"><u>Resolved No Display for YouTube Shorts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-modern-gamers-guide-understanding-the-latest-on-bandicam/"><u>[New] 2024 Approved The Modern Gamer's Guide Understanding the Latest on Bandicam</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-8-converters-seamless-sub-and-srt-transition/"><u>[New] Prime 8 Converters Seamless Sub and SRT Transition</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-ultimate-checklist-for-professional-live-streaming/"><u>[New] The Ultimate Checklist for Professional Live Streaming</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/adjusting-time-display-on-kindle-paperwhite-a-detailed-tutorial/"><u>Adjusting Time Display on Kindle Paperwhite - A Detailed Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-latest-ai-innovations-from-wwdc-2023-why-they-might-not-excite-you-but-thats-okay/"><u>Apple's Latest AI Innovations From WWDC 2023: Why They Might Not Excite You (But That's Okay)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-efficiency-quotient-with-these-4-advanced-chatgpt-tactics/"><u>Boost Your Efficiency Quotient with These 4 Advanced ChatGPT Tactics</u></a></li>
+<li><a href="https://article-files.techidaily.com/cinematography-insights-the-leading-5-secrets/"><u>Cinematography Insights The Leading 5 Secrets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-3-demystified-uses-and-applications/"><u>Claude 3 Demystified: Uses & Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-securely-connect-with-a-vpn-on-apple-vision-pro-essential-guide-for-privacy-protection-cyberexperts-blog/"><u>How to Securely Connect with a VPN on Apple Vision Pro: Essential Guide for Privacy Protection | CyberExperts Blog</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-itel-a05s-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Itel A05s? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-fellowes-microban-corded-keyboard-a-cost-effective-pick/"><u>In-Depth Analysis of Fellowes Microban Corded Keyboard: A Cost-Effective Pick</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-era-begins-with-chatgpts-significant-upgrades/"><u>New Era Begins with ChatGPT’s Significant Upgrades</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/paving-the-way-for-accurate-ai-replies-implementing-6-proactive-techniques/"><u>Paving the Way for Accurate AI Replies: Implementing 6 Proactive Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/swift-systems-for-rearranging-youtube-video-lineup-for-2024/"><u>Swift Systems for Rearranging YouTube Video Lineup for 2024</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/the-complete-walkthrough-on-dvd-creation-firing-up-enjoying-and-transforming-content/"><u>The Complete Walkthrough on DVD Creation, Firing Up, Enjoying & Transforming Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-browser-plugins-enhancing-ai-conversations/"><u>Top 7 Browser Plugins Enhancing AI Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-the-full-narrative-beyond-chatgpts-summaries/"><u>Unpacking the Full Narrative Beyond ChatGPT's Summaries</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ASRock's Mini PC Revolution: Elevate Your Workstation Using a Full-Sized GPU - Only Available to Chinese Consumers for ¥1200"
-date: 2024-08-29T19:50:32.316Z
-updated: 2024-08-30T19:50:32.316Z
+date: 2025-01-19T20:36:56.374Z
+updated: 2025-01-24T18:39:08.190Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,10 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,14 +45,11 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
  The CloudFest 2024 event occurs at Europa-park in Rust,[Germany](https://www.tomshardware.com/pc-components/gpus/intel-submits-schematics-for-1nm-chip-fabs-in-germany-two-new-fabs-open-in-2027) , from March 18 to 24\. It is described as a must-attend event for anyone who works in[the cloud](https://www.tomshardware.com/reviews/cloud-computing-security,2829-2.html) , with a packed schedule featuring keynotes, panel discussions, masterclasses, networking events, and more. Only paying attendees can sign up for the chance to show off their server-throwing prowess. Tickets start at 499 euros.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -57,8 +58,17 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-echoes-of-time-unveiling-the-secrets-to-snapchat-reverse/"><u>[New] Echoes of Time Unveiling the Secrets to Snapchat Reverse</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-key-elements-for-effective-spotify-ad-execution/"><u>[Updated] 2024 Approved The Key Elements for Effective Spotify Ad Execution</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/flacwindows-10/"><u>FLACオーディオ形式の鮮明再生：Windows 10ユーザーへのガイド</u></a></li>
+<li><a href="https://program-issues.techidaily.com/instant-relief-from-frequent-titanfall-2-game-crashes/"><u>Instant Relief From Frequent Titanfall #2 Game Crashes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/kickstart-your-journey-into-artificial-intelligence-discover-the-top-5-essential-steps-zdnet/"><u>Kickstart Your Journey Into Artificial Intelligence: Discover the Top 5 Essential Steps | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-undercover-job-hunt-a-guide-for-prospective-employees-seeking-new-opportunures/"><u>Navigating the Undercover Job Hunt: A Guide for Prospective Employees Seeking New Opportunures</u></a></li>
+<li><a href="https://win11.techidaily.com/secrets-to-a-smooth-switch-from-focused-to-relaxed-states-on-terminal/"><u>Secrets to a Smooth Switch From Focused to Relaxed States on Terminal</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securing-your-dream-position-in-technology-at-microsoft-strategies-from-zdnet/"><u>Securing Your Dream Position in Technology at Microsoft - Strategies From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-pay-transparency-understanding-its-impact-on-your-career-zdnet-insights/"><u>Upcoming Pay Transparency: Understanding Its Impact on Your Career | ZDNet Insights</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

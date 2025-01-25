@@ -1,7 +1,7 @@
 ---
 title: Open the Doors to GPT-4, No Currency Required
-date: 2024-08-29T19:50:10.858Z
-updated: 2024-08-30T19:50:10.858Z
+date: 2025-01-21T00:25:38.520Z
+updated: 2025-01-24T21:44:36.786Z
 tags:
   - chatgpt
   - open-ai
@@ -44,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/5a73949d0daa87913e6d1945410f959f7280334c9
 
 ![microsoft copilot website screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/microsoft-copilot-website-screenshot.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
  Microsoft was one of the first companies to work directly with OpenAI, plowing billions of dollars into the company and its AI research.
 
  Accordingly, Microsoft Edge's Bing Chat became one of the first ways to use GPT-4 for free, allowing you to create up to 300 chats per day, with each Bing Chat limited to 30 rounds of questions. Then, on December 1, 2023, Microsoft rebranded Bing Chat to Copilot, dropping the 300 chats per day limit and rolling out [Copilot support in many other Microsoft services](https://www.makeuseof.com/microsoft-ai-copilot-which-you-should-use/).
@@ -55,18 +52,12 @@ thumbnail: https://thmb.techidaily.com/5a73949d0daa87913e6d1945410f959f7280334c9
 
 ![microsoft copilot image creator four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-four-images.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to use GPT-4 for free, Microsoft Copilot is absolutely one of the best options. A [ChatGPT Plus subscription is still the overall best option](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/) due to its extensive array of features, but if you just have a few questions you want answered, Copilot is the next best option.
 
 ## 2\. Perplexity.ai
 
 ![perplexity ai pro search option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/perplexity-ai-pro-search-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  Perplexity.ai is a very promising AI tool with the option to use GPT-4 for free. While the free version of Perplexity doesn't specifically state that you're using GPT-4, toggling its "Copilot" mode gives you access to GPT-4, albeit limited to five questions every four hours.
 
  Overall, it's not a bad option and gives you a taste of what Perplexity.ai is all about. If OpenAI is pushing towards creating artificial general intelligence, Perplexity.ai seems to be pushing towards reinventing internet search, and its tool is a great option for those who want a turbo-charged search experience.
@@ -74,15 +65,13 @@ thumbnail: https://thmb.techidaily.com/5a73949d0daa87913e6d1945410f959f7280334c9
  Upgrading to Perplexity.ai's Pro tier will set you back $20 per month (the same as a ChatGPT Plus subscription), but does mean you can ask more than 300 Copilot-powered questions, [use Anthropic's Claude 3 model](https://www.makeuseof.com/what-is-claude-3/), and upload as many files as you want to for AI analysis.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Merlin
 
 ![merlin ai extension free gpt4 access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/merlin-ai-extension-free-gpt4-access.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Merlin is a handy Chrome browser extension that provides GPT-4 access for free, albeit limited to a specific number of daily queries.
 
  What makes Merlin a great way to use GPT-4 for free are its requests. As a Merlin Free user, you receive 102 requests per day. Each GPT-4 request made will set you back 30 requests, giving you around three free GPT-4 questions per day (which is roughly in line with most other free GPT-4 tools). Merlin also has the option to access the web for your requests, though this adds a 2x multiplier (60 requests rather than 30).
@@ -93,12 +82,13 @@ thumbnail: https://thmb.techidaily.com/5a73949d0daa87913e6d1945410f959f7280334c9
 
 **Download**: Merlin for [Google Chrome](https://chrome.google.com/webstore/detail/merlin-1-click-access-to/camppjleccjaphfdbohjdohecfnoikec) (Free, subscription available)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## 4\. Hugging Face
 
 ![using gpt-4 on hugging face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-gpt-4-on-hugging-face.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hugging Face is an open-source machine learning and AI development website where thousands of developers collaborate and build tools.
 
@@ -106,13 +96,18 @@ thumbnail: https://thmb.techidaily.com/5a73949d0daa87913e6d1945410f959f7280334c9
 
  However, I've included the option here in case you find more joy than I did. The image above shows one Space that processed my request instantly (as its daily API access limit hadn't yet been hit), while another requires you to [enter your ChatGPT API key](https://www.makeuseof.com/chatgpt-api-complete-guide/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Formerly Had Free GPT-4 Access: Poe by Quora, Ora, Forefront, Nat.dev
 
  Several other tools once provided free GPT-4 access but have since removed the option or pushed it into a premium or subscription tier. The reason for that is simple enough: it's expensive to integrate GPT-4 access into a site and give that access away for free, especially as many people want to access GPT-4 for free.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Poe
 
 ![poe homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-ain-page.jpg)
@@ -120,6 +115,10 @@ thumbnail: https://thmb.techidaily.com/5a73949d0daa87913e6d1945410f959f7280334c9
  Poe is a generative AI tool that gives you access to several LLMs and AI chatbots in one place. Unlike most of the major generative AI tools that feature just one option, Poe, developed by Quora, helps you spread your questions around, choosing the best option for the job when required.
 
  Quora CEO [Adam D'Angelo's tweet](https://twitter.com/adamdangelo/status/1635690637990445057?) initially revealed Poe's GPT-4 integration in March 2023, with users able to send one free GPT-4 message per day. The number of free GPT-4 messages rose to three, but it has since removed its free GPT-4 messaging capacity. There is no indication if Poe will restore its free GPT-4 messaging option, but it's worth keeping tabs on, just in case.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Ora
 
@@ -130,24 +129,26 @@ thumbnail: https://thmb.techidaily.com/5a73949d0daa87913e6d1945410f959f7280334c9
  Ora has since moved GPT-4 access into its Hobby or Pro Plan, starting from $25 monthly.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Forefront
 
 ![forefront ai chatgpt prompt output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/forefront-ai-chatgpt-prompt-output.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Forefront is another multi-access AI tool featuring free access to GPT-3.5, Forefront's in-house tool, and Claude-Instant 1.2\. When it first launched, Forefront provided a limited number of free GPT-4 requests (along with Claude 2), but this access has since been removed.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Nat.dev
 
 ![open playground nat dev credits top up request](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/open-playground-nat-dev-credits-top-up-request.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Nat.dev is an Open Playground tool that offered limited access to GPT-4\. However, the person behind nat.dev eventually restricted free access to GPT-4, as costs sprialled. However, you can still use nat.dev to access a wide range of free LLMs, such as Llama, Mistral, and so on.
 
@@ -163,8 +164,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +171,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-leading-audio-editing-software-in-shaping-your-vtuber-image/"><u>[New] 2024 Approved Leading Audio Editing Software in Shaping Your VTuber Image</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rhythm-reels-crafting-danceable-instagram-video-content/"><u>[New] Rhythm Reels Crafting Danceable Instagram Video Content</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-directing-content-destination-from-imovie-files-to-youtube-platform/"><u>[Updated] In 2024, Directing Content Destination From iMovie Files To YouTube Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-grab-free-video-profile-backgrounds/"><u>[Updated] In 2024, Grab Free Video Profile Backgrounds</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-perfecting-live-steam-playback-a-step-by-step-approach/"><u>[Updated] In 2024, Perfecting Live Steam Playback A Step-by-Step Approach</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-smartphones-with-superior-video-recording-features/"><u>2024 Approved Smartphones with Superior Video Recording Features</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/6ycg5zcr5asn5y6f5pww5o2u77ya5luo5pwf6zqc55qe56gs55uy5lit5ogi5asn5pah5lu25lio5pon5l2c57o757uf/"><u>逆向复原数据：从故障的硬盘中恢复文件与操作系统</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ascend-in-your-job-role-top-5-tactics-to-secure-a-promotion-and-boost-career-growth-expert-advice-from-zdnet/"><u>Ascend in Your Job Role: Top 5 Tactics to Secure a Promotion and Boost Career Growth | Expert Advice From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-an-impressive-tech-resume-tips-from-the-pros-at-zdnet/"><u>Crafting an Impressive Tech Resume: Tips From the Pros at ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/impending-scarcity-of-skilled-programmers-warnings-by-top-salesforce-official-echoed-across-silicon-valley-zdnets-deep-dive/"><u>Impending Scarcity of Skilled Programmers, Warnings by Top Salesforce Official Echoed Across Silicon Valley - ZDNet's Deep Dive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/landing-your-first-tech-role-without-previous-industry-experience-a-guide/"><u>Landing Your First Tech Role Without Previous Industry Experience: A Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-unspoken-discover-key-non-technical-competencies-needed-in-it-roles-as-revealed-by-zdnet/"><u>Mastering the Unspoken: Discover Key Non-Technical Competencies Needed in IT Roles as Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-job-market-with-ai-expertise-essential-tech-skills-employers-seek-for-future-hires-insights-from-zdnet/"><u>Navigating the Job Market with AI Expertise: Essential Tech Skills Employers Seek for Future Hires - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ating-the-world-of-youtube-building-strong-partner-relationships/"><u>Navigating the World of YouTube Building Strong Partner Relationships</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-flex-work-arrangements-and-enhanced-perks-mastering-the-art-of-negotiation-with-your-manager-insights-from-zdnet/"><u>Secure Flex Work Arrangements & Enhanced Perks: Mastering the Art of Negotiation with Your Manager - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/by-step-guide-to-rearranging-youtube-playlists/"><u>Step-by-Step Guide to Rearranging YouTube Playlists</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/struggle-with-productivity-at-work-improve-your-focus-with-the-pomodoro-method-forbes/"><u>Struggle With Productivity at Work? Improve Your Focus with the Pomodoro Method | Forbes</u></a></li>
+</ul></div>
 
