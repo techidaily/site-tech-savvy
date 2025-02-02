@@ -1,7 +1,7 @@
 ---
 title: "Chatbot Security: Navigating Potential Threats"
-date: 2024-08-25T17:38:43.348Z
-updated: 2024-08-26T17:38:43.348Z
+date: 2025-01-31T04:43:05.252Z
+updated: 2025-02-01T12:09:33.641Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
  AI chatbots aren’t perfect, but you don’t have to avoid them altogether. Here’s everything you should know about how crooks abuse ChatGPT and what you can do to stop them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will ChatGPT Compromise Your Personal Information?
 
  Most front-end security concerns about ChatGPT stem from speculations and unverified reports. The platform only launched in November 2022, after all. It’s natural for new users to have misconceptions about the privacy and security of unfamiliar tools.
@@ -43,16 +47,10 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
  However, OpenAI can only monitor convos for research purposes. Distributing or selling them to third parties violates its own terms of use.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Public Information
 
  According to the [BBC](https://www.sciencefocus.com/future-technology/gpt-3/), OpenAI trained ChaGPT on 300 billion words. It collects data from public web pages, like social media platforms, business websites, and comment sections. Unless you’ve gone off the grid and erased your digital footprint, ChatGPT likely has your information.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## What Security Risks Does ChatGPT Present?
 
  While ChatGPT isn’t inherently dangerous, the platform still presents security risks. Crooks can bypass restrictions to execute various cyberattacks.
@@ -61,15 +59,15 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
 ![Making ChatGPT Write a Spam Email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/spam-email-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  Instead of spending hours writing emails, crooks use ChatGPT. It’s fast and accurate. Advanced language models (such as GPT-3.5 and GPT-4) can produce hundreds of coherent, convincing phishing emails within minutes. They even adopt unique tones and writing styles.
 
  Since ChatGPT makes it harder to spot hacking attempts, [take extra care before answering emails](https://www.makeuseof.com/chatgpt-cybersecurity-threat/). As a general rule, avoid divulging information. Note that legitimate companies and organizations rarely ask for confidential PII through random emails.
 
  Learn to spot hacking attempts. Although email providers filter spam messages, some crafty ones could fall through the cracks. You should still know what phishing messages look like.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Data Theft
 
@@ -78,6 +76,10 @@ The ultimate burning program for all your needs!</a>
  Although collaborative and convenient, open-sourcing leaves technologies vulnerable to abuse. Skilled criminals already exploit ChatGPT. They train it on large volumes of stolen data, turning the platform into a personal database for fraud.
 
  Remember: you have no control over how crooks operate. The best approach is to contact the Federal Trade Commission (FTC) once you notice [signs of identity theft](https://www.makeuseof.com/what-is-identity-theft/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Malware Production
 
@@ -91,19 +93,14 @@ The ultimate burning program for all your needs!</a>
 
 ![ChatGPT Refusing to Write Code for the Trojan Virus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-on-trojan-virus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Meanwhile, the below photo shows that ChatGPT will give you harmful information if you phrase your prompts correctly.
 
 ![ChatGPT Writing a Code Snippet for Viruses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-code-snippet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 4\. Intellectual Property Theft
 
  Unethical bloggers spin content using ChatGPT. Since the platform runs on advanced LLMs, it can quickly rephrase thousands of words an avoid plagiarism tags.
@@ -113,11 +110,16 @@ The ultimate burning program for all your needs!</a>
 ![ChatGPT Paraphrasing Text to Avoid Plagiarism](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-paraphrasing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Of course, spinning still classifies as plagiarism. Paraphrased AI articles sometimes rank by chance, but Google generally prefers original content from reputable sources. Cheap tricks and SEO hacks can’t beat high-quality, evergreen writing.
 
  Also, Google releases multiple core updates annually. It will soon focus on removing lazy, unoriginal AI-generated pieces from SERPs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Generating Unethical Responses
 
@@ -130,6 +132,10 @@ The ultimate burning program for all your needs!</a>
 ![Asking ChatGPT to Produce Harmful Answers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bypassing-chatgpt-limits.jpg)
 
  The good news is [OpenAI hasn’t lost control of ChatGPT](https://www.makeuseof.com/openai-lost-control-chatgpt/). Its ongoing efforts in tightening restrictions stop ChatGPT from producing unethical responses, regardless of user input. Jailbreaking won’t be as easy moving forward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Quid Pro Quo
 
@@ -145,9 +151,6 @@ The ultimate burning program for all your needs!</a>
 
  To combat quid pro quo attempts, avoid third-party apps. OpenAI never released an authorized mobile app, computer program, or browser extension for ChatGPT. Anything claiming as such is a scam.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use ChatGPT Safely and Responsibly
 
  ChatGPT is not a threat by itself. The system has vulnerabilities, but it won’t compromise your data. Instead of fearing AI technologies, research how crooks incorporate them into social engineering tactics. That way, you can proactively protect yourself.
@@ -158,14 +161,11 @@ The ultimate burning program for all your needs!</a>
 
  AI chatbots aren’t perfect, but you don’t have to avoid them altogether. Here’s everything you should know about how crooks abuse ChatGPT and what you can do to stop them.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,4 +174,22 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-harmonizing-tech-and-artistry-mac-studios/"><u>[Updated] In 2024, Harmonizing Tech & Artistry Mac Studios</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-zoom-webinar-mastery-a-novices-step-by-step-tutorial/"><u>[Updated] Zoom Webinar Mastery A Novice's Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-high-end-online-locations-for-metallic-3d-lettering/"><u>2024 Approved High-End Online Locations for Metallic 3D Lettering</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craftsmanship-meets-technology-expert-ai-use-in-bing-for-android/"><u>Craftsmanship Meets Technology: Expert AI Use in Bing for Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expertly-selected-and-testing-ultimate-ranking-for-apple-watch-band-options/"><u>Expertly Selected & Testing: Ultimate Ranking for Apple Watch Band Options</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-to-get-more-instagram-video-views/"><u>How to Get More Instagram Video Views</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Samsung Galaxy XCover 6 Pro Tactical Edition to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-xiaomi-redmi-13c-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Xiaomi Redmi 13C 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mute-or-malfunction-diagnose-and-repair-iphones-silent-stubbornness/"><u>Mute or Malfunction? Diagnose and Repair iPhone's Silent Stubbornness</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/on-site-ai-management-via-agentgpt/"><u>On-Site AI Management via AgentGPT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-sites-compared-insights-into-facebook-twitter-instagram-and-youtube/"><u>Top Social Sites Compared: Insights Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ai-boundaries-in-the-world-of-professional-writing/"><u>Understanding AI Boundaries in the World of Professional Writing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-enhanced-iphone-content-tools-in-ios-18-a-revolution-for-iphone-14-users-zdnets-analysis/"><u>Unveiling Enhanced iPhone Content Tools in iOS 18 - A Revolution for iPhone 14 Users | ZDNet's Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-claude-the-ultimate-ai-for-professionals/"><u>Unveiling the Power of Claude: The Ultimate AI for Professionals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-workings-of-ais-creative-text-exploration/"><u>Unveiling the Workings of AI's Creative Text Exploration</u></a></li>
+</ul></div>
 

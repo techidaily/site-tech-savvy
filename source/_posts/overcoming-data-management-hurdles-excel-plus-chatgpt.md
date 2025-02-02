@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Data Management Hurdles: Excel + ChatGPT"
-date: 2025-01-21T22:59:47.227Z
-updated: 2025-01-24T20:18:41.303Z
+date: 2025-01-24T17:26:12.186Z
+updated: 2025-02-01T01:52:02.984Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 
  For example, if you need help with a formula, type in something like "Can you help me with a VLOOKUP formula?" or "What's the formula to calculate the average of a range of cells?" and ChatGPT will respond. Similarly, if you need help with a specific macro, you can ask ChatGPT for assistance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Examples of Using ChatGPT With Excel
 
  To get started, open a chat window with ChatGPT and ask for help. Here are some examples of how you can use ChatGPT to improve your Excel skills:
@@ -45,16 +49,12 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 3. **Data Analysis**: To generate a chart based on a range of data, you can ask ChatGPT with a prompt like "What is the formula to create a chart based on these values xyz?” or "Can you help me create a chart that shows the trend of my sales data?"
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Prompts and Code Examples for Excel
 
  Here are some examples of common ChatGPT prompts and code that can be useful while working with Excel.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Rounding Numbers
 
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 ![ChatGPT showing the formula to round a number to the nearest whole number on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-round-number.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Calculating Averages
@@ -72,11 +72,19 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 
 ![ChatGPT showing the formula to calculate the average of cells on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-average.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Sorting and Filtering Data
 
  You can also use ChatGPT to create macros that sort and filter data. For example, you could ask, "Can you create a macro that sorts data in ascending order?", and ChatGPT will respond with the suitable VBA code:
 
 ![ChatGPT showing an example macro for the sort filter on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-sort-filter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. More Advanced Examples
 
@@ -88,23 +96,19 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 
 ![ChatGPT showing the macro to copy filtered data to a new worksheet on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-macro-to-workbook.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you ask “Calculate the weighted average of a range of cells”, it will respond with:
 
 ![ChatGPT showing the formula for the SUMPRODUCT function for weighted average on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-weighted-average.jpg)
 
  As you can see, ChatGPT can provide you with the prompts and code examples you need to use Excel more effectively. Just ask ChatGPT in plain English, and it will respond with the necessary information.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Best Practices of Using ChatGPT With Excel
 
  While ChatGPT can be a powerful tool for working with Excel, it's essential to use it correctly to get the best results. Here are some best practices for using ChatGPT with Excel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Use Clear and Concise Prompts
 
@@ -117,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
  ChatGPT is an AI-based tool, and while it's usually very accurate, it's always a good idea to double-check the generated code to ensure it's doing what you want it to do. Test the generated code with sample data to ensure it's accurate and functioning as expected.
 
  When using ChatGPT to generate a macro, review the code carefully and check for syntax errors or logical inconsistencies. Testing the macro with sample data can also help ensure it functions as expected.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Start With More Straightforward Problems
 
@@ -153,24 +153,17 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-prime-meme-framework-essentials/"><u>[New] 2024 Approved Prime Meme Framework Essentials</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-cutting-edge-tips-for-quicker-windows-images/"><u>[New] Cutting-Edge Tips for Quicker Windows Images</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-discovering-the-power-behind-youtube-statistics-interpretation/"><u>[New] In 2024, Discovering the Power Behind YouTube Statistics Interpretation</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-list-best-video-making-for-ios-android-users/"><u>[New] The Ultimate List Best Video-Making For iOS, Android Users</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-no-fuss-trick-for-clownfish-tone-change-in-windows-domain/"><u>2024 Approved No-Fuss Trick for Clownfish Tone Change in Windows Domain</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-seamless-integration-of-snap-camera-in-video-conferencing-tools/"><u>2024 Approved Seamless Integration of Snap Camera in Video Conferencing Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-generated-gems-or-misleading-stones/"><u>AI-Generated Gems or Misleading Stones?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-you-track-blood-pressure-with-the-new-apple-watch-series-10-surprising-facts-revealed/"><u>Can You Track Blood Pressure with the New Apple Watch Series 10? Surprising Facts Revealed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/choosing-the-ultimate-apple-tablet-a-comparison-of-ipad-pro-models/"><u>Choosing the Ultimate Apple Tablet: A Comparison of iPad Pro Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/desertification-not-just-drought-anymore-scientific-insight/"><u>Desertification Not Just Drought Anymore: Scientific Insight</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficiently-crafting-multiples-with-canva-and-chatgpt/"><u>Efficiently Crafting Multiples with Canva & ChatGPT</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-essential-image-cropping-techniques-for-2024/"><u>Final Cut Pro X Essential Image Cropping Techniques for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/next-gen-biz-tools-embracing-chatgpt-and-whisper-apis/"><u>Next-Gen Biz Tools: Embracing ChatGPT & Whisper APIs</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/strategies-for-bulk-tiktok-video-acquisition/"><u>Strategies for Bulk TikTok Video Acquisition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tested-apples-push-is-it-time-to-upgrade-your-iphone-insights-from-zdnet/"><u>Tested Apple's Push: Is It Time To Upgrade Your iPhone? Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-cyber-predicament-hackers-and-ai-conversation/"><u>The Cyber Predicament: Hackers and AI Conversation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-key-strategies-for-a-successful-turnaround-of-apples-vision-pro-a-breakdown-analysts/"><u>Unveiling Key Strategies for a Successful Turnaround of Apple's Vision Pro: A Breakdown Analysts</u></a></li>
-<li><a href="https://win11.techidaily.com/usb-movie-player-for-ps4-a-step-by-step-guide-to-watch-films-directly-from-a-flash-drive/"><u>USB Movie Player for PS4 - A Step-by-Step Guide to Watch Films Directly From a Flash Drive</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-im-choosing-the-new-iphone-16-pro-mini-over-the-iphone-16-pro-max-insights/"><u>Why I'm Choosing the New iPhone 16 Pro (Mini) Over the iPhone 16 Pro Max - Insights</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unlocking-full-gaming-potential-with-fbx-capturing/"><u>[New] 2024 Approved Unlocking Full Gaming Potential with FBX Capturing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-brevity-in-action-the-process-of-shortening-youtube-videos/"><u>[Updated] 2024 Approved Brevity in Action The Process of Shortening YouTube Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-innovative-tech-trends-leading-online-screen-capture-apps/"><u>[Updated] In 2024, Innovative Tech Trends Leading Online Screen Capture Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-advocates-argument-the-ultimate-language-combatant/"><u>AI Advocates’ Argument: The Ultimate Language Combatant</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/best-video-makers-with-music-and-photos-for-2024/"><u>Best Video Makers with Music and Photos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-roundup-most-savvy-atandt-offers-for-phones-in-may-2024-insider-info-by-zdnet/"><u>Exclusive Roundup: Most Savvy AT&T Offers for Phones in May 2024 | Insider Info by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-big-savings-on-apples-latest-ipad-just-199-dollars-this-labor-day-on-amazon-now-insider-info/"><u>Score Big Savings on Apple's Latest iPad – Just 199 Dollars This Labor Day on Amazon, Now Insider Info!</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unboxing-apples-budget-friendly-usb-c-earpods-at-just-17-my-impulsive-prime-day-find-expert-analysis/"><u>Unboxing Apple's Budget-Friendly USB-C EarPods at Just $17 – My Impulsive Prime Day Find | Expert Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/universal-chatgpt-portal-how-to-use-it-from-everywhere/"><u>Universal ChatGPT Portal: How to Use It From Everywhere</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-14-plus-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 14 Plus without Passcode</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-screensaver-not-working-solved/"><u>Windows 10 Screensaver Not Working [Solved]</u></a></li>
 </ul></div>
 

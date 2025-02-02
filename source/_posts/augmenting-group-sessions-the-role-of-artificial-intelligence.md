@@ -1,7 +1,7 @@
 ---
 title: "Augmenting Group Sessions: The Role of Artificial Intelligence"
-date: 2025-01-18T16:00:19.301Z
-updated: 2025-01-24T22:53:18.364Z
+date: 2025-01-27T20:16:08.427Z
+updated: 2025-02-01T06:25:18.391Z
 tags:
   - chatgpt
   - open-ai
@@ -28,17 +28,9 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Anticipate Questions in Advance
 
 ![ChatGPT answering the prompt "Give me a list of questions that may be asked during a meeting between the project management department and the health and safety department discussing the installation of a new injection moulding machine"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/anticipating-questions-in-advance-using-chatgpt.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Being in a virtual meeting can be more stressful than a physical one as the interactions are limited. Also, you cannot easily read the body language of others. So, when someone asks a question that you didn't expect, your whole presentation can go off the rails.
 
@@ -48,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 
  While these responses may not be the best, they can serve as a great starting point for your preparation. Then, with the questions and potential responses in hand, you can organize them further in any note-taking app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Brainstorm Ideas
 
 ![ChatGPT asnwering the prompt "ideas for improving the collaboration between the project management department and the health and safety department during the installation of a new injection moulding machine on site"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/brainstorming-ideas-using-chatgpt.jpeg)
@@ -56,13 +52,13 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 
  ChatGPT can help provide a new angle that may solve the issue more efficiently. It can also provide a good starting point for your team to come up with fresh new ideas of their own. You can streamline this process of asking ChatGPT for new ideas by [using your voice to control ChatGPT](https://www.makeuseof.com/ways-to-control-chatgpt-with-voice/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Summarize the Meeting Transcript
 
 ![ChatGPT answering the prompt "Summarize this transcript in 150 words. I just need to know what was discussed in bullet points"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/summarizing-meeting-transcripts-using-chatgpt.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  An intuitive and time-saving way to use ChatGPT for your online session is to have it summarize the meeting transcript. All you have to do is provide the transcript and ask ChatGPT to summarize it within a word count of your choice.
 
@@ -71,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
  Since the meeting is being conducted online, it can be recorded. You can then use an app like [Rev to transcribe your audio files](https://www.makeuseof.com/how-good-is-rev-transcribing-audio-files/). If the transcription is in PDF form, there is no need to worry. There are [several ways to let ChatGPT read PDF files](https://www.makeuseof.com/chatgpt-read-pdf-ways/) as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Decide the Next Course of Action
@@ -79,12 +75,16 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 ![ChatGPT answering the prompt "What is the next course of action based on the transcription of the meeting we just had"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/deciding-the-next-course-of-action-using-chatgpt.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  An essential part of meeting minutes is to jot down all follow-up actions at the end. This helps clarify what needs to be done next and prevents misunderstandings. Again, ChatGPT can help you with this at the press of a key.
 
  Ask the language model what the next course of action is based on the transcription of your meeting. Then provide the AI chatbot with the transcription of your meeting, and ChatGPT will list all follow-up actions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Is the Perfect Assistant for Your Virtual Meetings
 
@@ -111,20 +111,24 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-from-zero-to-hero-establishing-a-new-social-media-presence-facebook/"><u>[New] From Zero to Hero Establishing a New Social Media Presence (Facebook)</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-step-by-step-implementing-chromes-pip-multiscreen-functionality-for-2024/"><u>[New] Step-by-Step Implementing Chrome’s PIP Multiscreen Functionality for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-thriving-on-youtube-the-guide-to-affiliates/"><u>2024 Approved Thriving on YouTube The Guide to Affiliates</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asus-15-inch-laptop-at-an-unbeatable-price-only-250-from-walmart-featuring-full-connectivity/"><u>Asus 15-Inch Laptop at an Unbeatable Price: Only $250 From Walmart - Featuring Full Connectivity!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-computers-predict-your-future-like-astrology/"><u>Can Computers Predict Your Future Like Astrology?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-you-track-blood-pressure-with-the-new-apple-watch-series-10-the-facts-revealed-by-zdnet/"><u>Can You Track Blood Pressure with the New Apple Watch Series 10? The Facts Revealed by ZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/cut-your-tracks-like-a-pro-best-no-cost-mp3-clippers-compatible-with-windows-11/"><u>Cut Your Tracks Like a Pro: Best No-Cost MP3 Clippers Compatible with Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-veracity-in-the-realm-of-health-recommendations/"><u>GPT's Veracity in the Realm of Health Recommendations</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/losung-fehler-beim-starten-von-microsoft-outlook-2013/"><u>Lösung: Fehler Beim Starten Von Microsoft Outlook 2013</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smartwatch-showdown-decoding-the-battle-between-googles-latest-pixel-timepiece-and-apples-cutting-edge-series-9-determine-your-ultimate-wrist-companion-toda6/"><u>Smartwatch Showdown: Decoding the Battle Between Google's Latest Pixel Timepiece and Apple's Cutting-Edge Series 9 – Determine Your Ultimate Wrist Companion Today!</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-oppo-find-n3-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-the-length-restrictions-of-ai-outputs/"><u>Understanding the Length Restrictions of AI Outputs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-crystal-clear-sound-on-your-apple-tv-with-the-latest-upgrade-to-tvos-18-expert-analysis-by-zdnet/"><u>Unlock Crystal Clear Sound on Your Apple TV with the Latest Upgrade to tvOS 18 | Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unpacking-the-turing-test-can-it-be-superseded/"><u>Unpacking the Turing Test: Can It Be Superseded?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-essential-tips-for-crop-and-export-videos-for-instagram-for-2024/"><u>[New] Essential Tips for Crop & Export Videos for Instagram for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-ultimate-guide-to-iphone-ringtones-refinement/"><u>[New] In 2024, The Ultimate Guide to iPhone Ringtones Refinement</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-the-art-of-interviews-iphone-and-ipad-recording-techniques/"><u>[Updated] Perfecting the Art of Interviews IPhone & iPad Recording Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-corrections-for-writers/"><u>AI-Driven Corrections for Writers?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/create-unique-ai-conversations/"><u>Create Unique AI Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-offer-grab-two-premium-nomad-iphone-cases-for-the-price-of-one-bogo-deal-available/"><u>Exclusive Offer: Grab Two Premium Nomad iPhone Cases for the Price of One - BOGO Deal Available!</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1728470157277-e/"><u>Eドライブ失われ続ける理由と、パーティション復元手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-ready-iphone-lineup-unveiling-devices-compatible-with-apples-next-ai-breakthroughs-and-the-evolved-version-of-siri/"><u>Future-Ready iPhone Lineup: Unveiling Devices Compatible with Apple's Next AI Breakthroughs and the Evolved Version of Siri</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-xs-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone XS Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-time-lapse-camera-apps-for-mobile-devices-2023-update/"><u>New In 2024, Top Time-Lapse Camera Apps for Mobile Devices (2023 Update)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protonvpn-switching-email-and-browsing-safely/"><u>ProtonVPN: Switching Email & Browsing Safely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-guide-to-discovering-your-pcs-gpu-version/"><u>Rapid Guide to Discovering Your PC's GPU Version</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shift-your-focus-to-claude-3-the-top-4-reasons-ahead/"><u>Shift Your Focus to Claude 3: The Top 4 Reasons Ahead</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-best-gpt-enhancements-your-plugin-guide-1-9/"><u>The Best GPT Enhancements – Your Plugin Guide (#1-9)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-ipad-air-protectors-2024-comprehensive-review-by-tech-experts/"><u>Top Rated iPad Air Protectors 2024 - Comprehensive Review by Tech Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-how-chatgpt-can-transform-health-consulting-in-7-ways/"><u>Unveiling How ChatGPT Can Transform Health Consulting (in 7 Ways)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Oppo A59 5G? | Dr.fone</u></a></li>
 </ul></div>
 

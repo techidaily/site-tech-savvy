@@ -1,7 +1,7 @@
 ---
 title: The Offline Operation Blueprint for Llama 2 Software
-date: 2024-08-29T19:40:51.984Z
-updated: 2024-08-30T19:40:51.984Z
+date: 2025-01-26T09:01:53.660Z
+updated: 2025-02-01T09:23:43.723Z
 tags:
   - chatgpt
   - open-ai
@@ -41,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 
  Now that you have Desktop development with C++ installed, it's time to download the Text-Generation-WebUI one-click installer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## Step 2: Install Text-Generation-WebUI
 
  The Text-Generation-WebUI one-click installer is a script that automatically creates the required folders and sets up the Conda environment and all necessary requirements to run an AI model.
@@ -59,9 +56,11 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
    * for Linux, **start\_linux** shell script.  
    ![Select operating system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/4-select-operating-system.jpg)
 3. Your anti-virus might create an alert; this is fine. The prompt is just an [antivirus false positive](https://www.makeuseof.com/what-is-antivirus-false-result/) for running a batch file or script. Click on **Run anyway**.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. A terminal will open and start the setup. Early on, the setup will pause and ask you what GPU you are using. Select the appropriate type of GPU installed on your computer and hit enter. For those without a dedicated graphics card, select **None (I want to run models in CPU mode)**. Keep in mind that running on CPU mode is much slower when compared to running the model with a dedicated GPU.  
 ![Selecting GPU hardware installed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/5-select-gpu-settings.jpg)
 5. Once the setup is complete, you can now launch Text-Generation-WebUI locally. You can do so by opening your preferred web browser and entering the provided IP address on the URL.  
@@ -69,7 +68,15 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 6. The WebUI is now ready for use.  
 ![Text-Generation-WebUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/7-text-generation-webui-view.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, the program is only a model loader. Let's download Llama 2 for the model loader to launch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 3: Download the Llama 2 Model
 
@@ -99,19 +106,20 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 
 ![Downloading Llama 2 model of your preference](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/8-download-llama-2-model.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After the download is finished, place the model in **text-generation-webui-main** \> **models**.
 
 ![Placing Llama 2 model to model folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/9-place-model-to-model-folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now that you have your model downloaded and placed in the model folder, it's time to configure the model loader.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 4: Configure Text-Generation-WebUI
 
  Now, let's begin the configuration phase.
@@ -121,16 +129,14 @@ Now that you have your model downloaded and placed in the model folder, it's tim
 3. Now click on the dropdown menu of the **Model loader** and select **AutoGPTQ** for those using a GTPQ model and **ctransformers** for those using a GGML model. Finally, click on **Load** to load your model.  
 ![Setting model loader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/10-select-model-loader.jpg)
 4. To use the model, open the Chat tab and start testing the model.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Testing Llama 2 locally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/12-testing-llama-2-locally.jpg)
 
  Congratulations, you've successfully loaded Llama2 on your local computer!
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try Out Other LLMs
 
  Now that you know how to run Llama 2 directly on your computer using Text-Generation-WebUI, you should also be able to run other LLMs besides Llama. Just remember the naming conventions of models and that only quantized versions of models (usually q4 precision) can be loaded on regular PCs. Many quantized LLMs are available on HuggingFace. If you want to explore other models, search for TheBloke in HuggingFace's model library, and you should find many models available.
@@ -145,8 +151,6 @@ Now that you have your model downloaded and placed in the model folder, it's tim
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +158,22 @@ Now that you have your model downloaded and placed in the model folder, it's tim
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-tools-for-effortless-recording-of-desktop-screens-on-windows-10/"><u>[Updated] In 2024, Top Tools for Effortless Recording of Desktop Screens on Windows 10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-seamless-zooms-check-out-our-top-10-video-editors/"><u>[Updated] Seamless Zooms? Check Out Our Top 10 Video Editors</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-zoom-chat-how-to-chat-in-zoom-meeting-for-2024/"><u>[Updated] Zoom Chat How to Chat in Zoom Meeting for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-fantasies-gpts-role-in-imagination/"><u>Crafting Fantasies: GPT's Role in Imagination</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cyber-threats-can-gpt-chat-hack-bank-accounts-or-computers/"><u>Cyber Threats: Can GPT Chat Hack Bank Accounts or Computers?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/daily-life-bots-clash-claude-vs-generative-pre-trained-transformer/"><u>Daily Life Bots Clash: Claude Vs. Generative Pre-Trained Transformer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-steps-to-installupdate-your-epson-printer-drivers-in-windows-11/"><u>Easy Steps to Install/Update Your Epson Printer Drivers in Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-auto-track-cam-mount-for-smooth-shots/"><u>In 2024, Premier Auto-Track Cam Mount for Smooth Shots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/microsoft-acquires-blizzard-next-gen-gaming-and-ai-unveiled-audio-series/"><u>Microsoft Acquires Blizzard: Next-Gen Gaming & AI Unveiled [Audio Series]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-ai-assessment-post-turing-paradigms/"><u>Redefining AI Assessment: Post-Turing Paradigms</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-continuous-glitches-in-emeditor-a-comprehensive-guide/"><u>Troubleshooting Continuous Glitches in EmEditor: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncover-the-bigger-picture-beyond-ai-generated-synopses/"><u>Uncover the Bigger Picture Beyond AI-Generated Synopses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-future-of-smartphones-how-apples-cutting-edge-ai-developments-might-enhance-your-iphone-key-discoveries-revealed-by-new-study-zdnet/"><u>Unveiling the Future of Smartphones: How Apple's Cutting-Edge AI Developments Might Enhance Your iPhone - Key Discoveries Revealed by New Study | ZDNet</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-pushing-boundaries-top-15-revolutionary-songs-in-rock/"><u>Updated Pushing Boundaries Top 15 Revolutionary Songs in Rock</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-xbox-one-elite-series-2-is-crowned-as-a-legendary-controller/"><u>Why Xbox One Elite Series 2 Is Crowned as a Legendary Controller</u></a></li>
+</ul></div>
 

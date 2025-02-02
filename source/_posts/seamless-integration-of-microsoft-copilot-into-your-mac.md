@@ -1,7 +1,7 @@
 ---
 title: Seamless Integration of Microsoft Copilot Into Your Mac
-date: 2025-01-14T17:38:11.793Z
-updated: 2025-01-18T16:21:58.877Z
+date: 2025-01-31T09:27:29.705Z
+updated: 2025-02-01T00:04:17.141Z
 tags:
   - chatgpt
   - open-ai
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 * [The Benefits of Using Copilot Over ChatGPT](https://modlily.sjv.io/aw92wr)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 **SCROLL TO CONTINUE WITH CONTENT**
 
  Microsoft doesn't offer a native Mac app for Copilot, but Mac users can still install the popular chatbot on their computers. There are two ways to get Copilot on a Mac, and you can even launch it at the press of a button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Install Microsoft Copilot From the Mac App Store
 
@@ -68,16 +72,12 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 3. Drag the **Open App** action from the right sidebar to the empty space on the left.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click the blue **App** field and use the search bar to find and select **Copilot**.  
 ![Creating a simple Open app shortcut to quickly open Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/creating-a-simple-open-app-shortcut-to-quickly-open-copilot.jpg)
 5. Next, switch to the **Info (i)** tab of the sidebar and click **Add Keyboard Shortcut**.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Assigning a custom keyboard shortcut to launch Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-launch-copilot.jpg)
 6. Now, enter a key combination you like, but make sure it doesn't overlap with any other [useful Mac keyboard shortcuts](https://www.makeuseof.com/tag/useful-mac-osx-shortcuts-pdf/). Then, hit the **Return** key.  
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 ![Assigning a custom keyboard shortcut to run Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-run-copilot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can now exit the Shortcuts app and enter the keyboard shortcut you added to quickly launch Microsoft Copilot on your Mac, no matter what you're doing.
@@ -101,11 +101,11 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 
 ![Adding Copilot web app to the Dock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/adding-copilot-web-app-to-the-dock.jpg)
 
- You'll find the Copilot web app on your Dock immediately. Launch it to begin.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You'll find the Copilot web app on your Dock immediately. Launch it to begin.
 
 ## Getting Started With Microsoft Copilot on Your Mac
 
@@ -116,12 +116,12 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 ![Enabling GPT-4 in Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/enabling-gpt-4-in-copilot.jpg)
 3. You can choose from **Creative**, **Balanced**, and **Precise**. By default, it's set to **Creative**, which gets you descriptive responses. I use the **Precise** setting as I prefer concise responses with only the facts that I need.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Changing tone in the Copilot app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/changing-tone-in-the-copilot-app.jpg)
 4. Additionally, you can click **Sign in** in the top-left corner of the window and log in with your Microsoft account. This allows you to ask more questions and have longer conversations with the AI chatbot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  At this point, you're all set to use Copilot on your Mac at its full potential. If you want to make further tweaks, click the **three-line** icon in the top-left corner to access the app's settings menu. Here, you can change the theme, region and language, permissions, and privacy settings for Copilot.
 
@@ -152,20 +152,20 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-a-guide-to-todays-most-popular-tiktok-acts/"><u>[New] 2024 Approved A Guide to Today's Most Popular TikTok Acts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-bringing-back-the-glitter-integrating-instagram-effects-to-past-media/"><u>[Updated] In 2024, Bringing Back the Glitter Integrating Instagram Effects to Past Media</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-full-spectrum-alliance-an-mcn-decision-blueprint/"><u>2024 Approved The Full Spectrum Alliance An MCN Decision Blueprint</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-top-1-global-musical-views/"><u>2024 Approved Top 1 Global Musical Views</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/breaking-barriers-the-best-pc-vr-headsets-of-2023-for-2024/"><u>Breaking Barriers The Best PC VR Headsets of 2023 for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-guide-the-five-best-techniques-to-change-avi-videos-to-mp4-on-macos/"><u>Easy Guide: The Five Best Techniques to Change AVI Videos to MP4 on macOS</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/how-to-extend-your-small-ssd-onto-a-bigger-ssd-for-optimal-performance-in-windows-11/"><u>How to Extend Your Small SSD Onto a Bigger SSD for Optimal Performance in Windows 11</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unraveling-youtubes-platform-for-content-crafting/"><u>In 2024, Unraveling YouTube’s Platform for Content Crafting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726223986357-mkv/"><u>MKVファイルを簡単に解放 - 無料でオンライン変換!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movaviwebppng/"><u>Movaviツールを使ったWebPファイルからPNGへの直接変換ガイド【モバイル版】</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/passos-efetivos-para-implementacao-de-recurso-pip-no-youtube-tecnicas-facilmente-utilizaveis/"><u>Passos Efetivos Para Implementação De Recurso PiP No YouTube - Técnicas Facilmente Utilizáveis</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/perfecting-the-art-of-quiet-videography/"><u>Perfecting the Art of Quiet Videography</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scambia-il-tuo-mpg-per-un-flusso-ad-alta-qualita-in-aac-conversione-gratuita-di-video-online-facile-con-movavi/"><u>Scambia Il Tuo MPG per Un Flusso Ad Alta Qualità in AAC: Conversione Gratuita Di Video Online Facile Con Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformez-gratuitement-votre-fichier-avi-en-format-oggvorbis-avec-movavi/"><u>Transformez Gratuitement Votre Fichier AVI en Format OGG/Vorbis Avec Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/66y066omioybueycroydto2kuoyxkoyencdsmktrljtsmktrpbwg7juq6re8io2yleylneycvouhncdrsjtqvrjripqg6rca7j6lioqwleugpe2vncdsmktrljtsmkqg67oa7zmy6riw/"><u>무료 웹사이트에서 오디오를 원근 형식으로 바꾸는 가장 강력한 오디오 변환기</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-enhancing-profiles-first-impression-for-2024/"><u>[New] Enhancing Profile's First Impression for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-fcps-best-10-plug-ins-a-professionals-list-for-2024/"><u>[New] FCP's Best 10 Plug-Ins A Professional's List for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-power-dynamics-strong-vs-weak/"><u>AI Power Dynamics: Strong Vs. Weak</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-implications-on-the-privacy-lands-market/"><u>ChatGPT's Implications on the Privacy Lands Market</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-exploration-top-7-chatgpt-applications-for-instant-travel-planning/"><u>Effortless Exploration - Top 7 ChatGPT Applications For Instant Travel Planning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-humble-beginnings-to-powerhouse-performance-how-apples-new-mac-studio-redefines-its-legacy-as-a-modernized-mac-mini/"><u>From Humble Beginnings to Powerhouse Performance: How Apple's New Mac Studio Redefines Its Legacy as a Modernized Mac Mini</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-honor-90-pro-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Honor 90 Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mycam-recorder-review-for-2024/"><u>MyCam Recorder Review for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-imaginary-interpretations-in-artificial-intelligence/"><u>Navigating Through Imaginary Interpretations in Artificial Intelligence</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-swap-faces-like-a-pro-the-best-apps-for-ios-and-android-for-2024/"><u>New Swap Faces Like a Pro The Best Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/to-upgrade-or-not-insider-perspectives-on-why-you-should-consider-or-skip-the-iphone-16-reviewed/"><u>To Upgrade or Not: Insider Perspectives on Why You Should Consider (or Skip) the iPhone 16 Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1727785061735-top-rated-waterproof-smartwatches-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Waterproof Smartwatches : Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-usb-install-failure-with-access-is-denied/"><u>Troubleshooting USB Install Failure with 'Access Is Denied'</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/untrustworthy-tech-zerogpts-imperfections-show/"><u>Untrustworthy Tech? ZeroGPT's Imperfections Show</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-zte-nubia-flip-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My ZTE Nubia Flip 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

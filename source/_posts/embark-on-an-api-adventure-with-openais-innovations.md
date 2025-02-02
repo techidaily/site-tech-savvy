@@ -1,7 +1,7 @@
 ---
 title: Embark on an API Adventure with OpenAI's Innovations
-date: 2024-08-29T19:41:34.502Z
-updated: 2024-08-30T19:41:34.502Z
+date: 2025-01-25T07:52:12.096Z
+updated: 2025-01-31T19:55:20.530Z
 tags:
   - chatgpt
   - open-ai
@@ -23,9 +23,17 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
 
  OpenAI's APIs feature many valuable endpoints that make AI integration easy. Let's explore the power of OpenAI APIs to see how they can benefit you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Can the OpenAI API Do?
 
  The [OpenAI API](https://platform.openai.com/) packs in a bunch of utilities for programmers. If you intend to deliver in-app AI daily, OpenAI will make your life easier with the following abilities.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Chat
 
@@ -41,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
 
  You can even improve the model's performance by supplying parameters like temperature, presence-penalty, frequency-penalty, and more. If you've ever used ChatGPT, you already know how OpenAI's chat completion model work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Text Completion
 
  The text completion API provides conversational, text insertion, and text completion functionalities based on advanced GPT-3.5 models.
@@ -53,19 +65,14 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
 
 ![Text completion model test via CLI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/text-completion-model-test-via-cli.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  However, increasing the max\_tokens to 70 generated more coherent thoughts:
 
 ![Text completion model test via CLI more complete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/text-completion-model-test-via-cli-more-complete.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### Speech-to-Text
 
  You can transcribe and translate audio speech using the OpenAI transcription and translation endpoints. The speech-to-text endpoints are based on the Whisper v2-large model, developed through large-scale weak supervision.
@@ -74,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
 
  The endpoint usage is simple. All you have to do is to supply the model with an audio file and call the **openai.Audio.translate** or **openai.Audio.transcribe** endpoint to translate or transcribe it respectively. These endpoints accept a maximum file size of 25 MB and support most audio file types, including mp3, mp4, MPEG, MPGA, m4a, wav, and webm.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Text Comparison
 
  OpenAI API text comparison endpoint measures the relationship between texts using the text-embedding-ada-002 model, a second-generation embedding model. The embedding API uses this model to evaluate the relationship between texts based on the distance between two vector points. The wider the difference, the less related the texts under comparison are.
@@ -113,12 +117,13 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
 
 ![Image generation test for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/image-generation-test-for-openai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## How to Use the OpenAI API
 
 ![OpenAI API secret key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-api-secret-key-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ​​​​​ The OpenAI API usage is simple and follows the conventional API consumption pattern.
 
@@ -129,8 +134,9 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
 5. Present data (user requests and model responses) in a visually appealing UI, and your app is ready for real-world use.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Can You Create With the OpenAI API?
 
  The OpenAI APIs create entry points for real-life usage of machine learning and reinforcement learning. While opportunities for creativity abound, here are a few of what you can build with the OpenAI APIs:
@@ -152,14 +158,11 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
 
  OpenAI's APIs feature many valuable endpoints that make AI integration easy. Let's explore the power of OpenAI APIs to see how they can benefit you.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,4 +171,16 @@ thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-savvy.techidaily.com/deleting-past-chatgpt-interactions-a-step-by-step-guide/"><u>Deleting Past ChatGPT Interactions: A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-15-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-sale-alert-snag-the-new-gen-apple-pencil-for-70-off-now-just-95-insider-tips-from-zdnet/"><u>Labor Day Sale Alert: Snag the New-Gen Apple Pencil for 70% Off, Now Just $95 | Insider Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-apple-watchs-endurance-with-simple-setting-tweaks-tech-advisor/"><u>Maximize Your Apple Watch's Endurance with Simple Setting Tweaks | Tech Advisor</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-input-devices-after-sleep-on-win11/"><u>Reviving Input Devices After Sleep on Win11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-eus-ethical-framework-and-its-repercussions-on-interactive-technologies-like-chatgpt/"><u>The EU's Ethical Framework & Its Repercussions on Interactive Technologies Like ChatGPT</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-video-editor-battle-is-inshot-reigning-supreme/"><u>Top Video Editor Battle Is InShot Reigning Supreme?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-how-luts-transform-visual-elements-in-photos-for-2024/"><u>Unveiling How LUTs Transform Visual Elements in Photos for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-secrets-behind-meta-ai-technology/"><u>Unveiling the Secrets Behind Meta AI Technology</u></a></li>
+</ul></div>
 

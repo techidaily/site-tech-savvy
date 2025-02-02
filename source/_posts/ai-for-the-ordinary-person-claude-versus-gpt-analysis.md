@@ -1,7 +1,7 @@
 ---
 title: "AI for the Ordinary Person: Claude Versus GPT Analysis"
-date: 2024-08-29T19:41:03.062Z
-updated: 2024-08-30T19:41:03.062Z
+date: 2025-01-30T20:38:04.336Z
+updated: 2025-02-01T09:19:19.231Z
 tags:
   - chatgpt
   - open-ai
@@ -59,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 
  In what ways does ChatGPT outshine Claude? What perks and advantages does it boast?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### ChatGPT's Pros
 
  ChatGPT offers great features and benefits to its users, starting with its ability to fulfill prompts.
@@ -86,8 +82,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  These plugins have various functions but generally allow you to integrate ChatGPT into your online activities.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### ChatGPT's Cons
 
  One of ChatGPT's biggest downsides is that its training data only dates up to September 2021\. This means that ChatGPT cannot provide any newer information, which limits what you can request.
@@ -99,6 +96,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  If you want to use ChatGPT, you can do so for free, but you will be limited to GPT-3.5's capabilities. To use GPT-4, you'll need to [upgrade to ChatGPT Plus](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/), which costs $20 monthly at the time of writing. If you're not looking to spend any money but want the best version of ChatGPT, you may find this a tough barrier to cross.
 
  Lastly, ChatGPT does not support use via a VPN, which can be tricky if you're a regular VPN user or want to get around your region's geo-restrictions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Claude's Pros and Cons
 
@@ -120,10 +121,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Lastly, Claude 2 is entirely free to use, with no one-off fees or monthly subscriptions required for use.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Claude's Cons
 
  Claude's biggest limitation is geographical availability. At the time of writing, Claude is only available to US and UK residents, while ChatGPT is available in most countries worldwide.
@@ -133,8 +130,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Like ChatGPT, Claude is also at risk of hallucinating, which is important to remember.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT vs. Claude: a Direct Comparison
 
  To further understand how these two AI chatbots and their respective LLMs work, let's provide each with the same prompts to see how they react.
@@ -151,7 +149,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![claude poem prompt chat screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-poem-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the other hand, Claude provided a slightly lengthier poem, but both are fairly equal in their creative abilities.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Mathematical Abilities
 
@@ -162,17 +168,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![screenshot of chatgpt trigonometry prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-trig-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When given the same problem, Claude gave us the following response:
 
 ![screenshot of claude response to trigonometry prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-trig-1.jpg)
 
  Interestingly, both chatbots gave different outcomes, with ChatGPT providing the correct answer.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Translation
 
  Lastly, we asked ChatGPT and Claude to translate a paragraph of Japanese into English. The original paragraph reads:
@@ -189,23 +193,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Compared to the original text, Claude did a slightly better job translating from Japanese to English.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT and Claude May Become Close Rivals
 
  While ChatGPT is almost a household name nowadays, competitors like Claude have a lot of potential to knock it from its number-one spot. Who knows, Claude could one day become ChatGPT's biggest competitor!
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -214,4 +212,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-immediate-visual-effects-with-instagrams-chroma-keying-feature/"><u>[New] In 2024, Immediate Visual Effects with Instagram’s Chroma Keying Feature</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-from-beginner-to-pro-mastering-mi-11-screen-captures/"><u>[Updated] 2024 Approved From Beginner to Pro Mastering Mi 11 Screen Captures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-the-office-understanding-the-10-risks-to-your-job-security/"><u>ChatGPT in the Office: Understanding the 10 Risks to Your Job Security</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-tips-to-mend-chatgpt-plugin-disconnectivity-issues/"><u>Essential Tips to Mend ChatGPT Plugin Disconnectivity Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-that-jittery-sound-experience-in-airpods-disable-head-tracking-functionality-now/"><u>Fix that Jittery Sound Experience in AirPods! Disable Head-Tracking Functionality Now!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/human-resources-made-effortless-by-ai-prompts/"><u>Human Resources Made Effortless by AI Prompts</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/international-language-influence-15-leaders/"><u>International Language Influence – 15 Leaders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-student-the-following-data-shows-the-number-of-points-scored-in-a-basketball-game-for-each-of-six-players-on-team-a-and-team-b-calculate-the-mean-abs85/"><u>IPhone [Student]: The Following Data Shows the Number of Points Scored in a Basketball Game for Each of Six Players on Team A and Team B. Calculate the Mean Absolute Deviation (MAD) for Both Teams' Scores:</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimal-browser-security-with-proton-vpn-plugin/"><u>Optimal Browser Security with Proton VPN Plugin</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/portable-backup-software-pour-ssd-t5-de-samsung-sous-windows-facile-a-installer/"><u>Portable Backup Software Pour SSD T5 De Samsung Sous Windows - Facile À Installer</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Reasons why Pokémon GPS does not Work On Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/series-9-and-ultra-apple-watch-sales-back-on-track-following-judicial-stay-order-insights/"><u>Series 9 & Ultra: Apple Watch Sales Back on Track Following Judicial Stay Order - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplify-your-inbox-clear-out-clutter-with-this-simple-email-hack-no-new-accounts-required-zdnet/"><u>Simplify Your Inbox: Clear Out Clutter with This Simple Email Hack (No New Accounts Required) | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-iphone-battery-issues-post-ios-1751-update-discover-7-effective-solutions/"><u>Troubleshooting iPhone Battery Issues Post-iOS 17.5.1 Update: Discover 7 Effective Solutions!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-motorola-edge-40-pro-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Motorola Edge 40 Pro Phone Network-Ready</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Honor Magic 6? | Dr.fone</u></a></li>
+</ul></div>
 

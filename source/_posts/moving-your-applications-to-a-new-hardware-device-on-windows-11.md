@@ -1,7 +1,7 @@
 ---
 title: Moving Your Applications to a New Hardware Device on Windows 11
-date: 2024-08-29T19:38:03.997Z
-updated: 2024-08-30T19:38:03.997Z
+date: 2025-01-26T11:39:40.333Z
+updated: 2025-02-01T04:28:30.565Z
 tags:
   - deals
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Moving Your Applications to a New Hardware Device on Windows 11
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Things to Do Before Relocating Programs or Games](https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-15-plus-learn-all-4-methods-by-drfone-ios/)
@@ -19,6 +23,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Relocate Games Installed Through Gaming Clients](https://facebook-video-recording.techidaily.com/new-2024-approved-shine-a-light-the-12-ultimate-fixes-for-making-facebook-videos-visible-again/)
 * [Things Not to Do When Relocating Apps](https://extra-information.techidaily.com/updated-anonymous-live-on-instagram-the-sneaky-techniques/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Before relocating programs, take a few precautions: create a System Restore point, back up your app files, and free up storage space on the destination drive.
@@ -26,6 +34,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * For games installed via a gaming client, use the client's built-in feature for secure and swift relocation.
 
  Running out of storage space on a drive and considering moving some games or apps to another location? Or have you accidentally installed a game on the wrong drive and want to move it? Fortunately, relocating apps and programs between drives is super easy. We'll show you how to do just that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Things to Do Before Relocating Programs or Games
 
@@ -37,6 +49,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Also, ensure your laptop is sufficiently charged, and if you're using a desktop PC, it's worth checking for potential electrical outages in your area. Besides that, confirm that the destination drive—where you're going to relocate an app—has ample space to accommodate the relocated program. If space is limited, take the necessary measures to [free up storage](https://voice-adjusting.techidaily.com/premier-software-solutions-for-clearing-up-rough-audio-texture-for-2024/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Transfer Apps From One Drive to Another Through the Settings App
 
  The most straightforward way to relocate an app or program to a different location is to use the Move feature within the Windows Settings app. Right-click on the Start button and select "Settings."
@@ -45,9 +61,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Opening the installed apps settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-opening-the-installed-apps-settings-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Find the app or program you intend to move, click on the three horizontal dots next to it, and click the "Move" option.
 
 ![Clicking on the 'Move' option to relocate an app in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-clicking-on-the-move-option-to-relocate-an-app-in-the-windows-settings-app.jpg) 
@@ -56,12 +69,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Selecting the destination drive to relocate an app to in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-selecting-the-destination-drive-to-relocate-an-app-to-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait a few seconds, and Windows will seamlessly move your app to the newly selected location.
 
  While this is the most direct way to relocate apps, it may not be universally applicable. You may not see this option for some apps, or it might be grayed out. So how do you move those apps?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use the Command Prompt to Relocate Apps You Can’t Move From Settings
 
@@ -70,31 +84,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Opening the installation location of the Mozilla Firefox app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-opening-the-installation-location-of-the-mozilla-firefox-app-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Right-click the app icon again and select "Open File Location." This will lead you to the program's actual installation location.
 
 ![Opening the file location of the Mozilla Firefox App in the Start Menu Folder on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-opening-the-file-location-of-the-mozilla-firefox-app-in-the-start-menu-folder-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Copy and paste the program's installation folder path into a Notepad file. We'll use the term "old" to refer to this path.
 
  Afterward, navigate to the drive where you intend to relocate the app. Create a folder specifically for the app within that drive, copy the path of this newly created folder, and paste it into the same Notepad file. We'll use the term "new" to refer to this path.
 
 !['Old' and 'New' paths written in a Notepad file on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-old-and-new-paths-written-in-a-notepad-file-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  Having noted both your "old" and "new" paths, [open the Command Prompt with administrative privileges](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/). Type "Command Prompt" into Windows Search, and click "Run as Administrator." You can also use PowerShell run admin for this. 
 
 !['Run as Administrator' highlighted for Command Prompt in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-open-cmd-as-admin.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You need to input your "old" and "new" paths into the following command:
 
         `robocopy "old" "new" /sec /move /e`
@@ -107,10 +113,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
     
 ![Running the Robocopy command in Windows Command Prompt to relocate Mozilla Firefox from one drive to another on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-running-the-robocopy-command-in-windows-command-prompt-to-relocate-mozilla-firefox-from-one-drive-to-another-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Following that, insert both the "old" and "new" paths into the following command:
 
         `mklink "old" "new" /j`
@@ -147,8 +149,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +156,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-unlocking-youtube-live-potential-a-step-by-step-guide/"><u>[Updated] In 2024, Unlocking YouTube Live Potential A Step-by-Step Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/avchd-mts-converter-for-huawei-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD MTS Converter for Huawei </u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-apples-wwdc-announcements-today-insights-into-advanced-machine-learning-siri-innovations-and-what-to-expect-from-ios-eighteen-comprehensive-re172/"><u>Breaking Down Apple’s WWDC Announcements Today: Insights Into Advanced Machine Learning, Siri Innovations & What to Expect From iOS Eighteen – Comprehensive Report | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-driven-side-businesses-and-pc-optimization/"><u>ChatGPT-Driven Side Businesses & PC Optimization</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-fixes-for-the-frequent-problem-of-fuser-applications-crashing-on-desktops/"><u>Expert Fixes for the Frequent Problem of Fuser Applications Crashing on Desktops</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4s-new-era-of-accessibility-for-all-at-no-cost-yet-platinum-still-offers-6-peculiar-benefits/"><u>GPT-4's New Era of Accessibility: For All at No Cost! Yet Platinum Still Offers 6 Peculiar Benefits.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/probing-the-depths-of-gpt-identifying-8-problematic-aspects/"><u>Probing the Depths of GPT: Identifying 8 Problematic Aspects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/see-beyond-images-unleashing-chatgpts-potent-visual-tech/"><u>See Beyond Images: Unleashing ChatGPT's Potent Visual Tech</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-filmmakers-guide-to-accompanying-unboxings-with-tunes-for-2024/"><u>The Filmmaker's Guide to Accompanying Unboxings with Tunes for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-hidden-flaws-in-machine-conversations-gpts-eight-key-problems/"><u>The Hidden Flaws in Machine Conversations: GPT's Eight Key Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-vpn-apps-in-depth-comparison-and-reviews-by-industry-experts-techadvisor/"><u>Top-Rated iPhone VPN Apps: In-Depth Comparison & Reviews by Industry Experts | TechAdvisor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-prime-day-bargains-at-best-buy-in-october-2024-limited-time-offers/"><u>Unbeatable Prime Day Bargains at Best Buy in October 2024 – Limited Time Offers</u></a></li>
+</ul></div>
 

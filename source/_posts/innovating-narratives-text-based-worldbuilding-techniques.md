@@ -1,7 +1,7 @@
 ---
 title: "Innovating Narratives: Text-Based Worldbuilding Techniques"
-date: 2025-01-12T16:53:29.835Z
-updated: 2025-01-18T17:32:04.771Z
+date: 2025-01-26T08:02:23.314Z
+updated: 2025-01-31T19:45:09.347Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/ccfb3790f8ad95defe8eeb3081f9de7ed56611e53
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Worldbuilding?
 
 ![Person Reading Book on Bench](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/person-reading-book-on-bench.jpg)
@@ -50,11 +54,11 @@ thumbnail: https://thmb.techidaily.com/ccfb3790f8ad95defe8eeb3081f9de7ed56611e53
 
 ![Setting the premise of worldbuilding with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-worldbuilding-set-the-premise.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Make sure to open a new chat before starting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Build the Setting
 
@@ -64,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/ccfb3790f8ad95defe8eeb3081f9de7ed56611e53
 
  ChatGPT can also figure out the time period. Even if it’s based on ancient times and there’s modern technology, it’s still an important factor to know.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Establish a History
 
  Think of how history has affected the world around you. The history in your fictional world is equally important—it helps to form a culture and gives reason for conflict.
@@ -75,14 +75,10 @@ thumbnail: https://thmb.techidaily.com/ccfb3790f8ad95defe8eeb3081f9de7ed56611e53
 ![ChatGPT choosing history for worldbuilding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-worldbuilding-history.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT will give you a breakdown of the fictional world’s history in eras to help you decide how best to incorporate it into your storyline.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Construct the Culture of Society
 
@@ -90,15 +86,7 @@ thumbnail: https://thmb.techidaily.com/ccfb3790f8ad95defe8eeb3081f9de7ed56611e53
 
 ![ChatGPT creating culture for a fictional world](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-worldbuilding-culture-2.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ChatGPT will give you ideas for several cultural aspects of what makes up the fictional society.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Determine Technology and Magic Usage
 
@@ -108,13 +96,25 @@ thumbnail: https://thmb.techidaily.com/ccfb3790f8ad95defe8eeb3081f9de7ed56611e53
 
 ![ChatGPT worldbuilding culture options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-worldbuilding-culture.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Ask ChatGPT if it can produce some ideas about the uses of technology and magic if it’s available in the fictional world. It’ll give you several concepts that you may miss if you weren’t using the AI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Create the Characters
 
  Asking ChatGPT to create the characters can be tricky because the request has to be highly specific. This is because character types and character races are two different concepts.
 
 ![ChatGPT choosing worldbuilding character types](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-worldbuilding-character-types.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Requesting that it pick out character types will give you several ideas of individual characters. On the other hand, if you ask for character races, you’ll get a list of different character groups that aren’t assigned to one specific person or creature.
 
@@ -128,11 +128,11 @@ thumbnail: https://thmb.techidaily.com/ccfb3790f8ad95defe8eeb3081f9de7ed56611e53
 
 ![ChatGPT choosing worldbuilding economics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-worldbuilding-economy.jpeg)
 
- However, it’s vital that you consider the setting with the economy. You can’t have an ocean trade route with ships when your setting is on a rocky, waterless planet.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ However, it’s vital that you consider the setting with the economy. You can’t have an ocean trade route with ships when your setting is on a rocky, waterless planet.
 
 ### Develop Conflict and Politics
 
@@ -142,15 +142,15 @@ thumbnail: https://thmb.techidaily.com/ccfb3790f8ad95defe8eeb3081f9de7ed56611e53
 
  When you ask ChatGPT, make sure to state that you’re looking for current conflicts and politics. If not, you’ll end up with a whole history lesson about your fictional world’s past affairs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fabricate Legends and Folklore
 
  Many times, these fantasy-style tales have legends and folklore that help to drive the story. They also help with character development and even history.
 
 ![ChatGPT choosing worldbuilding legend](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-wouldbuilding-legend.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It doesn’t always have to be a driving point in your fictional world, but it does help make it more enthralling for your reader.
 
@@ -192,21 +192,19 @@ thumbnail: https://thmb.techidaily.com/ccfb3790f8ad95defe8eeb3081f9de7ed56611e53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ow-to-make-profitable-youtube-ads-for-free-in-2024/"><u>[New] How To Make Profitable YouTube Ads for Free, In 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-10-best-free-mmorpg-games/"><u>[Updated] In 2024, Top 10 Best Free MMORPG Games</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-role-of-rhythm-and-pitch-in-trailer-tunes-for-2024/"><u>[Updated] The Role of Rhythm and Pitch in Trailer Tunes for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ppmbmp-movavi/"><u>「オンラインで簡単！フリーPPM形式のBMPへの変換 - Movavi」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/captura-de-tela-eficiente-no-windows-amplamente-utilizada-em-uma-variedade-de-ambientes-como-desenvolvimento-web-analise-de-desempenho-e-resolucao-de-proble14/"><u>Captura De Tela Eficiente No Windows Amplamente Utilizada Em Uma Variedade De Ambientes, Como Desenvolvimento Web, Análise De Desempenho E Resolução De Problemas. Aqui Está Um Guia Sobre Os Melhores Aplicativos Para Capturar a Tela No Windows 10.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversion-video-et-audition-transformez-votre-fichier-m4b-en-m4a-sans-cout-avec-movavi-en-ligne/"><u>Conversion Vidéo Et Audition : Transformez Votre Fichier M4B en M4A Sans Coût Avec Movavi En Ligne</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/descubra-o-secreto-das-excelentes-colagens-em-2024-com-nossas-top-5-dicas/"><u>Descubra O Secreto Das Excelentes Colagens Em 2024 Com Nossas Top 5 Dicas</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easily-switch-from-jpeg-to-jpg-online-at-no-cost-use-the-movavi-tool/"><u>Easily Switch From JPEG to JPG Online at No Cost - Use the Movavi Tool!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-find-x6-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo Find X6 Pro Phone When You Forget the Password</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-snappycapture-windows-11-video-recording-made-simple/"><u>In 2024, SnappyCapture - Windows 11 Video Recording Made Simple</u></a></li>
-<li><a href="https://techtrends.techidaily.com/kid-friendly-entertainment-top-web-games-to-keep-children-entertained/"><u>Kid-Friendly Entertainment: Top Web Games to Keep Children Entertained</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfected-edits-on-the-go-leading-apps-for-macos-big-surs-video-editors-for-2024/"><u>Perfected Edits on the Go Leading Apps for macOS Big Sur's Video Editors for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-deleted-iphone-6s-plus-whatsapp-attachments-on-mac-and-windows-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Deleted iPhone 6s Plus WhatsApp Attachments on Mac and Windows | Stellar</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-free-video-compression-tools-best-options-for-windows-and-mac-users/"><u>Top Free Video Compression Tools : Best Options for Windows and Mac Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-white-wallet-friendly-tech-of-the-year-2023-edition/"><u>Top White, Wallet-Friendly Tech of the Year - 2023 Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/web-based-free-conversion-of-ape-wav-audio-files-movavi/"><u>Web-Based Free Conversion of APE WAV Audio Files - Movavi</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-game-ahead-the-ultimate-list-of-premier-gba-emulator-programs/"><u>[New] In 2024, Game Ahead The Ultimate List of Premier GBA Emulator Programs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-expertise-in-quick-creation-professional-valorant-thumbnail-art/"><u>[Updated] 2024 Approved Expertise in Quick Creation Professional Valorant Thumbnail Art</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-into-every-detail-a-deep-dive-into-dji-phantom-4/"><u>[Updated] Into Every Detail A Deep Dive Into DJI Phantom 4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-the-future-of-university-research/"><u>AI and the Future of University Research</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-you-track-blood-pressure-with-the-new-apple-watch-series-10-unveiling-the-truth/"><u>Can You Track Blood Pressure with the New Apple Watch Series 10? Unveiling the Truth</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-gpts-hacking-potential-on-financial-systems/"><u>Exploring GPT's Hacking Potential on Financial Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/getting-the-latest-canon-pixus-mf8500c-drivers-for-your-pc-compatible-with-win-7-81-and-10/"><u>Getting the Latest Canon PIXUS MF8500C Drivers for Your PC: Compatible with Win 7, 8.1 & 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-apple-iphone-x-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 6 Apps/Services to Trace Any Apple iPhone X Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/next-level-android-for-3d-video-enthusiasts/"><u>Next-Level Android for 3D Video Enthusiasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/proper-techniques-to-snag-free-secure-vlc-on-a-mac-device/"><u>Proper Techniques to Snag Free, Secure VLC on a Mac Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-straps-comprehensive-reviews-and-buyers-guide-by-tech-experts-zdnet/"><u>Top-Rated Apple Watch Straps : Comprehensive Reviews & Buyer's Guide by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-deal-top-non-apple-non-anker-magsafe-wallet-now-on-sale-discovered-by-zdnet/"><u>Unbeatable Deal: Top Non-Apple, Non-Anker MagSafe Wallet Now On Sale - Discovered by ZDNet!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-mystery-how-crowdstrike-triggered-windows-meltdnought-a-historical-perspective-on-cybersecurity-zdnet/"><u>Unraveling the Mystery: How CrowdStrike Triggered Windows' Meltdnought - A Historical Perspective on Cybersecurity [ZDNET]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Witness the Next Generation of Rocketry: Four Must-See Spacecraft Lift-Offs Coming Soon"
-date: 2024-08-29T19:39:11.305Z
-updated: 2024-08-30T19:39:11.305Z
+date: 2025-01-29T09:33:36.037Z
+updated: 2025-01-31T18:23:16.452Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 ---
 
 ## Witness the Next Generation of Rocketry: Four Must-See Spacecraft Lift-Offs Coming Soon
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,16 +31,16 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 
 ![Orion capsule passing the Moon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/orion_-_pic_0.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _[NASA](https://www.nasa.gov/feature/goddard/2022/volunteers-worldwide-to-track-lunar-journey-of-nasas-artemis-i-mission)_
 
  This initial mission is uncrewed (no people are in the ship), but the goal is to launch the empty Orion space capsule on a 280,000-mile trip to the Moon and back. If all goes well, Artemis II could take humans on the same trip. The current launch window opens on November 16, 2022 at 1:04 AM Eastern Time. Live coverage will be available on the [NASA app](https://www.nasa.gov/connect/apps.html), the [agency's website](https://www.nasa.gov/live), and the [NASA YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/NASA).
 
  The launch has already been pushed back several times, due to technical problems and weather. The first launch window was [set for August 29, 2022](https://blogs.nasa.gov/artemis/2022/08/28/mission-management-team-go-to-proceed-with-tanking-for-artemis-i-mission/), but it was [cancelled](https://blogs.nasa.gov/artemis/2022/08/29/launch-attempt-scrubbed/) due to detected problems with cooling an engine. NASA tried again on September 3, but [stopped](https://blogs.nasa.gov/artemis/2022/09/03/artemis-i-launch-attempt-scrubbed/) due to a liquid hydrogen leak in the core stage, then the rocket was [rolled back](https://blogs.nasa.gov/artemis/2022/09/27/nasas-moon-rocket-and-spacecraft-arrive-at-vehicle-assembly-building-2/) into the Vehicle Assembly Building as [Hurricane Ian](https://en.wikipedia.org/wiki/Hurricane%5FIan) approached Florida. It's now back on the launchpad, but there's still a chance that Tropical Storm Nicole could [change NASA's plans again](https://blogs.nasa.gov/artemis/2022/11/08/nasa-prepares-rocket-spacecraft-ahead-of-tropical-storm-nicole-re-targets-launch/).
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ##  Cargo Dragon Launch: November 18, 2022
 
  SpaceX has been flying cargo to the International Space Station for years, thanks to a contract with NASA, using the Dragon 1 and Dragon 2 spacecraft. The next "Cargo Dragon" mission is set for November 18, 2022.
@@ -46,16 +50,17 @@ _[NASA](https://www.nasa.gov/feature/goddard/2022/volunteers-worldwide-to-track-
 ![Photo of SpaceX Falcon 9 rocket with Dragon launch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/space_x_resupply_for_advisory_oct_25.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _[NASA](https://blogs.nasa.gov/spacex-crs-26/2022/11/03/nasa-invites-media-to-spacexs-26th-resupply-launch-to-space-station/)_
 
  The current launch is targeted for November 18, and will take place at Launch Complex 39A at NASA's Kennedy Space Center in Florida. SpaceX will likely show a livestream on [its YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/SpaceX), and the launch may also appear on the [NASA app](https://www.nasa.gov/connect/apps.html), the [agency's website](https://www.nasa.gov/live), and the [NASA YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/NASA).
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Intuitive Machines Moon Payload: December 22, 2022
 
  Another part of NASA's plan for Moon missions is Commercial Lunar Payload Services, or CLPS for short. The program aims to have private companies (like SpaceX) launch cargo to the moon and/or conduct science missions on behalf of NASA.
@@ -64,16 +69,10 @@ _[NASA](https://blogs.nasa.gov/spacex-crs-26/2022/11/03/nasa-invites-media-to-sp
 
 ![Render image of the Intuitive Machines Nova-C lander](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/im-3_moonscape_logo-Large.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 Render image of the Intuitive Machines Nova-C lander
 
  The launch is currently scheduled for December 22, 2022, using a SpaceX Falcon 9 rocket. Because SpaceX is handling the launch, there will likely be a livestream on [SpaceX's YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/SpaceX), or possibly a stream on the [NASA YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/NASA).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Boeing Crew Flight Test: April 2023
 
  SpaceX isn't the only American company trying to carry people to space -- Boeing has also been trying to make it happen. The company's [CST-100 Starliner](https://en.wikipedia.org/wiki/Boeing%5FStarliner) spacecraft looks a bit like the SpaceX Dragon and Apollo command module, but is slightly larger than both vehicles. Boeing and NASA already completed two space flights with no one onboard, but the next attempt will have a crew.
@@ -91,14 +90,9 @@ Related: [The James Webb Telescope Just Captured the "Pillars of Creation"](http
  April 2023 is a while away, but the launch will probably be broadcasted on the [NASA app](https://www.nasa.gov/connect/apps.html), the [agency's website](https://www.nasa.gov/live), and the [NASA YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/NASA).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  CAPSTONE: Entering Orbit November 13, 2022
 
  Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment, or CAPSTONE for short, is a small satellite about the size of a microwave oven. The rocket launch was back on July 4, 2022, so there's no exciting upcoming livestream for this one -- this is more of an honorary mention, since the satellite hasn't reached its target yet.
@@ -117,8 +111,6 @@ Related: [The James Webb Telescope Just Captured the "Pillars of Creation"](http
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +118,24 @@ Related: [The James Webb Telescope Just Captured the "Pillars of Creation"](http
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-garmins-action-camera-triumph-a-comprehensible-look-at-ultra-30-for-2024/"><u>[New] Garmin's Action Camera Triumph - A Comprehensible Look at Ultra 30 for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-intense-evaluation-the-detailed-study-of-bublcam-360/"><u>[New] In 2024, Intense Evaluation The Detailed Study of Bublcam 360</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-access-the-archived-unique-methods-for-viewing-old-youtube-for-2024/"><u>[Updated] Access the Archived Unique Methods for Viewing Old YouTube for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-rapid-learning-from-visuals-to-vivid-youtube-channel-thumbnails/"><u>[Updated] In 2024, Rapid Learning From Visuals To Vivid YouTube Channel Thumbnails</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-best-practices-for-adding-content-enhancements-cards/"><u>2024 Approved Best Practices for Adding Content Enhancements (Cards)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-safety-of-user-conversations/"><u>ChatGPT: Safety of User Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-gpt-as-a-malware-creation-tool/"><u>Debunking GPT as a Malware Creation Tool</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-pc-experience-the-best-free-custom-themes-for-windows-11/"><u>Elevate Your PC Experience: The Best Free Custom Themes for Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-world-of-claude-3/"><u>Exploring the World of Claude 3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guiding-machines-to-mankinds-ethical-path/"><u>Guiding Machines to Mankind's Ethical Path</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-gpt-mentions-to-call-out-custom-gpts-in-any-chatgpt-conversation/"><u>How to Use GPT Mentions to Call Out Custom GPTs in Any ChatGPT Conversation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oneplus-11-5g-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>OnePlus 11 5G support - Forgotten screen lock.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-uav-selection-in-stock/"><u>Premium UAV Selection in Stock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-gpt-3-addressing-the-top-four-disruptions/"><u>Unlock GPT-3: Addressing the Top Four Disruptions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-emotional-minds-of-silicon-sentience/"><u>Unlocking Emotional Minds of Silicon Sentience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/validate-wellness-wisdom-proven-techniques-for-chatgpt-insights/"><u>Validate Wellness Wisdom: Proven Techniques for ChatGPT Insights</u></a></li>
+</ul></div>
 

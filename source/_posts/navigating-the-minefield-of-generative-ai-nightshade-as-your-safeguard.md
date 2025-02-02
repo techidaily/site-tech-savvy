@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Minefield of Generative AI: Nightshade as Your Safeguard"
-date: 2024-08-29T19:41:43.281Z
-updated: 2024-08-30T19:41:43.281Z
+date: 2025-01-31T10:34:33.403Z
+updated: 2025-01-31T21:49:50.147Z
 tags:
   - chatgpt
   - open-ai
@@ -15,10 +15,18 @@ thumbnail: https://thmb.techidaily.com/0f32298889456fdaca83b5ae25e894332407ac328
 
 ## Navigating the Minefield of Generative AI: Nightshade as Your Safeguard
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is AI Poisoning?](https://natural-cycles.sjv.io/vmebmr)
 * [How to Use Nightshade](https://technitya.sjv.io/dkpn02)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -35,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/0f32298889456fdaca83b5ae25e894332407ac328
  Stopping generative AI tools using copyright images to train is difficult, and artists from all walks of life have struggled to protect their work from AI training datasets. But now, that's all changing with the advent of Nightshade, a free AI tool built to poison the output of generative AI tools—and finally let artists take some power back.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is AI Poisoning?
 
  AI poisoning is the act of "poisoning" the training dataset of an AI algorithm. This is similar to providing wrong information to the AI on purpose, resulting in the trained AI malfunctioning or failing to detect an image. Tools like Nightshade alter the pixels in a digital image in such a manner that it appears to be completely different to the AI training on it, but largely unchanged from the original to the human eye.
@@ -44,8 +53,9 @@ thumbnail: https://thmb.techidaily.com/0f32298889456fdaca83b5ae25e894332407ac328
 ![Robot Hand Holding Paintbrush Over Colorful Canvas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/robot-hand-holding-paintbrush.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-robot-ai-generate-art-mid-2294823599)
 
  For example, if you upload a poisoned image of a car to the internet, it will look the same to us humans, but an AI attempting to train itself to identify cars by looking at images of cars on the internet will see something completely different.
@@ -58,9 +68,6 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 
  Compared to other digital artwork protection tools like Glaze, Nightshade is offensive. [Glaze prevents AI algorithms from mimicking](https://www.makeuseof.com/how-to-use-glaze-protect-art-from-ai/) the style of a particular image, while Nightshade changes the image's appearance to the AI. Both tools are built by Ben Zhao, Professor of Computer Science at the University of Chicago.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Use Nightshade
 
  While the creator of the tool recommends Nightshade be used alongside Glaze, it can also be used as a standalone tool to protect your artwork. Using the tool is also fairly easy, considering there are only three steps to protecting your images with Nightshade.
@@ -78,9 +85,11 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 3. Select the image you want to protect by clicking the **Select** button in the top-left. You can also select multiple images at once for batch processing.  
 ![nightshade-program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/nightshade-program.jpg)
 4. Adjust the **Intensity** and **Render Quality** dials according to your preferences. Higher values add stronger poisoning but can also introduce artifacts in the output image.
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Next, click the **Save As** button under the **Output** section to select a destination for the output file.
 6. Click the **Run Nightshade** button at the bottom to run the program and poison your images.
 
@@ -96,8 +105,6 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +112,26 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-inshot-a-thorough-editor-investigation/"><u>2024 Approved Unveiling InShot A Thorough Editor Investigation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-common-missteps-with-autoai-tools/"><u>Avoiding Common Missteps with AutoAI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-tablets-for-young-users-in-2nce-expert-picks-and-reviews-on-the-latest-ipads-zdnets-guide/"><u>Best Tablets for Young Users in 2Nce: Expert Picks and Reviews on the Latest iPads (ZDNET's Guide)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-common-sticker-setup-snags-in-automotive-ai-systems/"><u>Bypassing Common Sticker Setup Snags in Automotive AI Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-vs-chatgpt-which-ai-chatbot-is-best-for-everyday-tasks/"><u>Claude Vs. ChatGPT: Which AI Chatbot Is Best for Everyday Tasks?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/continuous-chatgpt-insights-universal-use/"><u>Continuous ChatGPT Insights, Universal Use</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevating-educational-content-by-adding-youtube-music-to-vids/"><u>Elevating Educational Content by Adding YouTube Music to Vids</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-zte-nubia-flip-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to ZTE Nubia Flip 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-boost-communication-capabilities-from-skype-to-zoom/"><u>In 2024, Boost Communication Capabilities From Skype to Zoom</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-vivo-y17s-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Vivo Y17s to New Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-tailored-guide-to-youtube-trailer-production-with-filmora/"><u>In 2024, Tailored Guide to YouTube Trailer Production with Filmora</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/join-the-party-your-guide-to-active-tiktok-streaming/"><u>Join the Party Your Guide to Active TikTok Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-ipad-key-configuration-tips-every-apple-enthusiast-and-veteran-needs-to-know-expert-advice/"><u>Master Your iPad: Key Configuration Tips Every Apple Enthusiast and Veteran Needs to Know | Expert Advice</u></a></li>
+<li><a href="https://win11.techidaily.com/personalized-policy-assignment-on-one-individuals-user-account/"><u>Personalized Policy Assignment on One Individual's User Account</u></a></li>
+<li><a href="https://driver-install.techidaily.com/third-party-data-clear-no-signage/"><u>Third-Party Data Clear: No Signage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-iphone-models-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Ranking iPhone Models : Comprehensive Reviews by Tech Gurus | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-headphone-face-off-comparing-the-best-in-class-samsung-galaxy-buds-2-pro-google-pixel-buds-pro-vs-apples-airpods-pro-zdnet-insights/"><u>Ultimate Headphone Face-Off: Comparing the Best in Class – Samsung Galaxy Buds 2 Pro, Google Pixel Buds Pro Vs. Apple's AirPods Pro | ZDNET Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmasking-auto-gpt-divergence-from-chatgpt-analysis/"><u>Unmasking Auto-GPT: Divergence From ChatGPT Analysis</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-s17-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo S17 Phone Network-Ready</u></a></li>
+</ul></div>
 

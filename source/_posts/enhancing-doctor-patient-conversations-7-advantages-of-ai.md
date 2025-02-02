@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Doctor-Patient Conversations: 7 Advantages of AI"
-date: 2025-01-21T18:20:49.734Z
-updated: 2025-01-24T22:35:28.390Z
+date: 2025-01-24T16:13:35.050Z
+updated: 2025-02-01T06:08:16.310Z
 tags:
   - chatgpt
   - open-ai
@@ -38,25 +38,29 @@ thumbnail: https://thmb.techidaily.com/c7f6e1d56c05b1571f57a7f9b04e195b30e35f1ef
 
  Furthermore, in March 2023, [OpenAI launched plugins](https://openai.com/blog/chatgpt-plugins) that extend the AI bot's functionality to access third-party knowledge sources and databases, including the web. This means ChatGPT's recommendations could include the very latest research, trends, and expert opinions in the health and wellness sphere.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. ChatGPT Has Access to Diverse Knowledge Sources
 
  One of the key strengths of ChatGPT is its access to diverse knowledge sources. It can pull from a wealth of resources, including scientific journals, expert opinions, and reputable health organizations. This ensures that the advice you get is not only diverse but also credible.
 
 ![Screenshot of ChatGPT citing its sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-01-at-11-27-46-am.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For instance, when you ask ChatGPT about the recommended amount of protein needed to build muscle, it will reference studies published by [Medicine & Science in Sports & Nutrition](https://pubmed.ncbi.nlm.nih.gov/19225360/), the [British Journal of Sports Medicine](https://pubmed.ncbi.nlm.nih.gov/28698222/), and the [Journal of the International Society of Sports Nutrition](https://jissn.biomedcentral.com/articles/10.1186/s12970-018-0215-1). It will even include citations so that you can find and read the journal articles yourself.
 
 ![Screenshot of ChatGPT providing citations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-01-at-11-39-32-am.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  By providing advice backed by scientific evidence and expert consensus, you can put some degree of trust into the advice and recommendations that ChatGPT provides. While ChatGPT [can provide reliable health information](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/), be sure to understand some of its limitations, such as inaccurate responses and hallucinations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. ChatGPT Provides Instant Advice Wherever You Are
 
@@ -74,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/c7f6e1d56c05b1571f57a7f9b04e195b30e35f1ef
 
 ![Runner tying his shoe](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/runner.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ChatGPT goes beyond just providing information to satiate your curiosity or provide recommendations. By being so easy to use, ChatGPT can be downright empowering by supercharging your self-awareness and understanding of various topics.
 
  By acting as a personal health and wellness coach that is always around, ChatGPT may be the tool that finally helps you to take responsibility for your health and make more informed choices.
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/c7f6e1d56c05b1571f57a7f9b04e195b30e35f1ef
  At the same time, ChatGPT's tailored responses can point out potential blind spots. In the case of health and wellness, this may be the importance of sleep when building muscle, in addition to diet and exercise.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. ChatGPT Has the Potential to Reduce the Burden on Healthcare Professionals
@@ -94,15 +94,15 @@ thumbnail: https://thmb.techidaily.com/c7f6e1d56c05b1571f57a7f9b04e195b30e35f1ef
 
  While ChatGPT is not a substitute for professional medical advice and should not be relied upon for diagnosing or treating medical conditions, it can serve as an informative and accessible resource for general health and wellness topics.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. ChatGPT Is a Gateway to Improving Your Health and Wellness IQ
 
  It's important to remember that ChatGPT should serve as a starting point for research and information gathering. Just like when you access other information on the internet, you should seek additional sources for validation before making any major decision about your health.
 
  That said, by engaging with ChatGPT, you'll gain insights into various topics and discover new areas of interest. You can then train the tool to provide further research from reputable sources, such as medical journals, health organizations, and healthcare professionals. This can help you build a more comprehensive understanding and confirm the accuracy of the information provided by ChatGPT.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Using ChatGPT to Support Your Wellness Journey
 
@@ -129,22 +129,21 @@ thumbnail: https://thmb.techidaily.com/c7f6e1d56c05b1571f57a7f9b04e195b30e35f1ef
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-jake-pauls-youtube-success-story-all-you-need-to-know/"><u>[New] Jake Paul's YouTube Success Story - All You Need to Know</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-honor-70-lite-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Honor 70 Lite 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-leveraging-video-features-annotations-and-cards/"><u>2024 Approved Leveraging Video Features Annotations & Cards</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mac-centric-review-the-complete-guide-to-screenflow-v4/"><u>2024 Approved Mac-Centric Review The Complete Guide to ScreenFlow V4</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-honor-70-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-gpt-7-ai-allies-for-automated-code-creation/"><u>Beyond GPT: 7 AI Allies for Automated Code Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-the-ideal-phone-for-your-child-expert-picks-and-reviews-zdnet/"><u>Choosing the Ideal Phone for Your Child: Expert Picks and Reviews - ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhance-your-apple-watch-lifespan-with-these-simple-battery-boosting-settings-adjustments-digitaltech-today/"><u>Enhance Your Apple Watch Lifespan with These Simple Battery-Boosting Settings Adjustments | DigitalTech Today</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-there-a-characterword-limit-on-chatgpts-answers/"><u>Is There a Character/Word Limit on ChatGPT's Answers?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-windows-11-glitches-getting-your-windows-spotlight-pictures-working-again/"><u>Overcoming Windows 11 Glitches: Getting Your Windows Spotlight Pictures Working Again</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scrutinizing-trust-in-zerogpt-against-detection-assumptions/"><u>Scrutinizing Trust in ZeroGPT Against Detection Assumptions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-artisans-guide-harnessing-chatgpt-for-visual-ai/"><u>The Artisan's Guide: Harnessing ChatGPT for Visual AI</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/tout-en-un-guide-pour-changer-votre-image-jpeg-en-format-jpg-gratuit-moovavi/"><u>Tout-en-Un Guide Pour Changer Votre Image JPEG en Format JPG Gratuit - Moovavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformative-writing-techniques-chatgpts-role-in-poetry/"><u>Transformative Writing Techniques: ChatGPT's Role in Poetry</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-google-apps-with-chatgpt-assistance/"><u>Unlocking Google Apps with ChatGPT Assistance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-enhanced-repairability-of-apples-new-iphone-16-whats-improved-compared-to-earlier-models-zdnet/"><u>Unveiling the Enhanced Repairability of Apple's New iPhone 16 - What's Improved Compared to Earlier Models? | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-to-get-after-iphone-13-and-15-pro-expert-picks-for-your-new-smartphone-zdnet-reviews/"><u>What to Get After iPhone 13 and 15 Pro: Expert Picks for Your New Smartphone | ZDNet Reviews</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-ultimate-guide-top-8-tripods-for-4k-video-enthusiasts-for-2024/"><u>[New] Ultimate Guide Top 8 Tripods for 4K Video Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-live-band-webcasts/"><u>[New] Ultimate Live Band Webcasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-stepwise-approach-to-mastering-vimeo-recording/"><u>[Updated] Stepwise Approach to Mastering Vimeo Recording</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-lava-yuva-2-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Lava Yuva 2? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choose-the-ultimate-mp3-player-expert-picks-for-202-infobox/"><u>Choose the Ultimate MP3 Player - Expert Picks for 202 [Infobox]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-truthgpt-tokens-authenticity/"><u>Exploring TruthGPT Token's Authenticity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fitness-freaks-mastering-chatgpt-conversations/"><u>Fitness Freaks, Mastering ChatGPT Conversations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-take-a-screenshot-on-windows-8-easily/"><u>How to Take a Screenshot on Windows 8 [Easily!]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-f04-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy F04 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/saving-the-day-strategies-for-apples-lifeline-to-frustrated-sonos-owners/"><u>Saving the Day: Strategies for Apple's Lifeline to Frustrated Sonos Owners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-gpt-interaction-across-borders/"><u>Seamless GPT Interaction Across Borders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-definitive-guide-to-the-ipad-air-with-m2-chip-apple-delivers-the-top-of-the-line-tablet-you-need-as-revealed-by-zdnet/"><u>The Definitive Guide to the iPad Air with M2 Chip: Apple Delivers the Top-of-the-Line Tablet You Need, as Revealed by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tips-on-formulating-compelling-proposals-via-gpt/"><u>Tips on Formulating Compelling Proposals via GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-potential-of-chatgpt-across-languages/"><u>Unveiling the Potential of ChatGPT Across Languages</u></a></li>
 </ul></div>
 

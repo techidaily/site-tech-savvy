@@ -1,7 +1,7 @@
 ---
 title: "Side Jobs with AI: From Chats to Computers"
-date: 2025-01-08T16:47:21.496Z
-updated: 2025-01-13T00:24:51.395Z
+date: 2025-01-28T12:06:01.551Z
+updated: 2025-01-31T21:41:21.935Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/c00ebdb669edb0d10c9aaf3823af0f453bdf1555c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/c00ebdb669edb0d10c9aaf3823af0f453bdf1555c
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/c00ebdb669edb0d10c9aaf3823af0f453bdf1555c
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/c00ebdb669edb0d10c9aaf3823af0f453bdf1555c
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -135,20 +135,21 @@ thumbnail: https://thmb.techidaily.com/c00ebdb669edb0d10c9aaf3823af0f453bdf1555c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-microphone-selection-for-high-res-video-shooting-for-2024/"><u>[Updated] Ultimate Microphone Selection for High-Res Video Shooting for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-designing-engaging-film-teasers/"><u>2024 Approved Designing Engaging Film Teasers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beware-of-macapps-gpt-lures-hidden-dangers-revealed/"><u>Beware of MacApp's GPT Lures - Hidden Dangers Revealed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bootstrap-a-free-locally-hosted-chatgpt-relative-on-windows/"><u>Bootstrap a Free, Locally Hosted ChatGPT Relative on Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-action-building-dynamic-and-intelligent-websites/"><u>ChatGPT in Action: Building Dynamic and Intelligent Websites</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-prescription-for-peacefulness/"><u>ChatGPT’s Prescription for Peacefulness</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-conversations-the-compelling-case-for-chatgptplus-upgrade/"><u>Elevate Conversations - The Compelling Case for ChatGPT+ Upgrade</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-a-guide-to-recording-private-whatsapp-communications/"><u>In 2024, A Guide to Recording Private WhatsApp Communications</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-asus-rog-phone-8-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Asus ROG Phone 8 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-star-wars-squadrons-a-deep-dive-into-its-exhilarating-space-battles/"><u>In-Depth Analysis of Star Wars: Squadrons - A Deep Dive Into Its Exhilarating Space Battles</u></a></li>
-<li><a href="https://win-premium.techidaily.com/step-by-step-guide-checking-your-pcs-ram-insights-from-yl-computing/"><u>Step-by-Step Guide: Checking Your PC's RAM - Insights From YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-digital-dialogue-mastering-the-art-of-custom-chatgpt-instructions/"><u>The Future of Digital Dialogue: Mastering the Art of Custom ChatGPT Instructions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/utilizing-anthropics-new-claude-prompts/"><u>Utilizing Anthropic's New Claude Prompts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-fabricating-temporal-anomaly-illusions/"><u>[New] 2024 Approved Fabricating Temporal Anomaly Illusions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-premier-selection-of-top-10-free-youtube-art-mentors/"><u>[New] The Premier Selection of Top 10 Free YouTube Art Mentors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unlocking-fbx-filming-in-games/"><u>[Updated] Unlocking FBX Filming in Games</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gratitude-gift-selecting-high-quality-otus-freepaid/"><u>2024 Approved Gratitude Gift Selecting High-Quality OTUs (Free/Paid)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-algorithms-forecast-your-future-like-zodiac-stones/"><u>Can Algorithms Forecast Your Future Like Zodiac Stones?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-apple-experience-exclusive-insights-into-the-latest-free-macos-15-upgrade-features-zdnet/"><u>Elevate Your Apple Experience - Exclusive Insights Into the Latest, Free MacOS 15 Upgrade Features | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-guide-why-protecting-your-privacy-with-a-vpn-is-crucial-for-vision-pro-and-similar-arvr-devices-insights-from-zdnet/"><u>Essential Guide: Why Protecting Your Privacy with a VPN Is Crucial for Vision Pro & Similar AR/VR Devices - Insights From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-v30-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme V30 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-nokia-105-classic-drfone-by-drfone-android/"><u>How to Screen Mirroring Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-microsofts-copilot-image-creator-to-generate-unique-ai-images/"><u>How to Use Microsoft's Copilot Image Creator to Generate Unique AI Images</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oneplus-open-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked OnePlus Open Phone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/innovative-methods-to-sync-photos-and-audio-sound-design-tips-2023-for-2024/"><u>Innovative Methods to Sync Photos and Audio Sound Design Tips 2023 for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-new-enhancements-in-apples-entire-lineup-of-airpods-top-4-must-know-updates/"><u>Introducing New Enhancements in Apple's Entire Lineup of AirPods: Top 4 Must-Know Updates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ai-enhancement-challenge-githubs-copilot-vs-openais-gpt/"><u>The AI Enhancement Challenge: GitHub's Copilot Vs. OpenAI's GPT</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-screen-clarity-advanced-zoom-techniques/"><u>Unlocking Screen Clarity Advanced Zoom Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-i-prefer-my-apple-watch-series-7-over-upgrading-to-the-hypothetical-series-10-insights-from-zdnet/"><u>Why I Prefer My Apple Watch Series 7 Over Upgrading to the Hypothetical Series 10 | Insights From ZDNet</u></a></li>
 </ul></div>
 

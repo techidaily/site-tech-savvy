@@ -1,7 +1,7 @@
 ---
 title: Advanced AI's Rising Tide of Security Issues
-date: 2024-08-25T17:39:23.101Z
-updated: 2024-08-26T17:39:23.101Z
+date: 2025-01-27T09:29:37.184Z
+updated: 2025-02-01T09:42:48.196Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
 
  Although impressive, generative AI also presents security risks. Some people merely use chatbots to cheat on exams, but others exploit them outright for cybercrimes. Here are eight reasons these issues will persist, not just **despite** AI’s advancements but **because** of them too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open-Source AI Chatbots Reveal Back-End Codes
 
  More AI companies are providing open-source systems. They openly share their language models instead of keeping them closed or proprietary. Take Meta as an example. Unlike Google, Microsoft, and OpenAI, it allows millions of users to access its language model, [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/).
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
  Even if Meta suddenly pulls its language model, dozens of other AI labs have already released their codes. Let’s look at HuggingChat. Since its developer HuggingFace takes pride in transparency, it displays its datasets, language model, and previous versions.
 
 ![Accessing the Open-Source Codes of HuggingFace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/huggingface-open-source-codes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Jailbreaking Prompts Trick LLMs
 
@@ -49,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
 
 ![Jailbreaking ChatGPT With DAN Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-dan-jailbreak-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here’s ChatGPT with a bold yet false statement.
 
 ![ChatGPT Making Baseless Predictions About Bitcoin Prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-predicting-bitcoin-prices.jpg)
@@ -63,19 +75,10 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
 
 ![ChatGPT Roleplaying as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-tomie-roleplays.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  And here’s Bing Chat refusing to play an “immoral” persona.
 
 ![Bing Chat Refusing to Roleplay as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-tomie-roleplay.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. New Generative AI Tools Hit the Market Regularly
 
  Open-source codes enable startups to join the AI race. They integrate them into their applications instead of building language models from scratch, saving massive resources. Even independent coders experiment with open-source codes.
@@ -85,8 +88,9 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
  Despite these risks, tech companies will keep releasing unstable beta versions of AI-driven platforms. The AI race rewards speed. They’ll likely resolve bugs at a later date than delay launching new products.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Generative AI Has Low Barriers to Entry
 
  AI tools lower the barriers to entry for crimes. Cybercriminals draft spam emails, write malware code, and build phishing links by exploiting them. They don’t even need tech experience. Since AI already accesses vast datasets, users merely have to trick it into producing harmful, dangerous information.
@@ -99,11 +103,19 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
 
 ![ChatGPT, Bard, Bing, and Snapchat AI Logos Side by Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/different-ai-logos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  AI is still evolving. While [the use of AI in cybernetics dates back to 1940](https://coe.int/en/web/artificial-intelligence/history-of-ai), modern machine learning systems and language models only recently emerged. You can’t compare them with the first implementations of AI. Even relatively advanced tools like Siri and Alexa pale in comparison to LLM-powered chatbots.
 
  Although they may be innovative, experimental features also create new issues. [High-profile mishaps with machine learning technologies](https://www.makeuseof.com/examples-machine-learning-artificial-intelligence-went-wrong/) range from flawed Google SERPs to biased chatbots spitting racial slurs.
 
  Of course, developers can fix these issues. Just note that crooks won’t hesitate to exploit even seemingly harmless bugs—some damages are irreversible. So be careful when exploring new platforms.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Many Don’t Understand AI Yet
 
@@ -115,14 +127,6 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
 
 ![Searching for ChatGPT on Google Play Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-play-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## 8\. Black-Hat Hackers Have More to Gain That White-Hat Hackers
 
  Black-hat hackers typically have [more to gain than ethical hackers](https://www.makeuseof.com/white-hat-hacker/). Yes, pen testing for global tech leaders pays well, but only a percentage of cybersecurity professionals land these jobs. Most do freelance work online. Platforms like [HackerOne](https://www.hackerone.com/) and [Bugcrowd](https://www.bugcrowd.com/) pay a few hundred bucks for common bugs.
@@ -131,9 +135,6 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
 
  Every institution, small or large, must implement AI systems properly. Contrary to popular belief, hackers go beyond tech startups and SMBs. Some of the most [historic data breaches in the past decade](https://www.makeuseof.com/historic-data-breaches/) involve Facebook, Yahoo!, and even the U.S. government.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Protect Yourself From the Security Risks of AI
 
  Considering these points, should you avoid AI altogether? Of course not. AI is inherently amoral; all security risks stem from the people actually using them. And they’ll find ways to exploit AI systems no matter how far these evolve.
@@ -144,14 +145,11 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
 
  Although impressive, generative AI also presents security risks. Some people merely use chatbots to cheat on exams, but others exploit them outright for cybercrimes. Here are eight reasons these issues will persist, not just **despite** AI’s advancements but **because** of them too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -160,4 +158,26 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-gpu-revival-edition-for-2024/"><u>[New] GPU Revival Edition for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-discover-12-cutting-edge-flip-screen-cams-for-video-content/"><u>[New] In 2024, Discover 12 Cutting-Edge Flip-Screen Cams for Video Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cutting-edge-design-top-5-3d-intro-makers/"><u>[Updated] In 2024, Cutting-Edge Design Top 5 3D Intro Makers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-easy-way-to-establish-collaborative-conversations-on-skype-regardless-of-your-operating-system/"><u>[Updated] In 2024, Easy Way to Establish Collaborative Conversations on Skype, Regardless of Your Operating System</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-enhancing-iphone-shots-the-live-photo-method/"><u>[Updated] In 2024, Enhancing iPhone Shots The Live Photo Method</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-newest-earpods-with-usb-c-the-unexpected-addition-to-my-prime-day-haul-insights-from-zdnet/"><u>Apple's Newest EarPods with USB-C: The Unexpected Addition to My Prime Day Haul – Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/caution-avoiding-oversimplified-text-summaries-by-chatbots/"><u>Caution: Avoiding Oversimplified Text Summaries by ChatBots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cold-blobs-and-mythical-cooling-what-science-says/"><u>Cold Blobs and Mythical Cooling: What Science Says</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/directing-car-alterations-with-gpt-involvement/"><u>Directing Car Alterations with GPT Involvement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/end-the-nuisance-of-spam-texting-on-ios-devices-a-quick-and-effortless-3-step-solution-from-zdnet/"><u>End the Nuisance of Spam Texting on iOS Devices: A Quick & Effortless 3-Step Solution From ZDNET.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-force-uninstall-a-program-that-wont-uninstall/"><u>How to Force Uninstall a Program that Won’t Uninstall</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-bridging-platform-gaps-youtube-shorts-to-mp4-transformation/"><u>In 2024, Bridging Platform Gaps YouTube Shorts to MP4 Transformation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-the-art-of-ios-n-contact-poster-creation-and-distribution-with-namedrop-feature/"><u>Master the Art of iOS N Contact Poster Creation & Distribution with NameDrop Feature</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-personalization-in-chatgpt-with-strategic-commands/"><u>Maximizing Personalization in ChatGPT with Strategic Commands</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/no-pay-no-problem-get-your-free-passport-photo-creator-now-online-and-on-desktop/"><u>No Pay, No Problem Get Your Free Passport Photo Creator Now Online & On Desktop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-business-perspective-5-main-arguments-against-ais-invasion/"><u>The Business Perspective: 5 Main Arguments Against AI's Invasion</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-ranking-prime-day-offers-on-apple-products/"><u>Top-Ranking Prime Day Offers on Apple Products</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-the-power-of-ai-in-web-development-using-chatgpt/"><u>Unleash the Power of AI in Web Development Using ChatGPT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Oppo F23 5G | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Secure Practices: Ensuring Safety While Acquiring New Applications Online"
-date: 2024-08-29T19:38:09.207Z
-updated: 2024-08-30T19:38:09.207Z
+date: 2025-01-29T05:33:16.869Z
+updated: 2025-01-31T17:15:47.730Z
 tags:
   - deals
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 
  The malicious search ads are just one way hackers can trick you into installing maclicious software, on top of all the other classic methods: fake emails, ads on other web content, social media, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Don't Download from Mirror Sites
 
  There are many sites that host copies of popular free software, which were especially popular in the 1990s and early 2000s. They were helpful in the era before search engines became more prevelant, but many of them used custom installers for software that would load up your PC with extra junk. Back in 2015, [we tried downloading the top 10 apps from Download.com](https://extra-approaches.techidaily.com/2024-approved-pinnacle-playwriting-sanctuary/), which installed conflicting malware/virus protection software and browser redirects.
@@ -29,9 +33,9 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
  Some popular download sites have cleaned up their act since then, while others have shut down entirely, but it's still not a good idea to download software from anywhere other than the original source or an approved mirror. For example, if you want VLC Media Player, you should be downloading directly from [VideoLAN.org](https://www.videolan.org/) or the project's own listings on the [Google Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2001407/https://play.google.com/store/apps/details?id=org.videolan.vlc), [Apple App Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2001407/https://itunes.apple.com/app/apple-store/id650377962), or other official sources linked from that website.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Avoid Search Engine Ads
 
  There's a simple way to avoid the scam download links that are becoming more common on search engine results: don't click anything that says "Sponsored" or "Ad". Those are results from companies paying to be at the top of a certain search query—for example, Ford paying to be the top result for someone searching for competing Chevy vehicles in the below screenshot.
@@ -39,13 +43,11 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 ![Screenshot of a Google search for "Chevy", with a sponsored link for Ford at the top, followed by another sponsored link for Chevrolet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot-2023-12-19-at-4-52-47-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Google, Bing, and other search engines are not great at validating these links, so sponsored/ad links for software could lead you to malware. It's safer to scroll past them and check the top non-sponsored results for a given search query.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Check App Stores
 
  Microsoft Windows has had its own app store since the Windows 8 days, now known as the [Microsoft Store](https://apps.microsoft.com/home), and the Mac App Store was introduced in 2011\. If you need to download a popular app on your Windows PC or Mac, it might be the first place you should look.
@@ -55,15 +57,17 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 ![A screenshot of the Mac App Store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot-2023-12-19-at-5-08-00-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There are definitely apps in both stores that can be regarded as spam or not useful, but actual malware is exceedingly rare. The Microsoft Store has [occasional problems with sketchy software](https://screen-recording.techidaily.com/quick-tips-for-iphones-screen-recording-for-2024/), but they are removed when issues are discovered, and it has definitely been cleaned up over the past few years. Most big app developers ignored the Store for its first few years of existence, but now there are official listings for [Adobe Photoshop](https://apps.microsoft.com/detail/XPFD4T9N395QN6), [iTunes](https://apps.microsoft.com/detail/9PB2MZ1ZMB1S), [TikTok](https://apps.microsoft.com/detail/9NH2GPH4JZS4), [VLC Media Player](https://apps.microsoft.com/detail/XPDM1ZW6815MQM), [Mozilla Firefox](https://apps.microsoft.com/detail/9NZVDKPMR9RD), and more.
 
  Most desktop Linux distributions have integrated software repositories and package managers that effectively act like app stores, and there are third-party software repositories for many platforms . [Homebrew](https://brew.sh/) is a popular software repository for macOS, primarily aimed at command-line tools and developer utilities, and [Chocolatey](https://chocolatey.org/) is a similar alternative for Windows. However, you have to trust that malware isn't sneaking into those repositories.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Scan Your Downloads with VirusTotal
 
 [VirusTotal](http://www.virustotal.com) scans submitted files and links using a variety of different antivirus programs and compares the submitted file to other files on record. If you do download apps from potentially suspect places, or you just want to be extra sure, you can always [upload the file to VirusTotal to confirm that it is safe](https://extra-support.techidaily.com/pinnacle-tools-for-subs-to-srt-unveiling-the-top-8-win-and-mac-software-for-2024/). It isn't a perfect option, and may not catch every piece of malware out there, but it does provide another layer of security if you want it.
@@ -78,8 +82,6 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,4 +89,18 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-innovative-goggles-spark-wonder-an-insightful-look-at-future-wearables-unveiled/"><u>Apple's Innovative Goggles Spark Wonder: An Insightful Look at Future Wearables | Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/convert-audiobook-files-from-aac-to-m4a-format-for-free-with-online-tools-movavi/"><u>Convert Audiobook Files From AAC to M4A Format for Free with Online Tools - Movavi</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/copy-dvd-contents-onto-hard-drive-proven-4-strategies-in-deutschland/"><u>Copy DVD Contents Onto Hard Drive – Proven 4 Strategies in Deutschland</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/defending-against-data-exposure-from-personalized-ai/"><u>Defending Against Data Exposure From Personalized AI</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/investigating-the-reasons-for-multiple-personal-profiles-being-allowed-on-one-facebook-account/"><u>Investigating the Reasons for Multiple Personal Profiles Being Allowed on One Facebook Account</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailoring-chatgpt-prompts-for-fitness-enthusiasts/"><u>Tailoring ChatGPT Prompts for Fitness Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-8-ai-driven-mobile-apps-for-enhanced-user-experience/"><u>Top 8 AI-Driven Mobile Apps for Enhanced User Experience</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unveiling-the-process-for-achieving-facebooks-trusted-marker-for-2024/"><u>Unveiling the Process for Achieving Facebook's Trusted Marker for 2024</u></a></li>
+</ul></div>
 

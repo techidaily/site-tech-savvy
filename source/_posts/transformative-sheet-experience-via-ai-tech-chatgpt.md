@@ -1,7 +1,7 @@
 ---
 title: Transformative Sheet Experience via AI Tech (ChatGPT)
-date: 2025-01-08T19:32:49.521Z
-updated: 2025-01-12T19:37:53.151Z
+date: 2025-01-31T06:03:55.049Z
+updated: 2025-01-31T19:33:56.882Z
 tags:
   - chatgpt
   - open-ai
@@ -45,19 +45,15 @@ thumbnail: https://thmb.techidaily.com/07830baed28dcfedcdb1e672639175802d38d29df
 ![Adding GPT for Sheets and Docs to Google Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/adding-gpt-for-sheets-and-docs-to-google-sheets.jpg)
 3. Up next, you should be taken to the Google Workspace Marketplace. Locate the search bar in the top right corner of the screen and search for **GPT for Sheets and Docs**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Google Workspace Marketplace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/google-workspace-marketplace.jpg)
 4. Click on the first extension, as seen in the screenshot above. On the next page, click on **Install** and then **Continue.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Installing GPT for Sheets and Docs on Google Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/installing-gpt-for-sheets-and-docs-on-google-sheets.jpg)
 5. Select the Google account associated with your Google Sheets account and then tap **Allow** on the permission prompt to grant the extension access it needs to modify your spreadsheets.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. After the installation, click **Next** and tap **Done** on the post-installation screen to complete the installation process.
 
@@ -83,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/07830baed28dcfedcdb1e672639175802d38d29df
 ![saving API key to GPT for Sheets and Docs extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/saving-api-key-to-gpt-for-sheets-and-docs-extension.jpg)
 4. Tap on the **Save API key** to proceed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With those steps completed, you're almost done with the setup process. The last step is to activate the GPT for Sheets and Docs extension. To do this, navigate to **Extensions > GPT for Sheets and Docs > Enable GPT functions**​​​​​​.
 
 ## What Can You Do With GPT-Powered Google Sheets?
@@ -95,11 +87,19 @@ thumbnail: https://thmb.techidaily.com/07830baed28dcfedcdb1e672639175802d38d29df
 
  Well, the possibilities are endless.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Generate Text
 
  With GPT-powered Google Sheets, you can use regular ChatGPT prompts and get similar replies to ChatGPT right within Google Sheets. For instance, if you want to populate cell C3 with a story about Snapchat, you could type the formula **\=GPT("Write a short story about Snapchat")** right inside the cell.
 
 ![GPT functions for snapchat story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-functions-for-snapchat-story.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Screenshot was taken by the author, Maxwell Timothy
 
@@ -108,12 +108,16 @@ Screenshot was taken by the author, Maxwell Timothy
 ![Run GPT functions by cell reference](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-gpt-functions-by-cell-reference.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Of course, we are dealing with a spreadsheet, so you probably need your results to span multiple cells. To do that, you can use the **\=GPT\_LIST** function. An example could be **\=GPT\_LIST("write five creative taglines for an ice-cream shop")** or **\=GPT\_LIST(A1)**.
 
 ![multi-cell response in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/multi-cell-response-in-gpt-for-sheets.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Translate Text
 
@@ -122,12 +126,16 @@ Screenshot was taken by the author, Maxwell Timothy
 ![translating with GPT on Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/translating-with-gpt-on-sheets.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Summarize Text
 
  To summarize text, you can either wrap a summarization prompt with the base =GPT function or use the **\=GPT\_SUMMARIZE** function. For instance, **\=GPT\_SUMMARIZE(C44)** will summarize the content of cell C44 into the active cell.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Classify Text
 
@@ -137,10 +145,6 @@ Screenshot was taken by the author, Maxwell Timothy
 
 ![GPT_CLASSIFY in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_classify-in-gpt-for-sheets.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Generate Data Tables
 
  Spreadsheets and tables go together like peas and carrots. The **\=GPT\_TABLE** function makes it incredibly easy to create tables in Google Sheets. Think of any data table you need, and just ask the function to create it--that's it. So, say, you need a table of some of the best Korean TV shows, their theme, and IMDB rating. This is a dataset that would be time-consuming to put together.
@@ -149,23 +153,19 @@ Screenshot was taken by the author, Maxwell Timothy
 
 ![GPT_TABLE function in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_table-function-in-gpt-for-sheets.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Copy Text Formatting
 
  When working on a spreadsheet, some formatting is a bit too loosely defined or arbitrary for Google Sheets to replicate. For cases like this, the **\=GPT\_FILL** can be a lifesaver. To use the function, demonstrate a few examples of what you need to be done and invoke the **\=GPT\_FILL** to copy the formatting. Below is a video that demonstrates how to use the function.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Extract Data
 
  If you are working with a lot of mixed-up data or text, you can extract certain data types into assigned cells using the **\=GPT\_EXTRACT** function. For instance, you could paste a CSV file in cell B23 and use **\=GPT\_EXTRACT(B48, C48)** to extract email addresses from the CSV text to the current cell. In the function, the C48 references a cell that contains the data type to extract, in this case, email addresses.
 
 ![Data Extraction using GPT functions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/data-extraction-using-gpt-functions.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Boost Your Productivity With ChatGPT Prompts in Google Sheets
 
@@ -194,16 +194,18 @@ Screenshot was taken by the author, Maxwell Timothy
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-pcs-top-choice-essential-ps1-emulators-for-2024/"><u>[New] PC's Top Choice Essential PS1 Emulators for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-screening-your-gaming-a-nintendo-switch-tutorial/"><u>[Updated] 2024 Approved Screening Your Gaming A Nintendo Switch Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cryptocurrency-edge-5-gpt-enhanced-tactics/"><u>Cryptocurrency Edge: 5 GPT-Enhanced Tactics</u></a></li>
-<li><a href="https://article-posts.techidaily.com/discovering-the-latest-in-hdtv-with-samsungs-ubd-k850u-update-for-2024/"><u>Discovering the Latest in HDTV with Samsung's UBD-K850U Update for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-13-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 13 Properly</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-the-definitive-guide-to-live-on-discord/"><u>In 2024, The Definitive Guide to Live on Discord</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastery-of-the-skies-comparing-basic-and-procopilots/"><u>Mastery of the Skies: Comparing Basic and Procopilots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/must-haves-elevating-the-standard-of-chatgpt-plugin-shop/"><u>Must-Haves: Elevating the Standard of ChatGPT Plugin Shop</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlined-creation-mastery-of-mass-design-using-canva-plus-ai/"><u>Streamlined Creation: Mastery of Mass-Design Using Canva + AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-auto-gpt-and-how-does-it-differ-from-chatgpt/"><u>What Is Auto-GPT, and How Does It Differ From ChatGPT?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-tips-and-insights-for-successful-spotify-marketing/"><u>[New] Tips and Insights for Successful Spotify Marketing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-creating-compelling-youtube-live-content-with-wirecast/"><u>[Updated] 2024 Approved Creating Compelling Youtube Live Content with WireCast</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/44cm44kq44oz44op44kk44oz44gn5yuv55s744ke6zplusz5aow44ks44kt44oj44ox44ob44oj44gz44kl44gf44kb44gu5yq55p6c55qe44gq44og44kv44ol44od44kv44cn/"><u>「オンラインで動画や音声をキャプチャするための効果的なテクニック」</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-connectedviewing-premium-streaming-plus-local-channels-synergy/"><u>2024 Approved ConnectedViewing Premium Streaming + Local Channels Synergy</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-languages-differences-in-computing/"><u>Deciphering the Languages' Differences in Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harmonizing-machines-the-ethical-directive-challenge/"><u>Harmonizing Machines: The Ethical Directive Challenge</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-backtrack-innovation-box/"><u>In 2024, Backtrack Innovation Box</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-captivating-movement-a-guide-to-perfect-canon-timelapses/"><u>In 2024, Captivating Movement A Guide to Perfect Canon Timelapses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-politeness-essential-to-ai-conversations-gpt-alexa-siri/"><u>Is Politeness Essential to AI Conversations? (GPT, Alexa, Siri)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/macbook-pro-vs-macbook-air-showdown-deciding-on-the-ideal-apple-laptop-zdnet/"><u>MacBook Pro Vs. MacBook Air Showdown: Deciding on the Ideal Apple Laptop | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-academic-research-with-ai-tools/"><u>Revolutionizing Academic Research with AI Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unlimited-savvy-instagrams-infinite-save-tool-for-2024/"><u>Unlimited Savvy Instagram's Infinite Save Tool for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal: MacBook Air with M1 Chip at an All-Time Low of $649 – Exclusive Offer From ZDNet!"
-date: 2025-01-08T01:50:55.954Z
-updated: 2025-01-13T00:51:58.679Z
+date: 2025-01-26T10:05:08.307Z
+updated: 2025-01-31T23:41:25.958Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,18 +81,22 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-size-your-videos-youtubes-best-practices-unveiled/"><u>[Updated] How to Size Your Videos YouTube's Best Practices Unveiled</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-guide-to-reestablish-working-airdrop-linkage/"><u>[Updated] Step-by-Step Guide to Reestablish Working Airdrop Linkage</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-new-era-for-domestic-automation-ai-and-chatgpts-alliance/"><u>A New Era for Domestic Automation: AI and ChatGPT's Alliance</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-unresponsive-windows-11-search-engine/"><u>Fixing Unresponsive Windows 11 Search Engine</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/groundbreaking-automated-ocr-system-enables-quick-access-to-over-a-million-historical-health-documents/"><u>Groundbreaking Automated OCR System Enables Quick Access to Over a Million Historical Health Documents</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-cookiebot-for-advanced-online-marketing-success/"><u>Harnessing the Power of Cookiebot for Advanced Online Marketing Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-ai-is-set-to-revolutionize-iot-integration-according-to-abbyy-experts/"><u>How AI Is Set to Revolutionize IoT Integration, According to ABBYY Experts</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-the-abbyy-flexicapture-12-and-winactor-connectivity-abbyy-official-blog/"><u>Introducing the ABBYY FlexiCapture 12 and WinActor Connectivity - ABBYY Official Blog</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leverage-artificial-intelligence-in-ocr-for-advanced-app-features-learn-from-abbyys-masterclass-webinar/"><u>Leverage Artificial Intelligence in OCR for Advanced App Features – Learn From ABBYY's Masterclass Webinar</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-the-free-path-of-fcp-for-2024/"><u>Navigating the Free Path of FCP for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-rise-of-cloud-services-and-potential-hurdles-on-the-horizon-expert-analysis-by-zdnet/"><u>The Rise of Cloud Services and Potential Hurdles on the Horizon - Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastery-of-close-up-engagement-on-the-web/"><u>[New] Mastery of Close-Up Engagement on the Web</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-sims-4-gametime-the-recorders-handbook/"><u>[Updated] In 2024, Sims 4 Gametime The Recorder's Handbook</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-step-by-step-guide-to-maximizing-your-roi-on-spotify-ads/"><u>[Updated] Step-by-Step Guide to Maximizing Your ROI on Spotify Ads</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-guide-to-deepening-digital-conversations/"><u>2024 Approved Step-by-Step Guide to Deepening Digital Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accelerate-writing-processes-with-ai-tools/"><u>Accelerate Writing Processes With AI Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-oppo-reno-8t-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Oppo Reno 8T</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artful-adventures-journey-through-da-vincis-inspirational-prompts/"><u>Artful Adventures: Journey Through Da Vinci’s Inspirational Prompts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-concept-to-application-understanding-ai-transfers/"><u>From Concept to Application: Understanding AI Transfers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-m3-to-m1-navigating-appleebase-upgrade-decision-for-your-macbook-pro-featured-analysis-and-seo-optimized-review-on-zdnet/"><u>From M3 to M1: Navigating Apple'ebase Upgrade Decision for Your MacBook Pro - Featured Analysis and SEO Optimized Review on ZDNet</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitter-archive-navigation-made-simple/"><u>In 2024, Twitter Archive Navigation Made Simple</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-16-revolutionizes-diy-repairs-apple-proves-its-user-friendly-upgrade/"><u>IPhone 16 Revolutionizes DIY Repairs - Apple Proves It’s User-Friendly Upgrade</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/save-big-with-this-dual-function-macbook-charger-stand-and-port-hub-for-only-102-special-offer/"><u>Save Big with This Dual-Function MacBook Charger Stand and Port Hub for Only $102 | Special Offer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-is-bright-for-tablet-displays-a-deep-dive-into-ipad-pros-tandem-oled-screen-with-zdnet-analysis/"><u>The Future Is Bright for Tablet Displays: A Deep Dive Into iPad Pro's Tandem OLED Screen with ZDNet Analysis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-review-of-fujitsu-scansnap-ix1400-enhancing-office-efficiency-for-home-businesses-and-smes/"><u>The Ultimate Review of Fujitsu ScanSnap iX1400: Enhancing Office Efficiency for Home Businesses & SMEs</u></a></li>
+<li><a href="https://win11.techidaily.com/top-tactics-when-your-windows-defense-is-non-functional/"><u>Top Tactics When Your Windows Defense Is Non-Functional</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-the-elusive-msvcr7ec-runtime-library/"><u>Troubleshooting Tips for the Elusive MSVCR7e/C Runtime Library</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-operations-of-autonomous-device-ai-systems/"><u>Unveiling the Operations of Autonomous Device AI Systems</u></a></li>
 </ul></div>
 

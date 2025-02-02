@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Academic Writing: ChatGPT's Role"
-date: 2025-01-17T16:58:53.358Z
-updated: 2025-01-24T16:45:09.260Z
+date: 2025-01-29T18:41:40.619Z
+updated: 2025-02-01T12:12:59.694Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 
 ![Outline of an essay on the history of German Shepherds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/outline-of-an-essay-on-the-history-of-german-shepherds.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Assuming you already have an idea for your project, the first thing you should do before you hop on ChatGPT’s website is to prepare your thesis and outline without using AI. It’s a vital step to making sure the core of your essay actually comes from you.
 
  If you use ChatGPT to prompt an outline for you, it could promote idea laziness, and you will find ChatGPT’s suggestions may have replaced the ones you could have produced on your own. So, get a piece of paper or a blank word processor page and create an outline for your essay.
@@ -49,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 ![ChatGPT's outline on the essay on the history of German Shepherds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-s-outline-on-the-essay-on-the-history-of-german-shepherds.jpeg)
 
  ChatGPT’s result is far more detailed than our outline. Here, you should adopt the parts of ChatGPT’s outline you would like to integrate into your own. Combine the best of the two and flesh out an outline that will guide you best as you write.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Create a ChatGPT Prompt for Each Section
 
@@ -74,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 
  The bottom line is that you should use a reputable source (such as a book from an authority or an official website) to support every important statement you put down. You can also learn how to [use Google to fact-check information](https://www.makeuseof.com/google-fact-check-information/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Use ChatGPT for Examples and Breakdowns
 
  It’s counterproductive to write about ideas that you don’t even understand yourself. When you reach a part of your essay that you don’t properly understand, you should go to ChatGPT and have it broken down for you.
@@ -86,11 +82,11 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 
 ![ChatGPT explaining German Shepher's hip and elbow dysplasia](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-explaining-german-shepher-s-hip-and-elbow-dysplasia.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here we used ChatGPT to break down hip and elbow dysplasia conditions in a way that is easier to understand. And it used analogies like jigsaw puzzles to paint a clearer image of what it might look like.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Write the Essay Yourself
 
@@ -102,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 
  Lastly, ChatGPT doesn’t match the nuanced knowledge of a human professional in heavily specialized fields or journals that need up-to-date information. Reading a book or article by an expert, internalizing it, and writing it in your own words will give you far better results than relying on ChatGPT.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Polish the Style and Citation With ChatGPT
 
  After writing, you can paste portions of your essay and ask ChatGPT to shorten, lengthen, or optimize the style. ChatGPT is good at mimicking popular styles, and you can use that to your advantage. If you want your writing to sound a little more professional, it can help rephrase it.
@@ -109,13 +109,13 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 ![ChatGPT showing the user how to add citations to their essay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-showing-the-user-how-to-add-citations-to-their-essay.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re having trouble with citation styles and how to integrate them into your essay, you can present your essay to ChatGPT, give it your sources, and ask it to weld them together for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Is a Tool, Not a Solution
@@ -143,22 +143,18 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-quick-guide-to-instagram-video-speed-up-mobiledesktop/"><u>[New] 2024 Approved The Quick Guide to Instagram Video Speed-Up (Mobile/Desktop)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-mobile-editing-hacks-for-visual-storytelling/"><u>[New] In 2024, Mobile Editing Hacks for Visual Storytelling</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1715860527630-updated-internal-recorder-usage-for-capturing-screens-on-mate-series-and-p-series-mate-1020-p2010/"><u>[Updated] Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10).</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/35-deal-alert-the-ultimate-wireless-magnetic-charger-for-iphones-now-available/"><u>$35 Deal Alert: The Ultimate Wireless Magnetic Charger for iPhones, Now Available !</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-maximize-your-android-experience-with-these-top-5-ps2-games-apps/"><u>2024 Approved Maximize Your Android Experience with These Top 5 PS2 Games Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-leading-mac-models-according-to-experts/"><u>Discover the Leading Mac Models According to Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-win-conversations-the-freedgpt-method/"><u>Elevate Win Conversations: The FreedGPT Method</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embracing-nightshade-techniques-to-safeguard-originality-from-ai/"><u>Embracing Nightshade Techniques to Safeguard Originality From AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-guide-how-to-effortlessly-set-up-your-new-ipad-insights-from-zdnet/"><u>Essential Guide: How to Effortlessly Set Up Your New iPad - Insights From ZDNet</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-changefake-your-xiaomi-redmi-note-12-pro-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Xiaomi Redmi Note 12 Pro 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/huge-labor-day-savings-get-the-new-2022-ipad-pro-up-to-700-cheaper-on-zdnet/"><u>Huge Labor Day Savings: Get the New 2022 iPad Pro Up To $700 Cheaper on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/keep-your-apple-devices-powered-and-protected-with-our-top-pick-of-3-in-1-magsafe-chargers-innovative-tech-insights/"><u>Keep Your Apple Devices Powered & Protected with Our Top Pick of 3-in-1 MagSafe Chargers | Innovative Tech Insights</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/kostenloser-wmv-zu-mp4-konverter-hochstens-2-qualitatsverlust-garantiert/"><u>Kostenloser WMV Zu MP4 Konverter - Höchstens 2% Qualitätsverlust Garantiert</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-final-cut-pro-essentials-how-to-create-engaging-videos-with-the-ken-burns-effect/"><u>New 2024 Approved Final Cut Pro Essentials How to Create Engaging Videos with the Ken Burns Effect</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-lol-downloading-problem-fix-your-slow-riot-client/"><u>Solving the LoL Downloading Problem: Fix Your Slow Riot Client</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-your-iphone-why-it-wont-ring-and-how-to-fix-it/"><u>Troubleshooting Your iPhone: Why It Won't Ring and How to Fix It</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uniting-chatgpt-and-iphones-siri-a-guide/"><u>Uniting ChatGPT & iPhone's Siri: A Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-decoding-the-usefulness-what-does-fbs-blue-icon-mean/"><u>[New] Decoding the Usefulness What Does FB’s Blue Icon Mean?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-efficient-strategies-for-deleting-an-overdue-linkedin-profile/"><u>[Updated] In 2024, Efficient Strategies for Deleting an Overdue LinkedIn Profile</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-streamlining-your-subtitles-top-10-web-based-editors-reviewed/"><u>[Updated] In 2024, Streamlining Your Subtitles Top 10 Web-Based Editors Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-news-scam-proof-twitters-verified-journey/"><u>Breaking News! Scam-Proof Twitter's Verified Journey</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-will-apple-outshine-microsoft-google-in-artificial-intelligence-at-upcoming-wwdc-202c-analyst-predictions-siliconinsight/"><u>How Will Apple Outshine Microsoft, Google in Artificial Intelligence at Upcoming WWDC 202C? Analyst Predictions - SiliconInsight</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-starting-a-podcast-financial-planning-essentials/"><u>In 2024, Starting a Podcast Financial Planning Essentials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-development-apples-affordable-augmented-reality-spectacles-insights-from-zdnet/"><u>In Development: Apple's Affordable Augmented Reality Spectacles - Insights From ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-work-around-microsoft-verified-app-restrictions/"><u>Methods to Work Around Microsoft-Verified App Restrictions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-your-android-experience-with-ai-driven-bing/"><u>Optimizing Your Android Experience with AI-Driven Bing</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/optimizing-your-computers-performance-top-techniques-for-faster-processing-yl-computing/"><u>Optimizing Your Computer's Performance: Top Techniques for Faster Processing - YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-leap-how-apples-realm-tech-surpasses-gpt-with-advanced-on-device-intelligence/"><u>Revolutionary Leap: How Apple's RealM Tech Surpasses GPT-# with Advanced On-Device Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-best-apple-watch-bands-of-2024-expert-ratings-and-in-depth-analysis/"><u>Ultimate Guide to the Best Apple Watch Bands of 2024 - Expert Ratings and In-Depth Analysis</u></a></li>
 </ul></div>
 

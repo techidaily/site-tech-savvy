@@ -1,7 +1,7 @@
 ---
 title: "AI Bot Basics: Understanding Their Rising Popularity"
-date: 2025-01-06T23:54:08.030Z
-updated: 2025-01-12T23:56:19.931Z
+date: 2025-01-28T05:51:29.978Z
+updated: 2025-02-01T02:26:11.650Z
 tags:
   - chatgpt
   - open-ai
@@ -26,15 +26,15 @@ thumbnail: https://thmb.techidaily.com/428d79f8e22b19bf05f42dd0977639aed1e84dacf
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * AI chatbots have evolved from rudimentary rule-based programs in the 1960s to sophisticated conversational agents that use natural language processing and machine learning.
 * They can analyze human language in all its nuances, learn from massive datasets, generate responses on the fly, possess vast knowledge databases, and even customize their personalities.
 * AI chatbots are becoming popular due to their ability to provide quick and accurate information, assist in various tasks, practice language skills, improve writing, teach coding, and provide entertainment. However, there are limitations and challenges, including the potential for generating inaccurate information and privacy concerns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are AI Chatbots?
 
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/428d79f8e22b19bf05f42dd0977639aed1e84dacf
  Major players include [ChatGPT, Bard, BingAI](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/), and Perplexity AI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5 Key Features of AI Chatbots
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/428d79f8e22b19bf05f42dd0977639aed1e84dacf
 ![Robot writing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-tech-explained-robot-writing.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You have to admit; today's AI chatbots are pretty slick when conversing. Unlike the clunky bots from back in the day, these modern AI-powered chatters have some nifty features that allow them to keep up their end of a conversation like a real human. Let's look at some of them:
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/428d79f8e22b19bf05f42dd0977639aed1e84dacf
  As we've established, AI chatbots have come a long way from the rigidly scripted bots of the past. And as artificial intelligence keep advancing, they're sure to get even chattier and more helpful. But for now, let's explore why these clever bots are blowing up so fast...
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why AI Chatbots Are Becoming So Popular
@@ -108,10 +108,6 @@ Image Credit: Fullvector/[freepik](https://www.freepik.com/free-vector/artificia
 
 ![Cover image of a man playing chess against a robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cover-image-of-a-man-playing-chess-against-a-robot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  AI chatbots may be the talk of the town, but they aren't perfect.
 
  One of the biggest challenges is the tendency to hallucinate or make up information they don't actually have knowledge about. AI chatbots will attempt to generate plausible-sounding but inaccurate or nonsensical responses when prompted with questions beyond their training data. This can be dangerous if users assume the chatbot's responses are factual. There have even been instances of generative AI chatbots inventing precedents for legal cases!
@@ -127,6 +123,10 @@ Image Credit: Fullvector/[freepik](https://www.freepik.com/free-vector/artificia
 [Security and privacy risks around AI chatbots'](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) data collection have also sparked controversies. Critics have raised concerns about logged private conversations and potentially inspected without sufficient user knowledge or consent.
 
  And like any technology, [AI chatbots carry risks of misuse in the wrong hands](http://www.makeuseof.com/does-chatgpt-have-security-risks-or-issues/). Their ability to generate believable text means they could be used to spread misinformation, plagiarize content, engage in fraud, or produce harmful instructions if not governed carefully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Embrace AI Chatbots Without Losing the Human Touch
 
@@ -153,16 +153,14 @@ Image Credit: Fullvector/[freepik](https://www.freepik.com/free-vector/artificia
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-choosing-an-original-channel-moniker-a-guide-for-filmmakers-with-filmora/"><u>[Updated] Choosing an Original Channel Moniker A Guide for Filmmakers with Filmora</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-evolutionary-saga-of-vr-worlds-for-2024/"><u>[Updated] The Evolutionary Saga of VR Worlds for 2024</u></a></li>
-<li><a href="https://win-popular.techidaily.com/advanced-ui-framework-pro-high-quality-bootstrap-5-design-toolkit-with-creative-tim-features/"><u>Advanced UI Framework Pro: High-Quality Bootstrap 5 Design Toolkit with Creative Tim Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-plus-revolutionizing-the-way-you-learn-a-new-language/"><u>ChatGPT Plus: Revolutionizing the Way You Learn a New Language</u></a></li>
-<li><a href="https://driver-error.techidaily.com/disk-management-solutions-for-win11-users/"><u>Disk Management Solutions for Win11 Users</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-the-role-of-burst-mode-in-action-sports-filming/"><u>In 2024, The Role of Burst Mode in Action Sports Filming</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openai-countermeasure-against-gpt-generated-deceptions/"><u>OpenAI Countermeasure Against GPT-Generated Deceptions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-text-entry-integrating-bing-ai-on-android-devices/"><u>Revolutionize Text Entry: Integrating Bing AI on Android Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-chatbot-combat-determining-supreme-supremacy/"><u>The ChatBot Combat: Determining Supreme Supremacy</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-navigating-video-chat-zoom-on-xbox/"><u>[New] Navigating Video Chat Zoom on Xbox</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-effortlessly-stream-mp3-to-youtube-with-3-key-steps/"><u>[Updated] 2024 Approved Effortlessly Stream MP3 to YouTube with 3 Key Steps</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leapfrogging-over-chatgpt-with-new-tech/"><u>Leapfrogging Over ChatGPT with New Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/my-podcast-blueprint-powered-by-ai/"><u>My Podcast Blueprint, Powered by AI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-making-windows-sound-service-reboot-auto/"><u>Tips & Tricks: Making Windows Sound Service Reboot Auto</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-compact-tablets-comprehensive-testing-and-reviews-by-tech-experts-zdnets-insight/"><u>Top-Rated Compact Tablets : Comprehensive Testing & Reviews by Tech Experts - ZDNet's Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-chatgpt-tips-for-peak-domestic-productivity/"><u>Transformative ChatGPT Tips for Peak Domestic Productivity</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/vrecorder-your-quick-route-to-high-quality-sound-system-for-2024/"><u>VRecorder Your Quick Route to High-Quality Sound System for 2024</u></a></li>
 </ul></div>
 

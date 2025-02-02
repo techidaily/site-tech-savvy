@@ -1,7 +1,7 @@
 ---
 title: "Scripted Sagas: Your Guide to ChatGPT Roleplay Games"
-date: 2024-08-29T19:40:05.084Z
-updated: 2024-08-30T19:40:05.084Z
+date: 2025-01-25T17:20:30.102Z
+updated: 2025-02-01T09:31:26.994Z
 tags:
   - chatgpt
   - open-ai
@@ -110,8 +110,9 @@ thumbnail: https://thmb.techidaily.com/00e6416ee52e959bd4b417b088ce280ff84f1d381
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Craft the Story, Setting, and NPCs
 
  How you craft your prompt on ChatGPT will determine what your experience will be like—and the next thing you should consider for your game’s prompt is the setting and story you would like. For instance, we used a world inspired by the Elder Scrolls as the basis of our world in this one.
@@ -133,14 +134,11 @@ thumbnail: https://thmb.techidaily.com/00e6416ee52e959bd4b417b088ce280ff84f1d381
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Add Combat and Magic Rules
 
  As with any adventure [RPG](https://www.makeuseof.com/what-are-rpgs-role-playing-games/), combat and magic are big parts of the experience. If you don’t add rules to guide this part of your game, you’ll end up with a game you can easily cheese through. It doesn’t help that ChatGPT likes to favor the user in its narratives, and it will generally make things go your way. Here’s what our rules look like:
@@ -167,6 +165,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -181,9 +183,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
@@ -193,8 +192,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that [GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/).
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Complete ChatGPT RPG Prompt
 
  We've combined everything and put it here for you to copy, so you can start your own game immediately.
@@ -294,8 +294,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
@@ -306,14 +307,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  This article will show you how to use ChatGPT’s storytelling prowess to play a text adventure RPG game on the chat. We’ll work you through how to create a prompt to achieve the kind of RPG you want. In the end, we’ll put the finished prompt so you can copy it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -322,4 +320,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-wizards-whisper-are-voice-changer-apps-actual-magic-unveil-other-choices/"><u>[New] 2024 Approved Wizard's Whisper Are Voice Changer Apps Actual Magic? Unveil Other Choices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-five-mac-friendly-strategies-for-documenting-minecraft-games/"><u>[New] In 2024, Five Mac-Friendly Strategies for Documenting Minecraft Games</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-streamline-your-virtual-sessions-with-these-top-10-tools/"><u>[Updated] 2024 Approved Streamline Your Virtual Sessions with These Top 10 Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-exceptional-hd-video-documentation-gear/"><u>[Updated] Exceptional HD Video Documentation Gear</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-social-media-live-showdown-facebook-vs-youtube-and-twitter-periscope/"><u>2024 Approved Social Media Live Showdown Facebook Vs. YouTube & Twitter Periscope</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-legalities-unpacked/"><u>ChatGPT Legalities Unpacked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/detecting-downtime-in-chatgpt-services/"><u>Detecting Downtime in ChatGPT Services</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-create-a-digital-signature-online-for-dot-file-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Create a Digital Signature Online for .dot file document</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-run-an-unrestricted-chatgpt-alternative-on-windows-with-freedomgpt/"><u>How to Run an Unrestricted ChatGPT Alternative on Windows With FreedomGPT</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leadership-change-at-openai-gpts-future-hangs/"><u>Leadership Change at OpenAI - GPT's Future Hangs</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-powerhouse-a-compilation-of-top-9-ps5-ideas/"><u>Next Gen Powerhouse: A Compilation of Top 9 PS5 Ideas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prestigious-6-colossi-massive-language-titans/"><u>Prestigious 6 Colossi: Massive Language Titans</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-realme-narzo-n55-by-fonelab-android-recover-data/"><u>Recover lost data from Realme Narzo N55</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-on-setting-up-and-personalizing-your-apple-watch-zdnet/"><u>Step-by-Step Tutorial on Setting Up and Personalizing Your Apple Watch (ZDNet)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-non-apple-non-tile-companion-exploring-the-leading-alternative-wallet-airtags-on-the-market/"><u>Top Non-Apple, Non-Tile Companion: Exploring the Leading Alternative Wallet AirTags on the Market</u></a></li>
+</ul></div>
 

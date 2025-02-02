@@ -1,7 +1,7 @@
 ---
 title: "GPT's Future Foresight: Outshining Magazine Astrology?"
-date: 2025-01-19T23:34:52.847Z
-updated: 2025-01-24T22:01:20.088Z
+date: 2025-01-31T07:34:23.768Z
+updated: 2025-01-31T23:24:41.895Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,13 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Customize Your ChatGPT Fortune-Teller…
 
 ![Hands Over Fortune Telling Crystal Ball](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hands-over-fortune-telling-crystal-ball.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortune-tellers have a particular mystique about them, which you'll instantly recognize from the movies.
 
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 > "Greetings, dear seeker of knowledge. I am Agnes, a wise fortune teller, here to unravel the mysteries that lie before you. Ask your question, and I shall peer into the veiled realm of destiny to provide you with the guidance you seek."
 
  Generating this persona was simplicity itself, prompting ChatGPT to "Respond the following as if you are a wise fortune teller."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Choose Your ChatGPT Fortune Telling Questions Wisely
 
@@ -57,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
  What follows is her prediction and how it played out in real life.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Well Did ChatGPT Predict the Future?
@@ -65,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 ![A Woman Opening the Card on the Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-woman-opening-the-card-on-the-table.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  My prompt to Agnes was: "Today is June 1st, 2023\. Please do a reading for the next two weeks."
@@ -109,11 +113,7 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 ![chatgpt fortune transcript](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-fortune-transcript.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Predicted the Future as Well as Any Magazine Horoscope
@@ -143,24 +143,18 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-perfect-your-strategy-top-rated-techniques-for-video-marketing/"><u>[New] 2024 Approved Perfect Your Strategy Top-Rated Techniques for Video Marketing</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-beginners-guide-to-premium-gopro-accessories-for-2024/"><u>[New] Beginner’s Guide to Premium GoPro Accessories for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-visual-verdict-sj6-clash-with-xiaomis-yi-4k-geniuses/"><u>[New] In 2024, Visual Verdict SJ6 Clash with Xiaomi’s Yi 4K Geniuses</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-premiere-mobile-and-desktop-discord-capture-solutions-for-2024/"><u>[New] Premiere Mobile & Desktop Discord Capture Solutions for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-echoes-in-motion-mac-for-sound-artists/"><u>[Updated] 2024 Approved Echoes in Motion Mac for Sound Artists</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-record-tv-shows-on-windows-pc-with-free-video-recording-software/"><u>[Updated] How to Record TV Shows on Windows PC with Free Video Recording Software?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-tips-to-make-your-instagram-video-goes-viral/"><u>[Updated] Tips to Make Your Instagram Video Goes Viral</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-time-to-skip-4-apple-devices-underperforming-according-to-zdnet-reviews/"><u>Best Time to Skip: 4 Apple Devices Underperforming According to ZDNet Reviews</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-your-facebook-updates-with-chatgpt-insights/"><u>Boost Your Facebook Updates with ChatGPT Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbot-wisdom-for-youths-top-5-strategies-for-safe-interaction/"><u>ChatBot Wisdom for Youths: Top 5 Strategies for Safe Interaction</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-trust-in-digital-money-guides-chatgpt-and-bard/"><u>Deciphering Trust in Digital Money Guides: ChatGPT & Bard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosis-and-repair-of-electricity-overloads-in-network-connection-port-areas/"><u>Diagnosis & Repair of Electricity Overloads in Network Connection Port Areas</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diy-solutions-for-deactivating-your-sim-addressing-mm-2-setup-failures/"><u>DIY Solutions for Deactivating Your SIM: Addressing MM 2 Setup Failures</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-restrictions-and-their-social-ramifications-on-chatbot-use/"><u>Exploring Restrictions and Their Social Ramifications on Chatbot Use</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-freedom-in-meditation-tracks/"><u>In 2024, Freedom in Meditation Tracks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-maintenance-revolution-apple-approves-repaired-components-for-select-models-insights-from-zdnet/"><u>IPhone Maintenance Revolution: Apple Approves Repaired Components for Select Models - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/labor-day-bargain-alert-get-your-hands-on-the-apple-pencil-2nd-gen-for-just-95-dollars-shop-now-with-zdnet-exclusive-offer/"><u>Labor Day Bargain Alert: Get Your Hands on the Apple Pencil (2Nd Gen) for Just 95 Dollars – Shop Now with ZDNET Exclusive Offer!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-horizons-registering-for-cutting-edge-plugin-updates/"><u>New Horizons: Registering for Cutting-Edge Plugin Updates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-new-possibilities-how-apples-enhanced-iphone-nfc-integration-with-third-party-apps-transforms-your-experience/"><u>Unlock New Possibilities: How Apple's Enhanced iPhone NFC Integration with Third-Party Apps Transforms Your Experience</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-essential-tips-for-producing-high-quality-youtube-videos-for-2024/"><u>[New] Essential Tips for Producing High-Quality YouTube Videos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-stepwise-protocols-for-capturing-superior-vimeo-content-for-2024/"><u>[Updated] Stepwise Protocols for Capturing Superior Vimeo Content for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-honor-play-7t-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ai-the-strong-versus-the-subdued/"><u>Exploring AI: The Strong versus the Subdued</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/get-stellar-pix-pilot-8-the-ultimate-solution-for-image-repair-on-windows/"><u>Get Stellar Pix-Pilot 8: The Ultimate Solution for Image Repair on Windows!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to Find iSpoofer Pro Activation Key On Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pause-dont-compare-unveiling-ai-distinctions/"><u>Pause, Don't Compare: Unveiling AI Distinctions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-setup-guide-obtain-essential-drivers-for-your-acer-predator-xb271hu/"><u>Quick Setup Guide: Obtain Essential Drivers for Your Acer Predator XB271HU</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/setting-up-alerts-activating-slack-notifications-for-iphone-and-apple-watch-a-step-by-step-guide/"><u>Setting Up Alerts: Activating Slack Notifications for iPhone and Apple Watch - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shedding-light-on-ais-black-box-secrets/"><u>Shedding Light on AI's Black Box Secrets</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/streaming-service-showdown-facebook-vs-youtube-vs-twitvision-for-2024/"><u>Streaming Service Showdown Facebook Vs. YouTube Vs. TwitVision for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-adobe-premiere-soundtrack-guide/"><u>The Ultimate Adobe Premiere Soundtrack Guide</u></a></li>
 </ul></div>
 

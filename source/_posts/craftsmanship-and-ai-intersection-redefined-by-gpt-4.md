@@ -1,7 +1,7 @@
 ---
 title: Craftsmanship and AI Intersection Redefined by GPT-4
-date: 2024-08-25T17:38:53.583Z
-updated: 2024-08-26T17:38:53.583Z
+date: 2025-01-30T22:56:08.484Z
+updated: 2025-01-31T18:57:04.351Z
 tags:
   - chatgpt
   - open-ai
@@ -25,9 +25,17 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 
  Cloud-based data analysis by GPT-4, integrated with microcontroller-based platforms like Arduino, will offer DIYers a more productive approach to product development.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Multi-Modal AI and DIY: What Is a Multi-Modal AI?
 
 ![An electric bulb on a black chalkboard with chat bubbles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bulb-on-chalkboard.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Multi-modal AI refers to AI models that can process and understand different types of data, such as text, images, and videos. Get this, if GPT-4 becomes a multi-modal AI, it will be a game changer for DIY enthusiasts.
 
@@ -35,52 +43,46 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 
  It could also provide step-by-step instructions that incorporate both text and visual cues, making it easier for users to follow along. With multi-modal capabilities, GPT-4 could open up a whole new world of possibilities for DIY enthusiasts looking to take on more complex projects.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Will GPT-4 Speed Up DIY Development?
 
 ![Woman working on a circuit board](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/woman-working-on-a-circuit-board.jpg)
 
  As the field of NLP continues to evolve, the release of GPT-4 is highly anticipated due to its potential to accelerate DIY development.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Advanced Language Processing Capabilities
 
  Large-scale language generation is a feature that will allow the generation of large, coherent, and accurate texts that provide informative responses to DIY enthusiasts. A multilingual support feature will also diversify the use of the language model by the DIY community, hence promoting collaboration and quickening the formation and implementation of ideas.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### AI-Based IDE Plugins
 
  The integration of AI tools and extensions in IDEs is already taking off with modules such as [GitHub Copilot](https://github.com/features/copilot). GitHub Copilot is a tool from GitHub that is powered by [OpenAI Codex](https://openai.com/blog/openai-codex/), a GPT3-based model.
 
  Such tools being available in development environments aid in the generation of flawless code, and speed up the process of writing code for complex DIY projects—not forgetting debugging features.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### Integration of Machine-Learning Algorithms
 
  Integrating algorithms can improve model response relevance and accuracy, leading to personalized DIY recommendations based on user behavior. ML algorithms can recognize DIY-related keywords and tailor user-specific responses, easing the product research and development process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Future of Microcontroller-Based Platforms
 
 ![A white robot assistant with a tablet with user interface attached to the chest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/white-robot-assistant.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
  Microcontroller-based platforms could benefit greatly from advancements in AI models such as ChatGPT4\. Integrating these models can expand the processing power and memory of the platforms, leading to more accurate data analysis from embedded and IoT systems. Speaking of this, we've covered many [Arduino IoT projects](https://www.makeuseof.com/best-arduino-iot-projects/) you can try without waiting for GPT advancements.
 
  Predictive maintenance measures could also be developed using this data. In the future, lightweight AI versions could even be integrated into devices for DIY projects using compression techniques. Generally, DIY partakers will soon be able to efficiently ideate, research, implement, and modify projects.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bringing AI to the DIY World
 
  GPT-4 will undoubtedly transform the DIY industry. Generation of personalized and accurate responses, multilingual support, virtual DIY assistance, coding assistant, and debugging features are just the tip of the iceberg of the capabilities the upcoming language model has to offer the field.
@@ -91,14 +93,11 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 
  Cloud-based data analysis by GPT-4, integrated with microcontroller-based platforms like Arduino, will offer DIYers a more productive approach to product development.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -107,4 +106,19 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-maximize-style-with-premium-border-options-for-ig-posts/"><u>[New] 2024 Approved Maximize Style with Premium Border Options for IG Posts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-cross-platform-calendar-coordination-zoom-to-your-devices/"><u>[New] In 2024, Cross-Platform Calendar Coordination Zoom to Your Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-maximizing-instagram-video-lengths-a-step-by-step-guide/"><u>[New] Maximizing Instagram Video Lengths A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-90s-chuckles-dissecting-the-vhs-of-the-goofies/"><u>2024 Approved '90S Chuckles Dissecting the VHS of The Goofies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adopting-the-future-of-conversational-ai-four-points-for-claude-3/"><u>Adopting the Future of Conversational AI: Four Points for Claude 3</u></a></li>
+<li><a href="https://article-helps.techidaily.com/advanced-techniques-to-leverage-windows-11-pro-for-2024/"><u>Advanced Techniques to Leverage Windows 11 Pro for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/auditory-commands-for-optimized-chatgpt-engagement/"><u>Auditory Commands for Optimized ChatGPT Engagement</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-gaming-and-work-experience-by-updating-amd-drivers-in-windows-versions-10-11-and-navigating-to-the-microsoft-store-or-manufacturers-website-for-driv167/"><u>Enhance Gaming and Work Experience by Updating AMD Drivers in Windows Versions (10, 11 & Navigating to the Microsoft Store or Manufacturer's Website for Driver Software.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/privacy-expertise-with-proton-vpn-plugin-for-browsers/"><u>Privacy Expertise with Proton VPN Plugin for Browsers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/set-up-llama-2-on-your-device-a-comprehensive-tutorial/"><u>Set Up Llama 2 on Your Device: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011119216-why-isnt-football-manager-2022-out-yet-answers-and-solutions-inside/"><u>Why Isn't Football Manager 2022 Out Yet? Answers & Solutions Inside!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-in-depth-analysis-microsoft-surface-pro-8-the-ultimate-device-for-professionals/"><u>ZDNet's In-Depth Analysis: Microsoft Surface Pro 8 - The Ultimate Device for Professionals</u></a></li>
+</ul></div>
 

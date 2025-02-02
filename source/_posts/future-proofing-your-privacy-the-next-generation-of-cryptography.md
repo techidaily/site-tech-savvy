@@ -1,7 +1,7 @@
 ---
 title: "Future-Proofing Your Privacy: The Next Generation of Cryptography"
-date: 2024-08-29T19:38:25.126Z
-updated: 2024-08-30T19:38:25.126Z
+date: 2025-01-25T01:45:16.578Z
+updated: 2025-01-31T20:40:07.799Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
 ## Future-Proofing Your Privacy: The Next Generation of Cryptography
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Harvest Now, Decrypt Later attacks involve storing encrypted data for the future, when the techology exists to decrypt it.
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 * Companies are implementing post-quantum encryption standards, like Apple's PQ3, to secure data against future attacks and stay ahead of potential breaches.
 
  Encryption keeps data safe, even when it falls into the wrong hands. But what happens in the future, when the available computational power renders current encryption methods obsolete? Is your personal data at risk? Let's explore.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What’s a Harvest Now, Decrypt Later Attack?
 
@@ -32,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
  Harvest Now, Decrypt Later is like stealing the whole safe, rather than just the contents of the safe, in the hope that you'll eventually get the right tools to break it open. And those tools are coming, since the cryptographic algorithms we’ve come to rely on won’t be safe forever.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Looming Threat of Quantum Computing
 
  Though computer hardware continues to improve year-on-year, [Moore’s Law is dead](https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-huawei-by-drfone-android-unlock-remove-google-frp/). This is the idea that transistor density doubles every two years, effectively doubling performance (or halving cost). We are now reaching the limits of how small these transistors can be. The speed of advances has slowed and, though there’s more to performance than how many transistors can fit on a single chip, so too has the pace of improvement.
@@ -49,8 +58,9 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
  For now, it’s a waiting game. For existing data breaches, where encrypted volumes have already been captured and are secured with old algorithms, time is running out. But just as computers move forward, so too does cryptography. If the problem is too easy to solve, the solution is to make the problem harder.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Are Companies Protecting Against Future Attacks?
 
  Post-quantum cryptography hopes to safeguard encryption algorithms against the threats posed by quantum computers. The idea is to design cryptographic problems that are suitably difficult to solve, even with computers that are vastly more powerful than those we currently have access to.
@@ -65,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
 ![A diagram comparing Apple PQ3 with other post-quantum algorithms.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-04-at-15-04-57.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Apple
 
  Companies like [IBM](https://www.ibm.com/quantum/quantum-safe) already offer quantum-safe cryptographic testing for enterprise clients and even offer to shore up protection against future attacks. Governments around the world are among the first to start implementing these safeguards.
@@ -75,8 +82,9 @@ Apple
  There’s a real incentive to put many more padlocks on the door than is necessary right now. The better we protect current data, the better it will be protected in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Encryption Is An Ever-Evolving Technology
 
  Like many aspects of technology, encryption is a game of cat and mouse. As computers become more powerful and capable, security must evolve to stay one step ahead. This will always be the case.
@@ -89,8 +97,6 @@ Apple
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +104,21 @@ Apple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-what-hidden-beats-within-facebook-are-you-overlooking/"><u>[New] 2024 Approved What Hidden Beats Within Facebook Are You Overlooking?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-quietude-in-a-click-the-ultimate-calm-list/"><u>[Updated] 2024 Approved Quietude in a Click The Ultimate Calm List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-freeze-frame-creation-through-stabilized-capture/"><u>2024 Approved Freeze-Frame Creation Through Stabilized Capture</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-unleashed-eight-innovative-ways-to-advance-your-business-operations/"><u>ChatGPT Unleashed: Eight Innovative Ways to Advance Your Business Operations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-apples-innovative-3d-spatial-videos-on-your-meta-quest-3-a-step-by-step-guide/"><u>Explore Apple's Innovative 3D Spatial Videos on Your Meta Quest 3: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-ask-chatgpt-to-help-modify-your-car/"><u>How to Ask ChatGPT to Help Modify Your Car</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-11-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From Apple iPhone 11?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-se-2020-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone SE (2020) to Computer? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-filmoras-recipe-for-captivating-youtube-trailers/"><u>In 2024, Filmora’s Recipe for Captivating YouTube Trailers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-move-top-secrets-for-flawlessly-upgrading-to-your-new-iphone-zdnets-how-to-guide/"><u>Mastering the Move: Top Secrets for Flawlessly Upgrading to Your New iPhone | ZDNet's How-To Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-a-user-account-from-windows-10-with-ease/"><u>Step-by-Step Guide: Removing a User Account From Windows 10 with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uniting-users-with-distinctive-chatbot-experiences/"><u>Uniting Users with Distinctive Chatbot Experiences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-release-date-everything-you-need-to-know-about-the-latest-airpods-how-and-where-to-place-your-preorder/"><u>Upcoming Release Date: Everything You Need to Know About the Latest AirPods - How & Where to Place Your Preorder</u></a></li>
+</ul></div>
 

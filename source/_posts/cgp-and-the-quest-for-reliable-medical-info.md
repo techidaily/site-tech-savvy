@@ -1,7 +1,7 @@
 ---
 title: CGP and the Quest for Reliable Medical Info
-date: 2025-01-15T16:56:40.738Z
-updated: 2025-01-18T16:18:36.365Z
+date: 2025-01-26T18:38:17.143Z
+updated: 2025-02-01T00:05:01.531Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT's Potential for Improving Wellness
 
  When it comes to wellness information, there are several benefits of using an AI tool, such as ChatGPT:
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 * ChatGPT is easy to use. If you can think and type, you can use ChatGPT. Eventually, as tech companies integrate these systems into voice assistants, you might not even need to do the typing! This makes ChatGPT accessible to people of varying ages and technical abilities.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Examples of How ChatGPT Can Be Used for Health and Fitness Advice
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 ![Screenshot of ChatGPT giving health advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-2023-02-09-at-1-48-14-pm.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It can also be used to generate advice on weekly meal plans based on your body type, sex, activity level, age, food preferences, and health goals (whether you want to lose weight, gain muscle, or something else).
@@ -58,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
  When it comes to sleeping better, the AI model can offer you tips and recommendations for improving sleep hygiene, such as helping you create a wind-down routine or offering advice on how to create a relaxing, sleep-inducing environment.
 
  You could also use ChatGPT to provide information on how to maintain a healthy lifestyle, including how to protect yourself from illness. Or you can ask it to make recommendations for cancer screenings based on your factors (e.g. age, sex, and family history).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Limitations of Relying on ChatGPT for Health and Fitness Advice
 
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
  If you're going to use ChatGPT as one source of health and fitness advice, there are some tips and tricks you can follow to improve the quality of information you receive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips and Tricks for Improving Relevance of Health and Fitness Recommendations
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 * **Be specific** . The information provided by ChatGPT will be as specific as you ask it to be. For instance, if you ask it simple, single-sentence questions such as, "How can I lose weight?" you'll get general responses. However, if you figure out how to focus the model with parameters and guidelines, it is more likely to provide the advice you can use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can You Use ChatGPT to Get Trustworthy Health Information?
@@ -113,20 +113,24 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-detailed-guide-to-free-screen-recorders-for-2024/"><u>[Updated] Detailed Guide to Free Screen Recorders for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mef-jpegmovavi/"><u>無限傳輸 MEF為 JPEG：Movavi 優化網上格式更改工具</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/accelerate-your-hr-workflow-with-these-5-chatgpt-techniques/"><u>Accelerate Your HR Workflow with These 5 ChatGPT Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversion-gratuita-de-archivos-musicales-transforma-tu-aif-en-un-formato-m4r-por-medio-de-movavi/"><u>Conversión Gratuita De Archivos Musicales: Transforma Tu AIF en Un Formato M4R Por Medio De Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/convertissez-un-fichier-aiff-au-format-mp3-gratuitement-en-ligne-avec-movavi/"><u>Convertissez Un Fichier AIFF Au Format MP3 Gratuitement - en Ligne Avec Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-converter-convert-flv-to-asf-with-movavi/"><u>Free Online Converter - Convert FLV to ASF with Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratis-conversione-da-oggv-a-webm-online-trimix-di-movavi/"><u>Gratis Conversione Da OGGV a WebM - OnLine Trimix Di Movavi</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-honor-x9a-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor X9a Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-gt-5-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme GT 5 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-public-domain-zen-soundscape/"><u>In 2024, Public Domain Zen Soundscape</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/online-file-conversion-tool-by-movavi-effortless-transformation-of-webm-to-m4v-for-free/"><u>Online File Conversion Tool by Movavi: Effortless Transformation of WEBM to M4V for Free!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-secret-art-of-hidden-streaming-instagrams-anonymous-spectators-guide/"><u>The Secret Art of Hidden Streaming Instagram's Anonymous Spectators Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rw2-jpg-javascript/"><u>무료 RW2 JPG 변환기 – 게스트비젼 이미지를 JavaSCRIPT을 사용하여 빠르고 신중한 방식으로 전환</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-navigating-through-windows-11s-new-frontier/"><u>[New] In 2024, Navigating Through Windows 11'S New Frontier</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-innovative-approaches-to-powerpoint-video-capture/"><u>2024 Approved Innovative Approaches to PowerPoint Video Capture</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/android-users-handbook-turning-off-intrusive-amber-alerts/"><u>Android User's Handbook: Turning Off Intrusive Amber Alerts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/churn-memetic-content-for-gif-hub-for-2024/"><u>Churn Memetic Content for GIF Hub for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystified-the-turing-test-and-its-potential-disruption/"><u>Demystified: The Turing Test & Its Potential Disruption</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-machines-potential-for-deception/"><u>Generative Machines: Potential for Deception</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/has-openais-control-over-gpt-eroded/"><u>Has OpenAI's Control Over GPT Eroded?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-overcoming-common-airdrop-failures-on-ios-and-macos-systems/"><u>In 2024, Overcoming Common Airdrop Failures on iOS and macOS Systems</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-perfection-on-ios-and-android-choose-the-top-8-schedulers/"><u>Instagram Perfection on iOS & Android - Choose the Top 8 Schedulers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-profits-with-windows-11-a-closer-look/"><u>Making Profits with Windows 11 - A Closer Look</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-profitable-proposal-writing-via-gpt-powered-methods/"><u>Pioneering Profitable Proposal Writing via GPT-Powered Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pixel-6-pro-versus-iphone-13-pro-choosing-the-ultimate-high-end-smartphone-expert-comparison/"><u>Pixel 6 Pro Versus iPhone 13 Pro: Choosing the Ultimate High-End Smartphone – Expert Comparison</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-esr-qui2-series-ultra-fast-magsafe-charging-for-iphone-16s-with-cooler-performance-as-reviewed-on-zdnet/"><u>Revolutionary ESR Qui2 Series: Ultra-Fast MagSafe Charging for iPhone 16S With Cooler Performance, as Reviewed on ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-issues-a-step-by-step-guide-to-restoring-sound-on-discord/"><u>Solving Audio Issues: A Step-by-Step Guide to Restoring Sound on Discord</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/transforming-scripted-words-into-powerful-video-soundtracks/"><u>Transforming Scripted Words Into Powerful Video Soundtracks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-tecno-camon-20-by-drfone-android/"><u>Universal Unlock Pattern for Tecno Camon 20</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-apples-latest-ai-breakthrough-successful-progress-amid-areas-requiring-improvement-zdnet/"><u>Unpacking Apple's Latest AI Breakthrough: Successful Progress Amid Areas Requiring Improvement | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-hidden-price-of-free-phones-from-wireless-providers-what-you-need-to-know/"><u>Unveiling the Hidden Price of 'Free' Phones From Wireless Providers: What You Need to Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-you-shouldnt-delegate-privacy-to-gpt/"><u>Why You Shouldn't Delegate Privacy to GPT</u></a></li>
 </ul></div>
 

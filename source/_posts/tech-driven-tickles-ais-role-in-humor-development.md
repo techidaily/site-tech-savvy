@@ -1,7 +1,7 @@
 ---
 title: "Tech-Driven Tickles: AI's Role in Humor Development"
-date: 2024-08-29T19:40:15.110Z
-updated: 2024-08-30T19:40:15.110Z
+date: 2025-01-29T07:17:16.665Z
+updated: 2025-01-31T20:10:34.634Z
 tags:
   - chatgpt
   - open-ai
@@ -23,9 +23,17 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 
  But can it make us laugh? Laughter is a base human response to emotional stimuli. This makes it a perfect test for AIs continuing development. So, let's put AI under the spotlight and see if it can generate more than just words but an emotional response in the form of laughter.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Does ChatGPT Generate Comedy?
 
 ![Screenshot of AI Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-ai-joke.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Laughter is all about fun. So, let's have a little fun as we go. At the end of each section, we will list two jokes. One will be our corny attempt at humor, and the other will be an AI-generated joke. But will you be able to tell the difference?
 
@@ -57,16 +65,14 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 * **Joke Three:** Knock, knock! _Who's there?_ May fourth. _May fourth who?_ May the fourth be with you.
 * **Joke Four:** Knock Knock! _Who's there?_ Boo. _Boo who_? Don't cry, it's just a computer program making jokes!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Can't ChatGPT Do?
 
 ![Screenshot ChatGPT Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-chatgpt-joke.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When it comes to comedy and laughter, there is still plenty that AI can't do. For instance, human nature means that we often laugh at things that shouldn't be funny. A browse through "fail videos" on YouTube illustrates this point perfectly.
 
  This is the crux of the matter; there are still plenty of limitations when it comes to AI making us laugh. For example, would AI think someone crashing a tree down on their house was funny? Not yet, as there are contextual problems here that AI still hasn't overcome. Here are some of the laughter-related things that AI can't do.
@@ -81,15 +87,17 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 * **Joke Six:** I saw this advert in a window that said: "Television for sale, $1, volume stuck on full." I thought, "I can't turn that down."
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Future of AI In Comedy?
 
 ![Screenshot AI Joke about the future of AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-ai-joke-about-the-future-of-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There are moral and ethical implications to consider here. However, these fall outside the scope of the question that this article poses: Can AI make us laugh?
 
  AI is being used to create artwork, music, and text. Many of the limitations that AI is experiencing in these fields are magnified in comedy. Comedy has subtleties that perhaps a nice melody or a pretty picture doesn't. Granted, there is subtlety in all forms of artwork that determine the success or failure of the piece, but comedy requires a deeper understanding of humanity's response to situations.
@@ -103,9 +111,6 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 * **Joke Seven:** There are 10 types of people in the world: Those that understand binary numbers and those that don't!
 * **Joke Eight:** Why did the computer go to the doctor? Because it had a virus!
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Last Laugh
 
  AI is many things, but we struggled to get it to make us laugh. Getting it to generate jokes was no laughing matter! The humor was flat without the subtlety at the heart of much great comedy. For the record, joke numbers one, three, six, and seven were human-generated, and the others were AI-generated.
@@ -122,8 +127,6 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +134,20 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-windows-8-movie-maker-like-a-pro/"><u>[New] Navigating Windows 8 Movie Maker Like a Pro</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-uploading-and-sharing-gifs-on-instagram-step-by-step-approach-for-2024/"><u>[New] Uploading & Sharing GIFs on Instagram Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-list-of-superior-cloud-services/"><u>2024 Approved The Ultimate List of Superior Cloud Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-new-hope-for-disappointed-sonos-customers-unveiling-apples-potential-lifeline/"><u>A New Hope for Disappointed Sonos Customers: Unveiling Apple's Potential Lifeline</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-the-iphone-13-and-15-pro-top-alternatives-for-apple-lovers-zdnet/"><u>Beyond the iPhone 13 & 15 Pro: Top Alternatives for Apple Lovers | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-these-4-essential-ai-narrative-creators/"><u>Explore These 4 Essential AI Narrative Creators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gaming-awaits-top-6-unique-chatgpt-games/"><u>Gaming Awaits: Top 6 Unique ChatGPT Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-5-speculations-anticipated-launch-timeline/"><u>GPT-5 Speculations: Anticipated Launch Timeline?</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/key-demographics-of-active-email-recipients-with-massmail-solutions/"><u>Key Demographics of Active Email Recipients with MassMail Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/migrating-whatsapp-messages-from-android-device-to-ios-a-comprehensive-guide/"><u>Migrating WhatsApp Messages From Android Device to iOS - A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/professionelles-ausbuchstabieren-von-e-mail-konten-in-microsoft-outlook-201/"><u>Professionelles Ausbuchstabieren Von E-Mail Konten in Microsoft Outlook 201#</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-the-chatgpt-error-in-body-stream-issue-7-ways-you-can-fix-it/"><u>What Is the ChatGPT Error in Body Stream Issue? 7 Ways You Can Fix It</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/windows-1011-audacity/"><u>Windows 10/11専用: Audacityで音声を失敗したら? 回復方法とトラブルシューティング</u></a></li>
+</ul></div>
 

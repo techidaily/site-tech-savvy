@@ -1,7 +1,7 @@
 ---
 title: The Quest for Ownership in the Age of AI Creations
-date: 2024-08-29T19:41:08.144Z
-updated: 2024-08-30T19:41:08.144Z
+date: 2025-01-31T05:24:33.831Z
+updated: 2025-01-31T17:58:30.259Z
 tags:
   - chatgpt
   - open-ai
@@ -55,6 +55,10 @@ Close
 
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## An Example of AI Copyright Rejection
 
  The US Copyright Office says that any work must be human-made to be copyrightable, which means you cannot copyright AI-generated work. This was proven in late 2022 when the comic book Zarya of the Dawn's copyright protection was revoked.
@@ -64,8 +68,9 @@ Close
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019\.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is AI Work Non-Copyrightable?
 
  With all the copyright denials, does it mean that AI work is non-copyrightable at all?
@@ -77,15 +82,17 @@ Close
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Issues With AI-Generated Work
 
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
 
  As with any new technology, AI will face many issues. Aside from the [copyright rules around AI art,](https://www.makeuseof.com/copyright-rules-ai-art/) which we've discussed above, [AI writing also has dangers](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) that users and readers must know about.
@@ -101,8 +108,9 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Ethics of AI
 
  Although AI tools are powerful, valuable tools that'll help us be more efficient, it's untested and unprecedented technology. AI could have unintended consequences, so we should be careful when using this technology.
@@ -113,14 +121,11 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
 
  After all, since AI isn't human, it cannot hold ownership over its creations. So, if an AI makes something, who do we attribute it to? The AI's programmer? The person who initiated the prompts? Or the sources the AI used?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -129,4 +134,24 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-ultimate-guide-for-crafting-engaging-shareable-youtube-shorts/"><u>[New] 2024 Approved The Ultimate Guide for Crafting Engaging, Shareable YouTube Shorts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-make-every-snap-count-top-15-tips-and-tricks/"><u>[New] How to Make Every Snap Count Top 15 Tips & Tricks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-creativity-unlimited-samples-of-50-youtube-banners-for-free/"><u>[New] Unleash Creativity Unlimited Samples of 50 YouTube Banners for Free</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-simplest-route-to-podcast-broadcasts-for-2024/"><u>[Updated] The Simplest Route to Podcast Broadcasts for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-is-the-supply-running-dry-examining-current-shipping-delays-and-stock-availability-tech-insights/"><u>Apple Vision Pro: Is the Supply Running Dry? Examining Current Shipping Delays and Stock Availability | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/customizable-generative-ai-by-nvidia-explained/"><u>Customizable Generative AI by NVIDIA Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-chatgpt-effective-methods-for-response-refinement/"><u>Enhancing ChatGPT: Effective Methods for Response Refinement</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fast-no-cost-solutions-transform-your-3gp-videos-into-mp4-format-seamlessly/"><u>Fast, No-Cost Solutions: Transform Your 3GP Videos Into MP4 Format Seamlessly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-lava-yuva-2-by-drfone-android/"><u>In 2024, How to Bypass FRP from Lava Yuva 2?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/keep-fit-anywhere-anytime-with-samsungs-versatile-galaxy-fit2-tracker/"><u>Keep Fit Anywhere, Anytime with Samsung's Versatile Galaxy Fit2 Tracker</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-x-5-ways-to-get-into-a-locked-apple-iphone-x-by-drfone-ios/"><u>Locked Out of Apple iPhone X? 5 Ways to get into a Locked Apple iPhone X</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-mac-productivity-a-step-by-step-guide-to-configuring-and-leveraging-hot-corners-in-macos-techinsight/"><u>Maximizing Mac Productivity: A Step-by-Step Guide to Configuring and Leveraging Hot Corners in macOS | TechInsight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimal-plug-ins-for-gpt-and-vs-code-enhancement/"><u>Optimal Plug-Ins for GPT & VS Code Enhancement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scaling-creativity-mass-producing-visuals-with-canva-and-gpt/"><u>Scaling Creativity: Mass Producing Visuals with Canva & GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/steering-ai-responses-towards-realism-using-6-tailored-methods/"><u>Steering AI Responses Towards Realism Using 6 Tailored Methods</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-repair-overcoming-pc-interruptions-during-final-fantasy-xiv-online/"><u>Step-by-Step Repair: Overcoming PC Interruptions During Final Fantasy XIV Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-random-freezes-with-vision-pro-what-experts-recommend-when-things-go-awry-tech-advice-on-zdnet/"><u>Troubleshooting Random Freezes with Vision Pro: What Experts Recommend When Things Go Awry | Tech Advice on ZDNet</u></a></li>
+</ul></div>
 

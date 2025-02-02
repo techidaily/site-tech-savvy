@@ -1,7 +1,7 @@
 ---
 title: Restore Hidden Icons on Your Windows 11 Taskbar with These Proven 6 Methods
-date: 2024-08-29T19:38:07.124Z
-updated: 2024-08-30T19:38:07.124Z
+date: 2025-01-27T07:21:25.875Z
+updated: 2025-02-01T08:03:21.142Z
 tags:
   - deals
 categories:
@@ -42,9 +42,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Restart option in the Task Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/restart-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  Once Windows Explorer restarts, check whether the taskbar icons are back. If not, continue with the guide.
 
 ##  2\. Rebuild the Icon Cache
@@ -65,9 +62,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Open in terminal option in File Explorer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/open-in-terminal-option.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the [Terminal window](https://youtube-sure.techidaily.com/ed-free-techniques-for-turning-youtube-watching-into-a-screenshot/), type "dir" and hit Enter. This command will display the contents of the Explorer folder, which will include the icon cache and thumb cache files.
 
 ![dir command in Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/dir-command.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, open Task Manager, right-click "Windows Explorer", and click "End task". This kills the Windows Explorer process, and the desktop will disappear. Next, close the Task Manager and make sure no other application is running in the background except for the Windows Terminal.
 
@@ -80,23 +85,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![del iconcache command in Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/del-iconcache-command.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After executing the command, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/) and check if the problem continues.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  3\. Delete the Iris Service
 
  The Iris service is a part of Windows Spotlight and handles features like the [Bing wallpaper of the day](https://easy-unlock-android.techidaily.com/unlock-your-nokia-g22-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/) and Microsoft ads. However, [according to Microsoft](https://blogs.windows.com/windows-insider/2021/09/02/announcing-windows-11-insider-preview-build-22000-176/), this service can also cause various problems with the taskbar, including the one you're experiencing.
@@ -110,9 +103,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Iris service delete command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/iris-service-delete-command.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  After your computer restarts, the taskbar icons should reappear and the Iris service will be recreated.
 
 ##  4\. Run SFC and DISM Scan
@@ -125,9 +115,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
     
 ![Sfc scan command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/sfc-scan-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  The scan may take some time, especially if it finds corrupt files on your computer.
 
  If running the SFC scan didn't help, you can try running a Deployment Image Servicing and Management (DISM) scan. To do this, run the following commands one by one in an elevated Command Prompt window:
@@ -140,11 +127,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
     
 ![Running the DISM Scan command in the Command Prompt window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/dism-scan.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After the DISM scan is complete, restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  5\. Perform a Clean Boot
 
  The taskbar icons may have gone missing due to interference from third-party applications installed on your computer. To identify the culprit, you can [perform a clean boot](https://screen-capture.techidaily.com/new-affordable-facetime-replacements-for-android/).
@@ -153,20 +145,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Typing System Configuration in the Start menu search bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/system-configuration.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Switch to the "Services" tab, and check the "Hide all Microsoft services" box. Then, click "Disable all".
 
 ![Disable all in Task manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/disable-all.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click the "Startup" tab, and click "Open Task Manager". Right-click all the startup applications in the Task Manager and click "Disable". After that, restart your device.
 
 ![disable option in Task manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/disable-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once your computer has restarted, check if the taskbar icons have reappeared. If they have, then one of the services or [startup applications](https://tech-recovery.techidaily.com/get-clarity-back-in-photos-how-to-repair-iphone-camera-focusing-problems/) that you disabled was the culprit behind the issue.
 
  To narrow down the culprit, enable each service or app one at a time until the taskbar icons disappear again. Once you have narrowed down the culprit, you can uninstall it or download any available driver updates for it.
@@ -181,9 +175,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Uninstall option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/uninstall-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The issue can also occur if you haven't updated Windows in a long time. So, you should [download any available Windows updates](https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-v30-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/) to keep your system free of any problems.
 
 ---
@@ -196,8 +187,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +194,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-innovate-in-fb-advertising-access-no-cost-video-tools/"><u>[Updated] 2024 Approved Innovate in FB Advertising - Access No-Cost Video Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-crafting-visual-narratives-with-the-leading-frames/"><u>[Updated] Crafting Visual Narratives with the Leading Frames</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-the-new-titans-of-wearables-apple-watch-ultra-vs-apple-watch-series-8-find-your-perfect-fit/"><u>Choosing Between the New Titans of Wearables: Apple Watch Ultra Vs. Apple Watch Series 8 – Find Your Perfect Fit!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/giants-in-combat-google-palm-2-vs-openais-gpt-4/"><u>Giants in Combat: Google PaLM 2 Vs. OpenAI's GPT-4</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lightroom-lut-essentials-for-professional-imagery/"><u>In 2024, LightRoom LUT Essentials for Professional Imagery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speak-steer-top-5-methods-to-control-chatgpt-with-sound/"><u>Speak, Steer: Top 5 Methods to Control ChatGPT with Sound</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sticking-with-my-iphone-14-top-4-reasons-im-skipping-the-upgrade-to-an-iphone-16-pro-review/"><u>Sticking with My iPhone 14: Top 4 Reasons I'm Skipping the Upgrade to an iPhone 16 Pro Review</u></a></li>
+<li><a href="https://win-online.techidaily.com/ultimate-guide-8-advanced-text-message-strategies-with-massmail-essential-insights-from-2010/"><u>Ultimate Guide: 8 Advanced Text Message Strategies with MassMail - Essential Insights From 2010</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bot-Assisted Dialogue: Top 3 Privacy Concerns Addressed"
-date: 2024-08-29T19:39:52.535Z
-updated: 2024-08-30T19:39:52.535Z
+date: 2025-01-24T19:12:32.685Z
+updated: 2025-01-31T22:00:29.230Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 
  Millions of people now use AI chatbots worldwide, but there are some important privacy risks and concerns to keep in mind if you want to try out one of these tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Data Collection
 
  Most people don't use chatbots just to say hi. Modern chatbots are designed to process and respond to complex questions and requests, with users often including a lot of information in their prompts. Even if you're only asking a simple question, you don't really want it to go beyond your conversation.
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
  This, of course, begs the question: is my data being kept or not? Does ChatGPT or other chatbots use my data?
 
  But the concerns don't stop here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How Does ChatGPT Learn?
 
@@ -68,8 +76,9 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
  ChatGPT may be the biggest AI chatbot today, but chatbot privacy issues don't start and end with this provider. If you're using a shady chatbot with a lackluster privacy policy, your conversations may be misused, or highly sensitive information may be used in its training data.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Data Theft
 
  Like any online tool or platform, chatbots are vulnerable to cybercrime. Even if a chatbot did all it could to protect users and their data, there's always a chance that a savvy hacker will manage to infiltrate its internal systems.
@@ -83,8 +92,9 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
  In March 2023, MUO reported on a [fake ChatGPT Chrome extension stealing Facebook logins](https://www.makeuseof.com/fake-chatgpt-chrome-extension-steals-facebook-logins/). The plugin could exploit a Facebook backdoor to hack high-profile accounts and steal user cookies. This is just one example of numerous phony ChatGPT services designed to con unknowing victims.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Malware Infection
 
  If you're using a shady chatbot without realizing it, you may find the chatbot providing you with links to malicious websites. Maybe the chatbot has alerted you of a tempting giveaway, or provided a source for one of its statements. If the operators of the service have illicit intentions, the entire point of the platform may be to spread malware and scams via malicious links.
@@ -96,8 +106,9 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
  Additionally, you should never install any chatbot plugins and extensions without verifying their legitimacy first. Do a little research around the app to see if it's been well-reviewed, and also run a search of the app's developer to see if you find anything shady.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Chatbots Aren't Impervious to Privacy Issues
 
  Like most online tools nowadays, chatbots have been repeatedly criticized for their possible security and privacy pitfalls. Whether it's a chatbot provider cutting corners when it comes to user safety, or the ongoing risks of cyberattacks and scams, it's crucial that you know what your chatbot service is collecting on you, and whether it's employed adequate security measures.
@@ -110,14 +121,11 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 
  Millions of people now use AI chatbots worldwide, but there are some important privacy risks and concerns to keep in mind if you want to try out one of these tools.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +134,18 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-ultimate-guide-to-selecting-from-the-top-9-free-youtube-tools/"><u>[Updated] 2024 Approved The Ultimate Guide to Selecting From the Top 9 FREE YouTube Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-explore-10-prime-video-editing-apps-for-android-and-pc/"><u>[Updated] Explore 10 Prime Video Editing Apps for Android and PC</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-transform-srt-to-video-top-10-free-subtitle-tools-for-2024/"><u>[Updated] Transform SRT to Video - Top 10 FREE Subtitle Tools for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-poco-m6-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-eu-ai-act-and-chatgpts-future/"><u>Decoding the EU AI Act & ChatGPT's Future</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-8-chatgpt-inquiries-for-elevating-task-completion/"><u>Essential 8 ChatGPT Inquiries for Elevating Task Completion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-mechanics-of-7-gpt-4-apps/"><u>Exploring the Mechanics of 7 GPT-4 Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-effortlessly-setting-up-libreoffice-as-a-gratis-microsoft-suite-substitute-on-mac-expert-tips/"><u>Guide: Effortlessly Setting Up LibreOffice as a Gratis Microsoft Suite Substitute on Mac - Expert Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-apple-pay-a-complete-guide-to-using-it-offline-and-online-insights/"><u>Mastering Apple Pay: A Complete Guide to Using It Offline & Online - Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-complete-picsart-breakdown-insights-and-instructions-2024/"><u>The Complete PicsArt Breakdown Insights and Instructions 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/unveiling-the-top-8-beginner-friendly-cameras-35mm-to-pands-for-2024/"><u>Unveiling the Top 8 Beginner-Friendly Cameras (35Mm to P&S) for 2024</u></a></li>
+</ul></div>
 

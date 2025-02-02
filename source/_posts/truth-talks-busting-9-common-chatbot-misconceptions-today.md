@@ -1,7 +1,7 @@
 ---
 title: Truth Talks - Busting 9 Common Chatbot Misconceptions Today
-date: 2024-08-25T17:38:26.423Z
-updated: 2024-08-26T17:38:26.423Z
+date: 2025-01-27T00:00:13.959Z
+updated: 2025-02-01T06:33:01.315Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/41b7aeaec3f38e6779f59edeed637c2eed317552b
 
  Let’s untangle fact and fiction as we explore the top AI chatbot myths.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. AI Chatbots are Sentient
 
  Chatbots like ChatGPT and Bing Chat may be able to generate human-like responses, but they are far from sentient. This ability is mimicry and not sentience. These tools use huge databases of text and images to create responses that mimic human responses.
@@ -41,15 +45,16 @@ thumbnail: https://thmb.techidaily.com/41b7aeaec3f38e6779f59edeed637c2eed317552b
 
 ![Screenshot of ChatGPT answering question about Google Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-question-about-google-bard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, just to be clear, there are known limitations to ChatGPT and the age of the data it can reference. That question was deliberately set up to expose this. However, we asked Bard the same question when [comparing Google Bard vs. ChatGPT](https://www.makeuseof.com/chatgpt-vs-google-bard/), and it got it wrong too:
 
 ![Screenshot of ChatGPT answering question about Google Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-question-about-google-bard.jpg)
 
  Chatbots may be clever, but they aren’t capable of any type of task and will sometimes fail on the simplest of questions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Chatbots Are a Threat to Humanity
 
  The problem here is that people are mixing up productivity tools with Robocop. Chatbots may pose a job threat to some people, and they may disrupt certain industries. But it would be an exaggeration to claim that they are a threat to humanity as a whole.
@@ -60,18 +65,6 @@ thumbnail: https://thmb.techidaily.com/41b7aeaec3f38e6779f59edeed637c2eed317552b
 
 ![Screenshot of ChatGPT answering threat to humanity question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-threat-to-humanity-question.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  But it would say that. Wouldn't it?
 
 ## 4\. AI Chatbots Are Infallible
@@ -81,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/41b7aeaec3f38e6779f59edeed637c2eed317552b
  LLMs contain text from a vast range of sources, everything from literature to social media posts are included in LLMs. This is the repository that the chatbots reference to supply their answers. Any factual errors present in these can manifest themselves in the answers they provide.
 
 [AI hallucinations are a common form of error](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) that all too often shows just how fallible these tools are.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Chatbots Will Replace Human Interaction
 
@@ -97,8 +94,9 @@ thumbnail: https://thmb.techidaily.com/41b7aeaec3f38e6779f59edeed637c2eed317552b
  The speed at which these tools are developing is part of the reason behind this myth. The boundaries of what this technology can do are being pushed at a rapid pace and the initial iterations that were primarily text-based are already considered old-fashioned.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Chatbots Will Always Provide Unbiased Responses
 
  Unfortunately, this is not the case. The potential for biased responses is always there with AI chatbots. The root of the problem can be traced back to the LLMs. The vast amount of data that chatbots reference does, inevitably, contain bias. These biases can include gender, race, nationality, and broader societal biases.
@@ -107,18 +105,16 @@ thumbnail: https://thmb.techidaily.com/41b7aeaec3f38e6779f59edeed637c2eed317552b
 
  However, for the moment at least, the potential for biased responses is an unresolved issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Chatbots Are Actually Real Humans
 
 ![Picture of mechanical typewriter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/picture-of-mechanical-typewriter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Perhaps the most ludicrous myth is that behind every AI chatbot is a real human. This one is treading a delicate line between conspiracy theory and myth, we won’t dwell on this one other than to say that it's nonsense.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 9\. AI Chatbots Can Program Themselves
 
  Chatbots need to be trained and programmed to perform their tasks in much the same way as any piece of software needs to be programmed to perform specific functions.
@@ -127,9 +123,6 @@ thumbnail: https://thmb.techidaily.com/41b7aeaec3f38e6779f59edeed637c2eed317552b
 
  The training process could be likened to the testing process of non-AI software. Training involves predefining their objectives, designing their architecture, and teaching them to generate responses based on the data in the relevant LLM. This entire progress still requires human intervention and programming expertise.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI Chatbots: Separating Fact From Fiction
 
  The rapid uptake in the use of these tools has perpetuated a whole host of myths. Some of them are absolute nonsense, and some of them have a grain or two of truth. What is clear is that there is a lot of misinformation surrounding AI chatbots that needs to be clarified.
@@ -142,14 +135,11 @@ thumbnail: https://thmb.techidaily.com/41b7aeaec3f38e6779f59edeed637c2eed317552b
 
  Let’s untangle fact and fiction as we explore the top AI chatbot myths.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,4 +148,26 @@ thumbnail: https://thmb.techidaily.com/41b7aeaec3f38e6779f59edeed637c2eed317552b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-screenmasterrevolution-next-gen-recording-software/"><u>[New] ScreenMasterRevolution Next-Gen Recording Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-economical-audience-expansion-buy-subscribers-not-time-for-2024/"><u>[Updated] Economical Audience Expansion Buy Subscribers, Not Time for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-accessible-obs-presets-for-affordable-computers/"><u>[Updated] In 2024, Accessible OBS Presets for Affordable Computers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-list-of-superior-live-streaming-services/"><u>[Updated] The Ultimate List of Superior Live Streaming Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-connoisseurs-challenge-pick-the-prime-language-model/"><u>AI Connoisseurs' Challenge: Pick the Prime Language Model</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-mobile-gems-real-life-testimonials-editors-on-their-favorite-smartphones/"><u>Discover the Mobile Gems: Real-Life Testimonials Editors on Their Favorite Smartphones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eclipsing-competitors-5-drives-behind-gpts-meteoric-rise/"><u>Eclipsing Competitors: 5 Drives Behind GPT's Meteoric Rise</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/expertly-boost-your-videos-discover-the-six-finest-ai-upscalers-tested-and-approved-by-professionals/"><u>Expertly Boost Your Videos: Discover the Six Finest AI Upscalers Tested and Approved by Professionals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-screens-to-social-shares-your-guide-to-popular-metaverse-memes/"><u>From Screens to Social Shares Your Guide to Popular Metaverse Memes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gom-player/"><u>GOM Playerインストール・起動困難: 詳細なエラー分析と修正方法を学ぶ</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-instagram-stories-a-step-by-step-polling-guide/"><u>In 2024, Mastering Instagram Stories A Step-by-Step Polling Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-174-update-brings-podcast-transcript-features-latest-emoji-additions-and-major-modifications-to-the-european-apple-app-store-tech-news/"><u>IOS 17.4 Update Brings Podcast Transcript Features, Latest Emoji Additions & Major Modifications to the European Apple App Store | Tech News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/satellite-enabled-emergency-messaging-on-the-revolutionary-new-google-pixel-9-a-game-changer-in-crisis-communications/"><u>Satellite-Enabled Emergency Messaging on the Revolutionary New Google Pixel 9: A Game-Changer in Crisis Communications</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secrets-from-the-tech-gurus-how-i-scored-a-steal-with-an-economy-surface-pro-weitereleitung/"><u>Secrets From the Tech Gurus: How I Scored a Steal with an Economy Surface Pro #WEITERELEITUNG</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-three-chatbots-face-off-gpt-microsofts-ai-and-googles-bard/"><u>Top Three Chatbots Face-Off: GPT, Microsoft's AI & Google's Bard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-airtag-gadgets-and-peripherals-of-2024-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated AirTag Gadgets & Peripherals of 2024: Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-career-with-these-6-compelling-facts-about-chatgpt/"><u>Transform Your Career with These 6 Compelling Facts About ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transition-from-finewoven-to-beats-how-apple-revamps-accessories-lineup-for-enhanced-audio-experience-cnet/"><u>Transition From FineWoven to Beats: How Apple Revamps Accessories Lineup for Enhanced Audio Experience | CNET</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/waking-up-with-sunrise-totobays-next-gen-gadget-review-for-the-budget-savvy-shopper/"><u>Waking Up with Sunrise: Totobay's Next Gen Gadget Review for the Budget-Savvy Shopper</u></a></li>
+</ul></div>
 

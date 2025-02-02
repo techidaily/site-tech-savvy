@@ -1,7 +1,7 @@
 ---
 title: Navigating Pitfalls in Text Generation with ChatGPT
-date: 2025-01-18T23:10:45.466Z
-updated: 2025-01-24T21:10:18.711Z
+date: 2025-01-27T16:28:14.609Z
+updated: 2025-02-01T11:19:00.426Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Don't Overdepend on ChatGPT
 
  Imagine you're a first-time ChatGPT user. Since it's your first time using it, you'll find its speed remarkable. What once took you hours to create only takes seconds. As time goes by, you might start heavily relying on it. You make a few edits but don't bother to research.
@@ -43,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 ![ChatGPT reminds user to double check information it provides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-50.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  OpenAI CEO Sam Altman also mentions in an [ABC News video interview](http://www.youtube.com/watch?v=540vzMlf-54) that users should be more cautious about ChatGPT's "hallucinations problem." It can confidently state made-up ideas as if they were facts. A single incident like CNET's can damage your credibility as an authoritative source.
@@ -51,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
  It's easy to blindly accept ChatGPT's output when you don't have enough knowledge to evaluate the results. Moreover, you might not bother to check a different point of view when ChatGPT's answers align with your beliefs. To avoid these embarrassing situations, fact-check, seek multiple perspectives, and get expert advice.
 
  If you're learning to use ChatGPT for content creation, include [what AI hallucination is and how you can spot it](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) in your list of topics to master. More importantly, don't disregard human judgment and creativity. Remember, AI should augment your thinking and not replace it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Don't Ask ChatGPT for Research Links
 
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 ![chatGPT giving a link to a nonexistent JSTOR academic journal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-47.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In another example, we gave ChatGPT a more specific topic to research on to see if it would come up with better results. This is the prompt we used: I am writing a literary research paper on "The Heroine in British Young Adult and Coming-of-Age Contemporary Novels." Can you give me a literature review on this topic?
@@ -100,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 
 ![ChatGPT giving advice on workplace burnout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-45.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  But no matter how compassionate it sounds, ChatGPT isn't human. What sounds like human-generated sentences are only the results of ChatGPT predicting the next word or "token" in the sequence based on its training data. It isn't a sentient being with a will and mind of its own as you do.
 
  That said, ChatGPT can't substitute for human relationships and collaboration in the workplace. As the [Work and Well-being Initiative at Harvard University](https://workwellbeinginitiative.org/module-4-moderating-work-demands#:~:text=The%20evidence%20shows%20that%20positive,harmful%20effects%20of%20workplace%20stress.&text=Positive%20relationships%20at%20work%20are%20also%20good%20for%20the%20bottom%20line.) says, these human connections benefit you, helping improve your well-being and protecting you against workplace stress.
@@ -119,6 +115,10 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
  However, ChatGPT wasn't familiar with Allen's article. When we shared the link and asked it to summarize, ChatGPT hallucinated. It said that Allen founded the company BeatBrain, which creates AI-generated music using GPT-3\.
 
 ![ChatGPT giving a wrong answer to a prompt asking for a summary of Eric Allen's article on Hackernoon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-44.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To help ChatGPT, we copy-pasted the article in parts and asked for a summary after each upload. This time, ChatGPT was able to accomplish the task accurately. At one point, it gave us a comment instead of a summary, but we redirected it using another prompt.
 
@@ -157,17 +157,17 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-dynamic-title-creation-the-game-changer/"><u>[New] 2024 Approved Dynamic Title Creation The Game Changer</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-optimal-mac-recorded-videos-for-snapshifts/"><u>[New] 2024 Approved Optimal Mac-Recorded Videos for Snapshifts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-blurred-lines-the-art-of-anonymizing-youtube-content-for-2024/"><u>[New] Blurred Lines The Art of Anonymizing YouTube Content for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-cinema-in-your-palm-three-cost-effective-techniques-to-blend-beats-and-videos-on-iphone/"><u>[Updated] Cinema in Your Palm – Three Cost-Effective Techniques to Blend Beats and Videos on iPhone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-6-eco-friendly-affordable-4k-home-theaters/"><u>2024 Approved Top 6 Eco-Friendly, Affordable 4K Home Theaters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-an-exhaustive-review-after-an-all-day-office-test-insight/"><u>Apple Vision Pro: An Exhaustive Review After an All-Day Office Test Insight</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-faces-an-unexpected-setback-from-ios-145/"><u>Facebook Faces an Unexpected Setback From iOS 14.5</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-your-hands-on-the-best-wireless-magnetic-phone-charger-for-iphones-at-an-unbeatable-price-of-35-endorsed-by-zdnet/"><u>Get Your Hands on the Best Wireless Magnetic Phone Charger for iPhones at an Unbeatable Price of $35 - Endorsed by ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-realme-11-proplus-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Realme 11 Pro+</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovative-pos-solutions-that-are-changing-the-game-except-openais/"><u>Innovative POS Solutions That Are Changing the Game, Except OpenAI’s</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-mobile-filmmaking-how-apple-transforms-the-iphone-into-a-pro-video-studio-with-final-cut-insights/"><u>Revolutionizing Mobile Filmmaking: How Apple Transforms the iPhone Into a Pro Video Studio with Final Cut | Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/swift-strides-identifying-five-drives-of-chatgpts-triumph/"><u>Swift Strides: Identifying Five Drives of ChatGPT's Triumph</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-a-comprehensive-list-of-top-virtual-classrooms-not-inspired-by-udemy/"><u>[New] 2024 Approved A Comprehensive List of Top Virtual Classrooms Not Inspired by Udemy</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nnovative-youtube-channel-names-for-the-next-gen-vloggers-and-film-makers-keep-it-under-or-at-156-characters/"><u>[New] Innovative YouTube Channel Names for the Next Gen Vloggers and Film Makers (Keep It Under or at 156 Characters)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-from-concept-to-capture-the-breakdown-of-apeaks-recorder-software/"><u>[Updated] From Concept to Capture The Breakdown of Apeak's Recorder Software</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-trendsetters-guide-selecting-best-tools-to-craft-instagram-videos/"><u>[Updated] Trendsetters’ Guide Selecting Best Tools to Craft Instagram Videos</u></a></li>
+<li><a href="https://win-hot.techidaily.com/guide-complet-comment-substituer-votre-hdd-par-un-ssd-samsung-850-evo-sous-windows/"><u>Guide Complet: Comment Substituer Votre HDD Par Un SSD Samsung 850 EVO Sous Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-granblue-fantasy-pc-game-from-unexpectedly-crashing-when-relinking/"><u>How to Stop Granblue Fantasy PC Game From Unexpectedly Crashing When Relinking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-systems-academic-research-revolution/"><u>Intelligent Systems: Academic Research Revolution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interview-success-integrating-chatgpt-wisdom/"><u>Interview Success: Integrating ChatGPT Wisdom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-chatgtp-exposed-to-privacy-threats/"><u>Is ChatGTP Exposed to Privacy Threats?</u></a></li>
+<li><a href="https://techidaily.com/sign-uot-file-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .uot file Documents Online for Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-review-unpacking-the-features-and-performance-of-ecoflow-river-n3-a-must-have-for-beginners/"><u>Top Review: Unpacking the Features and Performance of EcoFlow River N3 - A Must-Have for Beginners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-stylus-tablets-comprehensive-reviews-from-tech-experts-zdnet/"><u>Top-Rated Stylus Tablets : Comprehensive Reviews From Tech Experts | ZDNet</u></a></li>
 </ul></div>
 

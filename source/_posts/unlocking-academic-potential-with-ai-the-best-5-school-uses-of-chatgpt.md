@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Academic Potential with AI: The Best 5 School Uses of ChatGPT"
-date: 2024-08-29T19:41:15.657Z
-updated: 2024-08-30T19:41:15.657Z
+date: 2025-01-25T20:09:15.044Z
+updated: 2025-01-31T17:14:25.480Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/5bb08ab6d34a1fb0acace4e8322f42ab6cac411cd
 
  This makes ChatGPT an incredibly useful learning tool. Unfortunately, some students have chosen to use the chatbot to cheat rather than explore how it could help them improve in the classroom. So, we've put together five ethical ways students can make use of ChatGPT without gaming the system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Develop Crash Study Plans
 
  You have a few weeks to that all-important examination, but you feel you've been ghosting through your classes and are ill-prepared for what's coming. So how do you cover your coursework within a limited time? Well, with the proper prompts, ChatGPT can come to your rescue.
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/5bb08ab6d34a1fb0acace4e8322f42ab6cac411cd
 * Refine the plan to add \[minutes/hours\] breaks during study hours.
 * Refine the plan to allocate \[more/less\] time to practical sessions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Identify Shortcuts or Tricks for Complex Course Problems
 
  One of the most exciting uses of ChatGPT for students is as a tool for identifying easier or alternative ways of solving complex course problems. For instance, ChatGPT has a huge collection of shortcuts and tricks for solving a wide range of complex STEM problems. From basic physics and math to complex engineering problems, ChatGPT can lay out easier, proven ways to solve complex problems and arrive at accurate solutions with much less effort.
@@ -48,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/5bb08ab6d34a1fb0acace4e8322f42ab6cac411cd
  Below is a screenshot of a popular approach for finding the sum of the first 1,000 positive integers.
 
 ![Arithmetic series problem - long method](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/arithmetic-series-problem-long-method.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  However, you can also ask ChatGPT for a shortcut to solving the problem. For example, when we asked ChatGPT to provide a shortcut, the AI chatbot generated the following results:
 
@@ -61,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/5bb08ab6d34a1fb0acace4e8322f42ab6cac411cd
 
  If you have a preferred way that makes it easy for you to learn, ChatGPT can help present complex problems in that way to make it easier for you to understand.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Stay Ahead of the Learning Curve
 
  Reading up on the lessons you'll learn next can help you understand the subject more when it is eventually taught. How can you do this with ChatGPT?
@@ -73,11 +82,9 @@ thumbnail: https://thmb.techidaily.com/5bb08ab6d34a1fb0acace4e8322f42ab6cac411cd
 ![stay ahead of the learning curve with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/stay-ahead-of-the-learning-curve-with-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
+
 ## 4\. Summarize Long Text and Extract Key Points
 
  Most of what you'll do as a student involves reading long texts and making summaries or key points. ChatGPT is impressively good at text summarization and extracting key points from voluminous texts. It could be an incredibly useful reading companion, helping you make sense of large texts without having to read through the entirety of them. Instead, copy the text in bits, feed it to ChatGPT, and ask it to make summaries or identify the key points from it.
@@ -97,15 +104,13 @@ thumbnail: https://thmb.techidaily.com/5bb08ab6d34a1fb0acace4e8322f42ab6cac411cd
 ![Essay for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/essay-for-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We put together a short story in a haphazard manner, as shown in the screenshot above, and asked ChatGPT to clean it up. Here's the result:
 
 ![complete story by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/complete-story-by-chatgp.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Rather than outright asking ChatGPT to write an essay, you can write yours and use the following prompts to improve your work:
 
 * Rewrite the text in quotes using correct grammar (but do not rewrite actual quotes!)
@@ -115,21 +120,15 @@ thumbnail: https://thmb.techidaily.com/5bb08ab6d34a1fb0acace4e8322f42ab6cac411cd
 * What key points are missing in the text?
 * Suggests some improvements that would make the text suitable for a \[target audience\].
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## Use ChatGPT Cautiously In Education
 
  While ChatGPT is undoubtedly an impressive learning companion, it is important to understand that the tool is still a development product. Using ChatGPT as the sole source of information in academic settings is not advisable; the chatbot cannot separate fact from fiction. While we encourage you to make the best use of ChatGPT for learning, use it with caution.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +137,24 @@ thumbnail: https://thmb.techidaily.com/5bb08ab6d34a1fb0acace4e8322f42ab6cac411cd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-web-picks-for-stylish-3d-sparkling-text/"><u>2024 Approved Prime Web Picks for Stylish 3D Sparkling Text</u></a></li>
+<li><a href="https://win11.techidaily.com/cure-windows-notepad-freeze-phenomena/"><u>Cure Windows Notepad Freeze Phenomena</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-unbeatable-black-friday-offers-for-apple-airpods-ranked-best/"><u>Discover Unbeatable Black Friday Offers for Apple AirPods - Ranked Best</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-video-description-crafting-and-attaching-captions-for-insta-stories/"><u>DIY Video Description: Crafting and Attaching Captions for Insta Stories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-guide-to-initializing-your-latest-ipad-tips-from-zdnet/"><u>Essential Guide to Initializing Your Latest iPad - Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evolving-tech-talk-6-ways-to-leverage-chatgpts-conductor/"><u>Evolving Tech Talk - 6 Ways to Leverage ChatGPT's Conductor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-latest-upgrade-iphone-16s-revolutionary-camera-button-revealed-by-zdnet/"><u>Exploring the Latest Upgrade: IPhone 16'S Revolutionary Camera Button Revealed by ZDNet</u></a></li>
+<li><a href="https://win-webster.techidaily.com/fixing-terraria-launch-errors-when-no-save-data-is-detected/"><u>Fixing Terraria Launch Errors When No Save Data Is Detected</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-12-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi 12 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/human-expertise-overstated-5-cautionary-tales/"><u>Human Expertise Overstated? 5 Cautionary Tales</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/next-gen-sound-on-a-budget-see-why-zdnet-says-new-beats-solo-earbuds-match-up-against-the-iconic-under-100-airpods/"><u>Next-Gen Sound on a Budget? See Why ZDNet Says New Beats Solo Earbuds Match Up Against the Iconic Under-$100 AirPods</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/portable-tp-link-wr902ac-travel-router-tl-wr902ac-compact-wi-fi-on-the-go/"><u>Portable TP-Link WR902AC Travel Router (TL-WR902AC): Compact Wi-Fi on the Go</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-day-discounts-securing-the-best-deal-on-the-apple-watch-series-se-now-just-80-cheaper-insights-from-zdnet/"><u>Prime Day Discounts: Securing the Best Deal on the Apple Watch Series SE, Now Just $80 Cheaper - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/should-you-switch-to-ipad-air-5-from-ipad-air-navigate-the-pros-and-cons-in-depth-analysis-tech-gurus/"><u>Should You Switch to iPad Air 5 From iPad Air Navigate the Pros and Cons | In-Depth Analysis Tech Gurus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncovering-potential-breaches-in-user-privacy-by-chatgpt/"><u>Uncovering Potential Breaches in User Privacy by ChatGPT</u></a></li>
+</ul></div>
 

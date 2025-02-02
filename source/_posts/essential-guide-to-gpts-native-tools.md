@@ -1,7 +1,7 @@
 ---
 title: Essential Guide to GPT’s Native Tools
-date: 2024-08-25T17:37:45.635Z
-updated: 2024-08-26T17:37:45.635Z
+date: 2025-01-25T07:30:16.065Z
+updated: 2025-02-01T02:48:35.592Z
 tags:
   - chatgpt
   - open-ai
@@ -47,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
 
  When you open your ChatGPT Plus account, each of these plugins will be active by default, meaning you don't need to activate anything manually to use them.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use ChatGPT's Standard Plugins
 
  If you don't have a ChatGPT Plus account, you won't be able to access these plugins. So, consider signing up for the $20 monthly premium plan if you want to overcome this barrier.
@@ -60,17 +57,14 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
 
 ![chatgpt search with bing ask question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-search-with-bing-ask-question-jan-2024.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Once you make the request, you'll be told that GPT is currently searching the web. It may take ten or so seconds to get your results or longer if your connection is patchy, OpenAI's servers are overwhelmed, or your request contains detailed information that takes time to search for.
 
 ![chatgpt search with bing whats the weather jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-search-with-bing-whats-the-weather-jan-2024.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When ChatGPT provides a response based on a web search, the source will always be provided in the bracketed quotation marks (**\["\]**) at the end of the response. You can regenerate the response if you're unhappy with the initial output by clicking on the circular arrow symbol under the response.
 
  Sometimes, ChatGPT provides fabricated or unreliable sources for its answers, so it's always best to check the source before using any of the information provided.
@@ -78,8 +72,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  It's likely that ChatGPT won't conduct a web search for data it already has access to, such as historical facts. If searching the web is necessary, make that known in your prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. DALL-E
 
  DALL-E is a separate platform from ChatGPT, but OpenAI also created it. The latest version of DALL-E is DALL-E 3, released in August 2023\. This software uses AI to generate images based on user prompts. DALL-E is a paid tool, but you can use it at no extra charge with your ChatGPT Plus subscription (or [access it using Microsoft Copilot](https://www.makeuseof.com/how-use-dalle-3-free-microsoft-bing/))
@@ -99,8 +94,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Though we asked ChatGPT to keep the image identical aside from one change, it made the change but also changed almost everything else about the image. Keep this downside in mind when using this plugin.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Code Interpreter
 
  If you want to write, run, or be provided with code in the Python language, [ChatGPT's Code Interpreter](https://www.makeuseof.com/chatgpt-code-interpreter-uses/) can help. With this plugin, you can request code excerpts, have ChatGPT analyze and execute code, and enjoy the option to upload files within the chat for review.
@@ -108,8 +104,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![screenshot of ChatGPT python response in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-python-response.png)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If ChatGPT picks up on any errors in your code, it will notify you and provide a correction.
 
  You can upload text files and documents for analysis in a wide range of formats, including PDF, DOCX, JSON, TXT, and PPTX. You can also choose from multiple data and code formats and even upload a JPEG image of the code in question.
@@ -117,6 +114,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  After uploading the document, ChatGPT will analyze it and give you its interpretation.
 
 ![screenshot of file upload for code interpretation in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/upload-python-gpt.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also ask ChatGPT to give you Python code for the function or program you want to create. However, this isn't part of the Interpreter plugin, so it can be used with GPT-3.5 or GPT-4\.
 
@@ -132,14 +133,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![screenshot of ChatGPT mobile app dall-e response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-dalle.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Screenshot of ChatGPT python interpreter in mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-python.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  You can use your ChatGPT Plus account on both your desktop and mobile simultaneously.
@@ -156,8 +155,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +162,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-a-deep-dive-into-dji-phantom-3-professional-drone-for-2024/"><u>[New] A Deep Dive Into DJI Phantom 3 Professional Drone for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-art-of-cozy-cinematography-top-5-winter-scenes/"><u>[New] In 2024, The Art of Cozy Cinematography Top 5 Winter Scenes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/direct-communication-using-rtx-ai-on-your-device/"><u>Direct Communication: Using RTX AI on Your Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-guide-9-amazing-preschool-games-available-at-no-cost/"><u>Discover the Ultimate Guide: 9 Amazing Preschool Games Available at No Cost</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-documentation-with-ai-companions/"><u>Effortless Documentation with AI Companions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-choose-between-filmora-and-democreator/"><u>How to Choose Between Filmora and Democreator</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-y200-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo Y200 Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-pixel-humorist-tools-kapwings-meme-mastery/"><u>In 2024, Pixel Humorist Tools Kapwing’s Meme Mastery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-investing-in-an-iphone-16-worth-it-insights-on-apple-smart-technology-zdnet/"><u>Is Investing in an iPhone 16 Worth It? Insights on Apple Smart Technology - ZDNet</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-wake-on-lan-setup-in-windows-11-a-comprehensive-tutorial/"><u>Mastering Wake-on-LAN Setup in Windows 11: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-reality-of-prompt-engineering-in-tech-industries/"><u>The Reality of Prompt Engineering in Tech Industries</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-tutorial-for-immersive-iphone-vr-viewing/"><u>The Ultimate Tutorial for Immersive iPhone VR Viewing</u></a></li>
+</ul></div>
 

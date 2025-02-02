@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Camera Duel: Pixel 9XL Against iPhone 15 Pro - Stunning Results & a Shocking Twist!"
-date: 2025-01-17T16:25:49.510Z
-updated: 2025-01-24T21:28:36.695Z
+date: 2025-01-24T18:21:47.270Z
+updated: 2025-02-01T12:18:02.634Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ The Google Pixel 9 Pro and 9 Pro XL come equipped with a 50MP primary camera, a 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pixel gets skin tones right
@@ -81,7 +81,7 @@ I use the ultrawide camera to take architecture shots or group photos. While I d
 I would prefer the iPhone shot for this particular image, but I can see myself using the wider FoV and fisheye effect on the Pixel 9 Pro when I'm traveling. The Google phone also fared better in low light with the ultrawide camera. That being said, the colors were consistent across three lenses on both phones.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A clear winner in night time
@@ -111,7 +111,7 @@ The iPhone 15 Pro holds up well in indoor and artificial lighting conditions but
 The iPhone 15 Pro shot looks bad, despite the dog not moving, while the Pixel 9 Pro XL was able to capture the subject when it was about to move by the time the shutter was processed. I would pick the new Google phone for night shots unless the iPhone 16 Pro comes with better Night Mode algorithms. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL gets good at selfies
@@ -125,7 +125,7 @@ I like the selfie shooter on the iPhone 15 Pro and have found it better than And
 I like the Pixel 9 Pro XL selfie here but the iPhone was able to get more details around the hair. But you can see areas around my forehead and cheeks where the highlights are blown out. However, both look social media worthy and I'm impressed by the selfie camera on the Pixel 9 Pro. It does a better job than the iPhone when the light source is behind you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL vs iPhone 15 Pro camera: Which one is better?
@@ -170,19 +170,21 @@ I expect the iPhone 16 Pro to do better in the aspects where the iPhone 15 Pro l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-essential-knowledge-unmarked-photo-accumulation/"><u>[New] In 2024, Essential Knowledge Unmarked Photo Accumulation</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-the-monetized-space-a-buyers-primer/"><u>[New] Mastering the Monetized Space A Buyer's Primer</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unlocking-social-media-stardom-essential-strategies-for-instagram-fame/"><u>[Updated] In 2024, Unlocking Social Media Stardom Essential Strategies for Instagram Fame</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/1715838825457-updated-top-6-minecraft-house-ideas-for-beginners/"><u>[Updated] Top 6 Minecraft House Ideas [for Beginners]</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-from-mundane-to-magical-a-guide-to-chromatic-brilliance/"><u>2024 Approved From Mundane to Magical A Guide to Chromatic Brilliance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-an-exhaustive-review-after-an-all-day-office-test-zdnet-insight/"><u>Apple Vision Pro: An Exhaustive Review After an All-Day Office Test | ZDNET Insight</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-attraction-of-gpt-for-hacking/"><u>Exploring the Attraction of GPT for Hacking</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-lack-of-sound-when-using-screen-share-on-discord/"><u>How to Resolve Lack of Sound When Using Screen Share on Discord</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reviving-the-audio-experience-strategies-for-apples-intervention-with-disappointed-sonos-owners/"><u>Reviving the Audio Experience: Strategies for Apple's Intervention with Disappointed Sonos Owners</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/score-your-ipad-deal-for-under-200-during-amazons-epic-labor-day-sale-analysis-and-tips/"><u>Score Your iPad Deal for Under $200 During Amazon's Epic Labor Day Sale - Analysis & Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/uncover-the-best-10-online-vectors-collections-for-2024/"><u>Uncover the Best 10 Online Vectors Collections for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/whats-new-in-photography-an-updated-look-at-lg-360-cameras/"><u>What's New in Photography An Updated Look at LG 360 Cameras</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/will-there-be-a-gpt-5-when-will-gpt-5-launch/"><u>Will There Be a GPT-5? When Will GPT-5 Launch?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-quick-guide-retrieving-past-reddit-threads-instantly-for-2024/"><u>[New] Quick Guide Retrieving Past Reddit Threads Instantly for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-configuring-who-can-see-your-youtube-clips/"><u>[Updated] 2024 Approved Configuring Who Can See Your YouTube Clips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-ultimate-5-remote-viewing-recorders/"><u>[Updated] In 2024, Ultimate 5 Remote Viewing Recorders</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-tag-tactics-amplifying-your-gaming-content-online/"><u>2024 Approved Tag Tactics Amplifying Your Gaming Content Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anticipate-apples-new-airpods-launch-insider-info-on-arrival-and-securing-yours-early-with-confidence/"><u>Anticipate Apple's New AirPods Launch – Insider Info on Arrival and Securing Yours Early with Confidence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-the-bulky-designs-next-gen-magsafe-battery-pack-charges-lightning-fast-for-ultimate-convenience/"><u>Beyond the Bulky Designs: Next-Gen MagSafe Battery Pack Charges Lightning-Fast for Ultimate Convenience!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-success-in-an-algorithmically-augmented-world/"><u>Crafting Success in an Algorithmically Augmented World</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discovering-the-amazon-basics-mobile-tablet-mount-a-hands-free-experience-for-travelers/"><u>Discovering the Amazon Basics Mobile Tablet Mount: A Hands-Free Experience for Travelers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-logitech-g602-mouse-software-on-your-windows-computer/"><u>How to Get the Latest Logitech G602 Mouse Software on Your Windows Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/identifying-the-beneficiary-in-ai-copyright-claims/"><u>Identifying the Beneficiary in AI Copyright Claims</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-streamlining-game-recording-techniques/"><u>In 2024, Streamlining Game Recording Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-alternatives-to-openais-pos-mobile-platform/"><u>Innovative Alternatives to OpenAI’s POS Mobile Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-resource-for-writing-youtube-videos-with-chatgpt/"><u>The Ultimate Resource for Writing YouTube Videos with ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-troubleshooting-steps-addressing-missing-d3dx9n41dll-files/"><u>The Ultimate Troubleshooting Steps: Addressing Missing d3dx9_n41.dll Files</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unveiling-elite-choices-a-guide-to-hdr-cameras/"><u>Unveiling Elite Choices A Guide to HDR Cameras</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-solutions-to-top-6-vehicle-ai-installation-problems/"><u>Unveiling Solutions to Top 6 Vehicle AI Installation Problems</u></a></li>
 </ul></div>
 

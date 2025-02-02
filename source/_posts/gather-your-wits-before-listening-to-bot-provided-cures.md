@@ -1,7 +1,7 @@
 ---
 title: Gather Your Wits Before Listening to Bot-Provided Cures
-date: 2025-01-18T18:48:02.413Z
-updated: 2025-01-24T17:02:08.311Z
+date: 2025-01-28T12:08:50.512Z
+updated: 2025-02-01T00:14:34.924Z
 tags:
   - chatgpt
   - open-ai
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 ![Pig-to-heart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pig-to-heart.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT does not know everything. According to OpenAI, ChatGPT has limited knowledge, particularly when it comes to what happened after September 2021\.
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
  Therefore, it cannot get current news on developments in medical fields. Yes, ChatGPT is unaware of the pig-to-human heart transplant or any other very recent breakthroughs in medical science.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. ChatGPT May Produce Incorrect Information
@@ -60,13 +60,13 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 
  ChatGPT cannot perform a complete virtual checkup or even a physical examination; it can only reply to the symptoms you provide as messages. For a patient's safety and care, errors in physical examination—or completely ignoring physical examination—can be harmful. Because ChatGPT didn't physically examine you, it will offer an incorrect diagnosis.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. ChatGPT Can Provide False Information
 
 ![ChatGPT False Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-false-response.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A recent study by the [University of Maryland School of Medicine](https://www.medschool.umaryland.edu/news/2023/UM-School-of-Medicine-Study-Finds-ChatGPT-Helpful-for-Breast-Cancer-Screening-Advice-With-Certain-Caveats-.html) on ChatGPT's advice for breast cancer screening found the following results:
 
@@ -77,18 +77,18 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
  When we inquired about the book, it replied that it was a "hypothetical" book that it created. ChatGPT won't tell you if a journal article or book is false if you don't inquire further.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. ChatGPT Is Just an AI Language Model
 
 ![ChatGPT Medical](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-medical.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Language models function by memorizing and generalizing text rather than examining or studying a patient's condition. Despite generating responses that match human standards in terms of language and grammar, [ChatGPT still contains a number of problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), much like other AI bots.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Is Not a Replacement for Your Doctor
 
@@ -117,16 +117,16 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-summit-masterpiece-lab-check/"><u>[New] In 2024, Summit Masterpiece Lab Check</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-digital-content-incorporation-for-todays-educator/"><u>[Updated] 2024 Approved Digital Content Incorporation For Today's Educator</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-mastering-the-mix-adding-cropping-and-adjusting-audio-in-canva/"><u>[Updated] 2024 Approved Mastering the Mix Adding, Cropping & Adjusting Audio in Canva</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/access-apples-immersive-3d-spatial-video-experience-on-your-meta-quest-3-easy-setup-guide/"><u>Access Apple’s Immersive 3D Spatial Video Experience on Your Meta Quest 3 – Easy Setup Guide!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/analyzing-gpts-reference-to-external-data-sets/"><u>Analyzing GPT's Reference to External Data Sets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-ultra-thin-ipad-models-a-visit-to-the-apple-store-and-assessing-impact-of-just-008-thickness-techspot/"><u>Exploring Ultra-Thin iPad Models: A Visit to the Apple Store and Assessing Impact of Just 0.08 Thickness | TechSpot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionary-charging-solutions-discover-how-esrs-new-qi2-magsafe-adapters-power-up-iphone-16-devices-quickly-and-coolly-exclusive-on-zdnet/"><u>Revolutionary Charging Solutions: Discover How ESR's New Qi2 MagSafe Adapters Power Up iPhone 16 Devices Quickly and Coolly – Exclusive on ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-your-iphone-15-pro-max-at-a-penny-on-amazon-exclusive-guide-and-blowout-offer-details/"><u>Secure Your iPhone 15 Pro Max at a Penny on Amazon - Exclusive Guide & Blowout Offer Details!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-mastering-creative-effects-in-online-zoom-sessions/"><u>Step-by-Step Guide Mastering Creative Effects in Online Zoom Sessions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tech-savvy-choices-navigating-toms-hardware-reviews-and-recommendations/"><u>Tech Savvy Choices: Navigating Tom's Hardware Reviews and Recommendations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-4-pcmac-full-screen-recorders-ultimate-guide/"><u>[Updated] Top 4 PC/Mac Full-Screen Recorders Ultimate Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciding-on-a-new-ipad-pro-compare-features-and-performance-for-your-perfect-pick-macworld/"><u>Deciding on a New iPad Pro? Compare Features and Performance for Your Perfect Pick | MacWorld</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-enter-the-ispoofer-discord-server-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How to enter the iSpoofer discord server On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-update-your-dell-g15-gpu-drivers-in-windows-pcs/"><u>How to Update Your Dell G15 GPU Drivers in Windows PCs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/macxdvd-application-terms-of-use-and-data-protection-guidelines/"><u>MacXDVD Application Terms of Use & Data Protection Guidelines</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restoring-iphone-gps-functionality-addressing-location-unavailable-error/"><u>Restoring iPhone GPS Functionality: Addressing 'Location Unavailable' Error</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-connection-tips-for-linking-up-airpods-with-quest-3-headphones-without-disturbing-others-zdnet/"><u>Seamless Connection: Tips for Linking Up AirPods with Quest 3 Headphones Without Disturbing Others | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synergizing-education-with-ai-innovations/"><u>Synergizing Education with AI Innovations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-legacy-of-memories-scanning-and-storing-vintage-photographs/"><u>The Legacy of Memories Scanning and Storing Vintage Photographs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-secret-pathway-to-a-complimentary-macbook-air-13in-m3-from-best-buy-exclusive-guide-unveiled/"><u>Unlocking the Secret Pathway to a Complimentary MacBook Air 13in M3 From Best Buy: Exclusive Guide Unveiled</u></a></li>
 </ul></div>
 

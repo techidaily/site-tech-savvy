@@ -1,7 +1,7 @@
 ---
 title: The Insider's Guide to Preordering iPhone 15 and Apple Watch Series 9/Ultra 2 at Unbeatable Prices – Tips From ZDNET
-date: 2025-01-09T21:43:37.917Z
-updated: 2025-01-12T16:10:32.034Z
+date: 2025-01-26T07:12:48.159Z
+updated: 2025-02-01T01:29:20.849Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ The Apple Watch Series 10 starts at $399 for GPS and $499 for cellular. It comes
 This [Best Buy deal](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-series-10-gps-42mm-aluminum-case-with-black-sport-band-s-m-jet-black%2F6572678.p%3FskuId%3D6572678&publisher_slug=itechdaily19598&exclusive=1) only applies to the aluminum Apple Watch Series 10\. (You can also find [deals on the new iPhone 16](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,21 +71,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-outshine-others-expert-tips-on-making-youtube-shorts-pop/"><u>[New] In 2024, Outshine Others Expert Tips on Making YouTube Shorts Pop</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-rhythm-and-reels-for-music-masters-on-ig/"><u>[Updated] In 2024, Rhythm & Reels for Music Masters on IG</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-rated-apps-for-capturing-and-saving-videos-online/"><u>[Updated] Top-Rated Apps for Capturing & Saving Videos Online</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-unpacking-xmedia-suite-review-all-you-need-to-know-for-2024/"><u>[Updated] Unpacking XMedia Suite Review All You Need to Know for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/achieve-job-targets-6-creative-chatgpt-applications/"><u>Achieve Job Targets: 6 Creative ChatGPT Applications</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/tifying-the-mechanics-of-youtube-studio/"><u>Demystifying the Mechanics of YouTube Studio</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-craft-nfts-with-minimal-exertion/"><u>In 2024, How to Craft NFTs with Minimal Exertion</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/instant-insight-snapshots-for-windows-enthusiasts/"><u>Instant Insight Snapshots for Windows Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/massive-savings-in-tech-gadgets-grab-the-new-ipad-10gen-for-just-334-enjoy-ultra-hd-with-roku-4k-and-charge-smartly-with-anker-deals/"><u>Massive Savings in Tech Gadgets: Grab the New iPad 10Gen for Just $334, Enjoy Ultra HD with Roku 4K, and Charge Smartly With Anker Deals!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-chatgpt-experience-on-macos/"><u>Maximizing ChatGPT Experience on macOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-engagement-with-these-exceptional-5-ai-tools/"><u>Optimizing Engagement with These Exceptional 5 AI Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/preventing-data-spills-in-workplace-chatgpt/"><u>Preventing Data Spills in Workplace ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sculpting-serenity-customized-zen-habits-powered-by-gpt/"><u>Sculpting Serenity: Customized Zen Habits Powered by GPT</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/viewsplit-diagnostics/"><u>ViewSplit Diagnostics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-human-touch-still-beats-ai-messaging-solutions/"><u>Why Human Touch Still Beats AI Messaging Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/your-chatgpt-records-made-easy-with-these-tools/"><u>Your ChatGPT Records Made Easy with These Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-masterful-approach-to-creating-attractive-yt-summaries/"><u>[Updated] In 2024, Masterful Approach to Creating Attractive YT Summaries</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-90-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-regulation-the-responsible-route/"><u>AI Regulation: The Responsible Route</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-forward-the-innovative-approaches-that-may-enable-apple-to-surpass-openai-microsoft-and-google-at-wwdc-2024-insight/"><u>Future Forward: The Innovative Approaches That May Enable Apple to Surpass OpenAI, Microsoft and Google at WWDC 2024 Insight</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/google-worker-reveals-preference-finding-happiness-in-macbooks-not-windows-laptops-an-in-depth-look-by-zdnet/"><u>Google Worker Reveals Preference: Finding Happiness in MacBooks, Not Windows Laptops – An In-Depth Look by ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-multilingualism-chatgpt-as-your-translation-companion/"><u>Navigating Multilingualism: ChatGPT as Your Translation Companion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/real-time-gpt-4-use-for-enhanced-chatgpt-experience/"><u>Real-Time GPT-4 Use for Enhanced ChatGPT Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/scholars-secret-navigating-how-to-secure-a-tidal-student-offer/"><u>Scholar's Secret: Navigating How to Secure a Tidal Student Offer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-new-ipad-9th-generation-at-a-steal-only-250-post-apple-launch-discover-more/"><u>Secure Your New iPad (9Th Generation) at a Steal: Only $250 Post-Apple Launch! Discover More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplify-your-inbox-clear-out-clutter-with-one-simple-email-strategy-no-multi-account-setup-required/"><u>Simplify Your Inbox: Clear Out Clutter with One Simple Email Strategy – No Multi-Account Setup Required!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-power-of-ai-transparency-via-openais-shap-e/"><u>The Power of AI Transparency via OpenAI's SHAP E</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-civ-5-freezes-on-computer/"><u>Troubleshooting Civ 5 Freezes on Computer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Snapchat's AI Dilemma: MyAI or ChatGPT?"
-date: 2024-08-29T19:41:16.864Z
-updated: 2024-08-30T19:41:16.864Z
+date: 2025-01-27T19:59:00.288Z
+updated: 2025-02-01T10:09:14.435Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,15 @@ thumbnail: https://thmb.techidaily.com/dd18e8bc3c9f273d09d135719fd511870ffe57b02
 
 ![Prompt for Alien lens in My AI chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/prompt-for-alien-lens-in-my-ai-chat.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![My AI recommending an Aliens Lens to use](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-recommending-an-aliens-lens-to-use.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Alien Lens activated in Snapchat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/alien-lens-activated-in-snapchat.jpeg)
 
@@ -52,8 +60,9 @@ Close
  But you should be careful because ChatGPT sometimes “hallucinates” facts. You should still Google certain facts you’re not sure about to make sure it’s accurate. And that’s just one of the [major problems with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/).
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fun and Games: ChatGPT vs. My AI
 
  While it’s possible to still play games with ChatGPT and have it generate fun, random stuff, the key difference with using My AI is that it’s quicker to access and use than ChatGPT. All you have to do to get to My AI is pull out your phone and open Snapchat.
@@ -63,8 +72,9 @@ Close
 ![My AI giving a quick random fact about the shortest war in history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-giving-a-quick-random-fact-about-the-shortest-war-in-history.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![My AI suggesting the 20 questions game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-suuggesting-the-20-questions-game.jpeg)
 
 Close
@@ -76,8 +86,9 @@ Close
  However, if your game is a big, complicated idea, then it’s a better option to use ChatGPT. It seems to have a more robust data pool and a better ability to retain information. You can play a [detailed text-based RPG on ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-as-an-interactive-rpg/) using our complex prompt to test out the breadth of ChatGPT’s abilities as a game.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Work or Professional Help: ChatGPT vs. My AI
 
  ChatGPT is the AI to go to for professional assistance. Open a new browser tab and keep ChatGPT open as you go about your business. The AI could be useful for simulations, simple questions you don’t need to Google, math problems, coding, translations, and many, many more.
@@ -88,28 +99,22 @@ Close
 
  ChatGPT also has the advantage of being able to format its output. It can create numbered lists, and even place its output inside code blocks, making it more presentable for people who need to see it like that. ChatGPT’s generated code also has more notes and better explanations.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Directions and Local Navigation: ChatGPT vs. My AI
 
  My AI can access the internet, Snap Maps, and your location. Therefore, it’s in a better place to give directions than the offline ChatGPT. This doesn’t mean that you can trust My AI completely with giving you directions to a place. You should only use it when you need a general idea or a description of where you’re going.
 
 ![My AI pointing out a nearby taco place](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-pointing-out-a-nearby-taco-place-1.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![My AI pointing out the nearest stadium](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-pointing-out-the-nearest-stadium.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Feel free to ask My AI questions like where the nearest parks or stadiums are, and to give you a description of them. But please, check again with your map to ensure you’re actually going the right way.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Natural Language Chats: ChatGPT vs. My AI
 
  Snapchat’s My AI was designed specifically for light conversation, but its lack of depth can get annoying really quickly. If you would like to have a conversation encompassing a wider breadth of topics and deep philosophical themes, then it’s better to talk to ChatGPT than My AI.
@@ -118,14 +123,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![ChatGPT commenting on whether Stoicism relates with its morals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-commenting-on-whether-stoicism-relates-with-its-morals.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  However, when you compare it with My AI’s response, you begin to see the clear difference between the two of them in terms of depth of conversation:
 
 ![My AI commenting on Stoicism](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-commenting-on-stoicism.jpeg)
 
  My AI responses seem like a more summarized version of ChatGPT’s.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Personalized Recommendations: ChatGPT vs. My AI
 
@@ -143,14 +149,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Even though the two chatbots are powered by the same technology, their accessibility, tone, and design make them better suited for different tasks. We’ve made a small list of the different things you could do with them, so you can better utilize them.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -159,4 +162,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-art-of-producing-captivating-facebook-video-content/"><u>[New] 2024 Approved The Art of Producing Captivating Facebook Video Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-elevate-your-livestream-game-twitch-and-youtube-via-obs/"><u>[New] In 2024, Elevate Your Livestream Game Twitch & YouTube via OBS</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-stepwise-pathway-to-becoming-a-streaming-maestro-on-discord/"><u>[New] The Stepwise Pathway to Becoming a Streaming Maestro on Discord</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-learn-to-navigate-large-tiktok-files-editing-made-simple-and-swift/"><u>[Updated] Learn to Navigate Large TikTok Files Editing Made Simple and Swift</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-screensnap-sage-mastering-captures-technology/"><u>[Updated] ScreenSnap Sage Mastering Captures Technology</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-secret-behind-successful-igtv-uploads-from-h-videos/"><u>2024 Approved The Secret Behind Successful IGTV Uploads From H-Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-apple-watchs-battery-top-8-essential-setting-adjustments/"><u>Boost Your Apple Watch's Battery: Top 8 Essential Setting Adjustments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/celebrate-memorial-day-with-savings-apple-watch-se-now-at-60-off-my-top-purchase-this-year/"><u>Celebrate Memorial Day with Savings! Apple Watch SE Now at $60 Off, My Top Purchase This Year</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-google-pixel-4a-a-smartphone-that-offers-just-what-you-need/"><u>Evaluating the Google Pixel 4a - A Smartphone That Offers Just What You Need</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-apple-watch-series/"><u>Exclusive Apple Watch Series</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expected-postponement-initial-release-of-apples-smart-tech-innovations-pushed-to-oct-sources-say/"><u>Expected Postponement: Initial Release of Apple's Smart Tech Innovations Pushed to Oct, Sources Say</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-online-availability-to-local-usage-llama-2s-journey/"><u>From Online Availability to Local Usage: Llama 2'S Journey</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-notable-top-5-superlight-action-camera-picks/"><u>In 2024, Notable Top 5 Superlight Action Camera Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pouring-knowledge-chatgpt-and-cocktails/"><u>Pouring Knowledge: ChatGPT & Cocktails</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/step-by-step-guide-for-pcmac-movie-recording/"><u>Step-by-Step Guide for PC/Mac Movie Recording</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-5-limitations-of-ai-for-professional-writing-careers/"><u>The 5 Limitations of AI for Professional Writing Careers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transition-alert-apples-end-of-an-era-for-finewoven-products-launching-beats-inspired-accessories-as-revealed/"><u>Transition Alert! Apple's End of an Era for FineWoven Products, Launching Beats-Inspired Accessories as Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/triple-pillars-of-ai-communication-integrating-chatgpt-with-wolfram-alpha/"><u>Triple Pillars of AI Communication: Integrating ChatGPT with Wolfram Alpha</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/world-first-in-photo-repair-released-by-stellar-exclusive-update-on-cutting-edge-app/"><u>World First in Photo Repair Released by Stellar - Exclusive Update on Cutting-Edge App</u></a></li>
+</ul></div>
 

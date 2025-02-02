@@ -1,7 +1,7 @@
 ---
 title: Adaptive Fitness Regimens via Machine Learning Assistance
-date: 2025-01-17T21:21:34.621Z
-updated: 2025-01-24T17:10:09.603Z
+date: 2025-01-27T20:37:47.712Z
+updated: 2025-02-01T06:14:01.783Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Input Client’s Goals and Current Fitness Levels
 
  ChatGPT is a [great way to build a custom workout](https://www.makeuseof.com/build-a-custom-workout-generate-exercise-routines-from-experts/) plan if you explain to it exactly what your client aims to achieve. Training intensity may be different for people, depending on sex, age, size, and goals. This is why you must be specific.
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
  In the image below, ChatGPT has created a workout plan for a 25-year-old who wants to build muscle quickly.
 
 ![Workout plan prompt for 25-year-old](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/workout-plan-prompt-for-25-year-old.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Simply inputting the client’s goals and current fitness levels while you ask ChatGPT to create the workout plan is a good starting point. After doing this, you can use other prompts and measures to create a more comprehensive workout plan.
 
@@ -62,11 +62,11 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
 ![Madi's workout plan by Chat GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/madi-s-workout-plan-by-chat-gpt.jpg)
 
- Long prompts are great if you have many clients across a wide range of fitness specialties and goals. They save you time because you just have to gather all the client’s special information and feed them to ChatGPT in well-formed sentences. Not providing context is one of the [ChatGPT prompt mistakes](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) that long prompts can help you avoid.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Long prompts are great if you have many clients across a wide range of fitness specialties and goals. They save you time because you just have to gather all the client’s special information and feed them to ChatGPT in well-formed sentences. Not providing context is one of the [ChatGPT prompt mistakes](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) that long prompts can help you avoid.
 
 ## Review the Workout Plan
 
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
  So, because you must properly [plan rest days for optimum fitness](https://www.makeuseof.com/plan-workout-rest-days-optimum-fitness/), you may need to adjust the plan based on your client’s schedule. You could instruct ChatGPT to reschedule the rest days or reschedule them yourself while sticking to the AI’s exercise suggestions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tweak the Plan to Make Room for Progress
@@ -94,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
  For example, ChatGPT has modified the 25-year-old man’s home workout plan to make it more intense. From the image below, you’ll see that it has replaced normal push-ups with plyometric push-ups. And instead of planks, it has prescribed planks with shoulder taps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Add Other Forms of Training
 
  With changes in muscle endurance and general lifestyle over time, your client may need to engage in other training and exercise forms. For example, if they now have access to gym equipment but only once a week because of their busy schedule, you can modify a home workout plan to include one gym day per week.
@@ -102,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
  Also, you can ask ChatGPT to add cardio, conditioning, CrossFit, or mobility exercises to a workout plan for an all-encompassing approach to fitness, depending on your client’s current needs and preferences.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Vary the Exercises
 
  To avoid monotony and keep your client’s motivation high, you can also instruct ChatGPT to vary exercises. While this is similar to increasing exercise intensity, it is completely different because it only involves creating alternatives, not making the exercises more difficult.
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
  You can use this initiative for periods when your client is losing consistency, as it adds some spice, making their workouts more interesting. ChatGPT has many workout and exercise suggestions, so you can continue experimenting until you find something you like.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Remember to Allow Your Expertise to Shine
@@ -141,18 +141,22 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-simplified-guide-enhancing-skype-experience-via-zoom/"><u>[New] 2024 Approved Simplified Guide Enhancing Skype Experience via Zoom</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-instagram-tips-uploading-and-sharing-youtube-content/"><u>[New] In 2024, Instagram Tips Uploading & Sharing YouTube Content</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-iphone-sound-capturing-101-voice-memo-processing/"><u>[New] In 2024, IPhone Sound Capturing 101 – Voice Memo Processing</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-ultimate-kid-friendly-drone-guide-for-first-flyers/"><u>[Updated] The Ultimate Kid-Friendly Drone Guide for First Flyers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/adapting-to-remote-work-6-powerful-chatgpt-tools/"><u>Adapting to Remote Work: 6 Powerful ChatGPT Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-revolutionizing-fitness-coaching-techniques/"><u>ChatGPT: Revolutionizing Fitness Coaching Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-through-complexity-in-employee-correspondence/"><u>Cutting Through Complexity in Employee Correspondence</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-and-install-the-right-acer-aspire-drivers-on-windows-computers-efficiently/"><u>Find & Install the Right Acer Aspire Drivers on Windows Computers Efficiently</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-13-mini-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone 13 mini? Heres the Best Fixes</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-breaking-the-ice-a-guide-to-crafting-strikingly-effective-tiktok-captions/"><u>In 2024, Breaking the Ice A Guide to Crafting Strikingly Effective TikTok Captions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methodical-approach-for-fixing-battlenet-login-failure/"><u>Methodical Approach for Fixing Battle.net Login Failure</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openai-fights-back-against-gpt-dumbing-rumors/"><u>OpenAI Fights Back Against GPT Dumbing Rumors</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-a05s-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy A05s</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1727785151700-w2-plus-l2-d2/"><u> [ W^2 + L^2 = D^2 </u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-harnessing-high-dynamic-range-the-future-of-photo-techniques/"><u>[New] 2024 Approved Harnessing High Dynamic Range The Future of Photo Techniques</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-go-beyond-basic-10-advanced-whatsapp-tips-and-tricks-you-must-try/"><u>[New] In 2024, Go Beyond Basic 10 Advanced WhatsApp Tips and Tricks You Must Try</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-channel-naming-excellence-tips-and-strategies/"><u>[Updated] 2024 Approved Channel Naming Excellence Tips & Strategies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-quickcam-plus-audio-guide-integration-tool/"><u>[Updated] QuickCam + Audio Guide Integration Tool</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cleared-twitter-of-checkmarks-linuss-revelations-trojan-analysis-and-ai-shortcom-writes/"><u>Cleared Twitter of Checkmarks, Linus’s Revelations, Trojan Analysis, & AI Shortcom Writes.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digitizing-documents-ai-driven-pdf-focused-methodologies-with-chatgpt/"><u>Digitizing Documents: AI-Driven, PDF-Focused Methodologies with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-analysis-unveiling-the-power-of-the-new-ipad-air-m2-your-definitive-purchase-guide-according-to-zdnet/"><u>Expert Analysis: Unveiling the Power of the New iPad Air (M2) – Your Definitive Purchase Guide, According to ZDNET</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-explore-android-written-by-dr-jane-smith-a-renowned-psychologist-specializing-in-cognitive-development-and-learning-styles/"><u>In 2024, Explore Android' Written By Dr. Jane Smith, a Renowned Psychologist Specializing in Cognitive Development and Learning Styles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/macbook-showdown-unraveling-the-differences-between-macbook-air-and-macbook-pro-to-help-you-make-an-informed-decision/"><u>MacBook Showdown: Unraveling the Differences Between MacBook Air & MacBook Pro to Help You Make an Informed Decision</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-narratives-innovative-uses-of-chatgpt-in-gaming-scriptwriting/"><u>Mastering Narratives: Innovative Uses of ChatGPT in Gaming Scriptwriting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-training-sessions-leading-7-gpt-additions/"><u>Optimize Training Sessions: Leading 7 GPT Additions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/record-panel-wide-digital-view/"><u>Record Panel-Wide Digital View</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-troubleshooting-steam-game-launch-issues-on-windows-11/"><u>Resolved: Troubleshooting Steam Game Launch Issues on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-for-aspiring-innovators-of-openai/"><u>The Ultimate Guide for Aspiring Innovators of OpenAI</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-oppo-k11x-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Oppo K11x without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
 

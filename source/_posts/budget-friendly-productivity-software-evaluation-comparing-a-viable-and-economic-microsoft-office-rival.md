@@ -1,7 +1,7 @@
 ---
 title: "Budget-Friendly Productivity Software Evaluation: Comparing a Viable and Economic Microsoft Office Rival"
-date: 2024-08-29T19:37:52.355Z
-updated: 2024-08-30T19:37:52.355Z
+date: 2025-01-29T11:29:09.849Z
+updated: 2025-02-01T10:52:22.196Z
 tags:
   - deals
 categories:
@@ -93,6 +93,10 @@ Expand
 
 ![The OfficeSuite website on a laptop's browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/officesuite-website-opt-12.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Cianna Garrison / How-To Geek
 
  After receiving a one-year OfficeSuite Personal subscription, I downloaded the software. Then I entered the verification code I received and quickly verified the account via email. I had OfficeSuite up and running in just a few minutes. Once installed, I downloaded several of my existing files from Google Docs and Google Sheets to get myself working, as well as some existing documents on my laptop.
@@ -106,8 +110,9 @@ Cianna Garrison / How-To Geek
  The primary difference is the organization. While Microsoft uses tabs with easier-to-access buttons, OfficeSuite uses drop-down menus, so an action like inserting a table in Sheets will involve finding the "Insert" drop-down menu and selecting "Table," rather than looking for a "Table" button under the "Insert" tab.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  All the Apps You Need, With Some Limitations
 
 ![The OfficeSuite apps close up on a laptop PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/officesuite-apps-close-up.jpg) 
@@ -117,6 +122,10 @@ Cianna Garrison / How-To Geek
  As a writer, I use word processors _a lot._ Since I'm also a freelancer, I frequently use PDFs and spreadsheets. And let's not even talk about email—my inbox sometimes gives me nightmares. At any rate, productivity apps are non-negotiable for me; I use them daily for just about everything, from budgeting to tracking invoices to drafting projects.
 
  I had high expectations for OfficeSuite. At the very least, I wanted to see that these apps were workable for someone like me who relies on them regularly. For the most part, I was impressed with the functionality of OfficeSuite's apps and file compatibility, but some definite weaknesses could sway your decision to subscribe. A glaring problem for some users is that OfficeSuite doesn't have a full suite of apps for Mac users yet. The website says the developer will add more modules and features to the macOS version in the future, but since it's unclear when that is, if you're strictly a Mac user, you might want to skip OfficeSuite for now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  OfficeSuite Documents
 
@@ -128,9 +137,6 @@ Close
 
  Other useful features seemed to be well-organized and easy to find. A few actions required a couple of extra clicks than seemed necessary. For instance, accessing "merge formatting" or inserting a link didn't have buttons—I had to dig for them. The alt key codes I usually use to insert symbols like em dashes didn't work in Documents. Instead, I had to use the Unicode keys in the Symbols menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  OfficeSuite PDF
 
  Using OfficeSuite's PDF was a pleasure because it was clearly laid out and easy to locate helpful tools like highlighting, export buttons, and a digital signature tool. I wasn't able to edit PDFs with my membership, as that's not included without purchasing a license for [PDF Extra](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002401/https://pdfextra.com/pricing) ($50 per year or $100 lifetime license). I didn't find this to be bothersome, since I could easily convert a PDF to a Word document and then save it as a PDF again if I needed a new version of it.
@@ -141,9 +147,6 @@ Close
 
  Since I often have to sign PDFs but don't pay for an Adobe membership, I'm typically paying one-off fees for online services to add electronic signatures, and this small feature is a major win, if you ask me.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  OfficeSuite Slides
 
  While I don't make that many presentations these days, OfficeSuite's Slides offers a convenient alternative to the Microsoft PowerPoint app. I downloaded old college presentations I had saved and opened them with zero difficulty. I was also able to edit those, and I found most of the Slides tools were well organized.
@@ -158,9 +161,6 @@ Close
 
 ![A screenshot of an email inbox using OfficeSuite's Mail app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-21-124916.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Cianna Garrison / How-To Geek
 
  If I had to pick my least favorite app that comes with OfficeSuite, it would be the Mail app. Personally, this might be a bias because I never like to use email apps that conglomerate all my mail into one inbox. I prefer Gmail's organized categorization, and I'm also a little bit over-the-top with how many labels I create to store important emails for later. Nonetheless, the Mail app does its job, with limitations.
@@ -172,8 +172,9 @@ Cianna Garrison / How-To Geek
  The best aspect, in my opinion, was the Mail app's calendar sync, which links to your Google Calendar (or other calendar apps). I easily edited events, deleted events, and also got a cute little reminder that dinged its way onto my screen to remind me my work shift was starting. The Mail app is also PC-only, so it's limited in its helpfulness if you're on the go.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  OfficeSuite Sheets
 
  Using Sheets was almost as efficient as Excel, but I did notice a tiny lag when entering data. It was negligible enough to overlook, however, and I used Sheets to continue budgeting and freelancing spreadsheets, as well as track my submissions to literary magazines and shamelessly color code blocks of data.
@@ -182,9 +183,6 @@ Cianna Garrison / How-To Geek
 
  Highlighting a single column of text gave me the expected figures for average, count, and sum, and when I pulled up Excel to get a side-by-side glance at the layout, most major items were in similar spots on the Sheets version. Which is probably why everything was so easy for me to find. For my purposes, Sheets performed just as well as using Google Sheets or an Excel spreadsheet, with the small issue of data entry speed being off by a hair. If you live and breathe spreadsheets, then the small differences in drop-down menus instead of tabs might be enough to make you wary, but for the casual and moderate spreadsheet creators, the differences are easily ignored.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ##  MobiDrive Cloud Storage: 50GB Included and a Convenient App
 
  Having 50GB of included cloud storage was a helpful feature that I appreciated—especially since that meant I could access important files on my smartphone via the MobiDrive app. I had to download MobiDrive separately on both my computer and phone to get the most out of it. But after I did, I was able to save files to my MobiDrive while working on my laptop, then switch to the MobiDrive app on my phone and edit the same files. This sort of flexibility is something I find priceless, and I think many other professionals do, too.
@@ -203,7 +201,15 @@ Close
 
 ![Best-Microsoft-Office-Alternatives-7-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/best-microsoft-office-alternatives-7-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  OfficeSuite Personal
 
@@ -219,8 +225,6 @@ An OfficeSuite plan makes an excellent alternative to other productivity suites.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -228,4 +232,21 @@ An OfficeSuite plan makes an excellent alternative to other productivity suites.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-achieve-unprecedented-image-quality-via-av1-on-youtube-for-2024/"><u>[Updated] Achieve Unprecedented Image Quality via AV1 on YouTube for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-videotwitterconverter-direct-media-conversion-for-2024/"><u>[Updated] VideoTwitterConverter Direct Media Conversion for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/camera-face-off-showdown-who-wins-between-pixel-eby-9-pro-xl-and-iphone-15-pro-stunning-conclusions-revealed-zdnet/"><u>Camera Face-Off Showdown: Who Wins Between Pixel Eby 9 Pro XL and iPhone 15 Pro? Stunning Conclusions Revealed | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cyber-shifts-and-sways-prognosticating-top-7-trends/"><u>Cyber Shifts and Sways: Prognosticating Top 7 Trends</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-what-to-do-if-your-google-meet-webcam-is-malfunctioning/"><u>Fixing the Issue: What to Do If Your Google Meet Webcam Is Malfunctioning</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-turn-off-igtv-for-2024/"><u>How to Turn Off IGTV for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-bridal-bliss-filmed-alike-high-quality-8-marriage-videos-online/"><u>In 2024, Bridal Bliss Filmed Alike High-Quality 8 Marriage Videos Online</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-heartfelt-cheers-access-to-free-and-paid-otu-ideas/"><u>In 2024, Heartfelt Cheers Access to Free & Paid OTU Ideas</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-stop-motion-made-easy-top-5-online-tools-free-and-paid/"><u>In 2024, Stop Motion Made Easy Top 5 Online Tools (Free and Paid)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-your-voice-five-strategies-to-manage-chatgpt/"><u>Leverage Your Voice: Five Strategies to Manage ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-in-bing-easy-user-signup/"><u>Leveraging AI in Bing: Easy User Signup</u></a></li>
+<li><a href="https://win-latest.techidaily.com/reconstructing-deleted-ext3-partitions-on-windows-11-and-10-with-four-essential-steps/"><u>Reconstructing Deleted EXT3 Partitions on Windows 11 & 10 with Four Essential Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smartphone-evolution-the-top-8-android-and-ios-ai-apps/"><u>Smartphone Evolution: The Top 8 Android & iOS AI Apps</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-t2x-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo T2x 5G Reset Code | Dr.fone</u></a></li>
+</ul></div>
 

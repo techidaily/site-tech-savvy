@@ -1,7 +1,7 @@
 ---
 title: "Unleash Performance: High-End Ryzen 9 6900HX NUC-Like Mini PC Boasting 4K Display & Massive Memory/Storage Capacity"
-date: 2024-08-25T17:39:06.331Z
-updated: 2024-08-26T17:39:06.331Z
+date: 2025-01-26T01:07:42.126Z
+updated: 2025-01-31T21:36:38.694Z
 tags:
   - desktop
 categories:
@@ -45,6 +45,10 @@ The Xyber Team launched its Xyber XPC Mini Desktop Computer campaign on[Indiegog
 
  We don’t have pricing information yet about the Xyber XPC, though, as it’s still in the campaign pre-launch stage. But the team behind the mini-PC Cybertruck says that they’re optimizing the BIOS and OS to get the best performance out of this small desktop computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -55,14 +59,11 @@ The Xyber Team launched its Xyber XPC Mini Desktop Computer campaign on[Indiegog
 
  We’d love to get on this mini-PC Cybertruck and run it at its pace. Some expect it to perform similarly to other handhelds powered by the AMD Z1 Extreme, like the ROG Ally and Lenovo Legion Go, but we will only know once we make the Xyber XPC go through our[benchmarks](https://www.tomshardware.com/tag/benchmark) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -71,8 +72,24 @@ The Xyber Team launched its Xyber XPC Mini Desktop Computer campaign on[Indiegog
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-drafting-a-compelling-closing-statement-for-tiktok/"><u>[New] 2024 Approved Drafting a Compelling Closing Statement for TikTok</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-guide-to-vlogger-vogue-launching-your-cosmetic-channel/"><u>[New] The Ultimate Guide to Vlogger Vogue Launching Your Cosmetic Channel</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-adeptness-at-mobile-app-development-for-luts/"><u>[Updated] 2024 Approved Adeptness at Mobile App Development for LUTs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-harness-iphones-potential-for-breathtaking-hdr-images/"><u>[Updated] 2024 Approved Harness iPhone's Potential for Breathtaking HDR Images</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/access-exclusive-previews-of-upcoming-apple-vision-pro-features-through-testflight-a-step-by-step-guide-by-zdnet/"><u>Access Exclusive Previews of Upcoming Apple Vision Pro Features Through TestFlight: A Step-by-Step Guide by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-modern-academia-five-key-educational-applications/"><u>ChatGPT's Role in Modern Academia: Five Key Educational Applications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-working-with-mac-pages-formatted-files-on-a-windows-desktop/"><u>Complete Guide: Working with Mac Pages Formatted Files on a Windows Desktop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diving-into-langchains-world/"><u>Diving Into LangChain's World</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficiently-securing-your-data-iphone-backup-strategies-using-icloud-and-mac-tools/"><u>Efficiently Securing Your Data: IPhone Backup Strategies Using iCloud and Mac Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/forging-a-safe-ai-landscape-ceo-urges-stronger-governance/"><u>Forging a Safe AI Landscape: CEO Urges Stronger Governance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/grasping-ai-vulnerability-demystifying-prompt-injections/"><u>Grasping AI Vulnerability: Demystifying Prompt Injections</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/guidelines-on-fixing-broken-nikon-video-data/"><u>Guidelines on Fixing Broken Nikon Video Data</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-anthropics-ai-prompt-vault/"><u>Harnessing Anthropic's AI Prompt Vault</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-s17-pro-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo S17 Pro Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/retrieve-your-mislaid-airpods-with-these-simple-steps-dont-lose-them-again/"><u>Retrieve Your Mislaid AirPods with These Simple Steps - Don't Lose Them Again!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsungs-latest-contender-the-galaxy-buds-3-pro-vs-apples-airpods-pro/"><u>Samsung's Latest Contender: The Galaxy Buds 3 Pro Vs. Apple's AirPods Pro</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-midland-gxt1000vp4-review-your-ultimate-companion-for-high-quality-radio-dialogue/"><u>The Midland GXT1000VP4 Review - Your Ultimate Companion for High-Quality Radio Dialogue</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->

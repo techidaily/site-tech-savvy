@@ -1,7 +1,7 @@
 ---
 title: Harnessing Microsoft’s Copilot to Elevate AI Artistry Standards
-date: 2025-01-18T22:45:53.366Z
-updated: 2025-01-24T19:24:22.679Z
+date: 2025-01-25T09:26:03.980Z
+updated: 2025-02-01T00:03:20.256Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 * [Should You Use Microsoft Copilot Image Creator or ChatGPT Plus With DALL-E 3?](https://turbotech.pxf.io/pyx4je)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -58,15 +58,15 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 
  There are two "versions" of Copilot Image Creator, though they both work similarly. You can access the Copilot Image Creator directly from Microsoft Copilot within the Edge browser, which is an exclusive Edge feature. However, not wanting to cut potential users out, you can also access it in any browser by heading to the [Copilot Image Creator](https://copilot.microsoft.com/). I'll cover the differences between each option below, but both AI image creation tools follow the same premise: you input your words, and the AI tool turns them into unique images.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Microsoft Copilot Image Generator
 
  Microsoft's Copilot Image Creator uses DALL-E 3 to create AI images. DALL-E 3 is the same AI text-to-image you'll find on ChatGPT Plus, OpenAI's premium $20 subscription tier. So here's the rub: you can use the same DALL-E 3 image creation tool with Copilot without paying a penny.
 
  Copilot Image Creator is completely free, which gives it a substantial advantage over ChatGPT Plus. It's also not the only [reason to use Microsoft Copilot instead of ChatGPT](https://www.makeuseof.com/reasons-to-use-copilot-instead-of-chatgpt/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Microsoft Copilot Image Creator in Edge
 
@@ -88,10 +88,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Microsoft Copilot Image Creator in Any Browser
 
  If you don't use Edge, you can use Copilot Image Creator in any browser with its dedicated site. The Copilot Image Creator site is mostly the same but with a couple of differences.
@@ -101,12 +97,16 @@ Close
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Second, the Image Creator available to all browsers uses a "boost" token system to provide speedy images. You start with 100 boosts, and each time you input a prompt, it uses a boost. Once your boosts run out, Image Creator won't prioritize your creations, and they can take a few minutes to appear. It doesn't appear to make a difference to quality, mind, just time.
 
  What I found interesting was that Image Creator images generated in Copilot on Edge will appear in your Image Creator recent images. Edits you make to the Copilot on Edge images will update across the two tools as you make them, but it's a one-way process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should You Use Microsoft Copilot Image Creator or ChatGPT Plus With DALL-E 3?
 
@@ -137,22 +137,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-pinnacle-of-participation-chronicling-the-most-upvoted-posts-on-reddit/"><u>[New] 2024 Approved The Pinnacle of Participation Chronicling the Most Upvoted Posts on Reddit</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-detailed-overview-of-xvision-labs-comprehensive-study/"><u>[Updated] 2024 Approved Detailed Overview of XVision Lab's Comprehensive Study</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-exploring-dji-phantom-3s-advanced-aerial-capabilities/"><u>[Updated] Exploring DJI Phantom 3’S Advanced Aerial Capabilities</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-exploring-social-networking-youtube-content-on-fb/"><u>[Updated] Exploring Social Networking YouTube Content on FB</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-authentic-user-experiences-through-chatgpt-generated-persons/"><u>Crafting Authentic User Experiences Through ChatGPT-Generated Persons</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empowering-professional-growth-with-these-6-reasons-to-use-chatgpt/"><u>Empowering Professional Growth with These 6 Reasons to Use ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-ai-in-the-art-of-mixed-drinks/"><u>Evaluating AI in the Art of Mixed Drinks</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-free-up-iphone-6-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up iPhone 6 Plus Space | Dr.fone</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/identifying-and-troubleshooting-computer-hardware-issues-a-guide-by-yl-computing/"><u>Identifying and Troubleshooting Computer Hardware Issues: A Guide by YL Computing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-hero5-session-vs-hero-session/"><u>In 2024, GoPro Hero5 Session Vs Hero Session</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-understanding-mixed-realitys-impact-on-interaction/"><u>In 2024, Understanding Mixed Reality's Impact on Interaction</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/latest-update-apples-rumored-return-with-airpower-could-the-iconic-wireless-charger-be-making-a-comeback/"><u>Latest Update: Apple's Rumored Return with AirPower - Could the Iconic Wireless Charger Be Making a Comeback?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-efficiency-top-4-chatgpt-strategies-for-productivity-boost/"><u>Maximizing Efficiency: Top 4 ChatGPT Strategies for Productivity Boost</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-world-of-artificial-intelligence-the-role-of-chatbot-censorship/"><u>Navigating the World of Artificial Intelligence: The Role of Chatbot Censorship</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/social-media-storytelling-enhanced-by-gpt-3/"><u>Social Media Storytelling Enhanced by GPT-3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transcending-communication-can-claude-surpass-chatgpt/"><u>Transcending Communication: Can Claude Surpass ChatGPT?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upgrading-with-the-newest-tech-a-comprehensive-guide-to-choosing-between-iphone-15-pro-and-iphone-13-pro-wired-opinion/"><u>Upgrading with the Newest Tech: A Comprehensive Guide to Choosing Between IPhone 15 Pro and IPhone 13 Pro | Wired Opinion</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-amplify-content-with-free-audio-samples-for-2024/"><u>[New] Amplify Content with Free Audio Samples for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-discover-top-6-short-video-download-sites-free/"><u>[New] Discover Top 6 Short Video Download Sites (FREE)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-streamline-your-playlist-import-music-into-inshot-for-2024/"><u>[New] Streamline Your Playlist Import Music Into InShot for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-recalibrating-youtube-rearranging-with-ease-and-speed/"><u>[Updated] Recalibrating YouTube Rearranging with Ease and Speed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-behind-the-lens-detailed-evaluation-of-sj-cam-s6/"><u>2024 Approved Behind the Lens Detailed Evaluation of SJ-CAM S6</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chromes-best-8-extensions-infused-with-ai-productivity-features/"><u>Chrome's Best 8 Extensions Infused With AI Productivity Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-6-ios-features-that-make-gpt-better-here/"><u>Exploring 6 iOS Features That Make GPT Better Here</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-ahead-of-the-curve-with-ios-1/"><u>Get Ahead of the Curve with iOS 1</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-access-online-content-on-your-television-screen-at-home/"><u>How To Access Online Content on Your Television Screen at Home</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-2023s-standout-youtube-music-playback-gems/"><u>In 2024, 2023'S Standout YouTube Music Playback Gems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-max-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Max with/without SIM Card</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/innovators-designing-online-marvel-experiences/"><u>Innovators Designing Online Marvel Experiences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-communication-using-your-apple-watch-to-stay-connected-with-loved-ones/"><u>Mastering Communication: Using Your Apple Watch to Stay Connected with Loved Ones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/outshining-chatgpt-10-revolutionary-responses/"><u>Outshining ChatGPT: 10 Revolutionary Responses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pixel-watch-pro-and-apples-series-9-showdown-determining-the-best-investment-in-next-gen-smartwatches/"><u>Pixel Watch Pro and Apple's Series 9 Showdown: Determining the Best Investment in Next-Gen Smartwatches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-business-gadgetry-the-new-era-of-apple-vision-pro-enterprise-device-management-featured-by-zdnet/"><u>Revolutionizing Business Gadgetry: The New Era of Apple Vision Pro Enterprise Device Management, Featured by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-constructive-and-destructive-sides-of-ai-writing-assistance/"><u>The Constructive & Destructive Sides of AI Writing Assistance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-tally-unveiling-the-highest-rated-threads-on-reddit-for-2024/"><u>The Ultimate Tally Unveiling the Highest-Rated Threads on Reddit for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-mystery-behind-the-historic-windows-meltdown-and-crowdstrike-clash-a-detailed-retrospective-by-zdnet/"><u>Unraveling the Mystery Behind the Historic Windows Meltdown and CrowdStrike Clash - A Detailed Retrospective by ZDNet</u></a></li>
 </ul></div>
 

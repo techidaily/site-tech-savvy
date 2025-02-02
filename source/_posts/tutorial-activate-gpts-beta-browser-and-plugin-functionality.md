@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: Activate GPT's Beta Browser & Plugin Functionality"
-date: 2025-01-11T17:38:26.584Z
-updated: 2025-01-18T16:23:00.821Z
+date: 2025-01-26T03:04:17.574Z
+updated: 2025-01-31T17:37:30.311Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## OpenAI Rolls Out Web Browsing and Plugins to ChatGPT Plus Users
 
  Late on May 12, 2023, an [OpenAI blog post revealed](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) that ChatGPT's Plugin feature would become available to ChatGPT Plus users.
@@ -37,10 +33,6 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
  Up until this point, users could only [gain access to ChatGPT Plugins by signing up](https://www.makeuseof.com/how-sign-up-chatgpt-plugins/) and waiting for access.
 
 > If you are a ChatGPT Plus user, enjoy early access to experimental new features, which may change during development. We’ll be making these features accessible via a new beta panel in your settings, which is rolling out to all Plus users over the course of the next week.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Are ChatGPT Plugins?
 
@@ -55,7 +47,7 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
  Unfortunately, my ChatGPT Plus account doesn't have access to any Plugins yet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Can Browse the Web
@@ -70,13 +62,21 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 
 ![chatgpt web browsing search may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -90,15 +90,15 @@ Close
 
  Now, these aren't the most challenging data searches, but it shows that ChatGPT's Web Browsing tool is up and running proper.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable ChatGPT Plugins and Web Browsing
 
  You can enable ChatGPT Plugins and Web Browsing using the new Beta Features Settings options.
 
 ![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Head to your **Settings** in the bottom left-hand corner of the ChatGPT screen
 2. Select **Settings**
@@ -134,22 +134,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-synthesizing-success-in-metaverse-sales-techniques/"><u>[New] 2024 Approved Synthesizing Success in Metaverse Sales Techniques</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-directing-content-destination-from-imovie-files-to-youtube-platform/"><u>[New] In 2024, Directing Content Destination From iMovie Files To YouTube Platform</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-trailblazers-in-auditory-and-visual-creation-list/"><u>[New] Trailblazers in Auditory & Visual Creation List</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-key-metrics-to-track-igtv-video-analytics/"><u>[Updated] 2024 Approved Key Metrics to Track IGTV Video Analytics</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-how-to-add-videos-to-youtube-playlist/"><u>[Updated] How to Add Videos to YouTube Playlist?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-how-to-view-comments-on-youtube/"><u>[Updated] In 2024, How to View Comments on YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/flvasfmovavi/"><u>在線免費FLV與ASF間改編工具，用Movavi進行影片格式轉換</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cambia-tus-archivos-de-video-mp4-a-formatos-de-alta-calidad-mpeg-4-sp-para-el-movil-sin-costo-alguno/"><u>Cambia Tus Archivos De Video MP4 a Formatos De Alta Calidad MPEG-4 SP Para El Móvil Sin Costo Alguno</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversion-sans-frais-de-videos-m4v-au-format-wma-en-ligne-via-movavi/"><u>Conversion Sans Frais De Vidéos M4V Au Format WMA En Ligne via Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/convertidor-gratuito-de-mp3-a-flac-en-linea-por-el-dia-movavi/"><u>Convertidor Gratuito De MP3 a FLAC en Línea Por El Día - Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratis-online-file-converter-ram-arquivos-pelo-movavi/"><u>Gratis Online File Converter - Ram Arquivos Pelo Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratuit-convertitore-di-file-wma-su-internet-con-movavi/"><u>Gratuit@ - Convertitore Di File WMA Su Internet Con Movavi</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-nokia-c02-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Nokia C02 Fingerprint Lock</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-se-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone SE with iTunes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforma-tus-imagenes-jpeg-en-gratis-al-formato-gif-con-el-mejor-convertidor-en-linea/"><u>Transforma Tus Imágenes JPEG en Gratis Al Formato GIF Con El Mejor Convertidor en Línea</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformez-votre-fichier-amv-en-video-mp4-gratuite-online-avec-movavi/"><u>Transformez Votre Fichier AMV en Vidéo MP4 Gratuite - Online Avec Movavi</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/uncomplicated-online-music-conversion-top-6-free-ios-apps-for-video-and-audio-for-2024/"><u>Uncomplicated Online Music Conversion Top 6 Free iOS Apps for Video & Audio for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-essential-tips-for-ordering-photos-on-iphone-with-icloud-backup/"><u>[New] 2024 Approved Essential Tips for Ordering Photos on iPhone, With iCloud Backup</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-secrets-for-skillful-extraction-of-superior-quality-videos-for-2024/"><u>[New] Secrets for Skillful Extraction of Superior Quality Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/connecting-through-nvidias-advanced-rtx-chat-bot/"><u>Connecting Through Nvidia's Advanced RTX Chat Bot</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-biometrics-a-complete-introduction-to-identity-verification-methods/"><u>Demystifying Biometrics: A Complete Introduction to Identity Verification Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-ai-lingo-understanding-the-basics/"><u>Dissecting AI Lingo: Understanding the Basics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-ai-conversations-with-9-key-pluses-advantages/"><u>Elevate AI Conversations with 9 Key Pluses Advantages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-opinion-on-the-iphone-15-compelling-reasons-to-choose-this-model-over-others-zdnet/"><u>Expert Opinion on the iPhone 15: Compelling Reasons to Choose This Model Over Others | ZDNet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-embracing-total-perspectives-in-filmmaking/"><u>In 2024, Embracing Total Perspectives in Filmmaking</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-harnessing-word-writers-potential-voice-driven-document-creation/"><u>In 2024, Harnessing Word’ Writers' Potential Voice-Driven Document Creation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-google-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Google?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/optimize-in-minutes-7-key-strategies-for-rapid-computer-speed-improvement/"><u>Optimize in Minutes: 7 Key Strategies for Rapid Computer Speed Improvement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visualization-excellence-in-excel-gpt-struggles-to-match/"><u>Visualization Excellence in Excel, GPT Struggles To Match</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/will-chatbots-undermine-se-keywords-strategy/"><u>Will Chatbots Undermine SE Keywords Strategy?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winx-dvd-ripper-sur-demande-le-top-choix-en-ligne-pour-telecharger-et-utiliser-le-meilleur-programme-rip-video-pour-mac/"><u>WinX DVD Ripper Sur Demande : Le Top Choix en Ligne Pour Télécharger Et Utiliser Le Meilleur Programme Rip Vidéo Pour Mac</u></a></li>
 </ul></div>
 

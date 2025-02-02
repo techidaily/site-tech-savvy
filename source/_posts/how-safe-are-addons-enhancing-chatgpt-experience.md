@@ -1,7 +1,7 @@
 ---
 title: How Safe Are Addons Enhancing ChatGPT Experience?
-date: 2025-01-18T23:26:43.640Z
-updated: 2025-01-24T16:09:17.319Z
+date: 2025-01-28T00:38:34.968Z
+updated: 2025-02-01T11:38:37.812Z
 tags:
   - chatgpt
   - open-ai
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/55eea1dea20c971ad29aa0a8be4aa55c4b1ce4519
 
  However, [not all ChatGPT browser extensions are bad](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/). Some of them actually do what they advertise. One such extension is Merlin ChatGPT. Once you have logged in, the extension does exactly what it says. It will summarize your Google searches automatically and bring up a chat window where you can ask the chatbot for more information.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fake ChatGPT Apps
 
 ![Play store ChatGPT search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/play-store-chatgpt-search-result.jpg)
@@ -60,10 +56,14 @@ thumbnail: https://thmb.techidaily.com/55eea1dea20c971ad29aa0a8be4aa55c4b1ce4519
 
 ![Bing chat iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![bing-chat-android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-android.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -71,7 +71,7 @@ Close
  Now that Bing has integrated GPT-4 into its search engine, there isn't any need to go for these apps in the first place. You can instead download the new version of the Bing app to [use Bing AI Chat on your Android](https://www.makeuseof.com/how-to-use-bing-chat-app-ai-android) or iPhone. Since Bing uses GPT-4 and can access information from the web in real-time, it's a better alternative than any of the shady ChatGPT clones.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Privacy Concerns
@@ -85,7 +85,7 @@ Close
  Some of these suspicious third-party apps also ask for random permissions on your phone that have nothing to do with their functionality. These permissions can be anything from call logs to phone media.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Legit ChatGPT Alternatives
@@ -93,7 +93,7 @@ Close
  OpenAI's servers tend to get busy pretty quickly, and you'll often find that ChatGPT is unusable because of it. If you're looking for an alternative to rely on as your AI assistant, then there are quite a few legit chatbots that you can use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Bing Chat
@@ -117,7 +117,7 @@ Close
 ![Nova AI response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/nova-ai-response.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Available as a web, mobile, and watchOS app, [Nova AI](http://novaapp.ai/) is a worthy ChatGPT alternative that you can use to have a friendly conversation, ask questions, and conduct research. However, you will have to sign up and log in before use.
@@ -149,22 +149,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-ultimate-step-by-step-guide-to-kinemasters-green-screen-mastery/"><u>[New] In 2024, The Ultimate Step-by-Step Guide to Kinemaster's Green Screen Mastery</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/accelerating-innovation-with-ai-in-3d-printing/"><u>Accelerating Innovation with AI in 3D Printing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-the-physical-keyboard-unveiling-the-top-notch-features-of-an-innovative-iphone-case/"><u>Beyond the Physical Keyboard: Unveiling the Top-Notch Features of an Innovative iPhone Case</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-creativity-top-3-ai-chatbots-tackle-identical-challenge/"><u>Comparing Creativity: Top 3 AI Chatbots Tackle Identical Challenge</u></a></li>
-<li><a href="https://blog-min.techidaily.com/download-now-free-winx-movie-editor-official-site-with-professional-dvd-extractor-and-hd-video-transcoder/"><u>Download Now Free: WinX Movie Editor – Official Site with Professional DVD Extractor & HD Video Transcoder</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-gpt-4-amidst-verified-social-landscape/"><u>Exploring GPT-4 Amidst Verified Social Landscape</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/gopro-hero-3-sd/"><u>GoPro Hero 3 リセット手順と初期化のための SD カード設定ガイド</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-fitness-enthusiasts-can-write-more-effective-chatgpt-prompts/"><u>How Fitness Enthusiasts Can Write More Effective ChatGPT Prompts</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-from-frame-one-15-key-shot-types-for-film-beginners/"><u>In 2024, From Frame One 15 Key Shot Types for Film Beginners</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-2021s-best-screen-capture-tools-roundup/"><u>In 2024, The 2021'S Best Screen Capture Tools Roundup</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-gpt-chat-a-practical-api-overview/"><u>Integrating GPT-Chat: A Practical API Overview</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-blood-pressure-monitoring-a-feature-in-apple-watch-series-10-debunking-myths-and-reality-check-gadget-review/"><u>Is Blood Pressure Monitoring a Feature in Apple Watch Series 10? Debunking Myths & Reality Check | Gadget Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/limits-of-ai-top-7-ineligible-queries/"><u>Limits of AI: Top 7 Ineligible Queries</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/resolving-audio-device-problems-expert-guide-on-fixing-your-sound-card-yl-computing/"><u>Resolving Audio Device Problems: Expert Guide on Fixing Your Sound Card - YL Computing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-soundbar-systems-ultimate-guide/"><u>Top Rated Soundbar Systems - Ultimate Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-mini-tablet-picks-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated Mini Tablet Picks - Comprehensive Reviews by Tech Gurus</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-tablet-picks-comprehensive-reviews-from-tech-experts-zdnet/"><u>Top-Rated Tablet Picks : Comprehensive Reviews From Tech Experts | ZDNet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-video-recorder-disentangler/"><u>[New] 2024 Approved Video Recorder Disentangler</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-enhanced-social-presence-posting-tweets-vids-via-snapchat/"><u>[Updated] In 2024, Enhanced Social Presence Posting Tweets' Vids via Snapchat</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-economical-dslrs-for-the-cost-conscious/"><u>2024 Approved Economical DSLRs for the Cost-Conscious</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advancing-the-future-with-apples-latest-ai-innovations-unveiling-capabilities-of-their-new-models-tech-insights-from-zdnet/"><u>Advancing the Future with Apple's Latest AI Innovations: Unveiling Capabilities of Their New Models - Tech Insights From ZDNet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/boost-your-farming-skills-with-stardews-top-7-mods/"><u>Boost Your Farming Skills with Stardew's Top 7 Mods</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bringing-realities-closer-google-cardboard-vs-samsung-gear-for-2024/"><u>Bringing Realities Closer Google Cardboard Vs. Samsung Gear for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-ios-journey-just-began/"><u>ChatGPT's iOS Journey Just Began</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-traps-avoiding-pitfalls-for-better-interactions/"><u>ChatGPT's Traps: Avoiding Pitfalls for Better Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-guide-to-initializing-your-latest-ipad-tips/"><u>Essential Guide to Initializing Your Latest iPad - Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-picks-the-ultimate-list-of-kid-friendly-tablets-endorsed-by-moms-and-dads-azdnet-guide/"><u>Expert Picks: The Ultimate List of Kid-Friendly Tablets Endorsed by Moms and Dads - AZdnet Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/foresighted-conversations-for-gpt-and-crypto/"><u>Foresighted Conversations for GPT & Crypto</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-breaking-the-monotony-infusing-novelty-in-ppt-voiceovers/"><u>In 2024, Breaking the Monotony Infusing Novelty in PPT Voiceovers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/myx-fitness-takes-the-lead-over-peloton-with-higher-weight-capacity-a-closer-look-at-size-limitations/"><u>Myx Fitness Takes the Lead Over Peloton with Higher Weight Capacity - A Closer Look at Size Limitations</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210002088-9781609252212-nirvana-in-a-nutshell/"><u>Nirvana in a Nutshell | Free Book</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/timelapse-with-iphone-a-step-by-step-guide/"><u>Timelapse with iPhone A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-magsafe-gadgets-comprehensive-reviews-and-testing/"><u>Top-Rated MagSafe Gadgets : Comprehensive Reviews & Testing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-writing-for-pinterest-descriptions-chatgpt/"><u>Transformative Writing for Pinterest Descriptions (ChatGPT)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-artificial-intelligence-prompt-design-a-guide-to-future-job-prospects/"><u>Understanding Artificial Intelligence Prompt Design: A Guide to Future Job Prospects</u></a></li>
 </ul></div>
 

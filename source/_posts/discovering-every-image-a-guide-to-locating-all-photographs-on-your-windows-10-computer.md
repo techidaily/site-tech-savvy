@@ -1,7 +1,7 @@
 ---
 title: "Discovering Every Image: A Guide to Locating All Photographs on Your Windows 10 Computer"
-date: 2024-08-29T19:37:58.198Z
-updated: 2024-08-30T19:37:58.198Z
+date: 2025-01-30T05:03:01.687Z
+updated: 2025-02-01T07:57:12.720Z
 tags:
   - deals
 categories:
@@ -26,8 +26,9 @@ thumbnail: https://thmb.techidaily.com/50da58587d7473ccea973193c5c4bacc32476fa35
  Have you ever [transferred some pictures to your PC](https://hardware-tips.techidaily.com/master-your-gadgets-with-innovative-solutions-from-toms-hardware-experts/) and then forget where you stored them? Or, maybe you've got a few storage hard drives and don't want to search them manually? Here's a simple way to get Windows to search for all your photos on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Find All Your Photos Manually
 
  Unfortunately, pictures get stored in different places on your PC depending on the where they come from. Windows itself stores images in your "Pictures" folder. Some syncing services try to respect that, but you'll often find pictures transferred from things like DropBox, iCloud, and OneDrive in their own folders. If you transfer pictures from your camera or another device directly to your PC, those pictures also can end up in different places depending on the transfer method. And if you download pictures from the internet, they'll usually end up in whatever download folder your browser is set to use.
@@ -37,25 +38,9 @@ thumbnail: https://thmb.techidaily.com/50da58587d7473ccea973193c5c4bacc32476fa35
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
 
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ##  A Better Way: Let Windows Search Find All Your Photos
 
  File Explorer has a quick trick for searching for different types of documents. It's not exactly hidden, but most people never bother with it.
@@ -64,12 +49,13 @@ Key features:
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h12_46.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h12_46.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  You can also search a particular hard drive or folder. For this example, we're going to search our C: drive.
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h14_41.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h14_41.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, click the search box at the top right of the window. Doing so will display the otherwise hidden "Search" tab at the top. Switch to that tap, click the "Kind" button, and then select "Pictures" from the drop-down menu.
 
@@ -92,8 +78,9 @@ kind:=picture
 ![/wordpress/wp-content/uploads/2018/11/2018-11-01_11h39_56.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/2018-11-01_11h39_56.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use a Third-Party App
 
  You can also use a third-party app, like [WizTree](https://diskanalyzer.com/), to find image files. Launch or install the app, then click "Scan" to analyze your hard drive and create an index of all of your files.
@@ -107,8 +94,9 @@ kind:=picture
 ![Click the filter button, enter an image format, then click "Apply Filter."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-include-filter-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The colored blocks at the bottom will now only represent image files (in our case PNGs). You can click on them one by one, or open entire folders.
 
 ![Individual PNG files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-individual-files.png) 
@@ -132,8 +120,6 @@ kind:=picture
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +127,21 @@ kind:=picture
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-customizable-instagram-ringtones-made-easy/"><u>[New] 2024 Approved Customizable Instagram Ringtones Made Easy</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-blending-photography-and-sonic-artistry/"><u>[New] Blending Photography & Sonic Artistry</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-the-art-of-joining-youtube-clips/"><u>[Updated] Mastering the Art of Joining YouTube Clips</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-audiovisual-alchemy-formulating-your-youtube-playlist/"><u>In 2024, Audiovisual Alchemy Formulating Your YouTube Playlist</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-enhance-your-tv-experience-mastering-fb-live-and-roku/"><u>In 2024, Enhance Your TV Experience Mastering FB Live and Roku</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-mp4-companies-to-watch/"><u>In 2024, Leading MP4 Companies to Watch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-18-guide-tailoring-the-apple-control-center-on-your-iphone-expert-tips/"><u>IOS 18 Guide: Tailoring the Apple Control Center on Your iPhone - Expert Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/italy-blocks-chatgpt-overnight-the-motivation/"><u>Italy Blocks ChatGPT Overnight: The Motivation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/model-uniqueness-at-your-fingertips/"><u>Model Uniqueness at Your Fingertips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revitalize-your-online-presence-with-the-latest-updates-and-tweaks/"><u>Revitalize Your Online Presence with the Latest Updates and Tweaks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-gionee-f3-pro-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Gionee F3 Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-in-every-click-discover-macos-15-upgrades-for-your-apple-macbook-insights-from-zdnet/"><u>Unlocking Potential in Every Click: Discover MacOS 15 Upgrades for Your Apple MacBook - Insights From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-mystery-how-did-crowdstrike-influence-windows-2024-meltdown-crisis-a-historical-insight/"><u>Unveiling The Mystery: How Did CrowdStrike Influence Windows' 2024 Meltdown Crisis? A Historical Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/will-microsofts-arm-strategy-surpass-apple-m1-chips-in-performance-a-deep-dive-into-future-prospects-techinsights/"><u>Will Microsoft's ARM Strategy Surpass Apple M1 Chips in Performance? A Deep Dive Into Future Prospects | TechInsights</u></a></li>
+</ul></div>
 

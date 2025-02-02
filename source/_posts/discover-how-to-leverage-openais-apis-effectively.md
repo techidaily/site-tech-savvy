@@ -1,7 +1,7 @@
 ---
 title: Discover How to Leverage OpenAI's APIs Effectively
-date: 2025-01-21T21:21:01.077Z
-updated: 2025-01-24T20:28:03.126Z
+date: 2025-01-26T12:34:09.705Z
+updated: 2025-01-31T22:11:11.720Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Can the OpenAI API Do?
 
@@ -58,13 +62,13 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
 ![Text completion model test via CLI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/text-completion-model-test-via-cli.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  However, increasing the max\_tokens to 70 generated more coherent thoughts:
 
 ![Text completion model test via CLI more complete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/text-completion-model-test-via-cli-more-complete.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Speech-to-Text
 
@@ -74,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
  The endpoint usage is simple. All you have to do is to supply the model with an audio file and call the **openai.Audio.translate** or **openai.Audio.transcribe** endpoint to translate or transcribe it respectively. These endpoints accept a maximum file size of 25 MB and support most audio file types, including mp3, mp4, MPEG, MPGA, m4a, wav, and webm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Text Comparison
 
  OpenAI API text comparison endpoint measures the relationship between texts using the text-embedding-ada-002 model, a second-generation embedding model. The embedding API uses this model to evaluate the relationship between texts based on the distance between two vector points. The wider the difference, the less related the texts under comparison are.
@@ -85,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
  The embedding endpoint features text clustering, differences, relevance, recommendations, sentiments, and classification. Plus, it charges per token volume.
 
  Although the OpenAI documentation says you can use the other first-generation embedding models, the former is better with a cheaper price point. However, OpenAI warns that the embedding model might show social bias towards certain people, as proven in tests.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Code Completion
 
@@ -115,11 +119,7 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 ![Image generation test for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/image-generation-test-for-openai.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the OpenAI API
@@ -127,7 +127,7 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 ![OpenAI API secret key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-api-secret-key-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ​​​​​ The OpenAI API usage is simple and follows the conventional API consumption pattern.
@@ -150,7 +150,7 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 6. Create programming language-specific code completion plugins for code editors and integrated development environments (IDEs).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Build Endlessly With the OpenAI APIs
@@ -178,19 +178,24 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-experience-the-new-unleash-a-set-of-50-designs-for-free/"><u>[Updated] 2024 Approved Experience the New Unleash a Set of 50 Designs for Free</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-iphone-showdown-comparing-the-iphone-16-and-iphone-15-for-your-next-upgrade-techradar/"><u>Apple iPhone Showdown: Comparing the iPhone 16 and iPhone 15 for Your Next Upgrade | TechRadar</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/cutting-edge-portability-meets-connectivity-explore-the-moko-multi-fold-keyboard/"><u>Cutting Edge Portability Meets Connectivity - Explore the MoKo Multi-Fold Keyboard</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-latest-ipados-16-innovations-revealed-at-apples-wwdc-202n4-a-breakdown-of-new-features-and-targeted-ipad-models-digital-trends/"><u>Discover the Latest iPadOS 16 Innovations Revealed at Apple's WWDC 202N4: A Breakdown of New Features & Targeted iPad Models | Digital Trends</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-value-of-cytrons-uno-rp2040-board-for-cost-conscious-makers/"><u>Exploring the Value of Cytron's Uno RP2040 Board for Cost-Conscious Makers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-chaos-to-calm-strategic-folder-use-for-chatgpt-control/"><u>From Chaos to Calm: Strategic Folder Use for ChatGPT Control</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-does-openais-shap-enlighten-machine-learning/"><u>How Does OpenAI's SHAP Enlighten Machine Learning?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-three-proven-steps-for-archiving-your-favorite-discord-shows/"><u>In 2024, Three Proven Steps for Archiving Your Favorite Discord Shows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-the-pioneering-world-of-openai/"><u>Inside the Pioneering World of OpenAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-minds-when-ai-entered-our-world/"><u>Pioneering Minds: When AI Entered Our World</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/streamline-your-playback-secrets-of-gameye/"><u>Streamline Your Playback Secrets of GamEye</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tech-hacks-easily-integrating-bluetooth-audio-gear-with-your-computer-system/"><u>Tech Hacks: Easily Integrating Bluetooth Audio Gear with Your Computer System</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/omplete-youtubers-guide-to-editing-in-premiere-pro-for-2024/"><u>The Complete Youtuber's Guide to Editing in Premiere Pro for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-popping-sounds-from-speakers-in-windows-operating-systems-solved/"><u>Troubleshooting Popping Sounds From Speakers in Windows Operating Systems (SOLVED)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unlocking-full-photo-viewing-capabilities-win-11-edition/"><u>[New] Unlocking Full Photo Viewing Capabilities Win 11 Edition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-prominently-display-messages-on-discord/"><u>[Updated] 2024 Approved How To Prominently Display Messages on Discord</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unleash-potential-prime-times-for-youtube-videos/"><u>[Updated] In 2024, Unleash Potential Prime Times for Youtube Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-framefraction-analysis/"><u>2024 Approved FrameFraction Analysis</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-rpg-legacy-meets-innovation-written-by-time/"><u>2024 Approved RPG Legacy Meets Innovation' Written by Time</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-under-fire-by-doj-lawsuit-potential-impact-on-iphone-consumers-and-app-creators-insights/"><u>Apple Under Fire by DOJ Lawsuit: Potential Impact on iPhone Consumers & App Creators - Insights</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/determining-best-video-frames-per-second-fps-rate/"><u>Determining Best Video Frames Per Second (FPS) Rate</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/first-glimpses-uncovering-the-history-of-ai/"><u>First Glimpses: Uncovering the History of AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/human-touch-in-writing-eclipsing-mechanical-wordsmiths/"><u>Human Touch in Writing: Eclipsing Mechanical Wordsmiths</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-14-plus-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 14 Plus When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-civi-3-disney-100th-anniversary-edition-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi Civi 3 Disney 100th Anniversary Edition Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-t2-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo T2 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-the-banned-the-gptbot-story-ai-vs-online-governance/"><u>Inside the Banned: The GPTBot Story - AI Vs. Online Governance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/plot-perfection-the-top-9-ways-chatgpt-helps-novelists/"><u>Plot Perfection: The Top 9 Ways ChatGPT Helps Novelists</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-driver-transformation-radeon-hd-4800/"><u>Swift Driver Transformation: Radeon HD 4800</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tips-and-pitfalls-in-using-chatgpt-effectively/"><u>Tips and Pitfalls in Using ChatGPT Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-innovative-replacements-for-chatgpt/"><u>Top 10 Innovative Replacements for ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-features-of-apples-latest-airpods-pro-and-max-compare-their-innovations-with-ease/"><u>Unveiling the Features of Apple’s Latest AirPods Pro & Max - Compare Their Innovations with Ease!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-embrace-apple-pay-a-comprehensive-tutorial-for-effortless-purchases-in-store-and-online-zdnet-insights/"><u>Why Embrace Apple Pay? A Comprehensive Tutorial for Effortless Purchases In-Store and Online | ZDNET Insights</u></a></li>
 </ul></div>
 

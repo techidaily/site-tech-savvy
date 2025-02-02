@@ -1,7 +1,7 @@
 ---
 title: How a Browser Add-On Helped Me Leave Safari Behind
-date: 2024-08-29T19:37:30.479Z
-updated: 2024-08-30T19:37:30.479Z
+date: 2025-01-26T17:52:04.694Z
+updated: 2025-02-01T00:04:22.973Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## How a Browser Add-On Helped Me Leave Safari Behind
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The iCloud Passwords extension for Chrome is a game-changer for Mac users who rely on Safari and iCloud passwords integration.
@@ -18,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * The extension is available for both Mac and Windows users, making it a convenient tool for keeping passwords easily accessible across devices.
 
  Despite often flirting with various Chrome-based browsers on my Mac, I always fell back to Safari because of its integration with iCloud passwords. However, that largely changed when the iCloud Passwords extension from Chrome became available for Mac users. It's a must-have, even for people who still primarily use Safari.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use iCloud Passwords on Chrome (or Arc)
 
@@ -28,15 +36,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Although my computer preference is a Mac, the iCloud Password extension for Chrome is available for Windows users too. It actually debuted for Windows and then became available on Mac afterward.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Requirements and Extension Considerations
 
 ![iCloud Passwords screenshot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/icloud-passwords.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Apple
 
  To use the iCloud Passwords extension on a Mac you’ll need to be running macOS 14 Sonoma or later. That's the latest operating system that was released in 2023\. (To use it on a Windows computer, the iCloud for Windows app in the Microsoft Store just needs to be compatible.)
@@ -48,9 +58,9 @@ Apple
  To be clear, iCloud Passwords are still managed by macOS and can still be accessed within the system settings in Sonoma. Your passwords are not stored in Chrome. The extension merely provides a bridge to access them in a browser besides Safari. If your Mac computer (or keyboard) has a Touch ID sensor that’s supported by the extension as well, so you can authorize passwords with a finger. The same way you would with Apple’s own browser.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  An Extension to Install, Just as a Backup
 
  I started trying to use the [Arc browser](https://instagram-video-recordings.techidaily.com/the-art-of-sharing-horizontals-in-igtvs-vertical-world/) on my Mac regularly before the macOS 14 Sonoma was out and before the iCloud Passwords extension was supported. In that time, I found a few passwords slipped through the crack and did not get added to my vault because I created them while using a browser other than Safari.
@@ -63,8 +73,6 @@ Apple
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,4 +80,24 @@ Apple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-from-rgb-to-srgb-understanding-color-transition/"><u>[Updated] From Rgb to Srgb Understanding Color Transition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-global-viewership-kings-youtubes-viral-royalty/"><u>[Updated] In 2024, Global Viewership Kings YouTube's Viral Royalty</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-approves-sideloading-on-ios-devices-within-european-union-understanding-the-limitations/"><u>Apple Approves Sideloading on iOS Devices Within European Union: Understanding the Limitations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ballad-battle-human-muses-versus-gpt-offline-camelids/"><u>Ballad Battle: Human Muses Versus GPT, Offline Camelids</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-computers-guess-your-tomorrow-better-than-a-zodiac-card/"><u>Can Computers Guess Your Tomorrow Better Than a Zodiac Card?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/finding-your-edge-in-a-future-governed-by-artificial-intelligence/"><u>Finding Your Edge in a Future Governed by Artificial Intelligence</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-amd-radeon-hd-7770-graphics-driver-in-just-a-click/"><u>Get the Latest AMD Radeon HD 7770 Graphics Driver in Just a Click</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-android-can-overtake-ios-with-these-5-crucial-upgrades-cnet/"><u>How Android Can Overtake iOS with These 5 Crucial Upgrades | CNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphone-luminance-mastering-dark-imagery-for-2024/"><u>IPhone Luminance Mastering Dark Imagery for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-generative-ais-search-mechanisms/"><u>Navigating Through Generative AI's Search Mechanisms</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-make-your-memoji-talk-get-creative-with-your-messaging/"><u>New 2024 Approved How To Make Your Memoji Talk? Get Creative With Your Messaging</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-season-new-tricks-unlock-upcoming-exclusive-features-in-certain-apple-airpod-variants-tech-insights/"><u>New Season, New Tricks: Unlock Upcoming Exclusive Features in Certain Apple AirPod Variants | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalizing-gpt-interactions-via-macos-applications/"><u>Personalizing GPT Interactions via macOS Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/snag-your-ipad-9gen-for-just-250-following-apples-fresh-launch-cnet-news/"><u>Snag Your iPad 9Gen for Just $250 Following Apple's Fresh Launch | CNET News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncover-the-ultimate-selection-of-spontaneous-holiday-bargains-for-savvy-shoppers-featured/"><u>Uncover the Ultimate Selection of Spontaneous Holiday Bargains for Savvy Shoppers – Featured</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-hidden-treasure-troves-of-snapchat-tones-for-2024/"><u>Unveiling the Hidden Treasure Troves of Snapchat Tones for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-restoration-royalty-enthusiastic-endorsements/"><u>Video Restoration Royalty, Enthusiastic Endorsements</u></a></li>
+</ul></div>
 

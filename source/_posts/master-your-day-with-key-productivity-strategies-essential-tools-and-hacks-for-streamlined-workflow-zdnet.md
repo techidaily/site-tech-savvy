@@ -1,7 +1,7 @@
 ---
 title: "Master Your Day with Key Productivity Strategies: Essential Tools and Hacks for Streamlined Workflow | ZDNet"
-date: 2025-01-10T16:00:08.096Z
-updated: 2025-01-13T01:29:56.599Z
+date: 2025-01-26T12:28:17.037Z
+updated: 2025-01-31T22:53:58.283Z
 tags:
   - apple
 categories:
@@ -24,6 +24,10 @@ Before I take you through both the tools and my "process," let me point out that
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 [The 6 best to-do list apps: Get organized What is the best to-do list app? Any.do! But ZDNet reviewed all the top picks to help you organize and liberate your life.  Read now](https://www.zdnet.com/article/best-to-do-list-app/)
@@ -44,6 +48,10 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Changes due to the pandemic
 
 The last time I updated this guide was in early 2019\. Obviously, a few things have happened since then. In terms of my daily productivity, I go out a lot less than I used to. Back then, I was often running from place to place and had to build up an everyday carry (EDC) that could allow me to dive into any project or work with any team no matter where I was. I had EDC kits for a coffee shop programming run and EDC kits for week long conference work. I even built an EDC for [emergency evacuation of an indeterminate time](https://www.zdnet.com/article/road-tech-how-i-left-florida-to-escape-irma-and-never-went-back/).
@@ -57,10 +65,6 @@ In any case, what that means is that instead of my escalating ranking of phones,
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -79,7 +83,7 @@ The boy
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -91,6 +95,10 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -121,7 +129,7 @@ Part of my morning flow is posting to the social networks. Unfortunately, this h
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured reviews
@@ -162,7 +170,7 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Managing my daily teaching opportunities
@@ -224,10 +232,6 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Blocking out time for my projects
 
 I use Notion for managing the details of my projects, but I visualize them using Google Calendar. I have three special calendars I set up: DG Planner, Planner Tentative, and Project Due.
@@ -241,10 +245,6 @@ Next is DG Planner. I use this to block out a set of days for everything that ha
 Finally, there's Planner Tentative. This is where I block out the approximate time a project I may or may not be working on will probably take. That way, if I'm taking with my team about a bunch of projects, I can block out some tentative time and see how my month is shaping up.
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Rethinking your flow
 
@@ -275,17 +275,20 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-expert-insights-mastering-your-game-recording-on-windows-10-for-2024/"><u>[New] Expert Insights Mastering Your Game Recording on Windows 10 for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-tailoring-thumbnails-for-increased-video-engagement-on-youtube/"><u>[New] In 2024, Tailoring Thumbnails for Increased Video Engagement on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-statistical-sweep-illuminating-youtubes-data-diversity-2e17/"><u>[New] Statistical Sweep! Illuminating YouTube's Data Diversity (2E17)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-hidden-drain-unearthing-deceptive-likes-costs-for-2024/"><u>[Updated] The Hidden Drain Unearthing Deceptive Likes' Costs for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-inspiration-6-new-ways-to-write-with-gpt-3/"><u>AI Inspiration: 6 New Ways to Write With GPT-3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/art-of-healthful-eating-simplified-with-chatai/"><u>Art of Healthful Eating Simplified with ChatAI</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-redmi-k70-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Redmi K70</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bridging-mythos-and-tech-enhancing-dungeons-and-dragons-characters-with-gpt-and-dall-e/"><u>Bridging Mythos and Tech: Enhancing Dungeons & Dragons Characters with GPT & DALL-E</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-devices-on-toms-hardware-journey/"><u>Discover Cutting-Edge Devices on Tom's Hardware Journey</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/fuse-voice-recordings-with-ppt-content/"><u>Fuse Voice Recordings with PPT Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-intersection-of-truth-and-tale-in-ai/"><u>The Intersection of Truth & Tale in AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-coin-experts-cant-be-replaced-by-gpt-analysis-tools/"><u>Why Coin Experts Can't Be Replaced by GPT Analysis Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-behind-the-magic-cinematic-technique-1-5-insights/"><u>[New] Behind the Magic Cinematic Technique #1-5 Insights</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-loudness-in-the-void-breaking-soundless-twitter-vids/"><u>[Updated] Loudness in the Void Breaking Soundless Twitter Vids</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-simplified-social-syncing-from-instagram-to-facebook/"><u>[Updated] Simplified Social Syncing From Instagram To Facebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategy-envelope-market-success-inside-out/"><u>2024 Approved Strategy Envelope Market Success Inside Out</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-advisors-9-surprises-to-mental-health-safety/"><u>AI Advisors: 9 Surprises to Mental Health Safety</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-chatgpt-cutting-edge-communication-companions/"><u>Beyond ChatGPT: Cutting-Edge Communication Companions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-seamless-service-interactions-in-chatgpt-environment/"><u>Ensuring Seamless Service Interactions in ChatGPT Environment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/everybody-profits-from-new-gpt-data/"><u>Everybody Profits From New GPT Data</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/handling-non-compatible-media-coding-methods/"><u>Handling Non-Compatible Media Coding Methods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-create-an-affordable-customizable-virtual-reality-gear-for-2024/"><u>How to Create an Affordable, Customizable Virtual Reality Gear for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/rapid-reader-of-windows-photos-and-images-for-2024/"><u>Rapid Reader of Windows Photos & Images for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-game-changing-functionality-that-sways-me-away-from-new-m4-mac-minis-this-fall-exploring-apples-latest-offerings-zdnet/"><u>The Game-Changing Functionality That Sways Me Away From New M4 Mac Minis This Fall: Exploring Apple's Latest Offerings | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-your-home-office-with-the-latest-apple-ipad-pro-a-comprehensive-guide/"><u>Transforming Your Home Office with the Latest Apple iPad Pro: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-auto-gpt-vs-chatgpt-fundamentals/"><u>Understanding Auto-GPT vs ChatGPT Fundamentals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-reason-behind-missing-imessage-delivery-notifications-yesterday-exclusive-analysis/"><u>Understanding the Reason Behind Missing iMessage Delivery Notifications Yesterday - Exclusive Analysis</u></a></li>
 </ul></div>
 

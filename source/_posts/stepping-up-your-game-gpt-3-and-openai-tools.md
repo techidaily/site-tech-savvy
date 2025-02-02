@@ -1,7 +1,7 @@
 ---
 title: "Stepping Up Your Game: GPT-3 and OpenAI Tools"
-date: 2025-01-20T23:12:42.088Z
-updated: 2025-01-24T17:34:04.206Z
+date: 2025-01-31T10:30:27.516Z
+updated: 2025-01-31T16:15:09.254Z
 tags:
   - chatgpt
   - open-ai
@@ -40,16 +40,20 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 
  Now, want to give it a try? Here's how you use GPT-3 in OpenAI Playground.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Create an Account
 
 1. Head to [OpenAI](https://openai.com/api/) and click **Get Started**.
 2. Follow the signup instructions. You must input your email and a valid mobile number and answer a quick question about why you want to use OpenAI.
 3. Once that's done, click **Playground** from the navigation menu at the top of the screen. It will bring you to the **Chat** mode page, with some adjustable settings in the sidebar.  
 ![Screenshot of OpenAI's Playground interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-interface-gpt3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Enter a Prompt
 
@@ -60,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 ![Screenshot of Complete mode interface in OpenAI Playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-complete-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also experiment with the **Edit** mode, which you can use to submit a text and check for grammatical errors.
@@ -81,25 +85,25 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 
 ![Screenshot showing GPT-3 translating a phrase into five languages.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/gpt3-translate-language.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  These days, AI is finding its way into all sorts of apps. You can check out [all the things you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/), which, as mentioned, is an AI chatbot built by the same company and developed using the GPT-3 language model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Keep Track of Your OpenAI Playground Credits
 
 ![Screenshot of usage stats in OpenAI Playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-usage-stats.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Before getting carried away with using OpenAI Playground, quickly look at your usage stats to see how many credits you have to spend. In the top right corner of the page, click on **Personal** \> **Manage account**, then click **Usage** from the navigation bar on the left.
 
  Tokens are used to calculate the fees, and they are based on how many words, or groups of characters, you use in a prompt; this also includes the text result you get from GPT-3\. You can see how many tokens you use each time in the bottom right of the text box area.
 
  Tokens are then translated to dollars, of which you have $5 to spend in the first three months (previously $18). It's a strange pricing model to wrap your head around at first, but what matters is that it's more than enough to play with. When we tested it out over a couple of days, we only used $0.11 from our total.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Switch to a Different GPT Model
 
@@ -114,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 * **Ada:** The fastest model in the family with the lowest costs; use this model if you don't require precise answers. It's especially recommended for creative applications rather than generating detailed and exact information.
 
  Remember that you'll still incur costs for each model you choose, but the cost per token will vary.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Improve Your Results
 
@@ -140,7 +140,7 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 ![openai playground gpt-4 model option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-playground-gpt-4-model-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Among [GPT-4's best new features](https://www.makeuseof.com/best-new-gpt4-features-explained/) is the ability to submit images to the model, which it can understand, discuss, and respond to through text. It's an incredible new advancement that makes the system multi-modal.
@@ -174,19 +174,15 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-step-by-step-streaming-on-discord-tips-to-engage-and-retain-viewers/"><u>[New] In 2024, Step-by-Step Streaming on Discord Tips to Engage and Retain Viewers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-top-non-gopro-waterproof-cameras-a-detailed-list/"><u>[New] Top Non-GoPro Waterproof Cameras A Detailed List</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-charting-the-stars-instagrams-leading-25-trailblazers-in-digital-dominion-for-2024/"><u>[Updated] Charting the Stars Instagram’s Leading 25 Trailblazers in Digital Dominion for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-highlight-reel-of-2022-skating-stars/"><u>[Updated] Ultimate Highlight Reel of 2022 Skating Stars</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/code-creation-contenders-github-copilot-vs-chatgpts-skills/"><u>Code Creation Contenders: GitHub Copilot Vs. ChatGPT's Skills</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-integration-of-latest-lexmark-printer-driver/"><u>Effortless Integration of Latest Lexmark Printer Driver</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/emoji-free-twitter-stream-linuss-hidden-tech-trojans-explained-and-ai-chatbot-woes/"><u>Emoji-Free Twitter Stream, Linus's Hidden Tech, Trojans Explained, & AI ChatBot Woes.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/freelancer-dilemma-bing-chat-vs-chatgpt8-must-know-points/"><u>Freelancer Dilemma: Bing Chat Vs. ChatGPT—8 Must-Know Points</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-8-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 8 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/lg-360-camera-full-review-2023-update-for-2024/"><u>LG 360 Camera Full Review -2023 Update for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-career-goals-with-chatgpt/"><u>Maximizing Career Goals with ChatGPT</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimize-your-pc-to-stop-stuttering-during-fortnite-battles/"><u>Optimize Your PC to Stop Stuttering During Fortnite Battles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/overreliance-on-algorithms-in-patient-care-might-lead-to-wrong-treatment/"><u>Overreliance on Algorithms in Patient Care Might Lead to Wrong Treatment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/say-goodbye-to-a-messy-inbox-with-this-simple-technique-no-need-for-rigid-filters-or-separate-email-addresses/"><u>Say Goodbye to a Messy Inbox with This Simple Technique: No Need for Rigid Filters or Separate Email Addresses</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-fuel-ambition-with-these-10-movie-masterpieces/"><u>[New] Fuel Ambition with These 10 Movie Masterpieces</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-crafting-flawless-virtual-reality-gaming-archives/"><u>[Updated] 2024 Approved Crafting Flawless Virtual Reality Gaming Archives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anthropics-innovative-ai-prompt-system/"><u>Anthropic's Innovative AI Prompt System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-there-vulnerabilities-affecting-chatgpt-safety/"><u>Are There Vulnerabilities Affecting ChatGPT Safety?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/arias-novelty-in-audio-wearables/"><u>Aria's Novelty in Audio Wearables</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-covert-smart-connectivity-tool-built-into-mac-and-ipads-could-your-devices-be-equipped-with-one-gadgetguru/"><u>Discovering the Covert Smart Connectivity Tool Built Into Mac & iPads - Could Your Devices Be Equipped With One? | GadgetGuru</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macxdvd-software-licensing-agreement-key-points-explained-for-consumers/"><u>MacXDVD Software Licensing Agreement: Key Points Explained for Consumers</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-nonfunctional-payment-gateway-on-ps5/"><u>Resolving Nonfunctional Payment Gateway on PS5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/syntax-sorcerers-chatgpt-meets-google-translate/"><u>Syntax Sorcerers: ChatGPT Meets Google Translate</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-your-windows-11-installation-from-99-expert-tips-and-tricks/"><u>Unstick Your Windows 11 Installation From 99% - Expert Tips & Tricks</u></a></li>
 </ul></div>
 

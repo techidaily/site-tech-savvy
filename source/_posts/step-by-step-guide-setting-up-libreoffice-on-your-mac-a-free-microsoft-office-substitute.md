@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting up LibreOffice on Your Mac - A FREE Microsoft Office Substitute!"
-date: 2025-01-21T21:06:24.302Z
-updated: 2025-01-24T18:25:20.458Z
+date: 2025-01-26T18:17:43.312Z
+updated: 2025-01-31T21:14:26.270Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ iTunes is dead. iTunes has been dead since 2019\. Alas, poor iTunes, we knew you
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -40,7 +40,7 @@ But iTunes is dead. Actually, that's not entirely true. Its ghost lingers on. Ap
 Apple Music hasn't been tied to iTunes for account management since 2019\. Now, for those of us who have moved on from our iTunes days, we can cancel an Apple Music subscription either from the web or from iOS device Settings. Let's look at both. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your Web browser
@@ -60,7 +60,7 @@ David Gewirtz/Screenshot
 Once you're on the Manage screen, choose Cancel Subscription. That should do it for you. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your iPhone or iPad
@@ -121,21 +121,21 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-channel-your-inner-narrative-impactful-life-stories-yt/"><u>[New] In 2024, Channel Your Inner Narrative Impactful Life Stories YT</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-rhythmic-resonance-how-to-choose-music-for-online-fame/"><u>[Updated] Rhythmic Resonance How to Choose Music for Online Fame</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-beginners-handbook-to-instagrams-most-popular-feature-reels-for-2024/"><u>[Updated] The Beginner’s Handbook to Instagram’s Most Popular Feature – Reels for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-peeking-at-high-resolution-display-innovation-the-dell-p2715q-review/"><u>2024 Approved Peeking at High-Resolution Display Innovation - The Dell P2715Q Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-discontinues-premium-finewoven-case-series-in-favor-of-newly-released-beats-collaborations-a-deep-dive-analysis/"><u>Apple Discontinues Premium FineWoven Case Series in Favor of Newly-Released Beats Collaborations: A Deep Dive Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-mobile-gaming-experience-on-a-phone-ranked-and-analyzed-digital-trends/"><u>Best Mobile Gaming Experience on a Phone - Ranked and Analyzed | Digital Trends</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-conversions-optimizing-your-site-with-smart-analytics/"><u>Cookiebot-Enabled Conversions: Optimizing Your Site with Smart Analytics</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-tutorial-configuring-and-enabling-remote-desktop-feature-in-windows-11/"><u>Easy Tutorial: Configuring and Enabling Remote Desktop Feature in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fraudgpt-detection-tips-to-keep-you-secure-online/"><u>FraudGPT Detection: Tips to Keep You Secure Online</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-6-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 6 to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-stealthy-tactics-for-superior-iosipados-update-oversight-insider-strategies-revealed-by-zdnet/"><u>Mastering Stealthy Tactics for Superior iOS/iPadOS Update Oversight - Insider Strategies Revealed by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dangers-of-delegating-care-to-chatbots/"><u>The Dangers of Delegating Care to Chatbots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-essence-of-ai-threat-landscape-prompt-injections-uncovered/"><u>The Essence of AI Threat Landscape - Prompt Injections Uncovered</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-11-unbeatable-discounts-on-apple-watches-in-june-july-2-your-ultimate-guide-by-zdnet/"><u>Top 11 Unbeatable Discounts on Apple Watches in June-July 2#: Your Ultimate Guide by ZDNet</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-2023-guide-leading-innovative-smart-home-products/"><u>Ultimate 2023 Guide: Leading Innovative Smart Home Products</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-gpts-latest-milestones-gpt-1-to-4/"><u>Understanding GPT's Latest Milestones (GPT-1 to 4)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-tips-on-filming-with-drone-for-2024/"><u>[New] Tips on Filming with Drone for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-windows-11-pro-prime-video-cameras-for-pcs-for-2024/"><u>[New] Windows 11 Pro Prime Video Cameras for PCs for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-dialogue-and-direction-in-film-scripts/"><u>[Updated] Crafting Dialogue and Direction in Film Scripts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/androids-voice-controlled-gpt-experience-begins-here/"><u>Android's Voice Controlled GPT Experience Begins Here</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-apples-new-game-changer-the-enhanced-macbook-air-with-m3-chips-on-offer-for-13-and-amoeba-in-depth-analysis-by-zdnet/"><u>Discover Apple's New Game-Changer: The Enhanced MacBook Air with M3 Chips on Offer for 13 and Amoeba | In-Depth Analysis by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-network-not-registered-on-samsung-mobile-phones/"><u>Effective Solutions for 'Network Not Registered' On Samsung Mobile Phones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evolving-intelligence-how-siri-is-transforming-into-apples-new-answer-hub-inspiring-a-shift-in-ai-paradigms/"><u>Evolving Intelligence: How Siri Is Transforming Into Apple's New Answer Hub, Inspiring a Shift in AI Paradigms</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oneplus-nord-ce-3-lite-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change OnePlus Nord CE 3 Lite 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-apple-iphone-14-pro-max-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 6 Apps/Services to Trace Any Apple iPhone 14 Pro Max Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/journey-to-your-core-pathway-to-activating-windows-internal-character-insight/"><u>Journey to Your Core: Pathway to Activating Windows' Internal Character Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-strategies-for-apples-vision-pro-success-essential-enhancements-required/"><u>Key Strategies for Apple's Vision Pro Success: Essential Enhancements Required</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamlessly-integrate-into-ai-community-via-quoras-guide/"><u>Seamlessly Integrate Into AI Community via Quora's Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-hidden-cost-of-playing-for-free-why-you-should-pay-instead/"><u>The Hidden Cost of Playing for Free: Why You Should Pay Instead</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-synergy-of-sites-and-intelligent-data-analysis/"><u>The Synergy of Sites and Intelligent Data Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unresponsive-touchpad-scroll-issues-in-windows-11/"><u>Troubleshooting Unresponsive Touchpad Scroll Issues in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-finest-ipad-air-cases-of-2024-expert-evaluations-zdnet-innovations/"><u>Ultimate Guide to the Finest iPad Air Cases of 2024: Expert Evaluations | ZDNet Innovations</u></a></li>
 </ul></div>
 

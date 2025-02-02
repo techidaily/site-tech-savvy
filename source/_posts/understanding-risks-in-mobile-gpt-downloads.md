@@ -1,7 +1,7 @@
 ---
 title: Understanding Risks in Mobile GPT Downloads
-date: 2024-08-29T19:40:31.787Z
-updated: 2024-08-30T19:40:31.787Z
+date: 2025-01-28T04:27:04.204Z
+updated: 2025-02-01T09:30:18.190Z
 tags:
   - chatgpt
   - open-ai
@@ -23,9 +23,17 @@ thumbnail: https://thmb.techidaily.com/b1dca77248729ae79ab1361747a38e85586597f7f
 
  Unfortunately, like with most new technology, a lot of fakes tend to pop up. Banking on the popularity of ChatGPT, many app developers are pushing fake ChatGPT apps on app stores. Here's why you should stay away from the bulk of ChatGPT apps you find on mobile app stores.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fake ChatGPT Apps Are Flooding App Stores
 
 ![ChatGPT illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/chatgpt-illustration-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Both the Apple App Store and the Google Play Store have recently seen a significant surge in [AI chatbot apps](https://www.makeuseof.com/ai-chatbot-therapist-mobile-apps-pocket/), most of which only appeared shortly after the launch of ChatGPT in the last quarter of 2022\. Normally, this wouldn't be a problem. Who doesn't love an AI chatbot?
 
@@ -39,17 +47,26 @@ thumbnail: https://thmb.techidaily.com/b1dca77248729ae79ab1361747a38e85586597f7f
 
  Although we tried a lot of these apps, there are still hundreds on both app stores we couldn't test. So, if you stumble on one that truly adds extra value, carefully weigh the cost of using your ChatGPT credentials on such apps. The [dark web is flooded with stolen ChatGPT accounts](https://www.makeuseof.com/why-hackers-target-chatgpt-accounts/), and using fraudulent apps is among the methods hackers are using to harvest ChatGPT accounts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Are There Legit ChatGPT Apps From Third-Party Developers?
 
 ![a hand holding a Samsung phone with the Google Play store on it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hand-holding-phone-showing-google-play-store.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While OpenAI doesn't have an official ChatGPT app, it would still be technically possible for third-party developers to create apps using the same technology that runs ChatGPT.
 
  There are many legitimate mobile apps that use [OpenAI's GPT-3](https://www.makeuseof.com/what-is-gpt-3-and-is-it-really-the-future-of-creative-work/) and GPT-4 APIs which makes it possible to answer questions and perform tasks akin to what ChatGPT would do. However, these apps differ from ChatGPT and are not as powerful or nearly as efficient as ChatGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Beware of Fake ChatGPT Apps
 
  Losing your ChatGPT account to fake apps might not seem like a big deal, but it could be. Sure, with a phone number and email, you could create a new account in minutes. However, the personal data you've shared in your ChatGPT account could be used to target you if it falls into the hands of malicious actors.
@@ -60,14 +77,11 @@ thumbnail: https://thmb.techidaily.com/b1dca77248729ae79ab1361747a38e85586597f7f
 
  Unfortunately, like with most new technology, a lot of fakes tend to pop up. Banking on the popularity of ChatGPT, many app developers are pushing fake ChatGPT apps on app stores. Here's why you should stay away from the bulk of ChatGPT apps you find on mobile app stores.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -76,4 +90,19 @@ thumbnail: https://thmb.techidaily.com/b1dca77248729ae79ab1361747a38e85586597f7f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-pinnacle-endgame-total-vr-encompassment/"><u>[New] Pinnacle Endgame Total VR Encompassment</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/crafting-a-powerful-earnings-strategy-on-the-vimeo-platform/"><u>Crafting a Powerful Earnings Strategy on the Vimeo Platform</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/innovative-approaches-to-fb-video-sharing-pcandroid-platforms/"><u>Innovative Approaches to FB Video Sharing PC/Android Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nightshade-techniques-to-safeguard-your-unique-artistic-creations/"><u>Nightshade Techniques to Safeguard Your Unique Artistic Creations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proving-the-worth-of-other-ais-for-automated-code-generation/"><u>Proving the Worth of Other AIs for Automated Code Generation</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/ripristina-dati-da-hard-disk-asus-guida-rapida-allinstallazione/"><u>Ripristina Dati Da Hard Disk Asus - Guida Rapida All'installazione</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/stable-shooting-ideal-gimbals-and-handhelds-reviewed-for-2024/"><u>Stable Shooting Ideal Gimbals & Handhelds Reviewed for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-business-operations-officejet-pro-7740-drivers/"><u>Streamline Business Operations: Officejet Pro 7740 Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-the-website-building-process-through-chatgpts-insights/"><u>Streamline the Website Building Process Through ChatGPT's Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/veen-from-legal-matters-to-tech-news-update-apples-generous-compensation-for-eligible-macbook-enthusiasts-via-settlement-deal/"><u>Veen From Legal Matters to Tech News Update: Apple's Generous Compensation for Eligible MacBook Enthusiasts via Settlement Deal</u></a></li>
+<li><a href="https://win-webster.techidaily.com/yl-computings-ultimate-guide-how-to-efficiently-launch-and-access-microsoft-word-files/"><u>YL Computing's Ultimate Guide: How to Efficiently Launch and Access Microsoft Word Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-ultimate-ranking-of-apple-watches-for-2-in-depth-testing-and-expert-evaluations/"><u>ZDNet's Ultimate Ranking of Apple Watches for 2지년: In-Depth Testing & Expert Evaluations</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Essential Lessons From My Journey: Top 8 Technological Blunders for Newbies & Their Solutions"
-date: 2024-08-29T19:36:44.982Z
-updated: 2024-08-30T19:36:44.982Z
+date: 2025-01-25T16:57:10.583Z
+updated: 2025-02-01T08:27:59.925Z
 tags:
   - web
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
 
  While some mistakes can be rectified, others stick with us for the rest of our lives. Due to a lack of awareness, I made some tech mistakes as a teenager that still haunt me. Looking back, I realize they could have easily been avoided. Here are a few mistakes I wish I hadn't made and how you can avoid them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1  Using Too Many Email Accounts 
 
  One of the first tech mistakes I made in my early years of using a PC was creating too many email accounts. I had separate accounts for school, social media, gaming, and more. When I moved to college, I created yet another account. Little did I know that managing these accounts would become a nightmare.
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
  Because I had too many accounts, I missed important deadlines as I often forgot to check specific email accounts. It became hard to remember and track which email was linked to specific online accounts. I even forgot passwords for some of these accounts and lost access to them entirely because I didn't have a recovery method set up.
 
  If I could go back and correct my mistakes, I'd prefer to have only two or three email accounts: one for personal use, one for school or work, and one for online activities like gaming and browsing. I'd also frequently [use disposable emails](https://facebook-video-footage.techidaily.com/updated-in-2024-buy-youtube-subscribers-hundreds-of-subscribers-for-5/), especially for accounts I only intended to sign up for and use temporarily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2  Not Using a Password Manager 
 
@@ -52,13 +60,18 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
 
  To avoid these issues, always log out of your accounts and clear your browsing history when you're done using a public device. Likewise, use incognito or private browser windows whenever possible, and avoid connecting your storage devices to public computers to keep them and your saved data safe.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4  Not Backing Up My Data Properly 
 
 ![A laptop with a USB drive and an external hard drive next to it and a backup icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-laptop-with-a-usb-drive-and-an-external-hard-drive-next-to-it-and-a-backup-icon.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Lucas Gouveia / How-To Geek | [Anton Marchenkov](https://www.shutterstock.com/en/image-photo/flash-drive-external-hard-open-laptop-1033175755) / Shuttterstock
 
  Not properly backing up my data is the biggest mistake I regret making during my early years of using a computer and phone.
@@ -68,17 +81,15 @@ Lucas Gouveia / How-To Geek | [Anton Marchenkov](https://www.shutterstock.com/en
  Similarly, all the photos from my college years were on a single phone that got stolen, and I lost them all. Regularly backing up my data would have saved me from losing those important files and cherished memories. To avoid making this mistake, I now implement regular backups and ensure that every important file is safely stored.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5  Letting Social Media Consume My Time 
 
  When I was younger, I was heavily addicted to social media, and it's one of my biggest regrets. I would often continue using social media even when I had an exam the next day. My grades suffered, I neglected developing skills, and I missed out on starting a side hustle at an early age. My days were disorganized, and I wasted precious years of my life.
 
  If I could go back to my teens, I would have taken advantage of the screen time and [app usage limit features](https://eaxpv-info.techidaily.com/updated-how-to-increase-youtube-traffic-by-a-million-safely-done-for-2024/) offered by social media platforms and smartphones to save the time I spent scrolling mindlessly. Nowadays, I rarely use social media and manage my time more effectively when I do. I wish I had practiced this discipline earlier in life.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## 6  Buying a Smartphone Just for a Good Camera 
 
 ![Someone holding a Galaxy S22 smartphone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/52552812831_dd873bdae9_o.jpg) 
@@ -91,9 +102,6 @@ Justin Duino / How-To Geek
 
  I wish I had chosen a phone from a reputable company like Samsung, with more balanced features and clearly defined my needs, which would have helped me pick the right model.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 7  Sticking With Windows and Not Trying Other Operating Systems 
 
  For as long as I can remember, I stuck with Windows, which I now realize was a notable mistake.
@@ -102,16 +110,10 @@ Justin Duino / How-To Geek
 
  Looking back, I should have been more open to experimenting with different operating systems. Doing so would likely have led me to switch from Windows to macOS or Linux much earlier.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 8  Not Using Two-Factor Authentication 
 
 ![A person types in a two-factor authentication security code into a tablet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/6b2428a3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _[Jirsak/Shutterstock.com](https://www.shutterstock.com/image-photo/twofactor-authentication-2fa-verification-security-concept-1654003363)_
 
  I didn't prioritize the security of my online accounts seriously enough, which was a mistake I could have easily avoided. I used weak passwords and didn't enable two-factor authentication to protect them. Now, I understand that this simple step could have prevented my accounts from being compromised.
@@ -128,8 +130,6 @@ _[Jirsak/Shutterstock.com](https://www.shutterstock.com/image-photo/twofactor-au
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +137,18 @@ _[Jirsak/Shutterstock.com](https://www.shutterstock.com/image-photo/twofactor-au
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-integrating-your-podcast-into-apple-music-for-2024/"><u>[New] Integrating Your Podcast Into Apple Music for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-mastering-quieter-recordings-basic-or-advanced-techniques/"><u>[Updated] 2024 Approved Mastering Quieter Recordings - Basic or Advanced Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ethical-considerations-for-saving-whatsapp-conversations-for-2024/"><u>[Updated] Ethical Considerations for Saving WhatsApp Conversations for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-navigating-the-world-of-lut-filters-for-obs-mastery/"><u>[Updated] Navigating the World of LUT Filters for OBS Mastery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-iphone-capabilities-insider-tips-and-hidden-command-secrets-you-need-to-know-learn-more-at-zdnet/"><u>Boosting iPhone Capabilities: Insider Tips & Hidden Command Secrets You Need to Know - Learn More at ZDNET</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-nubia-red-magic-8s-proplus-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Nubia Red Magic 8S Pro+ Quickly | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insights-into-why-firms-oppose-chatgpts-proliferation/"><u>Insights Into Why Firms Oppose ChatGPT's Proliferation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-brands-offering-the-best-steadicams-for-dslr-users-for-2024/"><u>Leading Brands Offering the Best Steadicams for DSLR Users for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reinstating-your-chatgpt-access-top-4-hurdles-explained/"><u>Reinstating Your ChatGPT Access: Top 4 Hurdles Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplified-linux-guide-bavarder-setup-complete/"><u>Simplified Linux Guide: Bavarder Setup Complete</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/testing-lenovos-clearbook-my-impressive-experience-with-the-transparent-notebook-at-mwc/"><u>Testing Lenovo’s ClearBook: My Impressive Experience with the Transparent Notebook at MWC</u></a></li>
+</ul></div>
 

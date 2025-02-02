@@ -1,7 +1,7 @@
 ---
 title: "Engage GPT: Leveraging Bash for OpenAI's Chatbot"
-date: 2024-08-25T17:39:26.578Z
-updated: 2024-08-26T17:39:26.578Z
+date: 2025-01-28T06:13:18.317Z
+updated: 2025-02-01T04:53:55.088Z
 tags:
   - chatgpt
   - open-ai
@@ -68,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
  After installation, you can again use the **\--version** command to check if the installation was successful.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Step 2: Install and Set Up a Virtual Environment Using Python
 
  Now that Python and PIP are ready, you can set up Python's virtual environment to make the machine environment conducive for installing and running ShellGPT. Virtual environments are ideal for running isolated programs since they can avoid library conflicts.
@@ -86,8 +83,9 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 ![Ubuntu terminal window code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-virtual-environment-module-in-ubuntu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Set Up the Virtual Environment
 
  Once you've installed the virtual environment, you can set it up, so that it can facilitate ShellGPT's commands seamlessly.
@@ -114,6 +112,14 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 ![Ubuntu terminal window with code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-virtual-environment-for-shellgpt-in-ubuntu-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 3: Generate an OpenAPI Key
 
  Since the virtual environment is ready, you must connect the OpenAI services and your Ubuntu machine to run ShellGPT. For this purpose, you must navigate to [OpenAI's website](https://openai.com/) and create an account there.
@@ -124,9 +130,6 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 ![OpenAI website interface showing a drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/view-api-keys-on-openai-website.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  Do not share this key with anyone since the connection is private and should be used on your machine only.
 
  Copy the API key from the dialog box, and save it somewhere, since you won't be able to review the same key again.
@@ -158,12 +161,16 @@ export OPENAI_API_KEY=<paste key details here>`
 
 ![List of variables in a linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-secret-key-in-env-list.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your **OPENAI\_API\_KEY** environment variable should be listed in the output.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 5: Install ShellGPT on Ubuntu
 
  Once all the installation formalities are complete, you can simply move on to the best part, the ShellGPT installation. The installation steps are quite straightforward, and you can install the tool with the following command:
@@ -172,14 +179,8 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Installation snippet on ubuntu's terminal screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-shell-gpt-on-ubuntu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Let the installation finish; meanwhile, you can check out some interesting ways to use the AI tool via your terminal window.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Using ShellGPT for Running Queries via the Terminal
 
  The entire purpose of installing ShellGPT is to make your life easier. To use the terminal as a search engine and run some queries, you can use the **sgpt** command, followed by your query within quotes:
@@ -189,9 +190,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Ubuntu terminal interface with a query response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shellgpt-query-reponse.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using ShellGPT for Generating Code
 
  You can use your ShellGPT for generating code as well. You can do it by passing the right command with the **sgpt** command:
@@ -203,8 +204,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The output consists of code you can execute within Python to generate the Fibonacci series.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using ShellGPT Within Ubuntu’s Terminal
 
  Linux commands become easy, especially when everything is available within your terminal window. From running shell commands to using your terminal as a search engine, you can do it all with ShellGPT.
@@ -223,8 +225,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -232,4 +232,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-cutting-edge-video-player-apps-for-iphone-and-ipad-top-10/"><u>[New] Cutting-Edge Video Player Apps for iPhone and iPad (Top 10)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-tailoring-your-multi-task-experience-safe-area-and-pip-settings/"><u>[Updated] 2024 Approved Tailoring Your Multi-Task Experience Safe Area & PIP Settings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-step-by-step-mastery-of-video-filters-in-zoom/"><u>[Updated] In 2024, Step-by-Step Mastery of Video Filters in Zoom</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-boost-brand-awareness-with-selective-marketing-vernacular/"><u>2024 Approved Boost Brand Awareness with Selective Marketing Vernacular</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-wit-evolution-of-lightweight-gadgets-and-safe-browsing-boost/"><u>AI Wit: Evolution of Lightweight Gadgets & Safe Browsing Boost</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crystalizing-cryptocurrency-talks-with-ai/"><u>Crystalizing Cryptocurrency Talks with AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-personal-trainers-with-gpt-innovation/"><u>Empowering Personal Trainers with GPT Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-latest-enhancements-of-visionos-2-revealed-at-apples-wwdc-insights-and-intrigue/"><u>Exploring the Latest Enhancements of VisionOS 2 Revealed at Apple's WWDC - Insights and Intrigue!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/free-video-tools-working-across-systems-seamlessly/"><u>Free VIDEO Tools Working Across Systems Seamlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-the-latest-update-ios-18-release-for-iphones-now-live-installation-instructions-and-supported-devices-zdnet/"><u>Get the Latest Update: IOS 18 Release for iPhones Now Live – Installation Instructions & Supported Devices | ZDNet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-precision-capture-with-videoleaps-zoom-feature/"><u>In 2024, Precision Capture with Videoleap's Zoom Feature</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-considerations-in-employing-chatgpt-for-therapy-support-systems/"><u>Key Considerations in Employing ChatGPT for Therapy Support Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premier-6-titan-pioneers-lmg-excellence-showcase/"><u>Premier 6 Titan Pioneers: LMG Excellence Showcase</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-the-problem-unrecognized-usb-devices-on-windows-troubleshooting-steps/"><u>Solving the Problem: Unrecognized USB Devices on Windows - Troubleshooting Steps</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-s18e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transition-at-apple-phasing-out-finewoven-products-in-favor-of-newly-launched-beats-cases-reveals-analysis-by-zdnet/"><u>Transition at Apple: Phasing Out FineWoven Products in Favor of Newly Launched Beats Cases, Reveals Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-apples-labeling-is-your-device-considered-vintage-or-obsolete-a-deep-dive/"><u>Understanding Apple's Labeling: Is Your Device Considered 'Vintage' Or 'Obsolete'? A Deep Dive</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ying-your-youtube-sign-in-details/"><u>Verifying Your YouTube Sign-In Details</u></a></li>
+<li><a href="https://win-blog.techidaily.com/war-thunder-optimization-blueprint-eliminate-low-fps-issues-with-proven-techniques/"><u>War Thunder Optimization Blueprint: Eliminate Low FPS Issues with Proven Techniques</u></a></li>
+</ul></div>
 

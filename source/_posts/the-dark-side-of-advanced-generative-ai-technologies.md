@@ -1,7 +1,7 @@
 ---
 title: The Dark Side of Advanced Generative AI Technologies
-date: 2025-01-23T20:04:28.861Z
-updated: 2025-01-24T18:49:42.551Z
+date: 2025-01-30T00:49:41.402Z
+updated: 2025-01-31T18:32:59.041Z
 tags:
   - chatgpt
   - open-ai
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 
 ![Accessing the Open-Source Codes of HuggingFace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/huggingface-open-source-codes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Jailbreaking Prompts Trick LLMs
 
  AI is inherently amoral. It doesn’t understand right and wrong—even advanced systems follow training instructions, guidelines, and datasets. They merely recognize patterns.
@@ -52,19 +48,23 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 
 ![ChatGPT Explaining Trojan Viruses But Not Coding Them](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-on-trojan-viruses.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That said, restrictions aren’t foolproof. Users bypass limits by rephrasing prompts, using confusing language, and composing explicitly detailed instructions.
 
  Read the below [ChatGPT jailbreak prompt](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/). It tricks ChatGPT into using rude language and making baseless predictions—both acts violate OpenAI’s guidelines.
 
 ![Jailbreaking ChatGPT With DAN Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-dan-jailbreak-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here’s ChatGPT with a bold yet false statement.
 
 ![ChatGPT Making Baseless Predictions About Bitcoin Prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-predicting-bitcoin-prices.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. AI Compromises Security for Versatility
 
@@ -76,12 +76,20 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 
 ![ChatGPT Roleplaying as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-tomie-roleplays.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And here’s Bing Chat refusing to play an “immoral” persona.
 
 ![Bing Chat Refusing to Roleplay as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-tomie-roleplay.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. New Generative AI Tools Hit the Market Regularly
@@ -101,26 +109,18 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
  While OpenAI quickly resolved the issue, it emphasizes the importance of system regulation and risk management. AI is maturing faster than anyone anticipated. Even tech leaders worry that this superintelligent technology could cause massive damage in the wrong hands.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. AI Is Still Evolving
 
 ![ChatGPT, Bard, Bing, and Snapchat AI Logos Side by Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/different-ai-logos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  AI is still evolving. While [the use of AI in cybernetics dates back to 1940](https://coe.int/en/web/artificial-intelligence/history-of-ai), modern machine learning systems and language models only recently emerged. You can’t compare them with the first implementations of AI. Even relatively advanced tools like Siri and Alexa pale in comparison to LLM-powered chatbots.
 
  Although they may be innovative, experimental features also create new issues. [High-profile mishaps with machine learning technologies](https://www.makeuseof.com/examples-machine-learning-artificial-intelligence-went-wrong/) range from flawed Google SERPs to biased chatbots spitting racial slurs.
 
  Of course, developers can fix these issues. Just note that crooks won’t hesitate to exploit even seemingly harmless bugs—some damages are irreversible. So be careful when exploring new platforms.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Many Don’t Understand AI Yet
 
@@ -165,16 +165,24 @@ thumbnail: https://thmb.techidaily.com/4fad5dfb068fa17bd11d3278f05324268f19f0e4e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-a-beginners-blueprint-to-proficiently-use-zd-soft-screen-recorder/"><u>[New] In 2024, A Beginner's Blueprint to Proficiently Use ZD Soft Screen Recorder</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-choosing-between-obs-studio-and-bandicam-for-screen-capture-for-2024/"><u>[Updated] Choosing Between OBS Studio and Bandicam for Screen Capture for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fabricate-fascinating-face-painting-gifs-on-giphy/"><u>2024 Approved Fabricate Fascinating Face-Painting Gifs on Giphy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-block-spotifys-predicted-podcast-selections/"><u>2024 Approved How to Block Spotify's Predicted Podcast Selections</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-elite-conversationalists-gpt-vs-bing-showcase/"><u>AI's Elite Conversationalists - GPT Vs. Bing Showcase</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dialogic-tools-for-mythmaking-gpts-promise/"><u>Dialogic Tools for Mythmaking: GPT's Promise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-companion-in-natures-unpredictability/"><u>Digital Companion in Nature's Unpredictability</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-motorola-edge-40-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Motorola Edge 40 Safely | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-infinix-zero-30-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Infinix Zero 30 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/savings-alert-apple-watch-se-2nd-generation-drops-to-even-lower-prices-since-prime-day-ends-zdnet/"><u>Savings Alert: Apple Watch SE 2Nd Generation Drops to Even Lower Prices Since Prime Day Ends | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-clear-cut-essence-of-ai/"><u>The Clear Cut Essence of AI</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-professional-grade-grid-tools-for-striking-instagram-posts/"><u>[Updated] Professional-Grade Grid Tools for Striking Instagram Posts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-flash-video-insights-guide/"><u>2024 Approved Flash Video Insights Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/an-intimate-exploration-of-beloved-independent-games/"><u>An Intimate Exploration of Beloved Independent Games</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-mobvoi-ticwatch-pro-standout-smartwatch-for-staying-connected-anywhere/"><u>Comprehensive Review of Mobvoi Ticwatch Pro: Standout Smartwatch for Staying Connected Anywhere</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/examining-the-originality-of-gpt-based-conversations/"><u>Examining the Originality of GPT-Based Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-superior-wallet-airtags-beyond-apple-and-tile-insider-report-from-zdnet/"><u>Exploring Superior Wallet AirTags Beyond Apple and Tile – Insider Report From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exposing-fraudgpt-schemes-stay-one-step-ahead/"><u>Exposing FraudGPT Schemes: Stay One Step Ahead</u></a></li>
+<li><a href="https://win-unique.techidaily.com/extract-and-save-your-favorite-gracie-kids-videos-as-mp4-files-easily/"><u>Extract and Save Your Favorite Gracie Kids Videos as MP4 Files Easily</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-building-panoramic-pictures-through-image-fusion/"><u>In 2024, Building Panoramic Pictures Through Image Fusion</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-art-of-instagram-videography-capturing-attention/"><u>In 2024, The Art of Instagram Videography Capturing Attention</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insights-and-expectations-discover-whats-new-in-apple-at-wwdc-focus-on-enhanced-ai-upgrades-to-siri-and-the-release-of-ios-18/"><u>Insights and Expectations: Discover What's New in Apple at WWDC - Focus on Enhanced AI, Upgrades to Siri & the Release of iOS 18</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-in-2024-google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>New In 2024, Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-up-to-greater-ai-efficiency-with-these-top-browser-plugins/"><u>Step Up to Greater AI Efficiency with These Top Browser Plugins</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-implementing-gpt-4-with-current-chatgpt-platforms/"><u>Step-by-Step Tutorial: Implementing GPT-4 with Current ChatGPT Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-gpt-way-pioneering-mindful-living-with-technology/"><u>The GPT Way: Pioneering Mindful Living with Technology</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-guide-to-splitting-the-action-multiscreen-strategies-on-social-media-for-2024/"><u>The Ultimate Guide to Splitting the Action Multiscreen Strategies on Social Media for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-finest-airtag-wallets-in-2e24-professional-evaluations-and-comparisons-zdnet/"><u>Ultimate Guide to the Finest AirTag Wallets in 2E24: Professional Evaluations & Comparisons | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unearth-lesser-known-chatgpt-pros-for-more-engaging-dialogue/"><u>Unearth Lesser-Known ChatGPT Pros for More Engaging Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-resilience-how-apples-top-tier-iphone-case-stands-up-to-scrutiny-and-its-revolutionary-safety-aspect-zdnet-exclusive/"><u>Unveiling the Resilience: How Apple’s Top-Tier iPhone Case Stands Up to Scrutiny and Its Revolutionary Safety Aspect | ZDNET Exclusive</u></a></li>
 </ul></div>
 

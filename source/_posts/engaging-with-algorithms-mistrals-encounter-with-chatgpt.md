@@ -1,7 +1,7 @@
 ---
 title: "Engaging with Algorithms: Mistral's Encounter With ChatGPT"
-date: 2025-01-21T23:47:08.642Z
-updated: 2025-01-24T20:33:00.035Z
+date: 2025-01-26T00:54:56.289Z
+updated: 2025-01-31T20:33:56.494Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 * [Le Chat vs. ChatGPT: Common Sense and Logical Reasoning](https://ukaidot.sjv.io/daqnoj)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 ![ChatGPT describes itself-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-describes-itself-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And here's how Le Chat would describe itself as well:
@@ -90,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
  And here's Le Chat's response:
 
 ![Le Chat Mistral writes song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-writes-song.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It might be a subjective issue, but ChatGPT's response seemed like the better option here. Le Chat's lyrics seemed quite wordy and didn't really read like something a rapper would put out. To test how both lyrics would sound if they were to be made into music, we used [Suno AI music generator to generate music](https://www.makeuseof.com/suno-ai-make-music-from-text-prompt/) from the lyrics. Three out of three trials, ChatGPT's lyrics sounded way better. Below are two samples from both AI chatbots, you can be the judge of which chatbot did better.
 
@@ -115,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 ![ChatGPT GPT-4 makes a todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-gpt-4-makes-a-todo-list-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Each time we repeated the prompt, ChatGPT created a functional to-do list app using different styles. In no instance did the generated code fail to work.
 
  When I tried the same prompt with Le Chat, it generated what appeared to be intelligible code, but when we tried running it on a browser, it wasn't functional. After repeating the prompt three times, no instance produced code that could complete the set task. It failed in one of the most basic coding tasks—red flag!
@@ -128,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
  I repeated a few more programming tests involving finding and fixing bugs, and ChatGPT consistently outperformed Le Chat. In some instances, Le Chat didn't even know what it was supposed to do. There's a good chance Le Chat can measure up to ChatGPT in some areas, but coding skills don't seem to be one of them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Le Chat vs. ChatGPT: Common Sense and Logical Reasoning
@@ -180,22 +180,20 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-transform-your-video-calls-google-meet-on-youtube-guide/"><u>[New] In 2024, Transform Your Video Calls Google Meet on YouTube Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-vmix-os-transcendence-software/"><u>[New] In 2024, VMix OS Transcendence Software</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/aster-your-stream-utilizing-youtubes-av1-technology/"><u>[New] Master Your Stream Utilizing YouTube's AV1 Technology</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-personalized-pick-our-top-12-favorite-pc-clicker-games/"><u>[Updated] 2024 Approved Personalized Pick Our Top 12 Favorite PC Clicker Games</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-enhancing-visibility-groundbreaking-techniques-for-health-campaigns/"><u>2024 Approved Enhancing Visibility Groundbreaking Techniques for Health Campaigns</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-the-keys-discovering-the-top-features-of-an-amazing-iphone-case/"><u>Beyond the Keys: Discovering the Top Features of an Amazing iPhone Case</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-productivity-navigating-through-4-time-strategies/"><u>ChatGPT for Productivity: Navigating Through 4 Time Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-vs-bing-chat-whats-the-best-generative-ai-chatbot/"><u>ChatGPT Vs. Bing Chat: What's the Best Generative AI Chatbot?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafted-fun-by-chatgpt-are-digital-bards-of-humor/"><u>Crafted Fun by ChatGPT: Are Digital Bards of Humor?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elite-air-racers-picks-top-5-fpv-eyewear-options/"><u>Elite Air Racers' Picks Top 5 FPV Eyewear Options</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/exclusive-tips-to-elevate-your-canva-projects-by-10x-for-2024/"><u>Exclusive Tips to Elevate Your Canva Projects by 10X for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-magic-6-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic 6 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ipad-air-vs-ipad-pro-a-comprehensive-comparative-review-that-might-make-you-rethink-your-choice-insights-from-zdnet/"><u>IPad Air vs iPad Pro: A Comprehensive Comparative Review That Might Make You Rethink Your Choice - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/magical-imagery-at-your-fingerts-apples-latest-ai-innovation-eclipses-dall-e-with-device-based-generation-capabilities-news/"><u>Magical Imagery at Your Fingerts: Apple's Latest AI Innovation Eclipses DALL-E with Device-Based Generation Capabilities News</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-mobile-phone-bargains-on-independence-day-unbeatable-promotions-from-zdnet/"><u>Top Mobile Phone Bargains on Independence Day: Unbeatable Promotions From ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-tier-mobile-clips-10-best-videography-smartphones/"><u>Top-Tier Mobile Clips 10 Best Videography Smartphones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/utilizing-chatgpt-to-develop-compelling-presentations/"><u>Utilizing ChatGPT to Develop Compelling Presentations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-easy-guide-online-tools-to-save-your-youtube-videos/"><u>[New] 2024 Approved Easy Guide Online Tools to Save Your YouTube Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-seamless-multi-screen-browsing-in-chrome-using-pip/"><u>[New] Seamless Multi-Screen Browsing in Chrome Using PIP</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-bargain-ball-games-free-recording-and-editing-techniques/"><u>[Updated] 2024 Approved Bargain Ball Games Free Recording & Editing Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-enabled-revolution-in-hr-task-management/"><u>AI-Enabled Revolution in HR Task Management</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-unveils-top-ranking-super-bowl-weekend-advertisement-a-non-super-bowl-contender-hits-the-mark/"><u>Apple Unveils Top-Ranking Super Bowl Weekend Advertisement: A Non-Super Bowl Contender Hits the Mark!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-nokia-c22-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Nokia C22 is off? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-successfully-download-and-install-the-most-recent-xp-pen-driver-software/"><u>How To Successfully Download & Install the Most Recent XP-Pen Driver Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-music-production-with-ai-apple-upgrades-logic-pro-to-include-virtual-band-members-on-ipads-and-macs-analysis/"><u>Revolutionizing Music Production with AI: Apple Upgrades Logic Pro to Include Virtual 'Band Members' On iPads and Macs Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/seamless-techniques-for-downscaling-from-hd-1080p-to-sd-720p-videos-without-compromising-quality/"><u>Seamless Techniques for Downscaling From HD 1080P to SD 720P Videos Without Compromising Quality</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-into-flexibility-opening-fax-editor-on-windows-11-pcs/"><u>Step Into Flexibility: Opening Fax Editor on Windows 11 PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-to-using-gpt-3-in-openai-lab/"><u>Step-by-Step Guide to Using GPT-3 in OpenAI Lab</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-rise-and-fall-of-yahoo-messenger-unveiling-the-history-behind-its-termination/"><u>The Rise and Fall of Yahoo! Messenger – Unveiling the History Behind Its Termination</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-computers-expert-picks/"><u>Top-Ranking Mac Computers : Expert Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unseen-mistakes-by-artificial-writers/"><u>Unseen Mistakes by Artificial Writers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrading-to-the-newest-a-side-by-side-look-at-ipad-air-4-and-ipad-air-er-technology-insights-from-zdnet/"><u>Upgrading to the Newest: A Side-by-Side Look at iPad Air 4 and iPad Air Er | Technology Insights From ZDNET</u></a></li>
 </ul></div>
 

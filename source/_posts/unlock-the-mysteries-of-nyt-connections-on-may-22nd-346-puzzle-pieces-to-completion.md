@@ -1,7 +1,7 @@
 ---
 title: Unlock the Mysteries of NYT Connections on May 22Nd (#346) – Puzzle Pieces to Completion!
-date: 2024-08-29T19:37:00.673Z
-updated: 2024-08-30T19:37:00.673Z
+date: 2025-01-27T06:15:10.974Z
+updated: 2025-02-01T11:41:26.754Z
 tags:
   - web
 categories:
@@ -28,8 +28,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Hints for Today's Connections Groups
 
  Here are a few hints for the 346th Connections game to get you started:
@@ -42,8 +43,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![May 21st Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-21st-connections-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you still need help, the actual group names are:
 
 * **Yellow:** Body Parts in "Head, Shoulders, Knees and Toes"
@@ -52,15 +54,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Purple:** "Buzzy" Things
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Today's NYT Connections Answers
 
 ![May 21st Connections words and groups.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-21st-connections-filled-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 **Body Parts in "Head, Shoulders, Knees and Toes" (Yellow):** 
 
  Head, Knees, Shoulders, Toes
@@ -78,8 +78,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Bees, Caffeine, Gossip, Intercoms
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Did We Solve This Connections Game?
 
  May 22nd felt very easy. 
@@ -93,9 +94,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  That left bees, caffine, gossip, and intercom. They made up the Purple group, which was "Buzzy Things."
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Do You Guess Connections Groups?
 
  There is no quick, reliable way to approach Connections like there is with Wordle, since Connections isn't algorithmic. However, there are a few things to keep in mind that can help.
@@ -115,8 +116,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +123,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-dynamic-design-tips-after-effects-best-1-written-on-type/"><u>[New] Dynamic Design Tips After Effects' Best 1 Written on Type</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-melodic-mambos-macaws/"><u>[New] Melodic Mambos Macaws</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-enhance-your-marketing-game-the-top-15-social-media-analyzers-to-increase-e-commerce-for-2024/"><u>[Updated] Enhance Your Marketing Game The Top 15 Social Media Analyzers to Increase E-Commerce for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-navigating-the-digital-landscape-free-tools-for-youtube-audio-to-text/"><u>[Updated] Navigating the Digital Landscape FREE Tools for YouTube Audio to Text</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effective-techniques-for-duplicating-disk-partitions-between-drives-on-the-latest-version-of-windows-11/"><u>Effective Techniques for Duplicating Disk Partitions Between Drives on the Latest Version of Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-qi2-fast-charging-for-your-iphone-12-no-magsafe-required-zdnets-guide/"><u>Effortless Qi2 Fast Charging for Your iPhone 12, No MagSafe Required - ZDNet's Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/find-the-hottest-preorders-for-ipad-pro-and-latest-accessories-exclusive-deals-spotted-on-zdnet/"><u>Find the Hottest Preorders for iPad Pro and Latest Accessories: Exclusive Deals Spotted on ZDNET!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-webp-to-jpgpng-a-guide-for-dall-e-outputs/"><u>From WebP to JPG/PNG: A Guide for DALL-E Outputs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-iphone-11-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 11 Activation Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-apple-vision-pro-pricing-details-key-features-and-user-experience-review-comprehensive-guide-by-zdnet/"><u>Inside Apple Vision Pro: Pricing Details, Key Features & User Experience Review - Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-review-of-the-microsoft-surface-laptop-4-why-it-reigns-supreme/"><u>Top Review of the Microsoft Surface Laptop 4: Why It Reigns Supreme</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-ideas-into-poetry-books-via-chatgpt/"><u>Transforming Ideas Into Poetry Books via ChatGPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/what-went-down-when-i-sought-to-send-back-my-purchase-from-temu-an-insightful-review-for-consumers/"><u>What Went Down When I Sought To Send Back My Purchase From Temu – An Insightful Review for Consumers</u></a></li>
+<li><a href="https://win-trending.techidaily.com/alamn-almhsn-iaadad-nskh-ahtyaty-baanaya-fy-ntham-raid-0-alkhas-bk/"><u>الأمن المحسن: إعداد نسخ احتياطي بعناية في نظام RAID-0 الخاص بك</u></a></li>
+</ul></div>
 

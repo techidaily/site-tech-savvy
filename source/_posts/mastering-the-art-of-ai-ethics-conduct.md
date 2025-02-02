@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of AI Ethics Conduct
-date: 2024-08-29T19:40:17.037Z
-updated: 2024-08-30T19:40:17.037Z
+date: 2025-01-25T00:22:40.259Z
+updated: 2025-02-01T01:40:50.117Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 
  While we won't be running into SkyNet for the foreseeable future, AI is getting better than humans at several things. That's where the AI control problem comes into play.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The AI Control Problem Explained
 
  The AI control problem is the idea that AI will eventually become better at making decisions than humans. In accordance with this theory, if humans don't set things up correctly beforehand, we won't have a chance to fix things later, meaning AI will have effective control.
@@ -35,19 +39,28 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 
  If an AI system were to surpass human intelligence without the proper safeguards, the result could be catastrophic. Such systems could assume control of physical resources as many tasks are achieved better or more efficiently. Since AI systems are designed to achieve maximum efficiency, losing control could lead to severe consequences.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Does the AI Control Problem Apply?
 
  The main problem is that the better an AI system gets, the harder it is for a human supervisor to monitor the technology to ensure manual control can be taken over easily should the system fail. Additionally, the human tendency to rely on an automated system is higher when the system performs reliably most of the time.
 
 ![Image of a laptop with AI on the screen and ChatGPT in different fonts in the background](https://thmb.techidaily.com/176a1a151aeb9ebfdcfd4bd623625c32ca353b5d86117d513193a67649a60b72.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A great example of this is the [Tesla Full-Self Driving (FSD) suite](https://www.makeuseof.com/what-is-tesla-fsd-how-does-it-work/). While the car can drive itself, it requires a human to have their hands on the steering wheel, ready to take control of the car should the system malfunction. However, as these AI systems get more reliable, even the most alert human's attention will begin to vary, and dependency on the autonomous system will increase.
 
  So what happens when cars start driving at speeds humans can't keep up with? We'll end up surrendering control to the car's autonomous systems, meaning an AI system will be in control of your life, at least until you reach your destination.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can the AI Control Problem Be Solved?
 
  There are two answers to whether or not the AI control problem can be solved. First, if we interpret the question literally, the control problem can't be solved. There's nothing we can do that directly targets the human tendency to rely on an automated system when it performs reliably and more efficiently most of the time.
@@ -61,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
  The DCAF approach always puts a human operator at the helm of an automated system, ensuring that their input controls the most important parts of the system's decision-making process. If a system is engaging enough for a human operator to pay attention constantly, the control problem can be solved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can We Ever Truly Control AI?
 
  As AI systems become more advanced, capable, and reliable, we'll continue offloading more tasks to them. However, the AI control problem can be solved with the right precautions and safeguards.
@@ -73,14 +87,11 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 
  While we won't be running into SkyNet for the foreseeable future, AI is getting better than humans at several things. That's where the AI control problem comes into play.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -89,4 +100,16 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-moviemakerpro-insights-full-analysis/"><u>[New] MovieMakerPro Insights – Full Analysis</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-crafting-cross-social-media-content-strategy-with-youtube-and-fb/"><u>[Updated] 2024 Approved Crafting Cross-Social Media Content Strategy with YouTube & FB</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-magix-photographic-mastery-an-in-depth-review/"><u>[Updated] MAGIX Photographic Mastery An In-Depth Review</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-next-generation-of-mac-video-capture-software-not-bandicam-for-2024/"><u>[Updated] The Next Generation of Mac Video Capture Software (Not Bandicam) for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-elevating-your-igtv-visuals-cover-photos-update/"><u>In 2024, Elevating Your IGTV Visuals Cover Photos Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-the-mindset-of-openais-creators/"><u>Inside the Mindset of OpenAI's Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-pc-issues-efficiently-through-chatai/"><u>Navigating PC Issues Efficiently Through ChatAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-intrusion-activisions-fault-line/"><u>Tech Intrusion: Activision's Fault Line</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-screensaver-ultimate-guide-2023-zdnet/"><u>Top Rated Apple Watch Screensaver - Ultimate Guide 2023 (Zdnet)</u></a></li>
+</ul></div>
 

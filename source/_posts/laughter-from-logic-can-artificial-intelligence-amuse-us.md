@@ -1,7 +1,7 @@
 ---
 title: "Laughter From Logic: Can Artificial Intelligence Amuse Us?"
-date: 2024-08-29T19:39:22.832Z
-updated: 2024-08-30T19:39:22.832Z
+date: 2025-01-27T07:37:14.122Z
+updated: 2025-01-31T19:33:13.343Z
 tags:
   - chatgpt
   - open-ai
@@ -23,9 +23,17 @@ thumbnail: https://thmb.techidaily.com/6244e9865f3cd047c2f60d5d60d859b9d635a96ea
 
  But can it make us laugh? Laughter is a base human response to emotional stimuli. This makes it a perfect test for AIs continuing development. So, let's put AI under the spotlight and see if it can generate more than just words but an emotional response in the form of laughter.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Does ChatGPT Generate Comedy?
 
 ![Screenshot of AI Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-ai-joke.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Laughter is all about fun. So, let's have a little fun as we go. At the end of each section, we will list two jokes. One will be our corny attempt at humor, and the other will be an AI-generated joke. But will you be able to tell the difference?
 
@@ -41,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/6244e9865f3cd047c2f60d5d60d859b9d635a96ea
 
 * **Joke One:** A snake walks into a bar – The barman says to it, "how did you do that?"
 * **Joke Two:** A man walks into a bar with a piece of asphalt under his arm. He says to the bartender, "I'll take a beer and one for the road."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Can ChatGPT Do?
 
@@ -58,15 +70,13 @@ thumbnail: https://thmb.techidaily.com/6244e9865f3cd047c2f60d5d60d859b9d635a96ea
 * **Joke Four:** Knock Knock! _Who's there?_ Boo. _Boo who_? Don't cry, it's just a computer program making jokes!
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Can't ChatGPT Do?
 
 ![Screenshot ChatGPT Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-chatgpt-joke.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  When it comes to comedy and laughter, there is still plenty that AI can't do. For instance, human nature means that we often laugh at things that shouldn't be funny. A browse through "fail videos" on YouTube illustrates this point perfectly.
 
  This is the crux of the matter; there are still plenty of limitations when it comes to AI making us laugh. For example, would AI think someone crashing a tree down on their house was funny? Not yet, as there are contextual problems here that AI still hasn't overcome. Here are some of the laughter-related things that AI can't do.
@@ -81,15 +91,13 @@ thumbnail: https://thmb.techidaily.com/6244e9865f3cd047c2f60d5d60d859b9d635a96ea
 * **Joke Six:** I saw this advert in a window that said: "Television for sale, $1, volume stuck on full." I thought, "I can't turn that down."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Future of AI In Comedy?
 
 ![Screenshot AI Joke about the future of AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-ai-joke-about-the-future-of-ai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There are moral and ethical implications to consider here. However, these fall outside the scope of the question that this article poses: Can AI make us laugh?
 
  AI is being used to create artwork, music, and text. Many of the limitations that AI is experiencing in these fields are magnified in comedy. Comedy has subtleties that perhaps a nice melody or a pretty picture doesn't. Granted, there is subtlety in all forms of artwork that determine the success or failure of the piece, but comedy requires a deeper understanding of humanity's response to situations.
@@ -103,9 +111,6 @@ thumbnail: https://thmb.techidaily.com/6244e9865f3cd047c2f60d5d60d859b9d635a96ea
 * **Joke Seven:** There are 10 types of people in the world: Those that understand binary numbers and those that don't!
 * **Joke Eight:** Why did the computer go to the doctor? Because it had a virus!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## The Last Laugh
 
  AI is many things, but we struggled to get it to make us laugh. Getting it to generate jokes was no laughing matter! The humor was flat without the subtlety at the heart of much great comedy. For the record, joke numbers one, three, six, and seven were human-generated, and the others were AI-generated.
@@ -122,8 +127,6 @@ thumbnail: https://thmb.techidaily.com/6244e9865f3cd047c2f60d5d60d859b9d635a96ea
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +134,22 @@ thumbnail: https://thmb.techidaily.com/6244e9865f3cd047c2f60d5d60d859b9d635a96ea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-youtube-studio-audit-earnings-review/"><u>[Updated] 2024 Approved YouTube Studio Audit Earnings Review</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-interweaving-art-and-science-in-colors-for-2024/"><u>[Updated] Interweaving Art and Science in Colors for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-t2-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo T2 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-macbook-pro-and-macbook-air-find-the-right-apple-laptop-for-your-needs-with-expert-tips/"><u>Choosing Between MacBook Pro and MacBook Air? Find the Right Apple Laptop for Your Needs with Expert Tips!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-from-raw-footage-to-high-quality-improving-ps4-screen-recordings/"><u>In 2024, From Raw Footage to High-Quality Improving PS4 Screen Recordings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-motorola-moto-g73-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Motorola Moto G73 5G</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocket-your-content-tips-for-trending-videos/"><u>In 2024, Skyrocket Your Content Tips for Trending Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-mundane-hr-tasks-using-just-5-powerful-chatgpt-prompts/"><u>Revolutionize Mundane HR Tasks Using Just 5 Powerful ChatGPT Prompts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synchronize-gpt-3-talks-efficiently-using-chatfolders/"><u>Synchronize GPT-3 Talks: Efficiently Using ChatFolders</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722881419864-the-ultimate-micromobility-guide-events-latest-updates-insider-info-and-more/"><u>The Ultimate Micromobility Guide: Events, Latest Updates, Insider Info & More!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-11-must-have-windows-and-macos-applications-and-tools-insights/"><u>Top 11 Must-Have Windows & macOS Applications and Tools - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-wireless-power-banks-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Wireless Power Banks : Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-technology-one-device-at-a-time-the-rise-of-personalized-ai-as-predicted/"><u>Transforming Technology, One Device at a Time: The Rise of Personalized AI as Predicted</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-top-tablets-for-note-taking-in-202er-in-depth-analysis-pcmag/"><u>Ultimate Guide to the Top Tablets for Note-Taking in 202Er: In Depth Analysis | PCMag</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-realme-11-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Realme 11 Pro? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

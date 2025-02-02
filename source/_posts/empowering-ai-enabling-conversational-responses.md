@@ -1,7 +1,7 @@
 ---
 title: "Empowering AI: Enabling Conversational Responses"
-date: 2024-08-25T17:38:32.103Z
-updated: 2024-08-26T17:38:32.103Z
+date: 2025-01-27T17:15:39.132Z
+updated: 2025-02-01T10:56:50.862Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 
  Along with its newfound voice, ChatGPT will also be able to respond to and discuss specific images uploaded to it or snapped while using the ChatGPT Android or iOS app. The image recognition feature sounds similar to Google Lens and other apps that use neural networks to detect data and information accurately.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## OpenAI Gives ChatGPT a Voice
 
  On September 25, 2023, ChatGPT developer [OpenAI revealed](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak) it would give its world-leading generative AI chatbot a voice. ChatGPT users can speak directly to the chatbot and request it speak back, effectively allowing ChatGPT to converse directly with voice for the first time.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 
  ChatGPT's new text-to-speech model is only available to Plus and Enterprise subscribers using the official Android and iOS apps and is expected to roll out within the next two weeks (starting from September 25, 2023). Furthermore, the new voice feature is limited to English to begin with, though we would expect this to change rapidly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT Can Recognize and Analyze Images and Photographs
 
  The second part of OpenAI's ChatGPT update is the ability to analyze and talk images uploaded to the tool. The visual image analysis option was featured in the GPT-4 update videos but hasn't been discussed much since that time ([ChatGPT Code Interpreter aside](https://www.makeuseof.com/what-is-chatgpt-code-interpreter/)).
@@ -46,9 +54,9 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
  Like the new text-to-speech model, OpenAI will roll out image recognition in the next two weeks, though it will be available on all platforms, not just the ChatGPT app.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Privacy, Security, and Other Issues
 
  The implications of a voice-powered ChatGPT are stark. Sure, it's exciting. However, the ability to create a uniquely synthesized voice using just a short snippet as an example has considerable privacy and security issues. The potential for malicious actors to exploit these tools is enormous, and as with any generative AI tool, once the genie is out of the bottle, it absolutely will not go back in. No amount of AI regulation from governments or thought leaders can turn back the tide.
@@ -60,8 +68,9 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
  Given this is the tip of the iceberg, expect pushback against ChatGPT's newfound voice, especially once there is a predictable uptick in unsavory headlines claiming ChatGPT is being used to commit fraud and so on.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## OpenAI Is Making ChatGPT the Go-To AI App
 
  The more OpenAI adds user-friendly features to ChatGPT, the more it becomes the go-to generative AI app. As the first to reach widespread fame during the initial generative AI boom, ChatGPT still leads the way and is the only app some use, despite competition from the likes of Google Bard (and potentially Google Gemini) and Anthropic's Claude.
@@ -72,14 +81,11 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 
  Along with its newfound voice, ChatGPT will also be able to respond to and discuss specific images uploaded to it or snapped while using the ChatGPT Android or iOS app. The image recognition feature sounds similar to Google Lens and other apps that use neural networks to detect data and information accurately.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -88,4 +94,18 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-optimal-speech-devices-web-based/"><u>[Updated] 2024 Approved Optimal Speech Devices, Web-Based</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-10-best-blurred-background-tools/"><u>[Updated] 2024 Approved The 10 Best Blurred Background Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-knowledge-gaps-the-principles-of-ai-transfer-learning/"><u>Bridging Knowledge Gaps: The Principles of AI Transfer Learning</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/determining-top-screen-recorder-obs-studio-vs-bandicam/"><u>Determining Top Screen Recorder OBS Studio Vs. Bandicam</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-site-planning-using-chatgpts-four-tactics/"><u>Efficient Site Planning Using ChatGPT's Four Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enabling-and-using-imessages-on-pc-a-step-by-step-tutorial-by-zdnet/"><u>Enabling & Using iMessages on PC: A Step-by-Step Tutorial by ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-v27-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo V27 Quickly | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/fix-windows-11-update-issues-with-these-top-5-effective-solutions/"><u>Fix Windows 11 Update Issues with These Top 5 Effective Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-infinix-smart-7-hd-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Infinix Smart 7 HD in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-high-seas-with-chatgpt-plus-subscription/"><u>Navigating the High Seas with ChatGPT Plus Subscription</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-amazon-bargains-of-september-2024-exclusive-offers-featured-on-zdnet/"><u>Top Rated Amazon Bargains of September 2024 - Exclusive Offers Featured on ZDNet</u></a></li>
+</ul></div>
 

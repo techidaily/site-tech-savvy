@@ -1,7 +1,7 @@
 ---
 title: AI's Imprint on Developer Routines
-date: 2025-01-17T17:10:06.440Z
-updated: 2025-01-24T17:20:54.280Z
+date: 2025-01-26T20:58:27.132Z
+updated: 2025-01-31T23:09:52.833Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Overall Sentiments of Developers Towards AI
 
  As mentioned, AI is growing in popularity among developers. According to the [Stack Overflow 2023 survey](https://survey.stackoverflow.co/2023/), 70% are already using or plan to use AI tools in their development process with 44% already using the tools now and 26% planning to.
@@ -33,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
  The views on AI differ based on the profession and the level of experience of the developer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Profession
@@ -53,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
  Developers earlier in their careers and those learning to code are more likely to use AI tools possibly because it improves the speed of learning.
 
  On the other hand, 42.2% of developers with more than 21+ years of experience are less favorable to AI. This may be because they want to see whether the hype surrounding AI will die down before committing to a certain tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Countries
 
@@ -83,16 +91,12 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
  The survey further categorized these benefits across different developer types. Increased productivity was a constant among all developer types.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Popular AI Tools That Developers Are Using in 2023
 
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Stack Overflow surveyed the popularity of various AI tools grouped between AI search tools and AI developer tools. From the data, developers are primarily using two tools, ChatGPT and GitHub Copilot.
 
@@ -106,16 +110,12 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
  This slow adoption of a wide variety of AI tools can be attributed to skepticism about AI accuracy with only 2.85% of developers highly trusting AI output. This distrust can be attributed to tools like ChatGPT providing incorrect output sometimes. This output, when used, can cause significant damage to an application. When using these tools, it's always a good idea to first verify the output.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Get Started With AI in Software Development
 
  As a software developer, you can get started with AI by incorporating code generation and editing tools in your development process. [Tools like GitHub Copilot](https://www.makeuseof.com/how-github-copilot-helps-you-code/) and Tabnine suggest code snippets based on the context as you type which can significantly cut down on development time. Additionally, ChatGPT is very useful for generating utility functions, UI components, and debugging code. With the right prompts, you can even [use ChatGPT to create web apps](https://www.makeuseof.com/chatgpt-how-build-web-app/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Future of AI-Assisted Software Development
@@ -139,18 +139,16 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-transform-your-content-emulate-top-tiktok-trends-on-instagram-reels/"><u>[New] 2024 Approved Transform Your Content Emulate Top TikTok Trends on Instagram Reels</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1-windows-11-vs-windows/"><u>1. Windows 11 vs Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boosting-excel-productivity-with-effective-chatgpt-techniques/"><u>Boosting Excel Productivity with Effective ChatGPT Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/content-excellence-via-gpt-collaborations/"><u>Content Excellence via GPT Collaborations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-apple-integrates-advanced-image-recognition-in-iphone-16-mirroring-google-lens-exclusive-report/"><u>How Apple Integrates Advanced Image Recognition in iPhone 16, Mirroring Google Lens - Exclusive Report</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-vivo-s17-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Vivo S17</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-13c-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi 13C 5G</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-boost-popularity-quickly-top-30-hashtags-every-gamer-needs/"><u>In 2024, Boost Popularity Quickly Top 30 Hashtags Every Gamer Needs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-v27-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo V27 Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/method-for-turning-off-intelligent-agent/"><u>Method for Turning Off Intelligent Agent</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-core-of-7-gpt-4-applications-an-analysis/"><u>The Core of 7 GPT-4 Applications: An Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-evolutionary-leap-in-ai-linguistics-introducing-palm-2/"><u>The Evolutionary Leap in AI Linguistics: Introducing PaLM 2</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-must-see-max-lineup-todays-top-television-picks-for-viewers/"><u>The Must-See Max Lineup: Today's Top Television Picks for Viewers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-essential-windows-tips-for-efficient-live-tv-saving/"><u>[New] In 2024, Essential Windows Tips for Efficient Live TV Saving</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-zippyzoom-pauseframe-playback/"><u>[Updated] 2024 Approved ZippyZoom PauseFrame Playback</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-optimal-mp4-extractor-from-tiktok-videos/"><u>[Updated] In 2024, Optimal MP4 Extractor From TikTok Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-rookies-guide-to-youtube-entrepreneurship-and-earnings/"><u>[Updated] In 2024, The Rookie's Guide to YouTube Entrepreneurship and Earnings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-veracity-in-the-limelight/"><u>ChatGPT's Veracity in the Limelight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embracing-change-responsible-application-of-artificial-intelligence-in-writing-and-editing/"><u>Embracing Change: Responsible Application of Artificial Intelligence in Writing and Editing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-vs-gpt-35-unpacking-distinctions/"><u>GPT-4 Vs. GPT-3.5: Unpacking Distinctions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/proven-techniques-securely-archive-your-instagram-story-for-2024/"><u>Proven Techniques Securely Archive Your Instagram Story for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swiftly-move-all-your-macbook-files-with-these-simple-steps-discover-the-ultimate-guide/"><u>Swiftly Move All Your MacBook Files with These Simple Steps - Discover the Ultimate Guide!</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-note-12t-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
 </ul></div>
 

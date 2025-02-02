@@ -1,7 +1,7 @@
 ---
 title: Healthy Eating Strategies Using GPT-Assist
-date: 2025-01-20T21:56:30.971Z
-updated: 2025-01-24T22:07:03.186Z
+date: 2025-01-31T11:18:49.747Z
+updated: 2025-01-31T17:55:48.524Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/d5d5810dfb5162fe3838fd5a512ce840bf5c9c8c5
 
  ChatGPT can indeed help you create a healthy meal plan. In fact, it can help you create anything you’d like, even an unhealthy meal plan. But before you use ChatGPT to help you build your meal plan, there are several factors of your meal plan you need to figure out first.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Meal Plan Preferences
 
  First, you have to decide on what your goals are. Are you meal planning to lose weight, maintain your weight, or [gain weight in a healthy way](https://www.makeuseof.com/weight-gain-apps/)? Secondly, do you have any specific food preferences, allergies, or restrictions?
@@ -51,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/d5d5810dfb5162fe3838fd5a512ce840bf5c9c8c5
 ## How to Use ChatGPT to Determine Your TDEE and BMR
 
 ![ChatGPT AI chatbot online tool TDEE BMR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-tdee-bmr.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you’ve decided on those particulars of your healthy meal plan, you can use ChatGPT to help with your basal metabolic rate (BMR) and total daily energy expenditure (TDEE)—if you don't already know. TDEE is an estimate of your total calories burned daily.
 
@@ -76,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/d5d5810dfb5162fe3838fd5a512ce840bf5c9c8c5
 * Two-week vegetarian meal plan that caters to nut allergies, serves one, and includes three meals per day. No more than one hour of cooking time with an included grocery list.
 * One-week meal plan with three meals, one snack, and no dietary restrictions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Problems With ChatGPT Meal Plans
 
  Keep in mind that ChatGPT is not consistent all the time, and the tool may generate factual errors that could mislead you if you don't verify the information with other trustworthy sources. For example, in the previous screenshot, ChatGPT erroneously reports that the price of the breakfast meal is $4 when it is, in fact, $5\.
@@ -90,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/d5d5810dfb5162fe3838fd5a512ce840bf5c9c8c5
 
  This can result in spending an enormous amount of money on groceries and lots of extra unused ingredients.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Better Meal Planning Alternatives to ChatGPT
 
  While ChatGPT is fun to use to play around with possible meal plans, it’s not entirely reliable, and you should use it with caution. On the other hand, there are plenty of [excellent meal planning apps](https://www.makeuseof.com/top-meal-planning-apps-healthy-eating/) available that can make your healthy meal plan easier to organize and keep track of.
@@ -99,13 +99,13 @@ thumbnail: https://thmb.techidaily.com/d5d5810dfb5162fe3838fd5a512ce840bf5c9c8c5
 ![SideChef meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-meal-plan-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![SideChef preferences mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-preferences.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -124,11 +124,11 @@ Close
 
 ![Eat this much planner mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-planner.jpg)
 
-Close
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Close
 
 ## Can You Trust ChatGPT to Create a Healthy Meal Plan?
 
@@ -155,20 +155,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-step-by-step-share-youtube-clips-on-instagram/"><u>[New] In 2024, Step-by-Step Share YouTube Clips on Instagram</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-converting-personal-memories-from-stillness-to-motion/"><u>2024 Approved Converting Personal Memories From Stillness to Motion</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024top-win10/"><u>2024年度Top Win10视频编辑软件推荐清单</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-youtube-videos-leveraging-chatgpt-for-scripts/"><u>Crafting YouTube Videos: Leveraging ChatGPT for Scripts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/disinformation-cleared-chatgpt-windowsnot-a-threat/"><u>Disinformation Cleared: 'ChatGPT Windows'—Not a Threat</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-charging-and-temperature-control-discover-how-to-keep-your-iphoneipadmac-fresh-top-3-in-1-magsafe-dock/"><u>Effortless Charging & Temperature Control: Discover How to Keep Your iPhone/iPad/Mac Fresh Top 3-in-1 MagSafe Dock!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/first-steps-in-langchain-language-models/"><u>First Steps in LangChain Language Models</u></a></li>
-<li><a href="https://win11.techidaily.com/greatest-non-microsoft-options-easy-screen-captures-without-windows/"><u>Greatest Non-Microsoft Options: Easy Screen Captures Without Windows</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-master-the-motion-personalized-animation-techniques/"><u>In 2024, Master the Motion Personalized Animation Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-depth-study-of-video-tech-outside-manycam/"><u>In-Depth Study of Video Tech Outside ManyCam</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-the-latest-iphone-15-pro-max-built-to-survive-underwater-find-out-here/"><u>Is The Latest iPhone 15 Pro Max Built to Survive Underwater? Find Out Here!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-daily-living-with-ai-the-chatgpt-guide/"><u>Optimizing Daily Living with AI: The ChatGPT Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-are-there-no-more-chatgpt-jailbreaks-7-reasons-chatgpt-jailbreaks-dont-work/"><u>Why Are There No More ChatGPT Jailbreaks? 7 Reasons ChatGPT Jailbreaks Don't Work</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/why-hulu-subscribers-should-join-up/"><u>Why Hulu Subscribers Should Join Up</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-im-continuously-choosing-the-apple-watch-series-7-over-upcoming-series-10-zdnet-insights/"><u>Why I'm Continuously Choosing the Apple Watch Series 7 Over Upcoming Series 10 | ZDNET Insights</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-iphone-ready-syncing-photos-and-videos-from-pc/"><u>[New] In 2024, IPhone-Ready Syncing Photos & Videos From PC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-favorites-compiled-top-6-fb-lite-downloads/"><u>2024 Approved Favorites Compiled #Top 6 FB Lite Downloads</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-unlocking-full-potential-in-depth-review-of-lgs-monitor-tech/"><u>2024 Approved Unlocking Full Potential In-Depth Review of LG's Monitor Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/correcting-course-post-ipad-misstep-expert-insights-on-restoring-apples-reputation/"><u>Correcting Course Post-iPad Misstep: Expert Insights on Restoring Apple's Reputation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-ai-spectrums-mass-vs-individual-use/"><u>Deciphering AI Spectrums: Mass Vs. Individual Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-leveraging-windows-11s-auto-hdr/"><u>Essential Tips for Leveraging Windows 11'S Auto HDR</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-your-hands-on-the-latest-macos-big-sur-macos-15-beta-version-free-guide-for-all-mac-owners/"><u>Get Your Hands on the Latest MacOS Big Sur (macOS 15) Beta Version - Free Guide for All Mac Owners!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-your-iphone-classified-as-vintage-apple-reveals-the-criteria-and-consequences-zdnet/"><u>Is Your iPhone Classified as Vintage? Apple Reveals the Criteria and Consequences | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/setting-up-an-apple-vision-pro-with-vpn-comprehensive-guide-and-benefits-techadvice/"><u>Setting Up an Apple Vision Pro with VPN: Comprehensive Guide & Benefits - TechAdvice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-viewing-of-taylor-swifts-movie-collection/"><u>Step-by-Step Viewing of Taylor Swift's Movie Collection</u></a></li>
+<li><a href="https://driver-install.techidaily.com/stepwise-installation-of-windows-1011s-new-bluetooth-driver/"><u>Stepwise Installation of Windows 10/11'S New Bluetooth Driver</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-motorola-edge-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-review-of-rca-video-doorbell-camera-security-meets-style/"><u>The Ultimate Review of RCA Video Doorbell Camera – Security Meets Style</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-4-kid-friendly-ipads-a-comprehensive-guide-zdnet/"><u>Top 4 Kid-Friendly iPads : A Comprehensive Guide (ZDNet)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-magsafe-wallets-of-2024-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated MagSafe Wallets of 2024: Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-iphone-15-pro-max-steals-for-pennies-on-amazon-secrets-revealed-in-this-in-depth-zdnet-analysis/"><u>Unlocking iPhone 15 Pro Max Steals for Pennies on Amazon - Secrets Revealed in This In-Depth ZDNET Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028309922-wav/"><u>WAVオーディオファイルにおける最新の非劣化圧縮技術 - 検索エンジン向上</u></a></li>
 </ul></div>
 

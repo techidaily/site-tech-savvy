@@ -1,7 +1,7 @@
 ---
 title: "Unlock Your Potential: Discover and Report Errors for a Payday at OpenAI"
-date: 2025-01-16T17:03:58.754Z
-updated: 2025-01-18T17:52:48.108Z
+date: 2025-01-27T07:19:53.706Z
+updated: 2025-01-31T16:37:45.531Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is OpenAI's Bug Bounty Program?
 
 [OpenAI announced](https://openai.com/blog/bug-bounty-program) its Bug Bounty Program to incentivize those using their applications, such as ChatGPT and DALL-E, to create secure, advanced, and globally beneficial AI systems.
@@ -41,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 ![Man writing code on a laptop computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/bug-bounty-programs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  OpenAI promises to protect you from liabilities or penalties if you follow its stated guidelines and will also acknowledge submissions and remedy validated vulnerabilities promptly. Furthermore, OpenAI claims it will publicly recognize your contribution if it is unique and leads to a configuration or code change.
@@ -49,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
  However, you cannot disclose your vulnerability-related findings to the public after submitting them.
 
  This [bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and [AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/). You may report these to [OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
 
@@ -59,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
  At first, the priority level of your finding, along with your reward, will be determined using [Bugcrowd's Vulnerability Rating Taxonomy](https://bugcrowd.com/vulnerability-rating-taxonomy). However, if it deems it necessary, this level and your reward may be modified by OpenAI.
 
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Participate in OpenAI's Bug Bounty Program
 
@@ -75,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here, you must fill in the following information:
@@ -92,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the [OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8).
 
 ## Which Vulnerabilities Are Eligible for Rewards?
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
@@ -131,22 +131,20 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-top-trending-snapchat-augmentations-for-your-photos/"><u>[New] Top Trending Snapchat Augmentations for Your Photos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-craft-excellence-top-10-free-drawing-tools-for-mac/"><u>[Updated] Craft Excellence Top 10 Free Drawing Tools for Mac</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-instructions-removing-videos-from-youtubes-watchlater/"><u>[Updated] Instructions Removing Videos From YouTube's Watchlater</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/convertendo-arquivos-mmf-de-graca-o-solucao-mais-simplificada-do-movavi/"><u>Convertendo Arquivos MMF De Graça: O Solução Mais Simplificada Do Movavi</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/delving-into-the-pros-and-cons-of-using-itop-for-2024/"><u>Delving Into the Pros and Cons of Using ITop for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-the-speed-and-efficiency-of-google-nest-wi-fi-a-comprehensive-review/"><u>Exploring the Speed and Efficiency of Google Nest Wi-Fi - A Comprehensive Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-converter-easily-transform-m4r-audio-files-into-aiff-format/"><u>Free Online Converter: Easily Transform M4R Audio Files Into AIFF Format</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722962760451-get-your-nvidia-quadro-rtx-groovy-download-for-windows-1187-systems-now/"><u>Get Your Nvidia Quadro RTX Groovy Download for Windows 11/8/7 Systems Now</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-narratives-distributed-among-8-movie-segments/"><u>In 2024, Ideal Narratives Distributed Among 8 Movie Segments</u></a></li>
-<li><a href="https://win-docs.techidaily.com/mastering-seo-in-depth-insights-on-meta-keywords-and-top-optimization-techniques/"><u>Mastering SEO: In-Depth Insights on Meta Keywords and Top Optimization Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mkv-to-mp4-conversion-guide-easy-tutorial-with-movavi/"><u>MKV to MP4 Conversion Guide - Easy Tutorial with Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavis-no-cost-tool-for-swiftly-transforming-png-files-into-high-quality-jpegs/"><u>Movavi's No-Cost Tool for Swiftly Transforming PNG Files Into High-Quality JPEGs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/passo-a-passo-como-transformar-arquivos-nef-em-jpeg-usando-o-windows-ou-mac/"><u>Passo a Passo: Como Transformar Arquivos NEF Em JPEG Usando O Windows Ou Mac</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-resolving-iphone-photos-import-error-in-windows-pcs/"><u>Quick-Fix: Resolving iPhone Photos Import Error in Windows PCs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/telechargement-gratuit-convertissez-votre-fichier-rmvb-en-version-m4v-via-le-service-de-movavi/"><u>Téléchargement Gratuit : Convertissez Votre Fichier RMVB en Version M4V via Le Service De Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trasforma-i-file-mxf-in-mp3-senza-costi-con-il-servizio-di-conversione-online-di-movavi/"><u>Trasforma I File MXF in MP3 Senza Costi Con Il Servizio Di Conversione Online Di Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/online-flac-movavi/"><u>무료 앱을 사용하여 Online FLAC 크리티비톡 편집 - Movavi</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-collagecraft-stitching-videos-for-instagram-on-iosandroid/"><u>[New] 2024 Approved CollageCraft Stitching Videos for Instagram on iOS/Android</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-vero-authors-spotlight-at-snapchat/"><u>[Updated] In 2024, Vero Authors Spotlight at Snapchat</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-to-success-joining-youtubes-partner-program-for-2024/"><u>[Updated] Step-by-Step to Success Joining YouTube's Partner Program for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/a-beginners-journey-into-gameplay-capturing-with-obs/"><u>A Beginner's Journey Into Gameplay Capturing with OBS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anthropics-ai-the-new-claude-3-playbook/"><u>Anthropic's AI: The New Claude 3 Playbook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anthropics-ai-transforming-ideas-with-claude-3/"><u>Anthropic's AI: Transforming Ideas with Claude 3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-apple-watch-battery-performance-discover-key-adjustments-with-expert-tips-from-zdnet/"><u>Boosting Apple Watch Battery Performance: Discover Key Adjustments with Expert Tips From ZDNET</u></a></li>
+<li><a href="https://facebook.techidaily.com/efficiently-downloading-images-and-videos-from-fb/"><u>Efficiently Downloading Images and Videos From FB</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-nokia-c110-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Nokia C110</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-lava-blaze-pro-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Lava Blaze Pro 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-air-4-vs-ipad-air-5-is-it-time-to-consider-an-upgrade-in-depth-comparison-techadvisor/"><u>IPad Air 4 vs iPad Air 5: Is It Time to Consider an Upgrade? [In-Depth Comparison] | TechAdvisor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-hygiene-and-safety-man-emerges-from-smart-restroom-for-quick-health-assessment-discover-more-at-zdnet/"><u>Revolutionizing Hygiene & Safety: Man Emerges From Smart Restroom for Quick Health Assessment - Discover More at ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-enhancements-streamlining-the-chatgpt-plugin-directory/"><u>Top Enhancements: Streamlining the ChatGPT Plugin Directory</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-secrets-how-to-find-stored-passwords-in-macos-keychain-zdnet-method/"><u>Unlocking Secrets: How To Find Stored Passwords in macOS Keychain (ZDNet Method)</u></a></li>
 </ul></div>
 

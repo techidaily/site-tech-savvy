@@ -1,7 +1,7 @@
 ---
 title: "Apple M3 MacBook Air Unveiled: The Ultimate Guide to the Newest Entry in Apple's Laptop Lineup | TechSpot"
-date: 2025-01-20T16:02:42.928Z
-updated: 2025-01-24T19:12:45.954Z
+date: 2025-01-30T11:07:34.641Z
+updated: 2025-02-01T03:02:46.870Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ We rounded up the best Apple Watch deals available now so you can shop and save 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Apple Watch deals of July 2024
@@ -95,6 +95,10 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRestored-Apple-Watch-SE-40mm-GPS-Cellular-Gold-Aluminum-Case-Starlight-Sport-Band%2F5031506033%3F&subId1=zd-__COM_CLICK_ID__-dtp) (40mm, Pink Sport Band, Restored): $124 (save $21)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-GPS-Cellular-44mm-Gold-Aluminum-Case-with-Starlight-Sport-Band-Used%2F1620367883%3F&subId1=zd-__COM_CLICK_ID__-dtp) (44mm, GPS, Starlight Sport Band, Used): $125 (save $35)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
@@ -106,7 +110,7 @@ We also looked over customer reviews to find out what matters to real people who
 ZDNET's top pick for the [best Apple watch](https://www.zdnet.com/article/best-apple-watch/) is the Apple Watch Ultra 2 since it is lauded by athletes and members of the press as the best Apple Watch ever made thanks to its rugged durability, large and bright display, long battery life, water resistance, and more. It's no surprise it became the flagship model as soon as the Ultra was released last year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do Apple Watches track my AFib?
@@ -114,6 +118,10 @@ ZDNET's top pick for the [best Apple watch](https://www.zdnet.com/article/best-a
 Yes, your Apple Watch, as long as it is a Series 6 or newer, can track your AFib, or irregular heartbeat. In fact, The US Food and Drug Administration (FDA) has recently [awarded](https://content.govdelivery.com/accounts/USFDA/bulletins/399d551) medical device development tool (MDDT) status to the Apple Watch's atrial fibrillation (AFib) history tracker. The feature is first piece of digital health technology to earn MDDT status, the FDA said in a statement.
 
 **Also:** [**Your Apple Watch's AFib history could soon be used in clinical studies**](https://www.zdnet.com/article/your-apple-watchs-afib-history-could-soon-be-used-in-clinical-studies/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple Watch SE vs Series 8: Which is the better buy?
 
@@ -123,13 +131,13 @@ However, if you want to get in at the lowest price or you're buying a watch for 
 
 **Also**: [**Watch Series 8 vs Series 9: Should you upgrade?**](https://www.zdnet.com/article/apple-watch-series-9-vs-apple-watch-series-8/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the newest Apple Watch?
 
 Apple has a lengthy lineup of its flagship tech wearable, with several iterations over the last few years. The two newest watch releases come in the Apple Watch Series 9 and the Apple Watch Ultra 2, which were released in September 2023\. The Apple Watch SE (2nd Gen) remains the most up-to-date base model. With multiple models available, both old and new, you'll be sure to find a watch that fits your needs and your price point. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which Apple watches have the new double tap feature?
 
@@ -145,10 +153,6 @@ Other band options include the Ocean Band, Alpine Loop, Milanese Loop, Trail Loo
 
 The Apple watch models are not the only options for smart watches, despite their popularity. ZDNET rounded up the [best smartwatch deals](https://www.zdnet.com/article/best-black-friday-and-cyber-monday-smartwatch-deals-still-available/) so you can scope more alternative deals, including the Fitbit Versa 4, Fitbit Luxe, Google Pixel Watch, Samsung Galaxy Watch 6, and more. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does "trade-in" mean?
 
 Similarly to turning in an older cell-phone to receive monetary credit towards purchasing a newer or more updated version, Apple and other major retailers often have options to "trade-in" other devices, like Apple watches. 
@@ -156,10 +160,6 @@ Similarly to turning in an older cell-phone to receive monetary credit towards p
 When participating in a trade-in offer, you are providing your previously used item to the retailer in exchange for a predetermined amount of cash back that can be directly applied to your next item purchase of the same product. Eligible trade-in items and the cash back offered for each product is decided by each individual retailer and is often determined by factors such as age, condition, and functionality of the item being presented for trade-in. Apple recently decided to even bump up the amount they offer for trade-ins as well, too. 
 
 **Also:** [**Apple is paying more for your used Apple watches**](https://www.zdnet.com/article/apple-is-now-paying-more-for-your-used-apple-watches-and-ipads/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -205,19 +205,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-easy-techniques-for-archiving-screen-conversations/"><u>[New] 2024 Approved Easy Techniques for Archiving Screen Conversations</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-exclusive-moba-selection-for-android-gamers-for-2024/"><u>[New] Exclusive MOBA Selection for Android Gamers for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-achieving-caption-excellence-an-overview-of-premium-internet-tools-for-2024/"><u>[Updated] Achieving Caption Excellence An Overview of Premium Internet Tools for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-y100i-power-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo Y100i Power 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ace-your-tech-shopping-the-advantageous-discount-strategy-for-apples-elusive-ipad-pro-before-prime-day-strikes/"><u>Ace Your Tech Shopping: The Advantageous Discount Strategy for Apple's Elusive iPad Pro Before Prime Day Strikes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/behind-the-curtain-elon-and-gpt-revolution/"><u>Behind the Curtain: Elon and GPT Revolution</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-download-for-brother-hl-l2380dw-dual-laser-all-in-one-printer-windows-compatible/"><u>Free Download for Brother HL-L2380DW Dual Laser All-in-One Printer - Windows Compatible</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-the-latest-info-google-news-update/"><u>Get the Latest Info - Google News Update</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-oneplus-nord-ce-3-lite-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do OnePlus Nord CE 3 Lite 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-green-screen-templates-free-download-videography-and-filmmaking/"><u>In 2024, Green Screen Templates Free Download – Videography, and Filmmaking</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/melodic-matchmakers-aligning-music-to-visuals-for-2024/"><u>Melodic Matchmakers Aligning Music to Visuals for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-social-media-facebook-twitter-instagram-and-youtube-unveiled/"><u>Navigating the World of Social Media - Facebook, Twitter, Instagram & YouTube Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-critical-errors-in-chatai-communication-you-must-avoid/"><u>The Critical Errors in ChatAI Communication You Must Avoid</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-forefront-ai-vs-chatgpts-capabilities/"><u>Understanding Forefront AI vs ChatGPT's Capabilities</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-innovative-photography-with-insights-into-lut-use/"><u>[New] 2024 Approved Innovative Photography with Insights Into LUT Use</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-locate-inexpensive-deals-on-gopro-cameras-near-you/"><u>[New] Locate Inexpensive Deals on GoPro Cameras Near You</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-practical-tips-for-console-game-recordings/"><u>[Updated] 2024 Approved Practical Tips for Console Game Recordings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/amelioration-et-reparation-dimages-de-haute-resolution-avec-winxvideo-ia/"><u>Amélioration Et Réparation D'Images De Haute Résolution Avec WinxVideo IA</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/comprehensive-analysis-of-the-netgear-ac750-ex3700-wireless-range-extender-user-reviews-and-performance-insights/"><u>Comprehensive Analysis of the Netgear AC750 EX3700 Wireless Range Extender: User Reviews & Performance Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-future-of-chat-on-snapchat-and-beyond/"><u>Discovering the Future of Chat on Snapchat & Beyond</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-a-vpn-offer-better-anonymity-for-chatgpt/"><u>Does a VPN Offer Better Anonymity for ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-corporate-communication-with-gpt-assisted-writing/"><u>Elevating Corporate Communication with GPT-Assisted Writing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-marketing-strategy-using-cookiebot-solutions/"><u>Enhance Your Marketing Strategy Using Cookiebot Solutions</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-f23-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-sonic-design-how-chatgpt-enhances-digital-music-creation/"><u>Innovative Sonic Design: How ChatGPT Enhances Digital Music Creation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/itop-screen-recorder-review/"><u>ITop Screen Recorder Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-codegpts-capabilities-in-vs-code-projects/"><u>Leverage CodeGPT's Capabilities in VS Code Projects</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-oppo-reno-9a-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Oppo Reno 9A</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reviving-troubled-sonos-experiences-with-apples-help-tech-insights/"><u>Reviving Troubled Sonos Experiences with Apple's Help | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolution-and-operation-of-colossal-ai-models/"><u>The Evolution & Operation of Colossal AI Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranked-apple-watch-defender-screens-ultimate-buying-guide-2023-gadget-review/"><u>Top-Ranked Apple Watch Defender Screens - Ultimate Buying Guide 2023 | Gadget Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-eus-ai-policy-on-gpt-tech/"><u>Understanding EU's AI Policy on GPT Tech</u></a></li>
 </ul></div>
 

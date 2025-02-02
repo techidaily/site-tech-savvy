@@ -1,7 +1,7 @@
 ---
 title: Navigate Smartly Away From Unhelpful GPT Extensions
-date: 2025-01-21T22:15:14.982Z
-updated: 2025-01-25T00:50:35.405Z
+date: 2025-01-30T03:27:14.295Z
+updated: 2025-02-01T00:13:52.913Z
 tags:
   - chatgpt
   - open-ai
@@ -30,13 +30,13 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. I Am Rich
 
 ![The I Am Rich plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-i-am-rich-plugin-on-the-chatgpt-plugin-store.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The "I Am Rich" plugin is one of the most confusing plugins on the ChatGPT platform. If you're ever curious about what it does and go poking around—you're probably already wasting your time because the plugin does absolutely nothing. And this is not an exaggeration.
 
@@ -54,13 +54,13 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to [scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/)? Maybe ChatGPT plugins are not the right tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. AppyPie App Builder
 
 ![Appypie App builder on ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/appypie-app-builder-on-chatgpt-plugin-store.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  AppyPie is a popular no-code app-building platform. It's relatively easy to use, and you can deploy fully functional mobile apps in a very short time without having to write a single line of code.
 
@@ -72,13 +72,13 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
  Sure, it seems a bit unreasonable to expect a working text-to-app plugin that can spit out apps on demand. But in an era where chatbots can write code and where text-to-image and text-to-video are a thing, text-to-app is not that ridiculous of an expectation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. AI Agents
 
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you go by the definition of an AI agent, it’s easy to get excited about what the “AI Agents” plugin promises to do. The plugin self-describes as a plugin to help you “unleash the power of multiple AIs.” The idea is to take a complex goal, break it into subtasks, and then leverage the power of multiple AI agents specializing in each subtask to achieve the big goal you set for it.
 
@@ -86,13 +86,13 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
  It seems it was just applying a few prompt tricks and returning a not-so-enhanced copy of what ChatGPT would provide. There's really no sense of AI agents at work. It doesn't offer anything particularly different from what ChatGPT would do.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. A Movie Please (FilmFindr)
 
 ![FilmFindr plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/filmfindr-plugin-on-the-chatgpt-plugin-store.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The "A Movie Please" plugin is a movie recommendation tool to help ChatGPT users decide what to watch next. Although the plugin is not a dud (it actually makes movie recommendations), you're better off using ChatGPT without the plugin.
 
@@ -104,13 +104,13 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT's Plugin Store: Quantity Over Quality?
 
@@ -139,19 +139,24 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-youtube-end-screen-templates-plushow-tos/"><u>[New] 2024 Approved Free YouTube End Screen Templates [+How-Tos]</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-striking-a-balance-in-youtube-thumbnail-sizing/"><u>[New] In 2024, Striking a Balance in YouTube Thumbnail Sizing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-one-device-two-os-file-migration-tactics/"><u>2024 Approved One Device, Two OS File Migration Tactics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-governance-openai-leader-advocates-stronger-policies-impact-analysis/"><u>AI Governance: OpenAI Leader Advocates Stronger Policies (Impact Analysis)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-to-navigating-lg-channels-top-tips-and-crucial-facts/"><u>Comprehensive Guide to Navigating LG Channels: Top Tips and Crucial Facts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-and-engage-with-10-key-network-settings-in-winos/"><u>Explore and Engage with 10 Key Network Settings in WinOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fraudulent-chromatic-plugin-grabs-facebook-authentications/"><u>Fraudulent Chromatic Plugin: Grabs FACEBOOK Authentications</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/google-image-mastery-rapid-and-remarkable-mosaics-created/"><u>Google Image Mastery Rapid & Remarkable Mosaics Created</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/how-to-flawlessly-transmit-iphone-videos-to-your-computer-screen/"><u>How to Flawlessly Transmit iPhone Videos to Your Computer Screen</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-phantom-v-flip-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Phantom V Flip to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ipad-showdown-in-depth-analysis-of-ipad-pro-vs-ipad-air-to-determine-the-best-device-for-you-expert-review-by-zdnet/"><u>IPad Showdown: In-Depth Analysis of iPad Pro Vs. IPad Air to Determine the Best Device for You | Expert Review by ZDNET</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mint-memes-of-merriment-for-2024/"><u>Mint Memes of Merriment for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/narrative-through-symbols-in-finance/"><u>Narrative Through Symbols in Finance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/respecting-your-education-skip-the-ai-crutch/"><u>Respecting Your Education: Skip the AI Crutch</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-avoiding-the-common-path-the-route-to-unique-streamer-identities/"><u>[Updated] In 2024, Avoiding the Common Path The Route to Unique Streamer Identities</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-luts-guide-to-professional-movie-coloring-for-2024/"><u>[Updated] Luts Guide to Professional Movie Coloring for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-video-extraction-from-linkedin-using-these-6-choices/"><u>2024 Approved Master Video Extraction From LinkedIn Using These 6 Choices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accessing-nvidias-generative-ai-for-your-projects/"><u>Accessing NVIDIA's Generative AI for Your Projects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-advice-the-right-way-to-dry-out-a-wet-iphone-not-just-with-rice/"><u>Apple Advice - The Right Way to Dry Out a Wet iPhone, Not Just with Rice!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-exclusions-unveiled-top-titans-absent-from-its-launch-tech-insights-by-zdnet/"><u>Apple Vision Pro Exclusions Unveiled - Top Titans Absent From Its Launch | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-the-complexity-of-your-apple-watch-a-straightforward-guide/"><u>Boosting the Complexity of Your Apple Watch: A Straightforward Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/brainstorm-blueprint-gpt-3-meets-mindmaps/"><u>Brainstorm Blueprint: GPT-3 Meets Mindmaps</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/customized-exercise-plans-chatgpts-potential-impact/"><u>Customized Exercise Plans: ChatGPT's Potential Impact</u></a></li>
+<li><a href="https://win-data.techidaily.com/expert-tips-for-enabling-child-safety-features-in/"><u>Expert Tips for Enabling Child Safety Features In</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/homeos-reemerges-within-apples-newest-tvos-development-update-an-in-depth-look/"><u>HomeOS Reemerges Within Apple's Newest tvOS Development Update: An In-Depth Look</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-beyond-the-screen-advanced-techniques-in-logging-virtual-reality-games/"><u>In 2024, Beyond the Screen Advanced Techniques in Logging Virtual Reality Games</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-hunters-guide-to-best-camcorder-tech-today/"><u>In 2024, Hunters' Guide to Best Camcorder Tech Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/late-2021-m1-max-powerhouse-unveiled-in-depth-analysis-of-the-ultimate-apple-16-inch-macbook-pro/"><u>Late 2021 M1 Max Powerhouse Unveiled: In-Depth Analysis of the Ultimate Apple 16-Inch MacBook Pro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-samsung-galaxy-f34-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Samsung Galaxy F34 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-day-bargains-discover-the-36-most-amazing-apple-product-sales-yet-to-go/"><u>Prime Day Bargains: Discover the 36 Most Amazing Apple Product Sales Yet to Go!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-gtfo-software-crashes-a-step-by-step-guide/"><u>Resolving GTFO Software Crashes: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

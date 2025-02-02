@@ -1,7 +1,7 @@
 ---
 title: "Inside Generative AI: Companies Harnessing New Technology"
-date: 2024-08-29T19:40:47.924Z
-updated: 2024-08-30T19:40:47.924Z
+date: 2025-01-30T08:11:22.456Z
+updated: 2025-02-01T09:55:34.182Z
 tags:
   - chatgpt
   - open-ai
@@ -23,9 +23,17 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
  We're talking, of course, about AI chats and searching. But what exactly is generative AI search, and which companies are using it?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Generative AI Search?
 
 ![OpenAI logo up-close on a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-ai-web-apps.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  First off, we need to explain what generative AI search is. You're probably familiar with the concept of generative AI—it's a type of artificial intelligence that can generate content for you, from images to text, to music, and everything in between. It started catching on in late 2021 to early 2022, but it's matured to the point it can do some really amazing—and occasionally creepy—things.
 
@@ -39,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
 ![openai chatgpt logo on code background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/openai-chatgpt-logo-on-code-background-feature.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There are a few ways in which generative AI search is vastly different from regular search.
 
  Right now, if you pull up Google and enter a search term, it'll return a number of search results of different things it found through the internet matching your search. Search engines in their current state are, essentially, directories of websites. They do the best job possible at indexing billions of websites and looking through each and every one of them to give you the exact one you're looking for.
@@ -49,16 +61,10 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
  It has a few challenges ahead, and it might not replace regular search engines entirely as they will still have their purpose, but it might become a nice compliment that will make them way more useful whenever the technology is mature and released.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Which Companies Are Using Generative AI Search?
 
 ![microsoft building with logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-building.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Right now, the generative AI search battle is being fought between Google and Microsoft.
 
  Microsoft announced the release of "[the new Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) ," a new version of the company's search engine that will provide you not only with the regular Bing search experience but also with a complimentary, ChatGPT-like window where you can ask "real questions" and get "complete answers." You can ask it for help with your daily life, or just simple questions that you might or might not find using regular Bing.
@@ -68,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
  Google, on the other hand, is also coming up with new AI features of its own. Google launched its [ChatGPT-like chatbot called Bard](http://www.makeuseof.com/google-launching-bard-ai-compete-with-chatgpt/) , but eventually, the company wants to bring AI features into its main products as well. This includes the company's regular search experience, where AI-generated answers will complement, not replace, regular search results.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When Will I Be Able to Use Generative AI Search?
 
  Right now, you're able to play around with ChatGPT. It's been doing some amazing things, and [you can ask it to come up with answers to your questions](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) now. It has a few limitations—it is, of course, a product in testing, its data range is limited to the end of 2021 (at the time of writing), and it might occasionally say inaccurate or false things. But it's a fun product to play around with.
@@ -77,8 +84,9 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
  As for actual AI-powered search engines, you can now join the waitlist for "the new Bing" at Microsoft's website. As for Google, there's no waitlist, but the company might eventually open up its work on AI sometime over the next few months.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Generative AI Search is Great
 
  Generative AI search still needs work to become truly useful, but it is already a promising prospect. We can't wait to hear more about it as work continues on AI products.
@@ -89,8 +97,6 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +104,24 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-5-essential-techniques-to-capture-roblox-gaming-experienenas-macos-devices/"><u>[New] 2024 Approved 5 Essential Techniques to Capture Roblox Gaming Experienenas macOS Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-free-online-photo-tools-ranked-15/"><u>[New] Best Free Online Photo Tools Ranked #15</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-chirp-with-charisma-producing-text-memes-now/"><u>[New] Chirp with Charisma Producing Text Memes Now</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-how-to-edit-text-in-image-photo-text-editor-online-and-app/"><u>[New] How to Edit Text in Image? [Photo Text Editor Online and App]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/20-anker-charger-revolutionizes-portable-power-the-ultimate-solution-featured-on-zdnet/"><u>$20 Anker Charger Revolutionizes Portable Power: The Ultimate Solution Featured on ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-xsplit-alternatives-for-streaming/"><u>2024 Approved Best Xsplit Alternatives for Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-ultimate-selection-of-magsafe-battery-packs-in-depth-analysis-and-ratings-from-industry-authorities/"><u>2024'S Ultimate Selection of MagSafe Battery Packs: In-Depth Analysis and Ratings From Industry Authorities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-rules-for-ais-code/"><u>Crafting Rules for AI's Code</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/friskonline-m2p-to-mp3-konvertor-gratuit-moveavi-online-tool/"><u>Friskonline M2P-to-MP3 Konvertor - Gratuit Moveavi Online Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-to-refreshing-your-macs-software-two-simple-approaches-explored/"><u>Guide to Refreshing Your Mac's Software: Two Simple Approaches Explored</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-honor-x7b-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Honor X7b Devices</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/streamline-visual-marking-in-youtube-posts-with-watermarks-and-logos/"><u>Streamline Visual Marking in Youtube Posts with Watermarks & Logos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-definitive-list-of-economical-teleconference-platforms-for-2024/"><u>The Definitive List of Economical Teleconference Platforms for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ipad-air-m2-analysis-why-it-stands-out-as-the-ideal-choice-for-consumers/"><u>Top iPad Air (M2) Analysis - Why It Stands Out as the Ideal Choice for Consumers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-fixing-communication-hurdles-with-plugins/"><u>Unlocking Potential: Fixing Communication Hurdles with Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmasking-ai-limitations-in-text-interactions/"><u>Unmasking AI Limitations in Text Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-path-to-dominance-apples-potential-game-changing-moves-over-openai-microsoft-and-google-at-wwdc-202/"><u>Unveiling the Path to Dominance: Apple's Potential Game-Changing Moves Over OpenAI, Microsoft & Google at WWDC 202#</u></a></li>
+</ul></div>
 

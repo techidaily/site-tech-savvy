@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Limits of AI: Exploring 6 Instances Where ChatGPT Falls Short"
-date: 2024-08-29T19:39:08.919Z
-updated: 2024-08-30T19:39:08.919Z
+date: 2025-01-29T10:40:39.773Z
+updated: 2025-02-01T11:54:34.012Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
 ---
 
 ## Understanding the Limits of AI: Exploring 6 Instances Where ChatGPT Falls Short
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,15 +24,16 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
 * [It Doesn't Have the Right Information](https://ai-driven-video-production.techidaily.com/new-in-2024-upgrading-your-edit-why-final-cut-pro-outshines-final-cut-express/)
 * [You Need to Have a Back-and-Forth Conversation](https://fox-boxes.techidaily.com/2024-approved-navigating-your-way-through-vr-headset-selection-is-the-mobile-experience-more-attractive-than-tethered-tech/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  To get better responses from ChatGPT, you should provide detailed and specific prompts that give it enough information and context to understand what you're looking for. Avoid vague or ambiguous prompts and be aware that ChatGPT may not have access to all the information you need. Additionally, back-and-forth conversations with ChatGPT will refine its output.
 
  For an AI that supposedly knows so much, it can be tricky to get the answers you need from this chatbot, but before you run back to Google search, here are some issues you can address to get better answers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Your Prompts Are Too Short
 
  Since [ChatGPT](https://smart-video-editing.techidaily.com/new-how-to-find-free-sites-for-sound-effect-and-add-them-in-final-cut-pro-for-2024/) is (notionally) a chatbot, you may have the preconceived idea that your prompts should be short and conversational. While there's nothing wrong with that, of course, consider that you may not be giving ChatGPT enough information for it to give you the responses you want.
@@ -37,9 +42,6 @@ Related: [ChatGPT vs. Bing Chat AI: Which Is Better?](https://extra-skills.techi
 
  Go into detail and really explain what it is you want (positive prompts) and what you don't want (negative prompts), while painting a broader picture for the AI to work with. It's better to err on the side of writing a prompt that's longer and more detailed than you think is necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ##  You're Not Being Specific
 
  Large Language Models (LLMs) like ChatGPT are packed with an unimaginable amount of knowledge and data, which makes it extremely hard to give you the output you actually wanted if your questions are too broad.
@@ -74,9 +76,6 @@ Related: [ChatGPT vs. Bing Chat AI: Which Is Better?](https://extra-skills.techi
 
  By asking specific questions, you'll get [much better responses](https://fox-http.techidaily.com/mastering-the-use-and-maintenance-of-m1-max-clips-for-2024/), and the more specific you get, the better they'll be in most cases.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Ambiguous Prompts
 
  One of the main reasons LLMs are so amazing is that human language is complicated, and that's the understatement of the century! Unfortunately, that complexity also means it's easy to have lots of ambiguity in your prompts.
@@ -90,8 +89,9 @@ Related: [8 Surprising Things You Can Do With ChatGPT](https://facebook-clips.te
  If, on the other hand, you asked "What's the best way to cook chicken for my health?" you'd narrow things down, and if you asked "What's the best way to cook chicken for someone with diabetes?" you'd really be zeroing in on what you actually need.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  A Lack of Context
 
  Ambiguous prompts mainly suffer from a lack of context, but almost any type of prompt for ChatGPT will benefit from adding more context. ChatGPT is highly sensitive to contextual cues, so the more context you provide, the better your results will be.
@@ -105,8 +105,9 @@ Related: [How to Save and Share Your ChatGPT Conversations](https://some-guidanc
  These are simple examples, but ChatGPT can pick up on nuanced contextual clues, so it's a good idea to get into the habit of elaborating and describing what you want to with terms and keywords that give the software clues as to what you're trying to get from it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  It Doesn't Have the Right Information
 
  While LLMs like ChatGPT have a lot of data to work with, they have clear limits to what they know or can know. Apart from ChatGPT's (current) training data limit of September 2021, there are some things it just can't know.
@@ -118,8 +119,9 @@ Related: [How to Save and Share Your ChatGPT Conversations](https://some-guidanc
  Also, don't forget that ChatGPT can make things up, give you illogical or incorrect information, and generally act like an unreliable source!
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  You Need to Have a Back-and-Forth Conversation
 
  ChatGPT's ability to remember the entire chat history and use it as context to interpret subsequent prompts is one of its most powerful features. It also means that you can iterate what you want based on its responses to you.
@@ -140,8 +142,6 @@ Related: [Don't Trust ChatGPT to Do Math](https://win-blog.techidaily.com/172299
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +149,20 @@ Related: [Don't Trust ChatGPT to Do Math](https://win-blog.techidaily.com/172299
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-mobile-shoot-ranking-the-best-9-camgear-innovations/"><u>[New] 2024 Approved Elevate Your Mobile Shoot - Ranking the Best 9 CamGear Innovations</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-eliminate-non-existent-fb-ad-impressions/"><u>[New] 2024 Approved Eliminate Non-Existent FB Ad Impressions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-speed-up-vimeo-videos-for-2024/"><u>[Updated] How to Speed Up Vimeo Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-intellect-invasion-who-will-triumph-gpt-or-bard/"><u>AI Intellect Invasion: Who Will Triumph, GPT or Bard?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/androids-voice-command-revolution-with-gpt/"><u>Android's Voice Command Revolution with GPT</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-fitbit-versa-assessment-comprehensive-guide-and-features/"><u>Budget-Friendly Fitbit Versa Assessment: Comprehensive Guide & Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-pro-analysis-how-it-stacks-against-premium-chatgptplus/"><u>Claude Pro Analysis: How It Stacks Against Premium ChatGPT+</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-the-core-of-bert-and-gpt-nlp-approaches/"><u>Dissecting the Core of BERT and GPT NLP Approaches</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/reimagining-ppts-with-todays-webcam-capabilities-for-2024/"><u>Reimagining PPTs with Today's Webcam Capabilities for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-mobile-payments-and-beyond-apple-extends-iphone-nfc-capabilities-to-third-parties-what-you-gain-cnet/"><u>Revolutionizing Mobile Payments & Beyond: Apple Extends iPhone NFC Capabilities to Third Parties - What You Gain | CNET</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-overcoming-crashing-issues-in-star-wars-jedi-fallen-order-for-pc-players/"><u>Troubleshooting Guide: Overcoming Crashing Issues in Star Wars Jedi: Fallen Order for PC Players</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/44k44kk44og44os44k544o744op44k444kq6yyy6zplusz5oqa6kgt44go44gk44gz44gz44kb44gu44oe44o844or77ya44or44o844k944ok44or44gq5yplusx5lplush5l2t6ait5zcr5lik44gu44os16/"><u>タイムレス・ラジオ録音技術とおすすめのツール：パーソナルな受信体験向上のヒント</u></a></li>
+</ul></div>
 

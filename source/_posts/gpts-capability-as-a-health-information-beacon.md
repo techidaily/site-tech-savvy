@@ -1,7 +1,7 @@
 ---
 title: GPT’s Capability as a Health Information Beacon
-date: 2025-01-11T20:11:13.983Z
-updated: 2025-01-13T00:33:23.802Z
+date: 2025-01-25T04:16:24.935Z
+updated: 2025-02-01T07:05:45.825Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ChatGPT's Potential for Improving Wellness
 
  When it comes to wellness information, there are several benefits of using an AI tool, such as ChatGPT:
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
 * ChatGPT is easy to use. If you can think and type, you can use ChatGPT. Eventually, as tech companies integrate these systems into voice assistants, you might not even need to do the typing! This makes ChatGPT accessible to people of varying ages and technical abilities.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Examples of How ChatGPT Can Be Used for Health and Fitness Advice
@@ -52,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
 ![Screenshot of ChatGPT giving health advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-2023-02-09-at-1-48-14-pm.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It can also be used to generate advice on weekly meal plans based on your body type, sex, activity level, age, food preferences, and health goals (whether you want to lose weight, gain muscle, or something else).
@@ -64,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
  You could also use ChatGPT to provide information on how to maintain a healthy lifestyle, including how to protect yourself from illness. Or you can ask it to make recommendations for cancer screenings based on your factors (e.g. age, sex, and family history).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Limitations of Relying on ChatGPT for Health and Fitness Advice
@@ -78,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
  If you're going to use ChatGPT as one source of health and fitness advice, there are some tips and tricks you can follow to improve the quality of information you receive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips and Tricks for Improving Relevance of Health and Fitness Recommendations
@@ -89,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
 * **Consider the context** . Because health and fitness advice can vary so much between individuals, you will want to provide the model with as much personal information as possible, including your health history, goals, and current circumstances, before asking it to generate a response.
 * **Ask for clarification** . If the information provided by ChatGPT seems unclear or incomplete, ask it for additional information. You can even ask ChatGPT to ask you questions to better understand your individual needs before providing you with a response.
 * **Be specific** . The information provided by ChatGPT will be as specific as you ask it to be. For instance, if you ask it simple, single-sentence questions such as, "How can I lose weight?" you'll get general responses. However, if you figure out how to focus the model with parameters and guidelines, it is more likely to provide the advice you can use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can You Use ChatGPT to Get Trustworthy Health Information?
 
@@ -113,16 +113,16 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-game-capturing-titans/"><u>[Updated] In-Game Capturing Titans</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/building-connections-with-your-channels-audience/"><u>Building Connections with Your Channel's Audience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-under-attack-unraveling-the-mystery/"><u>ChatGPT Under Attack: Unraveling the Mystery</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/coding-aide-comparison-github-copilot-and-chatgpt-face-off/"><u>Coding Aide Comparison: GitHub Copilot and ChatGPT Face-Off</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/digital-aid-hub-comprehensive-tech-support-for-winx-dvd-rippervideo-converter-tool/"><u>Digital Aid Hub: Comprehensive Tech Support for WinX DVD Ripper/Video Converter Tool</u></a></li>
-<li><a href="https://win-answers.techidaily.com/gta-not-working-heres-how-to-get-your-online-adventure-back-on-track/"><u>GTA nOt wOrkIng? Here's How to Get Your Online Adventure Back on Track</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-europes-ai-legislation-could-transform-chatgpt/"><u>How Europe's AI Legislation Could Transform ChatGPT</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-testing-of-the-superior-linksys-wrt3tldpwifi-router-a-gamers-dream-with-open-source-capabilities/"><u>In-Depth Testing of the Superior Linksys WRT3tldpWiFi Router: A Gamer's Dream with Open Source Capabilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-8-chrome-addons-with-ai-for-increased-productivity/"><u>Leading 8 Chrome Addons with AI for Increased Productivity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-natural-language-for-excel-excellence-via-chatgpt/"><u>Leveraging Natural Language for Excel Excellence via ChatGPT</u></a></li>
-<li><a href="https://fox-access.techidaily.com/visuals-meet-melodies-audio-visual-magic/"><u>Visuals Meet Melodies Audio-Visual Magic</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-step-by-step-guide-to-professional-xbox-gameplay-capture-for-2024/"><u>[New] Step-by-Step Guide to Professional Xbox Gameplay Capture for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-professional-tips-for-efficient-screen-casting-in-meet-for-2024/"><u>[Updated] Professional Tips for Efficient Screen Casting in Meet for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-samsung-galaxy-m34-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Samsung Galaxy M34 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-installing-updated-drivers-for-your-scansnap-s1300i-scanner/"><u>Easy Guide to Installing Updated Drivers for Your ScanSnap S1300i Scanner</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elite-6-heavyweight-lms-colossal-language-contenders/"><u>Elite 6 Heavyweight LMS: Colossal Language Contenders</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-turn-off-comments-on-a-facebook-post/"><u>How to Turn Off Comments on a Facebook Post</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-true-essence-of-truthgpt-cryptocurrency/"><u>The True Essence of TruthGPT Cryptocurrency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-your-home-workspace-mastering-the-ipad-pro-for-efficient-remote-working-insights-from-zdnet/"><u>Transforming Your Home Workspace: Mastering the iPad Pro for Efficient Remote Working - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trouble-signal-how-to-deal-with-water-damage-on-your-iphones-lightning-connector/"><u>Trouble Signal: How to Deal with Water Damage on Your iPhone's Lightning Connector</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-selection-of-ipad-air-cases-for-2ebyte-professional-evaluations-and-rankings-zdnet/"><u>Ultimate Selection of iPad Air Cases for 2Ebyte: Professional Evaluations & Rankings | ZDNet</u></a></li>
 </ul></div>
 

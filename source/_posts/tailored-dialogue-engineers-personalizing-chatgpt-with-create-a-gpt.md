@@ -1,7 +1,7 @@
 ---
 title: "Tailored Dialogue Engineers: Personalizing ChatGPT with Create a GPT"
-date: 2024-08-25T17:39:33.512Z
-updated: 2024-08-26T17:39:33.512Z
+date: 2025-01-27T19:29:59.370Z
+updated: 2025-01-31T20:04:26.610Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 ![My GPTs in the Explore tab of ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/my-gpts-in-the-explore-tab-of-chatgpt.jpg)
 2. Choose**Create a GPT** to open the GPT Builder's interface.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  At the time of writing, "Create a GPT" is still in beta. This means not all features are fully online, and the product isn't finished. Bear this in mind while building your GPT and prepare to encounter issues. Also, it's possible that your finished GPT may be erased when a future update comes knocking.
 
 ## 2\. Give Your GPT a Primary Description and a Picture
@@ -40,23 +44,26 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 1. Now that you're in the GPT Builder, the first question you'll get is what you want to make. You can keep this first part short and sweet and input a single sentence. In this case, we said, "Make a Dungeons & Dragons 5e dungeon master who oversees D&D campaigns."  
 ![Primary description for a D&D GPT in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/primary-description-for-a-d-d-gpt-in-gpt-builder.jpg)
 2. Next, give your GPT a name. ChatGPT will suggest one for you, but you can still type in anything you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Once you give your GPT a name, it'll automatically create a profile picture as the next step. Thanks to ChatGPT's DALL-E integration, the images are typically pretty good. Ask it to regenerate more images if you're not happy with it. You can prompt it to create the exact image you want with some guidance.  
 ![Generating a profile picture for a D&D 5e dungeon master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/generating-a-profile-picture-for-a-d-d-5e-dungeon-master-gpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can manually change the image, name, description, and instructions for your GPT by clicking**Configure** . Click the profile picture to change it, and edit the details in the**Name** **Description** and**Instructions** fields to change them without typing prompts.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Establish a Tone and Rules for Your GPT
 
  At this stage, your GPT wants to know how it should address users. Direct it to the tone and style you want it to adopt. Here, we said, "5e Dungeon Master should use a wise, sagely tone. Use language and style commonly used in high-fantasy settings," which fits quite nicely into the fantasy nature of D&D.
 
 ![GPT Builder setting the tone and language for The 5e Dungeon Master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-builder-setting-the-tone-and-language-for-the-5e-dungeon-master-gpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
  But, of course, if you are making a more professional GPT, ensure it uses professional language.
 
  Now that your custom GPT has a tone, you should tell it how to behave. In our case, we want child-friendly Dungeons & Dragons campaigns that conform to PG-rated themes. We also let it have an inquisitive approach to understanding the player's actions instead of assuming what the player would do.
@@ -69,10 +76,11 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 
 ![GPT Dungeon Master giving information on how to build a character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-dungeon-master-giving-information-on-how-to-build-a-character.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  If you find that it's not fulfilling your instructions as well as you want, go back to the**Create** tab and give it further instructions. But remember that new instructions mean you've effectively created a new version of your GPT.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Upload Files as a Knowledge Base
 
@@ -85,9 +93,6 @@ Here's how to upload source documents to your custom GPT:
 3. Click**Upload files** and add files from your computer.  
 ![GPT Knowledge source documents uploading in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-knowledge-source-documents-uploading-in-gpt-builder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait for it to finish uploading, and you'll have the documents as a knowledge base for your GPT.
 
  If, for instance, you were trying to make a GPT that is an expert in Florida tax laws, you would get all the Florida tax legal documents you can find and upload them here to form a knowledge base your GPT can work with.
@@ -107,11 +112,13 @@ Here's how to upload source documents to your custom GPT:
 ![Capabilites in GPT Builder's settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/capabilites-in-gpt-builder-s-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Add APIs for Third-Party Services
 
  For those interested in using APIs to access other third-party services in their GPTs, you'll be happy to know that it's possible.
@@ -150,8 +157,9 @@ You can add more conversation starters as required.
  If you click the pencil icon in the share menu, you'll enter your builder profile, where you can change your GPT and profile options when this feature is fully released.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT's Limitations Still Apply to GPT Builder
 
  You might be fooled by OpenAI's new UI and custom AIs, but don't forget that its limitations still apply. Fundamentally, it's still AI and suffers from the fundamental lack of creativity only humans can display.
@@ -164,8 +172,6 @@ You can add more conversation starters as required.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +179,24 @@ You can add more conversation starters as required.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-best-price-to-performance-ratio-for-asmr-equipment/"><u>[New] 2024 Approved The Best Price-to-Performance Ratio for ASMR Equipment</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1-adjust-your-windows-pcs-language-configuration-via-control-panel-tips-by-yl-computing/"><u>1. Adjust Your Windows PC's Language Configuration via Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-vlc-key-mac-functions-explained/"><u>2024 Approved Mastering VLC Key Mac Functions Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/6-best-chatgpt-extensions-for-vs-code/"><u>6 Best ChatGPT Extensions for VS Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-assisted-fantasy-crafting-a-perfect-dandd-experience-with-gpt/"><u>AI-Assisted Fantasy: Crafting a Perfect D&D Experience with GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-devices-the-ultimate-guide-to-use/"><u>ChatGPT for Devices: The Ultimate Guide to Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-personalized-intelligent-agents-gpt-driven-chatgpt/"><u>Crafting Personalized Intelligent Agents: GPT-Driven ChatGPT</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/early-reactions-to-the-revolutionary-design-of-the-samsung-galaxy-s24-ultra/"><u>Early Reactions to the Revolutionary Design of the Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-bypass-the-10k-char-threshold/"><u>How To Bypass the 10K Char Threshold?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-enhance-pics-with-frames-top-lists-for-web-and-app-use/"><u>In 2024, Enhance Pics with Frames - Top Lists for Web and App Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/incorporating-chatgpt-to-boost-therapy-effectiveness/"><u>Incorporating ChatGPT to Boost Therapy Effectiveness</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-excel-complexity-using-3-strategic-chatgpt-techniques/"><u>Navigate Excel Complexity Using 3 Strategic ChatGPT Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-windows-error-30005-unable-to-create-files/"><u>Overcoming Windows Error 30005: Unable to Create Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-apple-watch-ultra-2-how-its-features-make-it-a-top-choice-for-me-now-at-100-off-expert-review/"><u>The Apple Watch Ultra 2: How Its Features Make It a Top Choice for Me, Now at $100 Off - Expert Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unauthorized-advantages-of-ai-conversational-tools/"><u>Unauthorized Advantages of AI Conversational Tools</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/unlock-the-potential-of-exe-files-in-windows-with-expert-advice-from-yl-software/"><u>Unlock the Potential of EXE Files in Windows with Expert Advice From YL Software</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-iphone-xr-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your iPhone XR in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+</ul></div>
 

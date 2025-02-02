@@ -1,7 +1,7 @@
 ---
 title: Inside the Development Process Behind Microsoft's Classic 3D Pipes Screen Saver
-date: 2024-08-29T19:37:35.156Z
-updated: 2024-08-30T19:37:35.156Z
+date: 2025-01-29T22:58:42.486Z
+updated: 2025-02-01T05:22:59.663Z
 tags:
   - desktop
 categories:
@@ -31,8 +31,6 @@ Windows used to include a screensaver called “3D Pipes,” which drew overlapp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -40,8 +38,26 @@ Windows used to include a screensaver called “3D Pipes,” which drew overlapp
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-does-active-presenter-8-outperform-its-rivals/"><u>[Updated] Does Active Presenter 8 Outperform Its Rivals?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-detective-blind-spots-an-urgent-warning/"><u>AI's Detective Blind Spots: An Urgent Warning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/closedchatgptqueries-anticipated-resumption/"><u>ClosedChatGPTQueries: Anticipated Resumption</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficiently-discerning-authentic-from-fake-chatbot-interactions/"><u>Efficiently Discerning Authentic From Fake ChatBot Interactions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-updated-epson-wf-3620-drivers-compatible-with-windows-1187-free-download/"><u>Get the Updated Epson WF-3620 Drivers: Compatible with Windows 11/8/7 – Free Download</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-xiaomi-redmi-a2plusmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Xiaomi Redmi A2+Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-vimeoifytweets-video-to-mp3-and-mp4/"><u>In 2024, VimeoifyTweets Video-to-MP3 & MP4</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/optimal-frequency-when-is-it-time-to-update-your-mobile-device/"><u>Optimal Frequency: When Is It Time To Update Your Mobile Device?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfect-your-interactions-with-these-essential-prompts/"><u>Perfect Your Interactions with These Essential Prompts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-non-apple-non-anker-magsafe-wallet-deal-of-the-year-my-comprehensive-review-zdnet/"><u>Top Non-Apple, Non-Anker MagSafe Wallet Deal of the Year: My Comprehensive Review | ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transforma-gratis-tus-fotos-de-avi-a-mp4-los-mejores-tecnicas-para-mayor-calidad/"><u>Transforma GRATIS Tus Fotos De AVI a MP4 - Los Mejores Técnicas Para Mayor Calidad</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-chatgpt-and-plugin-interaction-woes/"><u>Troubleshooting: ChatGPT & Plugin Interaction Woes</u></a></li>
+<li><a href="https://win-superb.techidaily.com/ultimate-guide-to-securely-saving-your-favorite-bravotube-content/"><u>Ultimate Guide to Securely Saving Your Favorite BravoTube Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-you-wont-find-the-latest-ai-innovations-on-your-current-iphone-the-costly-secret-behind-apples-strategy/"><u>Why You Won't Find the Latest AI Innovations on Your Current iPhone - The Costly Secret Behind Apple's Strategy</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

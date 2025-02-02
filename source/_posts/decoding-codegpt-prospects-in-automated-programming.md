@@ -1,7 +1,7 @@
 ---
 title: "Decoding CodeGPT: Prospects in Automated Programming"
-date: 2025-01-15T16:47:22.698Z
-updated: 2025-01-18T16:47:44.741Z
+date: 2025-01-25T19:12:16.676Z
+updated: 2025-02-01T05:46:27.924Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 * [Can CodeGPT Really Write Code?](https://sentrypc.7eer.net/dkpkgn)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
  If you're looking for an AI-powered assistant to help you write code, chances are you've encountered CodeGPT. It's one of many AI-powered tools you can use to assist you when programming. But can CodeGPT actually write code?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is CodeGPT?
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
  While there are several [code editors for Linux](https://www.makeuseof.com/best-ide-code-editors-for-linux/), macOS, and Windows, CodeGPT is only available in two. Today, you can either [install and use CodeGPT in VS Code](https://www.makeuseof.com/install-use-codegpt-in-vs-code/) or in Cursor, which is a fork of VS Code.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Much Does CodeGPT Cost?
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
  Bear in mind that you'll need to pay for unlimited usage of third-party AI models like OpenAI's GPT-4 model, for example. Although you can [access Open AI's GPT-4 model for free](https://www.makeuseof.com/ways-access-gpt-4-free/), you cannot do so from within VS Code or Cursor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can CodeGPT Really Write Code?
@@ -173,21 +173,21 @@ with open('output.csv', 'w', newline='') as output_file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-6-excellent-apps-to-capture-and-save-linkedin-videos-successfully/"><u>[New] 6 Excellent Apps to Capture and Save LinkedIn Videos Successfully</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-stepwise-unveiling-effect/"><u>[Updated] Stepwise Unveiling Effect</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-vivavideo-app-review-for-2024/"><u>[Updated] VivaVideo App Review for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-journey-through-nature-top-12-android-simulators/"><u>2024 Approved Journey Through Nature Top 12 Android Simulators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726226572852-pbm-movavi/"><u>無償網路線上PBM遊戲移動到 Movavi - 試玩</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/png-to-jpeg-movavi/"><u>無償のオンライン画像変換: PNG to JPEG - Movaviの簡単方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-conversion-of-vob-format-video-files-online-with-movavi/"><u>Free Conversion of VOB Format Video Files - Online with Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratis-online-konvertereen-cr2-naar-bmp-met-movavi-professioneel-image-converter/"><u>Gratis Online Konvertereen CR2 Naar BMP Met Movavi - Professioneel Image Converter</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-activate-stellar-data-recovery-for-iphone-15-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Activate Stellar Data Recovery for iPhone 15 Plus | Stellar</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-itel-p40plus-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Itel P40+ to Protect Your Individual Information</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/online-tool-for-gratis-conversion-from-3gp-video-codec-to-3g2-swiftconvert/"><u>Online Tool for Gratis Conversion From 3GP Video Codec to 3G2 - SwiftConvert</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformar-snd-a-lineal-libre-de-costo-con-movavi-guia-completa/"><u>Transformar SND a Lineal Libre De Costo Con Movavi - Guía Completa</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-future-how-artificial-intelligence-transforms-the-camera-revolution-in-smartphones-zdnet/"><u>Unveiling the Future: How Artificial Intelligence Transforms the Camera Revolution in Smartphones | ZDNet</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unwind-in-a-world-of-top-stress-busters-for-2024/"><u>Unwind in a World of Top Stress Busters for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726226278698-m4b-wav/"><u>무료 M4B WAV 변환 - 웨이비 라이브록과 중요성을 위해 최고의 도구</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-virtual-stage-enhancement-zooms-filter-guidebook/"><u>[New] In 2024, The Virtual Stage Enhancement Zoom's Filter Guidebook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-tricks-of-the-trade-for-instagram-video-preservation/"><u>[Updated] 2024 Approved Tricks of the Trade for Instagram Video Preservation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-in-pursuit-of-perfection-is-black-gopro-better-than-sony-action-cam/"><u>2024 Approved In Pursuit of Perfection Is Black GoPro Better than Sony Action Cam?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/auto-gpts-impact-on-everyday-productivity/"><u>Auto-GPT's Impact on Everyday Productivity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-the-latest-your-next-apple-phone-choice-post-iphone-13-and-15-pro-discontinuation-insights-from-zdnet/"><u>Beyond the Latest: Your Next Apple Phone Choice Post-iPhone 13 & 15 Pro Discontinuation - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-all-compatible-apple-watches-with-watchos-11-update-and-exclusions-explained-zdnet/"><u>Comprehensive Guide: All Compatible Apple Watches with WatchOS 11 Update & Exclusions Explained - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-the-role-and-value-of-snapchats-ai-with-6-reasons/"><u>Dissecting the Role and Value of Snapchat's AI with 6 Reasons</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-stream-to-screen-how-to-download-youtube-on-iphoneipad-for-2024/"><u>From Stream to Screen How to Download Youtube on iPhone/iPad for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-15-pro-max-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone 15 Pro Max without Password?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-kinemaster-edition-creating-polished-transitions-in-filmmaking/"><u>In 2024, Kinemaster Edition Creating Polished Transitions in Filmmaking</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-past-windows-update-roadblocks-effortlessly/"><u>Navigate Past Windows Update Roadblocks Effortlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-novelty-bard-vs-bing-for-optimal-chatting/"><u>Navigating Novelty: Bard Vs. Bing for Optimal Chatting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-technique-for-combining-vertical-data-segments-in-microsoft-excel/"><u>The Ultimate Technique for Combining Vertical Data Segments in Microsoft Excel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transitioning-to-the-newest-tech-critical-considerations-for-apples-latest-phone-upgrade-explored/"><u>Transitioning to the Newest Tech: Critical Considerations for Apple's Latest Phone Upgrade | Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-new-potentials-for-your-iphone-with-apples-inclusion-of-google-gemini-on-ios-a-game-changer-insights/"><u>Unlock New Potentials for Your iPhone with Apple's Inclusion of Google Gemini on iOS - A Game Changer Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-4-benefits-of-owning-the-steam-deck/"><u>Unveiling 4 Benefits of Owning the Steam Deck</u></a></li>
 </ul></div>
 

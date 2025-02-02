@@ -1,7 +1,7 @@
 ---
 title: Collective Legal Action by Artists Against AI Innovators
-date: 2024-08-29T19:40:54.448Z
-updated: 2024-08-30T19:40:54.448Z
+date: 2025-01-25T03:04:39.026Z
+updated: 2025-02-01T12:24:12.733Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 
  Because of how LLMs are trained, it was inevitable there would be a conflict between copyright law and artificial intelligence. Now the chickens are coming home to roost, as Sarah Silverman and other artists are suing OpenAI and Meta over copyright infringement.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Sarah Silverman and Other Artists Are Suing Open AI and Meta
 
 ![Person having a chat on ChatGPT](https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5163c7ab05139a28f15cb6cd.jpg)
@@ -31,9 +35,17 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 
  Coincidentally, a [separate class action lawsuit](https://storage.courtlistener.com/recap/gov.uscourts.cand.414822/gov.uscourts.cand.414822.1.0%5F1.pdf) \[PDF\] against OpenAI alleges the company used unauthorized private information to train ChatGPT. Google is also facing a similar lawsuit over allegedly using stolen data to train Google Bard. This is why you should [make it a habit to protect your personal information](https://www.makeuseof.com/online-safety-habits-data-privacy/), though publishing work and private personal data are not the same.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are the Chances Sarah Silverman Could Win the Lawsuit?
 
 ![Ai cloud with robot head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ai-cloud-with-robot-head.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-head%5F32471117.htm)
 
@@ -44,33 +56,21 @@ Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-h
  If it's proven that OpenAI and Meta used illegal torrent websites to acquire copyrighted materials to train its AI models, Silverman may have a shot of winning the lawsuit. However, AI models are uncharted territory with no precedent for courts to rely on to make a ruling based on AI copyright infringement. In fact, that's one of the reasons why [the EU proposed an AI Act.](https://www.makeuseof.com/what-is-the-eu-ai-act-how-would-it-affect-chatgpt/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Future of AI Models and Copyright Law?
 
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  We're still in the early days of AI to know how it will adapt to copyright law. It's even more complex trying to figure out [who owns the copyright to AI creation](https://www.makeuseof.com/who-owns-copyright-to-ai-creations/). But for human creators, regulations exist to protect them against someone else accessing their copyrighted material without compensation, consent, or credit. If the rules exist for humans, will they apply to AI models?
 
  The EU parliament drafted the closest glimpse into the future of how AI models will comply with copyright law. If the EU AI Act is assented into law, AI models like ChatGPT and Bard will be required to publish all their dataset sources and copyrighted data used for training. This will help clear up any confusion if the AI models accessed copyrighted books, movies, music, and photos for training through illegal piracy websites.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The AI Class Action Lawsuit Ruling Will Set a Legal Precedent
 
  Large language models can scrape all the corners of the internet for data used in training. But would they be liable for copyright infringement if they access illegal torrent websites to acquire the data? And if they do, can you prove it?
@@ -81,14 +81,11 @@ Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-h
 
  Because of how LLMs are trained, it was inevitable there would be a conflict between copyright law and artificial intelligence. Now the chickens are coming home to roost, as Sarah Silverman and other artists are suing OpenAI and Meta over copyright infringement.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -97,4 +94,24 @@ Image Credit: [freepik](https://www.freepik.com/free-photo/ai-cloud-with-robot-h
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-harnessing-imovies-potential-for-youtube-broadcasting/"><u>[New] In 2024, Harnessing iMovie's Potential for YouTube Broadcasting</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-mastering-the-art-of-freefire-a-gaming-youtubers-guide/"><u>[New] In 2024, Mastering the Art of FreeFire A Gaming Youtuber’s Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-seamless-transition-of-youtube-videos-into-instagram-stories/"><u>[New] Seamless Transition of YouTube Videos Into Instagram Stories</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-cutting-edge-techniques-to-boost-your-facebook-stories-reach-and-engagement/"><u>[Updated] In 2024, Cutting-Edge Techniques to Boost Your Facebook Stories' Reach and Engagement</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-apk-journey-to-gaming-bliss-funimate-pro-guide/"><u>2024 Approved APK Journey to Gaming Bliss Funimate Pro Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-the-trustworthiness-of-independent-gpt-tools/"><u>Assessing the Trustworthiness of Independent GPT Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dawn-of-new-sounds-leveraging-chatgpt-in-sound-production/"><u>Dawn of New Sounds: Leveraging ChatGPT in Sound Production</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-ai-mastery-with-no-cost-the-copilot-advantage-in-turbo/"><u>Effortless AI Mastery with No Cost: The Copilot Advantage in Turbo</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971145612-free-samsung-android-debug-bridge-adb-driver-software-get-it-now/"><u>Free Samsung Android Debug Bridge (ADB) Driver Software - Get It Now</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-infinix-zero-5g-2023-turbo-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Infinix Zero 5G 2023 Turbo Phone Screen?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interpreting-codegpt-could-it-be-the-next-programming-hero/"><u>Interpreting CodeGPT: Could It Be the Next Programming Hero?</u></a></li>
+<li><a href="https://win11.techidaily.com/master-plan-to-eliminate-microsoft-store-error-0x80072efd/"><u>Master Plan to Eliminate Microsoft Store Error 0X80072EFD</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/occupational-survival-how-to-thrive-post-ai-revolution/"><u>Occupational Survival: How to Thrive Post-AI Revolution?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/public-restrooms-transformed-by-innovative-tech-for-quick-health-screenings-the-latest-breakthrough/"><u>Public Restrooms Transformed by Innovative Tech for Quick Health Screenings - The Latest Breakthrough!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-bike-rides-using-adaptive-lenses-and-display-technology-insights-from-zdnets-test-run/"><u>Revolutionizing Bike Rides Using Adaptive Lenses & Display Technology, Insights From ZDNET's Test Run</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-for-privacy-preventing-gpt-from-logging-dialogs/"><u>Strategies for Privacy: Preventing GPT From Logging Dialogs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-cinematographers-blueprint-for-simple-water-vids-for-2024/"><u>The Cinematographer's Blueprint for Simple Water Vids for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Governance Matters: CEO of OpenAI Speaks Out"
-date: 2024-08-29T19:42:58.870Z
-updated: 2024-08-30T19:42:58.870Z
+date: 2025-01-30T22:40:53.198Z
+updated: 2025-02-01T11:22:45.173Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/8eee5494b28afc7aa3f86c9129d566065bf2c03da
 
 ![sam altman sitting on stage talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sam-altman-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838377432/in/)
 
  Sam Altman is the CEO of OpenAI, the company behind the [ChatGPT language processing tool](https://www.makeuseof.com/ways-ai-change-job-market/). ChatGPT has become a worldwide sensation, but despite its success, Altman is now pushing for further AI regulation.
@@ -41,6 +45,10 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
 
  So, it's evident that industry professionals and lawmakers are concerned about AI and its future impact. But what effect will further regulation have on the AI industry? Will it be a good or bad thing?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Will More Regulation Benefit the AI Industry?
 
  There are a couple of reasons why AI regulation could be an advantage, both for developers and consumers.
@@ -54,15 +62,17 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  Some also feel that it's far too soon to be talking about AI regulation, though the presence of AI in so many industries today would seem to contradict that view.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is AI Regulation Good News for OpenAI?
 
 ![openai logo on smartphone place on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-ai-phone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Sam Altman's call for more AI regulation has raised questions about whether such constraints will actually benefit OpenAI.
 
  It's hard to say whether further regulation will be a net positive for OpenAI. However, in the aforementioned Senate hearing, Altman suggested that AI companies like OpenAI should be independently audited and properly licensed, which suggests that he is happy to participate in this increased regulation.
@@ -72,22 +82,20 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  It isn't surprising that Altman has something of a bias here, as ChatGPT is the brainchild of the company he runs. But further regulation could lead to larger, pre-established AI companies having an advantage over smaller organizations, especially if licenses, permits, and long testing periods are made a legal requirement (as this could incur more costs and require more personnel).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AI Regulation Is a Point of Contention
 
  At the moment, there are many different opinions and ideas surrounding the regulation of AI. While some think this technology needs to be reigned in, others would prefer it stay as it is. In the near future, countries across the world may introduce new AI laws, and we'll have to wait and see whether this turns out to be a blessing or a curse.
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -96,4 +104,20 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-create-memes-for-free-with-the-meme-maker-tools-for-2024/"><u>[Updated] Create Memes for Free with the Meme Maker Tools for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-curate-engaging-content-with-top-igtv-editor-tools/"><u>[Updated] Curate Engaging Content with Top IGTV Editor Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-online-marketplaces-for-partnering-with-youtube-content-makers/"><u>[Updated] Online Marketplaces for Partnering With YouTube Content Makers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/affordable-pc-video-recording-tools-for-2024/"><u>Affordable PC Video Recording Tools for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-through-my-daily-grind-an-honest-review-from-an-all-day-user/"><u>Apple Vision Pro Through My Daily Grind – An Honest Review From an All-Day User</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-recruitment-unveiling-6-tactics/"><u>ChatGPT for Recruitment: Unveiling 6 Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-ai-in-higher-learning-exploration/"><u>Cutting-Edge AI in Higher Learning Exploration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gptzero-the-key-to-unmasking-ai-text-craftsmanship/"><u>GPTZero: The Key to Unmasking AI Text Craftsmanship</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-honor-play-7t-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Honor Play 7T Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-7-plus-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 7 Plus Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-machine-learning-for-workout-wonders/"><u>Maximizing Machine Learning for Workout Wonders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/real-time-insights-for-all-via-chatgpt/"><u>Real-Time Insights for All via ChatGPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wireless-watch-enabling-disneyplus-casting-feature-on-chromecast-devices/"><u>Wireless Watch: Enabling Disney+ Casting Feature on Chromecast Devices</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Sharing and Editing on Apple Pages Using iCloud: A Comprehensive Guide"
-date: 2025-01-18T00:31:41.549Z
-updated: 2025-01-24T16:04:15.031Z
+date: 2025-01-29T21:06:19.507Z
+updated: 2025-01-31T22:06:26.575Z
 tags:
   - apple
 categories:
@@ -27,22 +27,22 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -53,10 +53,6 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Enable Pages for iCloud Drive
 
 In the next window (**Figure 2**), click the check box for Pages and then click Done. Close System Preferences.
@@ -65,11 +61,11 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Enable the Collaboration feature
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
 
@@ -78,6 +74,10 @@ The first thing you must do is open the Pages document that will be shared with 
 **Figure 3**: Apple Pages open and the Collaborate button is ready to use.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Enable the Collaborate feature
 
@@ -106,7 +106,7 @@ Make sure to configure both the Who Can Access and Permission options. Here, you
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stop sharing
@@ -149,16 +149,18 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-pro-4k-capture-the-definitive-seven-cameras-for-2024/"><u>[New] Pro 4K Capture The Definitive Seven Cameras for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-smart-strategies-for-buying-economical-gopros-for-2024/"><u>[New] Smart Strategies for Buying Economical GoPros for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-easy-steps-for-screenshotting-instagrams-story-section/"><u>[Updated] Easy Steps for Screenshotting Instagram's Story Section</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-progressive-array-of-chat-initiators-for-attracting-podcast-audience-for-2024/"><u>[Updated] Progressive Array of Chat-Initiators for Attracting Podcast Audience for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-5-essential-strategies-to-avoid-a-dark-screen-during-obs-recordings/"><u>2024 Approved 5 Essential Strategies to Avoid a Dark Screen During OBS Recordings</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-best-applications-for-transforming-photo-content-into-video/"><u>2024 Approved Best Applications for Transforming Photo Content Into Video</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-powered-advice-establishing-daily-mantra-rituals/"><u>AI-Powered Advice: Establishing Daily Mantra Rituals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-verbal-advance-responding-to-commands-with-confidence/"><u>AI's Verbal Advance: Responding to Commands with Confidence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/open-source-high-quality-visual-effects-apps/"><u>Open Source, High Quality Visual Effects Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-unseen-archive-of-your-silent-chatgpt-talks/"><u>The Unseen Archive of Your Silent ChatGPT Talks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-ipad-pro-protectors-comprehensive-gear-guide-by-tech-experts-zdnet/"><u>Top-Rated iPad Pro Protectors - Comprehensive Gear Guide by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discovering-your-youtube-comments-on-various-devices/"><u>[New] In 2024, Discovering Your YouTube Comments on Various Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-strategic-dominance-unleashed-the-foremost-7-war-games/"><u>[New] In 2024, Strategic Dominance Unleashed The Foremost 7 War Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-visual-alchemy-compact-set-of-best-afx-samples-for-free/"><u>[New] Visual Alchemy Compact Set of Best AFX Samples for Free</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-a-compreayers-guide-to-monetizing-videos-critical-view-figures-for-2024/"><u>[Updated] A Compreayer's Guide to Monetizing Videos Critical View Figures for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-boldly-step-up-claim-your-set-of-50-exquisite-cost-free-youtube-promo-materials/"><u>[Updated] Boldly Step Up Claim Your Set of 50 Exquisite, Cost-Free YouTube Promo Materials</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-frosty-ambiance-cozy-cinematics-best-bgs-ideas/"><u>[Updated] Frosty Ambiance, Cozy Cinematics Best Bgs Ideas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-ai-communications-for-bodybuilders/"><u>Enhancing AI Communications for Bodybuilders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-latest-ios-18-enhancements-from-apples-wwdc-2023-how-ai-is-changing-the-game/"><u>Exploring the Latest iOS 18 Enhancements From Apple's WWDC 2023: How AI Is Changing the Game</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-galaxy-s8s-ultra-hd-experience-unveiled/"><u>In 2024, Galaxy S8's Ultra HD Experience Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/relying-on-ais-pros-and-cons-of-chatgptbard-in-money-matters/"><u>Relying on AIs: Pros & Cons of ChatGPT/Bard in Money Matters</u></a></li>
+<li><a href="https://video-capture.techidaily.com/speedy-snapshot-and-voice-guided-session-creator/"><u>Speedy Snapshot & Voice-Guided Session Creator</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-best-buy-bargains-in-june-2024-insider-tips-from-zdnet/"><u>Top-Rated Best Buy Bargains in June 2024 - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/unlocking-hidden-insights-with-process-intelligence-on-complex-workflows/"><u>Unlocking Hidden Insights with Process Intelligence on Complex Workflows</u></a></li>
 </ul></div>
 

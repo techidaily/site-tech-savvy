@@ -1,7 +1,7 @@
 ---
 title: Detecting Phony ChatGPT Services and Acting Promptly
-date: 2024-08-29T19:40:18.194Z
-updated: 2024-08-30T19:40:18.194Z
+date: 2025-01-27T00:58:53.279Z
+updated: 2025-01-31T18:17:11.651Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
  The following signs can help you spot a ChatGPT phishing website.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Domain Name
 
 ![image showing a browser address bar having www written in it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/14258330557_9ef7718fc5_c.jpg)
@@ -46,9 +50,6 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
 
  All are seemingly linked to ChatGPT; all are completely fake.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Website Design and Layout
 
 ![ChatGPT's homepage displayed on a laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-s-homepage-displayed-on-a-laptop-screen.jpg)
@@ -59,26 +60,16 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
 
  If a website contains the word "ChatGPT," but its design or layout is completely different from the official site, it could be a genuine service website. However, before you trust it, you should check out the website thoroughly to see what it offers.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What the Website Is Trying to Sell You
 
  As of this writing, anyone can access ChatGPT-3.5 for free. If a website demands you pay a few cents or a dollar to access ChatGPT-3.5, it's a scam. Similarly, you can only purchase ChatGPT Plus (and ChatGPT-4) subscriptions from the official website. If scammers offer a cheaper price as a [reason to subscribe to ChatGPT Plus](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/), it's probably trying to trap you in a scam.
 
  In contrast, if a website sells ChatGPT-related products, such as AI writing detection tools, premium ChatGPT prompts, courses, etc., you should check its reliability thoroughly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ### Other Ways to Assess the Credibility of a Website
 
 ![A Hook Stealing Login Credentials From a Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/phishing.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  The following signs can help you assess the credibility and trustworthiness of a suspicious website selling ChatGPT-related products:
 
 * Check the website's age. If a website is just a few weeks old, your best bet should be to stay away.
@@ -88,26 +79,32 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * If there is no padlock symbol beside the website URL and you see "Non-secure" written there, the website doesn't have the [SSL-protection](https://www.makeuseof.com/tag/ssl-certificate-need-one/), which is a phishing sign.  
 ![official chatgpt website with https lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/official-chatgpt-website-with-https-lock.jpg)
 * Search using the website's URL on Google or any other search engine. If there are bad reviews or negative comments about the website on public forums, that's another sign it could be malicious.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * If there are no details about the company that owns the website or the site lacks important pages (like a privacy policy or contact page), it might be a scam.
 * If the website doesn't have any reviews or online presence, that suggests it's pretty new, so it's best to steer clear of it.
 
  We know criminals will try everything to trick unsuspecting users into their scams. But knowing most of the signs of a ChatGPT phishing site gives you a big advantage and boosts your security.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Should You Do if You Spot a ChatGPT Phishing Website?
 
  If you see any signs mentioned above or the website appears suspicious at first glance, report it immediately (for example, to CISA in the USA and the NCSC in the UK—both national computer crime agencies for their respective countries). Do not use your personal information, not even to log in, and do not use credit cards or other financial information. Also, avoid downloading attachments or clicking website links.
 
  Besides that, post about the website with its URL in a public forum (somewhere like Reddit or X) and explain why you believe it is suspicious. It will prevent other users from falling victim to it and maybe encourage a security researcher to investigate it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Already Fallen Victim to a ChatGPT Phishing Website? Here's What to Do Next
 
 ![handcuffed hands typing on a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/handcuffed-hands-typing-on-a-keyboard.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have already fallen victim to a ChatGPT phishing website, you can take a few steps to undo some of the damage.
 
@@ -122,20 +119,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If you have clicked on a link or a popup on the website, [check your browser for signs of hijacking](https://www.makeuseof.com/what-is-browser-hijacking/). If it appears that your browser has been hijacked, uninstall it completely and then install it again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Don't Fall Prey to ChatGPT Phishing Websites
 
  Phishing websites are also on the rise with the growth of ChatGPT. Hopefully, you now better understand how to identify a ChatGPT phishing website and the actions you should take when you spot one. If you have already fallen victim to a phishing website, take the required actions to protect your privacy and finances.
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,4 +142,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-from-novice-to-pro-your-complete-screencast-journey-for-2024/"><u>[New] From Novice to Pro Your Complete Screencast Journey for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-yogi-essentials-top-ten-web-channels-for-exercise/"><u>[New] In 2024, Yogi Essentials Top Ten Web Channels for Exercise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/99-pre-order-deal-on-the-newest-apple-watch-series-by-best-buy-exclusive-tips-inside/"><u>$99 Pre-Order Deal on the Newest Apple Watch Series by Best Buy – Exclusive Tips Inside</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accessible-chatgpt-dialogue-for-android-users/"><u>Accessible ChatGPT Dialogue for Android Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-i-expect-different-sized-replies-from-chatgpt/"><u>Can I Expect Different Sized Replies From ChatGPT?</u></a></li>
+<li><a href="https://win-able.techidaily.com/demystifying-assassins-creed-valhallas-delayed-release-announcement/"><u>Demystifying Assassin's Creed Valhalla's Delayed Release Announcement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/do-apples-airpods-pro-hold-up-since-their-launch-in-202-cuffs-assessing-worthiness-and-value/"><u>Do Apple's AirPods Pro Hold Up Since Their Launch in 202 Cuffs? Assessing Worthiness and Value</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-7-plus-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 7 Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embarking-on-the-road-with-vision-pros-travel-feature-heres-your-comprehensive-guide-before-departure/"><u>Embarking on the Road with Vision Pro's Travel Feature? Here's Your Comprehensive Guide Before Departure</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-15-plus-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 15 Plus Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mobile-market-update-samsung-surpasses-apples-shipment-figures-amidst-new-contender-emerges/"><u>Mobile Market Update: Samsung Surpasses Apple's Shipment Figures Amidst New Contender Emerges</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/620364-9780307783707-reliance-on-the-light/"><u>Reliance on the Light | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revamp-your-pcs-identity-a-step-by-step-guide-to-renaming-admin-account-on-windows-11/"><u>Revamp Your PC's Identity: A Step-by-Step Guide to Renaming Admin Account on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-setup-adding-an-extra-thunderbolt-display-to-your-m1-mac-mini-a-simple-guide/"><u>Seamless Setup: Adding an Extra Thunderbolt Display to Your M1 Mac Mini - A Simple Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-quick-guide-to-instagram-video-speed-up-mobiledesktop-for-2024/"><u>The Quick Guide to Instagram Video Speed-Up (Mobile/Desktop) for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/k-the-full-potential-of-your-video-with-studio-editor-for-2024/"><u>Unlock the Full Potential of Your Video with Studio Editor for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/utilize-cookiebot-technology-for-advanced-user-analytics/"><u>Utilize Cookiebot Technology for Advanced User Analytics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-didnt-your-imessages-get-sent-yesterday-uncovering-the-reason-with-help-from-zdnet/"><u>Why Didn't Your iMessages Get Sent Yesterday? Uncovering the Reason with Help From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-skip-the-auto-messaging-solution-heres-why/"><u>Why Skip the Auto-Messaging Solution? Here's Why</u></a></li>
+</ul></div>
 

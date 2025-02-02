@@ -1,7 +1,7 @@
 ---
 title: Discover 10 Entertaining Linux Terminal Commands for Endless Hours of Fun
-date: 2024-08-29T19:37:23.546Z
-updated: 2024-08-30T19:37:23.546Z
+date: 2025-01-27T00:26:59.001Z
+updated: 2025-01-31T16:06:01.802Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Discover 10 Entertaining Linux Terminal Commands for Endless Hours of Fun
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -76,11 +80,19 @@ sl | lolcat
 
 ![A rainbow themed train running on your Linux terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/sl-command-with-lolcat.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  So the next time you misspell the [ls command](https://extra-tips.techidaily.com/in-2024-capturecraft-hd-top-10-freepaid-filters-list/), you'll be greeted with a nice train instead of an error message.
 
 ##  2\. CMatrix: Enter the Matrix
 
 ![The cmatrix command making green characters raining on your Linux terminal like The Matrix movie](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/cmatrix-command.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Ever wanted to feel like you're in a scene from "The Matrix" movie? This [Linux command](https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/) turns your terminal into a cascading stream of green characters, much like the Matrix's digital rain.
 
@@ -122,16 +134,10 @@ cmatrix
 
  If you want to show off your inner hacking skills to your friends, run this command to surprise them with the slick Matrix effect.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  3\. aafire: ASCII Art Fireworks
 
 ![ASCII firework animation running on your terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/aafire-command.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The aafire command sets your terminal on fire. Okay, not literally. It launches a dazzling display of ASCII art fireworks across your terminal. It's a great way to create a virtual bonfire.
 
  To install aafire's virtual fire on Debian, Ubuntu, and their derivatives, use:
@@ -156,14 +162,14 @@ aafire
 
  The only sad part is you can't feel the real heat or hear the sound.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. oneko: A Playful Desktop Pet
 
 ![Oneko cat running through the Linux terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/oneko-command.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Here's one for cat lovers. This adorable pixel art cat will roam your desktop, play with toys, and even curl up for a quick nap.
 
  To get oneko's cute feline friend on Debian, Ubuntu, and their derivatives, use:
@@ -196,8 +202,9 @@ oneko
  A virtual cat won't occupy space in your apartment or shed hair on your couch. Sounds purrfect.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  5\. xeyes: Watch the Eyeballs
 
 ![Eyeballs following your mouse cursor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/xeyes-command.png) 
@@ -274,9 +281,6 @@ espeak "Hello World"
 
  Giving a voice to your Linux terminal is like having a personal narrator on your desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  7\. yes: The Ultimate Affirmation
 
 ![The Linux terminal generating an infinite amount of yes yes yes text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/yes-command.png) 
@@ -338,6 +342,10 @@ rig
 
 ![Fishes swimming under the sea in your Linux terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/asciiquarium-command.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Take a deep dive into the mesmerizing depths of your terminal with asciiquarium. This command turns your terminal into a vibrant underwater world teeming with life.
 
  Get this chilling underwater experience on Ubuntu and its derivatives with:
@@ -364,16 +372,10 @@ asciiquarium
 
  It's an aquatic way to add a touch of tranquility to your Linux world.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ##  10\. toilet: Text Art Banners
 
 ![Displaying ASCII text banners on the Linux terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/toilet-command.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  The toilet command transforms your text into eye-catching ASCII art banners. Choose from a variety of fonts and styles to create personalized messages.
 
  To create these cool banners on Debian, Ubuntu, and their derivatives, install toilet with:
@@ -407,11 +409,13 @@ toilet "Hello World" | lolcat
 ![Displaying colorful ASCII text banner Hello World in the Linux terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/toilet-command-with-lolcat.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Toying With the Linux Terminal
 
  We hope you found this list of fun Linux commands funny and helpful. While most of these commands may not be useful in your regular usage, they can bring a smile to your face in your most intense terminal sessions.
@@ -422,8 +426,6 @@ toilet "Hello World" | lolcat
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -431,4 +433,17 @@ toilet "Hello World" | lolcat
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-entertainment-a-thousand-gaming-channels/"><u>[New] In 2024, Elevate Entertainment A Thousand Gaming Channels</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-revolutionizing-reach-the-next-wave-of-fb-ad-techniques-2024/"><u>[New] Revolutionizing Reach The Next Wave of FB Ad Techniques, 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/become-officially-recognized-how-to-secure-verification-on-the-platform-once-called-twitter/"><u>Become Officially Recognized: How To Secure Verification On The Platform Once Called Twitter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dethroning-chatgpt-next-big-wave-of-bots/"><u>Dethroning ChatGPT: Next Big Wave of Bots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-fitness-routines-7-smart-gpt-tools/"><u>Enhancing Fitness Routines: 7 Smart GPT Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/examining-ai-generated-content-risks/"><u>Examining AI-Generated Content Risks</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-look-why-the-google-pixelbook-go-stands-out-in-the-premium-chromebook-market/"><u>In-Depth Look: Why the Google Pixelbook Go Stands Out in the Premium Chromebook Market</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-users-rejoice-get-your-hands-on-the-newly-launched-ios-18-with-device-support-details-gadgetpulse/"><u>IPhone Users Rejoice! Get Your Hands on the Newly Launched iOS 18 with Device Support Details | GadgetPulse</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nikons-affordable-dream-photo-quality-vs-ui-hurdles/"><u>Nikon's Affordable Dream - Photo Quality vs UI Hurdles</u></a></li>
+</ul></div>
 

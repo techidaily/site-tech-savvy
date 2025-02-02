@@ -1,7 +1,7 @@
 ---
 title: "Collaborative Artistry: DALL-E and GPT-4 for Image Synthesis"
-date: 2024-08-29T19:41:18.161Z
-updated: 2024-08-30T19:41:18.161Z
+date: 2025-01-29T05:33:17.330Z
+updated: 2025-01-31T17:52:46.934Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
  While prompting may be easy enough, we’ll show you how to know what GPTs in ChatGPT support DALL-E’s image generation. We’ll also tell you how to prompt ChatGPT to generate images when and how you want.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Sign Up for ChatGPT Plus to Access DALL-E
 
  DALL-E’s image generation features on ChatGPT are locked behind OpenAI’s ChatGPT Plus (and Team) subscription. It’s just one of the many [reasons you should consider upgrading to ChatGPT Plus](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/). GPT-3.5 doesn’t have embedded image generation abilities, and you’ll be unable to access GPTs with DALL-E’s capabilities.
@@ -45,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 2. Click the **Upgrade plan** button in the bottom-left corner of the side panel, just above your name.  
 ![ChatGPT upgrade plan window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-02-26-am.png)
 3. Choose **Upgrade to Plus** (or **Upgrade to Team**).
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 4. Fill in your payment information and click **Subscribe**.
 
  After doing this, you should now have access to DALL-E. It’s still a good idea to refresh your browser or log out and in again to make sure everything is in working order.
@@ -55,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
  Unlike DALL-E 2, DALL-E 3 doesn’t have a standalone website for you to access, you can only access it officially through a ChatGPT subscription. And it’s better to pay for a versatile ChatGPT with superior image generation than to buy credits on DALL-E 2\. We’d recommend you save DALL-E 2 for when you need an AI image at no cost or if you ever need to [use DALL-E 2’s outpainting tool](https://www.makeuseof.com/dall-e-2-outpainting-how-to-use/).
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use DALL-E in a ChatGPT Chat
 
  Now that you have a ChatGPT subscription, you can now access GPT-4\. Follow these instructions to get started:
@@ -70,33 +72,33 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 ![ChatGPT generating an image in a different style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-08-39-am.png)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can download the image by clicking it and hitting the download button in the window's top-right corner.
 
  If you don’t want to use ChatGPT 4, you can use a dedicated DALL-E chat. Click **Explore** or **Explore GPTs** on the left-side menu. Look for **DALL-E** in the **By ChatGPT** section and click it. You can now follow the same instructions outlined above, or you can follow [this link](https://chat.openai.com/g/g-2fkFE8rbu-dall-e) to open a DALL-E chat.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use DALL-E in the ChatGPT App
 
  For those who don’t know, ChatGPT has an app available on Android and iOS. Once downloaded and logged in, ChatGPT subscribers can access DALL-E just like they can on the web.
 
 ![ChatGPT menu in the mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0104.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Choosing what GPT mode to use in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0105.PNG)
 
 ![ChatGPT generating an image in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0106.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![ChatGPT reworking an image in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0107.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  Here’s how to access DALL-E in the app:
@@ -121,8 +123,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +130,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-superior-websites-to-ditch-twitter-completely/"><u>[Updated] In 2024, Superior Websites to Ditch Twitter Completely</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-entry-editor-for-seamless-edits-across-all-platforms/"><u>[Updated] Top Entry Editor for Seamless Edits Across All Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-beginners-guide-to-editing-digits-in-tiktoks/"><u>2024 Approved A Beginner’s Guide to Editing Digits in TikToks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-enriching-room-atmosphere-with-natures-radiant-energy/"><u>2024 Approved Enriching Room Atmosphere with Nature's Radiant Energy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-eyes-future-with-new-buy-clues-point-toward-an-ai-integration-in-next-gen-iphones-techinsights/"><u>Apple Eyes Future with New Buy: Clues Point Toward an AI Integration in Next-Gen iPhones | TechInsights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/clearshot-video-amplifier-cross-device-compatible-for-2024/"><u>ClearShot Video Amplifier - Cross-Device Compatible for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-choices-for-action-camera-gear-in-202-groovy-year-expert-insights-from-zdnet/"><u>Discover the Ultimate Choices for Action Camera Gear in 202 Groovy Year – Expert Insights From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-choice-unveiling-the-ultimate-2024-mp3-player-selection/"><u>Expert Choice: Unveiling the Ultimate 2024 MP3 Player Selection</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-lava-blaze-2-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Lava Blaze 2?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-your-apple-vision-pro-purchase-expert-secrets-and-perfect-face-scan-techniques/"><u>Mastering Your Apple Vision Pro Purchase - Expert Secrets & Perfect Face Scan Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-quora-for-access-to-llm-and-chatbots/"><u>Navigating Quora for Access to LLM & Chatbots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-final-verdict-on-language-bots-for-your-workflow-7-deciding-factors/"><u>The Final Verdict on Language Bots for Your Workflow? 7 Deciding Factors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/user-frustration-mounts-as-ios-18-update-leaves-others-behind-a-shared-ordeal/"><u>User Frustration Mounts as iOS 18 Update Leaves Others Behind - A Shared Ordeal</u></a></li>
+</ul></div>
 

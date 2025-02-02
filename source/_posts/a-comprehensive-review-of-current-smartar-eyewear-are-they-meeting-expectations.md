@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensive Review of Current Smart/AR Eyewear: Are They Meeting Expectations?"
-date: 2024-08-29T19:38:33.278Z
-updated: 2024-08-30T19:38:33.278Z
+date: 2025-01-29T08:00:42.199Z
+updated: 2025-01-31T18:40:59.572Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/dab8cabffeddc700c42a5606e02b205ea6f1fa907
 
  We're just now entering the age of consumer virtual reality, but companies are already looking beyond enclosed headsets to tout an augmented reality future. We'll get there, but I promise you, there's no AR revolution happening yet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Can You Buy True AR Glasses in 2024?
 
 ![Person wearing an Apple Vision Pro sitting on a chair](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/person-wearing-an-apple-vision-pro-sitting-on-a-chair.JPG) 
@@ -33,9 +37,6 @@ Tyler Hayes / How-To Geek
 
  Of course, with the Vision Pro, I’m not actually through a piece of glass to see my room and that digital window. I’m viewing everything through cameras. The same thing is true for the Meta Quest 3 headset. Each of those devices is a laptop-class computer, of some degree, that is processing video feeds to augment reality.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ##  What Kind of Smart Glasses Can You Buy Now?
 
  The Vision Pro is a good example of where the cutting edge is today. It's a $3,500 headset that uses 12 cameras and lots of sensors to make it feel like you're looking right through a screen, into your room. Apple is taking a top-down approach to hopefully bring the cost of that technology down so it can eventually fit inside a normal-sized pair of glasses. Until then, we're left with different products tackling different pieces of the full AR sum.
@@ -44,9 +45,6 @@ Tyler Hayes / How-To Geek
 
 ![Display visible through the XReal Air 2 Glasses](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/display-visible-throught-the-xreal-air-2-glassesjpg_53347569115_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  One of the first pairs of glasses I tried that were packed with advanced technology was [TCL’s Nxtwear G](https://www.newsweek.com/future-tech-hands-unreleased-tcl-nxtwear-g-video-glasses-1609682). The video, or projection, glasses embed tiny screens inside and then use mirrors to angle what’s being shown to appear as if it's right in front of your eyes.
@@ -63,12 +61,13 @@ Sergio Rodriguez / How-To Geek
 
  Xreal does advertise AR capabilities, but that mostly means that it can put a computer window in your room, in front of you. The Xreal Air 2 performed fine for a product pushing the limits of screen technology and still coming in under $500\. These types of projection glasses are good for playing handheld consoles on a bigger screen or using a laptop with more privacy in public.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Audio Glasses to Replace AirPods
 
 ![Lucyd Lyte audio glasses sitting inside their case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/53116395599_1e47488a7f_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Joe Robinson / How-To Geek
 
@@ -81,16 +80,17 @@ Joe Robinson / How-To Geek
  As it stands, an assistant on your face is mildly interesting, in the same way that Siri built-in to AirPods can be helpful. Even [startups are trying to get into the space](https://buynow-reviews.techidaily.com/maximize-your-gaming-performance-with-the-havit-5-laptop-fan-cooler-reviewed-here/) by integrating ChatGPT into your ear. The smaller companies face an uphill battle, however, trying to integrate into the iPhone’s walled garden.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Camera Glasses with Integrated AI Assistants
 
 ![Ray-Ban Meta Smart Glasses sitting on grass](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/ray-ban-meta-smart-glasses-sitting-on-grass.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  Where things get interesting with assistants inside glasses is with the expanded capabilities that large language models ([LLMs](https://extra-support.techidaily.com/2024-approved-picture-perfect-presentation-software-for-impeccable-photo-framing/)) provide. More information is accessible with advanced chatbots like OpenAI’s ChatGPT or Microsoft’s Copilot. This AI functionality is actually the secret to the well-received [Meta Ray-Ban Smart Glasses](https://fox-that.techidaily.com/safari-on-iphone-running-slow-learn-how-to-make-it-zoom-ahead-in-just-4-steps/).
@@ -110,8 +110,9 @@ Tyler Hayes / How-To Geek
  If true visual AR glasses aren’t technically possible at the moment, then products like the Meta Ray-Ban Smart Glasses might be able to brute force their way into the space by feeding visual information around you directly into your ears. Look at a face and tell me who it is. Preemptively whisper information into my ear based on what the camera sees that I might have missed or not even known I needed information about.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  When Will We Get True AR Glasses?
 
 ![A physical keyboard with a virtual text window above it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/img_0032.png) 
@@ -134,8 +135,6 @@ My real, physical, Magic Keyboard on a table with a virtual typing window above 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +142,22 @@ My real, physical, Magic Keyboard on a table with a virtual typing window above 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-unlocking-the-potential-of-multi-stream-video-on-microsoft-edge/"><u>[New] 2024 Approved Unlocking the Potential of Multi-Stream Video on Microsoft Edge</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-beat-makers-paradise-downloading-premium-dj-visuals-for-2024/"><u>[New] Beat Makers' Paradise Downloading Premium DJ Visuals for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-clearframew11-easy-instant-screen-recording-for-windows-for-2024/"><u>[New] ClearFrameW11 Easy, Instant Screen Recording for Windows for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-syncing-twitter-vids-with-instagrams-social-sharing/"><u>[Updated] 2024 Approved Syncing Twitter Vids with Instagram's Social Sharing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-learn-quickly-how-to-film-anywhere-with-one-tech-setup/"><u>[Updated] In 2024, Learn Quickly How to Film Anywhere with One Tech Setup</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-efficiently-capturing-professional-movies-on-your-windows-pc/"><u>2024 Approved Efficiently Capturing Professional Movies on Your Windows PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dive-into-openais-core-principles-and-insights/"><u>Dive Into OpenAI's Core Principles and Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/investigating-the-origins-the-in-depth-story-behind-crowdstrike-and-the-infamous-windows-meltdn-of-24-insights-from-zdnet/"><u>Investigating the Origins: The In-Depth Story Behind CrowdStrike and the Infamous Windows Meltdn of '24 | Insights From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nlp-titans-clash-unraveling-the-complexities-of-gpt-and-bert/"><u>NLP Titans Clash: Unraveling the Complexities of GPT & BERT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rising-threats-in-generative-ai-future-security-risks/"><u>Rising Threats in Generative AI: Future Security Risks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-cyberpunk-2077-sound-issues-a-comprehensive-audio-fix-manual/"><u>Solve Your Cyberpunk 2077 Sound Issues: A Comprehensive Audio Fix Manual</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surprising-apple-announcement-leads-to-steep-revelations-uncovering-the-climb-zdnet/"><u>Surprising Apple Announcement Leads to Steep Revelations: Uncovering the Climb | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-savings-alert-best-deals-of-the-year-await-this-octobers-cyber-monday-extravaganza-secure-your-discounted-treasures-now/"><u>Unbeatable Savings Alert: Best Deals of the Year Await This October's Cyber Monday Extravaganza - Secure Your Discounted Treasures Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-chatgpt-generative-ais-role-explored/"><u>Unveiling ChatGPT: Generative AI's Role Explored</u></a></li>
+</ul></div>
 

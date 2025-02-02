@@ -1,7 +1,7 @@
 ---
 title: OpenAI at a Crossroads with AI
-date: 2024-08-29T19:42:26.843Z
-updated: 2024-08-30T19:42:26.843Z
+date: 2025-01-28T11:16:02.765Z
+updated: 2025-02-01T07:32:20.313Z
 tags:
   - chatgpt
   - open-ai
@@ -25,9 +25,17 @@ thumbnail: https://thmb.techidaily.com/8dc75739a23faa00dc51d8707591eb801ba8ab3b3
 
  So, with all these concerns, is OpenAI losing control of one of the most potent AI chatbots currently online? Let's find out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Understanding How ChatGPT Works
 
 ![a robot with a brain representing artificial intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/artificial-intelligence.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Before we can get a clear picture of how much OpenAI is losing control of ChatGPT, we must first understand [how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) .
 
@@ -55,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/8dc75739a23faa00dc51d8707591eb801ba8ab3b3
 
 ![How to cheat in an exams by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-cheat-in-an-exams.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  But if you jailbreak ChatGPT using specially-crafted prompts, it will give you tips on cheating on an exam using concealed notes.
 
 ![How to smuggle a hidden notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-smuggle-a-hidden-notes.jpg)
@@ -62,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/8dc75739a23faa00dc51d8707591eb801ba8ab3b3
  Here's another example: we asked the vanilla ChatGPT an unethical question, and OpenAI's safeguards stopped it from answering.
 
 ![hide a dead body by chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-a-dead-body-by-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  But when we asked our jailbroken instance of the AI chatbot, we got some serial-killer-styled responses.
 
@@ -75,26 +91,20 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
  We did not include our jailbroken prompts in our examples to avoid unethical practices.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Does the Future Hold for ChatGPT?
 
 ![Robot Machine Technology](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/robot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Ideally, OpenAI wants to plug as many ethical loopholes as possible to prevent [ChatGPT from becoming a cybersecurity threat](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) . However, for every safeguard it employs, ChatGPT tends to become a bit less valuable. It's a dilemma.
 
  For instance, safeguards against describing violent actions might diminish ChatGPT's ability to write a novel involving a crime scene. As OpenAI ramps up safety measures, it inevitably sacrifices chunks of its abilities in the process. This is why ChatGPT has suffered a significant decline in functionality since OpenAI's renewed push for stricter moderation.
 
  But how much more of ChatGPT's abilities will OpenAI be willing to sacrifice to make the chatbot safer? This all ties neatly into a long-held belief within the AI community—large language models like ChatGPT are notoriously hard to control, even by their own creators.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Can OpenAI Put ChatGPT Under Control?
 
  For now, OpenAI doesn't seem to have a clear-cut solution to avoid the unethical use of its tool. Ensuring that ChatGPT is used ethically is a game of cat and mouse. While OpenAI uncovers ways people are employing to game the system, its users are also constantly tinkering and probing the system to discover creative new ways to make ChatGPT do what it isn't supposed to do.
@@ -107,8 +117,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +124,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-essential-insights-for-youtube-content-protection/"><u>[New] 2024 Approved Essential Insights for YouTube Content Protection</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-blueprint-for-capturing-compelling-powerpoint-presentations/"><u>[New] 2024 Approved The Blueprint for Capturing Compelling PowerPoint Presentations</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-premier-choice-the-best-10-recorders-for-tech-talks/"><u>[New] In 2024, Premier Choice The Best 10 Recorders for Tech Talks</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-milestone-mondly-and-pearson-merge-for-better-filters/"><u>A Milestone: Mondly and Pearson Merge for Better Filters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-data-exploration-and-interpretation/"><u>ChatGPT's Role in Data Exploration and Interpretation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creativecanvas-blend-online-design-spectacle/"><u>CreativeCanvas Blend Online Design Spectacle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-upgraded-evolution-of-apples-airpod-lineup-the-4-most-notable-features-revealed-zdnet/"><u>Explore the Upgraded Evolution of Apple's AirPod Lineup - The 4 Most Notable Features Revealed | ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-stop-hyper-v-service-in-windows-11/"><u>Guide: Stop Hyper-V Service in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apple-envisions-the-role-of-ai-and-robots-in-shaping-our-living-spaces-an-insight-into-tomorrows-home-assistants/"><u>How Apple Envisions the Role of AI and Robots in Shaping Our Living Spaces - An Insight Into Tomorrow's Home Assistants</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-swiftly-update-your-intel-iris-plus-graphics-640-software/"><u>How to Swiftly Update Your Intel Iris Plus Graphics 640 Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-composing-the-unseen-score-trailer-music-magic/"><u>In 2024, Composing the Unseen Score Trailer Music Magic</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-culinary-cinema-mastery-the-7-pathways-to-delectable-vids/"><u>In 2024, Culinary Cinema Mastery - The 7 Pathways to Delectable Vids</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/individualism-at-the-forefront-gpts-unique-command-features/"><u>Individualism at the Forefront: GPT's Unique Command Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/liveweb-cam-tech-by-manycam-advanced-video-software-solutions/"><u>LiveWeb Cam Tech by ManyCam: Advanced Video Software Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-apple-pay-usage-a-guide-for-in-store-and-e-commerce-transactions-expert-tips-from-zdnet/"><u>Mastering Apple Pay Usage: A Guide for In-Store and E-Commerce Transactions - Expert Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/professional-insights-in-depth-analysis-of-microsoft-surface-pro-8-for-enterprise-use/"><u>Professional Insights: In-Depth Analysis of Microsoft Surface Pro 8 for Enterprise Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/public-bathrooms-meet-modern-medicine-a-step-towards-innovative-health-screenings-at-zdnet/"><u>Public Bathrooms Meet Modern Medicine: A Step Towards Innovative Health Screenings at ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-sleuths-guide-to-authentic-chatai-in-apple-store/"><u>The Sleuth's Guide to Authentic ChatAI in Apple Store</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/thousands-receive-apples-newly-launched-ai-education-program-opportunities-for-current-and-former-students-tech-news/"><u>Thousands Receive Apple's Newly Launched AI Education Program: Opportunities for Current & Former Students | Tech News</u></a></li>
+</ul></div>
 

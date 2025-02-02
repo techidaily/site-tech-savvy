@@ -1,7 +1,7 @@
 ---
 title: "Generative AI Decoded: Principles Simplified"
-date: 2025-01-08T01:13:39.152Z
-updated: 2025-01-13T00:36:30.411Z
+date: 2025-01-27T23:05:13.344Z
+updated: 2025-02-01T05:25:39.233Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,10 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 
  One of the most fascinating aspects of using a [generative AI tool like ChatGPT or Google's Bard AI](https://www.makeuseof.com/chatgpt-vs-google-bard/) is the ability of these tools to generate content that matches your request. You ask ChatGPT to write a poem in the style of William Shakespeare, and you get something strikingly similar to Shakespeare's work. You ask it to create a speech in the style of Donald Trump, and you'd get something that impressively mimics the tone of the former US president. So, how is this possible? How is generative AI able to pull off such a fascinating feat?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Generative AI Works
 
  The working mechanism of a generative AI model involves a complex interplay of various deep-learning techniques and algorithms. The exact details of how a generative model works depend on its goals and the underlying architecture. For instance, a generative model for generating audio snippets will have a different working mechanism from one meant for generating videos or text.
@@ -51,40 +55,36 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
  There are hundreds of generative AI models currently in development or already being deployed in the consumer AI market. Some of the popular ones you should know of include:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Generative Pre-Trained Transformer (GPT)
 
 ![chatgpt 4 answer question on number of data points june 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-4-answer-question-on-number-of-data-points-june-2023.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  GPT, developed by OpenAI, is among the most recognizable names in the generative AI space. Its popularity hinges on its effectiveness as a conversational AI model and the viral success of the ChatGPT chatbot, which uses GPT as its underlying technology. It is a large language model designed to generate human-like text when prompted. Typical of any generative AI model, [all iterations of the GPT model](https://www.makeuseof.com/gpt-models-explained-and-compared/) have been trained on a massive amount of diverse text data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Pathways Language Model (PaLM)
 
  PaLM, an experimental large language model by Google, is a powerful generative AI model capable of performing a large range of tasks like creative writing, code generation, language translation, and a number of other text-based natural language tasks. Like GPT, PaLM was trained on a large corpus of text data sourced from a wide array of sources across the web. It is [the AI model that powers Google's Bard AI](https://www.makeuseof.com/what-is-google-palm-2/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Music Language Model (MusicLM)
 
  MusicLM is another generative AI model from Google. It is designed to generate "high-fidelity" music from simple text prompts. Trained on thousands of hours of music across various genres, the generative model can create unique music by using simple descriptions of the music you need as inputs. If you're wondering how good it is, here's [our review of the MusicLM model](https://www.makeuseof.com/google-musiclm-overview-how-to-use/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. DALL-E
 
 [DALL-E is OpenAI's AI image generation model](http://www.makeuseof.com/what-is-dall-e-ai-image-generator/) designed to create multiple styles of unique imagery from text prompts. It is a multimodal implementation of the GPT model, trained on numerous text-image pairs from various sources across the internet.
 
  Beyond generative AI models, you'll also find generative AI products like Midjourney, DALL-E image generator, Stable Diffusion image generator, Hugging Chat, and several other impressive AI products powered by generative AI models.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Has Generative AI Exploded In Popularity?
 
@@ -97,7 +97,7 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
  Generative AI tools such as Bing AI, Google's Bard, DALL-E, ChatGPT, and Midjourney have seamlessly woven themselves into the fabric of our daily lives, constantly presenting us with their remarkable creations. Whether it's the captivating write-ups crafted by ChatGPT or the astonishingly lifelike images conjured by Midjourney, generative AI has become an ever-present companion, accompanying us day in and day out. This is the genesis of the recent popularity of generative AI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Embrace Generative AI
@@ -121,18 +121,19 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/comprendre-lintelligence-de-processus-comment-la-donnees-favorisent-lamelioration-des-performances/"><u>Comprendre L'Intelligence De Processus : Comment La Données Favorisent L'Amélioration Des Performances</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprendre-les-process-mining-et-le-task-mining-pour-une-meilleure-analyse-des-procedes-metier-un-qanda-dabbyy-avec-nelsonhall/"><u>Comprendre Les Process Mining Et Le Task Mining Pour Une Meilleure Analyse Des Procédés Métier : Un Q&A D'ABBYY Avec NelsonHall</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/continued-two-figure-expansion-abbyys-successful-annual-performance-over-three-years/"><u>Continued Two-Figure Expansion: ABBYY's Successful Annual Performance Over Three Years</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-driven-automation-enhancing-your-websites-engagement/"><u>Cookiebot-Driven Automation: Enhancing Your Website's Engagement</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-driven-personalization-enhance-user-experience-with-smart-marketing/"><u>Cookiebot-Driven Personalization: Enhance User Experience with Smart Marketing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-enhance-your-sites-user-experience/"><u>Cookiebot-Enabled: Enhance Your Site's User Experience</u></a></li>
-<li><a href="https://win-studio.techidaily.com/efficacite-comparee-des-techniques-de-transfert-de-donnes-entre-disques-dur/"><u>Efficacité Comparée Des Techniques De Transfert De Donnés Entre Disques Dur</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/eliminate-digital-distractions-discover-the-top-8-chatgpt-triggers-for-enhanced-attention-span/"><u>Eliminate Digital Distractions: Discover the Top 8 ChatGPT Triggers for Enhanced Attention Span</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-fan-restart-procedures-unveiled/"><u>GPU Fan Restart Procedures Unveiled</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-xiaomi-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Xiaomi Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/inside-toms-gadget-garage-a-guide-to-modern-computing-equipment/"><u>Inside Tom's Gadget Garage: A Guide to Modern Computing Equipment</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-screen-recording-activating-dynamic-selection-tool-and-step-by-step-walkthrough/"><u>Mastering Screen Recording: Activating Dynamic Selection Tool & Step-by-Step Walkthrough</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-modern-computing-toms-hardware-deep-dive/"><u>Unveiling the Secrets of Modern Computing: Tom's Hardware Deep Dive</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unlocking-mini-music-magic-tips-for-shortform-soundtracks/"><u>[New] 2024 Approved Unlocking Mini-Music Magic Tips for Shortform Soundtracks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-active-recorder-assessment-industry-standards-met-in-2024/"><u>[New] Active Recorder Assessment Industry Standards Met, In 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-audiextractoreview-free-audio-tools-new-horizon/"><u>[New] In 2024, AudiExtractoReview Free Audio Tool's New Horizon</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-quick-guide-speech-to-text-feature-in-microsoft-word-for-2024/"><u>[New] Quick Guide Speech-to-Text Feature in Microsoft Word for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-swiftly-flip-your-iphone-video-clips/"><u>[Updated] In 2024, Swiftly Flip Your iPhone Video Clips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-ultimate-guide-to-choosing-the-perfect-apple-watch-band-professional-ratings-and-testing-results-zdnet/"><u>2024'S Ultimate Guide to Choosing the Perfect Apple Watch Band: Professional Ratings & Testing Results | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/authenticity-assaulted-by-artificial-linguistics/"><u>Authenticity Assaulted by Artificial Linguistics</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/brush-up-bulgarian-just-10-minutes/"><u>Brush Up Bulgarian - Just 10 Minutes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-adventures-how-ai-is-reshaping-game-development/"><u>Crafting Adventures: How AI Is Reshaping Game Development</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expand-your-retro-gaming-library-install-new-games-on-nes-classic-mini/"><u>Expand Your Retro Gaming Library: Install New Games on NES Classic Mini</u></a></li>
+<li><a href="https://network-issues.techidaily.com/from-troubled-screen-setup-to-smooth-sailing-with-updated-windows-10/"><u>From Troubled Screen Setup to Smooth Sailing with Updated Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-zero-to-gourmet-healthy-habits-via-tech/"><u>From Zero to Gourmet: Healthy Habits via Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-android-can-surpass-ios-with-key-upgrades-expert-analysis/"><u>How Android Can Surpass iOS with Key Upgrades - Expert Analysis</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-civi-3-disney-100th-anniversary-edition-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Xiaomi Civi 3 Disney 100th Anniversary Edition Lock Screen Clock in Seconds</u></a></li>
 </ul></div>
 

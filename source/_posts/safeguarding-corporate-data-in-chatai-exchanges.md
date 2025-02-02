@@ -1,7 +1,7 @@
 ---
 title: Safeguarding Corporate Data in ChatAI Exchanges
-date: 2025-01-17T16:59:44.457Z
-updated: 2025-01-18T16:22:43.204Z
+date: 2025-01-31T09:56:44.263Z
+updated: 2025-02-01T07:45:40.974Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Don’t Save Your Chat History
 
  One of the simplest yet effective steps to protect your privacy is to avoid saving your chat history. ChatGPT, by default, stores all interactions between users and the chatbot. These conversations are collected to train OpenAI’s systems and are subject to inspection by moderators.
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 4. Toggle off **Chat history and training**.
 
 ![ChatGPT showing options to disable chat history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-32.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Note that [OpenAI](https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt) says that even with this setting enabled, conversations are retained for 30 days with the option for moderators to review them for abuse before permanent deletion. Still, disabling chat history is one of the best things you can do if you want to continue using ChatGPT.
 
@@ -63,11 +63,11 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 
 ![ChatGPT showing options to clear all chats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-33.jpg)
 
- Another option is to select each conversation and delete it. This method is helpful if you still want to keep some of your chats. On the list of conversations, click the chat you want to delete. Select the trash icon to remove the data.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Another option is to select each conversation and delete it. This method is helpful if you still want to keep some of your chats. On the list of conversations, click the chat you want to delete. Select the trash icon to remove the data.
 
 ## 3\. Don’t Feed ChatGPT Sensitive Work Information
 
@@ -78,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
  The massive ChatGPT data leak from June 2022 to May 2023 illustrates how important this point is. [Search Engine Journal](https://www.searchenginejournal.com/massive-leak-of-chatgpt-credentials-over-100000-accounts-affected/489801/#close) reports that over 100,000 ChatGPT account credentials were compromised and sold on dark web marketplaces because of the incident.
 
  Limit interactions with ChatGPT to non-confidential queries and avoid sharing proprietary details. Moreover, apply good password hygiene and enable two-factor authentication to prevent compromising your account.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Use Data Anonymization Techniques
 
@@ -98,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
  Anonymization is not foolproof since data can be de-anonymized. Understand [de-anonymization and how to prevent it](https://www.makeuseof.com/what-is-de-anonymization/) before utilizing any of these techniques. Evaluate the risks before you release anonymized data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Limit Access to Sensitive Data
@@ -108,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
  Additionally, implement access controls to safeguard your company’s data. For instance, role-based access control (RBAC) gives authorized employees access to only the necessary data to perform their jobs. You can also conduct regular access reviews to ensure that access controls are effective. Don’t forget to revoke access for employees who change roles or leave the company.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Be Wary of Third-Party Apps
@@ -116,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 [Whether third-party ChatGPT apps and browser extensions are safe](https://www.makeuseof.com/third-party-chatgpt-apps-browser-extensions-safe/) is an important question to ask. Before using any of these apps for work, carefully vet and scrutinize them. Make sure that they’re not collecting and retaining information for questionable purposes.
 
  Don’t install shady apps that ask for random permissions on your phone. Verify their data handling practices to check if they align with your organization’s privacy standards.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use ChatGPT Responsibly for Work
 
@@ -140,16 +140,22 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-deciphering-digital-domination-a-deep-dive-into-directors-videos/"><u>[Updated] Deciphering Digital Domination A Deep Dive Into Directors' Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-methods-to-autoplay-youtube-videos-on-facebook/"><u>[Updated] Methods to Autoplay Youtube Videos on Facebook?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-converter-transform-vob-files-into-high-quality-aiff-audio-directly-on-the-web-with-movavi/"><u>Free Converter: Transform VOB Files Into High-Quality AIFF Audio Directly on the Web with Movavi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-easily-update-and-install-hp-all-in-one-scanner-drivers-on-windows/"><u>How to Easily Update and Install HP All-in-One Scanner Drivers on Windows</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-beginners-tips-shooting-hero5-time-lapse-footage/"><u>In 2024, Beginner's Tips Shooting Hero5 Time-Lapse Footage</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1684664-9781466873896-moon-signs-for-lovers/"><u>Moon Signs for Lovers | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavi-video-konverter-den-lette-og-pligtelige-lystenudskrivnings-app-pa-danskmarkedet/"><u>Movavi Video Konverter - Den Lette Og Pligtelige Lystenudskrivnings App På Danskmarkedet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-10-free-mac-compatible-mp3-convertors-reviewed-enhance-your-audio-experience-without-spending/"><u>Top 10 Free Mac-Compatible MP3 Convertors Reviewed: Enhance Your Audio Experience Without Spending</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-the-strategy-of-royal-match/"><u>Ultimate Guide: Mastering the Strategy of 'Royal Match'</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/webconversor-de-audio-gratuito-faca-sua-musica-tocar-em-qualquer-dispositivo-mp3-wma/"><u>Webconversor De Áudio Gratuito – Faça Sua Música Tocar Em Qualquer Dispositivo (MP3, WMA)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-profit-generating-methods-for-successful-vimeo-creators-for-2024/"><u>[New] Profit-Generating Methods for Successful Vimeo Creators for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-boost-interaction-with-crafted-ig-story-queries/"><u>[Updated] 2024 Approved Boost Interaction with Crafted IG Story Queries</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-resolves-with-cash-how-macbook-buyers-are-compensated-in-recent-class-action-agreement-tech-news/"><u>Apple Resolves with Cash: How MacBook Buyers Are Compensated in Recent Class Action Agreement - Tech News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-workflow-on-the-new-m3-macbook-pro-with-2-screens-just-like-its-air-counterpart-zdnet-insights/"><u>Boost Your Workflow on the New M3 MacBook Pro with 2 Screens, Just Like Its Air Counterpart | ZDNET Insights</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/capture-every-moment-top-budget-friendly-cam-recorders-for-2024/"><u>Capture Every Moment Top Budget-Friendly Cam Recorders for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-integration-for-pc-users/"><u>ChatGPT Integration for PC Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/convert-webm-to-mp3-best-tools-for-the-job-for-2024/"><u>Convert WebM to MP3 Best Tools for the Job for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-problems-for-non-functional-sennheiser-game-one-headset-microphone/"><u>Diagnosing & Fixing Problems for Non-Functional Sennheiser Game One Headset Microphone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-for-handling-the-d3dx924dll-not-found-error/"><u>Effective Techniques for Handling the 'd3dx9_24.dll Not Found' Error</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-mp2-avi-transformation-download-our-gratis-movavi-tool/"><u>Effortless MP2-AVI Transformation: Download Our Gratis Movavi Tool!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/grasping-the-mechanics-of-generative-ai/"><u>Grasping the Mechanics of Generative AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-a-finnish-startups-revolutionary-vr-device-outshines-apples-vision-pro-in-business-applications-exclusive-on-zdnet/"><u>How a Finnish Startup's Revolutionary VR Device Outshines Apple's Vision Pro in Business Applications | Exclusive on ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-new-ios-18-innovations-unveiled-at-apples-wwdc-202n-why-artificial-intelligence-is-only-beginning/"><u>Top 5 New iOS 18 Innovations Unveiled at Apple's WWDC 202N: Why Artificial Intelligence Is Only Beginning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-mastering-the-art-of-iphone-screen-recording-for-tech-enthusiasts/"><u>Ultimate Tutorial: Mastering the Art of iPhone Screen Recording for Tech Enthusiasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-apple-skips-older-models-for-upcoming-ai-innovations-an-economic-perspective-reported/"><u>Why Apple Skips Older Models for Upcoming AI Innovations: An Economic Perspective | Reported</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-nokia-c12-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Nokia C12? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/writing-effective-headlines-for-newsletters-ai-approach/"><u>Writing Effective Headlines for Newsletters (AI Approach)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Toolkit: Analyzing GPT's Learning Efficacy"
-date: 2025-01-21T18:17:27.766Z
-updated: 2025-01-24T22:15:54.969Z
+date: 2025-01-24T19:16:45.039Z
+updated: 2025-02-01T00:12:20.180Z
 tags:
   - chatgpt
   - open-ai
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/f386bcd1cdef2e7eae82e10cf44eeb6665615e5a1
 
  If you're having a hard time telling the difference, here are the best ChatGPT detection tools out there
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How We Tested Each ChatGPT Checker Tool
 
  There are heaps of ChatGPT writing checker tools, but some are better than others. Perhaps one AI tool is better at finding ChatGPT-written essays than another, while the latter is better at spotting AI-generated business writing. Furthermore, some ChatGPT checkers aren't very good overall.
@@ -57,16 +53,12 @@ thumbnail: https://thmb.techidaily.com/f386bcd1cdef2e7eae82e10cf44eeb6665615e5a1
 
  No matter how reliable an AI detector may seem, you should never trust its judgment alone. An AI detection tool can flag a wholly human-written text as AI-generated and vice versa. As such, they should only be used as part of an overall accusation and never as a sole piece of evidence.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. GPTZero
 
 ![The GPTZero website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-gptzero.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  GPTZero is a very budget-friendly option for ChatGPT checking. We've covered [how to use GPTZero](https://www.makeuseof.com/gptzero-detect-ai-generated-text/) before, and it's still a good choice if you want to spot AI writing.
@@ -92,9 +84,134 @@ thumbnail: https://thmb.techidaily.com/f386bcd1cdef2e7eae82e10cf44eeb6665615e5a1
 
 ![The Sapling AI website.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-sapling-1.jpg)
 
+ The Sapling AI detector's free version can scan up to 2,000 characters and lets you perform 20 scans. If you'd like more, you can sign up for a Pro account to scan 8,000 characters simultaneously with unlimited scans. Pro accounts are $25 a month with a 30-day free trial.
+
+ Sapling comes with a series of plugins that you may find useful. It has a Chrome extension and plugins for Google Docs, Microsoft Word, and Microsoft Outlook, so you do not have to leave the document or email to perform a scan on it.
+
+ Sapling is also a lot more than just an AI scanner. It features an [extension for multi-English writing](https://www.makeuseof.com/best-extensions-for-multi-english-writing/), so you can check for AI and write in the correct form of English with one service.
+
+ For the ChatGPT scans, Sapling caught every single one red-handed with 100% confidence. However, it scored a scathing 69.6% for the human-written article and 100% on the half-AI half-human article. As such, Sapling is much more zealous than other solutions on the market.
+
+| **Source of Text**                       | **Article Used in Test**  | **AI Confidence Rating** |
+| ---------------------------------------- | ------------------------- | ------------------------ |
+| **AI-Generated Text**                    | ChatGPT 3.5 Essay         | 100% AI                  |
+| | ChatGPT 4 Essay                        | 100% AI                   |                          |
+| | ChatGPT 3.5 Cover Letter               | 100% AI                   |                          |
+| | ChatGPT 4 Cover Letter                 | 100% AI                   |                          |
+| **Half-AI Half-Human (\~50% Is Better)** | Zero-Font Article With AI | 100% AI                  |
+| **Human-Written Text (Low% Is Better)**  | Zero-Font Article         | 69.6% AI                 |
+
+## 3\. Winston
+
+![The Winston dashboard.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-winston-1.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Winston is a little limited if you want to scan for ChatGPT writing for free. You can't perform any scans until you sign in, and once you do, the service gives you 2,000 credits (one word per credit). Once you run out, you must pay for a premium plan or download the Chrome extension for another 10,000 credits.
+
+ However, Winston has many advanced features if you're willing to pay for its premium services. They start at $12 a month and contain 80,000-word scans, an OCR scanning feature for checking pictures of text, and a PDF report generator.
+
+ The scans we did seemed very extreme with their judgments, with Winston declaring that it was either definitely AI or not AI. However, it did give a nice middling score for the AI-human mix article.
+
+| **Source of Text**                       | **Article Used in Test**  | **AI Confidence Rating** |
+| ---------------------------------------- | ------------------------- | ------------------------ |
+| **AI-Generated Text (High% Is Better)**  | ChatGPT 3.5 Essay         | 100% AI                  |
+| | ChatGPT 4 Essay                        | 100% AI                   |                          |
+| | ChatGPT 3.5 Cover Letter               | 100% AI                   |                          |
+| | ChatGPT 4 Cover Letter                 | 100% AI                   |                          |
+| **Half-AI Half-Human (\~50% Is Better)** | Zero-Font Article With AI | 44% AI                   |
+| **Human-Written Text (Low% Is Better)**  | Zero-Font Article         | 0% AI                    |
+
+## 4\. ZeroGPT
+
+![The ZeroGPT website.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-zerogpt-1.jpg)
+
+ ZeroGPT is a good option for people who want a free ChatGPT detection tool. Its online detector is quite generous, letting you scan up to 15,000 characters for free and batch-scan five files at a time.
+
+ If you need even more, ZeroGPT does have some very affordable premium plans. $8.29 a month gets you 50,000 characters per scan, and $9.99 will bump that up to 100,000 characters a scan and 50 files per batch scan. And both disable ads on the main site.
+
+ In terms of results, ZeroGPT put up an almost fantastic showing. All the AI-based writing scored high, and the human-written piece got a nice low score. However, the AI-human mix threw it for a spin, claiming none was AI-generated.
+
+| **Source of Text**                       | **Article Used in Test**  | **AI Confidence Rating** |
+| ---------------------------------------- | ------------------------- | ------------------------ |
+| **AI-Generated Text (High% Is Better)**  | ChatGPT 3.5 Essay         | 95.31% AI                |
+| | ChatGPT 4 Essay                        | 97.58% AI                 |                          |
+| | ChatGPT 3.5 Cover Letter               | 99.36% AI                 |                          |
+| | ChatGPT 4 Cover Letter                 | 94.49% AI                 |                          |
+| **Half-AI Half-Human (\~50% Is Better)** | Zero-Font Article With AI | 0% AI                    |
+| **Human-Written Text (Low% Is Better)**  | Zero-Font Article         | 10.99% AI                |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## The Best ChatGPT Scanning Tools for Professionals
+
+ While catching people using ChatGPT can be tricky, there are tools out there that can help. Just remember that these tools should only be used as one part of a larger case against someone using AI. Never accuse someone of using AI just because one test says they did.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ As ChatGPT advances in power, it's getting harder to tell what's written by a human and what's generated by an AI. This makes it hard for teachers and bosses to identify what's written by a human hand and what was generated through ChatGPT.
+
+ If you're having a hard time telling the difference, here are the best ChatGPT detection tools out there
+
+## How We Tested Each ChatGPT Checker Tool
+
+ There are heaps of ChatGPT writing checker tools, but some are better than others. Perhaps one AI tool is better at finding ChatGPT-written essays than another, while the latter is better at spotting AI-generated business writing. Furthermore, some ChatGPT checkers aren't very good overall.
+
+ As such, we're going to run some text through each ChatGPT checker tool and report how each one scored. To achieve this, we'll be using several different texts in our tests:
+
+* For teachers, there's a short essay about George Washington generated by both [ChatGPT 3.5](https://pastebin.com/ZVgjU1jg) and [ChatGPT 4](https://pastebin.com/Usy5u9C8).
+* For bosses, there's a cover letter for a news writer job generated by [ChatGPT 3.5](https://pastebin.com/M0JeEstN) and [ChatGPT 4](https://pastebin.com/6a1sscjt).
+* My article on [what a zero-font tactic is](https://www.makeuseof.com/zero-font-tactic-email-phishing-scams/). The article was wholly human-written.
+* [The same zero-font article](https://pastebin.com/eWVueaNa), but the first three paragraphs have been rewritten by ChatGPT. The latter three are still human-written.
+
+ When testing each document, the ChatGPT detector will give a result in a percentage: for example, "90% AI". This does not mean the checker believes that 90% of the text was generated by AI and 10% was written by a human; it means that the detector believes there's a 90% chance an AI wrote the piece.
+
+ As such, we want to see high AI percentages when we feed in the ChatGPT 3.5 and ChatGPT 4 articles. However, to ensure the ChatGPT detector isn't overly zealous, it also has to give a low percentage for the human-written article and a middling percentage for the half-AI half-human article.
+
+ Now we have our test bed, let's check out some ChatGPT checkers.
+
+ No matter how reliable an AI detector may seem, you should never trust its judgment alone. An AI detection tool can flag a wholly human-written text as AI-generated and vice versa. As such, they should only be used as part of an overall accusation and never as a sole piece of evidence.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 1\. GPTZero
+
+![The GPTZero website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-gptzero.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ GPTZero is a very budget-friendly option for ChatGPT checking. We've covered [how to use GPTZero](https://www.makeuseof.com/gptzero-detect-ai-generated-text/) before, and it's still a good choice if you want to spot AI writing.
+
+ If you want to try it, the free online service requires no sign-in and lets you scan seven pieces of text up to 5,000 characters each. Logging into the service with a free account gives you 10,000 words a month in 5,000-character blocks.
+
+ GPTZero also features a document scanning feature where you can upload a file and have it scanned without needing copy-pasting. On the free plan, you can upload three documents at a time and have them scanned for AI usage.
+
+ You can explore its premium plans if you want more out of GPTZero. The cheapest comes in at $10 and lets you scan 150,000 words a month, 50,000 words in a single scan, and lets you upload ten files in a batch upload.
+
+ The results we got from GPTZero were very promising. It gave suitably high AI confidence scores for the AI text, a middle score for the half-AI half-human article, and a low score for the human-written text. As such, GPTZero strikes a good balance between affordability and reliability.
+
+| **Source of Text**                       | **Article Used in Test**  | **AI Confidence Rating** |
+| ---------------------------------------- | ------------------------- | ------------------------ |
+| **AI-Generated Text (High% Is Better)**  | ChatGPT 3.5 Essay         | 83% AI                   |
+| | ChatGPT 4 Essay                        | 100% AI                   |                          |
+| | ChatGPT 3.5 Cover Letter               | 80% AI                    |                          |
+| | ChatGPT 4 Cover Letter                 | 92% AI                    |                          |
+| **Half-AI Half-Human (\~50% Is Better)** | Zero-Font Article With AI | 41% AI                   |
+| **Human-Written Text (Low% Is Better)**  | Zero-Font Article         | 11% AI                   |
+
+## 2\. Sapling AI Detector
+
+![The Sapling AI website.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-sapling-1.jpg)
 
  The Sapling AI detector's free version can scan up to 2,000 characters and lets you perform 20 scans. If you'd like more, you can sign up for a Pro account to scan 8,000 characters simultaneously with unlimited scans. Pro accounts are $25 a month with a 30-day free trial.
 
@@ -116,6 +233,131 @@ thumbnail: https://thmb.techidaily.com/f386bcd1cdef2e7eae82e10cf44eeb6665615e5a1
 ## 3\. Winston
 
 ![The Winston dashboard.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-winston-1.jpg)
+
+ Winston is a little limited if you want to scan for ChatGPT writing for free. You can't perform any scans until you sign in, and once you do, the service gives you 2,000 credits (one word per credit). Once you run out, you must pay for a premium plan or download the Chrome extension for another 10,000 credits.
+
+ However, Winston has many advanced features if you're willing to pay for its premium services. They start at $12 a month and contain 80,000-word scans, an OCR scanning feature for checking pictures of text, and a PDF report generator.
+
+ The scans we did seemed very extreme with their judgments, with Winston declaring that it was either definitely AI or not AI. However, it did give a nice middling score for the AI-human mix article.
+
+| **Source of Text**                       | **Article Used in Test**  | **AI Confidence Rating** |
+| ---------------------------------------- | ------------------------- | ------------------------ |
+| **AI-Generated Text (High% Is Better)**  | ChatGPT 3.5 Essay         | 100% AI                  |
+| | ChatGPT 4 Essay                        | 100% AI                   |                          |
+| | ChatGPT 3.5 Cover Letter               | 100% AI                   |                          |
+| | ChatGPT 4 Cover Letter                 | 100% AI                   |                          |
+| **Half-AI Half-Human (\~50% Is Better)** | Zero-Font Article With AI | 44% AI                   |
+| **Human-Written Text (Low% Is Better)**  | Zero-Font Article         | 0% AI                    |
+
+## 4\. ZeroGPT
+
+![The ZeroGPT website.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-zerogpt-1.jpg)
+
+ ZeroGPT is a good option for people who want a free ChatGPT detection tool. Its online detector is quite generous, letting you scan up to 15,000 characters for free and batch-scan five files at a time.
+
+ If you need even more, ZeroGPT does have some very affordable premium plans. $8.29 a month gets you 50,000 characters per scan, and $9.99 will bump that up to 100,000 characters a scan and 50 files per batch scan. And both disable ads on the main site.
+
+ In terms of results, ZeroGPT put up an almost fantastic showing. All the AI-based writing scored high, and the human-written piece got a nice low score. However, the AI-human mix threw it for a spin, claiming none was AI-generated.
+
+| **Source of Text**                       | **Article Used in Test**  | **AI Confidence Rating** |
+| ---------------------------------------- | ------------------------- | ------------------------ |
+| **AI-Generated Text (High% Is Better)**  | ChatGPT 3.5 Essay         | 95.31% AI                |
+| | ChatGPT 4 Essay                        | 97.58% AI                 |                          |
+| | ChatGPT 3.5 Cover Letter               | 99.36% AI                 |                          |
+| | ChatGPT 4 Cover Letter                 | 94.49% AI                 |                          |
+| **Half-AI Half-Human (\~50% Is Better)** | Zero-Font Article With AI | 0% AI                    |
+| **Human-Written Text (Low% Is Better)**  | Zero-Font Article         | 10.99% AI                |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## The Best ChatGPT Scanning Tools for Professionals
+
+ While catching people using ChatGPT can be tricky, there are tools out there that can help. Just remember that these tools should only be used as one part of a larger case against someone using AI. Never accuse someone of using AI just because one test says they did.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ As ChatGPT advances in power, it's getting harder to tell what's written by a human and what's generated by an AI. This makes it hard for teachers and bosses to identify what's written by a human hand and what was generated through ChatGPT.
+
+ If you're having a hard time telling the difference, here are the best ChatGPT detection tools out there
+
+## How We Tested Each ChatGPT Checker Tool
+
+ There are heaps of ChatGPT writing checker tools, but some are better than others. Perhaps one AI tool is better at finding ChatGPT-written essays than another, while the latter is better at spotting AI-generated business writing. Furthermore, some ChatGPT checkers aren't very good overall.
+
+ As such, we're going to run some text through each ChatGPT checker tool and report how each one scored. To achieve this, we'll be using several different texts in our tests:
+
+* For teachers, there's a short essay about George Washington generated by both [ChatGPT 3.5](https://pastebin.com/ZVgjU1jg) and [ChatGPT 4](https://pastebin.com/Usy5u9C8).
+* For bosses, there's a cover letter for a news writer job generated by [ChatGPT 3.5](https://pastebin.com/M0JeEstN) and [ChatGPT 4](https://pastebin.com/6a1sscjt).
+* My article on [what a zero-font tactic is](https://www.makeuseof.com/zero-font-tactic-email-phishing-scams/). The article was wholly human-written.
+* [The same zero-font article](https://pastebin.com/eWVueaNa), but the first three paragraphs have been rewritten by ChatGPT. The latter three are still human-written.
+
+ When testing each document, the ChatGPT detector will give a result in a percentage: for example, "90% AI". This does not mean the checker believes that 90% of the text was generated by AI and 10% was written by a human; it means that the detector believes there's a 90% chance an AI wrote the piece.
+
+ As such, we want to see high AI percentages when we feed in the ChatGPT 3.5 and ChatGPT 4 articles. However, to ensure the ChatGPT detector isn't overly zealous, it also has to give a low percentage for the human-written article and a middling percentage for the half-AI half-human article.
+
+ Now we have our test bed, let's check out some ChatGPT checkers.
+
+ No matter how reliable an AI detector may seem, you should never trust its judgment alone. An AI detection tool can flag a wholly human-written text as AI-generated and vice versa. As such, they should only be used as part of an overall accusation and never as a sole piece of evidence.
+
+## 1\. GPTZero
+
+![The GPTZero website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-gptzero.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ GPTZero is a very budget-friendly option for ChatGPT checking. We've covered [how to use GPTZero](https://www.makeuseof.com/gptzero-detect-ai-generated-text/) before, and it's still a good choice if you want to spot AI writing.
+
+ If you want to try it, the free online service requires no sign-in and lets you scan seven pieces of text up to 5,000 characters each. Logging into the service with a free account gives you 10,000 words a month in 5,000-character blocks.
+
+ GPTZero also features a document scanning feature where you can upload a file and have it scanned without needing copy-pasting. On the free plan, you can upload three documents at a time and have them scanned for AI usage.
+
+ You can explore its premium plans if you want more out of GPTZero. The cheapest comes in at $10 and lets you scan 150,000 words a month, 50,000 words in a single scan, and lets you upload ten files in a batch upload.
+
+ The results we got from GPTZero were very promising. It gave suitably high AI confidence scores for the AI text, a middle score for the half-AI half-human article, and a low score for the human-written text. As such, GPTZero strikes a good balance between affordability and reliability.
+
+| **Source of Text**                       | **Article Used in Test**  | **AI Confidence Rating** |
+| ---------------------------------------- | ------------------------- | ------------------------ |
+| **AI-Generated Text (High% Is Better)**  | ChatGPT 3.5 Essay         | 83% AI                   |
+| | ChatGPT 4 Essay                        | 100% AI                   |                          |
+| | ChatGPT 3.5 Cover Letter               | 80% AI                    |                          |
+| | ChatGPT 4 Cover Letter                 | 92% AI                    |                          |
+| **Half-AI Half-Human (\~50% Is Better)** | Zero-Font Article With AI | 41% AI                   |
+| **Human-Written Text (Low% Is Better)**  | Zero-Font Article         | 11% AI                   |
+
+## 2\. Sapling AI Detector
+
+![The Sapling AI website.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-sapling-1.jpg)
+
+ The Sapling AI detector's free version can scan up to 2,000 characters and lets you perform 20 scans. If you'd like more, you can sign up for a Pro account to scan 8,000 characters simultaneously with unlimited scans. Pro accounts are $25 a month with a 30-day free trial.
+
+ Sapling comes with a series of plugins that you may find useful. It has a Chrome extension and plugins for Google Docs, Microsoft Word, and Microsoft Outlook, so you do not have to leave the document or email to perform a scan on it.
+
+ Sapling is also a lot more than just an AI scanner. It features an [extension for multi-English writing](https://www.makeuseof.com/best-extensions-for-multi-english-writing/), so you can check for AI and write in the correct form of English with one service.
+
+ For the ChatGPT scans, Sapling caught every single one red-handed with 100% confidence. However, it scored a scathing 69.6% for the human-written article and 100% on the half-AI half-human article. As such, Sapling is much more zealous than other solutions on the market.
+
+| **Source of Text**                       | **Article Used in Test**  | **AI Confidence Rating** |
+| ---------------------------------------- | ------------------------- | ------------------------ |
+| **AI-Generated Text**                    | ChatGPT 3.5 Essay         | 100% AI                  |
+| | ChatGPT 4 Essay                        | 100% AI                   |                          |
+| | ChatGPT 3.5 Cover Letter               | 100% AI                   |                          |
+| | ChatGPT 4 Cover Letter                 | 100% AI                   |                          |
+| **Half-AI Half-Human (\~50% Is Better)** | Zero-Font Article With AI | 100% AI                  |
+| **Human-Written Text (Low% Is Better)**  | Zero-Font Article         | 69.6% AI                 |
+
+## 3\. Winston
+
+![The Winston dashboard.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-winston-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Winston is a little limited if you want to scan for ChatGPT writing for free. You can't perform any scans until you sign in, and once you do, the service gives you 2,000 credits (one word per credit). Once you run out, you must pay for a premium plan or download the Chrome extension for another 10,000 credits.
 
@@ -186,6 +428,10 @@ thumbnail: https://thmb.techidaily.com/f386bcd1cdef2e7eae82e10cf44eeb6665615e5a1
 
 ![The GPTZero website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-gptzero.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  GPTZero is a very budget-friendly option for ChatGPT checking. We've covered [how to use GPTZero](https://www.makeuseof.com/gptzero-detect-ai-generated-text/) before, and it's still a good choice if you want to spot AI writing.
 
  If you want to try it, the free online service requires no sign-in and lets you scan seven pieces of text up to 5,000 characters each. Logging into the service with a free account gives you 10,000 words a month in 5,000-character blocks.
@@ -208,249 +454,11 @@ thumbnail: https://thmb.techidaily.com/f386bcd1cdef2e7eae82e10cf44eeb6665615e5a1
 ## 2\. Sapling AI Detector
 
 ![The Sapling AI website.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-sapling-1.jpg)
-
- The Sapling AI detector's free version can scan up to 2,000 characters and lets you perform 20 scans. If you'd like more, you can sign up for a Pro account to scan 8,000 characters simultaneously with unlimited scans. Pro accounts are $25 a month with a 30-day free trial.
-
- Sapling comes with a series of plugins that you may find useful. It has a Chrome extension and plugins for Google Docs, Microsoft Word, and Microsoft Outlook, so you do not have to leave the document or email to perform a scan on it.
-
- Sapling is also a lot more than just an AI scanner. It features an [extension for multi-English writing](https://www.makeuseof.com/best-extensions-for-multi-english-writing/), so you can check for AI and write in the correct form of English with one service.
-
- For the ChatGPT scans, Sapling caught every single one red-handed with 100% confidence. However, it scored a scathing 69.6% for the human-written article and 100% on the half-AI half-human article. As such, Sapling is much more zealous than other solutions on the market.
-
-| **Source of Text**                       | **Article Used in Test**  | **AI Confidence Rating** |
-| ---------------------------------------- | ------------------------- | ------------------------ |
-| **AI-Generated Text**                    | ChatGPT 3.5 Essay         | 100% AI                  |
-| | ChatGPT 4 Essay                        | 100% AI                   |                          |
-| | ChatGPT 3.5 Cover Letter               | 100% AI                   |                          |
-| | ChatGPT 4 Cover Letter                 | 100% AI                   |                          |
-| **Half-AI Half-Human (\~50% Is Better)** | Zero-Font Article With AI | 100% AI                  |
-| **Human-Written Text (Low% Is Better)**  | Zero-Font Article         | 69.6% AI                 |
-
-## 3\. Winston
-
-![The Winston dashboard.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-winston-1.jpg)
-
- Winston is a little limited if you want to scan for ChatGPT writing for free. You can't perform any scans until you sign in, and once you do, the service gives you 2,000 credits (one word per credit). Once you run out, you must pay for a premium plan or download the Chrome extension for another 10,000 credits.
-
- However, Winston has many advanced features if you're willing to pay for its premium services. They start at $12 a month and contain 80,000-word scans, an OCR scanning feature for checking pictures of text, and a PDF report generator.
-
- The scans we did seemed very extreme with their judgments, with Winston declaring that it was either definitely AI or not AI. However, it did give a nice middling score for the AI-human mix article.
-
-| **Source of Text**                       | **Article Used in Test**  | **AI Confidence Rating** |
-| ---------------------------------------- | ------------------------- | ------------------------ |
-| **AI-Generated Text (High% Is Better)**  | ChatGPT 3.5 Essay         | 100% AI                  |
-| | ChatGPT 4 Essay                        | 100% AI                   |                          |
-| | ChatGPT 3.5 Cover Letter               | 100% AI                   |                          |
-| | ChatGPT 4 Cover Letter                 | 100% AI                   |                          |
-| **Half-AI Half-Human (\~50% Is Better)** | Zero-Font Article With AI | 44% AI                   |
-| **Human-Written Text (Low% Is Better)**  | Zero-Font Article         | 0% AI                    |
-
-## 4\. ZeroGPT
-
-![The ZeroGPT website.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-zerogpt-1.jpg)
-
- ZeroGPT is a good option for people who want a free ChatGPT detection tool. Its online detector is quite generous, letting you scan up to 15,000 characters for free and batch-scan five files at a time.
-
- If you need even more, ZeroGPT does have some very affordable premium plans. $8.29 a month gets you 50,000 characters per scan, and $9.99 will bump that up to 100,000 characters a scan and 50 files per batch scan. And both disable ads on the main site.
-
- In terms of results, ZeroGPT put up an almost fantastic showing. All the AI-based writing scored high, and the human-written piece got a nice low score. However, the AI-human mix threw it for a spin, claiming none was AI-generated.
-
-| **Source of Text**                       | **Article Used in Test**  | **AI Confidence Rating** |
-| ---------------------------------------- | ------------------------- | ------------------------ |
-| **AI-Generated Text (High% Is Better)**  | ChatGPT 3.5 Essay         | 95.31% AI                |
-| | ChatGPT 4 Essay                        | 97.58% AI                 |                          |
-| | ChatGPT 3.5 Cover Letter               | 99.36% AI                 |                          |
-| | ChatGPT 4 Cover Letter                 | 94.49% AI                 |                          |
-| **Half-AI Half-Human (\~50% Is Better)** | Zero-Font Article With AI | 0% AI                    |
-| **Human-Written Text (Low% Is Better)**  | Zero-Font Article         | 10.99% AI                |
-
-## The Best ChatGPT Scanning Tools for Professionals
-
- While catching people using ChatGPT can be tricky, there are tools out there that can help. Just remember that these tools should only be used as one part of a larger case against someone using AI. Never accuse someone of using AI just because one test says they did.
-
-**MUO VIDEO OF THE DAY**
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- As ChatGPT advances in power, it's getting harder to tell what's written by a human and what's generated by an AI. This makes it hard for teachers and bosses to identify what's written by a human hand and what was generated through ChatGPT.
-
- If you're having a hard time telling the difference, here are the best ChatGPT detection tools out there
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## How We Tested Each ChatGPT Checker Tool
-
- There are heaps of ChatGPT writing checker tools, but some are better than others. Perhaps one AI tool is better at finding ChatGPT-written essays than another, while the latter is better at spotting AI-generated business writing. Furthermore, some ChatGPT checkers aren't very good overall.
-
- As such, we're going to run some text through each ChatGPT checker tool and report how each one scored. To achieve this, we'll be using several different texts in our tests:
-
-* For teachers, there's a short essay about George Washington generated by both [ChatGPT 3.5](https://pastebin.com/ZVgjU1jg) and [ChatGPT 4](https://pastebin.com/Usy5u9C8).
-* For bosses, there's a cover letter for a news writer job generated by [ChatGPT 3.5](https://pastebin.com/M0JeEstN) and [ChatGPT 4](https://pastebin.com/6a1sscjt).
-* My article on [what a zero-font tactic is](https://www.makeuseof.com/zero-font-tactic-email-phishing-scams/). The article was wholly human-written.
-* [The same zero-font article](https://pastebin.com/eWVueaNa), but the first three paragraphs have been rewritten by ChatGPT. The latter three are still human-written.
-
- When testing each document, the ChatGPT detector will give a result in a percentage: for example, "90% AI". This does not mean the checker believes that 90% of the text was generated by AI and 10% was written by a human; it means that the detector believes there's a 90% chance an AI wrote the piece.
-
- As such, we want to see high AI percentages when we feed in the ChatGPT 3.5 and ChatGPT 4 articles. However, to ensure the ChatGPT detector isn't overly zealous, it also has to give a low percentage for the human-written article and a middling percentage for the half-AI half-human article.
-
- Now we have our test bed, let's check out some ChatGPT checkers.
-
- No matter how reliable an AI detector may seem, you should never trust its judgment alone. An AI detection tool can flag a wholly human-written text as AI-generated and vice versa. As such, they should only be used as part of an overall accusation and never as a sole piece of evidence.
-
-## 1\. GPTZero
-
-![The GPTZero website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-gptzero.jpg)
-
- GPTZero is a very budget-friendly option for ChatGPT checking. We've covered [how to use GPTZero](https://www.makeuseof.com/gptzero-detect-ai-generated-text/) before, and it's still a good choice if you want to spot AI writing.
-
- If you want to try it, the free online service requires no sign-in and lets you scan seven pieces of text up to 5,000 characters each. Logging into the service with a free account gives you 10,000 words a month in 5,000-character blocks.
-
- GPTZero also features a document scanning feature where you can upload a file and have it scanned without needing copy-pasting. On the free plan, you can upload three documents at a time and have them scanned for AI usage.
-
- You can explore its premium plans if you want more out of GPTZero. The cheapest comes in at $10 and lets you scan 150,000 words a month, 50,000 words in a single scan, and lets you upload ten files in a batch upload.
-
- The results we got from GPTZero were very promising. It gave suitably high AI confidence scores for the AI text, a middle score for the half-AI half-human article, and a low score for the human-written text. As such, GPTZero strikes a good balance between affordability and reliability.
-
-| **Source of Text**                       | **Article Used in Test**  | **AI Confidence Rating** |
-| ---------------------------------------- | ------------------------- | ------------------------ |
-| **AI-Generated Text (High% Is Better)**  | ChatGPT 3.5 Essay         | 83% AI                   |
-| | ChatGPT 4 Essay                        | 100% AI                   |                          |
-| | ChatGPT 3.5 Cover Letter               | 80% AI                    |                          |
-| | ChatGPT 4 Cover Letter                 | 92% AI                    |                          |
-| **Half-AI Half-Human (\~50% Is Better)** | Zero-Font Article With AI | 41% AI                   |
-| **Human-Written Text (Low% Is Better)**  | Zero-Font Article         | 11% AI                   |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## 2\. Sapling AI Detector
-
-![The Sapling AI website.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-sapling-1.jpg)
-
- The Sapling AI detector's free version can scan up to 2,000 characters and lets you perform 20 scans. If you'd like more, you can sign up for a Pro account to scan 8,000 characters simultaneously with unlimited scans. Pro accounts are $25 a month with a 30-day free trial.
-
- Sapling comes with a series of plugins that you may find useful. It has a Chrome extension and plugins for Google Docs, Microsoft Word, and Microsoft Outlook, so you do not have to leave the document or email to perform a scan on it.
-
- Sapling is also a lot more than just an AI scanner. It features an [extension for multi-English writing](https://www.makeuseof.com/best-extensions-for-multi-english-writing/), so you can check for AI and write in the correct form of English with one service.
-
- For the ChatGPT scans, Sapling caught every single one red-handed with 100% confidence. However, it scored a scathing 69.6% for the human-written article and 100% on the half-AI half-human article. As such, Sapling is much more zealous than other solutions on the market.
-
-| **Source of Text**                       | **Article Used in Test**  | **AI Confidence Rating** |
-| ---------------------------------------- | ------------------------- | ------------------------ |
-| **AI-Generated Text**                    | ChatGPT 3.5 Essay         | 100% AI                  |
-| | ChatGPT 4 Essay                        | 100% AI                   |                          |
-| | ChatGPT 3.5 Cover Letter               | 100% AI                   |                          |
-| | ChatGPT 4 Cover Letter                 | 100% AI                   |                          |
-| **Half-AI Half-Human (\~50% Is Better)** | Zero-Font Article With AI | 100% AI                  |
-| **Human-Written Text (Low% Is Better)**  | Zero-Font Article         | 69.6% AI                 |
-
-## 3\. Winston
-
-![The Winston dashboard.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-winston-1.jpg)
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
- Winston is a little limited if you want to scan for ChatGPT writing for free. You can't perform any scans until you sign in, and once you do, the service gives you 2,000 credits (one word per credit). Once you run out, you must pay for a premium plan or download the Chrome extension for another 10,000 credits.
-
- However, Winston has many advanced features if you're willing to pay for its premium services. They start at $12 a month and contain 80,000-word scans, an OCR scanning feature for checking pictures of text, and a PDF report generator.
-
- The scans we did seemed very extreme with their judgments, with Winston declaring that it was either definitely AI or not AI. However, it did give a nice middling score for the AI-human mix article.
-
-| **Source of Text**                       | **Article Used in Test**  | **AI Confidence Rating** |
-| ---------------------------------------- | ------------------------- | ------------------------ |
-| **AI-Generated Text (High% Is Better)**  | ChatGPT 3.5 Essay         | 100% AI                  |
-| | ChatGPT 4 Essay                        | 100% AI                   |                          |
-| | ChatGPT 3.5 Cover Letter               | 100% AI                   |                          |
-| | ChatGPT 4 Cover Letter                 | 100% AI                   |                          |
-| **Half-AI Half-Human (\~50% Is Better)** | Zero-Font Article With AI | 44% AI                   |
-| **Human-Written Text (Low% Is Better)**  | Zero-Font Article         | 0% AI                    |
-
-## 4\. ZeroGPT
-
-![The ZeroGPT website.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-zerogpt-1.jpg)
-
- ZeroGPT is a good option for people who want a free ChatGPT detection tool. Its online detector is quite generous, letting you scan up to 15,000 characters for free and batch-scan five files at a time.
-
- If you need even more, ZeroGPT does have some very affordable premium plans. $8.29 a month gets you 50,000 characters per scan, and $9.99 will bump that up to 100,000 characters a scan and 50 files per batch scan. And both disable ads on the main site.
-
- In terms of results, ZeroGPT put up an almost fantastic showing. All the AI-based writing scored high, and the human-written piece got a nice low score. However, the AI-human mix threw it for a spin, claiming none was AI-generated.
-
-| **Source of Text**                       | **Article Used in Test**  | **AI Confidence Rating** |
-| ---------------------------------------- | ------------------------- | ------------------------ |
-| **AI-Generated Text (High% Is Better)**  | ChatGPT 3.5 Essay         | 95.31% AI                |
-| | ChatGPT 4 Essay                        | 97.58% AI                 |                          |
-| | ChatGPT 3.5 Cover Letter               | 99.36% AI                 |                          |
-| | ChatGPT 4 Cover Letter                 | 94.49% AI                 |                          |
-| **Half-AI Half-Human (\~50% Is Better)** | Zero-Font Article With AI | 0% AI                    |
-| **Human-Written Text (Low% Is Better)**  | Zero-Font Article         | 10.99% AI                |
-
-## The Best ChatGPT Scanning Tools for Professionals
-
- While catching people using ChatGPT can be tricky, there are tools out there that can help. Just remember that these tools should only be used as one part of a larger case against someone using AI. Never accuse someone of using AI just because one test says they did.
-
-**MUO VIDEO OF THE DAY**
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- As ChatGPT advances in power, it's getting harder to tell what's written by a human and what's generated by an AI. This makes it hard for teachers and bosses to identify what's written by a human hand and what was generated through ChatGPT.
-
- If you're having a hard time telling the difference, here are the best ChatGPT detection tools out there
-
-## How We Tested Each ChatGPT Checker Tool
-
- There are heaps of ChatGPT writing checker tools, but some are better than others. Perhaps one AI tool is better at finding ChatGPT-written essays than another, while the latter is better at spotting AI-generated business writing. Furthermore, some ChatGPT checkers aren't very good overall.
-
- As such, we're going to run some text through each ChatGPT checker tool and report how each one scored. To achieve this, we'll be using several different texts in our tests:
-
-* For teachers, there's a short essay about George Washington generated by both [ChatGPT 3.5](https://pastebin.com/ZVgjU1jg) and [ChatGPT 4](https://pastebin.com/Usy5u9C8).
-* For bosses, there's a cover letter for a news writer job generated by [ChatGPT 3.5](https://pastebin.com/M0JeEstN) and [ChatGPT 4](https://pastebin.com/6a1sscjt).
-* My article on [what a zero-font tactic is](https://www.makeuseof.com/zero-font-tactic-email-phishing-scams/). The article was wholly human-written.
-* [The same zero-font article](https://pastebin.com/eWVueaNa), but the first three paragraphs have been rewritten by ChatGPT. The latter three are still human-written.
-
- When testing each document, the ChatGPT detector will give a result in a percentage: for example, "90% AI". This does not mean the checker believes that 90% of the text was generated by AI and 10% was written by a human; it means that the detector believes there's a 90% chance an AI wrote the piece.
-
- As such, we want to see high AI percentages when we feed in the ChatGPT 3.5 and ChatGPT 4 articles. However, to ensure the ChatGPT detector isn't overly zealous, it also has to give a low percentage for the human-written article and a middling percentage for the half-AI half-human article.
-
- Now we have our test bed, let's check out some ChatGPT checkers.
-
- No matter how reliable an AI detector may seem, you should never trust its judgment alone. An AI detection tool can flag a wholly human-written text as AI-generated and vice versa. As such, they should only be used as part of an overall accusation and never as a sole piece of evidence.
-
-## 1\. GPTZero
-
-![The GPTZero website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-gptzero.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
- GPTZero is a very budget-friendly option for ChatGPT checking. We've covered [how to use GPTZero](https://www.makeuseof.com/gptzero-detect-ai-generated-text/) before, and it's still a good choice if you want to spot AI writing.
-
- If you want to try it, the free online service requires no sign-in and lets you scan seven pieces of text up to 5,000 characters each. Logging into the service with a free account gives you 10,000 words a month in 5,000-character blocks.
-
- GPTZero also features a document scanning feature where you can upload a file and have it scanned without needing copy-pasting. On the free plan, you can upload three documents at a time and have them scanned for AI usage.
-
- You can explore its premium plans if you want more out of GPTZero. The cheapest comes in at $10 and lets you scan 150,000 words a month, 50,000 words in a single scan, and lets you upload ten files in a batch upload.
-
- The results we got from GPTZero were very promising. It gave suitably high AI confidence scores for the AI text, a middle score for the half-AI half-human article, and a low score for the human-written text. As such, GPTZero strikes a good balance between affordability and reliability.
-
-| **Source of Text**                       | **Article Used in Test**  | **AI Confidence Rating** |
-| ---------------------------------------- | ------------------------- | ------------------------ |
-| **AI-Generated Text (High% Is Better)**  | ChatGPT 3.5 Essay         | 83% AI                   |
-| | ChatGPT 4 Essay                        | 100% AI                   |                          |
-| | ChatGPT 3.5 Cover Letter               | 80% AI                    |                          |
-| | ChatGPT 4 Cover Letter                 | 92% AI                    |                          |
-| **Half-AI Half-Human (\~50% Is Better)** | Zero-Font Article With AI | 41% AI                   |
-| **Human-Written Text (Low% Is Better)**  | Zero-Font Article         | 11% AI                   |
-
-## 2\. Sapling AI Detector
-
-![The Sapling AI website.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-sapling-1.jpg)
-
  The Sapling AI detector's free version can scan up to 2,000 characters and lets you perform 20 scans. If you'd like more, you can sign up for a Pro account to scan 8,000 characters simultaneously with unlimited scans. Pro accounts are $25 a month with a 30-day free trial.
 
  Sapling comes with a series of plugins that you may find useful. It has a Chrome extension and plugins for Google Docs, Microsoft Word, and Microsoft Outlook, so you do not have to leave the document or email to perform a scan on it.
@@ -468,17 +476,9 @@ thumbnail: https://thmb.techidaily.com/f386bcd1cdef2e7eae82e10cf44eeb6665615e5a1
 | **Half-AI Half-Human (\~50% Is Better)** | Zero-Font Article With AI | 100% AI                  |
 | **Human-Written Text (Low% Is Better)**  | Zero-Font Article         | 69.6% AI                 |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Winston
 
 ![The Winston dashboard.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ai-checkers-winston-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Winston is a little limited if you want to scan for ChatGPT writing for free. You can't perform any scans until you sign in, and once you do, the service gives you 2,000 credits (one word per credit). Once you run out, you must pay for a premium plan or download the Chrome extension for another 10,000 credits.
 
@@ -533,22 +533,21 @@ thumbnail: https://thmb.techidaily.com/f386bcd1cdef2e7eae82e10cf44eeb6665615e5a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-unseen-smiles-hidden-glances-in-photos/"><u>[New] 2024 Approved Unseen Smiles, Hidden Glances in Photos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-radiant-contrast-synchronizer/"><u>[New] Radiant Contrast Synchronizer</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-directly-connect-youtube-tunes-to-imovie-seamlessly-for-2024/"><u>[Updated] Directly Connect YouTube Tunes to iMovie Seamlessly for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mp4-wmv-mov/"><u>無傷で高品質に変換可能な動画方法とソフトウェア解説 - MP4, WMV, MOV</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cutting-edge-techniques-in-3d-lut-making/"><u>Cutting-Edge Techniques in 3D LUT Making</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-latest-enhancements-coming-to-certain-apple-airpod-variants-this-fall-as-revealed/"><u>Discover the Latest Enhancements Coming to Certain Apple AirPod Variants This Fall, as Revealed</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-setup-how-to-successfully-install-age-of-empires-iv-from-the-microsoft-store/"><u>Effortless Setup: How to Successfully Install Age of Empires IV From the Microsoft Store</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elite-tech-thinkers-perspectives-on-future-ai/"><u>Elite Tech Thinkers: Perspectives on Future AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-distinctions-of-apples-airpods-series-4-new-features-compared-zdnet/"><u>Exploring the Distinctions of Apple's AirPods Series 4 – New Features Compared | ZDNET</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210002013-9781601639684-hidden-history/"><u>Hidden History | Free Book</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-crafting-visionary-art-top-10-apps-for-vector-enthusiasts/"><u>In 2024, Crafting Visionary Art Top 10 Apps for Vector Enthusiasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tech-update-samsung-surpasses-apples-smartphone-deliveries-amidst-intensifying-competition-industry-insights/"><u>Tech Update: Samsung Surpasses Apple's Smartphone Deliveries Amidst Intensifying Competition - Industry Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-best-phones-for-kids-zdnet/"><u>The Best Phones for Kids | ZDNET.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-revolutionary-addition-of-offline-satellite-messaging-on-android-devices-starts-with-google-pixel-nine-tech-insights/"><u>The Revolutionary Addition of Offline Satellite Messaging on Android Devices Starts with Google Pixel Nine | Tech Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-accessories-thoroughly-evaluated-by-tech-experts-zdnet/"><u>Top-Rated Apple Watch Accessories : Thoroughly Evaluated by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-the-power-of-siri-on-your-iphone-using-secret-voice-triggers-the-ultimate-guide/"><u>Unleash the Power of Siri on Your iPhone Using Secret Voice Triggers - The Ultimate Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-top-5-cutting-edge-features-of-iphone-16-pro-that-technology-buffs-cant-resist/"><u>Unveiling the Top 5 Cutting-Edge Features of iPhone 16 Pro That Technology Buffs Can't Resist</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-universalaccess-tv-diverse-channels-with-a-local-twist/"><u>[New] 2024 Approved UniversalAccess TV Diverse Channels with a Local Twist</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-iphone-photo-burst-how-to-take-burst-images/"><u>[New] IPhone Photo Burst How to Take Burst Images</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-channel-expansion-at-wallet-friendly-costs/"><u>[Updated] In 2024, Channel Expansion at Wallet-Friendly Costs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-preserving-the-past-in-motion-photo-to-video-transition-for-2024/"><u>[Updated] Preserving the Past in Motion Photo to Video Transition for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cryptos-and-chatbots-top-5-collaboration-benefits/"><u>Cryptos and Chatbots: Top 5 Collaboration Benefits</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-futuristic-lenovo-thinkpad-x1-a-flawed-marvel-in-portability/"><u>Evaluating the Futuristic Lenovo ThinkPad X1: A Flawed Marvel in Portability</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-ai-and-the-looming-cybersecurity-crisis/"><u>Generative AI and the Looming Cybersecurity Crisis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-your-hands-on-discounted-apple-watch-se-this-memorial-day-for-just-60-less-top-tech-pick-of-2nt/"><u>Get Your Hands on Discounted Apple Watch SE This Memorial Day for Just $60 Less | Top Tech Pick of 2N't</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/grok-ai-deciphering-its-meaning-functionality-and-cost-with-elon-musk/"><u>Grok AI: Deciphering Its Meaning, Functionality & Cost with Elon Musk</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/listen-to-why-audible-trials-are-a-smart-investment/"><u>Listen to Why Audible Trials Are a Smart Investment</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/maximizing-reach-and-engagement-in-igtv-content-strategy-for-2024/"><u>Maximizing Reach and Engagement in IGTV Content Strategy for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ssional-recordings-at-home-10-key-strategies-for-excellence-for-2024/"><u>Professional Recordings at Home 10 Key Strategies for Excellence for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quick-speak-quick-learn-top-10-simple-language-list/"><u>Quick Speak, Quick Learn: Top 10 Simple Language List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/set-up-a-zero-cost-windows-edition-of-chatgpt-replica/"><u>Set Up a Zero-Cost Windows Edition of ChatGPT Replica</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-smartphones-endorsed-experts-user-favorites-revealed/"><u>Top Smartphones Endorsed Experts - User Favorites Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/winchatgpt-separating-fact-from-fiction/"><u>WinChatGPT: Separating Fact From Fiction</u></a></li>
 </ul></div>
 

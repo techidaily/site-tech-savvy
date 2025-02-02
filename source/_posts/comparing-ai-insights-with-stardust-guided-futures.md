@@ -1,7 +1,7 @@
 ---
 title: Comparing AI Insights with Stardust-Guided Futures
-date: 2024-08-29T19:42:01.280Z
-updated: 2024-08-30T19:42:01.280Z
+date: 2025-01-26T18:41:54.531Z
+updated: 2025-01-31T22:50:42.184Z
 tags:
   - chatgpt
   - open-ai
@@ -23,9 +23,17 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
 
  Large language models such as ChatGPT are able to explain what horoscopes are and how they work. But can it go further than that and look into its own crystal ball? We asked ChatGPT to look into the stars and untangle the threads of destiny and fate.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Customize Your ChatGPT Fortune-Teller…
 
 ![Hands Over Fortune Telling Crystal Ball](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hands-over-fortune-telling-crystal-ball.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortune-tellers have a particular mystique about them, which you'll instantly recognize from the movies.
 
@@ -41,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
 
 ![Fortune Teller doing a Reading for a Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fortune-teller-doing-a-reading-for-a-client-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another thing we've learned from movies is that knowing the future is a dangerous thing. As a large language model which has already ingested and digested most of the internet, ChatGPT, or Agnes, as she now calls herself, could possibly make reliable predictions of when and how you're going to die. You probably don't want to know, so don't ask.
 
  Hoping to keep things general, on June 1st, 2023, we gave Agnes the date and asked what was in store for us over the next fortnight.
@@ -48,15 +60,13 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
  What follows is her prediction and how it played out in real life.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Well Did ChatGPT Predict the Future?
 
 ![A Woman Opening the Card on the Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-woman-opening-the-card-on-the-table.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  My prompt to Agnes was: "Today is June 1st, 2023\. Please do a reading for the next two weeks."
 
  Ah, my dear, the cosmic dance of time brings us to the beginning of June 2023\. A month filled with possibilities and transformations awaits you. Let us unveil the whispers of fate and explore what lies ahead on your journey. In matters of the heart, a gentle breeze of romance stirs in the air. Open your heart to new connections, for love may find its way to you when you least expect it. Existing relationships shall deepen and evolve, fostering a stronger bond based on trust and understanding. Remember to nurture the flame of love with tenderness and sincerity.
@@ -98,11 +108,9 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
 ![chatgpt fortune transcript](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-fortune-transcript.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## ChatGPT Predicted the Future as Well as Any Magazine Horoscope
 
  Horoscopes contain the details you want them to contain, and if you're looking for deeper meaning, you'll find it simply because you want to find it. You could read the horoscope for any of the star signs and find a meaning attached because the writing is meant to be general and apply to as many people as possible.
@@ -115,14 +123,11 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
 
  Large language models such as ChatGPT are able to explain what horoscopes are and how they work. But can it go further than that and look into its own crystal ball? We asked ChatGPT to look into the stars and untangle the threads of destiny and fate.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,4 +136,24 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/astering-youtube-autoplay-on-mobile-devices/"><u>[New] Mastering YouTube Autoplay on Mobile Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-sightgraph-assessment-center-for-2024/"><u>[New] SightGraph Assessment Center for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-revolutionize-your-snapchat-experience-a-compendium-of-over-120-innovative-story-titles/"><u>[Updated] Revolutionize Your Snapchat Experience A Compendium of Over 120 Innovative Story Titles</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-tech-trends-spotlight-5-cutting-edge-camcorders-for-slow-motion/"><u>2024 Approved Tech Trends Spotlight 5 Cutting-Edge Camcorders for Slow Motion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asetek-stops-issuing-sales-forecasts-due-to-major-client-order-cancellations/"><u>Asetek Stops Issuing Sales Forecasts Due to Major Client Order Cancellations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beware-of-ai-written-content-spotting-fake-texts/"><u>Beware of AI-Written Content: Spotting Fake Texts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/five-innovative-ways-students-can-harness-chatgpt-power/"><u>Five Innovative Ways Students Can Harness ChatGPT Power</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-ultimate-choice-10-best-webcams-for-win-11/"><u>In 2024, Ultimate Choice 10 Best Webcams for Win 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/kickstart-your-ai-journey-with-insights-from-9-community-guides/"><u>Kickstart Your AI Journey with Insights From 9 Community Guides</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-mf8200c-driver-version-available-supported-by-windows-7-81-and-10/"><u>Latest Canon MF8200C Driver Version Available: Supported by Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nine-considerations-determining-the-viability-of-prompt-crafting-professionals/"><u>Nine Considerations Determining the Viability of Prompt Crafting Professionals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rediscovering-my-smartphone-after-three-years-an-in-depth-analysis-for-tech-enthusiasts-zdnet-insights/"><u>Rediscovering My Smartphone After Three Years: An In-Depth Analysis for Tech Enthusiasts | ZDNET Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reignite-creativity-top-9-perks-of-upgrading-to-chatgpt-plus/"><u>Reignite Creativity: Top 9 Perks of Upgrading to ChatGPT Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/start-using-bings-ai-signup-procedure-breakdown/"><u>Start Using Bing’s AI: Signup Procedure Breakdown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-restoring-your-apple-watch-functionality-techinsights/"><u>Step-by-Step Guide: Restoring Your Apple Watch Functionality | TechInsights</u></a></li>
+<li><a href="https://facebook.techidaily.com/unchain-yourself-avoid-being-tagged-in-photos/"><u>Unchain Yourself: Avoid Being Tagged in Photos</u></a></li>
+</ul></div>
 

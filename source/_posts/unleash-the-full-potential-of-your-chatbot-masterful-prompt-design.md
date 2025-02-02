@@ -1,7 +1,7 @@
 ---
 title: "Unleash The Full Potential Of Your ChatBot: Masterful Prompt Design"
-date: 2025-01-14T17:06:26.819Z
-updated: 2025-01-18T17:48:05.508Z
+date: 2025-01-31T02:47:39.650Z
+updated: 2025-01-31T19:26:50.908Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/97b0ddc570e6ff11d98aa739ad9094bf8b6916f3c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1. Prompts.Chat
 
 ![Prompts.Chat is a collection of the best ChatGPT prompts for myriad uses, which you can edit on the site for your specific query and then copy-paste into the AI tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-prompts-chat-advanced.jpg)
@@ -38,17 +42,9 @@ thumbnail: https://thmb.techidaily.com/97b0ddc570e6ff11d98aa739ad9094bf8b6916f3c
 
  Akin has also written a free (or pay-what-you-want) ebook for beginners called [The Art of ChatGPT Prompting](https://fka.gumroad.com/l/art-of-chatgpt-prompting) . It takes you step-by-step through the ChatGPT process of understanding what the AI does, why prompts are essential, and the principles of good PE. Akin also shares his "Act as…" hack for making ChatGPT behave the way you want without overloading it with too much information.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2. QuickRef ChatGPT Cheat Sheets
 
 ![QuickRef's ChatGPT cheat sheet offers free examples and templates of prompts for ChatGPT across various categories and uses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-quickref-cheat-sheets.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  QuickRef is a website with cheat sheets for different apps or programming languages, like Google Search, Sheets, Excel, JavaScript, Python, etc. These are added mainly by regular users from the community. The latest cheat sheet in its impressive lineup is ChatGPT, with a series of prompts and tips for the AI. You won't learn the process of PE here, but it's a good reference when you're stuck.
 
@@ -56,16 +52,12 @@ thumbnail: https://thmb.techidaily.com/97b0ddc570e6ff11d98aa739ad9094bf8b6916f3c
 
  Multiple words or phrases of each prompt are replaceable to customize it for your query. The must-fill parts are marked in brackets for you to replace the original text, while optional replacements are colored red or blue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3. Adrian Twarog
 
 ![Adrian Twarog's "Ultimate ChatGPT Resource Guide" is the best free series of YouTube lessons to learn how to write ChatGPT prompts and then use it in advanced applications, or even to make your own ChatGPT clone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-adrian-twarog.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  YouTuber Adrian Twarog has quite a following for his how-to and tutorial videos on myriad topics like web development, apps, and AI. He deep-dived into the system and has already made videos on creating a ChatGPT clone or making your Discord bot with the OpenAI models. Naturally, this requires understanding the core principles of how ChatGPT works, and he's imparting all that knowledge in a series of YouTube videos.
@@ -84,12 +76,16 @@ thumbnail: https://thmb.techidaily.com/97b0ddc570e6ff11d98aa739ad9094bf8b6916f3c
 
  Micah's larger [How to Use ChatGPT playlist](https://www.youtube.com/playlist?list=PLRc1YiX2Z0mpeXlmv6n7ZsVPVn-2etOua) has several other real-world applications for ChatGPT. For example, you'll learn how to write a 5-page essay in 10 minutes with AI or make your superhero comic with ChatGPT and Midjourney, one of the [best free AI text-to-art generators](https://www.makeuseof.com/ai-text-to-art-generators/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5. Learn Prompting
 
 ![Learn Prompting is a free online course for beginner, intermediate, or advanced AI users to learn all aspects of prompt engineering](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-learn-prompting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Learn Prompting is a free online course to understand how to write prompts for any AI app, not just ChatGPT. Sander Schulhoff, a computer science student at the University of Maryland, designed it. It caters to a range of users, from complete novices to those with domain expertise or programming knowledge.
@@ -97,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/97b0ddc570e6ff11d98aa739ad9094bf8b6916f3c
  The course is entirely text-based, with chapters that take you through different aspects of AI prompting. Schulhoff defines PE as "How to talk to AI to get it to do what you want." The Basics and Intermediate chapters will take you through the founding principles of PE with theory, tricks and tips, and examples.
 
  The course then goes into advanced practices like applied prompting (contributed by users), fine-tuning, images, and more, where you'll learn techniques like Chain of Thought, Self Consistency, etc. It might sound like a lot of jargon, but it'll be clear and easy to understand if you go through the course step-by-step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Start Learning ChatGPT With a Personal Project
 
@@ -117,20 +117,19 @@ thumbnail: https://thmb.techidaily.com/97b0ddc570e6ff11d98aa739ad9094bf8b6916f3c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-channel-specific-audio-excellence-top-156-character-titles-for-yt-sound-solutions/"><u>[New] 2024 Approved Channel-Specific Audio Excellence Top 156 Character Titles For YT Sound Solutions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-ten-best-practices-for-meme-creation/"><u>[New] 2024 Approved Ten Best Practices for Meme Creation</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-resolving-fps-confusion-30vs60-for-high-quality-recordings/"><u>[Updated] 2024 Approved Resolving FPS Confusion 30Vs.60 For High-Quality Recordings</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-top-10-independent-android-games-for-non-networked-natives/"><u>[Updated] 2024 Approved Top 10 Independent Android Games for Non-Networked Natives</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-duality-in-display-rotating-videos-on-instagram-one-click-at-a-time/"><u>[Updated] In 2024, Duality in Display Rotating Videos on Instagram, One Click at a Time</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wmvflac-movavi/"><u>即時無限制地將WMV影片轉換為FLAC - 利用Movavi編碼器進行高效轉換</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/action-camera-showdown-gopro-hero-black-meets-yi-4k-update/"><u>Action Camera Showdown GoPro Hero Black Meets Yi 4K Update</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/como-convertir-facilmente-mpe-a-m4a-sin-costo-la-guia-definitiva-para-cambiar-tus-archivos-gratis-online/"><u>Cómo Convertir Fácilmente MPE a M4A Sin Costo: La Guía Definitiva Para Cambiar Tus Archivos Gratis Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/convertir-des-fichiers-vob-en-multiples-formats-video-y-compris-mp4-et-mkv-avec-movavi/"><u>Convertir Des Fichiers VOB en Multiples Formats Vidéo, Y Compris MP4 Et MKV Avec Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratuit-gebaseerd-converter-tga-naar-jpeg-image-file-konvertieeren-via-web/"><u>Gratuit Gebaseerd Converter: TGA Naar JPEG Image File Konvertieeren Via Web</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-se-2022-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your Apple iPhone SE (2022)?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keyboard-command-proficiency-a-guide-to-windows-narrator/"><u>Keyboard Command Proficiency: A Guide to Windows Narrator</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-the-11-leading-applications-for-photoshop-skin-imperfections-discovered-by-movavi/"><u>Ultimate Guide: The 11 Leading Applications for Photoshop Skin Imperfections - Discovered by Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-the-secrets-of-cr2-images-comprehensive-guide-on-opening-and-managing-camera-raw-formats/"><u>Unlocking the Secrets of CR2 Images: Comprehensive Guide on Opening and Managing Camera Raw Formats</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-hardware-secrets-through-toms-analysis/"><u>Unveiling the Best Hardware Secrets Through Tom's Analysis</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-digital-cash-kings-leading-youtube-creators/"><u>[Updated] 2024 Approved Digital Cash Kings Leading YouTube Creators</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-masterclass-in-live-streaming-integrating-dslr-into-your-digital-space/"><u>[Updated] Masterclass in Live Streaming Integrating DSLR Into Your Digital Space</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-virtual-worlds-with-samsung-gear-vr-games/"><u>2024 Approved Exploring Virtual Worlds with Samsung Gear VR Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deconstructing-the-free-to-use-narrative-surrounding-the-internet-as-an-educational-resource-platform/"><u>Deconstructing the 'Free-to-Use' Narrative Surrounding the Internet as an Educational Resource Platform</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-non-hdcp-compatible-monitors-solutions-explored/"><u>Fixing Non-HDCP Compatible Monitors: Solutions Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-proofing-your-privacy-apples-enhanced-protection-of-imessage-security-insights/"><u>Future-Proofing Your Privacy: Apple's Enhanced Protection of iMessage Security - Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-x100-lock-screen-password-by-drfone-android/"><u>How To Change Vivo X100 Lock Screen Password?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-crafting-captivating-presentations-via-chatgpt/"><u>Leveraging AI: Crafting Captivating Presentations via ChatGPT</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/optimizing-igtv-videos-editing-strategies/"><u>Optimizing IGTV Videos Editing Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/targeted-ads-spreading-awareness-in-the-medical-sphere/"><u>Targeted Ads Spreading Awareness in the Medical Sphere</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-5-best-ways-to-use-chatgpt-custom-instructions/"><u>The 5 Best Ways to Use ChatGPT Custom Instructions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-4-kid-friendly-ipad-models-your-comprehensive-guide-zdnet/"><u>Top 4 Kid-Friendly iPad Models : Your Comprehensive Guide (ZDNet)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-strategies-for-effortlessly-adding-tunes-to-your-powerpoint-presentations/"><u>Top Strategies for Effortlessly Adding Tunes to Your PowerPoint Presentations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-generative-ai-understanding-its-essence/"><u>Unveiling Generative AI: Understanding Its Essence</u></a></li>
 </ul></div>
 

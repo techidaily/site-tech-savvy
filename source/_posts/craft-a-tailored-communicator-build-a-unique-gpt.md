@@ -1,7 +1,7 @@
 ---
 title: "Craft a Tailored Communicator: Build a Unique GPT"
-date: 2024-08-25T17:38:27.536Z
-updated: 2024-08-26T17:38:27.536Z
+date: 2025-01-27T12:50:03.176Z
+updated: 2025-02-01T09:05:25.012Z
 tags:
   - chatgpt
   - open-ai
@@ -45,22 +45,20 @@ thumbnail: https://thmb.techidaily.com/f0d0c2a077419838d019249854e895427fabffcba
 * **Download:**[Git](https://git-scm.com/downloads) (Free)
 * **Download:**[Microsoft Visual Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Python3 and Microsoft C++ Installation Notes
 
  When installing Python3, make sure that you tick the **Add python.exe to PATH** option before clicking **Install Now**. This is important as it allows you to access Python in any directory on your computer.
 
 ![Adding Python to PATH](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/1-download-python.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When Installing Microsoft C++, you'll want to install **Microsoft Visual Studio Build Tools** first. Once installed, you can tick the **Desktop development with C++** option and click **Install** with all the optional tools automatically ticked on the right sidebar.
 
 ![Installing Microsoft C++ through Build Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-install-c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Now that you have installed the latest versions of Python3, Git, and Microsoft C++, you can download the Python script to easily query custom local data.
 
 **Download:** [ChatGPT-retrieval script](https://github.com/techleadhd/chatgpt-retrieval) (Free)
@@ -70,13 +68,11 @@ thumbnail: https://thmb.techidaily.com/f0d0c2a077419838d019249854e895427fabffcba
 ![Downloading Python script on GitHub](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-download-script.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once downloaded, we can now set up a local environment.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 2: Set Up the Local Environment
 
  To set up the environment, you'll need to open a terminal in the chatgpt-retrieval-main folder you downloaded. To do that, open **chatgpt-retrieval-main** folder, right-click, and select **Open in Terminal**.
@@ -107,9 +103,6 @@ pip install langchain openai chromadb tiktoken unstructured
 
 ![Adding custom data for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-data.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  As you can see from the screenshot above, I've added a text file containing a made-up personal schedule, an article I wrote on [AMD's Instinct Accelerators](https://www.makeuseof.com/what-are-amd-instinct-ai-accelerators/), and a PDF document.
 
 ## Step 4: Querying ChatGPT Through Terminal
@@ -126,15 +119,24 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 
 ![Testing ChatGPT with custom data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/visit.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It worked! This means ChatGPT was able to read the Personal Sched.txt provided earlier. Now let's see if we have successfully fed ChatGPT with information it does not know due to its knowledge cutoff date.
 
 ![Asking custom ChatGPT about topic outside knowledge cut off data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/m250x.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, it correctly described the AMD Instinct MI250x, which was released after ChatGPT -3's knowledge cutoff date.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Limitations of Custom ChatGPT
 
  Although feeding GPT-3.5 with custom data opens more ways to apply and use the LLM, there are a few drawbacks and limitations.
@@ -146,8 +148,9 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
  Lastly, the only model currently available is GPT-3.5 Turbo. So even if you have access to GPT-4, you won't be able to use it to power your custom ChatGPT instance.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Custom ChatGPT Is Awesome But Limited
 
  Providing custom data to ChatGPT is a powerful way to get more out of the model. Through this method, you can feed the model with any text data you want and prompt it just like regular ChatGPT, albeit with some limitations. However, this will change in the future as it becomes easier to integrate our data with the LLM, along with access to the latest GPT-4 model.
@@ -156,14 +159,11 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 
  As a workaround, we can use OpenAI's API and LangChain to provide ChatGPT with custom data and updated info past 2021 to create a custom ChatGPT instance.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -172,4 +172,24 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-globalscreen-top-ranked-local-and-live-tv-streams/"><u>[New] 2024 Approved GlobalScreen Top-Ranked Local & Live TV Streams</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1122848-9781136183218-alchemy-in-europe/"><u>Alchemy in Europe | Free Book</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/customize-user-journeys-using-advanced-cookiebot-features/"><u>Customize User Journeys Using Advanced Cookiebot Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-most-advanced-mp3-players-reviewed-by-tech-gurus-at-zdnet/"><u>Discover the Most Advanced MP3 Players , Reviewed by Tech Gurus at ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fast-track-to-adventure-scout-these-7-free-ai-travel-helpers/"><u>Fast Track to Adventure: Scout These 7 FREE AI Travel Helpers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apples-hidden-ipad-pro-sale-makes-this-prime-day-historic-exclusive-analysis/"><u>How Apple's Hidden iPad Pro Sale Makes This Prime Day Historic - Exclusive Analysis</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-se-2022-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-rca-video-doorbells-performance-and-features/"><u>In-Depth Analysis: RCA Video Doorbell's Performance and Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/jumpstart-gpt-capabilities-best-9-plugin-guide-revealed/"><u>Jumpstart GPT Capabilities – Best 9 Plugin Guide Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-malfunctioning-huion-pen-fast-and-easy-fixes/"><u>Revive Your Malfunctioning Huion Pen: Fast and Easy Fixes!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sculpting-light-and-shadow-the-photoshop-hdr-way-for-2024/"><u>Sculpting Light and Shadow The Photoshop HDR Way for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-handiwork-horizon-introducing-gpt-4/"><u>The Handiwork Horizon: Introducing GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-five-artificial-intelligence-solutions-propelning-modern-commerce/"><u>Top Five Artificial Intelligence Solutions Propelning Modern Commerce</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-deal-on-macbook-air-with-m1-chip-at-just-649-find-it-now/"><u>Unbeatable Deal on MacBook Air with M1 Chip at Just $649 - Find It Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-global-gpt-universal-chatgpt-connectivity/"><u>Unlocking Global GPT: Universal ChatGPT Connectivity</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/visual-virtuosity-unleashed-professional-tips-to-elevate-your-photos-for-2024/"><u>Visual Virtuosity Unleashed Professional Tips to Elevate Your Photos for 2024</u></a></li>
+</ul></div>
 

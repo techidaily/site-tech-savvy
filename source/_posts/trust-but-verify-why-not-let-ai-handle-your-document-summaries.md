@@ -1,7 +1,7 @@
 ---
 title: "Trust, but Verify: Why Not Let AI Handle Your Document Summaries?"
-date: 2024-08-29T19:40:56.856Z
-updated: 2024-08-30T19:40:56.856Z
+date: 2025-01-27T02:25:54.727Z
+updated: 2025-02-01T11:05:44.843Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
  There are limits to what ChatGPT knows. And its programming forces it to deliver what you ask for, even if the result is wrong. This means ChatGPT makes mistakes, and moreover, there are some common mistakes it makes, especially when it’s summarizing information and you’re not paying attention.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT Can Ignore or Misunderstand Your Prompt
 
  If you give the chatbot lots of data to sort through, even a complex prompt, it’s likely to deviate from your instructions and follow its own interpretation of them.
@@ -49,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
 ![ChatGPT Breaking Down Information as Instructed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-breaking-down-information-as-instructed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This is why you should keep your instructions precise, provide context when necessary, and keep an eye on ChatGPT’s results. If you flag up any mistake immediately, the chatbot can produce something more accurate.
 
 ## ChatGPT Can Omit Information You Provide
@@ -69,13 +70,15 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 ![ChatGPT Omitting Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-omitting-information.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If left to its own devices, there’s no guarantee that ChatGPT will use the details you expect. So, plan and phrase your prompts carefully to ensure the chatbot’s summary is spot on.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Can Use Wrong or False Alternatives
 
  OpenAI has updated GPT-4o with data available up to October 2023, while GPT-4 Turbo's cut-off is December of the same year. However, the algorithm’s knowledge isn’t infinite or reliable with real-time facts—it doesn’t know everything about the world. Furthermore, it won’t always reveal that it lacks data on a particular subject unless you ask it directly.
@@ -88,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
  Company names, books, awards, research links, and other elements can disappear or be altered in the chatbot’s summary. To avoid major mistakes, be aware of [ChatGPT’s content creation limits](https://www.makeuseof.com/mistakes-to-avoid-using-chatgpt-content-creation/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## ChatGPT Can Get Facts Wrong
 
  It’s important to learn all you can about [how to avoid mistakes with generative AI tools](https://www.makeuseof.com/mistakes-generative-ai-tools/) . As the example above demonstrates, one of the biggest problems with ChatGPT is that it lacks certain facts or has learned them wrong. This can then affect any text it produces.
@@ -106,15 +106,15 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 ![ChatGPT Explaining a TikTok Trend Wrong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-explaining-a-tiktok-trend-wrong.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The best solution is to not blindly trust AI chatbots with your text. Even if ChatGPT compiled information you provided yourself, make sure you edit everything it produces, check its descriptions and claims, and make a note of any facts it gets wrong. Then, you’ll know how to structure your prompts for the best results.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Can Get Word or Character Limits Wrong
 
  As much as [OpenAI enhances ChatGPT with new features](https://www.makeuseof.com/chatgpt-new-features-spring-update/) , it still seems to struggle with basic instructions, such as sticking to a specific word or character limit.
@@ -137,8 +137,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +144,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-transform-hidden-facebook-videos-with-these-12-must-try-steps/"><u>[New] 2024 Approved Transform Hidden Facebook Videos with These 12 Must-Try Steps</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-how-to-profit-on-tiktok-the-8-essential-steps-you-need/"><u>[New] In 2024, How to Profit on TikTok The 8 Essential Steps You Need</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastering-igtv-followers-essential-techniques-to-grow-your-audience/"><u>[New] In 2024, Mastering IGTV Followers Essential Techniques to Grow Your Audience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-use-a-tripod-for-vlogging/"><u>[Updated] In 2024, How To Use a Tripod for Vlogging</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-obs-meets-shadowcast/"><u>[Updated] OBS Meets ShadowCast</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-simplifying-the-process-of-deleting-youtube-files/"><u>[Updated] Simplifying the Process of Deleting YouTube Files</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-harnessing-digital-artistry-top-6-nft-makers-reviewed/"><u>2024 Approved Harnessing Digital Artistry - Top 6 NFT Makers Reviewed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/acquiring-fcp-for-zip-legal-strategies-explained-for-2024/"><u>Acquiring FCP for Zip Legal Strategies Explained for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anticipated-innovations-in-visionos-the-ultimate-list-of-features-we-yearn-for-at-apples-upcoming-wwdc-event-tech-insights-by-zdnet/"><u>Anticipated Innovations in VisionOS: The Ultimate List of Features We Yearn for at Apple’s Upcoming WWDC Event | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-simplified-empowering-creative-intelligence/"><u>ChatGPT Simplified: Empowering Creative Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/determining-cgps-fidelity-in-health-claims/"><u>Determining CGP's Fidelity in Health Claims</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-productivity-write-automated/"><u>Enhance Productivity: Write Automated</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-visionaries-of-marvellous-marvel-realities/"><u>In 2024, Visionaries of Marvellous Marvel Realities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/llama-2-the-key-to-streamlined-processes-and-productivity/"><u>Llama 2: The Key to Streamlined Processes and Productivity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-days-finest-discover-the-top-36-apple-products-at-exceptional-discounts/"><u>Prime Day's Finest: Discover the Top 36 Apple Products at Exceptional Discounts!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/secure-the-newest-geforce-gpu-drivers-designed-for-seamless-integration-with-windows-11-and-10/"><u>Secure the Newest GeForce GPU Drivers Designed for Seamless Integration with Windows 11 and 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-generation-of-bots-chatgpt-plus-launch-at-us-20-monthly/"><u>The Next Generation of Bots: ChatGPT Plus Launch at US ($20 Monthly)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-the-usechatgpt-copilot-extension-and-what-can-it-do/"><u>What Is the UseChatGPT Copilot Extension and What Can It Do?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-i-prefer-my-apple-watch-series-7-over-the-upcoming-series-10-insights-from-tech-guru-on-zdnet/"><u>Why I Prefer My Apple Watch Series 7 Over the Upcoming Series 10 - Insights From Tech Guru on ZDNet</u></a></li>
+</ul></div>
 

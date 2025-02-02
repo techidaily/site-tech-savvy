@@ -1,7 +1,7 @@
 ---
 title: How iOS 18 Upgrade Enhances iPhone 14 Productivity for Content Makers – ZDNET Exclusive
-date: 2025-01-13T16:07:47.055Z
-updated: 2025-01-18T16:47:41.904Z
+date: 2025-01-27T04:33:37.739Z
+updated: 2025-01-31T17:04:16.467Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ As someone who is not nearly an influencer but loves to use their imagination, I
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Video scroll bar and playback options
@@ -63,7 +63,7 @@ When you do find the perfect take, the editing menu now allows an option to slow
 When viewing videos, the scroll bar automatically pops up. To access the playback options, select edit and then the clock icon at the top right corner. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Customizable layout with 'Recent Days'
@@ -83,7 +83,7 @@ For example, during the Apple launch, my phone was essentially exploding with co
 With customization, you can keep this collection at the top of your feed, or any other categories that would help you stay the most organized. Now I can pull content from a certain day without having to scroll all the way back, and hopefully it does the same for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Filter button
@@ -101,7 +101,7 @@ To narrow content more, you can also filter to favorites, previously edited cont
 And just with one slide up, it resets the filters. If you add the ability to organize your photos app to your liking, your photos app becomes so much more efficient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Honorable mentions
@@ -112,7 +112,7 @@ And just with one slide up, it resets the filters. If you add the ability to org
 * A 'recovered' album in Utilities recovers corrupted images that were previously not visible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhones are compatible with iOS 18?
@@ -175,17 +175,17 @@ And just with one slide up, it resets the filters. If you add the ability to org
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-catchy-captions-the-ultimate-guide-to-animated-text-on-ig/"><u>[New] Catchy Captions The Ultimate Guide to Animated Text on IG</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-drafting-an-exciting-cinema-flashbacks-series/"><u>[New] In 2024, Drafting an Exciting Cinema Flashbacks Series</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-practical-ways-to-preserve-your-instagram-stories/"><u>[New] Practical Ways to Preserve Your Instagram Stories</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-video-conference-to-youtube-broadcast-google-meet-explained/"><u>[Updated] In 2024, From Video Conference to Youtube Broadcast Google Meet Explained</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-unveiling-snapchat-video-feeds-from-twitter/"><u>2024 Approved Unveiling Snapchat Video Feeds From Twitter</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mkvm2ts-movavi/"><u>免費線上改制 MKV為M2TS - 便利版 Movavi 媒體格式工具</u></a></li>
-<li><a href="https://common-error.techidaily.com/combat-connectivity-problems-4-easy-remedies-for-a-non-responsive-dns/"><u>Combat Connectivity Problems: 4 Easy Remedies for a Non-Responsive DNS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/des-logiciels-gratuit-de-retouche-photographie-et-effets-visuels-ultimes-les-meilleures-options/"><u>Des Logiciels Gratuit De Retouche Photographie Et Effets Visuels Ultimes - Les Meilleures Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-wmv-to-mp4-converter-by-movavi-quick-and-effortless-video-format-change/"><u>Free Online WMV to MP4 Converter by Movavi: Quick and Effortless Video Format Change</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-astrological-flair-crafting-bios-for-each-zodiac-house/"><u>In 2024, Astrological Flair Crafting Bios for Each Zodiac House</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-y56-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo Y56 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transcodage-gratuit-de-fichiers-flv-vers-aiff-en-ligne-avec-movavi-guide-complet/"><u>Transcodage Gratuit De Fichiers FLV Vers AIFF en Ligne Avec Movavi - Guide Complet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cutting-edge-8-content-creators-skyrocketing-growth-for-2024/"><u>[New] Cutting-Edge 8 Content Creators Skyrocketing Growth for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastering-screen-capture-expert-take-on-showmore-software/"><u>[New] In 2024, Mastering Screen Capture Expert Take on ShowMore Software</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-crafting-captivating-youtube-thumbnails-on-smartphones/"><u>[Updated] 2024 Approved Crafting Captivating YouTube Thumbnails on Smartphones</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-videos-unleashed-with-new-mobile-app-for-2024/"><u>[Updated] FB Videos Unleashed with New Mobile App for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expert-advice-on-optimal-live-cricket-broadcast-watching/"><u>Expert Advice on Optimal Live Cricket Broadcast Watching</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-a-better-world-with-chatgpts-revolutionary-enhancements/"><u>Explore a Better World with ChatGPT's Revolutionary Enhancements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ai-creation-with-dall-e-in-gpt-4-environments/"><u>Exploring AI Creation with DALL-E in GPT-4 Environments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gotrax-gxl-v2-commuting-electric-scooter-review/"><u>GOTRAX GXL V2 Commuting Electric Scooter Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-gpt-3-android-and-ios-integration/"><u>Navigating GPT-3: Android & iOS Integration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/precision-in-online-viewing-a-zoomers-handbook-for-2024/"><u>Precision in Online Viewing A Zoomer's Handbook for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/restore-optional-features-on-windows-os-with-ease/"><u>Restore Optional Features on Windows OS with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-tech-news-samsung-grows-galaxy-ai-presence-as-it-climbs-google-antitrust-case-rankings/"><u>Top Tech News: Samsung Grows Galaxy AI Presence as It Climbs Google Antitrust Case Rankings</u></a></li>
 </ul></div>
 

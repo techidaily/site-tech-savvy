@@ -1,7 +1,7 @@
 ---
 title: Demystifying ChatGPT Capabilities
-date: 2024-08-25T17:37:39.949Z
-updated: 2024-08-26T17:37:39.949Z
+date: 2025-01-30T19:03:59.602Z
+updated: 2025-01-31T22:35:59.034Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 
  Want to learn how to use ChatGPT? We've got you covered.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is ChatGPT?
 
 ![Home page of ChatGPT website october 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/home-page-of-chatgpt-website-october-2023.jpg)
@@ -47,14 +51,15 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 
  Far from being perfect, [there are many problems facing ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), from confidently stating wrong facts to being a weapon for disinformation. Make sure to [protect your privacy when using ChatGPT for work](https://www.makeuseof.com/protect-privacy-using-chatgpt-for-work/), and never include personal information.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Create a ChatGPT Account
 
  To access ChatGPT, you will need to create an account on the [OpenAI website](https://chat.openai.com/auth/login). It will ask you for an email and phone number, plus the main reason you want to use OpenAI, whether for research, app development, or personal use. Once signed up, head back to [ChatGPT](https://chat.openai.com/chat) to get started, and log in to your ChatGPT account.
 
  You can also use your OpenAI account to [generate images from text using DALL-E](https://www.makeuseof.com/how-to-use-dall-e-2/), another AI model developed by OpenAI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use ChatGPT
 
@@ -71,8 +76,9 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 ![Asking ChatGPT to summarize a response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/asking-chatgpt-to-summarize-a-response.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Ask ChatGPT
 
 ![Asking ChatGPT for a few iconic places to visit in NYC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/asking-chatgpt-for-a-few-iconic-places-to-visit-in-nyc.jpg)
@@ -98,31 +104,23 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 ![ChatGPT has been downloaded in the AppStore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096283_y.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![text box and microphone icon in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096282_y.jpg)
 
 ![Sound being converted to text in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096281_y.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![A response in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096280_y.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 Close
 
  Make sure to try out the speech-to-text option, which lets you use the microphone to ask your question out loud instead of typing. This adds another layer of ease and accessibility, which we enjoy.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Browsing the Internet With ChatGPT
 
 ![chatgpt with internet access october 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/chatgpt-with-internet-access-october-2023.jpg)
@@ -133,6 +131,10 @@ No advertising on the website.
 
  Avoid using ChatGPT for medical advice, and don't ask it for investment tips. It is, after all, simply an AI chatbot and not a doctor or an oracle.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is There Anything ChatGPT Can't Do?
 
  An ongoing area of development is making sure that ChatGPT doesn't cause harm, including things like hate speech, giving instructions for illegal activities, and producing fake information.
@@ -141,9 +143,6 @@ No advertising on the website.
 
 ![Asking ChatGPT how to bully someone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/asking-chatgpt-how-to-bully-someone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This moderation isn't perfect, and people are finding ways to get around the restrictions all the time. But in the spirit of helping to create a safe AI chatbot, feel free to use the thumbs up/thumbs down buttons to provide feedback and help steer the model in the right direction.
 
  A text box will appear asking you to explain the issues, alongside a few check boxes asking whether the answer was harmful/unsafe, not true, or not helpful.
@@ -151,8 +150,9 @@ No advertising on the website.
 ![ChatGPT provide feedback text box for negative response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-provide-feedback-text-box-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Entering a New Era of AI Chatbots
 
  ChatGPT is a fascinating AI tool that can answer burning questions, explain tricky concepts, or brainstorm creative ideas—just to name a few uses. The ability to ask follow-up questions means you can get to the information you are looking for much faster than crawling through the internet.
@@ -165,14 +165,11 @@ No advertising on the website.
 
  Want to learn how to use ChatGPT? We've got you covered.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -181,4 +178,23 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-mighty-thor-returns-odins-vow-for-2024/"><u>[Updated] Mighty Thor Returns Odin’s Vow for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-infused-strategies-for-hr-operations/"><u>AI-Infused Strategies for HR Operations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-blueprint-for-stress-management/"><u>ChatGPT's Blueprint for Stress Management</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-dharma-harnessing-ai-to-enhance-meditation-habits/"><u>Digital Dharma: Harnessing AI to Enhance Meditation Habits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/four-easy-and-powerful-techniques-to-transform-dv-files-into-mp4-format/"><u>Four Easy & Powerful Techniques to Transform DV Files Into MP4 Format</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gain-early-insight-into-quest-3-enhancements-activate-metas-test-feed-following-our-step-by-step-guide-zdnet/"><u>Gain Early Insight Into Quest 3 Enhancements: Activate Meta's Test Feed Following Our Step-by-Step Guide | ZDNET</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From Apple iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 12 3 Ways To Unlock</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/htful-analysis-the-impact-and-mechanics-of-youtubes-shorts-fund-for-2024/"><u>Insightful Analysis The Impact and Mechanics of YouTube's Shorts Fund for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-machines-at-the-workforce-crossroads/"><u>Intelligent Machines at the Workforce Crossroads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-ipados-and-macos-integrate-apples-collaboration-with-openai-to-power-chatgpt-experience/"><u>IOS, iPadOS & macOS Integrate Apple's Collaboration with OpenAI to Power ChatGPT Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/professional-writers-meet-your-new-ai-allies/"><u>Professional Writers, Meet Your New AI Allies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-phasmophobia-software-glitches-updates-and-patches/"><u>Resolving Phasmophobia Software Glitches: Updates & Patches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-assassins-creed-odyssey-stuttering-issues-in-pc-gaming/"><u>Solve Assassin's Creed Odyssey Stuttering Issues in PC Gaming</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/step-by-step-solutions-for-overcoming-error-code-80072efe-on-windows-7/"><u>Step-by-Step Solutions for Overcoming Error Code 80072EFE on Windows 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-attraction-to-chatgpt-for-hacking/"><u>Understanding the Attraction to ChatGPT for Hacking</u></a></li>
+</ul></div>
 

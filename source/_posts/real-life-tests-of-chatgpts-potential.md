@@ -1,7 +1,7 @@
 ---
 title: Real-Life Tests of ChatGPT's Potential
-date: 2024-08-29T19:42:18.075Z
-updated: 2024-08-30T19:42:18.075Z
+date: 2025-01-24T16:02:56.468Z
+updated: 2025-01-31T17:16:18.206Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/d004e321571f8d51a2ae9f7a4b7153fccec7b768f
 
  People in multiple industries have been using ChatGPT to improve their workflows and seek inspiration. If you're interested in finding out how the software is being used, you're in the right place; that's precisely what we'll discuss today.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Scripting YouTube Videos
 
 ![person holding smartphone displaying youtube logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/speeds.jpg)
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/d004e321571f8d51a2ae9f7a4b7153fccec7b768f
 
 ![An idea symbol (lightbulb) linked to post it notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/lightbulb-with-post-its.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Even if you're required to come up with creative ideas each day, you're not always going to be able to think of new topics. You'll go through periods where you can't seem to think of anything—and if your job relies on you using your brain, this can get frustrating.
 
  You'll find creative inspiration in plenty of places online, such as by reading the latest news in your niche and checking out your favorite creators on social media. However, you can also use AI to generate new ideas that can lead you in the right direction.
@@ -44,15 +52,13 @@ thumbnail: https://thmb.techidaily.com/d004e321571f8d51a2ae9f7a4b7153fccec7b768f
  Many creators are using ChatGPT to brainstorm topic ideas. If you ask the tool to develop a list of topics, you'll probably find at least one or two that you think are worth exploring further. You can then do your own research and bring the content together in whatever form of media you'd prefer.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Social Media Bios
 
 ![Man holding phone with Instagram on it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/man-holding-phone-with-instagram-on-it.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Despite the problems that social media can cause, [having a presence on platforms like Twitter](https://www.makeuseof.com/how-to-make-twitter-profile-stand-out/) and Instagram can work in your favor. For example, you can demonstrate your expertise on a topic that you're passionate about—and potentially attract employment opportunities. Moreover, you can use social media to connect with an audience of like-minded people.
 
  Considering that social media bios typically aren't a lot of characters, it's easy to think of these as an afterthought. However, considering that you're fighting for attention with millions of other users, having something that instantly gives people an insight into who you are is crucial.
@@ -63,25 +69,16 @@ thumbnail: https://thmb.techidaily.com/d004e321571f8d51a2ae9f7a4b7153fccec7b768f
 
 ![Photo of numerous countries' flags](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/joshua-fuller-tida-geog-s-unsplash.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
  Learning a new language can open new doors, such as giving you the chance to make new friends and potentially gain employment in a new country. You'll find plenty of [language-learning apps, such as Duolingo and Babbel](https://www.makeuseof.com/babbel-vs-duolingo-complete-comparison/). Moreover, you can hone your skills by consuming videos, podcasts, and articles in your target language.
 
  Knowing the most common words and phrases is a good idea when you're first learning a new language. At the very least, you should find it easier to get around when you next visit that place. And if you use ChatGPT, you've got the opportunity to make progress toward your language-learning goals.
 
  Some users have asked ChatGPT for the most common words in their target language, and you can also ask the service how to translate certain words and phrases. On top of that, you might want to think about asking ChatGPT for a list of resources that you can add to your ecosystem.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Market Research
 
 ![Two Work Areas at Home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/two-work-areas-at-home.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  Whether you're an employee or a business owner, knowing what your customers want is crucial. Many companies make the mistake of spending a lot of time and energy creating products first, only to discover that nobody wants what they've made. However, market research can be challenging and time-consuming in equal measure.
 
  You'll find plenty of articles online about how ChatGPT can play a key role in the future of market research. And while the tool is still in its infancy, you can use it for several purposes. For example, you can ask what the pain points of your target audience would typically be.
@@ -89,22 +86,9 @@ thumbnail: https://thmb.techidaily.com/d004e321571f8d51a2ae9f7a4b7153fccec7b768f
  You can also use ChatGPT to look at what the people you want to sell to are currently interested in. While you should also use other forms of research—such as surveys—to get a clearer overall picture, ChatGPT can provide a good base level of information.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Finding the Answers to Questions
 
  For most of the 21st century, we've become accustomed to [using search engines like Google, Bing, and DuckDuckGo](https://www.makeuseof.com/google-vs-bing-vs-duckduckgo-ultimate-search-engine/) to find the answers to our questions. Whether ChatGPT replaces those websites is another question for another day, but some users have turned to the tool for simple search results.
@@ -112,6 +96,10 @@ Key features:
  You can ask ChatGPT about multiple topics, such as [how to become a freelancer](https://www.makeuseof.com/become-successful-freelancer-essential-skills/). At the time of writing, you won't—unlike tools like Google—receive news articles. However, you will get a list of points that should give you what you're looking for.
 
  If you need additional information, you can always turn to a search engine later.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Software Development
 
@@ -133,14 +121,11 @@ Key features:
 
  People in multiple industries have been using ChatGPT to improve their workflows and seek inspiration. If you're interested in finding out how the software is being used, you're in the right place; that's precisely what we'll discuss today.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,4 +134,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-ideal-choice-best-free-reliable-mac-screenshot-tools/"><u>[New] Ideal Choice Best Free, Reliable Mac Screenshot Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-playbook-for-exceptional-obs-studio-content/"><u>[New] The Ultimate Playbook for Exceptional OBS Studio Content</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-channel-building-gear-a-quick-start-guide/"><u>[Updated] Channel-Building Gear A Quick Start Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-explore-and-review-free-powerful-and-user-friendly-ios-edits-for-2024/"><u>[Updated] Explore & Review Free, Powerful, and User-Friendly iOS Edits for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-fuse-sounds-with-slides-a-guide-to-mp3-integration/"><u>[Updated] In 2024, Fuse Sounds with Slides A Guide to MP3 Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-creative-output-using-chatgpt-on-a-mac/"><u>Boost Your Creative Output: Using ChatGPT on a Mac</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/defrosting-your-pc-resolving-boot-problems-in-windows-nvida-10/"><u>Defrosting Your PC: Resolving Boot Problems in Windows Nvida 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-unexpectedly-captivating-features-of-apples-vision-pro-with-a-retail-expert/"><u>Discover the Unexpectedly Captivating Features of Apple's Vision Pro with a Retail Expert</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ditching-chatgpt-heres-what-to-try-next/"><u>Ditching ChatGPT? Here's What to Try Next</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-beats-latest-solo-buds-the-affordable-alternative-to-apples-airpods-under-100-tech-insights-by-zdnet/"><u>Introducing Beats' Latest Solo Buds: The Affordable Alternative to Apple's AirPods Under $100 - Tech Insights by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-15-evaluation-a-must-have-device-that-pros-and-novices-will-love-insights-from-zdnet/"><u>IPhone 15 Evaluation: A Must-Have Device That Pros and Novices Will Love - Insights From ZDNet</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-11f-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 11F 5G Phone FRP Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-ai-horizinas-explore-chatgpts-interpreter-for-6-use-cases/"><u>Navigating AI Horizinas: Explore ChatGPT's Interpreter for 6 Use-Cases</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-professional-edge-in-emails-leveraging-ai-for-clarity-and-precision/"><u>The Professional Edge in Emails: Leveraging AI for Clarity and Precision</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-top-9-ways-to-use-chatgpt-for-your-health/"><u>The Top 9 Ways to Use ChatGPT for Your Health</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210552709-touchpad-lag-or-no-response-heres-how-you-can-resolve-it/"><u>Touchpad Lag or No Response? Here's How You Can Resolve It!</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/transform-your-mkv-videos-to-wma-file-type-at-no-cost-quick-guide-by-movieconverters/"><u>Transform Your MKV Videos to WMA File Type at No Cost - Quick Guide by MovieConverters</u></a></li>
+</ul></div>
 

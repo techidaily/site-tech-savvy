@@ -1,7 +1,7 @@
 ---
 title: Windows Users' Ultimate Tutorial for Easy Python Installation
-date: 2024-08-29T19:38:20.887Z
-updated: 2024-08-30T19:38:20.887Z
+date: 2025-01-31T04:24:27.518Z
+updated: 2025-02-01T10:54:20.025Z
 tags:
   - deals
 categories:
@@ -26,22 +26,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Python doesn't come prepackaged with Windows, but that doesn't mean Windows users won't find the flexible programming language useful. It's not quite a simple as installing the newest version however, so let's make sure you get the right tools for the task at hand on Windows 10 or Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Python?
 
  First released in 1991, Python is a popular high-level programming language used for general purpose programming. Thanks to a design philosophy that emphasizes readability it has long been a favorite of hobby coders and serious programmers alike. Not only is it an easy language (comparatively speaking, that is) to pick up but you'll find thousands of projects online that require you have Python installed to use the program.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Which Python Version Should You Use?
 
  In general, you should just download and install the [latest version of Python](https://www.python.org/downloads/). You'll see a big banner at the top indicating the latest version of Python on the main download page. Click "Download Python 3.x.x."
 
 ![The latest download available for Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/07/Download-Python-at-the-top.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Unfortunately, there was a significant update to Python several years ago that created a big split between Python versions. This can make things a bit confusing to newcomers, but here is what you need to know.
 
  There were two versions of Python maintained concurrently for many years: Python 2 and Python 3\. Python 2 is officially deprecated. and [has been since 2020](https://www.python.org/doc/sunset-python-2/). You'll still find loads of older projects that use it scattered around the internet, though the overwhelming majority of new projects opt for Python 3 since it is still receiving updates.
@@ -52,13 +54,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Multiple Python versions are still available.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/07/2023-04-04_09h20_19.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can download just Python 2 or Python 3 if you're sure you only need a particular version. We're going to be showing you how to install the latest version of Python 3, however the installation process for Python 2 is basically the same.
 
  This installer will install the appropriate 32-bit or 64-bit version on your computer automatically (here's [some further reading](https://twitter-videos.techidaily.com/updated-snapchat-integration-for-twitters-visual-content/) if you want to know more about the differences between the two).
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Install Python 3
 
  First, download the latest [version of Python 3](https://www.python.org/downloads/windows/) if you haven't already, then run the executable.
@@ -69,9 +72,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Ensure &quot;Add Python to PATH&quot; is ticked, then click &quot;Install Now.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/07/Install-Python-3.11.2-to-path.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, you have a decision to make. Clicking the "Disable path length limit" option removes the limitation on the MAX\_PATH variable. This change won't break anything, but will allow Python to use long path names. Since many Python programmers are working in Linux and other \*nix systems where path name length isn't an issue, turning this on in advance can help smooth over any path-related issues you might have while working in Windows.
 
  We recommend go ahead and selecting this option. If you know you don't want to disable the path length limit, you can just click "Close" to finish the installation. And, if you want to read more about the issue before committing to the change, [read up here](https://youtube-zero.techidaily.com/nleash-hd-playback-with-av1-on-youtube/).
@@ -80,9 +80,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Enter &quot;python --version&quot; in Command Prompt, PowerShell, or Windows Terminal to verify that Python was correctly added to the path.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/07/2023-04-04_09h40_13.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If that doesn't work, you probably forgot to tick the box next to "Add Python.exe to PATH" during installation. No big deal—we'll show you how to add it manually in the next section.
 
 ##  Add Python to PATH Manually
@@ -93,13 +90,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Search for &quot;View Advanced System Settings&quot; in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/07/advanced-system-settings.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "Environment Variables," then select "Path" under User Variables and hit "Edit."
 
 ![Select &quot;Path,&quot; then click &quot;Edit.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/07/path-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  If Python is on your PATH, you should see two entries as shown in the image below. The first entry on our list—the scripts subfolder—adds pip to the PATH. [Pip is Python's built-in package manager](https://pip.pypa.io/en/stable/user%5Fguide/) and is essential if you want Python to work correctly.
 
  The second entry contains the actual Python executable, plus a few others that are important.
@@ -107,6 +105,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Pip is technically a recursive acronym for "**P**ip **I**nstalls **P**ackages." As weird as that might seem, recursive acronyms are pretty common in the computer world. [GNU](https://tiktok-video-recordings.techidaily.com/perfecting-your-digital-doppelganger-a-complete-guide-to-cloning-oneself-on-tiktok-for-2024/), ATI, [cURL](https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-mix-fold-3-frp-locks-by-drfone-android/), [Nano](https://sound-issues.techidaily.com/fixing-the-problem-of-a-non-functional-corsair-hs70-microphone-a-step-by-step-guide/), and [PHP](https://screen-mirror.techidaily.com/how-to-display-apple-iphone-6-screen-on-pc-easily-drfone-by-drfone-ios/) are all examples of recursive acronyms, too.
 
 ![The two paths that must exist for Python to function correctly.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/07/Python-on-PATH.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you don't have those, then Python wasn't added to your PATH, and you'll need to address that. Click "New," then enter the path to your Python installation. Typically, it is the C:\\Users\\(YourUserName)\\AppData\\Local\\Programs\\Python\\(PythonVersion)" folder, but it could be elsewhere if you changed the location during installation. Make sure to add the scripts subfolder too --- it provides important functionality.
 
@@ -136,8 +138,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +145,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-evaluating-top-screen-capture-software-which-is-superior-obs-or-fraps/"><u>[New] 2024 Approved Evaluating Top Screen Capture Software Which Is Superior, OBS or Fraps?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-leading-dialogue-composers-circle/"><u>[New] 2024 Approved Leading Dialogue Composer's Circle</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-professional-editing-techniques-for-obs-studio-success/"><u>[New] 2024 Approved Professional Editing Techniques for OBS Studio Success</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unlocking-asmrs-hidden-layers/"><u>[Updated] 2024 Approved Unlocking ASMR's Hidden Layers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-easy-techniques-perfect-your-idevice-screen-shots/"><u>[Updated] Easy Techniques Perfect Your iDevice Screen Shots</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-comprehensive-analysis-of-frozen-treat-screen-capture/"><u>2024 Approved Comprehensive Analysis of Frozen Treat Screen Capture</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-communication-to-mitigate-social-isolation/"><u>AI-Driven Communication to Mitigate Social Isolation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/android-ready-the-chatgpt-revolution/"><u>Android-Ready: The ChatGPT Revolution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-top-tier-tablets-face-off-selecting-the-perfect-ipad-pro-model-from-apples-flagship-lineup-expert-advice/"><u>Apple's Top-Tier Tablets Face-Off: Selecting the Perfect iPad Pro Model From Apple’s Flagship Lineup | Expert Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cut-the-clutter-organizing-chatgpt-exchanges-through-folders/"><u>Cut the Clutter: Organizing ChatGPT Exchanges Through Folders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elite-selection-of-cost-free-creative-tools/"><u>Elite Selection of Cost-Free Creative Tools</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-pop-7-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Tecno Pop 7 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-unified-event-tracking-harmonizing-phone-and-tablet-with-pc-zoom/"><u>In 2024, Unified Event Tracking Harmonizing Phone & Tablet with PC Zoom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-study-habits-five-key-uses-for-chatgpt-in-education/"><u>Revolutionizing Study Habits: Five Key Uses for ChatGPT in Education</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-document-digitization-how-chatgpt-reads-pdfs/"><u>Streamlining Document Digitization: How ChatGPT Reads PDFs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-bitter-truth-of-ai-dialogue-nine-problematic-aspects-of-gpt/"><u>The Bitter Truth of AI Dialogue: Nine Problematic Aspects of GPT</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques for Utilizing the 'Dig' Command on a Linux System
-date: 2024-08-29T19:37:25.916Z
-updated: 2024-08-30T19:37:25.916Z
+date: 2025-01-24T23:02:56.221Z
+updated: 2025-02-01T09:01:49.214Z
 tags:
   - desktop
 categories:
@@ -50,8 +50,9 @@ sudo pacman -Sy bind-tools
 ![sudo pacman -Sy bind-tools in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/00.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Getting Started with dig
 
  In our first example, we'll return the IP addresses associated with a domain name. Often, multiple IP addresses are associated with a single domain name. This often happens if load balancing is used, for example.
@@ -62,13 +63,6 @@ dig howtogeek.com +short
 
 ![dig howtogeek.com +short in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/1-8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  All the IP addresses associated with the howtogeek.com domain are listed for us. At the other end of the spectrum, if we don't use the `+short` query option, the output is quite verbose.
 
  So, we type the following to pipe it through `less`:
@@ -77,9 +71,6 @@ dig howtogeek.com | less
 
 ![dig howtogeek.com | less in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The output is displayed in `less`, as shown below.
 
 ![output from dig howtogeek.com | less in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/3-5.png) 
@@ -130,6 +121,10 @@ howtogeek.com. 3551 IN A 151.101.2.217
 * **Authority: 0:** The number of answers that came from an Authoritative Name Server, which was zero in this case. The response was returned from the cache of a DNS precursor server. There will be no authoritative section in the response.
 * **Additional: 1:** There is one piece of additional information. (Strangely, nothing is listed unless this value is two or higher.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Opt Pseudosection** 
 
  Next, we see the following in the Opt Pseudosection:
@@ -143,9 +138,6 @@ howtogeek.com. 3551 IN A 151.101.2.217
 * **flags:** No flags are in use.
 * **udp**: **4096:** The UDP packet size.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### **Question Section** 
 
  In the Question section, we see the following:
@@ -175,8 +167,9 @@ howtogeek.com. 3551 IN A 151.101.2.217`
 * **A:** We asked for an A record from the DNS server.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Statistics Section** 
 
  Statistics is the final section, and it contains the following information:
@@ -223,6 +216,10 @@ dig howtogeek.com +nocomments
 
 ![dig howtogeek.com +nocomments in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/4-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If we use the `+noall` query option on its own, as shown below, we won't get any useful output:
 
 dig howtogeek.com +noall
@@ -236,13 +233,18 @@ dig howtogeek.com +noall +answer
 ![dig howtogeek.com +noall +answer in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/6-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If we type the following to turn on `+stats`, we'll also see the statistics section:
 
 dig howtogeek.com +noall +answer +stats
 
 ![dig howtogeek.com +noall +answer +stats in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/7-4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The `+noall +answer` combination is used often. You can add other sections to the command line as required. If you want to avoid typing `+noall +answer` on the command line every time you use `dig`, you can put them in a configuration file called ".digrc." It's located in your home directory.
 
@@ -286,9 +288,6 @@ dig redhat.com A
 
 ![dig redhat.com A in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/10-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  To query the mail exchange records, we use the following MX flag:
 
 dig yahoo.com MX
@@ -307,9 +306,6 @@ dig manjaro.com SOA
 
 ![dig manjaro.com SOA in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/13-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The TTL flag will show us the time to live for the data in the DNS server's cache. If we make a series of requests, we see the time to live reduce to nothing, and then jump back to its starting value.
 
  We type the following:
@@ -318,18 +314,6 @@ dig usa.gov TTL
 
 ![dig usa.gov TTL in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/14-3.png) 
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To see the text records, we type the TX flag:
 
 dig usa.gov TXT
@@ -337,8 +321,9 @@ dig usa.gov TXT
 ![dig usa.gov TXT in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/16-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Specifying the DNS Server
 
  If you want to use a particular DNS server for your request, you can use the at sign (`@`) to pass it to `dig` as a command-line parameter.
@@ -353,9 +338,6 @@ dig @8.8.8.8 usa.gov +stats
 
 ![dig usa.gov +stats in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/15-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Using dig with Multiple Domains
 
  We can pass multiple domains to `dig` on the command line, as shown below:
@@ -365,8 +347,9 @@ dig ubuntu.org fedora.org manjaro.com
 ![dig ubuntu.org fedora.org manjaro.com in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/21-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you regularly check a set of domains, you can store them in a text file and pass it to `dig`. All the domains in the file will be checked in turn.
 
  Our file is called "domains.txt." We'll use `cat` to show its contents, and then pass it to `dig` with the `-f` (file) option. We type the following:
@@ -378,13 +361,9 @@ dig -f domains.txt
 ![cat domains.txt in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/18-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Reverse DNS Lookups
 
  If you have an IP address and want to know where it goes, you can try a reverse DNS lookup. If it resolves to a server registered with a DNS server, you might be able to find out its domain.
@@ -397,9 +376,6 @@ dig -x 209.51.188.148
 
 ![dig -x 209.51.188.148 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/19-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  Presto! The IP address resolves to gnu.org.
 
  Because a PTR is a DNS record, and we know `dig` can request specified DNS records, couldn't we just ask `dig` to retrieve the PTR for us? Yes, we can, but it does take a bit more work.
@@ -410,11 +386,12 @@ dig ptr 148.188.51.209.in-addr.arpa
 
 ![dig ptr 148.188.51.209.in-addr.arpa in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/20-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We get the same result; it just took a bit more effort.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ##  Can You dig It?
 
  We all use the internet daily, and inquisitive minds have often wondered how the magic happens when we type the name of a website into a browser. With `dig`, you can explore the processes of network conjuring.
@@ -431,8 +408,6 @@ dig ptr 148.188.51.209.in-addr.arpa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -440,4 +415,20 @@ dig ptr 148.188.51.209.in-addr.arpa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-mastering-light-and-shadow-in-hdr-portraiture/"><u>[New] In 2024, Mastering Light and Shadow in HDR Portraiture</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmented-challenges-the-future-of-ai-security/"><u>Augmented Challenges: The Future of AI Security</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/clearing-paper-jams-swiftly/"><u>Clearing Paper Jams Swiftly</u></a></li>
+<li><a href="https://discover-best.techidaily.com/experience-tailored-content-with-cookiebot-driven-personalization-technology/"><u>Experience Tailored Content with Cookiebot-Driven Personalization Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/grab-the-cheapest-apple-watch-series-n9-ever-special-offer-ends-soon-dont-miss-out/"><u>Grab the Cheapest Apple Watch Series N9 Ever! Special Offer Ends Soon, Don't Miss Out .</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-infinix-hot-40-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Infinix Hot 40 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-warzone-not-finding-matches-on-pc/"><u>How to Fix Warzone Not Finding Matches on PC</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-voice-reinvention-with-technology-rankings-of-7-innovative-audio-tools/"><u>In 2024, Voice Reinvention with Technology Rankings of 7 Innovative Audio Tools</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/step-by-step-guide-how-to-translate-twitter-video-easily/"><u>Step-by-Step Guide How to Translate Twitter Video Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-ranking-of-the-best-mobile-gaming-devices-according-to-zdnet/"><u>The Ultimate Ranking of the Best Mobile Gaming Devices According to ZDNet</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/troubleshooting-your-iphone-7-steps-to-restore-call-functionality/"><u>Troubleshooting Your iPhone: 7 Steps to Restore Call Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-new-possibilities-how-apples-enhanced-iphone-nfc-for-third-party-integration-boosts-user-experience-insights/"><u>Unlock New Possibilities: How Apple's Enhanced iPhone NFC for Third-Party Integration Boosts User Experience Insights</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-harnessing-audacity-for-zero-cost-audio-capture-from-pc-speakers/"><u>Updated In 2024, Harnessing Audacity for Zero-Cost Audio Capture From PC Speakers</u></a></li>
+</ul></div>
 

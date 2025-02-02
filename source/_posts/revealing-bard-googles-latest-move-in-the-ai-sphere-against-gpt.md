@@ -1,7 +1,7 @@
 ---
 title: "Revealing Bard: Google's Latest Move in the AI Sphere Against GPT"
-date: 2024-08-29T19:41:30.327Z
-updated: 2024-08-30T19:41:30.327Z
+date: 2025-01-25T18:54:59.805Z
+updated: 2025-01-31T16:47:28.619Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/f6689b1ce3b098830c1181e612252ff5b928460b4
 
  **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Google's Bard AI?
 
  Bard is a Google-owned experimental AI language model capable of generating human-sounding responses to prompts or inputs given. It is built on top of Google's powerful conversational language model, LaMDA (Language Model for Dialogue Applications).
@@ -33,9 +37,17 @@ thumbnail: https://thmb.techidaily.com/f6689b1ce3b098830c1181e612252ff5b928460b4
 
  Unlike ChatGPT, Sundar Pichai explained that Bard will initially only be available to a few trusted testers, with plans to scale to more users. The announcement also showcased what the initial release would look like with several examples—some of which look strikingly similar to what ChatGPT would do. So, is Bard going to be just another ChatGPT?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Google Bard Could Be Better Than ChatGPT
 
 ![An illustration of an AI bot performing meeting analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/AI-Meeting-Assistant-for-Online-Meetings-Featured-Image.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT was released on November 30, 2022, after a lengthy development period. The entire development process, including the base technology that powers it, spanned several years. At first glance, this would mean Google had less than three months to build a product to rival ChatGPT, a product built on years of evolving technology.
 
@@ -50,8 +62,9 @@ thumbnail: https://thmb.techidaily.com/f6689b1ce3b098830c1181e612252ff5b928460b4
  In simpler terms, this would mean Google's Bard would be able to provide fresh, up-to-date responses while ChatGPT would, unfortunately, be limited to information relating to events, not beyond 2021 (ChatGPT's current data training cut-off).
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Will Google Bard Work?
 
  From the demonstrations Google has provided, it's not entirely clear whether Bard will exist as a standalone prompt-response web interface like ChatGPT "after the initial testing phase."
@@ -59,17 +72,15 @@ thumbnail: https://thmb.techidaily.com/f6689b1ce3b098830c1181e612252ff5b928460b4
  However, in typical Google fashion, Google will almost certainly push to deeply integrate Bard into most of its products, including Google Search, akin to what Microsoft is trying to do with Bing and other Microsoft products using ChatGPT technology.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Google's Bard Demonstration Features Factual Issues
 
  But despite the interest and understandable hype with Google's Bard announcement, its first demonstration didn't go well. Eagle-eyed astronomers quickly pointed out that at least one of the "facts" delivered by Bard was completely wrong. For example, Bard stated that the James Webb Space Telescope "took the very pictures of a planet outside of our own solar system," but the European Very Large Telescope accomplished that accolade in 2004.
 
  Bard is still in its very early stages, but its false statement was a clear indicator of the issues of integrating conversational AI technology deeper into general internet search, where many will trust what is written.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Will Google's Bard AI Be Better Than ChatGPT?
 
  Google has been sitting on a wealth of truly phenomenal AI tools, only periodically giving the public a glimpse of what it has to offer.
@@ -82,8 +93,6 @@ thumbnail: https://thmb.techidaily.com/f6689b1ce3b098830c1181e612252ff5b928460b4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +100,24 @@ thumbnail: https://thmb.techidaily.com/f6689b1ce3b098830c1181e612252ff5b928460b4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/he-insiders-look-at-optimizing-youtube-video-audio-for-2024/"><u>[New] The Insider’s Look at Optimizing YouTube Video Audio for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-broadcast-your-previous-video-a-guide-to-live-streaming-on-facebook/"><u>[Updated] Broadcast Your Previous Video A Guide to Live-Streaming on Facebook</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-capturecare-essential-guide-to-ig-photo-and-video-resize/"><u>[Updated] In 2024, CaptureCare Essential Guide to IG Photo & Video Resize</u></a></li>
+<li><a href="https://techtrends.techidaily.com/m4a-movavi-caf/"><u>百科全書式免費移動到 M4A：使用 Movavi 改變 CAF 格式的簡單方法</u></a></li>
+<li><a href="https://extra-information.techidaily.com/achieve-flawless-imagery-how-to-remove-backgrounds-on-canva-for-2024/"><u>Achieve Flawless Imagery How to Remove Backgrounds on Canva for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/dable-gear-guide-choosing-the-right-cam-for-you-for-2024/"><u>Affordable Gear Guide Choosing the Right Cam For You for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-creative-leap-understanding-the-search-and-output-dynamics/"><u>AI's Creative Leap: Understanding the Search & Output Dynamics</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-drivers-for-your-samsung-evo-850-ssd-free-download/"><u>Get the Latest Drivers for Your Samsung EVO 850 SSD – Free Download</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpt-into-whatsapp-for-superior-customer-care/"><u>Integrating ChatGPT Into WhatsApp for Superior Customer Care</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-language-with-ease-claude-3-vs-gpt-3-in-4-points/"><u>Navigating Language with Ease: Claude 3 vs GPT-3, In 4 Points</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimal-introduction-editor-software-apps-for-2024/"><u>Optimal Introduction Editor Software (Apps) for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-restrictions-enabling-roblox-games/"><u>Overcoming Windows Restrictions: Enabling Roblox Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-applescripting-discover-the-latest-free-ai-powered-programming-tools-by-zdnet/"><u>Revolutionize Your Applescripting! Discover the Latest Free AI-Powered Programming Tools by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-coding-top-10-ways-to-merge-chatgpt-with-vs-code/"><u>Revolutionizing Coding - Top 10 Ways to Merge ChatGPT with VS Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-a-bargain-with-the-amazon-ipad-sale-at-only-199-this-labor-day-zdnet-coverage/"><u>Score a Bargain with the Amazon iPad Sale at Only $199 This Labor Day - ZDNet Coverage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-your-coding-journey-10-chatgpt-tools-for-vs-code/"><u>Streamline Your Coding Journey: 10 ChatGPT Tools for VS Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-safest-phones-for-children-by-tech-experts-at-zdnet/"><u>Ultimate Guide to the Safest Phones for Children by Tech Experts at ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Authenticity and Authorship: Why Writers Don't Rely on AIs"
-date: 2025-01-17T16:20:11.178Z
-updated: 2025-01-18T17:21:41.208Z
+date: 2025-01-29T21:47:54.700Z
+updated: 2025-01-31T16:21:38.563Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. AI Doesn’t Fact-Check Information
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
  Although chatbots and [writing tools](https://www.makeuseof.com/ai-writing-tools/) consistently strive for accuracy, they don’t double-check the facts. AI only relays what it finds. Even sophisticated systems inaccurately respond to questions about recent research ideas, advanced mathematical equations, medicine, controversial topics, and current events.
 
  You can still [use ChatGPT like a search engine](https://www.makeuseof.com/is-chatgpt-search-engine-threat/). Just make sure you don’t take its answers at face value; otherwise, you might publish misleading information. As a general rule, always compare AI responses with official resources.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Language Models Like GPT-3 Follow Templates
 
@@ -52,16 +56,12 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 ![ChatGPT Generated a 200-Word Article on Cats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-on-cats.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, compare it with the below photo. You’ll notice that the response follows the exact template, although this one talks about dogs.
 
 ![ChatGPT Generated a 200-Word Article on Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-about-dogs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Overdependence on AI Makes You a Lazy Researcher
@@ -76,17 +76,9 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 ![Copy.ai Generates an Article on Taking Care of Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-on-dogs.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  AI avoids inaccuracies by generating generic responses. Take the above piece as an example. When we asked an AI writing tool to talk about dog care, it focused on super-common tips, which readers have likely seen multiple times. The below photo also shows that its insights came from an unreliable source.
 
 ![Copy.ai Lists Down Article Sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-sources.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Generic pieces rarely gain traffic. To attract readers and score higher SERP rankings, write original articles that are exclusive to your site. Stop rewriting stuff that everyone already knows.
 
@@ -116,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
  If you want top-ranking pages, focus on providing value. Haphazardly instructing writing tools and chatbots to stuff keywords into lengthy, generic blogs yields negligible results. Search engines might even qualify your site as spam.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Many Premium Plagiarism Checkers Flag AI-Generated Pieces
 
 ![Plagiarism Checker Results of AI-Generated Text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/plagiarism-checker-results.jpg)
@@ -125,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
  With that said, they’re still unoriginal. Chatbots and writing tools only escape plagiarism technicalities through formulaic paraphrasing. Spinning bypasses many plagiarism detectors, after all.
 
  Writers have differing opinions about the morality of publishing AI content and plagiarism, but as a respectable professional, you should do your own research. Never risk plagiarizing content. Study the topics for yourself, draw logical conclusions, then convey them in your own words.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use AI Chatbots Responsibly
 
@@ -151,20 +151,18 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-can-you-lawfully-archive-youtube-content/"><u>[New] 2024 Approved Can You Lawfully Archive YouTube Content?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-bring-charisma-to-your-stories-mastery-of-custom-emoji-use-on-instagram-for-2024/"><u>[Updated] Bring Charisma to Your Stories Mastery of Custom Emoji Use on Instagram for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comment-changer-un-fichier-video-au-format-quicktime-et-inversement-guide-complet/"><u>Comment Changer Un Fichier Vidéo Au Format QuickTime Et Inversement - Guide Complet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/converti-file-tiff-in-formato-jpeg-online-e-gratuito-con-movavi/"><u>Converti File TIFF in Formato JPEG Online E Gratuito Con Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-steps-transforming-yourself-into-an-expert-video-editor/"><u>Essential Steps: Transforming Yourself Into an Expert Video Editor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/geen-keukenkostje-koppen-waardig-3g2-fietsen-in-gratis-mov-videodateien-met-movavi/"><u>Geen Keukenkostje Koppen: Waardig 3G2 Fietsen in Gratis MOV Videodateien Met Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratuit-konverteren-van-mkv-naar-m4a-online-movavi/"><u>Gratuit Konverteren Van MKV Naar M4A Online - Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratuit-ogg-format-converter-online-opus-naar-ogg-omzetten-met-gratis-movavi-service/"><u>Gratuit Ogg-Format Converter: Online OPUS Naar Ogg Omzetten Met Gratis Movavi Service</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-note-9-review/"><u>Samsung Galaxy Note 9 Review</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-11-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from 11 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-tecno-spark-20-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Tecno Spark 20 Pro? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-drone-photographers-stabilization-companion/"><u>The Drone Photographer's Stabilization Companion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transfiere-archivo-pgm-a-formato-png-sin-coste-metodo-online-de-convertir-imagenes/"><u>Transfiere Archivo PGM a Formato PNG Sin Coste: Método Online De Convertir Imágenes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-serenity-through-stories-a-review-of-parent-driven-narrative-vids/"><u>[New] Serenity Through Stories A Review of Parent-Driven Narrative Vids</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-radeon-relive-download-and-review/"><u>[Updated] In 2024, Radeon Relive Download and Review</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ultimate-checklist-streamlining-and-maximizing-screencast-quality-with-mobizen/"><u>[Updated] Ultimate Checklist Streamlining and Maximizing Screencast Quality with Mobizen</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-batch-file-transformations-for-2024/"><u>Best Batch File Transformations for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/exploring-the-new-features-and-enhancements-in-microsoft-surface-pro-7-performance-vs-innovation-balance/"><u>Exploring the New Features and Enhancements in Microsoft Surface Pro 7: Performance vs Innovation Balance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-your-insights-to-ingenious-ai-build-a-gpt-of-your-design/"><u>From Your Insights to Ingenious AI: Build a GPT of Your Design</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-free-youtube-endings-that-stand-out-ranked/"><u>In 2024, Free YouTube Endings That Stand Out - Ranked</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/popular-free-photography-and-film-archives-for-2024/"><u>Most Popular Free Photography and Film Archives for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pro-tips-integrating-gpt-in-your-note-routine/"><u>Pro Tips: Integrating GPT in Your Note Routine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/satellite-sos-feature-now-available-on-google-pixel-9-the-premier-android-device-enhancing-emergency-communications/"><u>Satellite SOS Feature Now Available on Google Pixel 9: The Premier Android Device Enhancing Emergency Communications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-simplicity-chatgpts-top-9-techniques/"><u>The Art of Simplicity: ChatGPT's Top 9 Techniques</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-oppo-reno-10-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Oppo Reno 10 5G</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Balancing Innovation and Security: CEO's Case for AI Regulations"
-date: 2024-08-29T19:39:25.333Z
-updated: 2024-08-30T19:39:25.333Z
+date: 2025-01-27T19:01:40.902Z
+updated: 2025-01-31T21:43:15.856Z
 tags:
   - chatgpt
   - open-ai
@@ -21,9 +21,17 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is Sam Altman Calling for More AI Regulation?
 
 ![sam altman sitting on stage talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sam-altman-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838377432/in/)
 
@@ -54,15 +62,17 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  Some also feel that it's far too soon to be talking about AI regulation, though the presence of AI in so many industries today would seem to contradict that view.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is AI Regulation Good News for OpenAI?
 
 ![openai logo on smartphone place on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-ai-phone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Sam Altman's call for more AI regulation has raised questions about whether such constraints will actually benefit OpenAI.
 
  It's hard to say whether further regulation will be a net positive for OpenAI. However, in the aforementioned Senate hearing, Altman suggested that AI companies like OpenAI should be independently audited and properly licensed, which suggests that he is happy to participate in this increased regulation.
@@ -72,22 +82,20 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  It isn't surprising that Altman has something of a bias here, as ChatGPT is the brainchild of the company he runs. But further regulation could lead to larger, pre-established AI companies having an advantage over smaller organizations, especially if licenses, permits, and long testing periods are made a legal requirement (as this could incur more costs and require more personnel).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AI Regulation Is a Point of Contention
 
  At the moment, there are many different opinions and ideas surrounding the regulation of AI. While some think this technology needs to be reigned in, others would prefer it stay as it is. In the near future, countries across the world may introduce new AI laws, and we'll have to wait and see whether this turns out to be a blessing or a curse.
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -96,4 +104,19 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-essence-of-crossfading-soundtracks/"><u>[New] 2024 Approved The Essence of Crossfading Soundtracks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-excellence-in-editing-selecting-the-right-software/"><u>[Updated] Excellence in Editing Selecting the Right Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/gifmp4-2024/"><u>【特選】GIFからMP4への変換がスムーズに! 最新ツールを無料でお紹介します、2024年用</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-infinix-smart-8-unlock-without-password-by-drfone-android/"><u>5 Solutions For Infinix Smart 8 Unlock Without Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehending-gptzeros-mechanism-for-ai-discovery/"><u>Comprehending GPTZero's Mechanism for AI Discovery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-myths-gptbots-functionality-and-website-bans/"><u>Debunking Myths: GPTBot's Functionality & Website Bans</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-digital-heartbeat-ais-quest-for-emotional-understanding/"><u>Decoding the Digital Heartbeat: AI's Quest for Emotional Understanding</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-tips-for-chatgpt-and-mac-users/"><u>Essential Tips for ChatGPT & Mac Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-access-to-wacom-graphics-tablet-drivers-for-easy-setup/"><u>Speedy Access to Wacom Graphics Tablet Drivers for Easy Setup</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-hot-40-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Hot 40? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-analyzes-why-the-iphone-14-meets-all-necessary-standards-for-a-top-notch-smartphone/"><u>ZDNet Analyzes Why the iPhone 14 Meets All Necessary Standards for a Top-Notch Smartphone</u></a></li>
+</ul></div>
 

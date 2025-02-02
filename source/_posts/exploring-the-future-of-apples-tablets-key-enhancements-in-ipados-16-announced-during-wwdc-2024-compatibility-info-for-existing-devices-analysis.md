@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Future of Apple's Tablets: Key Enhancements in iPadOS 16 Announced During WWDC 2024, Compatibility Info for Existing Devices Analysis"
-date: 2025-01-18T00:05:38.081Z
-updated: 2025-01-24T17:23:46.262Z
+date: 2025-01-25T00:22:20.908Z
+updated: 2025-01-31T21:54:52.327Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,18 +126,16 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://technical-tips.techidaily.com/apple-vision-pro-review-a-tale-of-an-unfulfilling-workday-as-spotted/"><u>Apple Vision Pro Review: A Tale of an Unfulfilling Workday as Spotted</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/beyond-ageing-language-learnings-untapped-potential/"><u>Beyond Ageing: Language Learning's Untapped Potential</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-list-elite-choices-for-personalized-weather-systems/"><u>Comprehensive List: Elite Choices for Personalized Weather Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-free-comparable-ais-beyond-sora/"><u>Discover Free, Comparable AIs Beyond Sora</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209723696-9781633534841-eclectic-wicca/"><u>Eclectic Wicca | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/future-homes-with-apple-powered-robots-revolutionizing-assistance-and-convenience-at-your-fingertps/"><u>Future Homes with Apple-Powered Robots: Revolutionizing Assistance and Convenience at Your Fingertps</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/is-your-google-drive-vulnerable-to-ransomware-insights-from-malwarefox/"><u>Is Your Google Drive Vulnerable to Ransomware: Insights From MalwareFox</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolving-chatgpt-glitches-on-ios-devices/"><u>Resolving ChatGPT Glitches on iOS Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-workouts-with-apples-latest-tech-the-2023-airpods-pro-heart-rate-fitness-companion/"><u>Revolutionize Your Workouts with Apple's Latest Tech: The 2023 AirPods Pro Heart Rate Fitness Companion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-compendium-of-ai-enhanced-note-managers/"><u>The Ultimate Compendium of AI Enhanced Note Managers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-googles-innovative-language-strategist-palm-2/"><u>Unveiling Google's Innovative Language Strategist: PaLM 2</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-dull-truth-why-you-might-find-apples-latest-ai-innovations-from-wwdc-underwhelming-and-thats-a-good-thing/"><u>Unveiling the Dull Truth: Why You Might Find Apple’s Latest AI Innovations From WWDC Underwhelming – And That's a Good Thing!</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-techniques-for-embedding-images-into-music-tracks/"><u>Updated Techniques for Embedding Images Into Music Tracks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-master-your-media-comprehensive-guide-to-instagram-converters-windowsmac/"><u>[New] In 2024, Master Your Media Comprehensive Guide to Instagram Converters (Windows/Mac)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-ultimate-12-camera-guide-for-effortless-screen-swivel-use/"><u>[New] In 2024, The Ultimate 12 Camera Guide for Effortless Screen Swivel Use</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-premier-hashtag-analysis-apps-on-popular-platforms-like-fb-twt-and-ig/"><u>[Updated] 2024 Approved Premier Hashtag Analysis Apps on Popular Platforms Like FB, Twt & IG</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-xr-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone XR without the Previous Owner?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/joke-generation-by-ai-can-it-trigger-our-humor-circuits/"><u>Joke Generation by AI: Can It Trigger Our Humor Circuits?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/kickstarting-your-career-in-crafting-dynamic-chatbots/"><u>Kickstarting Your Career in Crafting Dynamic Chatbots</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-score-amazing-prices-on-samsung-tech-your-essential-companion-for-prime-day-shopping/"><u>Ultimate Guide to Score Amazing Prices on Samsung Tech - Your Essential Companion for Prime Day Shopping</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-best-magsafe-wallets-in-depth-analysis-and-ratings-zdnet/"><u>Ultimate Guide to the Best MagSafe Wallets : In-Depth Analysis and Ratings | ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/victory-hashes-that-help-your-youtube-shorts-go-mainstream-for-2024/"><u>View Victory Hashes That Help Your YouTube Shorts Go Mainstream for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zooms-latest-feature-collaborating-on-the-vision-pro-headset-what-this-could-mean-for-your-video-calls-future-of-communications-blog/"><u>Zoom's Latest Feature: Collaborating on the Vision Pro Headset – What This Could Mean for Your Video Calls | Future of Communications Blog</u></a></li>
 </ul></div>
 

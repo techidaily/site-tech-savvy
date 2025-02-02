@@ -1,7 +1,7 @@
 ---
 title: The Six Essential Qualities That Set Snapchat's My AI Apart
-date: 2025-01-07T19:29:21.773Z
-updated: 2025-01-13T00:56:07.168Z
+date: 2025-01-26T23:28:59.952Z
+updated: 2025-02-01T03:10:10.530Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/7d4ac3d8c9076518086c796719296f1fe2886affc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. My AI Runs on GPT-3.5
@@ -42,15 +42,15 @@ thumbnail: https://thmb.techidaily.com/7d4ac3d8c9076518086c796719296f1fe2886affc
 
 ![Snapchat My AI Explaining the Details of an Image of an Object](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-recognizing-image-of-object.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Snapchat My AI Explaining the Elements of an Image of a Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/my-ai-recognizing-image-of-person.jpg)
 
 Close
 
  That said, these chatbots follow different restrictions. My AI generally has fewer rules than ChatGPT—it might perform a broader range of tasks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Conversations Retain the Last 3,000 Words
 
@@ -64,7 +64,15 @@ Close
 
 ![Snapchat My AI Continuing the Roleplay Request to Portray Ash from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-continuing-roleplay-request.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. My AI Can Pull Real-Time Information
 
@@ -74,15 +82,7 @@ Close
 
 ![Asking Snapchat About the Weather Tomorrow in Manila](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-snapchat.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -94,11 +94,19 @@ Close
 
 ![Asking Snapchat About Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-test.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
 
 Close
 
  Just note that Snapchat also displays your active location if you enable GPS services. But you can turn off this feature to ensure more privacy, Click your avatar on the top-left corner of the screen, then go to > **Settings** \> **Privacy Controls** \> **My Location**. Toggle the Ghost Mode button to hide your location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. My AI Solves Intermediate Word Problems Correctly
 
@@ -110,17 +118,9 @@ Close
 
 ![Asking Snapchat a Riddle About Family Relatives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-riddle-family-relatives.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  Try rephrasing word problems that My AI answers wrong. You’ll generate better output if you compose clear, detailed prompts—avoid vague phrasing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Snapchat Continuously Updates My AI
 
@@ -155,22 +155,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-maximize-mp4-audio-quality-with-srt-integration-your-comprehensive-guide/"><u>[Updated] 2024 Approved Maximize MP4 Audio Quality with SRT Integration - Your Comprehensive Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-instant-transcription-absolutely-complimentary/"><u>[Updated] In 2024, Instant Transcription, Absolutely Complimentary</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/capturing-live-discussions-iphoneandroids-screen-recording-for-2024/"><u>Capturing Live Discussions IPhone/Android's Screen Recording for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/delving-into-how-devices-learn-without-cloud-connectivity/"><u>Delving Into How Devices Learn Without Cloud Connectivity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enrich-browser-interactions-the-best-7-ai-chatter-extensions/"><u>Enrich Browser Interactions: The Best 7 AI Chatter Extensions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fabricate-exclusive-language-models/"><u>Fabricate Exclusive Language Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/governance-and-governors-charting-4-paths-for-ai-tools/"><u>Governance and Governors: Charting 4 Paths for AI Tools</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-honor-magic-6-lite-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Honor Magic 6 Lite to iPad | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-infinix-hot-40-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Infinix Hot 40 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-viral-visionaries-top-meme-creators-on-social-media/"><u>In 2024, Viral Visionaries Top Meme Creators on Social Media</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-enrollment-process-for-chatgpt-updates/"><u>Mastering the Enrollment Process for ChatGPT Updates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-your-wellbeing-top-9-chatgpt-uses/"><u>Optimizing Your Wellbeing: Top 9 ChatGPT Uses</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-steamuidll-loading-failures-fixes-for-critical-steam-crash/"><u>Resolving 'steamui.dll' Loading Failures: Fixes for Critical Steam Crash</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/snap-vs-gpt-choosing-your-social-tech-ally/"><u>Snap vs GPT: Choosing Your Social Tech Ally</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/spirited-account-creation-steps-for-2024/"><u>Spirited Account Creation Steps for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-genius-of-multifunctional-computing-discover-how-this-lenovo-convertible-impresses-as-a-laptop-and-tablet-combo/"><u>The Genius of Multifunctional Computing: Discover How This Lenovo Convertible Impresses as a Laptop and Tablet Combo</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-world-embraces-gpt-4-understanding-the-impact/"><u>The World Embraces GPT-4: Understanding the Impact</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/0x80073712/"><u>如何修复文件错误 0X80073712：升级失败和遗失挂载点问题解决指南</u></a></li>
+<li><a href="https://discover-data.techidaily.com/clonezilla/"><u>Clonezilla 操作中に '宛先ディスク容量不足' エラーを解決しよう</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/creating-a-clickable-thumbnail-enhancing-video-visibility-without-costs-for-2024/"><u>Creating a Clickable Thumbnail Enhancing Video Visibility without Costs for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deconstructing-vpn-raids-on-privacy-tools/"><u>Deconstructing VPN Raids on Privacy Tools</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dual-linguistic-learning-pathway/"><u>Dual Linguistic Learning Pathway</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-x50i-messages-recovery-recover-deleted-messages-from-honor-x50i-by-fonelab-android-recover-messages/"><u>Honor X50i Messages Recovery - Recover Deleted Messages from Honor X50i</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-secrets-to-excellent-screen-recordings-on-lenovo/"><u>In 2024, Secrets to Excellent Screen Recordings on Lenovo</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-swiftly-craft-custom-thumbnails-for-youtube-shorts-with-these-hacks/"><u>In 2024, Swiftly Craft Custom Thumbnails for YouTube Shorts with These Hacks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-conversations-easily-the-chrome-gpt-extension/"><u>Navigate Conversations Easily - The Chrome GPT Extension</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-boss-for-ai-predicted-impact-on-chatgpt/"><u>New Boss for AI, Predicted Impact on ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-photography-apple-unveils-ai-powered-editing-tool-responding-to-user-text-descriptions-insights/"><u>Revolutionizing Photography: Apple Unveils AI-Powered Editing Tool Responding to User Text Descriptions - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-personas-design-using-advanced-chatgpt-techniques/"><u>Strategic Personas Design Using Advanced ChatGPT Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/teaching-techniques-with-youtube-a-practical-approach-for-2024/"><u>Teaching Techniques with YouTube A Practical Approach for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-smartphone-with-chatgpt-and-android/"><u>Transform Your Smartphone with ChatGPT & Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-presidents-day-offer-save-300-on-the-202-cuet-m2-macbook-air-shop-now-at-zdnet/"><u>Unbeatable Presidents' Day Offer: Save $300 on the 202 Cuet M2 MacBook Air - Shop Now at ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-your-office-writing-word-and-gpt-synergy-unveiled/"><u>Upgrade Your Office Writing: Word and GPT Synergy Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/video-voyage-beginnings-from-storyboard-to-screenplay-via-chatgpt/"><u>Video Voyage Beginnings - From Storyboard to Screenplay via ChatGPT</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Transforming Mental Health Through GPT-Meditation Guidance
-date: 2025-01-19T16:41:06.424Z
-updated: 2025-01-24T22:58:20.127Z
+date: 2025-01-28T07:20:59.302Z
+updated: 2025-02-01T04:32:41.690Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/ff400978108e83c0a6a7c70de81b2956e47e27eb0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Prepare Yourself for Meditation With ChatGPT
 
  Often, the most difficult part of meditation for many people is simply getting started. Because people generally live with such busy schedules, taking time out for the practice can feel indulgent. But if you do, you’ll quickly feel the benefit.
@@ -37,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/ff400978108e83c0a6a7c70de81b2956e47e27eb0
 ![Screenshot of a ChatGPT response to meditation setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-meditation-setup.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Ask ChatGPT Initial Questions About Meditation
@@ -58,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/ff400978108e83c0a6a7c70de81b2956e47e27eb0
 
 ![Screenshot of a ChatGPT response to asking questions about meditation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-asking-questions-about-meditation.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Of course, you must exercise caution when interacting with ChatGPT about such issues. When I asked about depression and meditation, the first line of the ChatGPT answer was, “I'm not a mental health professional, but I can provide some general information about the potential benefits of meditation for mental health.” Here’s [how to fact-check health information from ChatGPT and AI sources](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/).
 
 ## 3\. Use ChatGPT to Help Identify Your Intentions for the Meditation Session
@@ -68,20 +76,12 @@ thumbnail: https://thmb.techidaily.com/ff400978108e83c0a6a7c70de81b2956e47e27eb0
 
 ![Screenshot of a ChatGPT response to meditation intentions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-meditation-intentions.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Try to frame your intentions positively, with statements such as:
 
 * I aim to find inner joy.
 * I intend to calm my mind and relax.
 
  It can be helpful to write down any useful suggestions you receive for future reference.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Start Your Meditation Session Using ChatGPT
 
@@ -93,11 +93,11 @@ thumbnail: https://thmb.techidaily.com/ff400978108e83c0a6a7c70de81b2956e47e27eb0
 
 ![Screenshot of a ChatGPT response to meditation session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-meditation-session.jpeg)
 
- Because ChatGPT is a text-based service, it won’t lead you through a session as you would expect from a [meditation app like Insight Timer](https://www.makeuseof.com/deep-dive-into-insight-timer-meditation-app/), the [meditation and mindfulness app Calm](https://www.makeuseof.com/meditating-calm-app-improve-mindfulness/), or even a teacher. Instead, you’ll receive a list of ideas to work with, and you can consider which approaches might work best for you.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Because ChatGPT is a text-based service, it won’t lead you through a session as you would expect from a [meditation app like Insight Timer](https://www.makeuseof.com/deep-dive-into-insight-timer-meditation-app/), the [meditation and mindfulness app Calm](https://www.makeuseof.com/meditating-calm-app-improve-mindfulness/), or even a teacher. Instead, you’ll receive a list of ideas to work with, and you can consider which approaches might work best for you.
 
 ## 5\. Reflect Mindfully on Responses and Ask Further Questions for Clarity
 
@@ -108,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/ff400978108e83c0a6a7c70de81b2956e47e27eb0
 ![Screenshot of a ChatGPT response refining answers about meditation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-refining-answers-about-meditation.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Apply the ChatGPT Advice in Your Meditation Session
@@ -123,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/ff400978108e83c0a6a7c70de81b2956e47e27eb0
 
 ![Screenshot of a ChatGPT response to breathing exercise question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-breathing-exercise-question.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Set Future Goals Using ChatGPT for Guidance
 
  Hopefully, your meditation session has left you refreshed and eager to make meditation a regular habit. You can interact with ChatGPT to help devise a meditation practice to suit you. Ask questions such as:
@@ -136,10 +140,6 @@ thumbnail: https://thmb.techidaily.com/ff400978108e83c0a6a7c70de81b2956e47e27eb0
 ![Screenshot of a ChatGPT response to setting meditation goals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-setting-meditation-goals.jpeg)
 
  Of course, you can combine these answers with advice from other sources, such as our list of [meditation apps to help you pause for a mindful moment on the go](https://www.makeuseof.com/meditation-apps-mindful-moment-on-go/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT Can Be a Useful Tool to Help You Develop a Regular Meditation Habit
 
@@ -166,22 +166,21 @@ thumbnail: https://thmb.techidaily.com/ff400978108e83c0a6a7c70de81b2956e47e27eb0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-screenshot-supreme-expert-analysis-of-recorders/"><u>[New] Screenshot Supreme Expert Analysis of Recorders</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-focus-frameworks-key-tools-to-brighten-videos/"><u>[Updated] In 2024, Focus Frameworks Key Tools to Brighten Videos</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-essential-strategies-for-effective-content-management-in-creator-studio/"><u>2024 Approved Essential Strategies for Effective Content Management in Creator Studio</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-gpts-proofreading-capabilities/"><u>Assessing GPT's Proofreading Capabilities</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/best-14-slideshow-programs-to-create-impressive-windows-presents/"><u>Best 14 Slideshow Programs to Create Impressive Windows ˈpresents</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/commanding-artificinas-intelligence-distinguished-online-learning/"><u>Commanding Artificinas Intelligence: Distinguished Online Learning</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficiently-navigating-through-llama-2s-interface/"><u>Efficiently Navigating Through Llama 2'S Interface</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/fast-fancy-and-expensive-the-all-new-glion-dolly-e-scooter-explored-in-detail/"><u>Fast, Fancy and Expensive: The All-New Glion Dolly E-Scooter Explored in Detail</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-a56s-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Oppo A56s 5G Phone without PIN</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-youtube-subscriber-boost4-simplest-tricks-to-grow-your-channel/"><u>In 2024, YouTube Subscriber Boost–4 Simplest Tricks to Grow Your Channel</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-apples-airpods-pro-from-2022-still-worth-your-money-expert-insights-revealed-zdnet/"><u>Is Apple's AirPods Pro From 2022 Still Worth Your Money? Expert Insights Revealed | ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/level-up-talking-to-bots-20-per-month-us-only-gpt-plus/"><u>Level Up Talking to Bots: $20-Per-Month, US Only GPT-Plus</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-free-online-video-editing-software-the-top-10-contenders-for-2024/"><u>New Free Online Video Editing Software The Top 10 Contenders for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-ranked-mac-computers-a-comprehensive-guide-by-zdnet/"><u>Top-Ranked Mac Computers : A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-se-skin-cases-of-2022-ultimate-defense-and-style-combo/"><u>Top-Rated iPhone SE Skin Cases of 2022: Ultimate Defense & Style Combo</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-the-full-capabilities-of-the-new-m4-ipad-pro-how-ai-innovations-will-shine-at-apples-wwdc/"><u>Unleashing the Full Capabilities of the New M4 iPad Pro - How AI Innovations Will Shine at Apple's WWDC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-gpts-personalized-guidance-feature-usage-exploration/"><u>Unveiling GPT's Personalized Guidance Feature: Usage Exploration</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/uild-your-brands-success-on-top-business-youtube-channels/"><u>[New] Build Your Brand's Success on Top Business YouTube Channels</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-green-screen-basics-for-filmmakers-starting-out-for-2024/"><u>[Updated] Green Screen Basics for Filmmakers Starting Out for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-master-class-in-live-streaming-your-pathway-to-successful-youtube-channels-via-wirecast/"><u>2024 Approved Master Class in Live Streaming Your Pathway to Successful Youtube Channels via WireCast</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/character-arcs-and-relationships-fortified-by-chatgpt-methods/"><u>Character Arcs & Relationships Fortified by ChatGPT Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-updates-for-macos-sonoma-version-14-the-fourth-bug-fixes-expert-advice/"><u>Critical Updates for macOS Sonoma Version 14. The Fourth Bug Fixes - Expert Advice</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ergodyne-topo-mat-evaluation-the-ultimate-anti-fatigue-solution-for-standing-workspaces/"><u>Ergodyne Topo Mat Evaluation: The Ultimate Anti-Fatigue Solution for Standing Workspaces</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/fresh-face-finds-budget-friendly-platforms-to-purchase/"><u>Fresh Face Finds Budget-Friendly Platforms to Purchase</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-chatbot-face-off-unveiling-superior-bot-winner/"><u>Generative Chatbot Face-Off: Unveiling Superior Bot Winner</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-mastering-the-art-of-visual-flow-with-kinemaster/"><u>In 2024, Mastering the Art of Visual Flow with Kinemaster</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/october-2024-tech-alert-secure-your-savings-on-prime-day-hot-deals-for-ultrabooks-and-gaming-pcs-zdnet-insights/"><u>October 2024 Tech Alert: Secure Your Savings on Prime Day Hot Deals for Ultrabooks and Gaming PCs | ZDNET Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/social-media-meets-artificial-intelligence-which-to-choose/"><u>Social Media Meets Artificial Intelligence: Which to Choose?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swift-solutions-to-restart-rigid-ios-chatgpt-on-the-go/"><u>Swift Solutions to Restart Rigid iOS ChatGPT on the Go</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/switching-sides-the-top-3-iphone-16-innovations-that-could-convert-this-android-enthusiast/"><u>Switching Sides: The Top 3 iPhone 16 Innovations That Could Convert This Android Enthusiast</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/urgent-update-from-apple-protecting-against-sophisticated-spyware-on-iphone-is-your-privacy-at-risk/"><u>Urgent Update From Apple: Protecting Against Sophisticated Spyware on iPhone - Is Your Privacy at Risk?</u></a></li>
 </ul></div>
 

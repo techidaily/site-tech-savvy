@@ -1,7 +1,7 @@
 ---
 title: "Strengthening Student Outcomes with AI: 5 Essential Uses of ChatGPT in School"
-date: 2025-01-19T23:13:13.766Z
-updated: 2025-01-24T22:53:50.466Z
+date: 2025-01-25T11:02:19.047Z
+updated: 2025-01-31T20:28:34.414Z
 tags:
   - chatgpt
   - open-ai
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 ![ChatgGPT prompt for crash study plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatggpt-prompt-for-crash-study-plan.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We prompted ChatGPT to make a study plan for an "Introduction to JavaScript programming" course, and here's the result:
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 * Refine the plan to add \[minutes/hours\] breaks during study hours.
 * Refine the plan to allocate \[more/less\] time to practical sessions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Identify Shortcuts or Tricks for Complex Course Problems
 
  One of the most exciting uses of ChatGPT for students is as a tool for identifying easier or alternative ways of solving complex course problems. For instance, ChatGPT has a huge collection of shortcuts and tricks for solving a wide range of complex STEM problems. From basic physics and math to complex engineering problems, ChatGPT can lay out easier, proven ways to solve complex problems and arrive at accurate solutions with much less effort.
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
  Below is a screenshot of a popular approach for finding the sum of the first 1,000 positive integers.
 
 ![Arithmetic series problem - long method](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/arithmetic-series-problem-long-method.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  However, you can also ask ChatGPT for a shortcut to solving the problem. For example, when we asked ChatGPT to provide a shortcut, the AI chatbot generated the following results:
 
@@ -73,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 ![arithmetic series Visual representation shortcut by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/visual-reprentation-shortcut.jpg)
 
  If you have a preferred way that makes it easy for you to learn, ChatGPT can help present complex problems in that way to make it easier for you to understand.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Stay Ahead of the Learning Curve
 
@@ -97,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
  After using the prompt, split the text you wish to summarize into bits and feed the entirety of it to ChatGPT. After you've provided the entire text, prompt it to extract the key point or create a summary of a certain length from the text you've provided.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Improve or Review Creative Writing
@@ -113,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 ![complete story by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/complete-story-by-chatgp.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Rather than outright asking ChatGPT to write an essay, you can write yours and use the following prompts to improve your work:
@@ -124,6 +120,10 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 * Identity possible fluffs or bits of text that don't add meaning to the text in quotes
 * What key points are missing in the text?
 * Suggests some improvements that would make the text suitable for a \[target audience\].
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use ChatGPT Cautiously In Education
 
@@ -144,19 +144,19 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-enhance-visibility-youtube-thumbnails-made-simple/"><u>[New] 2024 Approved Enhance Visibility YouTube Thumbnails Made Simple</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-choosing-the-right-fps-30-or-60-which-is-better/"><u>[New] Choosing the Right FPS 30 or 60, Which Is Better?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-physical-presence-vs-virtual-validation/"><u>[Updated] 2024 Approved Physical Presence vs Virtual Validation</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-echovideo-capture-toolkit-for-fb/"><u>2024 Approved EchoVideo Capture Toolkit for FB</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chagpt-profits-exploration-8-potential-income-streams/"><u>ChaGPT Profits Exploration - 8 Potential Income Streams</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-the-cost-of-tunes-a-guide-to-snagging-a-budget-friendly-apple-music-subscription-for-students/"><u>Cutting the Cost of Tunes: A Guide to Snagging a Budget-Friendly Apple Music Subscription for Students</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/performance-based-seismic-design-pbsd-focuses-on-achieving-specific-performance-objectives-using-nonlinear-analysis-to-predict-damage-levels/"><u>Performance-Based Seismic Design (PBSD) Focuses on Achieving Specific Performance Objectives, Using Nonlinear Analysis to Predict Damage Levels.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/premium-cryptographic-inquiry-strategies-with-ai/"><u>Premium Cryptographic Inquiry Strategies with AI</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/srt-to-subtitles-subc-practical-steps-for-conversion/"><u>SRT to Subtitles (SUBC) Practical Steps for Conversion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-ranking-smartwatch-reviews-of-2024-in-depth-analysis-by-tech-experts/"><u>Top-Ranking Smartwatch Reviews of 2024 - In-Depth Analysis by Tech Experts</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-apple-iphone-se-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from Apple iPhone SE iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-differences-in-ai-interaction-gpt-against-bing/"><u>Unveiling Differences in AI Interaction: GPT Against Bing</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/yl-softwares-captivating-roaring-lions-collection-premium-wallpapers-pictures-and-graphics/"><u>YL Software's Captivating Roaring Lions Collection: Premium Wallpapers, Pictures & Graphics</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-ideal-changing-voices-for-online-influencers/"><u>[New] Ideal Changing Voices for Online Influencers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-perfecting-date-placement-on-visual-memories/"><u>[New] In 2024, Perfecting Date Placement on Visual Memories</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-audiorecorder-examination-for-2024/"><u>[Updated] Audiorecorder Examination for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-workday-efficiency-using-gpt-technology/"><u>Boost Your Workday Efficiency Using GPT Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-digital-echoes-understanding-whos-listening-in-cyberspace/"><u>Decoding Digital Echoes: Understanding Who's Listening in Cyberspace</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enabling-chatgpt-on-everyday-pcs/"><u>Enabling ChatGPT on Everyday PCs</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-realme-12-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-canvas-clearance-techniques-for-uncluttered-image-frames/"><u>In 2024, Canvas Clearance Techniques for Uncluttered Image Frames</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-depth-look-mycam-cams-performance-for-2024/"><u>In-Depth Look MyCam Cam's Performance for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personal-fitness-revolution-8-pioneering-gpt-tools/"><u>Personal Fitness Revolution: 8 Pioneering GPT Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/plot-cohesion-achieving-continuity-with-9-chatgpt-aids/"><u>Plot Cohesion: Achieving Continuity With 9 ChatGPT Aids</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-tecno-spark-20-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Tecno Spark 20</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-i-prefer-my-iphone-n-gen-to-the-new-iphone-16-pro-insights-and-perspectives-zdnet/"><u>Why I Prefer My iPhone N-Gen to the New iPhone 16 Pro - Insights and Perspectives | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-new-iphone-10-which-is-a-perfect-score-and-reflects-high-mastery-of-content-knowledge/"><u>Why the New iPhone 10, Which Is a Perfect Score and Reflects High Mastery of Content Knowledge.</u></a></li>
 </ul></div>
 

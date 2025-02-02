@@ -1,7 +1,7 @@
 ---
 title: "Workplace Shift: Will AI Overtake Jobs?"
-date: 2024-08-29T19:42:20.506Z
-updated: 2024-08-30T19:42:20.506Z
+date: 2025-01-28T16:48:29.429Z
+updated: 2025-02-01T03:59:58.291Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,10 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
 
 [ChatGPT is a chatbot](http://www.makeuseof.com/how-does-chatgpt-work/) that uses the GPT-3 (Generative Pretrained Transformer 3) framework, a highly advanced artificial intelligence (AI) model used for language processing developed by OpenAI. ChatGPT has more than 175 billion parameters, making it among the largest and most powerful language models available, and the model was trained using a massive amount of data from the internet and other sources.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do People Use ChatGPT?
 
  ChatGPT launched in November 2022, and it didn’t take long for people to experiment with how they might use it. For example, you can [use ChatGPT to do everything](http://www.makeuseof.com/things-you-can-do-with-chatgpt/) from telling pumpkin jokes to advising how to improve team collaboration or even writing marketing emails!
@@ -40,15 +44,17 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
  These examples might make you think there’s [no limit to what ChatGPT can do](https://www.makeuseof.com/openai-lost-control-chatgpt/). However, that’s not an accurate assumption.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Will ChatGPT Replace Programmers?
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Whenever a new AI tool emerges on the tech scene, many people understandably wonder whether that innovation might get so advanced that it makes their jobs obsolete. Even people such as programmers, who have highly specialized skills, might face that worry.
 
  However, [ChatGPT’s limitations](http://www.makeuseof.com/openai-chatgpt-biggest-probelms/) make it incapable of entirely taking over programmers’ work. The ChatGPT site contains a sample interaction of someone using the tool to debug code, though.
@@ -64,8 +70,9 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some [criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/), ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Will ChatGPT Replace Other Jobs?
 
  You might wonder if [content writers should worry about ChatGPT](http://www.makeuseof.com/why-chatgpt-wont-take-writing-job/) taking their jobs. Fortunately, those professionals need not fear. ChatGPT responses are often repetitive and sometimes outdated, making them less valuable.
@@ -77,22 +84,20 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
  Elsewhere, people are explicitly [formatting questions to make ChatGPT ignore](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) its programming. That practice could spread misinformation. The question-and-answer site Stack Overflow also initiated a temporary ban on ChatGPT. Staff members explained the influx of ChatGPT-generated responses swamped content moderators who need some level of subject matter expertise to verify the accuracy, and [spotting generative AI written text](http://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) is next to impossible.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Deserves Caution
 
  The examples above and elsewhere highlight how ChatGPT might gradually change how employees work, but it won’t take over entire jobs. Instead, more people will start using ChatGPT to guide applicable parts of their workflows. If you’re thinking about using the chatbot for business, school, or pleasure, do so carefully and never assume you got wholly accurate answers.
 
 **SCROLL TO CONTINUE WITH CONTENT**
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -101,4 +106,21 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-best-fun-car-games-also-for-kids/"><u>[New] Best Fun Car Games [Also for Kids ]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplified-pubg-voice-alteration-guide/"><u>2024 Approved Simplified PUBG Voice Alteration Guide</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/all-encompassing-tech-specialist-suite-for-data-restoration-works-with-diverse-file-formats/"><u>All-Encompassing Tech Specialist Suite for Data Restoration - Works with Diverse File Formats</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-gaps-eu-ai-act-and-its-consequences-for-chatgpt/"><u>Bridging Gaps: EU AI Act and Its Consequences for ChatGPT</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-your-youtube-presence-with-studio-insights/"><u>Elevate Your YouTube Presence with Studio Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/get-your-icloud-working-fixes-for-windows-users/"><u>Get Your iCloud Working: Fixes for Windows Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-efficiently-archive-skype-conversations-for-future-reference/"><u>In 2024, Efficiently Archive Skype Conversations for Future Reference</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-chatgpt-with-new-plugins/"><u>Optimizing ChatGPT with New Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/peering-into-ais-unseen-processes-black-box-exploration/"><u>Peering Into AI's Unseen Processes: Black Box Exploration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pinpointing-bingchats-deceptive-crypto-schemes/"><u>Pinpointing BingChat's Deceptive Crypto Schemes</u></a></li>
+<li><a href="https://facebook.techidaily.com/should-you-use-facebook-to-log-into-other-apps-6-pros-and-cons/"><u>Should You Use Facebook to Log Into Other Apps? 6 Pros and Cons</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-to-converting-dvds-with-handbrake-easy-tips-for-your-pc/"><u>Step-by-Step Guide to Converting DVDs with Handbrake - Easy Tips for Your PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-beginners-guide-to-stunning-slow-motion-shooting-with-an-android-for-2024/"><u>The Beginner's Guide to Stunning Slow-Motion Shooting with an Android for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-top-10-strategies-for-apples-intelligence-evolution-to-challenge-openai-and-google-dominance-in-ai/"><u>The Top 10 Strategies for Apple's Intelligence Evolution to Challenge OpenAI & Google Dominance in AI</u></a></li>
+</ul></div>
 

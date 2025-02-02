@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Must-Have Savings in August 2Nce: Unveiling the Hottest Deals, According to ZDNET"
-date: 2025-01-13T16:37:40.753Z
-updated: 2025-01-18T17:12:20.720Z
+date: 2025-01-26T00:24:01.469Z
+updated: 2025-01-31T21:51:28.581Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ The shopping giant frequently cuts prices on top tech products all year round, i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best Amazon deals of August 2024
 
 Jason Hiner/ZDNET
@@ -42,7 +38,7 @@ Jason Hiner/ZDNET
 * [Asus Tuf Gaming A16 2024 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-TUF-Gaming-Laptop-165Hz%2Fdp%2FB0CRCWY9VT%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CRCWY9VT%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $1,300 (save $500)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Amazon tech deals
@@ -59,7 +55,7 @@ Jason Hiner/ZDNET
 * [JBL Tune Flex Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJBL-Tune-Flex-Wireless-Cancelling%2Fdp%2FB0C1QNRGHC%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0C1QNRGHC%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $50 (save $50)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Amazon TV deals
@@ -73,10 +69,6 @@ Jason Hiner/ZDNET
 * [Sony 65-inch OLED 4K Ultra Bravia 8 TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSony-Exclusive-Features-PlayStation-K-65XR80%2Fdp%2FB0CVQ6YLH7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $1,1998 (save $502)
 * [LG 75-inch QNED80T LED Smart TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-75-Inch-Processor-AI-Powered-75QNED80TUC%2Fdp%2FB0CVSK2F85%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CVSK2F85%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $1,197 (save $203)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best Amazon robot vacuum deals
 
 Maria Diaz/ZDNET
@@ -88,6 +80,10 @@ Maria Diaz/ZDNET
 * [Eufy L60 Robot Vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Feufy-Vacuum-Suction-Navigation-Cleaning%2Fdp%2FB0CDB56ZWV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $200 (save $80 with on-page coupon)
 * [Roborock S8 Pro Ultra Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPro-Ultra-Self-Washing-Self-Refilling-Self-Emptying%2Fdp%2FB0BVB5PTDK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $950 (save $650)
 * [Roborock Q8 Max Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Froborock-Q8-Max-Navigation-Multi-Level%2Fdp%2FB0C7VFD9Q4%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Fcontent-id%3Damzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%3Aamzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%26crid%3D37DMVM6CIU4Y0%26cv%5Fct%5Fcx%3Drobot%2Bvacuum%26dib%3DeyJ2IjoiMSJ9.A4bejnO1HqJM%5FozbrGpsoYI205q99h9DoNEZVmg9dNI-ILQl1J-mSnznl4IKQtzDgOTGYo%5Fa7rpT3PH-A2Mpiw.a4a0hgwCDw4CmRSsqS2wHRhfJu%5FuKKwf5z-r8S-VJok%26dib%5Ftag%3Dse%26keywords%3Drobot%2Bvacuum%26pd%5Frd%5Fi%3DB0C7VFD9Q4%26pd%5Frd%5Fr%3Dc5436de8-abf5-4537-95f0-9cc48163f596%26pd%5Frd%5Fw%3DOlqAp%26pd%5Frd%5Fwg%3DQ2Iuk%26pf%5Frd%5Fp%3D60b0c4ef-0fd2-46d0-8724-84b6f746d062%26pf%5Frd%5Fr%3DAKHVV8K35XC7VV3MS5S3%26qid%3D1723557736%26sbo%3DRZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D%26sprefix%3Drobot%2Bvacuum%2B%2Caps%2C104%26sr%3D1-20-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $320 (save $280)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best Amazon home deals
 
@@ -102,11 +98,11 @@ Maria Diaz/ZDNET
 * [Jackery Explorer 240 v2 Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJackery-v2-Versatile-Scenarios-Outdoor-Emergency%2Fdp%2FB0D2L1B7PK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $189 (save $60)
 * [Bluetti EB3A Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBLUETTI-Portable-EB3A-Recharge-Generator%2Fdp%2FB09WW3CTF4%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB09WW3CTF4%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39135028-d76a-4f44-8b47-f5a345f6a15c%7Cdtp&dtb=1) for $198 (save $102)
 
-##   
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+##   
 
 ## How did we choose these Amazon deals?
 
@@ -117,6 +113,10 @@ We also looked over customer reviews to find out what matters to real people who
 ## When will these deals expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How much is an Amazon Prime membership?
 
@@ -166,24 +166,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-advanced-vision-systems-with-green-promise/"><u>[New] In 2024, Advanced Vision Systems with Green Promise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rawtiff-movavi/"><u>「無料オンラインツールを使ったRAW画像からTIFFへの移行 - Movavi変換サービス」</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-uhd-precision-converter-clearer-sharper-visuals/"><u>2024 Approved UHD Precision Converter Clearer, Sharper Visuals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-perfekt-losninger-for-klik-pa-google-mxf-til-mp4-konverter-i-mac-og-windows/"><u>8 Perfekt Løsninger For Klik På Google - MXF Til MP4-Konverter I Mac Og Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mef-movavi/"><u>線上全球免費MEF格式影片交換平台 – Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversione-gratuita-da-f4v-a-mp4-online-con-movavi-segui-il-processo-passo-dopo-passo/"><u>Conversione Gratuita Da F4V a MP4 Online Con Movavi - Segui Il Processo Passo Dopo Passo!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/converti-file-mp4-in-immagini-jpeg-di-qualita-superiore-trasforma-in-linea-e-gratuito-con-movavi/"><u>Converti File MP4 in Immagini JPEG Di Qualità Superiore - Trasforma In Linea E Gratuito Con Movavi</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/direct-to-twitter-video-conversion-a-comprehensible-list/"><u>Direct-to-Twitter Video Conversion A Comprehensible List</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-converter-change-f4v-video-format-to-avi-explore-movavi/"><u>Free Online Converter: Change F4V Video Format to AVI - Explore Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transform-pgm-images-into-jpeg-format-with-ease-use-movavi/"><u>Free Online Converter: Transform PGM Images Into JPEG Format with Ease - Use Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/i5-vs-i7-comparatif-quel-processeur-domine-pour-les-amateurs-de-jeu-video/"><u>I5 vs I7 Comparatif : Quel Processeur Domine Pour Les Amateurs De Jeu Vidéo?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-15-plus-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 15 Plus</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-turn-your-videos-into-treasures-a-guide-to-creating-home-dvds/"><u>In 2024, Turn Your Videos Into Treasures A Guide to Creating Home DVDs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-visionary-solutions-top-1-ward-video-recorders-on-the-web/"><u>In 2024, Visionary Solutions Top 1 Ward Video Recorders on the Web</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavi-online-conversion-gratuita-de-audio-aac-al-formato-video-avi/"><u>Movavi Online - Conversión Gratuita De Audio AAC Al Formato Video AVI</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-zte-nubia-flip-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing ZTE Nubia Flip 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/punpixel-the-ultimate-tool-for-digital-humor/"><u>PunPixel The Ultimate Tool for Digital Humor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trasforma-i-tuoi-file-3gp-in-formato-webm-libero-di-uso-guida-passo-passo-con-movavi/"><u>Trasforma I Tuoi File 3GP in Formato WebM Libero Di Uso: Guida Passo-Passo Con Movavi</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-breaking-barriers-making-your-post-a-sensation-on-fb/"><u>[New] 2024 Approved Breaking Barriers Making Your Post a Sensation on FB</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-pro-snipping-made-simple-the-top-5-pc-screen-capture-apps-revealed/"><u>[Updated] 2024 Approved Pro Snipping Made Simple The Top 5 PC Screen Capture Apps Revealed</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-innovative-brainstroming-techniques-for-channels-names/"><u>[Updated] In 2024, Innovative Brainstroming Techniques for Channels' Names</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-leverage-social-platforms-for-vimeo-video-sharing-for-2024/"><u>[Updated] Leverage Social Platforms for Vimeo Video Sharing for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mini-marvels-ultimate-game-hunt/"><u>[Updated] Mini Marvels' Ultimate Game Hunt</u></a></li>
+<li><a href="https://fox-access.techidaily.com/film-editing-expertise-exchange-for-2024/"><u>Film Editing Expertise Exchange for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-i-overcame-apples-limited-fov-with-budget-friendly-xr-glasses-insights-from-a-zdnet-review/"><u>How I Overcame Apple's Limited FOV with Budget-Friendly XR Glasses - Insights From a ZDNet Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-70-lite-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor 70 Lite 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-y100t-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo Y100t</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-demystifying-screen-recording-insights-from-showmore-experts/"><u>In 2024, Demystifying Screen Recording Insights From ShowMore Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-roleplay-elements-fusing-technology-and-art-in-dungeons-and-dragons/"><u>Innovating Roleplay Elements: Fusing Technology & Art in Dungeons & Dragons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-the-simplified-audio-experience-of-sonos-new-s2-app-but-dont-overlook-these-key-limitations/"><u>Introducing the Simplified Audio Experience of Sonos' New S2 App - But Don't Overlook These Key Limitations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maintaining-confidentiality-in-work-chatai-usage/"><u>Maintaining Confidentiality in Work ChatAI Usage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-protectors-the-ultimate-guide-to-iphone-16-and-16-pro-cases-reviews-by-tech-gurus/"><u>Top-Rated Protectors: The Ultimate Guide to iPhone 16 & 16 Pro Cases - Reviews by Tech Gurus</u></a></li>
 </ul></div>
 

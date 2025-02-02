@@ -1,7 +1,7 @@
 ---
 title: "Ballads Battleground: ChatGPT vs Shepherds, Alpacas Unite!"
-date: 2025-01-06T20:30:55.982Z
-updated: 2025-01-12T23:10:43.105Z
+date: 2025-01-27T08:18:00.264Z
+updated: 2025-01-31T20:05:34.599Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,13 @@ thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Know About AI Chatbots
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
 
@@ -48,22 +48,22 @@ thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
@@ -80,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In order to test which LLM has the best general knowledge, we asked three questions.
 
  The first question, "Which national flag has five sides?" was only correctly answered by Bard, which identified the national flag of Nepal as having five sides.
@@ -91,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e
  None of our models could respond that the correct term for a pea-shaped object is "pisiform," with ChatGPT going so far as to suggest that peas have a "three-dimensional geometric shape that is perfectly round and symmetrical."
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which LLM Is Good for Technical Instructions?
 
@@ -124,10 +124,6 @@ thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
  Fortunately for comedians everywhere and the human race at large, none of the models were capable of generating an original joke.
@@ -139,6 +135,10 @@ thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e
  A derivative but original joke would be, "How are Large Language Models like atoms? They both make things up!"
 
  You read it here first, folks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
 
@@ -165,19 +165,21 @@ thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/uthentic-audience-growth-practical-advice-for-content-creators-for-2024/"><u>[New] Authentic Audience Growth Practical Advice for Content Creators for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-wirecast-overview-and-comparable-solutions/"><u>[Updated] 2024 Approved WireCast Overview & Comparable Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyy-boosts-asian-pacific-presence-through-strategic-takeover-of-pericom-singapore/"><u>ABBYY Boosts Asian-Pacific Presence Through Strategic Takeover of Pericom Singapore</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-compelling-online-livestreams-from-a-single-source/"><u>Crafting Compelling Online Livestreams From a Single Source</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-your-sites-performance-through-intelligent-data-analysis-tech/"><u>Enhance Your Site's Performance Through Intelligent Data Analysis Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-cognitive-abilities-with-abbyys-innovations-showcased-at-artificial-intelligence-world-conference-2019/"><u>Enhancing Cognitive Abilities with ABBYY's Innovations Showcased at Artificial Intelligence World Conference 2019</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-online-content-finding-the-ideal-website-pages/"><u>Exploring Online Content: Finding the Ideal Website Pages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/generations-spezifische-robotersupport-in-abbyy-study-sei-bei-bedarf-gerne-automatisiert/"><u>Generations-Spezifische Robotersupport in ABBYY Study - Sei Bei Bedarf Gerne Automatisiert!</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-iphone-6-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From iPhone 6</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/master-control-over-your-youtube-viewing-rhythm-for-2024/"><u>Master Control Over Your YouTube Viewing Rhythm for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/revolutionary-process-to-blend-gopro-videos-into-360-degree-panoramas/"><u>Revolutionary Process to Blend GoPro Videos Into 360-Degree Panoramas</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-common-problems-with-all-your-g2000-mikes-on-kotion-systems/"><u>Solving Common Problems with All Your G2000 Mikes on Kotion Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/whats-new-in-mozilla-thunderbird-update-discover-version-nkib/"><u>What's New in Mozilla Thunderbird Update - Discover Version Nkib</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-leading-10-video-editing-programs-for-instagram-reels-enthusiasts/"><u>[New] 2024 Approved Leading 10 Video Editing Programs for Instagram Reels Enthusiasts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-stepwise-approach-to-adding-video-tracks-to-your-youtube-playlists-for-2024/"><u>[New] Stepwise Approach to Adding Video Tracks to Your YouTube Playlists for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-insider-secrets-smooth-videophoto-transfer-to-windows-11-for-2024/"><u>[Updated] Insider Secrets Smooth Video/Photo Transfer to Windows 11 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-mac-iphone-and-ipad-pip/"><u>2024 Approved The Ultimate Guide to Mac, iPhone, and iPad PIP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-user-dialogues-directly-impact-ai-learning-in-chatgpt/"><u>Can User Dialogues Directly Impact AI Learning in ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-superiority-gpt-vs-huggingface/"><u>Deciphering Superiority: GPT VS HuggingFace</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-to-prevent-android-apps-from-running-in-the-background/"><u>Effective Techniques to Prevent Android Apps From Running in the Background</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-ai-game-with-these-7-tips/"><u>Elevate Your AI Game with These 7 Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-effects-does-ai-strengthen-or-weaken-our-mental-health-infrastructure-and-offer-guidance/"><u>Exploring the Effects: Does AI Strengthen or Weaken Our Mental Health Infrastructure & Offer Guidance?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gracious-speech-communicating-effectively-with-siri-and-alexa/"><u>Gracious Speech: Communicating Effectively with Siri & Alexa</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/growth-tactics-for-windows-storage-preserve-information/"><u>Growth Tactics for Windows Storage, Preserve Information</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-seamlessly-incorporate-gpt-3-in-your-job/"><u>How to Seamlessly Incorporate GPT-3 in Your Job</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-lecturers-guide-to-efficient-classroom-sound-archiving-on-macs/"><u>In 2024, Lecturer's Guide to Efficient Classroom Sound Archiving on Macs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-balanced-approach-to-smartphones-a-thorough-review-of-the-new-apple-iphone-se-2/"><u>The Balanced Approach to Smartphones: A Thorough Review of the New Apple iPhone SE (2#)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-amazon-bargains-this-month-august-2024-specials-featured-on-zdnet/"><u>Top-Rated Amazon Bargains This Month - August 2024 Specials Featured on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-most-innovative-mp3-devices-ranked/"><u>Ultimate Guide to the Most Innovative MP3 Devices - Ranked</u></a></li>
 </ul></div>
 

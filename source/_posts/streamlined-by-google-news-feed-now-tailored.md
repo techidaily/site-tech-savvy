@@ -1,7 +1,7 @@
 ---
 title: Streamlined by Google, News Feed Now Tailored
-date: 2024-08-25T17:37:50.284Z
-updated: 2024-08-26T17:37:50.284Z
+date: 2025-01-29T23:10:08.940Z
+updated: 2025-02-01T07:03:02.780Z
 tags:
   - chatgpt
   - open-ai
@@ -25,31 +25,9 @@ thumbnail: https://thmb.techidaily.com/1a9ff9a0df36e63422a5b90ac24e55bb1f02f4633
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
-## Shownotes
-
- This week, we chat about the following tech news:
-
-* [The Black Mirror plot about AI that worries actors](https://www.bbc.co.uk/news/technology-66200334)
-* [Sarah Silverman sues OpenAI and Meta](https://www.bbc.co.uk/news/technology-66164228)
-* [ChatGPT owner in probe over risks around false answers](https://www.bbc.co.uk/news/business-66196223)
-
- We've got these tips and explainers:
-
-* [Reasons Why Twitter Should Be Afraid of Meta's Threads](https://www.makeuseof.com/reasons-why-twitter-should-be-worried-threads/)
-* How to Save Money on Mobile Internet on Vacation
-
- We finish the show with the following recommendations:
-
-* [Nothing Phone (2)](https://www.makeuseof.com/nothing-phone-2-review/)
-* [Retroid Pocket 3+](https://www.goretroid.com/products/retroid-pocket-3-handheld-retro-gaming-system-1)
-
- Christian Cawley and Gavin Phillips host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@gavinspavin](https://twitter.com/gavinspavin), with your suggestions for future topics. Oh, and don't forget to leave us a review on [Apple Podcasts](http://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2)!
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- There's also a look at a new Google News feed feature that is being rolled out on Android.
-
- You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -78,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/1a9ff9a0df36e63422a5b90ac24e55bb1f02f4633
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we chat about the following tech news:
@@ -107,8 +86,9 @@ thumbnail: https://thmb.techidaily.com/1a9ff9a0df36e63422a5b90ac24e55bb1f02f4633
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we chat about the following tech news:
@@ -129,14 +109,41 @@ thumbnail: https://thmb.techidaily.com/1a9ff9a0df36e63422a5b90ac24e55bb1f02f4633
 
  Christian Cawley and Gavin Phillips host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@gavinspavin](https://twitter.com/gavinspavin), with your suggestions for future topics. Oh, and don't forget to leave us a review on [Apple Podcasts](http://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2)!
 
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ There's also a look at a new Google News feed feature that is being rolled out on Android.
+
+ You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Shownotes
+
+ This week, we chat about the following tech news:
+
+* [The Black Mirror plot about AI that worries actors](https://www.bbc.co.uk/news/technology-66200334)
+* [Sarah Silverman sues OpenAI and Meta](https://www.bbc.co.uk/news/technology-66164228)
+* [ChatGPT owner in probe over risks around false answers](https://www.bbc.co.uk/news/business-66196223)
+
+ We've got these tips and explainers:
+
+* [Reasons Why Twitter Should Be Afraid of Meta's Threads](https://www.makeuseof.com/reasons-why-twitter-should-be-worried-threads/)
+* How to Save Money on Mobile Internet on Vacation
+
+ We finish the show with the following recommendations:
+
+* [Nothing Phone (2)](https://www.makeuseof.com/nothing-phone-2-review/)
+* [Retroid Pocket 3+](https://www.goretroid.com/products/retroid-pocket-3-handheld-retro-gaming-system-1)
+
+ Christian Cawley and Gavin Phillips host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@gavinspavin](https://twitter.com/gavinspavin), with your suggestions for future topics. Oh, and don't forget to leave us a review on [Apple Podcasts](http://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2)!
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -145,4 +152,19 @@ thumbnail: https://thmb.techidaily.com/1a9ff9a0df36e63422a5b90ac24e55bb1f02f4633
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-the-power-of-visual-content-share-vids-on-facebook/"><u>[New] Unlocking the Power of Visual Content Share Vids on Facebook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-behind-the-scenes-preparing-to-go-live/"><u>[Updated] 2024 Approved Behind the Scenes Preparing to Go Live</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-art-of-revisiting-your-private-snap-history/"><u>[Updated] 2024 Approved The Art of Revisiting Your Private Snap History</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-dynamic-image-backdrops-for-video-editing/"><u>[Updated] Top 10 Dynamic Image Backdrops for Video Editing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/co-pilot-extension-transforming-the-way-we-engage-with-chatgpt/"><u>Co-Pilot Extension: Transforming the Way We Engage With ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-academic-research-via-ai-solutions/"><u>Efficient Academic Research via AI Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-track-individuals-that-reshared-your-facebook-statusesposts/"><u>How To Track Individuals That Reshared Your Facebook Statuses/Posts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-ais-effect-on-mental-health-treatment-efficacy/"><u>Navigating AI’s Effect on Mental Health Treatment Efficacy</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-ultimate-guide-to-translating-youtube-videos-without-cc/"><u>New Ultimate Guide to Translating YouTube Videos Without CC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/pricing-guide-to-film-a-bands-music-visual/"><u>Pricing Guide to Film a Band's Music Visual</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-permission-levels-for-non-administrative-windows-users/"><u>Tailoring Permission Levels for Non-Administrative Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-to-the-future-why-choose-chatgpt-pluss-9-features/"><u>Upgrade to the Future: Why Choose ChatGPT Plus's 9 Features?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Harnessing Powerful Conversations with FreedChat
-date: 2024-08-25T17:38:19.584Z
-updated: 2024-08-26T17:38:19.585Z
+date: 2025-01-27T18:30:15.387Z
+updated: 2025-01-31T20:33:55.127Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/3a57b1ddb74892f92e7ea8db98be1fa90b1375e9f
 
  The problem with ChatGPT is that it comes with some caveats:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. ChatGPT May Record and Use Your Responses for Training Purposes
 
  Most people don't consider that anything they chat about with OpenAI's solution is used to further train and improve it. That might not seem important until you realize that ChatGPT's next version may include your prompts in its answers to others.
@@ -47,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/3a57b1ddb74892f92e7ea8db98be1fa90b1375e9f
 
  There are two solutions to those problems you can pay for a subscription, or you can try an alternative like FreedomGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## How to Set Up FreedomGPT
 
  FreedomGPT aims to simplify and democratize the use of AI by the masses. Its unbelievably easy installation proves that it could someday achieve that goal.
@@ -62,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/3a57b1ddb74892f92e7ea8db98be1fa90b1375e9f
 
  With FreedomGPT's "app" part downloaded and installed, run its installed local instance.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## How to Download AI Models in FreedomGPT
 
  Although FreedomGPT is a complete AI chatbot solution, it initially lacks "the brains" that will allow you to interact with it: an AI model.
@@ -77,6 +74,11 @@ thumbnail: https://thmb.techidaily.com/3a57b1ddb74892f92e7ea8db98be1fa90b1375e9f
 3. Even the most compact AI models can be multiple gigabytes in size, so it may take a while to download your chosen model. Fortunately, FreedomGPT will show you a download progress bar.  
 ![FreedomGPT Downloading Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-downloading-model-1.jpg)
 4. Once you've downloaded an AI mode, a new button will appear on the left, allowing you to **Select** which downloaded AI model you'd like to use.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![FreedomGPT AI Model Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-ai-model-selection-1.jpg)
 
 ## How to Chat With FreedomGPT
@@ -86,11 +88,17 @@ thumbnail: https://thmb.techidaily.com/3a57b1ddb74892f92e7ea8db98be1fa90b1375e9f
 1. The first thing you will see after choosing an AI model are some examples of prompts you can try out and information on its capabilities and limitations. If you want to try out one of the example prompts, click on it. However, you can type anything you wish in the input field at the bottom of FreedomGPT's window.  
 ![FreedomGPT Interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-interface-1.jpg)
 2. Press **Enter** after typing your prompt, and it will show up in FreedomGPT's conversation view. The AI model's response will appear below your prompt. If you don't like how it's going, you can cut a response short by clicking on the **Stop Responding** button, which appears while a reply is produced.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![FreedomGPT Chatting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-chatting-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Switch Models in FreedomGPT
 
  If you want to try another AI model, you don't have to exit and rerun FreedomGPT. You can switch models from within the app.
@@ -98,17 +106,12 @@ thumbnail: https://thmb.techidaily.com/3a57b1ddb74892f92e7ea8db98be1fa90b1375e9f
 1. At the top left of FreedomGPT's window is the current AI model's name. Click on it to access the model management panel.  
 ![FreedomGPT Active Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-active-model-1.jpg)
 2. The model management panel is identical to the screen you saw when you first ran FreedomGPT. You can switch to another model from this panel by clicking on **Select** before its name or **Download** and install more models.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![FreedomGPT Switch Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-switch-models-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
+
 ## Talk to an AI Whenever You Like With FreedomGPT
 
  Although it's less feature-rich and advanced than ChatGPT, FreedomGPT has many pros going for it You don't share whatever you type with others, it's available while you're offline, it's easy to set up and use, and best of all, it's free to use.
@@ -117,14 +120,11 @@ thumbnail: https://thmb.techidaily.com/3a57b1ddb74892f92e7ea8db98be1fa90b1375e9f
 
  Unlike ChatGPT, which is only usable through your browser when connected to the internet, FreedomGPT is an alternative you can install on your computer. You can then chat with it about anything you want without sharing your data with others.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,4 +133,21 @@ thumbnail: https://thmb.techidaily.com/3a57b1ddb74892f92e7ea8db98be1fa90b1375e9f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ultimate-guide-to-environmentally-safe-tech/"><u>[New] 2024 Approved Ultimate Guide to Environmentally Safe Tech</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-achieving-visual-excellence-aspect-ratio-mastery-on-youtube-for-2024/"><u>[New] Achieving Visual Excellence ASPECT RATIO Mastery on YOUTUBE for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-from-concept-to-delivery-using-luts-with-adobe-ae-for-2024/"><u>[Updated] From Concept to Delivery Using LUTs with Adobe AE for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-phantom-taps-rising-reports-of-unresponsive-interactions-on-apple-watch-solutions-explored-tech-insights/"><u>1. 'Phantom Taps': Rising Reports of Unresponsive Interactions on Apple Watch – Solutions Explored | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-pro-unveiled-a-comparative-study-with-chatgptplus/"><u>Claude Pro Unveiled: A Comparative Study with ChatGPT+</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/flipping-videos-like-a-pro-quick-easy-and-stress-free/"><u>Flipping Videos Like a Pro Quick, Easy, and Stress-Free</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/freelancers-vs-ai-bots-navigating-between-bing-chat-and-gpt-3/"><u>Freelancers Vs. AI Bots: Navigating Between Bing Chat and GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mind-blowing-news-speak-to-the-ai-gpt/"><u>Mind-Blowing News: Speak To The AI GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-case-for-claude-3-top-4-benefits-over-chatgpt/"><u>The Case for Claude 3: Top 4 Benefits Over ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-teacher-ai-alliance-top-8-advantages-of-embracing-technology/"><u>The Teacher-AI Alliance: Top 8 Advantages of Embracing Technology</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Infinix Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-gaming-notebooks-reviewed-and-compared-featuring-razer-acer-msi-and-others-insights/"><u>Top Gaming Notebooks Reviewed & Compared: Featuring Razer, Acer, MSI & Others - Insights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unlocking-vlcs-full-potential-for-transforming-mp4-and-various-formats-for-2024/"><u>Unlocking VLC's Full Potential for Transforming MP4 & Various Formats for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-stopping-siri-chatgpt-comparisons-helps-recognize-distinctive-qualities/"><u>Why Stopping Siri-ChatGPT Comparisons Helps Recognize Distinctive Qualities</u></a></li>
+</ul></div>
 

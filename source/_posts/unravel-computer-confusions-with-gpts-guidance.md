@@ -1,7 +1,7 @@
 ---
 title: Unravel Computer Confusions with GPT's Guidance
-date: 2024-08-25T17:38:38.399Z
-updated: 2024-08-26T17:38:38.399Z
+date: 2025-01-25T02:47:25.250Z
+updated: 2025-01-31T20:52:09.174Z
 tags:
   - chatgpt
   - open-ai
@@ -38,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/bbf8b4ac709b45ef5944f09a459d244c293de523e
  Head to [ChatGPT](https://chat.openai.com/) and either log in or make a free account if you don't already have one. From here, you can start talking to ChatGPT-3.5 and ask it how to fix your PC. We've used ChatGPT to fix three common PC hardware issues. However, it's just the tip of the iceberg and illustrates ChatGPT's range and how to apply it to your machine.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Fix a PC That Won't Start With ChatGPT
 
  Whether it is stuck in a boot loop, powers on but doesn't boot, or won't start at all, plenty of issues can cause PC startup failure. In this case, our PC won't start because the power supply switch is off.
@@ -49,8 +50,9 @@ thumbnail: https://thmb.techidaily.com/bbf8b4ac709b45ef5944f09a459d244c293de523e
 ![ChatGPT troubleshooting a PC that won't start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-wont-start-pc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As you can see from the results, ChatGPT casts a fairly wide net when it comes to PC troubleshooting. This isn't a bad thing, and all of the suggestions it has provided are worthwhile. They are even presented in a sensible order.
 
  In the case of our problem, ChatGPT has gotten quite lucky here, solving the problem with its first suggestion. But what if it has something more complicated to solve?
@@ -73,44 +75,31 @@ thumbnail: https://thmb.techidaily.com/bbf8b4ac709b45ef5944f09a459d244c293de523e
 
  ChatGPT is great for questions like this. It can give you prompts you would never have thought of, making it far more obvious when you have [issues slowing down your PC that you aren't aware of](https://www.makeuseof.com/windows-10-habits-slow-down-pc/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## 3\. How to Fix PC Blue Screens With ChatGPT
 
  While they aren't as scary as they used to be, blue screens are difficult to deal with and cause a lot of frustration when they occur repeatedly. Many issues can cause a blue screen crash, but you won't always get an error code to help you find the solution.
 
 ![ChatGPT fixing blue screens without an error code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-blue-screening-pc-without-error.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  Asking ChatGPT, "How do I fix a PC that keeps blue screening?" will yield a long list of general solutions. It will usually suggest noting and researching the error code provided with the blue screen, along with a range of other solutions that are largely helpful.
 
  One of the common solutions ChatGPT provides for blue screens is, once again, reinstalling your operating system. This is also not the best solution in the case of blue screening, but it could help if a software issue is causing the error.
 
  If your blue screen does come with an error code, you will have a much easier time figuring out what is wrong with the machine. You can find lists of BSOD error codes around the web, with 0xC0000218 serving as a good example. This error only shows when Windows can't load a registry file that it needs.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Can ChatGPT Fix a Specific Bluescreen Error Code?
 
  Let's see if ChatGPT can figure out how to fix this issue by asking, "How do I fix a PC with a 0xC0000218 blue screen error code?".
 
 ![ChatGPT with blue screen error code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-blue-screening-pc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  As you can see, ChatGPT does know what the error code means. Despite this, the solutions it suggests remain relatively standard troubleshooting steps and lack nuance compared to similar questions.
 
  Fixing blue screen errors is challenging if you don't have the right guidance. Alongside using ChatGPT, it's well worth reading a real human-written [guide to solving blue screens in Windows](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) to help you through this process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can You Fix a Broken PC With ChatGPT?
 
@@ -141,9 +130,6 @@ thumbnail: https://thmb.techidaily.com/bbf8b4ac709b45ef5944f09a459d244c293de523e
 
  So, how can you use ChatGPT to solve your computer problems?
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Troubleshoot a Broken PC With ChatGPT
 
  Troubleshooting a broken PC often involves many searches and dives into help pages and forum posts, which can take time. Thankfully, though, it just so happens that ChatGPT is an expert in scouring information online. It can even present it in a consolidated, concise set of instructions.
@@ -153,116 +139,8 @@ thumbnail: https://thmb.techidaily.com/bbf8b4ac709b45ef5944f09a459d244c293de523e
  Head to [ChatGPT](https://chat.openai.com/) and either log in or make a free account if you don't already have one. From here, you can start talking to ChatGPT-3.5 and ask it how to fix your PC. We've used ChatGPT to fix three common PC hardware issues. However, it's just the tip of the iceberg and illustrates ChatGPT's range and how to apply it to your machine.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-## 1\. How to Fix a PC That Won't Start With ChatGPT
-
- Whether it is stuck in a boot loop, powers on but doesn't boot, or won't start at all, plenty of issues can cause PC startup failure. In this case, our PC won't start because the power supply switch is off.
-
- This is an easy issue for a human to resolve, but how quickly will ChatGPT give us the correct answer? Let's say, "My PC won't start" to OpenAI's ChatGPT 3.5 free chatbot.
-
-![ChatGPT troubleshooting a PC that won't start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-wont-start-pc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
- As you can see from the results, ChatGPT casts a fairly wide net when it comes to PC troubleshooting. This isn't a bad thing, and all of the suggestions it has provided are worthwhile. They are even presented in a sensible order.
-
- In the case of our problem, ChatGPT has gotten quite lucky here, solving the problem with its first suggestion. But what if it has something more complicated to solve?
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
-## 2\. How to Fix a Slow PC With ChatGPT
-
- A slow PC can be almost as bad as one that won't start, causing endless frustration as you try to complete your daily tasks. Faulty hardware, fragmented drives, malware, and various other problems can cause a PC to run slowly.
-
- In this case, our PC is running slowly because it is old and hasn't been maintained very well. There are several steps that you can take to improve the speed of an old PC, but you will need to be more specific with ChatGPT than in our last request to get relevant results.
-
- Let's try "How can I make an old PC run faster?" with OpenAI's ChatGPT 3.5 Chatbot to see how well it does.
-
-![ChatGPT slow PC troubleshooting response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-slow-pc.jpg)
-
- Once again, ChatGPT provides a list of solutions to our problem, and it's up to us to assess how well they will work. As before, ChatGPT has done well in identifying some of the key causes of slow PCs, but it has also made some suggestions that aren't so sensible.
-
- For instance, completely reinstalling your operating system can make an old PC faster. This is because of compounding issues, like fragmented drives and loads of programs running on startup, but you can solve these issues without starting fresh. In fact, ChatGPT has given you loads of suggestions that should mitigate the need for such action.
-
- It would be unreasonable to expect ChatGPT to be able to correct this, but it shows that you have to be a little bit careful when following advice from an AI chatbot. Upgrading your hardware, cleaning the machine, and many other suggestions are well worth trying if you have a slow PC.
-
- ChatGPT is great for questions like this. It can give you prompts you would never have thought of, making it far more obvious when you have [issues slowing down your PC that you aren't aware of](https://www.makeuseof.com/windows-10-habits-slow-down-pc/).
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
-## 3\. How to Fix PC Blue Screens With ChatGPT
-
- While they aren't as scary as they used to be, blue screens are difficult to deal with and cause a lot of frustration when they occur repeatedly. Many issues can cause a blue screen crash, but you won't always get an error code to help you find the solution.
-
-![ChatGPT fixing blue screens without an error code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-blue-screening-pc-without-error.jpg)
-
- Asking ChatGPT, "How do I fix a PC that keeps blue screening?" will yield a long list of general solutions. It will usually suggest noting and researching the error code provided with the blue screen, along with a range of other solutions that are largely helpful.
-
- One of the common solutions ChatGPT provides for blue screens is, once again, reinstalling your operating system. This is also not the best solution in the case of blue screening, but it could help if a software issue is causing the error.
-
- If your blue screen does come with an error code, you will have a much easier time figuring out what is wrong with the machine. You can find lists of BSOD error codes around the web, with 0xC0000218 serving as a good example. This error only shows when Windows can't load a registry file that it needs.
-
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Can ChatGPT Fix a Specific Bluescreen Error Code?
-
- Let's see if ChatGPT can figure out how to fix this issue by asking, "How do I fix a PC with a 0xC0000218 blue screen error code?".
-
-![ChatGPT with blue screen error code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-blue-screening-pc.jpg)
-
- As you can see, ChatGPT does know what the error code means. Despite this, the solutions it suggests remain relatively standard troubleshooting steps and lack nuance compared to similar questions.
-
- Fixing blue screen errors is challenging if you don't have the right guidance. Alongside using ChatGPT, it's well worth reading a real human-written [guide to solving blue screens in Windows](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) to help you through this process.
-
-## Can You Fix a Broken PC With ChatGPT?
-
- As you can see, ChatGPT is a powerful tool, but it struggles to go beyond answering simple troubleshooting requests. This doesn't mean that it isn't helpful for jobs like this, though, and there are many ways to use ChatGPT to help you when you have a broken PC.
-
- One of the first steps is to make sure that you view ChatGPT as an assistant rather than dedicated tech support. It can guide you and help you find the correct answers in some cases, but it can't solve problems for you directly.
-
- There are several things to keep in mind when you are asking ChatGPT questions.
-
-* **Be Concise**: ChatGPT always does best with requests that include all relevant information in as few words as possible.
-* **Be Specific**: Avoid vague requests if you want to find specific answers.
-* **Be Patient**: ChatGPT generates a new response to every request, even if two requests are identical. This makes it worth being patient and trying multiple requests if you can't get what you want out of ChatGPT.
-* **Do Additional Research**: Don't put all of your trust in ChatGPT. Research the suggestions it provides to ensure they apply to your computer problem.
-
- It's also worth prompting ChatGPT for a PC fix, then heading back to regular PC hardware forums to check what it said is accurate before implementing its suggestion.
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## Use ChatGPT as Your PC Hardware Assistant, Not Your Mentor
-
- ChatGPT will improve as time goes by, and this means its ability to solve computer problems will only get better. This AI chatbot can help you fix a broken PC when you use it correctly, but you will still have to do all of the real work.
-
- As with many ChatGPT uses, having even a rough understanding of what to ask and how to interpret ChatGPT's results is vital to succeeding.
-
-**MUO VIDEO OF THE DAY**
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- Since its launch in November 2022, ChatGPT has taken the online world by storm. The seemingly omniscient chatbot is used to create content, provide customer support, and even trick real people. But ChatGPT has many more uses than that and has the knowledge to guide you through issues relating to your computer when it breaks.
-
- So, how can you use ChatGPT to solve your computer problems?
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## How to Troubleshoot a Broken PC With ChatGPT
-
- Troubleshooting a broken PC often involves many searches and dives into help pages and forum posts, which can take time. Thankfully, though, it just so happens that ChatGPT is an expert in scouring information online. It can even present it in a consolidated, concise set of instructions.
-
- To showcase ChatGPT's ability to troubleshoot computer problems, we will use ChatGPT-3.5 to solve five of the most common PC issues users face. ChatGPT-3.5 is the free version of the generative AI tool, which means anyone can give it a try.
-
- Head to [ChatGPT](https://chat.openai.com/) and either log in or make a free account if you don't already have one. From here, you can start talking to ChatGPT-3.5 and ask it how to fix your PC. We've used ChatGPT to fix three common PC hardware issues. However, it's just the tip of the iceberg and illustrates ChatGPT's range and how to apply it to your machine.
 
 ## 1\. How to Fix a PC That Won't Start With ChatGPT
 
@@ -276,9 +154,6 @@ thumbnail: https://thmb.techidaily.com/bbf8b4ac709b45ef5944f09a459d244c293de523e
 
  In the case of our problem, ChatGPT has gotten quite lucky here, solving the problem with its first suggestion. But what if it has something more complicated to solve?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. How to Fix a Slow PC With ChatGPT
 
  A slow PC can be almost as bad as one that won't start, causing endless frustration as you try to complete your daily tasks. Faulty hardware, fragmented drives, malware, and various other problems can cause a PC to run slowly.
@@ -289,9 +164,6 @@ thumbnail: https://thmb.techidaily.com/bbf8b4ac709b45ef5944f09a459d244c293de523e
 
 ![ChatGPT slow PC troubleshooting response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-slow-pc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once again, ChatGPT provides a list of solutions to our problem, and it's up to us to assess how well they will work. As before, ChatGPT has done well in identifying some of the key causes of slow PCs, but it has also made some suggestions that aren't so sensible.
 
  For instance, completely reinstalling your operating system can make an old PC faster. This is because of compounding issues, like fragmented drives and loads of programs running on startup, but you can solve these issues without starting fresh. In fact, ChatGPT has given you loads of suggestions that should mitigate the need for such action.
@@ -318,13 +190,14 @@ thumbnail: https://thmb.techidaily.com/bbf8b4ac709b45ef5944f09a459d244c293de523e
 
 ![ChatGPT with blue screen error code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-blue-screening-pc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, ChatGPT does know what the error code means. Despite this, the solutions it suggests remain relatively standard troubleshooting steps and lack nuance compared to similar questions.
 
  Fixing blue screen errors is challenging if you don't have the right guidance. Alongside using ChatGPT, it's well worth reading a real human-written [guide to solving blue screens in Windows](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) to help you through this process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Can You Fix a Broken PC With ChatGPT?
 
  As you can see, ChatGPT is a powerful tool, but it struggles to go beyond answering simple troubleshooting requests. This doesn't mean that it isn't helpful for jobs like this, though, and there are many ways to use ChatGPT to help you when you have a broken PC.
@@ -340,11 +213,6 @@ thumbnail: https://thmb.techidaily.com/bbf8b4ac709b45ef5944f09a459d244c293de523e
 
  It's also worth prompting ChatGPT for a PC fix, then heading back to regular PC hardware forums to check what it said is accurate before implementing its suggestion.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## Use ChatGPT as Your PC Hardware Assistant, Not Your Mentor
 
  ChatGPT will improve as time goes by, and this means its ability to solve computer problems will only get better. This AI chatbot can help you fix a broken PC when you use it correctly, but you will still have to do all of the real work.
@@ -389,6 +257,10 @@ The powerful video editing program for your Windows PC</a>
 
 ![ChatGPT slow PC troubleshooting response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-slow-pc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once again, ChatGPT provides a list of solutions to our problem, and it's up to us to assess how well they will work. As before, ChatGPT has done well in identifying some of the key causes of slow PCs, but it has also made some suggestions that aren't so sensible.
 
  For instance, completely reinstalling your operating system can make an old PC faster. This is because of compounding issues, like fragmented drives and loads of programs running on startup, but you can solve these issues without starting fresh. In fact, ChatGPT has given you loads of suggestions that should mitigate the need for such action.
@@ -397,9 +269,6 @@ The powerful video editing program for your Windows PC</a>
 
  ChatGPT is great for questions like this. It can give you prompts you would never have thought of, making it far more obvious when you have [issues slowing down your PC that you aren't aware of](https://www.makeuseof.com/windows-10-habits-slow-down-pc/).
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## 3\. How to Fix PC Blue Screens With ChatGPT
 
  While they aren't as scary as they used to be, blue screens are difficult to deal with and cause a lot of frustration when they occur repeatedly. Many issues can cause a blue screen crash, but you won't always get an error code to help you find the solution.
@@ -407,9 +276,110 @@ The powerful video editing program for your Windows PC</a>
 ![ChatGPT fixing blue screens without an error code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-blue-screening-pc-without-error.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Asking ChatGPT, "How do I fix a PC that keeps blue screening?" will yield a long list of general solutions. It will usually suggest noting and researching the error code provided with the blue screen, along with a range of other solutions that are largely helpful.
+
+ One of the common solutions ChatGPT provides for blue screens is, once again, reinstalling your operating system. This is also not the best solution in the case of blue screening, but it could help if a software issue is causing the error.
+
+ If your blue screen does come with an error code, you will have a much easier time figuring out what is wrong with the machine. You can find lists of BSOD error codes around the web, with 0xC0000218 serving as a good example. This error only shows when Windows can't load a registry file that it needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Can ChatGPT Fix a Specific Bluescreen Error Code?
+
+ Let's see if ChatGPT can figure out how to fix this issue by asking, "How do I fix a PC with a 0xC0000218 blue screen error code?".
+
+![ChatGPT with blue screen error code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-blue-screening-pc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ As you can see, ChatGPT does know what the error code means. Despite this, the solutions it suggests remain relatively standard troubleshooting steps and lack nuance compared to similar questions.
+
+ Fixing blue screen errors is challenging if you don't have the right guidance. Alongside using ChatGPT, it's well worth reading a real human-written [guide to solving blue screens in Windows](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) to help you through this process.
+
+## Can You Fix a Broken PC With ChatGPT?
+
+ As you can see, ChatGPT is a powerful tool, but it struggles to go beyond answering simple troubleshooting requests. This doesn't mean that it isn't helpful for jobs like this, though, and there are many ways to use ChatGPT to help you when you have a broken PC.
+
+ One of the first steps is to make sure that you view ChatGPT as an assistant rather than dedicated tech support. It can guide you and help you find the correct answers in some cases, but it can't solve problems for you directly.
+
+ There are several things to keep in mind when you are asking ChatGPT questions.
+
+* **Be Concise**: ChatGPT always does best with requests that include all relevant information in as few words as possible.
+* **Be Specific**: Avoid vague requests if you want to find specific answers.
+* **Be Patient**: ChatGPT generates a new response to every request, even if two requests are identical. This makes it worth being patient and trying multiple requests if you can't get what you want out of ChatGPT.
+* **Do Additional Research**: Don't put all of your trust in ChatGPT. Research the suggestions it provides to ensure they apply to your computer problem.
+
+ It's also worth prompting ChatGPT for a PC fix, then heading back to regular PC hardware forums to check what it said is accurate before implementing its suggestion.
+
+## Use ChatGPT as Your PC Hardware Assistant, Not Your Mentor
+
+ ChatGPT will improve as time goes by, and this means its ability to solve computer problems will only get better. This AI chatbot can help you fix a broken PC when you use it correctly, but you will still have to do all of the real work.
+
+ As with many ChatGPT uses, having even a rough understanding of what to ask and how to interpret ChatGPT's results is vital to succeeding.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Since its launch in November 2022, ChatGPT has taken the online world by storm. The seemingly omniscient chatbot is used to create content, provide customer support, and even trick real people. But ChatGPT has many more uses than that and has the knowledge to guide you through issues relating to your computer when it breaks.
+
+ So, how can you use ChatGPT to solve your computer problems?
+
+## How to Troubleshoot a Broken PC With ChatGPT
+
+ Troubleshooting a broken PC often involves many searches and dives into help pages and forum posts, which can take time. Thankfully, though, it just so happens that ChatGPT is an expert in scouring information online. It can even present it in a consolidated, concise set of instructions.
+
+ To showcase ChatGPT's ability to troubleshoot computer problems, we will use ChatGPT-3.5 to solve five of the most common PC issues users face. ChatGPT-3.5 is the free version of the generative AI tool, which means anyone can give it a try.
+
+ Head to [ChatGPT](https://chat.openai.com/) and either log in or make a free account if you don't already have one. From here, you can start talking to ChatGPT-3.5 and ask it how to fix your PC. We've used ChatGPT to fix three common PC hardware issues. However, it's just the tip of the iceberg and illustrates ChatGPT's range and how to apply it to your machine.
+
+## 1\. How to Fix a PC That Won't Start With ChatGPT
+
+ Whether it is stuck in a boot loop, powers on but doesn't boot, or won't start at all, plenty of issues can cause PC startup failure. In this case, our PC won't start because the power supply switch is off.
+
+ This is an easy issue for a human to resolve, but how quickly will ChatGPT give us the correct answer? Let's say, "My PC won't start" to OpenAI's ChatGPT 3.5 free chatbot.
+
+![ChatGPT troubleshooting a PC that won't start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-wont-start-pc.jpg)
+
+ As you can see from the results, ChatGPT casts a fairly wide net when it comes to PC troubleshooting. This isn't a bad thing, and all of the suggestions it has provided are worthwhile. They are even presented in a sensible order.
+
+ In the case of our problem, ChatGPT has gotten quite lucky here, solving the problem with its first suggestion. But what if it has something more complicated to solve?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 2\. How to Fix a Slow PC With ChatGPT
+
+ A slow PC can be almost as bad as one that won't start, causing endless frustration as you try to complete your daily tasks. Faulty hardware, fragmented drives, malware, and various other problems can cause a PC to run slowly.
+
+ In this case, our PC is running slowly because it is old and hasn't been maintained very well. There are several steps that you can take to improve the speed of an old PC, but you will need to be more specific with ChatGPT than in our last request to get relevant results.
+
+ Let's try "How can I make an old PC run faster?" with OpenAI's ChatGPT 3.5 Chatbot to see how well it does.
+
+![ChatGPT slow PC troubleshooting response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-slow-pc.jpg)
+
+ Once again, ChatGPT provides a list of solutions to our problem, and it's up to us to assess how well they will work. As before, ChatGPT has done well in identifying some of the key causes of slow PCs, but it has also made some suggestions that aren't so sensible.
+
+ For instance, completely reinstalling your operating system can make an old PC faster. This is because of compounding issues, like fragmented drives and loads of programs running on startup, but you can solve these issues without starting fresh. In fact, ChatGPT has given you loads of suggestions that should mitigate the need for such action.
+
+ It would be unreasonable to expect ChatGPT to be able to correct this, but it shows that you have to be a little bit careful when following advice from an AI chatbot. Upgrading your hardware, cleaning the machine, and many other suggestions are well worth trying if you have a slow PC.
+
+ ChatGPT is great for questions like this. It can give you prompts you would never have thought of, making it far more obvious when you have [issues slowing down your PC that you aren't aware of](https://www.makeuseof.com/windows-10-habits-slow-down-pc/).
+
+## 3\. How to Fix PC Blue Screens With ChatGPT
+
+ While they aren't as scary as they used to be, blue screens are difficult to deal with and cause a lot of frustration when they occur repeatedly. Many issues can cause a blue screen crash, but you won't always get an error code to help you find the solution.
+
+![ChatGPT fixing blue screens without an error code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-blue-screening-pc-without-error.jpg)
+
  Asking ChatGPT, "How do I fix a PC that keeps blue screening?" will yield a long list of general solutions. It will usually suggest noting and researching the error code provided with the blue screen, along with a range of other solutions that are largely helpful.
 
  One of the common solutions ChatGPT provides for blue screens is, once again, reinstalling your operating system. This is also not the best solution in the case of blue screening, but it could help if a software issue is causing the error.
@@ -446,15 +416,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  ChatGPT will improve as time goes by, and this means its ability to solve computer problems will only get better. This AI chatbot can help you fix a broken PC when you use it correctly, but you will still have to do all of the real work.
 
  As with many ChatGPT uses, having even a rough understanding of what to ask and how to interpret ChatGPT's results is vital to succeeding.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -463,4 +430,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-capturing-every-angle-top-choice-pro-360cameras-of-2023/"><u>[New] Capturing Every Angle Top Choice Pro 360°Cameras of 2023</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-10-heavy-lift-drones/"><u>[New] Top 10 Heavy Lift Drones</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-greatest-20-free-pubg-image-compilations/"><u>2024 Approved Greatest 20 Free PUBG Image Compilations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-revival-by-apple-significant-advances-and-areas-for-enhancement-unveiled-zdnet/"><u>AI Revival by Apple: Significant Advances & Areas for Enhancement Unveiled | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-barriers-generating-originality-via-microsofts-copilot/"><u>Breaking Barriers: Generating Originality via Microsoft's Copilot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-exciting-new-features-with-the-iphone-and-ipad-ios-18-preview-from-zdnet/"><u>Discover Exciting New Features with the iPhone & iPad iOS 18 Preview From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fostering-nutrition-with-gpts-guidance-techniques/"><u>Fostering Nutrition with GPT's Guidance Techniques</u></a></li>
+<li><a href="https://discover-data.techidaily.com/guide-complet-pour-la-securement-et-le-backup-sur-windows-home-server/"><u>Guide Complet Pour La Securement Et Le Backup Sur Windows Home Server</u></a></li>
+<li><a href="https://win-blog.techidaily.com/obs-malfunctioning-heres-how-to-resolve-it-in-windows-11-or-windows-10/"><u>OBS Malfunctioning? Here's How to Resolve It in Windows 11 or Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-connection-guide-linking-airpods-with-your-quest-3-without-disturbing-others-techwise/"><u>Seamless Connection Guide: Linking AirPods with Your Quest 3 Without Disturbing Others | TechWise</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-vivo-y100i-power-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Vivo Y100i Power 5G</u></a></li>
+</ul></div>
 

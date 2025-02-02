@@ -1,7 +1,7 @@
 ---
 title: "Interactive Revolution: Siri-Powered ChatGPT Experience iPhones"
-date: 2025-01-15T16:49:02.193Z
-updated: 2025-01-18T16:41:47.528Z
+date: 2025-01-24T19:11:50.695Z
+updated: 2025-02-01T01:14:30.085Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/a6e5c2635593081e4b6078ab257c66dc8d161f27c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Can You Get ChatGPT on Your iPhone?
 
  It's not as simple as downloading an app from the App Store, but it's definitely not too hard either. If you want to get ChatGPT on your iPhone, you'll have to download a shortcut in the Shortcuts app and paste an API key into it. Sounds complex? Don't worry; we'll walk you through it step by step.
@@ -45,21 +49,17 @@ thumbnail: https://thmb.techidaily.com/a6e5c2635593081e4b6078ab257c66dc8d161f27c
 
 ![OpenAI profile options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-profile-options.jpg)
 
-![create new secret key for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-new-secret-key.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![create new secret key for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-new-secret-key.jpg)
 
 ![copy OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-api-key.jpg)
 
 Close
 
  Now that you've obtained your API key, it's time to put it to use in the Shortcuts app. Make sure you don't copy anything else to the clipboard during this process. And if you're wondering, here are some other [things you can do with the OpenAI API key](http://www.makeuseof.com/openai-api-guide-what-can-you-do/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Setting Up the ChatGPT Shortcut on Your iPhone
 
@@ -74,11 +74,11 @@ Close
 
 ![set up iOS shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-up-shortcut.jpg)
 
-![paste OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![paste OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key.jpg)
 
 Close
 
@@ -95,21 +95,17 @@ Close
 ![add API key here option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-api-key-here-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![paste API key in workflow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key-in-workflow.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
  Congratulations, you now have your very own ChatGPT shortcut set up on your iPhone. Now for the million-dollar question: how do you use the shortcut with Siri on your iPhone?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using the ChatGPT Shortcut With Siri on Your iPhone
@@ -121,6 +117,10 @@ Close
 ![allow OpenAI access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-openai-access.jpg)
 
 ![allow speech recognition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-speech-recognition.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![ChatGPT launched with siri](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-launched-with-siri.jpg)
 
@@ -153,24 +153,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-boost-your-tv-experience-automatic-loops-of-youtube-videos/"><u>[New] In 2024, Boost Your TV Experience Automatic Loops of YouTube Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-innovative-mac-tool-for-screen-and-audio-capture/"><u>[New] In 2024, Innovative Mac Tool for Screen & Audio Capture</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-essential-amazon-discoveries-the-hottest-tiktok-trends/"><u>[Updated] 2024 Approved Essential Amazon Discoveries The Hottest TikTok Trends</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-navigating-the-maze-of-multi-service-playlist-transfer/"><u>[Updated] Navigating the Maze of Multi-Service Playlist Transfer</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-visual-storytelling-with-free-images-from-these-esteemed-online-portals/"><u>2024 Approved Mastering Visual Storytelling with Free Images From These Esteemed Online Portals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726222534617-movavi/"><u>無限量數字化翻譯服務 - Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/convert-rmvb-files-to-mkv-for-free-with-movavis-web-service-get-going-today/"><u>Convert RMVB Files to MKV for Free with Movavi's Web Service - Get Going Today!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/convertir-rapidement-vos-fichiers-wtv-en-mp4-sans-frais-avec-movavi-convertisseur-en-ligne/"><u>Convertir Rapidement Vos Fichiers WTV en MP4 Sans Frais Avec Movavi Convertisseur en Ligne</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/convertir-videos-sin-costo-facilmente-cambio-gratuito-de-formatos-m4v-a-mp4-por-medio-de-servicios-en-linea-como-movavi/"><u>Convertir Vídeos Sin Costo Fácilmente: Cambio Gratuito De Formatos M4V a MP4 Por Medio De Servicios en Línea Como Movavi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-v30-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo V30 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/les-apps-de-diapositives-les-plus-performantes-sur-ios-et-android-un-top-10-comparatif/"><u>Les Apps De Diapositives Les Plus Performantes Sur iOS Et Android : Un Top 10 Comparatif</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mpeg-video-to-animated-gif-transformation-no-cost-by-movavi/"><u>MPEG Video to Animated GIF Transformation - No Cost, by Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimiertes-downscaling-von-videos-in-mp4-format-unter-nutzung-der-movavi-softwarelosungen/"><u>Optimiertes Downscaling Von Videos in MP4-Format Unter Nutzung Der Movavi Softwarelösungen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/politica-de-retorno-no-movavi-todos-os-detalhes-explicados/"><u>Política De Retorno No Movavi: Todos Os Detalhes Explicados</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/speeding-up-file-scanning-solutions-from-yl-computing/"><u>Speeding Up File Scanning: Solutions From YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-list-of-premium-gaming-memory-chips-by-movavi-maximizing-your-pcs-potential/"><u>The Ultimate List of Premium Gaming Memory Chips by Movavi: Maximizing Your PC's Potential</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-12-prominent-huawei-nova-y91-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Huawei Nova Y91 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-expert-techniques-efficiently-crafting-compelling-subtitles-for-fb-video-content/"><u>[Updated] 2024 Approved Expert Techniques Efficiently Crafting Compelling Subtitles for FB Video Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-insights-into-instagram-video-constraint/"><u>[Updated] In 2024, Insights Into Instagram Video Constraint</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlock-potential-the-15-best-tools-for-transforming-fb-revenue-for-2024/"><u>[Updated] Unlock Potential The 15 Best Tools for Transforming FB Revenue for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/brilliant-cvs-embracing-ai-for-resume-excellence/"><u>Brilliant CVs: Embracing AI for Resume Excellence</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-your-perfect-youtube-playlists-a-step-by-step-guide/"><u>Crafting Your Perfect YouTube Playlists A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/educational-ai-parental-edition-of-the-new-age-tech/"><u>Educational AI: Parental Edition of the New Age Tech</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhanced-visual-fidelity-with-srgb/"><u>Enhanced Visual Fidelity with Srgb</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-vs-expanded-choosing-the-right-chatgpt-version/"><u>Essential Vs. Expanded: Choosing the Right ChatGPT Version</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-apples-wwdc-2024-revelations-the-essential-4-features-of-ipados-18-and-which-ipads-they-apply-to/"><u>Explore Apple's WWDC 2024 Revelations: The Essential 4 Features of iPadOS 18 & Which iPads They Apply To</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-proofing-siri-how-apples-latest-ai-advancements-will-enhance-the-assistant-by-2025-insights-from-zdnet/"><u>Future-Proofing Siri: How Apple's Latest AI Advancements Will Enhance the Assistant by 2025 - Insights From ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-experience-cutting-edge-editing-with-windows-xp/"><u>In 2024, Experience Cutting-Edge Editing with Windows XP</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hear-the-difference-on-chrome-the-ultimate-guide-to-voice-alteration-apps/"><u>In 2024, Hear the Difference on Chrome The Ultimate Guide to Voice Alteration Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-steps-reactivating-disconnected-joy-con-on-switch/"><u>Mastering the Steps: Reactivating Disconnected Joy-Con on Switch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalizing-your-iphones-control-panel-via-ios-18-settings-expert-advice/"><u>Personalizing Your iPhone's Control Panel via iOS 18 Settings – Expert Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stay-updated-safely-with-macos-1441-a-comprehensive-guide-by-zdnet/"><u>Stay Updated Safely with macOS 14.4.1: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-ultimate-guide-canvas-hidden-tips-and-tricks/"><u>The Ultimate Guide Canva's Hidden Tips & Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-presidents-day-savings-unbeatable-discounts-on-amazon-walmart-and-best-buy-exclusive-list/"><u>Top President's Day Savings: Unbeatable Discounts on Amazon, Walmart & Best Buy - Exclusive List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-straps-of-2024-professional-ratings-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Apple Watch Straps of 2024: Professional Ratings & Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-make-it-shine-professional-video-editing-tips-for-creating-breathtaking-home-videos/"><u>Updated In 2024, Make It Shine Professional Video Editing Tips for Creating Breathtaking Home Videos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Accelerate Your Task: Mastering Fast Application Launches in Windows 11 with Easy Keyboard Commands"
-date: 2024-08-29T19:37:22.385Z
-updated: 2024-08-30T19:37:22.385Z
+date: 2025-01-29T03:56:31.769Z
+updated: 2025-02-01T05:11:44.214Z
 tags:
   - desktop
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
  If you access particular Windows apps regularly, it can take time to launch them by rummaging through the Start menu. Handily, Windows 11 lets you create custom keyboard shortcuts to quickly open your favorite programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Use Taskbar Shortcuts to Open Apps
 
  One of the [awesome features of the Windows 11 taskbar](https://extra-hints.techidaily.com/brighten-your-iphones-nighttime-recordings/) is the ability to pin your frequently used applications to it. Once pinned, you can use the Windows+AppNumber shortcut to launch it. Here, "AppNumber" is the order in which the app appears on the taskbar.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
  To pin an app to the taskbar, search for the program in the Start menu, right-click it, and select "Pin to Taskbar". Alternatively, find the program in File Explorer, then hold the Shift key and right-click it, and select "Pin to Taskbar."
 
 ![Pinning an app to the Taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pin-to-taskbar-2.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once pinned to the taskbar, click and drag the icons to move them to a different position.
 
@@ -38,25 +46,12 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
 ![Windows 11 with the Steam app pinned to the Taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-steam-taskbar-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While this method is fairly simple, its biggest drawback is that you can only use the taskbar shortcuts for a maximum of ten applications, with Win+0 being the key combination to launch the tenth.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ##  How to Use App Properties Shortcuts to Open Apps
 
  If you want to go beyond the ten apps restriction of the previous method, you can set a keyboard shortcut within the app's properties.
@@ -66,22 +61,17 @@ Key features:
 ![Creating a shortcut of an app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/create-shortcut-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Right-click on the newly created shortcut and select "Properties" to open another window.
 
 ![A screenshot of Windows 11 depicting the Properties option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-11-properties-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Within the "Shortcut Key" field, press a key. This creates a shortcut using the Ctrl and Alt keys. For example, in the screenshot below, I pressed "A" which created a shortcut of Ctrl + Alt + A. Once done, click "OK".
 
 ![Setting a shortcut key from the Properties window on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/properties-shortcut-key.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To remove a shortcut, press the Delete key within the "Shortcut Key" field.
 
  You can change "Ctrl + Alt" to "Shift + Alt" if you hold those keys while pressing your other desired key. Overall, though, this method is a bit limiting because you don't have complete control over the keys used.
@@ -94,9 +84,6 @@ Key features:
 
 ![PowerToys Keyboard Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/powertoys-keyboard-manager.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  To create your shortcut, first click "Add Shortcut Remapping." Click the pencil next to "Shortcut" and press the keys for your shortcut, then "OK" when done.
 
  Next, use the "Action" dropdown and click "Run Program", then click "Select Program" and find the program you want your shortcut to open.
@@ -106,8 +93,9 @@ Key features:
 ![Remapping a shortcut in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/remapping-a-shortcut-in-powertoys.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you ever want to delete a shortcut, return to this screen and click the trash can.
 
 ##  How to Use AutoHotkey to Open Apps
@@ -157,8 +145,6 @@ Run "C:\Program Files (x86)\Steam\steam.exe"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +152,22 @@ Run "C:\Program Files (x86)\Steam\steam.exe"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-size-independent-strategies-for-securing-sponsors-for-2024/"><u>[New] Channel-Size-Independent Strategies for Securing Sponsors for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-step-by-step-tutorial-crafting-photo-videos-in-pixiz/"><u>[New] In 2024, Step-by-Step Tutorial Crafting Photo Videos in Pixiz</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-minecraft-homestead-essentials-6-10-for-2024/"><u>[New] Minecraft Homestead Essentials #6-10 for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/binge-watching-without-spending-a-dime-unlocking-free-netflix-opportunities/"><u>Binge-Watching Without Spending a Dime: Unlocking Free Netflix Opportunities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-googles-artificinas-intelligence-project-gemini/"><u>Dissecting Google's Artificinas Intelligence Project Gemini</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/download-ios-18-now-compatible-iphone-models-revealed-a-step-by-step-guide-techsavvy/"><u>Download IOS 18 Now: Compatible iPhone Models Revealed - A Step-by-Step Guide | TechSavvy</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-samsung-galaxy-f04-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Samsung Galaxy F04 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-7-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 7 To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-download-and-generate-free-official-passport-pictures-now/"><u>In 2024, Download & Generate Free, Official Passport Pictures Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/lg-launches-new-xr-headset-is-it-inspired-by-meta-quest-3-or-an-original-creation/"><u>LG Launches New XR Headset - Is It Inspired by Meta Quest ^3 or an Original Creation?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/pursuing-perfection-in-lengthy-iphone-photography/"><u>Pursuing Perfection in Lengthy iPhone Photography</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revisiting-vanished-chatgpt-journeys/"><u>Revisiting Vanished ChatGPT Journeys</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safest-and-most-suitable-smartphones-for-children-expert-reviews-zdnet/"><u>Safest and Most Suitable Smartphones for Children: Expert Reviews | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/topping-out-chatgpt-tokens-possibilities/"><u>Topping Out ChatGPT Tokens: Possibilities?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/wma-mp3-swf/"><u>WMA 파일이라고도 알려진 MP3 편집기에서 자연스럽게 SWF로 전환하세요 – 무료, 인터넷 기회</u></a></li>
+</ul></div>
 

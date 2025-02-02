@@ -1,7 +1,7 @@
 ---
 title: "High-Value Mechanical Gear: Comprehensive Review of the Budget-Friendly, Versatile Keychron C3 Pro Wireless Board"
-date: 2024-08-29T19:37:29.412Z
-updated: 2024-08-30T19:37:29.412Z
+date: 2025-01-30T19:20:05.016Z
+updated: 2025-02-01T04:51:15.524Z
 tags:
   - desktop
 categories:
@@ -90,6 +90,10 @@ Expand
 
 [$37 at Amazon](https://www.amazon.com/dp/B0CBWJ9SKX?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001909&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fkeychron-c3-pro-wired-mechanical-keyboard-review%2F&asc%5Fcampaign=Affiliate) [$36.99 at Keychron](https://www.keychron.com/products/keychron-c3-pro-qmk-via-wired-mechanical-keyboard) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Design and Form Factor
 
 ![Removing keys on a Keychron C3 Pro keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/keychron-c3-pro-different-keys.jpg) 
@@ -102,9 +106,6 @@ Hannah Stryker / How-To Geek
 
  Although many might prefer white lights instead, red isn't the worst color for a keyboard backlight. Sacrifices must be made when paying less than $40 for a mechanical keyboard. There may be only one backlight color option but Keychron didn't cut corners when it came to pre-programmed light effects. There are 14, which are easy to change by pushing two keys.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Solid Build Quality and Performance
 
 ![keychron c3 pro on a desk with a mouse](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/keychron-c3-pro-on-desk.jpg) 
@@ -123,23 +124,19 @@ Hannah Stryker / How-To Geek
 
 ![The Keychron C3 Pro keyboard from the front.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/keychron-c3-pro-front.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  The other thing to note about the keyboard from a design perspective is its available typing angles. There are three: 4, 6, and 8.7 degrees. Having three typing angles adds some additional customization besides the backlighting patterns.
 
  One slight annoyance about the Keychron C3 Pro is that it ships with a Type-A to Type-C cable. A Type-C to Type-C cable would have been a much more helpful choice in today's environment. At least there's a Type-C port on the keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ##  VIA and Shortcuts: More Ways to Customize
 
 ![Screenshot showing VIA keyboard software in action.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/via-keyboard-software.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 VIA software
 
@@ -149,13 +146,14 @@ VIA software
 
  If you have no desire to use VIA for customization but still want to toggle back and forth between computer operating systems, you can do so using old-school keyboard shortcuts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Keychron C3 Pro Mechanical Keyboard?
 
 ![The Keychron C3 Pro keyboard from the side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/keychron-c3-pro-side.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  The [Keychron C3 Pro](http://www.amazon.com/Keychron-Keyboard-Programmable-Backlight-Mechanical/dp/B0CBWJ9SKX?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001909&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fkeychron-c3-pro-wired-mechanical-keyboard-review%2F&asc%5Fcampaign=Affiliate) is less than $40 on Amazon. That's an excellent price for a mighty mechanical keyboard from one of the best companies. The biggest drawback is the keyboard's use of red, and only red, backlighting. It's not the wrong color for this purpose, but it would have been nicer had Keychron offered a few more lighting options. Keychron could have ditched the separate black space, enter, and escape keys and critical removal tools to keep the price low. Not having a numbers pad is also unfortunate, but [plenty of alternatives do](https://instagram-clips.techidaily.com/social-sensation-best-insta-stories-effects/).
@@ -165,13 +163,15 @@ Hannah Stryker / How-To Geek
 ![Keychron C3 Pro keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/keychron-c3-pro-keyboard-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Keychron C3 Pro
 
 8/ 10 
@@ -186,8 +186,6 @@ Designed to provide ultimate flexibility, this budget-priced Keychron keyboard o
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +193,26 @@ Designed to provide ultimate flexibility, this budget-priced Keychron keyboard o
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/nhancing-your-video-impact-a-compreranble-plan-for-youtube-success/"><u>[New] Enhancing Your Video Impact A Compreranble Plan for YouTube Success</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-memes-top-ten-template-showcase/"><u>[New] In 2024, Mastering Memes Top Ten Template Showcase</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-inspirational-movies-for-momentum-and-self-belief/"><u>[Updated] 2024 Approved Inspirational Movies for Momentum and Self-Belief</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-crafting-the-perfect-facebook-video-post-pcandroid-techniques-for-2024/"><u>[Updated] Crafting the Perfect Facebook Video Post, PC/Android Techniques for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-how-to-add-a-streamline-of-youtube-playlists-on-your-website-for-2024/"><u>[Updated] How to Add a Streamline of YouTube Playlists on Your Website for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-way-to-update-old-photos-and-videos-with-ig-filters/"><u>[Updated] The Ultimate Way to Update Old Photos and Videos with IG Filters</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-troubleshooting-resolving-no-audio-in-obs-for-2024/"><u>[Updated] Troubleshooting Resolving No Audio in OBS for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ascending-skills-from-copilot-to-pros-advantages/"><u>Ascending Skills: From CoPilot to Pro's Advantages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/email-management-revolutionized-how-one-simple-hack-eliminates-clutter-and-spare-you-from-complex-systems-tips-straight-latest-feature/"><u>Email Management Revolutionized: How One Simple Hack Eliminates Clutter & Spare You From Complex Systems - Tips Straight Latest Feature</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-continuous-availability-of-chatgpt/"><u>Ensuring Continuous Availability of ChatGPT</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722965578096-epson-tm-t88v-printer-drivers-update-guide-for-windows-operating-system-beginner-friendly-steps/"><u>EPSON TM-T88v Printer Drivers Update Guide for Windows Operating System | Beginner-Friendly Steps!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-homes-with-ai-exploring-apples-vision-of-domestic-robot-companions/"><u>Future Homes with AI: Exploring Apple's Vision of Domestic Robot Companions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-your-iphone-15-pro-max-at-a-penny-exclusive-amazon-offer-explained-zdnet/"><u>Get Your iPhone 15 Pro Max at a Penny - Exclusive Amazon Offer Explained | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/google-reveals-bard-set-for-ai-battle-against-chatgpt/"><u>Google Reveals 'Bard', Set for AI Battle Against ChatGPT</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-apple-iphone-12-pro-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from Apple iPhone 12 Pro without Password?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nine-distinctive-ai-applications-revolutionizing-note-taking/"><u>Nine Distinctive AI Applications Revolutionizing Note-Taking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/plan-pioneers-guide-discover-7-economical-ai-powered-travel-assistants/"><u>Plan Pioneer’s Guide: Discover 7 Economical AI-Powered Travel Assistants</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-apple-discounts-and-savings-in-july-2024-iphone-apple-watch-and-ipad-bargains-on-zdnet/"><u>Top Apple Discounts & Savings in July 2024 - iPhone, Apple Watch & iPad Bargains on ZDNet</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-value-video-editing-software-for-your-money/"><u>Updated The Best Value Video Editing Software for Your Money</u></a></li>
+</ul></div>
 

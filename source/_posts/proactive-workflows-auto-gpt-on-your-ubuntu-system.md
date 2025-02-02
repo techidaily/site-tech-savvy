@@ -1,7 +1,7 @@
 ---
 title: "Proactive Workflows: Auto-GPT on Your Ubuntu System"
-date: 2024-08-25T17:37:26.885Z
-updated: 2024-08-26T17:37:26.885Z
+date: 2025-01-25T05:07:27.382Z
+updated: 2025-01-31T22:12:08.414Z
 tags:
   - chatgpt
   - open-ai
@@ -70,6 +70,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Creating OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-get-api-key.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once copied, paste the key inside the **.env** file. The env file will store all the API keys that you use with Auto-GPT. If you don't need a backend vector database like Pinecone, your OpenAI API key should be enough to use Auto-GPT.
 
  To set your API key, open the **.env** file using nano:
@@ -86,6 +90,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 `sudo mv .env.template .env`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 2: Install Auto-GPT Dependencies on Ubuntu
 
  Auto-GPT uses a lot of Python libraries. You will need to install all the packages using pip and the **requirements.txt** text file that comes with the AutoGPT source code.
@@ -96,19 +104,17 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Install Auto-GPT requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/5-install-requirements.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  Next, try running Auto-GPT using:
 
 `python3 -m autogpt`
 
 ![Successful Auto-GPT installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-success.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Congratulations! You have successfully installed and set up Auto-GPT on your Ubuntu machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use Auto-GPT on Ubuntu
 
@@ -116,10 +122,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Auto-GPT auto mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-auto.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  In manual mode, Auto-GPT will ask you to specify a name, a goal, and up to five goals you want the AI assistant to follow while doing its task. This mode allows you to be in control of how your AI assistant will function.
 
  To use manual mode, use the following command:
@@ -131,17 +133,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Auto-GPT manual mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-manual.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once the name, goals, and role have been provided, your AI assistant will immediately activate and start looping through its thinking and execution process.
 
  Throughout the process, you can view your AI assistant's thoughts, reasoning, plan, criticism, and next action. Its next action will only be executed once you've given your approval.
 
 ![Input-Commands for Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-input-y.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  You can approve the AI's next action by typing "**y**" for yes. If you don't want the AI to continue with its plans, you can type "**n**" for no and exit.
 
  If you trust your AI assistant and don't want to continue monitoring all of its thoughts and actions, you can type "**y -(number)**". For example, if you want Auto-GPT to execute its next five actions, you can type "**y -5**". Furthermore, if you want to provide feedback to your AI assistant, you can also type your prompt as input.
@@ -156,6 +156,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Success! Our AI assistant gave us a list of active promo codes for the mouse we were looking for.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Limitations of Auto-GPT
 
  Although Auto-GPT gave us some pretty promising results, it still isn't as powerful or useful as it was initially hyped to be. During our testing, any slightly complex task often resulted in the AI assistant looping through the same pattern of thoughts and actions, which eventually failed.
@@ -164,9 +168,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  So for now, you should only use Auto-GPT as a way to play and experiment with AI assistants.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Auto-GPT Will Keep Getting Better and Better
 
  Auto-GPT is not as powerful as it should be due to its current development stage and the limited access to GPT-4\. However, these wouldn't last long as Auto-GPT is gaining lots of traction and support from people worldwide.
@@ -177,14 +178,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If you would like to harness the power of GPT in the form of an AI assistant, it might interest you to try out Auto-GPT. Here's how you can install and set up Auto-GPT on Ubuntu.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -193,4 +191,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-excellent-global-music-livestreams/"><u>[New] Excellent Global Music Livestreams</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-using-inshot-for-laptoppc-and-other-video-editing-alternatives-for-2024/"><u>[Updated] Using Inshot for Laptop/PC and Other Video Editing Alternatives for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-opinion-on-the-latest-apple-watch-series-nine-features-and-performance/"><u>Expert Opinion on the Latest Apple Watch Series Nine Features and Performance</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-xiaomi-redmi-note-13-pro-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Xiaomi Redmi Note 13 Pro 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-quick-guide-on-recording-gotomeeting-chats-with-ease/"><u>In 2024, Quick Guide on Recording GoToMeeting Chats with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-15-pro-max-available-at-just-001-on-amazon-the-ultimate-guide-to-snagging-this-steal/"><u>IPhone 15 Pro Max Available at Just $0.01 on Amazon – The Ultimate Guide to Snagging This Steal!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-threat-landscape-handling-60-weekly-cves-with-linux-security-measures-expert-advice-on-mitigation-zdnet/"><u>Navigating the Threat Landscape: Handling 60 Weekly CVEs with Linux Security Measures – Expert Advice on Mitigation | ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/powerdirector-unveiled-a-detailed-24-review-and-tutorial/"><u>PowerDirector Unveiled A Detailed '24 Review & Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prioritizing-factors-when-implementing-ai-for-emotional-support-via-chatgpt/"><u>Prioritizing Factors when Implementing AI for Emotional Support via ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-day-exploring-7-chatgpt-enhancements-for-productivity/"><u>Revolutionize Your Day: Exploring 7 ChatGPT Enhancements for Productivity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/save-time-increase-output-top-ai-powered-pdf-solutions/"><u>Save Time, Increase Output: Top AI-Powered PDF Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/savory-science-ai-assisted-healthy-eating-education/"><u>Savory Science: AI-Assisted Healthy Eating Education</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-to-overcome-chatgpt-saturation-pc/"><u>Strategies to Overcome ChatGPT Saturation (PC)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-cellphone-bargains-on-independence-day-compiled/"><u>Top Cellphone Bargains on Independence Day - Compiled</u></a></li>
+</ul></div>
 

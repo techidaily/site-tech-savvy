@@ -1,7 +1,7 @@
 ---
 title: "Scrutinizing CodeGPT: Artificial Intelligence and Programming"
-date: 2024-08-29T19:39:27.759Z
-updated: 2024-08-30T19:39:27.759Z
+date: 2025-01-26T17:42:50.217Z
+updated: 2025-02-01T02:40:59.655Z
 tags:
   - chatgpt
   - open-ai
@@ -15,11 +15,19 @@ thumbnail: https://thmb.techidaily.com/c40243a18120050792e9b2a35c08e8c187a7242ae
 
 ## Scrutinizing CodeGPT: Artificial Intelligence and Programming
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is CodeGPT?](https://zonlipartnershipprogram.pxf.io/b0rbxy)
 * [How Much Does CodeGPT Cost?](https://coinrule.sjv.io/rqzonv)
 * [Can CodeGPT Really Write Code?](https://sentrypc.7eer.net/dkpkgn)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -34,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/c40243a18120050792e9b2a35c08e8c187a7242ae
  If you're looking for an AI-powered assistant to help you write code, chances are you've encountered CodeGPT. It's one of many AI-powered tools you can use to assist you when programming. But can CodeGPT actually write code?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is CodeGPT?
 
  CodeGPT is a dedicated extension that uses different artificial intelligence (AI) models to help programmers write and fix code. It includes various features geared towards faster and easier programming, including auto-completion, code explanation, refactoring, documentation, unit testing, error-checking, and bug-fixing. It also has a ChatGPT-like interface you can access from your code editor.
@@ -45,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/c40243a18120050792e9b2a35c08e8c187a7242ae
  While there are several [code editors for Linux](https://www.makeuseof.com/best-ide-code-editors-for-linux/), macOS, and Windows, CodeGPT is only available in two. Today, you can either [install and use CodeGPT in VS Code](https://www.makeuseof.com/install-use-codegpt-in-vs-code/) or in Cursor, which is a fork of VS Code.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Much Does CodeGPT Cost?
 
  You can download and install CodeGPT for free, but using the extension comes at a cost. CodeGPT offers various subscription packages that you can pay for if you need unlimited access.
@@ -56,8 +66,9 @@ thumbnail: https://thmb.techidaily.com/c40243a18120050792e9b2a35c08e8c187a7242ae
  Bear in mind that you'll need to pay for unlimited usage of third-party AI models like OpenAI's GPT-4 model, for example. Although you can [access Open AI's GPT-4 model for free](https://www.makeuseof.com/ways-access-gpt-4-free/), you cannot do so from within VS Code or Cursor.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can CodeGPT Really Write Code?
 
  To evaluate this, we'll use the extension to help us generate two different code samples in Python.
@@ -148,8 +159,6 @@ with open('output.csv', 'w', newline='') as output_file:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +166,24 @@ with open('output.csv', 'w', newline='') as output_file:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-deciding-audio-platforms-podcasts-or-youtube-in-2024/"><u>[New] Deciding Audio Platforms Podcasts or YouTube, In 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-superior-group-multimedia-platforms-for-2024/"><u>[New] Superior Group Multimedia Platforms for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-boost-your-iphones-visual-impact-with-diy-photo-collage-methods/"><u>[Updated] Boost Your iPhone's Visual Impact with DIY Photo Collage Methods</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-handheld-happiness-advanced-mounting-solutions/"><u>[Updated] Handheld Happiness Advanced Mounting Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unbox-and-discover-samsungs-ue590-4k-freesync-marvel/"><u>[Updated] In 2024, Unbox and Discover Samsung's UE590 4K, FreeSync Marvel</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/circumventing-chatgpt-blocks-understanding-and-overcoming-them/"><u>Circumventing ChatGPT Blocks: Understanding and Overcoming Them</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-facts-critical-analysis-in-ai-health-advice/"><u>Deciphering the Facts: Critical Analysis in AI Health Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-truth-beyond-ai-generated-summary-texts/"><u>Deciphering the Truth Beyond AI-Generated Summary Texts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-dialogue-masters-comparing-gpt-with-bingbot/"><u>Dissecting Dialogue Masters: Comparing GPT with Bingbot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/doubling-up-on-displays-a-step-by-step-tutorial-for-adding-a-second-thunderbolt-monitor-to-your-m1-mac-mini/"><u>Doubling Up on Displays: A Step-by-Step Tutorial for Adding a Second Thunderbolt Monitor to Your M1 Mac Mini</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-infinix-smart-7-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Infinix Smart 7 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-poco-c51-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Poco C51 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/optimizing-social-media-for-vimeo-sharing-for-2024/"><u>Optimizing Social Media for Vimeo Sharing for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-your-energy-usage-a-guide-to-activating-low-power-settings-on-macos-monterey-insights/"><u>Optimizing Your Energy Usage: A Guide to Activating Low-Power Settings on macOS Monterey - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prompt-engineering-in-the-realm-of-ai-insight-into-career-prospects/"><u>Prompt Engineering in the Realm of AI: Insight Into Career Prospects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/samsung-surpasses-apple-in-smartphone-shipments-while-rival-brand-closes-in-insights/"><u>Samsung Surpasses Apple in Smartphone Shipments, While Rival Brand Closes In - Insights</u></a></li>
+</ul></div>
 

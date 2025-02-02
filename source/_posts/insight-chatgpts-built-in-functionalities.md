@@ -1,7 +1,7 @@
 ---
 title: "Insight: ChatGPT's Built-In Functionalities"
-date: 2025-01-16T17:14:48.774Z
-updated: 2025-01-18T17:11:10.912Z
+date: 2025-01-31T10:22:56.536Z
+updated: 2025-02-01T11:41:10.395Z
 tags:
   - chatgpt
   - open-ai
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are ChatGPT's Default Plugins?
@@ -66,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 
 ![chatgpt search with bing ask question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-search-with-bing-ask-question-jan-2024.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you make the request, you'll be told that GPT is currently searching the web. It may take ten or so seconds to get your results or longer if your connection is patchy, OpenAI's servers are overwhelmed, or your request contains detailed information that takes time to search for.
 
 ![chatgpt search with bing whats the weather jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-search-with-bing-whats-the-weather-jan-2024.jpg)
@@ -75,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
  Sometimes, ChatGPT provides fabricated or unreliable sources for its answers, so it's always best to check the source before using any of the information provided.
 
  It's likely that ChatGPT won't conduct a web search for data it already has access to, such as historical facts. If searching the web is necessary, make that known in your prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. DALL-E
 
@@ -105,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 ![screenshot of ChatGPT python response in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-python-response.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If ChatGPT picks up on any errors in your code, it will notify you and provide a correction.
@@ -116,23 +116,15 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 
 ![screenshot of file upload for code interpretation in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/upload-python-gpt.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also ask ChatGPT to give you Python code for the function or program you want to create. However, this isn't part of the Interpreter plugin, so it can be used with GPT-3.5 or GPT-4\.
 
 ![Screenshot of ChatGPT python code excerpt response in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-python-excerpt.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Make sure you run whatever code is provided through a dedicated Python execution tool before implementing it. ChatGPT can make mistakes, so it's always best to run some checks on any data it gives you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use ChatGPT's Plugins on Mobile
 
@@ -140,9 +132,17 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 
 ![screenshot of chatgpt web search result in mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-search.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![screenshot of ChatGPT mobile app dall-e response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-dalle.jpg)
 
 ![Screenshot of ChatGPT python interpreter in mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-python.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -169,20 +169,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-chasing-the-cause-of-frozen-photobooth-videos/"><u>[New] Chasing the Cause of Frozen Photobooth Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-leading-device-editors-for-app-development-art/"><u>[New] Leading Device Editors for App Development Art</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-tips-and-tricks-for-iphone-low-light-photography-for-2024/"><u>[New] Tips and Tricks for iPhone Low Light Photography for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-simplifying-the-process-of-enabling-virtual-screen-on-meet/"><u>[Updated] Simplifying the Process of Enabling Virtual Screen on Meet</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-ultimate-blueprint-for-telegram-marketplace-success/"><u>2024 Approved The Ultimate Blueprint for Telegram Marketplace Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-find-the-best-and-easy-guide-to-use/"><u>7 : Find the Best and Easy Guide to Use!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mpegifmovavi/"><u>簡単なステップでMPE画像を自由にGIFに変換：Movavi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862832658-breakthrough-in-gaming-displays-ultra-hd-samsungs-gen-2-odyssey-for-gamers-now-more-accessible-than-ever/"><u>Breakthrough in Gaming Displays: Ultra HD Samsung's Gen 2 Odyssey for Gamers - Now More Accessible Than Ever</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversor-libre-en-linea-3gpp-para-formato-m4a-por-movavi/"><u>Conversor Libre en Línea 3GPP Para Formato M4A Por Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/entendendo-o-contraste-de-mov-e-mp4-qual-tem-as-vantagens/"><u>Entendendo O Contraste De MOV E MP4: Qual Tem as Vantagens?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-tips-on-how-to-remove-crashdump-data-in-windows-11/"><u>Expert Tips on How To Remove Crashdump Data in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratuit-veuillez-convertir-votre-fichier-caf-en-format-ogg-conversion-video-professionnelle-avec-movavi/"><u>Gratuit Veuillez Convertir Votre Fichier CAF en Format OGG - Conversion Vidéo Professionnelle Avec Movavi</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-everything-you-need-to-know-about-io-screen-recorder/"><u>In 2024, Everything You Need to Know About IO Screen Recorder</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/online-beveled-video-format-converter-m4v-to-aac-free-download-at-movavi/"><u>Online Beveled Video Format Converter M4V to AAC Free Download at Movavi</u></a></li>
-<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-a-roadmap-for-optimizing-and-tracking-your-fb-in-stream-ad-performance/"><u>[New] A Roadmap for Optimizing and Tracking Your FB In-Stream Ad Performance</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-top-10-viral-tiktoks-uncovered/"><u>[New] Twitter's Top 10 Viral TikToks Uncovered</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-demystifying-advanced-editing-techniques-for-professionals/"><u>[Updated] In 2024, Demystifying Advanced Editing Techniques for Professionals</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-y27-4g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo Y27 4G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anticipated-release-new-ipad-pro-and-air-in-early-may-features-revealed-techzine/"><u>Anticipated Release: New iPad Pro & Air in Early May - Features Revealed | TechZine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-amps-up-artificial-intelligence-initiatives-exploring-capabilities-of-its-latest-ai-models-insights-from-zdnet/"><u>Apple Amps Up Artificial Intelligence Initiatives: Exploring Capabilities of Its Latest AI Models - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ballad-battleground-bards-vs-gpt-offline-llamas-quest/"><u>Ballad Battleground: Bards Vs. GPT, Offline Llamas' Quest</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-the-apple-vision-pro-ease-discomfort-on-economy-seats-during-flights-a-closer-look-at-tech-upgrades/"><u>Can the Apple Vision Pro Ease Discomfort on Economy Seats During Flights? A Closer Look at Tech Upgrades</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-gold-vs-standard-membership-trade-offs/"><u>ChatGPT Gold Vs. Standard: Membership Trade-Offs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-your-ideal-apple-laptop-macbook-pro-vs-macbook-air-a-comprehensive-guide-on-making-the-right-pick/"><u>Choosing Your Ideal Apple Laptop: MacBook Pro vs MacBook Air - A Comprehensive Guide on Making the Right Pick</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/defending-against-leaks-in-professional-ai-dialogues/"><u>Defending Against Leaks in Professional AI Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easing-anxiety-with-intelligent-ai-help/"><u>Easing Anxiety with Intelligent AI Help</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-epson-ds-530-drivers-for-your-windows-11-computer-download-now/"><u>Get the Most Recent Epson DS-530 Drivers for Your Windows 11 Computer - Download Now!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-samsung-galaxy-s23-tactical-edition-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Samsung Galaxy S23 Tactical Edition Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-flying-companions-the-top-kids-drones-for-2024/"><u>Perfect Flying Companions The Top Kids' Drones for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/qualcomm-launches-affordable-vr-chip-challenge-to-apple-and-metas-vision-pro-the-next-wave-in-virtual-reality/"><u>Qualcomm Launches Affordable VR Chip Challenge to Apple and Meta's Vision Pro – The Next Wave in Virtual Reality</u></a></li>
+<li><a href="https://article-posts.techidaily.com/review-and-insight-into-movavi-editor-plus-now-available-for-2024/"><u>Review & Insight Into Movavi Editor Plus, Now Available for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-free-thanksgiving-film-picks-on-netflix/"><u>Top Free Thanksgiving Film Picks on Netflix</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-secrets-the-ultimate-tutorial-on-finding-lost-passwords-in-macos-keychain/"><u>Unlocking Secrets: The Ultimate Tutorial on Finding Lost Passwords in macOS Keychain</u></a></li>
 </ul></div>
 

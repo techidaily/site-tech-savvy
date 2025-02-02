@@ -1,7 +1,7 @@
 ---
 title: Unmasking TruthGPT Coin's Credibility
-date: 2024-08-25T17:39:15.151Z
-updated: 2024-08-26T17:39:15.151Z
+date: 2025-01-25T19:51:47.489Z
+updated: 2025-01-31T19:52:11.194Z
 tags:
   - chatgpt
   - open-ai
@@ -23,23 +23,43 @@ thumbnail: https://thmb.techidaily.com/1b6bd87fb69528ca155c06e5b875ef324da9b58f7
 
  It's no wonder the authorities are giving serious attention to TruthGPT Coin, a cryptocurrency labeled as an "Artificial Intelligence investment scam" by Texas State regulators. It has called for the scam crypto promotion to halt immediately—but what is TruthGPT Coin, anyway?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is TruthGPT Coin? Why Are There Two TruthGPT Coins?
 
  There are two projects using the name "TruthGPT Coin." One uses the Binance Smart Chain, while the other is an Ethereum ERC-20 token, but both appear to use the $TRUTH ticker. It's not clear if there is a specific link between the projects, as the general approach of each differs in quality.
 
 ![truthgpt home page-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/truthgpt-home-page-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The first project claims to be powered by an AI model developed in-house called Elon Musk AI. The TruthGPT website is full of images of Musk, poor-quality digital images, fake endorsements, and more (along with other prominent crypto figures, such as Binance's Changpeng Zhao). After signing up, you can ask the "AI" questions, but the responses are extremely slow and look to me to be hand-written in places. You'll also find fake accounts for big names in crypto, like Elon Musk, Satoshi Nakamoto, and Michael Saylor.
 
 ![truthgpt elon musk fake account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/truthgpt-elon-musk-fake-account.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![truthgpt example account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/truthgpt-example-account.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  The project whitepaper is vague, contains no information on tokenomics, doesn't give any information on who is running the project, and raises [several other scam project red flags](https://www.makeuseof.com/biggest-signs-scam-token/).
 
 ![second truthgpt coin website home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/second-truthgpt-coin-website-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, the second TruthGPT Coin has linked itself to [Elon Musk's TruthGPT AI project](https://www.makeuseof.com/what-is-truthgpt/) to gain a semblance of legitimacy, though it notes that TruthGPT Coin is a community effort and isn't affiliated with Musk. It doesn't feature any Musk imagery but talks about him throughout the site and claims to use artificial intelligence to "seek out and evaluate information in order to arrive at the most accurate and reliable understanding of the world."
 
@@ -57,9 +77,6 @@ Close
 
  The TruthGPT Coin entry on [CoinMarketCap](https://coinmarketcap.com/currencies/truthgpt/) also suggests something fishy is going on. It currently displays a banner informing would-be users that, "According to [Gopluslabs](https://gopluslabs.io/token-security/1/0xaf75d880b3128981d1fed3292fc02e3fb37acd53), the smart contract of the following asset can be modified by the contract creator (for example: disable selling, change fees, mint new tokens, or transfer tokens). Please exercise caution before taking any action and DYOR."
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Watch Out for Scam Tokens Involving ChatGPT, AI, and Elon Musk
 
  ChatGPT launched in late 2022\. Since then, we've seen numerous crypto scams attempt to leverage OpenAI's chatbot and the explosion in AI technology. Then, when Elon Musk announced his TruthGPT as a counterweight to perceived bias in ChatGPT and other AI chatbots, it added another angle for scammers, the allure of using Musk's name, crypto, and AI providing a potent combination.
@@ -72,14 +89,11 @@ Close
 
  It's no wonder the authorities are giving serious attention to TruthGPT Coin, a cryptocurrency labeled as an "Artificial Intelligence investment scam" by Texas State regulators. It has called for the scam crypto promotion to halt immediately—but what is TruthGPT Coin, anyway?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -88,4 +102,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-building-a-brand-the-art-of-creating-attention-grabbing-reels-on-social-media/"><u>[New] 2024 Approved Building a Brand The Art of Creating Attention-Grabbing Reels on Social Media</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-channel-hit-the-10000-view-mark-fast-for-2024/"><u>[Updated] Elevate Your Channel Hit the 10,000 View Mark Fast for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/797104-9781451672817-a-spiritual-renegades-guide-to-the-good-life/"><u>A Spiritual Renegade's Guide to the Good Life | Free Book</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-innovators-clash-chatgpt-against-google-bards-brainpower/"><u>AI Innovators Clash: ChatGPT Against Google Bard's Brainpower</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-privacy-landscape-explored/"><u>ChatGPT's Privacy Landscape Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparison-gpt-vs-bing-bot-top-10-distinctions/"><u>Comparison: GPT Vs. Bing Bot - Top 10 Distinctions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-6s-plus-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 6s Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-canva-and-gpt-for-rapid-design-output/"><u>Mastering Canva & GPT for Rapid Design Output</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-is-virtualdub-still-the-best-exploring-modern-video-editing-alternatives/"><u>New 2024 Approved Is Virtualdub Still the Best? Exploring Modern Video Editing Alternatives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-cameras-perfect-for-podcasts/"><u>Premium Cameras Perfect for Podcasts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-y36i-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo Y36i to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tips-for-securely-exporting-chatgpt-interactions/"><u>Tips for Securely Exporting ChatGPT Interactions</u></a></li>
+</ul></div>
 

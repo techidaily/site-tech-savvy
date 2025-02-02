@@ -1,7 +1,7 @@
 ---
 title: Activating OpenAI's ChatGPT with Internet Access & Extended Features
-date: 2024-08-29T19:38:34.468Z
-updated: 2024-08-30T19:38:34.468Z
+date: 2025-01-28T12:40:56.738Z
+updated: 2025-01-31T22:29:00.209Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Activating OpenAI's ChatGPT with Internet Access & Extended Features
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,11 +24,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [When Should You Use ChatGPT Web Browsing?](https://youtube-lab.techidaily.com/mline-learning-processes-with-detailed-chaptering-for-educational-youtube-videos/)
 * [When Should You Use ChatGPT Plugins?](https://visual-screen-recording.techidaily.com/new-eliminate-unwanted-screen-elements-during-cam-record/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  To activate Web Browsing and Plugins in ChatGPT, head to Settings > Beta Features and enable these features. You will need ChatGPT Plus to do so. Start a new conversation, set it to GPT-4, and choose either "Browsing" or "Plugins" mode. After enabling Plugins mode, you will need to install plugins from the store.
 
 [ChatGPT](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/) can now browse the web to find up-to-date information. It also supports other plug-ins---for example, it can turn to Wolfram for computations, OpenTable for restaurant reservations, and Instacart for grocery orders. Here's how to turn these features on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Enable Web Browsing and Plugins in ChatGPT
 
@@ -42,9 +54,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, start a new chat in ChatGPT with the "New Chat" button.
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
@@ -53,6 +62,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Install ChatGPT Plugins
 
  While you can use the browsing features without any further work, you actually have to activate the plugins you need in plugin mode. Once you've selected the Plugins version of GPT-4, you'll see "No plugins enabled."
@@ -60,8 +73,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To enable specific plugins, click the dropdown arrow to the right of "No plugins enabled," and then select "Plugin store."
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
@@ -80,22 +94,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  Click on the dropdown next to these icons to see which are active, and toggle your plugins on and off. You can also access the Plugin store from here.
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now you're ready to use plugins with ChatGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ##  How to Use Web Browsing in ChatGPT
 
  To invoke the web browsing feature, ask a question that requires internet-based information, such as "What's the latest update about OpenAI?" or "Who won the Oscars this year?". ChatGPT will display "Browsing the web..." and try to find the information for you.
@@ -103,11 +107,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  How to Use Plugins in ChatGPT
 
  Once the plugins are activated in your settings, you can instruct ChatGPT to employ a specific plugin for a task. For instance, you could type "Use Wolfram to calculate the current distance between the Earth and Mars." ChatGPT will let you know which plugin it used.
@@ -117,8 +119,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  ChatGPT doesn't replicate a standard web browser experience. Instead of presenting the entire webpage, it narrates the page content in a conversational tone, focusing on the information relevant to your query.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  When Should You Use ChatGPT Web Browsing?
 
  With web browsing functionality, ChatGPT can now sift through online content to fetch current information. Whether it's the latest news headlines, sports results, or data on a specific topic, the AI can access the internet to find answers.
@@ -127,9 +130,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  When we tried this feature, we didn't always get ChatGPT to access the web consistently to get the information required to complete the requested task. However, adding something like "check the web" to your prompt will do it every time.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  When Should You Use ChatGPT Plugins?
 
  Consider plugins as add-ons to your ChatGPT. They are the tools that empower ChatGPT to integrate with third-party services, widening its capability spectrum. Whether checking out markets, [doing math](https://win-blog.techidaily.com/1722998864296-persistently-unresponsive-heres-how-to-fix-the-latest-freezing-issues-in-new-world/), or browsing shopping deals, these plugins are your gateway to many tasks.
@@ -146,8 +146,6 @@ Related: [How to (Temporarily) Add New Knowledge to ChatGPT](https://twitter-vid
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +153,26 @@ Related: [How to (Temporarily) Add New Knowledge to ChatGPT](https://twitter-vid
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-complete-blueprint-for-optimizing-data-in-adobes-cloud-realm/"><u>[New] 2024 Approved The Complete Blueprint for Optimizing Data in Adobe's Cloud Realm</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-navigating-the-copyright-symphony-of-instagrams-sounds/"><u>[New] In 2024, Navigating the Copyright Symphony of Instagram's Sounds</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-advanced-mobiles-for-crafting-perfect-dji-videos-for-2024/"><u>[Updated] Advanced Mobiles for Crafting Perfect DJi Videos for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-unlocking-youtubes-srt-a-three-step-process/"><u>[Updated] In 2024, Unlocking YouTube’s SRT A Three-Step Process</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-image-transformation-hacks/"><u>2024 Approved Innovative Image Transformation Hacks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-workflow-for-embedding-subtitle-track-in-mp4s/"><u>2024 Approved Ultimate Workflow for Embedding Subtitle Track in MP4s</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-itel-s23-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Itel S23? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-your-well-being-9-integrative-strategies/"><u>ChatGPT & Your Well-Being: 9 Integrative Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-without-accounts-innovative-applications/"><u>ChatGPT Without Accounts: Innovative Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ethical-use-of-ai-in-writing-lessons-from-chatgpt-experts/"><u>Ethical Use of AI in Writing: Lessons From ChatGPT Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exciting-news-for-apple-developers-enhance-your-code-with-our-latest-complimentary-ai-upgrades/"><u>Exciting News for Apple Developers: Enhance Your Code with Our Latest Complimentary AI Upgrades</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-leading-5-high-quality-webcams-with-audio-support/"><u>In 2024, Leading 5 High-Quality Webcams with Audio Support</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Realme C55? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/launching-your-path-as-a-prompt-craftsman/"><u>Launching Your Path as a Prompt Craftsman</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reinventing-tabletop-storytelling-with-chatgpt-assisted-tactics/"><u>Reinventing Tabletop Storytelling With ChatGPT-Assisted Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-digital-delight-of-drollery-does-ai-spark-mirthful-moments/"><u>The Digital Delight of Drollery: Does AI Spark Mirthful Moments?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-recommended-airpods-pro-add-ons-expert-picks-from-techradar/"><u>Top Recommended AirPods Pro Add-Ons : Expert Picks From TechRadar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-modules-in-your-system-expert-solutions/"><u>Troubleshooting Missing Modules in Your System – Expert Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-latest-mac-studio-has-held-off-my-upgrade-to-a-new-m1-max-mac-mini-insights-for-tech-enthusiasts/"><u>Why the Latest Mac Studio Has Held Off My Upgrade to a New M1 Max Mac Mini: Insights for Tech Enthusiasts</u></a></li>
+</ul></div>
 

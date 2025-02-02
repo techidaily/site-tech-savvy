@@ -1,7 +1,7 @@
 ---
 title: "Social Platforms, Smartbots: Which AI Fits Your Needs?"
-date: 2024-08-29T19:40:35.348Z
-updated: 2024-08-30T19:40:35.348Z
+date: 2025-01-27T05:52:33.050Z
+updated: 2025-02-01T09:55:54.588Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 
 ![My AI recommending an Aliens Lens to use](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-recommending-an-aliens-lens-to-use.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Alien Lens activated in Snapchat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/alien-lens-activated-in-snapchat.jpeg)
 
 Close
@@ -40,6 +44,10 @@ Close
  ChatGPT also cannot link you directly to Snap Lenses, which My AI can do. You just have to tell the AI to find you a lens, and it will generate a link for you. And that’s just one of the [useful things you can use My AI to do](https://www.makeuseof.com/snapchat-my-ai-useful-things-to-do/).
 
  However, since ChatGPT isn’t on a social media platform, it's in a far less distracting environment (better-suited for work) and can format its output better. It also stores all your conversations in neat categories, so you can reference them later. My AI’s chat is all on a Snapchat conversation that might disappear unless you save each message.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Research and Essays: ChatGPT vs. My AI
 
@@ -51,9 +59,6 @@ Close
 
  But you should be careful because ChatGPT sometimes “hallucinates” facts. You should still Google certain facts you’re not sure about to make sure it’s accurate. And that’s just one of the [major problems with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/).
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fun and Games: ChatGPT vs. My AI
 
  While it’s possible to still play games with ChatGPT and have it generate fun, random stuff, the key difference with using My AI is that it’s quicker to access and use than ChatGPT. All you have to do to get to My AI is pull out your phone and open Snapchat.
@@ -62,14 +67,8 @@ Close
 
 ![My AI giving a quick random fact about the shortest war in history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-giving-a-quick-random-fact-about-the-shortest-war-in-history.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![My AI suggesting the 20 questions game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-suuggesting-the-20-questions-game.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 Close
 
  Because My AI was designed specifically for tasks like this, it seems to have more “enthusiasm” for games and the like. My AI seems to generate more fun games with less prompting than ChatGPT (how you prompt matters, of course).
@@ -79,8 +78,9 @@ Close
  However, if your game is a big, complicated idea, then it’s a better option to use ChatGPT. It seems to have a more robust data pool and a better ability to retain information. You can play a [detailed text-based RPG on ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-as-an-interactive-rpg/) using our complex prompt to test out the breadth of ChatGPT’s abilities as a game.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Work or Professional Help: ChatGPT vs. My AI
 
  ChatGPT is the AI to go to for professional assistance. Open a new browser tab and keep ChatGPT open as you go about your business. The AI could be useful for simulations, simple questions you don’t need to Google, math problems, coding, translations, and many, many more.
@@ -91,11 +91,19 @@ Close
 
  ChatGPT also has the advantage of being able to format its output. It can create numbered lists, and even place its output inside code blocks, making it more presentable for people who need to see it like that. ChatGPT’s generated code also has more notes and better explanations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Directions and Local Navigation: ChatGPT vs. My AI
 
  My AI can access the internet, Snap Maps, and your location. Therefore, it’s in a better place to give directions than the offline ChatGPT. This doesn’t mean that you can trust My AI completely with giving you directions to a place. You should only use it when you need a general idea or a description of where you’re going.
 
 ![My AI pointing out a nearby taco place](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-pointing-out-a-nearby-taco-place-1.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![My AI pointing out the nearest stadium](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-pointing-out-the-nearest-stadium.jpeg)
 
@@ -104,8 +112,9 @@ Close
  Feel free to ask My AI questions like where the nearest parks or stadiums are, and to give you a description of them. But please, check again with your map to ensure you’re actually going the right way.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Natural Language Chats: ChatGPT vs. My AI
 
  Snapchat’s My AI was designed specifically for light conversation, but its lack of depth can get annoying really quickly. If you would like to have a conversation encompassing a wider breadth of topics and deep philosophical themes, then it’s better to talk to ChatGPT than My AI.
@@ -114,16 +123,14 @@ Close
 
 ![ChatGPT commenting on whether Stoicism relates with its morals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-commenting-on-whether-stoicism-relates-with-its-morals.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  However, when you compare it with My AI’s response, you begin to see the clear difference between the two of them in terms of depth of conversation:
 
 ![My AI commenting on Stoicism](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-commenting-on-stoicism.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  My AI responses seem like a more summarized version of ChatGPT’s.
 
 ## Personalized Recommendations: ChatGPT vs. My AI
@@ -142,14 +149,11 @@ Close
 
  Even though the two chatbots are powered by the same technology, their accessibility, tone, and design make them better suited for different tasks. We’ve made a small list of the different things you could do with them, so you can better utilize them.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,4 +162,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-step-by-step-tutorial-for-successful-youtube-video-submissions/"><u>[Updated] Step-By-Step Tutorial for Successful YouTube Video Submissions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-prime-screen-recording-tech-for-youtube-broadcasts/"><u>2024 Approved Prime Screen Recording Tech for YouTube Broadcasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-intelligence-gpt-4s-unveiling/"><u>Elevating Intelligence: GPT-4's Unveiling</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-xiaomi-redmi-note-13-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Xiaomi Redmi Note 13 5G Phone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-realme-12-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Realme 12 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/jest-jacket-picture-fabricator/"><u>Jest Jacket Picture Fabricator</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-stability-avoid-crashes-and-get-the-most-out-of-deathloop-on-windows/"><u>Mastering Stability: Avoid Crashes and Get the Most Out of Deathloop on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-chatgpts-potential-with-usechatgpt-co-pilot-extension/"><u>Maximizing ChatGPT's Potential with UseChatGPT Co-Pilot Extension</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-motorola-moto-g24-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Motorola Moto G24 Phone Now with These Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlined-visuals-rapid-fix-for-amd-and-tarkov-bug/"><u>Streamlined Visuals: Rapid Fix for AMD & Tarkov Bug</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/switching-to-apples-ipad-just-got-irresistible-with-new-ipados-18-capabilities-showcased-at-wwdc-2024-expert-review-on-zdnet/"><u>Switching to Apple's iPad Just Got Irresistible with New iPadOS 18 Capabilities Showcased at WWDC 2024 | Expert Review on ZDNET</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/top-12-outils-danimation-open-source-en-2024-solutions-de-modelisation-et-animation-3d/"><u>Top 12 Outils D'Animation Open Source en 2024 - Solutions De Modélisation Et Animation 3D</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-36-unbeatable-apple-discounts-and-offers-still-up-for-grabs-on-prime-day-shop-smart-with-zdnets-guide/"><u>Top 36 Unbeatable Apple Discounts & Offers Still Up for Grabs on Prime Day - Shop Smart with ZDNet's Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-non-apple-and-non-tile-wallet-airtag-reviewed-discover-the-leading-alternative/"><u>Top Non-Apple and Non-Tile Wallet AirTag Reviewed - Discover the Leading Alternative!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/turning-chatbots-into-a-stream-of-earnings/"><u>Turning Chatbots Into a Stream of Earnings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-full-potential-of-your-device-with-ios-18-eligible-iphone-models-revealed-and-step-by-step-download-instructions-zdnet/"><u>Unlock the Full Potential of Your Device with iOS 18: Eligible iPhone Models Revealed & Step-by-Step Download Instructions | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-to-the-future-why-choosing-apples-iphone-15-means-more-than-just-a-new-phone/"><u>Upgrade to the Future: Why Choosing Apple's iPhone 15 Means More than Just a New Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-im-choosing-the-iphone-16-pro-over-the-max-apples-latest-incentives-insights-from-zdnet/"><u>Why I'm Choosing the iPhone 16 Pro Over the Max: Apple's Latest Incentives - Insights From ZDNet</u></a></li>
+</ul></div>
 

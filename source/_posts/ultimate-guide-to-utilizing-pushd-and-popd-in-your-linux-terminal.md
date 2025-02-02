@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Utilizing Pushd and Popd in Your Linux Terminal
-date: 2024-08-29T19:37:45.668Z
-updated: 2024-08-30T19:37:45.668Z
+date: 2025-01-30T11:29:43.605Z
+updated: 2025-02-01T05:49:37.719Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Ultimate Guide to Utilizing Pushd and Popd in Your Linux Terminal
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,6 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Many Linux folks have never heard of `pushd` and `popd`, but they've been around forever. They can also dramatically speed up the process of navigating directories on the command line. We'll walk you through how to use them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Are pushd and popd?
 
  One of the innovations [Bill Joy](https://en.wikipedia.org/wiki/Bill%5FJoy) incorporated in his 1978 [C Shell](https://en.wikipedia.org/wiki/C%5Fshell) was the concept of a directory stack and the means to manipulate it: `pushd` and `popd`. Imitation being the sincerest form of flattery, the directory stack, `pushd`, and `popd` were soon incorporated into other shells (like Bash) and even other operating systems.
@@ -35,6 +43,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  As we're referring to a directory stack, it probably comes as no surprise that the "d" in `pushd` and `popd` stands for "directory." These commands allow you to push directories onto, or pop them off of, the directory stack.
 
  But how does that benefit us?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How pushd Populates the Stack
 
@@ -66,9 +78,6 @@ pushd ~
 
  Note also that the left-most entry in the stack, which is most recently added entry, is your current directory.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ##  The dirs Command
 
  You can use the `dirs` command, as shown below, to display the directory stack:
@@ -85,6 +94,10 @@ dirs
 
 ![dirs -v in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/3-11.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you'd rather see the spelled-out path to your home directory instead of the tilde (`~`), add the `-l` (long format) option, like so:
 
 dirs -v -l
@@ -92,8 +105,9 @@ dirs -v -l
 ![dirs -v -l in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/4-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Adding a Directory to the Stack
 
  As we've seen, when you use the `pushd` command, it does three things: changes your directory, adds the new directory to the stack, and displays the stack for you. You can use the `-n` (no rotation) option to add a directory to the stack without changing the current directory.
@@ -103,6 +117,10 @@ dirs -v -l
 dirs -v -l
 
 ![dirs -v -l in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/5-6.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, we'll use the `pushd` command with the -n option and pas in the `/home/dave` directory as a parameter. Then, we'll check the directory stack again.
 
@@ -131,8 +149,9 @@ pushd +3
 ![pushd +3 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/7-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The directories in the stack above the directory we've chosen are moved to the bottom of the stack. Our chosen directory now occupies the top position and we're moved into that directory.
 
  If we want to change into the directory at the bottom of the stack, we can use the following command:
@@ -141,14 +160,8 @@ pushd -0
 
 ![pushd -0 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/8-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The last directory is moved to the first slot, and all the others are moved down in the stack. We're changed to the `~/Pictures` directory.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  The popd Command
 
  You can use the `popd` command to remove directories from the stack.
@@ -169,9 +182,6 @@ popd -0
 
 ![popd -0 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/10-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The `~/Music` directory is removed from the last position in the stack.
 
  To change the directory, do something, and then hop back to the previous directory, you can use `pushd` and `popd` together.
@@ -186,9 +196,6 @@ popd
 
 ![pushd ~ in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/11-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  We started in the `~/Projects` directory, `pushd` to the home directory, and then `popd` back to the `~/Projects` directory.
 
 ##  Rotating Through the Entire Stack
@@ -213,9 +220,6 @@ dirs -v -l
 
 ![pushd ~/Projects in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/12-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  When you repeatedly issue `pushd +1` commands, you can cycle round and round through the stack of directories. If you do this often, `pushd +1` would be a good candidate for an [alias](https://hardware-help.techidaily.com/download-the-latest-logitech-camera-drivers-at-no-cost-for-windows-users/).
 
  Type the following:
@@ -225,8 +229,9 @@ pushd +1
 ![pushd +1 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/13-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Stamping Over the Stack
 
  It's easy to revert to old habits and use `cd` to change directory. If you do that, you'll stamp over the first directory in the stack. This is inevitable, as the first slot is reserved for the current working directory—none of the others change position.
@@ -241,10 +246,6 @@ dirs -v -l
 
 ![dirs -v -l in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/14-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ---
 
  After you get used to the `pushd` and `popd` commands (and, perhaps, use them to create a few aliases), you'll have a super-fast way to hop between directories.
@@ -263,8 +264,6 @@ dirs -v -l
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -272,4 +271,26 @@ dirs -v -l
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/adjusted-advanced-display-settings-missing/"><u>[Adjusted] Advanced Display Settings MISSING</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-learn-how-to-blur-facesbackgroundimages-in-photoshop/"><u>[New] Learn How to Blur Faces/Background/Images in Photoshop</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-transformative-tinsel-a-journey-from-box-to-joy/"><u>[Updated] In 2024, Transformative Tinsel A Journey From Box to Joy</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-step-by-step-guide-to-mastering-kinemaster-plus-10-best-video-editors-online/"><u>2024 Approved Step-by-Step Guide to Mastering KineMaster + 10 Best Video Editors Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-basic-talk-unused-ai-elements-in-conversation-tools/"><u>Beyond Basic Talk: Unused AI Elements in Conversation Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-a-following-with-stunning-unboxing-content/"><u>Building a Following with Stunning Unboxing Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-inspired-infographics-and-data-tables/"><u>ChatGPT-Inspired Infographics and Data Tables</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-latest-updates-global-perks/"><u>ChatGPT's Latest Updates: Global Perks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/creating-focus-in-meetings-blurring-the-video-uniformity/"><u>Creating Focus in Meetings Blurring the Video Uniformity</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/cutting-through-complexity-simplifying-your-approach-to-lut-design-for-2024/"><u>Cutting Through Complexity Simplifying Your Approach to LUT Design for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-listening-discover-how-your-airpods-pro-will-integrate-seamlessly-with-ios-18-for-hearing-support-no-need-to-update-your-devices/"><u>Enhanced Listening: Discover How Your AirPods Pro Will Integrate Seamlessly With iOS 18 for Hearing Support - No Need to Update Your Devices!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-the-affordable-20-anker-power-bank-overcomes-common-issues-with-portable-chargers-insights-from-zdnet/"><u>How the Affordable $20 Anker Power Bank Overcomes Common Issues with Portable Chargers | Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movaviflvmpeg/"><u>Movaviで気軽に行うFLVとMPEGファイル間の自由配布変換サービス</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-productivity-should-you-turn-to-bing-chat-or-gpt-3-7-factors/"><u>Optimizing Productivity: Should You Turn to Bing Chat or GPT-3? 7 Factors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securely-sync-and-save-your-iphone-information-on-icloud-and-mac-expert-tips-for-a-hassle-free-backup-process/"><u>Securely Sync & Save Your iPhone Information on iCloud and Mac: Expert Tips for a Hassle-Free Backup Process</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-ideal-iphone-16pro-case-in-2-professional-insights/"><u>Ultimate Guide to Choosing the Ideal iPhone 16/Pro Case in 2지: Professional Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unveiling-clearer-sounds-a-video-editing-guide-for-2024/"><u>Unveiling Clearer Sounds A Video Editing Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-europes-ai-act-and-its-implications-for-advanced-conversational-interfaces-including-gpt-type-models/"><u>Unveiling Europe’s AI Act and Its Implications for Advanced Conversational Interfaces Including GPT-Type Models</u></a></li>
+</ul></div>
 

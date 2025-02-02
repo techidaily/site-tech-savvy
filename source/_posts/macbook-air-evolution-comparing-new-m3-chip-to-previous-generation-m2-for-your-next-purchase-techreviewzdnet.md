@@ -1,7 +1,7 @@
 ---
 title: "Macbook Air Evolution: Comparing New M3 Chip to Previous Generation M2 for Your Next Purchase | TechReviewZDNet"
-date: 2025-01-24T00:00:30.312Z
-updated: 2025-01-24T19:23:09.011Z
+date: 2025-01-26T03:19:06.463Z
+updated: 2025-02-01T01:48:56.420Z
 tags:
   - apple
 categories:
@@ -48,10 +48,6 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the M3 MacBook Air if...
 
 Jason Hiner/ZDNET
@@ -59,10 +55,6 @@ Jason Hiner/ZDNET
 ###  1\. You want the fastest Wi-Fi support available
 
 If you find yourself doing a lot of downloading for work, or you're a gamer, the MacBook Air with M3 features the new [Wi-Fi 6e standard](https://www.zdnet.com/home-and-office/networking/wi-fi-6e-the-future-of-wireless-connectivity-today-with-some-caveats/) that provides faster download speeds and lower latency -- provided you're using a Wi-Fi 6e router, of course. While you might not notice much of a difference for everyday tasks, if you do Wi-Fi-intensive tasks where latency is critical, you'll quickly appreciate the upgrade. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You use more than one monitor
 
@@ -90,12 +82,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the M2 MacBook Air if...
 
 Cliff Joseph/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. The $100 price difference means a lot
@@ -103,7 +99,7 @@ Cliff Joseph/ZDNET
 You don't get too many chances to save money on Apple products, but you have one here by opting for the M2 version of the MacBook Air. With the release of the M3 version. Apple has dropped the M2 MacBook Air's starting price to $999, but that price could drop further later in the year, opening the door for bigger savings. Even though the M2 is slightly older, it's still a perfectly capable laptop that will work fine for most people.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You don't need the latest and greatest features
@@ -113,7 +109,7 @@ Will you be mainly using your laptop for web surfing, streaming, listening to mu
 **Also:** [**I recommend this 15-inch MacBook Air to most people, and it's still $250 off**](https://www.zdnet.com/article/i-recommend-this-15-inch-macbook-air-to-most-people-and-its-still-250-off/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. You're expecting the M3 to be a bigger upgrade
@@ -121,6 +117,10 @@ Will you be mainly using your laptop for web surfing, streaming, listening to mu
 If you were expecting a radical redesign with the latest MacBook, you won't get it from the M3 Air. It looks nearly identical to the M2, and aside from the anodization seal on the midnight color that reduces fingerprints, even the colors aren't anything new. The real changes are on the inside, so if you want something that simply looks like it's the latest thing, you won't get any benefit from picking the M3 over the M2\. 
 
 [Buy the M2 MacBook Air View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -156,18 +156,20 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-exploring-latest-wins-windows-10-enhancements-for-2024/"><u>[New] Exploring Latest Wins Windows 10 Enhancements for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-windows-11-gamers-ultimate-playbook-top-5-record-techniques/"><u>[New] In 2024, Windows 11 Gamers' Ultimate Playbook Top 5 Record Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-capture-the-thrill-essential-recording-tips-for-overwatch/"><u>[Updated] 2024 Approved Capture the Thrill Essential Recording Tips for Overwatch</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-achieve-more-money-from-your-short-videos-on-youtube/"><u>[Updated] In 2024, Achieve More Money From Your Short Videos on YouTube</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-manufacture-jokes-memes-using-adobe/"><u>[Updated] In 2024, Manufacture Jokes Memes Using Adobe</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/anticipated-launch-apple-prepares-new-earbuds-and-headphones-airpods-lite-and-airpods-max-for-later-this-year/"><u>Anticipated Launch: Apple Prepares New Earbuds and Headphones 'AirPods Lite' And AirPods Max for Later This Year</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bard-enhanced-7-innovations-from-googles-palm-2/"><u>Bard Enhanced: 7 Innovations From Google's PaLM 2</u></a></li>
-<li><a href="https://win-forum.techidaily.com/convert-your-mov-files-into-asf-format-for-free-with-movavis-reliable-web-tool/"><u>Convert Your MOV Files Into ASF Format for Free with Movavi's Reliable Web Tool</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-next-frontier-how-apple-envisions-a-domestic-robot-helper/"><u>Exploring the Next Frontier: How Apple Envisions a Domestic Robot Helper</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-keeping-up-with-the-screen-capturing-internet-television-online/"><u>In 2024, Keeping Up With The Screen - Capturing Internet Television Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-iphone-15-in-depth-analysis-and-why-its-a-must-have-even-for-seasoned-professionals-zdnet-insights/"><u>Unveiling the Power of iPhone 15: In-Depth Analysis & Why It's a Must-Have Even for Seasoned Professionals | ZDNET Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/weighing-ais-impact-on-artistic-expression/"><u>Weighing AI's Impact on Artistic Expression</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-comprehensive-examination-for-straightforward-hdr/"><u>[New] In 2024, Comprehensive Examination for Straightforward HDR</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-ais-roots-an-illustrative-history/"><u>Discovering AI's Roots: An Illustrative History</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-your-search-game-with-ai-at-bing/"><u>Elevating Your Search Game with AI at Bing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/fostering-duets-tiktok-vocal-pairings-for-2024/"><u>Fostering Duets TikTok Vocal Pairings for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-did-my-climb-up-apples-ladder-begin-insights-and-factors-explored/"><u>How Did My Climb Up Apple's Ladder Begin? Insights and Factors Explored</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-t2-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo T2 Pro 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-xr-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone XR Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-optimizing-video-visibility-with-strategic-tag-selection/"><u>In 2024, Optimizing Video Visibility with Strategic Tag Selection</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211387528-9789888843930-love-becomes-her/"><u>Love Becomes Her | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-ai-language-essential-vocabulary-for-enthusiasts/"><u>Navigating AI Language: Essential Vocabulary for Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/plagiarism-pitfalls-ai-detection-shortcomings/"><u>Plagiarism Pitfalls: AI Detection Shortcomings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-case-for-claude-3-top-4-benefits-over-chatgpt/"><u>The Case for Claude 3: Top 4 Benefits Over ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-power-ais-effect-on-media-making/"><u>Transformative Power: AI’s Effect on Media Making</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-chatgpts-native-tools/"><u>Unveiling ChatGPT’s Native Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-reset-triggers-top-10-tips/"><u>Windows Reset Triggers: Top 10 Tips</u></a></li>
 </ul></div>
 

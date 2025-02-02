@@ -1,7 +1,7 @@
 ---
 title: "Discover Exciting Updates: Dive Into the Best of Apple's iOS 18 Public Beta Highlights"
-date: 2025-01-20T21:33:26.431Z
-updated: 2025-01-24T17:41:25.240Z
+date: 2025-01-28T23:58:13.120Z
+updated: 2025-02-01T09:30:56.369Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. AI all around
@@ -55,7 +55,7 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -65,7 +65,7 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -77,7 +77,7 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -87,7 +87,7 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -128,22 +128,22 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-top-8-best-screen-capture-tools-for-linux/"><u>[New] Top 8 Best Screen Capture Tools for Linux</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-unlock-creative-expression-incor-points-on-sharing-gifs-on-snapchat/"><u>[New] Unlock Creative Expression Incor Points on Sharing Gifs on Snapchat</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-capture-lol-fun-top-3-gameplay-recording-tips/"><u>[Updated] Capture LOL Fun Top 3 Gameplay Recording Tips</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-swift-guide-image-to-youtube-thumbnail-transformation-techniques/"><u>2024 Approved Swift Guide Image to YouTube Thumbnail Transformation Techniques</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dive-into-gptzeros-capabilities-for-textual-source-identification/"><u>Dive Into GPTZero's Capabilities for Textual Source Identification</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-innovation-to-action-google-reveals-revolutionary-ai-bard/"><u>From Innovation to Action: Google Reveals Revolutionary AI, 'Bard'</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-fix-window-compatible-csr8510-a10-graphics-card-driver-errors-solution/"><u>How to Fix Window-Compatible CSR8510 A10 Graphics Card Driver Errors - SOLUTION</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Samsung Galaxy A05s? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/identifying-ai-delusions-recognizing-fake-data-interpretations/"><u>Identifying AI Delusions: Recognizing Fake Data Interpretations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inquiries-beyond-the-reach-of-gpt/"><u>Inquiries Beyond the Reach of GPT</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/introduction-to-spanish-salutations-decoding-and-practicing-10-key-expressions/"><u>Introduction To Spanish Salutations: Decoding & Practicing 10 Key Expressions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-apple-for-authentic-chatai-services/"><u>Navigating Apple for Authentic ChatAI Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-core-underlying-processes-in-predictive-ai/"><u>The Core Underlying Processes in Predictive AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-11-irresistible-last-minute-holiday-purchase-offers/"><u>Top 11 Irresistible Last-Minute Holiday Purchase Offers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-t-mobiles-intra-network-wifi-roaming-a-guide/"><u>Understanding T-Mobile's Intra-Network WiFi Roaming: A Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/veiled-preservation-of-private-gpt-interactions/"><u>Veiled Preservation of Private GPT Interactions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-budget-screen-grabber-for-smartphones/"><u>[New] Best Budget Screen Grabber for Smartphones</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-secrets-to-successful-twitpicingvideo-edition/"><u>[New] Secrets to Successful Twitpicing—Video Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-streamlined-subscription-links-for-video-channels/"><u>[Updated] In 2024, Guide to Streamlined Subscription Links for Video Channels</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-15-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 15</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-visual-mastery-navigating-through-imagery-with-ease/"><u>ChatGPT Visual Mastery: Navigating Through Imagery with Ease</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-choice-criteria-for-an-effective-conversational-bot/"><u>Critical Choice Criteria for an Effective Conversational Bot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-release-upcoming-benefits-for-select-apple-airpod-variants-this-autumn-insider-guide-by-techcrunch/"><u>Exclusive Release: Upcoming Benefits for Select Apple AirPod Variants This Autumn - Insider Guide by TechCrunch</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-chatbot-assistance-with-cognitive-behavioral-therapy-methods/"><u>Integrating Chatbot Assistance with Cognitive Behavioral Therapy Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-personalized-language-ai-with-openais-store/"><u>Master Personalized Language AI with OpenAI’s Store</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-ai-why-todays-teachers-must-adapt/"><u>Mastering AI: Why Today's Teachers Must Adapt</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-affordable-tablets-comprehensive-reviews-by-industry-experts-techradar/"><u>Top Affordable Tablets : Comprehensive Reviews by Industry Experts | TechRadar</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-huawei-nova-y71-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Huawei Nova Y71 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-new-potential-in-content-generation-on-iphone-14-using-ios-18-exclusive-tips-from-zdnet/"><u>Unlocking New Potential in Content Generation on iPhone 14 Using iOS 18 - Exclusive Tips From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-honor-play-8t-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Honor Play 8T</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-ipad-air-exceeds-expectations-and-challenges-loyalty-to-the-ipad-pro-a-detailed-review-tech-analysis-on-zdnet/"><u>Why the iPad Air Exceeds Expectations and Challenges Loyalty to the iPad Pro - A Detailed Review | Tech Analysis on ZDNET</u></a></li>
 </ul></div>
 

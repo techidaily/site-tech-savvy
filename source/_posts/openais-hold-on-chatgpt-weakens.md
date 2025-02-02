@@ -1,7 +1,7 @@
 ---
 title: OpenAI's Hold on ChatGPT Weakens?
-date: 2024-08-25T17:39:24.277Z
-updated: 2024-08-26T17:39:24.277Z
+date: 2025-01-29T06:21:10.582Z
+updated: 2025-02-01T11:35:15.796Z
 tags:
   - chatgpt
   - open-ai
@@ -39,9 +39,17 @@ thumbnail: https://thmb.techidaily.com/57b8dccb20eee61b9862d74c48858978ad644b0b3
 
  So, from the onset, you have an AI capable of "good and evil." It's then the responsibility of OpenAI to ensure that ChatGPT's "evil" side is not exploited for unethical gains. The question is; is OpenAI doing enough to keep ChatGPT as ethical as possible? Or has OpenAI lost control of ChatGPT?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is ChatGPT Too Powerful for Its Own Good?
 
 ![plastic robot with blue face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/plastic-robot-with-blue-face.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the early days of ChatGPT, you could get the chatbot to create guides on making bombs if you asked nicely. Instructions on making malware or writing a perfect scam email were also in the picture.
 
@@ -59,9 +67,17 @@ thumbnail: https://thmb.techidaily.com/57b8dccb20eee61b9862d74c48858978ad644b0b3
 
 ![How to smuggle a hidden notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-smuggle-a-hidden-notes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here's another example: we asked the vanilla ChatGPT an unethical question, and OpenAI's safeguards stopped it from answering.
 
 ![hide a dead body by chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-a-dead-body-by-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  But when we asked our jailbroken instance of the AI chatbot, we got some serial-killer-styled responses.
 
@@ -71,29 +87,24 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
 ![Nigerian prince scam email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/nigerian-prince-scam-email.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Jailbreaking almost completely invalidates any safeguards that OpenAI has put in place, highlighting that the company might not have a reliable way to keep its AI chatbot under control.
 
  We did not include our jailbroken prompts in our examples to avoid unethical practices.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What Does the Future Hold for ChatGPT?
 
 ![Robot Machine Technology](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/robot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Ideally, OpenAI wants to plug as many ethical loopholes as possible to prevent [ChatGPT from becoming a cybersecurity threat](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) . However, for every safeguard it employs, ChatGPT tends to become a bit less valuable. It's a dilemma.
 
  For instance, safeguards against describing violent actions might diminish ChatGPT's ability to write a novel involving a crime scene. As OpenAI ramps up safety measures, it inevitably sacrifices chunks of its abilities in the process. This is why ChatGPT has suffered a significant decline in functionality since OpenAI's renewed push for stricter moderation.
 
  But how much more of ChatGPT's abilities will OpenAI be willing to sacrifice to make the chatbot safer? This all ties neatly into a long-held belief within the AI community—large language models like ChatGPT are notoriously hard to control, even by their own creators.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Can OpenAI Put ChatGPT Under Control?
 
  For now, OpenAI doesn't seem to have a clear-cut solution to avoid the unethical use of its tool. Ensuring that ChatGPT is used ethically is a game of cat and mouse. While OpenAI uncovers ways people are employing to game the system, its users are also constantly tinkering and probing the system to discover creative new ways to make ChatGPT do what it isn't supposed to do.
@@ -106,8 +117,6 @@ It even wrote a classic Nigerian Prince email scam when asked.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +124,22 @@ It even wrote a classic Nigerian Prince email scam when asked.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-demystifying-the-math-of-youtube-ratio-perfection/"><u>[New] 2024 Approved Demystifying the Math of YouTube Ratio Perfection</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-smooth-setup-seamless-screenshots-on-dell-devices/"><u>[New] 2024 Approved Smooth Setup Seamless Screenshots on Dell Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-top-30-visionary-insights-on-virtual-realms/"><u>[New] 2024 Approved Top 30 Visionary Insights on Virtual Realms</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-decoding-aspect-ratios-for-effective-youtube-videos/"><u>[New] In 2024, Decoding Aspect Ratios for Effective YouTube Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-efficient-techniques-recording-saving-and-converting-movies-in-win-11/"><u>[New] In 2024, Efficient Techniques Recording, Saving, and Converting Movies in Win 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-exploring-the-landscape-of-music-and-intellectual-property-on-insta/"><u>[New] In 2024, Exploring the Landscape of Music & Intellectual Property on Insta</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-digital-domination-rise-from-thousands-to-a-million-on-youtube/"><u>[Updated] 2024 Approved Digital Domination Rise From Thousands to a Million on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-innovation-on-track-for-iphones-unveiling-clues-from-apples-recent-acquisition-insights/"><u>AI Innovation on Track for iPhones? Unveiling Clues From Apple's Recent Acquisition Insights</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-download-of-brother-hl-l2380dw-color-laser-multifunction-printer-drivers-for-window-users/"><u>Easy Download of Brother HL-L2380DW Color Laser Multifunction Printer Drivers for Window Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-gpt-3-to-claude-3-identifying-four-key-differences/"><u>From GPT-3 to Claude 3: Identifying Four Key Differences</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-plus-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Plus To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-gpts-input-restrictions/"><u>Navigating Through GPT's Input Restrictions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/skybound-choices-deciphering-copilots-upgraded-path/"><u>Skybound Choices: Deciphering CoPilot's Upgraded Path</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-latency-ledger-chatgpt-4-versus-its-gpt-35-counterpart/"><u>The Latency Ledger: ChatGPT-4 Versus Its GPT-3.5 Counterpart</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-claude-2-features-and-functions/"><u>Unveiling Claude 2: Features & Functions</u></a></li>
+</ul></div>
 

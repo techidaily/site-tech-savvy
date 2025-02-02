@@ -1,7 +1,7 @@
 ---
 title: "The Digital Dialogue: Snapchat's MyAI vs OpenAI's GPT"
-date: 2024-08-25T17:38:28.687Z
-updated: 2024-08-26T17:38:28.687Z
+date: 2025-01-29T06:26:00.130Z
+updated: 2025-02-01T00:09:03.494Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/f686a643a5c8caf6204a0d7d1f9323ac2adea370f
 
 ![Alien Lens activated in Snapchat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/alien-lens-activated-in-snapchat.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  While ChatGPT might also be able to assist you with some things on Snapchat, the free version isn’t connected to the internet. That means that if there are any changes to Snapchat newer than the data it has, there’s no way for it to know.
@@ -47,6 +51,10 @@ Close
 
 ![ChatGPT's 500-word essay on the Tabula Rasa theory of psychology](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-s-500-word-essay-on-the-tabula-rasa-theory-of-psychology.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, ChatGPT, while being less chatty and bubbly, is the bookworm among the pair. ChatGPT can help you to do research and compile essays effortlessly. It can cook up coherent essays and brainstorm theses based on your prompts.
 
  But you should be careful because ChatGPT sometimes “hallucinates” facts. You should still Google certain facts you’re not sure about to make sure it’s accurate. And that’s just one of the [major problems with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/).
@@ -57,12 +65,13 @@ Close
 
 ![My AI coming up with a word game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-coming-up-with-a-word-game.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![My AI giving a quick random fact about the shortest war in history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-giving-a-quick-random-fact-about-the-shortest-war-in-history.jpeg)
 
 ![My AI suggesting the 20 questions game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-suuggesting-the-20-questions-game.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -73,8 +82,9 @@ Close
  However, if your game is a big, complicated idea, then it’s a better option to use ChatGPT. It seems to have a more robust data pool and a better ability to retain information. You can play a [detailed text-based RPG on ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-as-an-interactive-rpg/) using our complex prompt to test out the breadth of ChatGPT’s abilities as a game.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Work or Professional Help: ChatGPT vs. My AI
 
  ChatGPT is the AI to go to for professional assistance. Open a new browser tab and keep ChatGPT open as you go about your business. The AI could be useful for simulations, simple questions you don’t need to Google, math problems, coding, translations, and many, many more.
@@ -82,15 +92,13 @@ Close
 ![ChatGPT displaying a Python code for calculating the price of goods](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-displaying-a-python-code-for-calculating-the-price-of-goods.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  My AI doesn’t give detailed answers to questions the way ChatGPT does, so it’s still not a good idea to use it—even after opening [Snapchat in your browser](https://www.makeuseof.com/how-to-use-snapchat-on-web/).
 
  ChatGPT also has the advantage of being able to format its output. It can create numbered lists, and even place its output inside code blocks, making it more presentable for people who need to see it like that. ChatGPT’s generated code also has more notes and better explanations.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Directions and Local Navigation: ChatGPT vs. My AI
 
  My AI can access the internet, Snap Maps, and your location. Therefore, it’s in a better place to give directions than the offline ChatGPT. This doesn’t mean that you can trust My AI completely with giving you directions to a place. You should only use it when you need a general idea or a description of where you’re going.
@@ -103,10 +111,6 @@ Close
 
  Feel free to ask My AI questions like where the nearest parks or stadiums are, and to give you a description of them. But please, check again with your map to ensure you’re actually going the right way.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Natural Language Chats: ChatGPT vs. My AI
 
  Snapchat’s My AI was designed specifically for light conversation, but its lack of depth can get annoying really quickly. If you would like to have a conversation encompassing a wider breadth of topics and deep philosophical themes, then it’s better to talk to ChatGPT than My AI.
@@ -115,18 +119,16 @@ Close
 
 ![ChatGPT commenting on whether Stoicism relates with its morals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-commenting-on-whether-stoicism-relates-with-its-morals.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  However, when you compare it with My AI’s response, you begin to see the clear difference between the two of them in terms of depth of conversation:
 
 ![My AI commenting on Stoicism](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-commenting-on-stoicism.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  My AI responses seem like a more summarized version of ChatGPT’s.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Personalized Recommendations: ChatGPT vs. My AI
 
  Once again, thanks to My AI’s access to your Snapchat information, the internet, your location, and its conversational nature, it can make better-personalized recommendations than ChatGPT can.
@@ -134,6 +136,10 @@ Close
  While you can prompt it to give you a recommendation, sometimes My AI would go out of its way to recommend something for you during a conversation. Because it also uses Snap Maps, it can also point out hotspots and places you might enjoy based on reviews, how active it’s been on the map, and your distance.
 
  But it doesn’t end at restaurants, coffee shops, bars and the like; My AI can also recommend things to do based on your interests, such as hiking, shopping, or attending concerts. These are things that ChatGPT can’t compete with till it has access to your location and the internet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## My AI Is a Mobile-Friendly Alternative to ChatGPT
 
@@ -143,14 +149,11 @@ Close
 
  Even though the two chatbots are powered by the same technology, their accessibility, tone, and design make them better suited for different tasks. We’ve made a small list of the different things you could do with them, so you can better utilize them.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -159,4 +162,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-secrets-unveiled-best-practices-in-remote-audio-capture/"><u>[Updated] 2024 Approved Secrets Unveiled Best Practices in Remote Audio Capture</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/backup-blueprint-maintaining-and-moving-gpt-conversations/"><u>Backup Blueprint: Maintaining and Moving GPT Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-the-iphone-13-and-15-pro-top-alternatives-to-consider-after-apples-discontinuation/"><u>Beyond the iPhone 13 & 15 Pro: Top Alternatives to Consider After Apple's Discontinuation</u></a></li>
+<li><a href="https://facebook.techidaily.com/did-a-facebook-error-expose-our-conversational-numbers-unintentionally/"><u>Did a Facebook Error Expose Our Conversational Numbers Unintentionally?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-to-unzipping-rar-archives-on-your-mac-computer/"><u>Easy Steps to Unzipping RAR Archives on Your Mac Computer</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-the-best-of-yt-a-deep-dive-into-music-dance-clips-23/"><u>In 2024, The Best of YT A Deep Dive Into Music Dance Clips, '23</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-top-5-best-lightweight-action-cameras/"><u>In 2024, Top 5 Best Lightweight Action Cameras</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-productivity-gains-combining-onlyoffice-docspace-capabilities-with-chatgpt-ai-assistance/"><u>Maximize Productivity Gains: Combining OnlyOffice Docspace Capabilities with ChatGPT AI Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-creativity-scaling-design-with-canva-and-ai/"><u>Maximizing Creativity: Scaling Design with Canva & AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcome-iphones-obstacles-with-these-chatgpt-fixes/"><u>Overcome iPhone's Obstacles with These ChatGPT Fixes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/review-of-m3-macbook-air-the-accessible-intelligent-machine-from-apple-revolutionizes-computing/"><u>Review of M3 MacBook Air: The Accessible, Intelligent Machine From Apple Revolutionizes Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-film-production-breakthrough-fcpx-ipad-functions-that-every-filmmaker-must-know-zdnet/"><u>Revolutionizing Film Production: Breakthrough FCPx iPad Functions That Every Filmmaker Must Know - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/side-hustle-scouting-is-chatgpt-a-smart-investment/"><u>Side Hustle Scouting: Is ChatGPT a Smart Investment?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/into-successful-online-broadcasting-top-youtube-webcam-choices/"><u>Step Into Successful Online Broadcasting Top YouTube Webcam Choices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailoring-gpt-3-exchanges-the-art-of-file-segregation/"><u>Tailoring GPT-3 Exchanges: The Art of File Segregation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolve-btballoondll-file-not-found-problem/"><u>Ultimate Guide: Resolve btballoon.dll File Not Found Problem</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Acquiring an Apple Vision Pro: Expert Advice on Secure Transactions, Perfect Face Scan Results, and Insider Ordering Strategies"
-date: 2025-01-21T21:45:33.228Z
-updated: 2025-01-24T21:25:24.834Z
+date: 2025-01-30T00:21:50.359Z
+updated: 2025-02-01T05:01:17.124Z
 tags:
   - apple
 categories:
@@ -48,10 +48,6 @@ Be sure your [phone is up to date](https://www.zdnet.com/article/how-to-get-your
 
 **Also: [How to get your iPhone ready for the landmark iOS 17.4 update](https://www.zdnet.com/article/how-to-get-your-iphone-ready-for-the-landmark-ios-17-4-update/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  You must have a current prescription
 
 When I bought [my custom lenses](https://www.zdnet.com/article/i-bought-custom-lenses-for-my-meta-quest-3-but-not-every-eyeglass-wearer-needs-them-do-you/) for the [Quest 3 XR headset](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMeta-Quest-128GB-Breakthrough-Reality-3%2Fdp%2FB0C8VKH1ZH%2Fref%3Dsr%5F1%5F3%3Fcrid%3D2X0HCIAO3MOVG%26dib%3DeyJ2IjoiMSJ9.BNL0XshPOuZ3lobU5yu3cCziH0rMF3MqkgI5OZmFfI396LZ9jAGXj84MI1EU8%5F5LWlHYbffLvuK4wy60m2mpx-2b0E69G5CAgPr77uABPUs9ThjKVgBAKgxNCmitWG6OIvJQ6C%5FdCub9mc2M5TrzkUgG285Omu6Unm09oovkmtElcKnrct6qE-2GKMVhhr8O9kofjIrt-EsmkyGAKY4GXxpx1gS5vWkTxp6SQcpBxTg.-wnHYIb3S%5FyHdJPtuvKYmJx1oE3hNgbvXK-C7xpg%5FwM%26dib%5Ftag%3Dse%26keywords%3Dquest%2B3%26qid%3D1708934460%26sprefix%3Dquest%2B3%2Caps%2C170%26sr%3D8-3%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C90ceb044-fd06-4c2e-9fe4-87dbf1fce34f%7Cdtp&dtb=1), I just typed in the eyeglass numbers that corresponded to the glasses I currently wear. But I couldn't use that prescription for ZEISS (the company that makes the lenses for Apple). 
@@ -70,6 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 That prescription works fine in my Quest 3, but Apple and ZEISS won't accept it. I had to book an appointment with my local optometrist. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  It's your distance prescription that counts
 
 When you go to see your optometrist, you'll need to get a distance prescription for the lens inserts. Some people think you'll need both close and distance prescriptions, particularly if you need glasses to read a book or your phone. But that's not how it works. 
@@ -85,7 +85,7 @@ Note that Apple specifically states, "Intermediate distance, task distance, or c
 In any case, within a half hour, I had a new distance prescription that was current and official. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Confirm your prescription can be used
@@ -101,10 +101,6 @@ Fill it out with the relevant data from your current prescription and click Chec
 This is why you need to do all the prescription preparation first. Apple points you to the ZEISS page after the order has been completed, but by that time it's too late. The order has already been placed. It would be extremely inconvenient to find out you can't use the headset, and have to go through all sorts of hoops to either cancel the order or return the device. 
 
 By checking these details first, you can save yourself that annoyance. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Get a successful face scan
 
@@ -162,6 +158,10 @@ This process took me a very long time. Not only did I have difficulty trying to 
 
 But the real trick, which I mentioned at the start of this section, is that I turned on all the lights and set the phone down at face height, so I could stand in front of it. Before that, I tried again and again to make it like me. As soon as I used a stable, head-height platform, it took the requisite measurements in less than a minute. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Pre-order the optical insert lenses
 
 Let's get started. For those keeping track, we're at our third "Get started" prompt:
@@ -207,7 +207,7 @@ And, finally, you're done with the first phase of ordering your optical inserts.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Order the Vision Pro itself
@@ -286,6 +286,10 @@ Screenshot by David Gewirtz/ZDNET
 
 Now, it's time to upload your prescription to ZEISS. Apple does let you come back later (like if you didn't read this article and just found out you need a current glasses prescription and have to run to the optometrist). But you are reading this article because you're smart and good-looking.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##   
 
 Screenshot by David Gewirtz/ZDNET
@@ -311,10 +315,6 @@ Screenshot by David Gewirtz/ZDNET
 Whew. You're done. Now it's time to sit and wait. In my case, I got a notice the next day that my prescription was approved and the inserts were being made. 
 
 Screenshot by David Gewirtz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. And now you wait for delivery
 
@@ -365,18 +365,16 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-emotional-journey-awaits-best-memes-for-chuckles-and-sighs-on-ig/"><u>[New] In 2024, Emotional Journey Awaits Best Memes for Chuckles and Sighs on IG</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-rotational-realities-how-to-captivate-with-instagrams-sideways-videos/"><u>[New] In 2024, Rotational Realities How to Captivate with Instagram's Sideways Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-novices-navigate-for-speedy-snapchat-videos/"><u>[Updated] Novice's Navigate for Speedy Snapchat Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-genesis-milestones-in-its-historical-trajectory/"><u>AI Genesis: Milestones in Its Historical Trajectory</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ensuring-permanence-in-the-ephemeral-web-the-importance-of-archiving-internet-content/"><u>Ensuring Permanence in the Ephemeral Web: The Importance of Archiving Internet Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-ready-to-enhance-your-mobile-experience-with-these-exciting-iphone-ebeet/"><u>Get Ready to Enhance Your Mobile Experience with These Exciting iPhone Ebeet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-out-securing-your-online-privacy/"><u>GPT Out: Securing Your Online Privacy</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Oppo A79 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/insider-secrets-macs-top-rated-snipping-software-list-for-2024/"><u>Insider Secrets Mac's Top-Rated Snipping Software List for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rethinking-the-need-for-an-iphone-16-insights-into-apple-innovation/"><u>Rethinking the Need for an iPhone 16? Insights Into Apple Innovation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-compilation-of-small-tablet-rankings-professional-insights-and-evaluations-zdnet/"><u>Ultimate Compilation of Small Tablet Rankings : Professional Insights and Evaluations | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-gpt-4-an-in-depth-look-at-7-integrated-apps/"><u>Understanding GPT-4: An In-Depth Look at 7 Integrated Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-excels-true-potential-with-these-3-ai-innovations/"><u>Unlocking Excel's True Potential with These 3 AI Innovations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-campaigns-selecting-the-best-7-total-war-victories/"><u>[Updated] 2024 Approved Ultimate Campaigns Selecting the Best 7 Total War Victories</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-mastering-the-art-of-adding-youtube-playlists-to-your-website-seamlessly/"><u>[Updated] In 2024, Mastering the Art of Adding YouTube Playlists to Your Website Seamlessly</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-streamlining-video-production-mastering-the-use-of-obs-and-zoom/"><u>[Updated] Streamlining Video Production Mastering the Use of OBS & Zoom</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-charting-your-path-to-success-in-youtubes-earnings-system/"><u>2024 Approved Charting Your Path to Success in YouTube's Earnings System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-discontinues-finewoven-series-making-way-for-the-arrival-of-new-beats-case-lines-insights-from-zdnet/"><u>Apple Discontinues FineWoven Series: Making Way for the Arrival of New Beats Case Lines - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/commanding-machine-consciousness-towards-goodness/"><u>Commanding Machine Consciousness Towards Goodness</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-spot-a-chatgpt-phishing-siteand-what-to-do-if-you-spot-one/"><u>How to Spot a ChatGPT Phishing Site—And What to Do if You Spot One</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-xr-official-method-to-unlock-your-iphone-xr-by-drfone-ios/"><u>How To Unlock iPhone XR Official Method to Unlock Your iPhone XR</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-14-plus-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 14 Plus to Samsung | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transforming-iphone-images-into-artful-collages/"><u>Transforming iPhone Images Into Artful Collages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-text-ideas-into-podcast-form/"><u>Transforming Text Ideas Into Podcast Form</u></a></li>
 </ul></div>
 

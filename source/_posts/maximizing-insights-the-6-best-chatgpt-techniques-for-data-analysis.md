@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Insights: The 6 Best ChatGPT Techniques for Data Analysis"
-date: 2024-08-29T19:40:49.108Z
-updated: 2024-08-30T19:40:49.108Z
+date: 2025-01-30T11:44:40.411Z
+updated: 2025-01-31T18:36:10.155Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 **SCROLL TO CONTINUE WITH CONTENT**
 
  Though ChatGPT has been proven to generate conversational text, it has been a valuable asset for people across various industries. For data analysts, ChatGPT can be used to enhance their analytical capabilities and handle complex data challenges. Let’s look at some ways data analysts can use ChatGPT to be more productive in their day-to-day work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Refine Ideas About a Task
 
@@ -53,23 +57,15 @@ CALCULATE(
 
 ![A prompt response from ChatGPT about a debugging task](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image1-v1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 3\. To Interpret Data and Explain Complex Code
 
 ![A prompt from ChatGPT that displays the explaination of a code block](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image6-v1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
  ChatGPT proves helpful when attempting to understand a long or complex piece of code. To comprehend the code in these situations, copy and paste the code you're attempting to understand and request a response by saying, "Explain this code."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. To Write, Edit and Generate Codes, Formula, and Syntax
 
@@ -98,11 +94,9 @@ else:
 ![A prompt that display clearly written code by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image4-v1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
+
 ## 5\. Learning New Skills
 
  We have an article on how you can [add a static date and time in Google Sheets](https://www.makeuseof.com/add-static-date-time-google-sheets/). You can use ChatGPT to learn more about this topic or how to do something similar in a different application. For example, how to add a static date and time in Tableau.
@@ -110,6 +104,10 @@ else:
 ![A prompt that show how to add a static date and time in Tableau.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image5-v1.jpg)
 
  By writing a prompt, you can learn about new features and skills, or how to use a specific function in your favorite analytical tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Document Your Codes
 
@@ -139,8 +137,6 @@ else:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,8 +159,6 @@ else:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,8 +174,6 @@ else:
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -266,11 +258,9 @@ ORDER BY e.employee_id;`
 ![A prompt reply from ChatGPT that show a fully commented SQL code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image2-v1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Data Analysts Can Use ChatGPT in Their Work
 
  Powerful AI solutions like ChatGPT boost everyone's productivity, even data analysts. Using ChatGPT's natural language processing capabilities and asking the right prompt, data analysts can quickly and accurately get ideas and insight into their tasks.
@@ -287,8 +277,6 @@ ORDER BY e.employee_id;`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -296,4 +284,19 @@ ORDER BY e.employee_id;`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-create-enhance-and-share-with-top-10-free-drawing-programs-on-mac/"><u>[New] Create, Enhance & Share With Top 10 Free Drawing Programs on Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enjoy-apples-cutting-edge-3d-experience-with-meta-quest-3-tutorial-zdnet/"><u>Enjoy Apple's Cutting-Edge 3D Experience with Meta Quest 3 - Tutorial | Zdnet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/extended-examination-of-uncomplicated-hdr-photography-for-2024/"><u>Extended Examination of Uncomplicated HDR Photography for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-secrets-to-more-likes-on-your-tiktok-unpacks/"><u>In 2024, Secrets to More Likes on Your TikTok Unpacks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/laughter-labyrinths-by-ai-exploring-digital-jest/"><u>Laughter Labyrinths by AI: Exploring Digital Jest</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/macbook-showdown-decoding-your-needs-to-select-between-macbook-pro-and-air-insights-from-zdnet/"><u>MacBook Showdown: Decoding Your Needs to Select Between MacBook Pro & Air | Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/mediameld-mixer-for-2024/"><u>MediaMeld Mixer for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-s17-pro-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo S17 Pro and Browser | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/quick-guide-speeding-up-your-vimeo-uploads-with-effective-video-compression-techniques/"><u>Quick Guide: Speeding Up Your Vimeo Uploads with Effective Video Compression Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-apple-watchs-endurance-top-8-configurations-for-extended-battery-performance-insights-from-zdnet/"><u>Revolutionize Your Apple Watch's Endurance: Top 8 Configurations for Extended Battery Performance - Insights From ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-downloading-the-official-asus-wireless-network-adapter-drivers/"><u>Step-by-Step Guide: Downloading the Official ASUS Wireless Network Adapter Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncomplicated-gpt-or-plugin-boosted-chat-interactions-your-call/"><u>Uncomplicated GPT Or Plugin-Boosted Chat Interactions? Your Call</u></a></li>
+</ul></div>
 

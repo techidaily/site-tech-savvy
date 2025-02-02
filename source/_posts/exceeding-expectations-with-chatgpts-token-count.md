@@ -1,7 +1,7 @@
 ---
 title: Exceeding Expectations with ChatGPT's Token Count
-date: 2024-08-29T19:42:29.207Z
-updated: 2024-08-30T19:42:29.207Z
+date: 2025-01-28T01:15:11.701Z
+updated: 2025-02-01T00:08:52.509Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
  Let's take a step back and give you an insight into all there is to know about the app's underlying working mechanisms.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's a ChatGPT Token?
 
  If you go by the app's façade, all you see is a computer language that obeys your commands and gives you the answers you seek. However, the backend is just lots of code, learning every minute, and getting up to speed with the questions it answers.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
  ChatGPT converts each word into a legible token whenever you ask a question. To break it down further, tokens are text fragments, and each programming language uses a different set of token values to understand the requirements.
 
 ![Comparison operators and boolean logic with cpp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cpp-coding-samples.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Since computers don't understand text values directly, they break them down into a combination of numbers, often called embeddings. You can even consider embeddings like [Python lists](https://www.makeuseof.com/tag/arrays-lists-in-python/), which resemble a list of related numbers, such as \[1.1,2.1,3.1,4.1…n\].
 
@@ -66,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 ![OpenAI dashboard with credit usage graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/token-dashboard-openai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### ChatGPT Plus: Is the Paid Subscription Worth It?
 
  To take it up a notch, you can even sign up for the [ChatGPT Plus Offer](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), which sets you back by $20 a month. Given the extensive usage and popularity of the entire AI model, here are the top features of the paid subscription model:
@@ -79,15 +88,13 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
  If you feel these features are entirely worth it and up your alley, you can enroll for the paid subscription and benefit from them immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Token Pricing Structure
 
 ![Set of black opened envelope and cash dollars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-karolina-grabowska-4386370.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  There are a few different application models available, which you can choose based on your requirements:
 
 | Model             | Input Price for 1000 tokens (prompt) | Output Price for 1000 tokens (completion) |
@@ -104,9 +111,6 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
  Ada is the fastest, while DaVinci is the most powerful model from this list of models. The prompt is the question, while the completion deals with the answers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Maximum Token Limits
 
  Each model allows you to set the maximum number of tokens within each query. This method controls the maximum number of tokens the application generates in a single call, limiting the output. The max\_token feature is quite useful, especially when you want to control the length of your output while avoiding overusing your token usage and credits. The default length is fixed at 2,048 tokens, while the maximum can be set at 4,096 tokens.
@@ -130,8 +134,9 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
  For example, within the ChatGPT model, the **prompt\_tokens + max\_tokens <= 4096** tokens**.**
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Learn to Control Your ChatGPT Prompts for Best Results
 
  No matter how you use the AI-driven application, chances are you will have to devise ways to play smartly with your questions and phrases. Depending on your usage patterns, you will likely use ChatGPT extensively for every task.
@@ -144,14 +149,11 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
  Let's take a step back and give you an insight into all there is to know about the app's underlying working mechanisms.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -160,4 +162,22 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-savvy.techidaily.com/1-exclusive-lodging-welcomes-apple-airplay-enhance-your-stay-with-hygienic-media-control/"><u>1. Exclusive Lodging Welcomes Apple AirPlay: Enhance Your Stay with Hygienic Media Control</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-cyclings-finest-gaming-experiences/"><u>2024 Approved Cycling's Finest Gaming Experiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-controller-and-device-a-beginners-guide-to-android-setup/"><u>Bridging Controller and Device: A Beginner's Guide to Android Setup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversing-with-giants-the-new-era-of-ai-comparison-between-gemini-and-chatgpt/"><u>Conversing with Giants: The New Era of AI Comparison Between Gemini and ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-nlps-innovations-bert-vs-gpt-analysis/"><u>Dissecting NLP's Innovations: BERT vs GPT Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-buzz-around-apples-upcoming-ar-spectacles-and-economical-vision-devices-what-we-know-so-far-innovatetech/"><u>Exploring the Buzz Around Apple's Upcoming AR Spectacles & Economical Vision Devices – What We Know So Far | InnovateTech</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/framing-your-lifes-journey-with-digital-clarity-and-precision/"><u>Framing Your Life's Journey with Digital Clarity & Precision</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-webcams-to-elevate-your-zoom-video-conferencing-for-2024/"><u>Ideal Webcams to Elevate Your Zoom Video Conferencing for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-tecno-camon-30-pro-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Tecno Camon 30 Pro 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-pairings-the-science-of-matching-music-with-imagery/"><u>Perfect Pairings The Science of Matching Music with Imagery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/sdr-to-hdri-step-by-step-video-enhancement-guide-for-2024/"><u>SDR to HDRI Step-by-Step Video Enhancement Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-connectivity-addressing-errors-between-chatgpt-and-plugins/"><u>Streamlining Connectivity: Addressing Errors Between ChatGPT & Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-list-of-2024s-finest-magsafe-wallets-in-depth-analysis-and-expert-opinions/"><u>Ultimate List of 2024'S Finest MagSafe Wallets: In-Depth Analysis and Expert Opinions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-dialogue-with-chatgpt-now/"><u>Unleash Dialogue with ChatGPT Now</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/whats-fresh-with-facebook-latest-info-here/"><u>What’s Fresh with Facebook? Latest Info Here</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Conversations Demystified: Exploring the 8 Problematic Areas of GPT"
-date: 2024-08-25T17:37:53.714Z
-updated: 2024-08-26T17:37:53.714Z
+date: 2025-01-24T22:09:37.360Z
+updated: 2025-01-31T20:15:33.337Z
 tags:
   - chatgpt
   - open-ai
@@ -31,9 +31,17 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 
 ![Screenshot of ChatGPT interface.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chat-gpt-open-ai.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It was trained on all sorts of text from the internet, such as Wikipedia, blog posts, books, and academic articles. Alongside responding to you in a human-like way, it can recall information about our present-day world and pull up historical information from our past.
 
  Learning [how to use ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) is simple, and it's equally easy to be fooled into thinking that the AI system performs without any trouble. However, since its release, key problems have emerged around privacy, security, and its wider impact on people's lives, from jobs to education.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Security Threats and Privacy Concerns
 
@@ -53,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 
  You might not think that you would share your personal details so easily, but we're all susceptible to a slip of the tongue, and a good example of this is how a [Samsung employee shared company information with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Concerns Over ChatGPT Training and Privacy Issues
 
  Following the massively popular launch of ChatGPT, critics have questioned how OpenAI trained its model in the first place.
@@ -72,15 +76,13 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
  Unless OpenAI publishes its training data, the lack of transparency makes it difficult to know whether it was done lawfully. We don't know the details about how ChatGPT is trained, what data was used, where the data comes from, or what the system's architecture looks like in detail.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. ChatGPT Generates Wrong Answers
 
 ![A sheep in front of a blackboard with a wrong math equation displayed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wrong-math-answer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  It fails at basic math, can't seem to answer simple logic questions, and will even go as far as to argue completely incorrect facts. As people across social media will attest, ChatGPT can get it wrong multiple times.
 
 [OpenAI](https://openai.com/blog/chatgpt/) knows about this limitation, writing that: "ChatGPT sometimes writes plausible-sounding but incorrect or nonsensical answers." This "hallucination" of fact and fiction, as it's been referred to, is especially dangerous regarding things like medical advice or getting the facts right on key historical events.
@@ -95,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 
  You can see more hilarious hallucinations in our comparison between [ChatGPT vs. Microsoft Bing AI vs. Google Bard](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/). It's not hard to imagine people using ChatGPT to get quick facts and information, expecting those results to be true. But so far, ChatGPT can't get it right, and teaming up with an equally inaccurate Bing search engine only made things worse.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. ChatGPT Has Bias Baked Into Its System
 
  ChatGPT was trained on the collective writing of humans across the world, past and present. Unfortunately, this means that the same biases in the real world can also appear in the model.
@@ -113,8 +112,9 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
  By contrast, a similar AI chatbot called Sparrow—owned by Google's parent company, Alphabet—was released in September 2022\. However, it was purposely kept behind closed doors because of similar safety concerns. Around the same time, Facebook released an AI language model called Galactica, intended to help with academic research. However, it was rapidly recalled after many people criticized it for outputting wrong and biased results related to scientific research.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. ChatGPT Might Take Jobs From Humans
 
 ![litlte girl holding hands with robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/litlte-girl-holding-hands-with-robot.jpg)
@@ -144,8 +144,9 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
  In the short term, schools and universities are updating their policies and ruling whether students can or cannot use AI to help them with an assignment. It's not only English-based subjects that are at risk either; ChatGPT can help with any task involving brainstorming, summarizing, or drawing analytical conclusions.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. ChatGPT Can Cause Real-World Harm
 
  It wasn't long before someone tried to [jailbreak ChatGPT](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/), resulting in an AI model that could bypass OpenAI's guard rails meant to prevent it from generating offensive and dangerous text.
@@ -157,8 +158,9 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 ![Close-up of computer code on a screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chat-gpt-scammers-malware.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The rate at which ChatGPT can produce information has already caused problems for Stack Exchange, a website dedicated to providing correct answers to everyday questions. Soon after ChatGPT was released, users flooded the site with answers they asked ChatGPT to generate.
 
  Without enough human volunteers to sort through the backlog, it would be impossible to maintain a high level of quality answers. Not to mention, many of the answers were incorrect. To avoid the website being damaged, a ban was placed on all answers generated using ChatGPT.
@@ -201,8 +203,6 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +210,22 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-metaverse-metaphors-discovering-6-detailed-instances/"><u>[New] 2024 Approved Metaverse Metaphors Discovering 6 Detailed Instances</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-iphone-showdown-choosing-between-the-iphone-16-and-iphone-15-the-ultimate-guide-for-enthusiasts/"><u>Apple iPhone Showdown: Choosing Between the iPhone 16 and iPhone 15 - The Ultimate Guide for Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-chatgpt-signal-a-new-chapter-for-student-essay-standards/"><u>Does ChatGPT Signal a New Chapter for Student Essay Standards?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhanced-visual-splendor-adding-filters-to-media-pc-and-mobile/"><u>Enhanced Visual Splendor Adding Filters to Media (PC & Mobile)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-guide-incorporating-visual-annotations-in-edits-for-2024/"><u>Essential Guide Incorporating Visual Annotations in Edits for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/how-can-i-enhance-the-efficiency-of-my-computers-memory-expert-tips-from-yl-computing/"><u>How Can I Enhance the Efficiency of My Computer's Memory? - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-successfully-start-pathfinder-wrath-of-the-righteous-when-it-fails-to-open/"><u>How to Successfully Start Pathfinder: Wrath of the Righteous When It Fails to Open</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-character-voiceovers-and-personas-for-dynamic-tiktok-content/"><u>In 2024, Character Voiceovers and Personas for Dynamic TikTok Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-ai-auto-gpt-installation-guide/"><u>Mastering AI: Auto-GPT Installation Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/student-papers-vs-ai-outputs-the-modern-educational-crossroads/"><u>Student Papers Vs. AI Outputs: The Modern Educational Crossroads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/taming-your-numbers-nightmare-excel-plus-chatgpt-strategies/"><u>Taming Your Numbers Nightmare: Excel + ChatGPT Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-mini-tablet-computers-comprehensive-reviews-and-analysis-by-tech-experts/"><u>Top Rated Mini Tablet Computers - Comprehensive Reviews & Analysis by Tech Experts</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-the-samsung-galaxy-s20-fe-with-5g-the-perfect-choice-for-tech-enthusiasts/"><u>Ultimate Guide to the Samsung Galaxy S20 FE with 5G - The Perfect Choice for Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows-vs-apple-silicon-can-arm-architecture-propel-microsoft-ahead-in-the-chip-race/"><u>Windows Vs. Apple Silicon: Can ARM Architecture Propel Microsoft Ahead in the Chip Race?</u></a></li>
+</ul></div>
 

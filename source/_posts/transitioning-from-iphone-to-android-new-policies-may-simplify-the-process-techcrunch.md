@@ -1,7 +1,7 @@
 ---
 title: Transitioning From iPhone to Android? New Policies May Simplify the Process | TechCrunch
-date: 2025-01-08T00:23:04.555Z
-updated: 2025-01-12T22:22:20.668Z
+date: 2025-01-28T03:24:23.423Z
+updated: 2025-02-01T07:24:01.643Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,18 +126,17 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/1722992838037-fixed-maplestory-cant-launch/"><u>[Fixed] Maplestory Can’t Launch</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-comprehensive-guide-to-enhancing-your-video-gaming-channels/"><u>[New] The Comprehensive Guide to Enhancing Your Video Gaming Channels</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nveiling-8-best-tools-for-youtube-to-avi-conversion/"><u>[New] Unveiling 8 Best Tools for YouTube to AVI Conversion</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unlocking-every-participants-placement-in-google-meet/"><u>[Updated] 2024 Approved Unlocking Every Participant’s Placement in Google Meet</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/a-complete-guide-of-screenrec-for-laptop/"><u>A Complete Guide of ScreenRec for Laptop</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparative-edge-of-ai-titans-pitting-gpt-against-microsoftgoogles-contenders/"><u>Comparative Edge of AI Titans: Pitting GPT Against Microsoft/Google's Contenders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/does-chatgpt-protect-our-secrets/"><u>Does ChatGPT Protect Our Secrets?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevating-eyebrows-top-ten-meme-design-tips/"><u>Elevating Eyebrows - Top Ten Meme Design Tips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-filmmaking-made-simple-crafting-an-impactful-youtube-subscribe-button/"><u>In 2024, Filmmaking Made Simple Crafting an Impactful YouTube Subscribe Button</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximize-chatgpts-capabilities-with-simple-plugin-steps/"><u>Maximize ChatGPT's Capabilities with Simple Plugin Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-the-full-potential-of-your-images-with-dall-es-format-conversion/"><u>Unlock the Full Potential of Your Images with DALL-E's Format Conversion</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-how-to-make-an-emoji-of-yourself-on-android-and-iphone-emoji-yourself-for-2024/"><u>Updated How to Make an Emoji of Yourself on Android and iPhone Emoji Yourself for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/winx-dvd-ripper-platinum-100/"><u>WinX DVD Ripper Platinum購入ガイド - オフィシャルサイトから100%安心でセキュリティ対策済み</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-key-concepts-in-image-manipulation/"><u>[New] 2024 Approved Key Concepts in Image Manipulation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-scouring-for-meaningful-youtube-discussions/"><u>[Updated] 2024 Approved Scouring for Meaningful YouTube Discussions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unlocking-fb-content-windows-plus-mac-methods/"><u>[Updated] In 2024, Unlocking FB Content Windows + Mac Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-renaissance-essential-new-aspects-for-gpt-5/"><u>AI Renaissance: Essential New Aspects for GPT-5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/career-safety-net-protecting-against-ai-takeover/"><u>Career Safety Net: Protecting Against AI Takeover?</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-link-onedrive-to-your-microsoft-account-on-windows/"><u>How to Link OneDrive to Your Microsoft Account on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reviving-troubled-sonos-owners-a-guide-on-how-apples-intervention-could-help/"><u>Reviving Troubled Sonos Owners: A Guide on How Apple's Intervention Could Help</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/strategies-to-successfully-broadcast-facespace-lives-on-tv/"><u>Strategies to Successfully Broadcast Facespace Lives on TV</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-8-wav-to-mp3-conversion-tools-compare-windows-mac-and-online-options/"><u>Top 8 WAV to MP3 Conversion Tools: Compare Windows, Mac & Online Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/turing-test-overview-and-possibility-of-surpassing/"><u>Turing Test Overview & Possibility of Surpassing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-prime-day-specials-for-tablets-in-2amo-score-amazing-deals-still-available-now/"><u>Unbeatable Prime Day Specials for Tablets in 2Amo: Score Amazing Deals Still Available Now!</u></a></li>
 </ul></div>
 

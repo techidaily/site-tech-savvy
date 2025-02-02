@@ -1,7 +1,7 @@
 ---
 title: "From Subpar to Spectaculous: Elevating Proposals with GPT-3"
-date: 2024-08-29T19:41:36.992Z
-updated: 2024-08-30T19:41:36.992Z
+date: 2025-01-30T06:48:03.298Z
+updated: 2025-02-01T11:55:30.978Z
 tags:
   - chatgpt
   - open-ai
@@ -54,8 +54,13 @@ thumbnail: https://thmb.techidaily.com/21333b0674dae8e987dce32ef856602446e7d37aa
 ![Generating a standard proposal with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/generating-a-standard-proposal-with-chatgpt-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Generate an Outline for Your Proposal With ChatGPT
 
  Once you have the standard outline, it's time to tailor it to your specific proposal. ChatGPT remembers the messages in a specifc conversation, so all you have to do is to ask it to fill in the blank outline for your proposal's title.
@@ -67,13 +72,11 @@ thumbnail: https://thmb.techidaily.com/21333b0674dae8e987dce32ef856602446e7d37aa
 ![Filling a proposal outline with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/filling-a-proposal-outline-with-chatgpt-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Note that this prompt works best if you use it right after getting the standard proposal outline from the previous step. Otherwise, you'll have to copy the standard outline into your prompt, which isn't ideal.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Write Out the Full Proposal With ChatGPT
 
  With your outline at hand, you can now flesh out the proposal and fill in the gaps. ChatGPT can assist you in writing the full content of your proposal, ensuring that each section is coherent, well-structured, and persuasive. A prerequisite to this is that you thoroughly study the outline and decide which parts you want to expand.
@@ -85,13 +88,11 @@ thumbnail: https://thmb.techidaily.com/21333b0674dae8e987dce32ef856602446e7d37aa
 ![Expanding a proposal outline with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/expanding-a-proposal-outline-with-chatgpt-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Repeat this for other sections; before you know it, you'll have a thorough, well-written proposal. Take the time to review and refine your proposal until you're confident it's ready for presentation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Tips for Using ChatGPT to Generate a Proposal
 
  Crafting persuasive proposals with ChatGPT requires both knowledge of proposals and ChatGPT. These qualities work together to produce incredible proposals. To improve your results when using ChatGPT to write proposals, consider the following tips:
@@ -105,8 +106,9 @@ thumbnail: https://thmb.techidaily.com/21333b0674dae8e987dce32ef856602446e7d37aa
 7. **Proofread**: Always proofread the content generated by ChatGPT to catch mistakes and inconsistencies. Despite its prowess, [ChatGPT can't answer every question](https://www.makeuseof.com/things-chatgpt-cant-do/). In such cases, it might provide incorrect information instead of admitting it doesn't know.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Seal the Deal by Harnessing ChatGPT's Power
 
  Thanks to ChatGPT, writing proposals has never been easier. By leveraging the chatbot's capabilities, you can focus on crafting innovative ideas while ChatGPT assists you in articulating them effectively.
@@ -117,14 +119,11 @@ thumbnail: https://thmb.techidaily.com/21333b0674dae8e987dce32ef856602446e7d37aa
 
  Writing proposals can be daunting and time-consuming, especially if you haven't done it before. ChatGPT can be a valuable tool to assist you in this endeavor. With ChatGPT's help, you can quickly generate an outline for your proposal and elaborate on it to produce a full proposal that is both professional and persuasive.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,4 +132,22 @@ thumbnail: https://thmb.techidaily.com/21333b0674dae8e987dce32ef856602446e7d37aa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-enhancing-engagement-essential-video-formats-for-youtube-viewers/"><u>[Updated] In 2024, Enhancing Engagement Essential Video Formats for YouTube Viewers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-kodi-media-center-multimedia-alternative-for-pcs/"><u>[Updated] Kodi Media Center Multimedia Alternative for PCs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-action-in-pixelation-top-3-strategies-for-sports-gameplay-recordings/"><u>2024 Approved Action in Pixelation Top 3 Strategies for Sports Gameplay Recordings</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-free-apple-iphone-se-imei-checker-by-drfone-ios/"><u>Best Free Apple iPhone SE IMEI Checker</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cyber-threats-evolving-chatgpts-emergence-as-a-potential-risk/"><u>Cyber Threats Evolving: ChatGPT's Emergence as a Potential Risk</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-guide-engage-with-audio-content-seamlessly/"><u>In 2024, IPhone Guide Engage with Audio Content Seamlessly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphone-photography-mastery-focusing-on-the-micro-and-macro-for-2024/"><u>IPhone Photography Mastery Focusing on the Micro & Macro for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-transformation-after-three-years-unused-insights/"><u>IPhone Transformation After Three Years Unused - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-building-tips-from-toms-hardware-experts/"><u>Mastering PC Building Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-level-sound-without-the-high-cost-explore-why-beats-new-solo-earbuds-are-your-sub-100-solution-compared-to-apples-airpods/"><u>Next-Level Sound Without the High Cost: Explore Why Beats’ New Solo Earbuds Are Your Sub-$100 Solution Compared to Apple’s AirPods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplifying-sticker-setup-addressing-the-most-frequent-issues/"><u>Simplifying Sticker Setup: Addressing the Most Frequent Issues</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-google-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Google? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-functionality-puzzle-deciphering-7-gpt-4-apps/"><u>The Functionality Puzzle: Deciphering 7 GPT-4 Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-insiders-method-for-earning-the-prestigious-instagram-verification/"><u>The Insider's Method for Earning the Prestigious Instagram Verification</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-childrens-tablets-as-endorsed-by-parents-insights/"><u>Top-Rated Children's Tablets as Endorsed by Parents | Insights</u></a></li>
+</ul></div>
 

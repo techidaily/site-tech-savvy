@@ -1,7 +1,7 @@
 ---
 title: "Revolutionized Search: Microsoft's AI-Infused Bing"
-date: 2025-01-23T20:37:45.765Z
-updated: 2025-01-24T17:45:22.705Z
+date: 2025-01-31T00:41:53.409Z
+updated: 2025-01-31T22:18:44.128Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the Microsoft Prometheus Model?
 
  Microsoft has branded Bing and the Edge browser as your AI copilot for the web. Undoubtedly, the new [AI-powered Bing packs some huge upgrades](http://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , but it’s essential to understand how they’re made possible.
@@ -39,12 +35,16 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 ![OpenAI logo up-close on a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-ai-web-apps.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft Prometheus is a specialized artificial intelligence model for superior web searching and querying and is fundamentally based on OpenAI’s GPT3.5 and ChatGPT models. Its capabilities are optimized for rapidly fetching relevant and accurate search results without compromising user safety.
 
  The Prometheus model powers the new Bing to deliver summarized search results that are more relevant and can even answer composite search queries.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A New Generation of AI for Web Searching
 
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 ![Google app on the home screen of a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-google-fi-phones.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the AI-powered Bing, you can specifically query it to give you a list of important points related to your Science class, and Bing will provide you with precisely that. You won’t have to explore multiple retrieved search results. Instead, you can rest assured that Bing has all the correct answers you need, thanks to its AI-powered search algorithm.
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
  You can also use Bing as your AI chatbot and query it for simple questions like “What’s the weather going to be like in two weeks?” and even complex queries such as “I enjoyed Coachella, what similar music festivals should I visit?”. If you’re not satisfied with Bing’s answer, you can ask it to refine the response per your needs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A New Era for Web Browsers as Well?
@@ -72,13 +72,13 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 
 ![Icons of multiple web browsers on a wooden board background](https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b7932652ed0826ec0104cd05df9774.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While we’re certainly still a long way from seeing web browsers go obsolete, but we can expect functional upgrades that make it easy to access AI-powered web searching and content generation. Perhaps other browsers, such as Chrome and Opera, will adopt something similar to Edge’s new AI sidebar.
 
 [Google is expected to release its Bard competitor](https://www.makeuseof.com/google-launching-bard-ai-compete-with-chatgpt/) to Microsoft’s AI-powered Bing very soon. Once it’s launched and possibly integrated with Google Chrome, we’ll have a better idea of how web browsers will evolve in the coming future.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bing Redefines Searching Using AI
 
@@ -99,19 +99,18 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/asus-notebook-drivers-free-download-and-update-instructions/"><u>ASUS Notebook Drivers: Free Download and Update Instructions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-meal-choices-gpt-written-guide/"><u>Enhancing Meal Choices: GPT' Written Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-insight-on-the-new-iphone-15-superior-choice-for-professionals-in-depth-analysis/"><u>Expert Insight on the New iPhone 15: Superior Choice for Professionals | In-Depth Analysis</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-poco-x6-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/identifying-active-airtags-are-they-monitoring-your-movements-insights/"><u>Identifying Active AirTags - Are They Monitoring Your Movements? [Insights]</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-best-8-youtube-thumbnail-grabbers-you-should-know/"><u>In 2024, Best 8 YouTube Thumbnail Grabbers You Should Know</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-11-pro-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone 11 Pro Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-the-world-of-chatgpt-plus-membership/"><u>Inside the World of ChatGPT Plus Membership</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-infinix-hot-40-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Infinix Hot 40 Pro? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-mastering-fcp-5-essential-editing-techniques/"><u>New 2024 Approved Mastering FCP 5 Essential Editing Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/proven-approaches-to-exceptional-android-time-lapse-photography-for-2024/"><u>Proven Approaches to Exceptional Android Time-Lapse Photography for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/separating-script-from-synthesis-authenticity-auditing-techniques/"><u>Separating Script From Synthesis: Authenticity Auditing Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-chatgpts-alleged-deceptions/"><u>Unveiling ChatGPT’s Alleged Deceptions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-quality-cameras-on-a-shoestring-budget/"><u>[Updated] Quality Cameras on a Shoestring Budget</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-efficient-techniques-recording-saving-and-converting-movies-in-win-11/"><u>2024 Approved Efficient Techniques Recording, Saving, and Converting Movies in Win 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-energize-with-these-10-inspiring-movies/"><u>2024 Approved Energize with These 10 Inspiring Movies</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-flawless-endgame-in-vr-worlds/"><u>2024 Approved Flawless Endgame in VR Worlds</u></a></li>
+<li><a href="https://win-studio.techidaily.com/diagnosing-startup-issues-in-windows-systems-with-expert-advice-from-yl-software-experts/"><u>Diagnosing Startup Issues in Windows Systems with Expert Advice From YL Software Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/export-and-share-with-ease-top-4-applications-for-gpt-3-histories/"><u>Export & Share with Ease: Top 4 Applications for GPT-3 Histories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-to-governance-in-artificial-worlds/"><u>Guide to Governance in Artificial Worlds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/has-ai-outpaced-openais-restraint/"><u>Has AI Outpaced OpenAI's Restraint?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-samsung-galaxy-z-fold-5-easily-by-drfone-android/"><u>How To Unlock a Samsung Galaxy Z Fold 5 Easily?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/izing-youtube-visibility-with-key-hashtags-for-2024/"><u>Maximizing YouTube Visibility with Key #Hashtags for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pixel-6-pro-versus-iphone-13-pro-in-depth-comparison-and-buyers-guide-for-the-ultimate-smartphone/"><u>Pixel 6 Pro versus iPhone 13 Pro: In-Depth Comparison and Buyer's Guide for the Ultimate Smartphone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-content-with-chatgpt-techniques/"><u>Revolutionizing Content with ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-exclusive-deal-on-new-apple-pencil-2nd-gen-for-just-95-perfect-gift-idea-this-labor-day-sourced-by-zdnet/"><u>Unlock Exclusive Deal on New Apple Pencil (2Nd Gen) for Just $95 - Perfect Gift Idea This Labor Day, Sourced by ZDNET!</u></a></li>
 </ul></div>
 
